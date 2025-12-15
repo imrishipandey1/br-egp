@@ -2,9 +2,11 @@ name: Update EPG Schedule
 
 on:
   schedule:
-    # Runs daily at 00:30 São Paulo time (03:30 UTC during standard time, 02:30 UTC during DST)
-    - cron: '30 3 * * *'
-  workflow_dispatch:  # Manual trigger
+    # Run at 12:10 AM Brazilian time (UTC-3)
+    # 12:10 AM BRT = 3:10 AM UTC (considering standard time)
+    # Note: During DST (Oct-Feb), BRT is UTC-2, so adjust if needed
+    - cron: '10 3 * * *'
+  workflow_dispatch: # Manual trigger
 
 permissions:
   contents: write
@@ -21,18 +23,17 @@ jobs:
       uses: actions/setup-python@v5
       with:
         python-version: '3.11'
-        
-    - name: Install dependencies
-      run: |
-        pip install -r requirements.txt
-        
+    
     - name: Run EPG scraper
       run: |
         python epg_scraper.py
-        
+    
     - name: Commit and push changes
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add schedule/*.json
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update EPG schedule - $(TZ='America/Sao_Paulo' date +'%Y-%m-%d %H:%M')" && git push)
+        git diff --cached --quiet || git commit -m "Update EPG schedule - $(TZ='America/Sao_Paulo' date +'%d/%m/%Y %H:%M:%S')"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
