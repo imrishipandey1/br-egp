@@ -1,32 +1,58 @@
 name: Update EPG Schedules
 
+# Trigger configuration
 on:
   schedule:
-    - cron: '30 3 * * *' # 12:00 AM Brazil time (UTC+3)
+    # Runs at 07:00 UTC daily (04:00 AM Sao Paulo time)
+    - cron: '0 7 * * *'
+  # Allows manual execution from the Actions tab for debugging
   workflow_dispatch:
 
+# SECURITY: Grant write permission to the token for committing JSON files
+permissions:
+  contents: write
+
 jobs:
-  update:
+  epg_extraction:
     runs-on: ubuntu-latest
-
+    
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        # Standard checkout step to access scripts and channel list
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - name: Setup Python Environment
+        uses: actions/setup-python@v4
         with:
-          python-version: '3.11'
+          python-version: '3.10' 
+          # 3.10 provides robust support for modern type hinting and threading
 
-      - name: Install dependencies
-        run: pip install requests
-
-      - name: Run EPG scraper
-        run: python epg_scraper.py
-
-      - name: Commit & push
+      - name: Install Dependencies
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add schedule/
-          git commit -m "Auto update EPG schedules" || exit 0
-          git push
+          python -m pip install --upgrade pip
+          # Explicitly install required libraries
+          # requests for HTTP, pytz for Timezone math
+          pip install requests pytz
+
+      - name: Execute EPG Scraper
+        run: |
+          python epg_scraper.py
+        # This step runs the script analyzed in Section 4
+
+      - name: Commit and Push Results
+        run: |
+          # Configure git bot user
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Add the generated schedule directories
+          git add schedule/today/
+          git add schedule/tomorrow/
+          
+          # Check for changes before committing to avoid empty commit errors
+          if git diff --staged --quiet; then
+            echo "No changes detected in EPG data. Skipping commit."
+          else
+            git commit -m "Auto-update: EPG Schedules for $(date +'%Y-%m-%d')"
+            git push
+          fi
