@@ -9,7 +9,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import pytz
 
 # --- Configuration Constants ---
-XML_SOURCE_URL = "https://raw.githubusercontent.com/globetvapp/epg/refs/heads/main/Brazil/brazil1.xml"
+XML_SOURCE_URL = "[https://raw.githubusercontent.com/globetvapp/epg/refs/heads/main/Brazil/brazil1.xml](https://raw.githubusercontent.com/globetvapp/epg/refs/heads/main/Brazil/brazil1.xml)"
 CHANNEL_LIST_FILE = "__channel.txt"
 OUTPUT_DIR_TODAY = os.path.join("schedule", "today")
 OUTPUT_DIR_TOMORROW = os.path.join("schedule", "tomorrow")
@@ -53,13 +53,15 @@ def parse_xmltv_date(date_str):
     Parses an XMLTV date string (YYYYMMDDhhmmss +/-hhmm) into a 
     timezone-aware datetime object localized to Sao Paulo.
     """
+    if not date_str:
+        return None
     try:
         # The %z directive handles the offset (+0000 or -0300)
+        # XMLTV dates are typically "20251218013000 +0000"
         dt_aware = datetime.strptime(date_str.strip(), '%Y%m%d%H%M%S %z')
-        # Convert to target timezone
+        # Convert to target timezone (Sao Paulo)
         return dt_aware.astimezone(TARGET_TIMEZONE)
     except ValueError:
-        # Handle cases where the format might vary or lack whitespace
         try:
              # Fallback for formats without space before timezone
             dt_aware = datetime.strptime(date_str.strip(), '%Y%m%d%H%M%S%z')
@@ -114,20 +116,24 @@ def process_channel(channel_id, programmes, target_dates):
             continue
 
         # Base show object
+        # show_logo handles the "blank if not available" requirement
+        icon_node = prog.find('icon')
+        show_logo = icon_node.get('src') if icon_node is not None else ""
+        
         show_info = {
             "show_name": get_node_text(prog, 'title'),
-            "show_logo": prog.find('icon').get('src') if prog.find('icon') is not None else "",
+            "show_logo": show_logo,
             "episode_description": get_node_text(prog, 'desc'),
             # Times to be filled dynamically
         }
 
         # --- LOGIC FOR TODAY ---
-        # Check overlap with Today
+        # Check if the show overlaps with Today's 24h window
         if start_dt <= today_end and end_dt >= today_start:
             # Determine effective start/end for the 'Today' file
-            # If show started yesterday, clip start to today_start
+            # If show started yesterday, clip start to today_start (12:00 AM)
             eff_start = max(start_dt, today_start)
-            # If show ends tomorrow, clip end to today_end
+            # If show ends tomorrow, clip end to today_end (11:59 PM)
             eff_end = min(end_dt, today_end)
             
             # Create entry
@@ -137,10 +143,12 @@ def process_channel(channel_id, programmes, target_dates):
             schedules['today'].append(entry)
 
         # --- LOGIC FOR TOMORROW ---
-        # Check overlap with Tomorrow
+        # Check if the show overlaps with Tomorrow's 24h window
         if start_dt <= tomorrow_end and end_dt >= tomorrow_start:
             # Determine effective start/end for the 'Tomorrow' file
+            # If show started today (and crosses midnight), clip start to tomorrow_start (12:00 AM)
             eff_start = max(start_dt, tomorrow_start)
+            # If show ends day after tomorrow, clip end to tomorrow_end
             eff_end = min(end_dt, tomorrow_end)
             
             # Create entry
@@ -150,8 +158,12 @@ def process_channel(channel_id, programmes, target_dates):
             schedules['tomorrow'].append(entry)
 
     # Write JSON files if data exists
+    # Case insensitive filename requirement: channel_id is typically used as is, 
+    # but prompt requested e.g. Record-TV.json. Using channel_id directly as requested in logic.
+    safe_filename = channel_id.replace('/', '_') + ".json"
+
     if schedules['today']:
-        file_path = os.path.join(OUTPUT_DIR_TODAY, f"{channel_id}.json")
+        file_path = os.path.join(OUTPUT_DIR_TODAY, safe_filename)
         output_data = {
             "channel": channel_id,
             "date": today_date_str,
@@ -161,7 +173,7 @@ def process_channel(channel_id, programmes, target_dates):
             json.dump(output_data, f, indent=2, ensure_ascii=False)
 
     if schedules['tomorrow']:
-        file_path = os.path.join(OUTPUT_DIR_TOMORROW, f"{channel_id}.json")
+        file_path = os.path.join(OUTPUT_DIR_TOMORROW, safe_filename)
         output_data = {
             "channel": channel_id,
             "date": tomorrow_date_str,
@@ -199,12 +211,15 @@ def main():
     # Group programmes by channel ID
     channel_map = {cid: for cid in target_channels}
     
+    # Efficiently gather programmes only for target channels
     for prog in root.findall('programme'):
         cid = prog.get('channel')
+        # The XML channel ID might match exactly
         if cid in channel_map:
             channel_map[cid].append(prog)
 
     # 4. Define Time Boundaries (Sao Paulo)
+    # Get current time in Sao Paulo
     now = datetime.now(TARGET_TIMEZONE)
     today_date = now.date()
     tomorrow_date = today_date + timedelta(days=1)
