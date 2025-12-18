@@ -1,178 +1,187 @@
 import xml.etree.ElementTree as ET
+import requests
+from datetime import datetime, timedelta
+import pytz
 import json
 import os
-from datetime import datetime, timedelta
 from concurrent.futures import ThreadPoolExecutor, as_completed
-import urllib.request
-import urllib.parse
-from zoneinfo import ZoneInfo
+import re
 
+# Constants
 EPG_URL = "https://raw.githubusercontent.com/globetvapp/epg/refs/heads/main/Brazil/brazil1.xml"
-CHANNEL_FILE = "channel.txt"
-OUTPUT_DIR = "schedule"
-LOGO_BASE_URL = "https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx"
+BRAZIL_TZ = pytz.timezone('America/Sao_Paulo')
+UTC_TZ = pytz.UTC
 
-def download_epg():
-    """Download EPG XML file"""
-    print("Downloading EPG data...")
-    with urllib.request.urlopen(EPG_URL) as response:
-        return response.read()
+def parse_epg_time(time_str):
+    """Parse EPG time format: 20251218013000 +0000 to datetime object"""
+    # Remove timezone offset
+    time_part = time_str.split()[0]
+    # Parse: YYYYMMDDHHmmss
+    dt = datetime.strptime(time_part, "%Y%m%d%H%M%S")
+    # Set as UTC
+    dt = UTC_TZ.localize(dt)
+    # Convert to Brazilian time
+    return dt.astimezone(BRAZIL_TZ)
 
-def parse_time(time_str):
-    """Convert XML time format to Brazilian datetime"""
-    # Format: 20251216063000 +0000
-    dt_part = time_str.split()[0]
-    dt = datetime.strptime(dt_part, "%Y%m%d%H%M%S")
-    # Assume UTC, convert to Sao Paulo time
-    dt_utc = dt.replace(tzinfo=ZoneInfo("UTC"))
-    dt_br = dt_utc.astimezone(ZoneInfo("America/Sao_Paulo"))
-    return dt_br
+def format_time_12h(dt):
+    """Format datetime to 12-hour format with AM/PM"""
+    return dt.strftime("%I:%M %p").lstrip('0')
 
-def format_brazilian_datetime(dt):
-    """Format datetime in Brazilian format: DD/MM/YYYY HH:MM:SS"""
-    return dt.strftime("%d/%m/%Y %H:%M:%S")
+def get_channel_name(channel_id):
+    """Remove .br extension from channel ID"""
+    return channel_id.replace('.br', '').strip()
 
-def generate_logo_url(show_title, channel_call_letter):
-    """Generate logo URL with proper UTF-8 encoding"""
-    encoded_title = urllib.parse.quote(show_title, safe='')
+def get_date_range_brazil(day_offset=0):
+    """Get start and end datetime for a day in Brazilian timezone"""
+    now_brazil = datetime.now(BRAZIL_TZ)
+    target_date = now_brazil.date() + timedelta(days=day_offset)
     
-    params = {
-        'progTitle': encoded_title,
-        'chCallLetter': channel_call_letter,
-        'profile': '16_9',
-        'appSource': 'GuiaTV',
-        'width': '160',
-        'stb': 'retina2x'
-    }
+    start_dt = BRAZIL_TZ.localize(datetime.combine(target_date, datetime.min.time()))
+    end_dt = start_dt + timedelta(days=1) - timedelta(seconds=1)
     
-    query_string = '&'.join([f"{k}={v}" for k, v in params.items()])
-    return f"{LOGO_BASE_URL}?{query_string}"
+    return start_dt, end_dt, target_date
 
-def get_channel_id_from_name(channel_name, root):
-    """Find channel ID that starts with the given channel name"""
-    for channel in root.findall('.//channel'):
-        channel_id = channel.get('id', '')
-        # Remove extension and compare
-        channel_name_from_id = channel_id.rsplit('.', 1)[0]
-        if channel_name_from_id == channel_name:
-            return channel_id
-    return None
+def fetch_epg_xml():
+    """Fetch EPG XML from URL"""
+    print(f"Fetching EPG data from {EPG_URL}...")
+    response = requests.get(EPG_URL, timeout=60)
+    response.raise_for_status()
+    return response.content
 
-def process_channel(channel_name, xml_content):
-    """Process a single channel and generate JSON"""
-    try:
-        print(f"Processing channel: {channel_name}")
-        
-        # Parse XML
-        root = ET.fromstring(xml_content)
-        
-        # Find channel ID
-        channel_id = get_channel_id_from_name(channel_name, root)
-        if not channel_id:
-            print(f"Channel ID not found for: {channel_name}")
-            return None
-        
-        print(f"Found channel ID: {channel_id}")
-        
-        # Get today and tomorrow in Brazilian timezone
-        now_br = datetime.now(ZoneInfo("America/Sao_Paulo"))
-        today_start = now_br.replace(hour=0, minute=0, second=0, microsecond=0)
-        tomorrow_end = (today_start + timedelta(days=2)).replace(hour=0, minute=0, second=0, microsecond=0)
-        
-        # Extract channel call letter (remove .br extension)
-        channel_call_letter = channel_id.rsplit('.', 1)[0]
-        
-        # Find all programmes for this channel
-        programmes = []
-        for programme in root.findall('.//programme'):
-            if programme.get('channel') == channel_id:
-                start_time = parse_time(programme.get('start'))
-                end_time = parse_time(programme.get('stop'))
+def parse_epg_for_channel(xml_content, channel_id, day_offset=0):
+    """Parse EPG XML and extract schedule for a specific channel"""
+    root = ET.fromstring(xml_content)
+    
+    start_dt, end_dt, target_date = get_date_range_brazil(day_offset)
+    
+    schedule = []
+    
+    # Find all programme elements for this channel
+    for programme in root.findall(f".//programme[@channel='{channel_id}']"):
+        try:
+            # Parse times
+            start_time_str = programme.get('start')
+            stop_time_str = programme.get('stop')
+            
+            if not start_time_str or not stop_time_str:
+                continue
+            
+            start_time = parse_epg_time(start_time_str)
+            end_time = parse_epg_time(stop_time_str)
+            
+            # Filter: show must START within the target day
+            if start_dt <= start_time <= end_dt:
+                title_elem = programme.find('title')
+                desc_elem = programme.find('desc')
                 
-                # Only include today and tomorrow
-                if today_start <= start_time < tomorrow_end:
-                    title_elem = programme.find('title')
-                    desc_elem = programme.find('desc')
-                    
-                    title = title_elem.text if title_elem is not None and title_elem.text else ""
-                    description = desc_elem.text if desc_elem is not None and desc_elem.text else ""
-                    
-                    # Generate logo URL
-                    logo_url = generate_logo_url(title, channel_call_letter) if title else ""
-                    
-                    programmes.append({
-                        "show_name": title,
-                        "show_logo": logo_url,
-                        "start_time": format_brazilian_datetime(start_time),
-                        "end_time": format_brazilian_datetime(end_time),
-                        "description": description
-                    })
+                show_name = title_elem.text if title_elem is not None else "Unknown"
+                description = desc_elem.text if desc_elem is not None else ""
+                
+                schedule.append({
+                    "show_name": show_name,
+                    "show_logo": "",
+                    "start_time": format_time_12h(start_time),
+                    "end_time": format_time_12h(end_time),
+                    "episode_description": description
+                })
+        except Exception as e:
+            print(f"Error parsing programme for {channel_id}: {e}")
+            continue
+    
+    # Sort by start time
+    schedule.sort(key=lambda x: datetime.strptime(x['start_time'], "%I:%M %p"))
+    
+    return schedule, target_date
+
+def process_channel(xml_content, channel_id, day_offset, output_dir):
+    """Process a single channel and save to JSON"""
+    try:
+        channel_name = get_channel_name(channel_id)
+        print(f"Processing {channel_name} for day offset {day_offset}...")
         
-        # Sort by start time
-        programmes.sort(key=lambda x: datetime.strptime(x['start_time'], "%d/%m/%Y %H:%M:%S"))
+        schedule, target_date = parse_epg_for_channel(xml_content, channel_id, day_offset)
         
-        # Create JSON structure
-        result = {
-            "channel_name": channel_name,
-            "channel_id": channel_id,
-            "schedule": programmes
+        if not schedule:
+            print(f"No schedule found for {channel_name} on {target_date}")
+            return False
+        
+        # Create output data
+        output_data = {
+            "channel": channel_name,
+            "date": target_date.strftime("%Y-%m-%d"),
+            "schedule": schedule
         }
         
-        # Save to JSON file
-        filename = channel_name.lower().replace(' ', '-') + '.json'
-        filepath = os.path.join(OUTPUT_DIR, filename)
+        # Create filename (replace spaces with hyphens, case insensitive)
+        filename = re.sub(r'\s+', '-', channel_name) + '.json'
+        filepath = os.path.join(output_dir, filename)
         
-        os.makedirs(OUTPUT_DIR, exist_ok=True)
-        
+        # Save to JSON
         with open(filepath, 'w', encoding='utf-8') as f:
-            json.dump(result, f, ensure_ascii=False, indent=2)
+            json.dump(output_data, f, ensure_ascii=False, indent=2)
         
-        print(f"Saved {len(programmes)} programmes for {channel_name} to {filename}")
-        return filename
+        print(f"✓ Saved {channel_name} schedule to {filepath} ({len(schedule)} shows)")
+        return True
         
     except Exception as e:
-        print(f"Error processing channel {channel_name}: {str(e)}")
-        return None
+        print(f"✗ Error processing {channel_id}: {e}")
+        return False
+
+def load_channels(channel_file='__channel.txt'):
+    """Load channel IDs from file"""
+    if not os.path.exists(channel_file):
+        print(f"Channel file {channel_file} not found!")
+        return []
+    
+    with open(channel_file, 'r', encoding='utf-8') as f:
+        channels = [line.strip() for line in f if line.strip()]
+    
+    print(f"Loaded {len(channels)} channels from {channel_file}")
+    return channels
 
 def main():
-    """Main function to process all channels"""
+    # Create output directories
+    os.makedirs('schedule/today', exist_ok=True)
+    os.makedirs('schedule/tomorrow', exist_ok=True)
+    
+    # Load channels
+    channels = load_channels()
+    if not channels:
+        print("No channels to process!")
+        return
+    
+    # Fetch EPG XML once
     try:
-        # Download EPG data
-        xml_content = download_epg()
-        
-        # Read channel list
-        if not os.path.exists(CHANNEL_FILE):
-            print(f"Error: {CHANNEL_FILE} not found")
-            return
-        
-        with open(CHANNEL_FILE, 'r', encoding='utf-8') as f:
-            channels = [line.strip() for line in f if line.strip()]
-        
-        print(f"Found {len(channels)} channels to process")
-        
-        # Process channels in parallel
-        with ThreadPoolExecutor(max_workers=10) as executor:
-            futures = {
-                executor.submit(process_channel, channel, xml_content): channel 
-                for channel in channels
-            }
-            
-            for future in as_completed(futures):
-                channel = futures[future]
-                try:
-                    result = future.result()
-                    if result:
-                        print(f"✓ Completed: {channel}")
-                    else:
-                        print(f"✗ Failed: {channel}")
-                except Exception as e:
-                    print(f"✗ Exception for {channel}: {str(e)}")
-        
-        print("\nAll channels processed successfully!")
-        
+        xml_content = fetch_epg_xml()
+        print(f"EPG data fetched successfully ({len(xml_content)} bytes)")
     except Exception as e:
-        print(f"Fatal error: {str(e)}")
-        raise
+        print(f"Failed to fetch EPG data: {e}")
+        return
+    
+    # Process all channels in parallel
+    tasks = []
+    with ThreadPoolExecutor(max_workers=10) as executor:
+        # Submit all tasks
+        for channel_id in channels:
+            # Today
+            tasks.append(executor.submit(process_channel, xml_content, channel_id, 0, 'schedule/today'))
+            # Tomorrow
+            tasks.append(executor.submit(process_channel, xml_content, channel_id, 1, 'schedule/tomorrow'))
+        
+        # Wait for completion
+        successful = 0
+        failed = 0
+        for future in as_completed(tasks):
+            if future.result():
+                successful += 1
+            else:
+                failed += 1
+    
+    print(f"\n{'='*60}")
+    print(f"Processing complete!")
+    print(f"Successful: {successful}")
+    print(f"Failed: {failed}")
+    print(f"{'='*60}")
 
 if __name__ == "__main__":
     main()
