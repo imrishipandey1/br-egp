@@ -1,107 +1,66 @@
-name: Update EPG Schedule
+name: Update EPG Schedules
 
 on:
-  schedule:
-    # Run daily at 00:05 UTC (which is 21:05 previous day in São Paulo, UTC-3)
-    # Adjust timing based on when you want fresh data
-    - cron: '5 0 * * *'
-  
-  # Allow manual trigger
-  workflow_dispatch:
+schedule:
+# Run every 6 hours (adjust as needed)
+- cron: ‘0 */6 * * *’
+workflow_dispatch: # Allow manual triggers
+push:
+branches:
+- main
+paths:
+- ‘__channel.txt’
+- ‘epg_scraper.py’
+- ‘.github/workflows/update-epg.yml’
 
 permissions:
-  contents: write
-  actions: write
+contents: write
 
 jobs:
-  scrape-epg:
-    runs-on: ubuntu-latest
-    
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-      
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.11'
-          cache: 'pip'
-      
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests pytz
-      
-      - name: Verify channels file exists
-        run: |
-          if [ ! -f "__channels.txt" ]; then
-            echo "Error: __channels.txt not found!"
-            echo "Creating sample __channels.txt..."
-            echo "Record TV.br" > __channels.txt
-            echo "Please add your channel IDs (one per line) to __channels.txt"
-          fi
-          echo "=== Channels to be processed ==="
-          cat __channels.txt
-          echo ""
-      
-      - name: Create schedule directories
-        run: |
-          mkdir -p schedule/today
-          mkdir -p schedule/tomorrow
-      
-      - name: Run EPG Scraper
-        run: |
-          python epg_scraper.py
-        continue-on-error: true
-      
-      - name: Check if schedules were generated
-        run: |
-          echo "=== Today's schedules ==="
-          if [ -d "schedule/today" ]; then
-            ls -lah schedule/today/ || echo "No files in schedule/today"
-          else
-            echo "Directory schedule/today does not exist"
-          fi
-          echo ""
-          echo "=== Tomorrow's schedules ==="
-          if [ -d "schedule/tomorrow" ]; then
-            ls -lah schedule/tomorrow/ || echo "No files in schedule/tomorrow"
-          else
-            echo "Directory schedule/tomorrow does not exist"
-          fi
-          echo ""
-          echo "=== Checking for errors ==="
-          echo "If no JSON files were created, verify:"
-          echo "1. Channel IDs in __channels.txt match the EPG exactly"
-          echo "2. Run debug-epg.py locally to test"
-          echo "3. Check epg_scraper.py output above for errors"
-      
-      - name: Commit and push changes
-        if: always()
-        run: |
-          git config --global user.name "EPG Bot"
-          git config --global user.email "epg-bot@github.com"
-          
-          # Add all schedule files if they exist
-          if [ -f "schedule/today/*.json" ] 2>/dev/null || [ -f "schedule/tomorrow/*.json" ] 2>/dev/null; then
-            git add schedule/today/*.json schedule/tomorrow/*.json 2>/dev/null || true
-          fi
-          
-          # Check if there are changes
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "Update EPG schedules - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
-            git push origin ${{ github.ref }}
-          fi
-      
-      - name: Upload artifacts
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: epg-schedules
-          path: schedule/
-          retention-days: 7
-          if-no-files-found: warn
+update-epg:
+runs-on: ubuntu-latest
+timeout-minutes: 15
+
+```
+steps:
+  - name: Checkout repository
+    uses: actions/checkout@v4
+    with:
+      fetch-depth: 1
+  
+  - name: Set up Python
+    uses: actions/setup-python@v5
+    with:
+      python-version: '3.11'
+      cache: 'pip'
+  
+  - name: Install dependencies
+    run: |
+      python -m pip install --upgrade pip
+      # No external dependencies needed - uses stdlib only
+  
+  - name: Run EPG scraper
+    run: |
+      python epg_scraper.py
+    env:
+      PYTHONUNBUFFERED: '1'
+  
+  - name: Check for changes
+    id: git-check
+    run: |
+      git diff --exit-code schedule/ || echo "changes=true" >> $GITHUB_OUTPUT
+  
+  - name: Commit and push changes
+    if: steps.git-check.outputs.changes == 'true'
+    run: |
+      git config --local user.email "github-actions[bot]@users.noreply.github.com"
+      git config --local user.name "github-actions[bot]"
+      git add schedule/
+      git commit -m "Auto update EPG schedules"
+      git push
+  
+  - name: No changes detected
+    if: steps.git-check.outputs.changes != 'true'
+    run: |
+      echo "No changes in EPG schedules"
+```
