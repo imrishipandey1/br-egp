@@ -2,38 +2,40 @@ name: Update EPG Schedule
 
 on:
   schedule:
-    # Run at 12:10 AM Brazilian time (UTC-3)
-    # 12:10 AM BRT = 3:10 AM UTC (considering standard time)
-    # Note: During DST (Oct-Feb), BRT is UTC-2, so adjust if needed
-    - cron: '10 3 * * *'
-  workflow_dispatch: # Manual trigger
-
-permissions:
-  contents: write
+    # Run at 00:30 AM Brazilian time (03:30 UTC) daily
+    - cron: '30 3 * * *'
+  workflow_dispatch: # Allow manual trigger
 
 jobs:
-  update-schedule:
+  update-epg:
     runs-on: ubuntu-latest
     
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       
-    - name: Set up Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.11'
-    
-    - name: Run EPG scraper
-      run: |
-        python epg_scraper.py
-    
-    - name: Commit and push changes
-      run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
-        git add schedule/*.json
-        git diff --cached --quiet || git commit -m "Update EPG schedule - $(TZ='America/Sao_Paulo' date +'%d/%m/%Y %H:%M:%S')"
-        git push
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests pytz
+      
+      - name: Run EPG scraper
+        run: |
+          python epg_scraper.py
+      
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add schedule/
+          git diff --staged --quiet || git commit -m "Update EPG schedule - $(TZ=America/Sao_Paulo date +'%Y-%m-%d %H:%M %Z')"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
