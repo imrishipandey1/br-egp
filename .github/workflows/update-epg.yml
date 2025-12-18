@@ -1,1 +1,85 @@
+name: Update EPG Schedule
 
+on:
+  schedule:
+    # Run daily at 00:05 UTC (which is 21:05 previous day in São Paulo, UTC-3)
+    # Adjust timing based on when you want fresh data
+    - cron: '5 0 * * *'
+  
+  # Allow manual trigger
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  scrape-epg:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests pytz
+      
+      - name: Verify channels file exists
+        run: |
+          if [ ! -f "__channels.txt" ]; then
+            echo "Error: __channels.txt not found!"
+            echo "Creating sample __channels.txt..."
+            echo "Record TV.br" > __channels.txt
+            echo "Please add your channel IDs (one per line) to __channels.txt"
+          fi
+          echo "Channels to be processed:"
+          cat __channels.txt
+      
+      - name: Run EPG Scraper
+        run: |
+          python epg_scraper.py
+      
+      - name: Check if schedules were generated
+        run: |
+          echo "=== Today's schedules ==="
+          ls -lah schedule/today/ 2>/dev/null || echo "No schedules generated for today"
+          echo ""
+          echo "=== Tomorrow's schedules ==="
+          ls -lah schedule/tomorrow/ 2>/dev/null || echo "No schedules generated for tomorrow"
+      
+      - name: Commit and push changes
+        if: always()
+        run: |
+          git config --global user.name "EPG Bot"
+          git config --global user.email "epg-bot@github.com"
+          
+          # Add all schedule files
+          git add schedule/today/*.json schedule/tomorrow/*.json 2>/dev/null || true
+          
+          # Check if there are changes
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update EPG schedules - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+            git push origin ${{ github.ref }}
+          fi
+      
+      - name: Upload artifacts
+        if: always()
+        uses: actions/upload-artifact@v3
+        with:
+          name: epg-schedules
+          path: |
+            schedule/today/
+            schedule/tomorrow/
+          retention-days: 7
