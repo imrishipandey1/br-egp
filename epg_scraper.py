@@ -36,17 +36,12 @@ def get_date_range_brazil(day_offset=0):
     now_brazil = datetime.now(BRAZIL_TZ)
     target_date = now_brazil.date() + timedelta(days=day_offset)
     
+    # Start: 00:00:00 of target date
     start_dt = BRAZIL_TZ.localize(datetime.combine(target_date, datetime.min.time()))
-    end_dt = start_dt + timedelta(days=1) - timedelta(seconds=1)
+    # End: 23:59:59 of target date
+    end_dt = BRAZIL_TZ.localize(datetime.combine(target_date, datetime.max.time()))
     
     return start_dt, end_dt, target_date
-
-def fetch_epg_xml():
-    """Fetch EPG XML from URL"""
-    print(f"Fetching EPG data from {EPG_URL}...")
-    response = requests.get(EPG_URL, timeout=60)
-    response.raise_for_status()
-    return response.content
 
 def parse_epg_for_channel(xml_content, channel_id, day_offset=0):
     """Parse EPG XML and extract schedule for a specific channel"""
@@ -69,27 +64,44 @@ def parse_epg_for_channel(xml_content, channel_id, day_offset=0):
             start_time = parse_epg_time(start_time_str)
             end_time = parse_epg_time(stop_time_str)
             
-            # Filter: show must START within the target day
-            if start_dt <= start_time <= end_dt:
-                title_elem = programme.find('title')
-                desc_elem = programme.find('desc')
-                
-                show_name = title_elem.text if title_elem is not None else "Unknown"
-                description = desc_elem.text if desc_elem is not None else ""
-                
-                schedule.append({
-                    "show_name": show_name,
-                    "show_logo": "",
-                    "start_time": format_time_12h(start_time),
-                    "end_time": format_time_12h(end_time),
-                    "episode_description": description
-                })
+            # Check if the show airs during the target day
+            # Include if: show starts OR ends during target day, OR spans across the entire day
+            show_airs_during_day = (
+                (start_time <= end_dt and end_time >= start_dt)
+            )
+            
+            if not show_airs_during_day:
+                continue
+            
+            # Adjust times to fit within the target day
+            display_start = max(start_time, start_dt)
+            display_end = min(end_time, end_dt)
+            
+            # Get show details
+            title_elem = programme.find('title')
+            desc_elem = programme.find('desc')
+            
+            show_name = title_elem.text if title_elem is not None else "Unknown"
+            description = desc_elem.text if desc_elem is not None else ""
+            
+            schedule.append({
+                "show_name": show_name,
+                "show_logo": "",
+                "start_time": format_time_12h(display_start),
+                "end_time": format_time_12h(display_end),
+                "episode_description": description,
+                "_sort_time": display_start  # For sorting
+            })
         except Exception as e:
             print(f"Error parsing programme for {channel_id}: {e}")
             continue
     
     # Sort by start time
-    schedule.sort(key=lambda x: datetime.strptime(x['start_time'], "%I:%M %p"))
+    schedule.sort(key=lambda x: x['_sort_time'])
+    
+    # Remove sort key before returning
+    for item in schedule:
+        del item['_sort_time']
     
     return schedule, target_date
 
@@ -97,7 +109,8 @@ def process_channel(xml_content, channel_id, day_offset, output_dir):
     """Process a single channel and save to JSON"""
     try:
         channel_name = get_channel_name(channel_id)
-        print(f"Processing {channel_name} for day offset {day_offset}...")
+        day_label = "today" if day_offset == 0 else "tomorrow"
+        print(f"Processing {channel_name} for {day_label}...")
         
         schedule, target_date = parse_epg_for_channel(xml_content, channel_id, day_offset)
         
