@@ -1,95 +1,249 @@
-import xml.etree.ElementTree as ET
-import requests
-import json
 import os
+import sys
+import json
+import logging
+import requests
+import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, time
-from zoneinfo import ZoneInfo
-from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import pytz
 
-EPG_URL = "https://raw.githubusercontent.com/globetvapp/epg/refs/heads/main/Brazil/brazil1.xml"
-TIMEZONE = ZoneInfo("America/Sao_Paulo")
-UTC = ZoneInfo("UTC")
+# --- Configuration Constants ---
+XML_SOURCE_URL = "https://raw.githubusercontent.com/globetvapp/epg/refs/heads/main/Brazil/brazil1.xml"
+CHANNEL_LIST_FILE = "__channel.txt"
+OUTPUT_DIR_TODAY = os.path.join("schedule", "today")
+OUTPUT_DIR_TOMORROW = os.path.join("schedule", "tomorrow")
+TARGET_TIMEZONE = pytz.timezone('America/Sao_Paulo')
+MAX_WORKERS = 10  # Optimal for file I/O operations
 
-TODAY = datetime.now(TIMEZONE).date()
-TOMORROW = TODAY + timedelta(days=1)
+# --- Logging Configuration ---
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s',
+    datefmt='%Y-%m-%d %H:%M:%S'
+)
+logger = logging.getLogger(__name__)
 
-def safe_filename(name):
-    return name.replace(" ", "-").replace(".", "").strip()
+def setup_environment():
+    """
+    Ensures that the necessary output directories exist.
+    """
+    for directory in:
+        os.makedirs(directory, exist_ok=True)
+    logger.info("Environment setup complete. Output directories ready.")
 
-def parse_xml():
-    r = requests.get(EPG_URL, timeout=60)
-    r.raise_for_status()
-    return ET.fromstring(r.content)
+def load_target_channels():
+    """
+    Reads the whitelist of channel IDs from __channel.txt.
+    Returns a set of strings for O(1) lookup.
+    """
+    if not os.path.exists(CHANNEL_LIST_FILE):
+        logger.error(f"Channel list file '{CHANNEL_LIST_FILE}' not found.")
+        return set()
+    
+    with open(CHANNEL_LIST_FILE, 'r', encoding='utf-8') as f:
+        # Strip whitespace and ignore empty lines
+        channels = {line.strip() for line in f if line.strip()}
+    
+    logger.info(f"Loaded {len(channels)} target channels.")
+    return channels
 
-def parse_time(value):
-    dt = datetime.strptime(value[:14], "%Y%m%d%H%M%S")
-    return dt.replace(tzinfo=UTC).astimezone(TIMEZONE)
+def parse_xmltv_date(date_str):
+    """
+    Parses an XMLTV date string (YYYYMMDDhhmmss +/-hhmm) into a 
+    timezone-aware datetime object localized to Sao Paulo.
+    """
+    try:
+        # The %z directive handles the offset (+0000 or -0300)
+        dt_aware = datetime.strptime(date_str.strip(), '%Y%m%d%H%M%S %z')
+        # Convert to target timezone
+        return dt_aware.astimezone(TARGET_TIMEZONE)
+    except ValueError:
+        # Handle cases where the format might vary or lack whitespace
+        try:
+             # Fallback for formats without space before timezone
+            dt_aware = datetime.strptime(date_str.strip(), '%Y%m%d%H%M%S%z')
+            return dt_aware.astimezone(TARGET_TIMEZONE)
+        except ValueError as e:
+            logger.warning(f"Date parsing failed for string '{date_str}': {e}")
+            return None
 
-def extract_day_segment(start, end, day):
-    day_start = datetime.combine(day, time(0, 0), TIMEZONE)
-    day_end = datetime.combine(day, time(23, 59), TIMEZONE)
+def format_ampm(dt_obj):
+    """Formats a datetime object to 'HH:MM AM/PM' string."""
+    return dt_obj.strftime('%I:%M %p')
 
-    if end <= day_start or start >= day_end:
-        return None
+def get_node_text(element, tag_name):
+    """Safely extracts text from a child XML node."""
+    node = element.find(tag_name)
+    return node.text if node is not None else ""
 
-    return max(start, day_start), min(end, day_end)
+def process_channel(channel_id, programmes, target_dates):
+    """
+    The core logic unit. Processes all programmes for a single channel.
+    Splits shows across midnight and sorts them into 'today' or 'tomorrow'.
+    
+    Args:
+        channel_id (str): The unique ID of the channel.
+        programmes (list): List of XML 'programme' elements.
+        target_dates (dict): specific datetime boundaries for today/tomorrow.
+    """
+    
+    # Initialize containers
+    schedules = {
+        'today':,
+        'tomorrow':
+    }
+    
+    today_date_str = target_dates['today_date'].strftime('%Y-%m-%d')
+    tomorrow_date_str = target_dates['tomorrow_date'].strftime('%Y-%m-%d')
 
-def format_time(dt):
-    return dt.strftime("%I:%M %p").lstrip("0")
+    # Boundaries
+    today_start = target_dates['today_start']
+    today_end = target_dates['today_end']      # 23:59:59 today
+    tomorrow_start = target_dates['tomorrow_start'] # 00:00:00 tomorrow
+    tomorrow_end = target_dates['tomorrow_end']
 
-def build_schedule(root, channel_id, day):
-    schedule = []
-
-    for p in root.findall("programme"):
-        if p.attrib.get("channel") != channel_id:
+    for prog in programmes:
+        start_str = prog.get('start')
+        stop_str = prog.get('stop')
+        
+        start_dt = parse_xmltv_date(start_str)
+        end_dt = parse_xmltv_date(stop_str)
+        
+        if not start_dt or not end_dt:
             continue
 
-        start = parse_time(p.attrib["start"])
-        end = parse_time(p.attrib["stop"])
+        # Base show object
+        show_info = {
+            "show_name": get_node_text(prog, 'title'),
+            "show_logo": prog.find('icon').get('src') if prog.find('icon') is not None else "",
+            "episode_description": get_node_text(prog, 'desc'),
+            # Times to be filled dynamically
+        }
 
-        segment = extract_day_segment(start, end, day)
-        if not segment:
-            continue
+        # --- LOGIC FOR TODAY ---
+        # Check overlap with Today
+        if start_dt <= today_end and end_dt >= today_start:
+            # Determine effective start/end for the 'Today' file
+            # If show started yesterday, clip start to today_start
+            eff_start = max(start_dt, today_start)
+            # If show ends tomorrow, clip end to today_end
+            eff_end = min(end_dt, today_end)
+            
+            # Create entry
+            entry = show_info.copy()
+            entry['start_time'] = format_ampm(eff_start)
+            entry['end_time'] = format_ampm(eff_end)
+            schedules['today'].append(entry)
 
-        seg_start, seg_end = segment
+        # --- LOGIC FOR TOMORROW ---
+        # Check overlap with Tomorrow
+        if start_dt <= tomorrow_end and end_dt >= tomorrow_start:
+            # Determine effective start/end for the 'Tomorrow' file
+            eff_start = max(start_dt, tomorrow_start)
+            eff_end = min(end_dt, tomorrow_end)
+            
+            # Create entry
+            entry = show_info.copy()
+            entry['start_time'] = format_ampm(eff_start)
+            entry['end_time'] = format_ampm(eff_end)
+            schedules['tomorrow'].append(entry)
 
-        schedule.append({
-            "show_name": p.findtext("title", "").strip(),
-            "show_logo": "",
-            "start_time": format_time(seg_start),
-            "end_time": format_time(seg_end),
-            "episode_description": p.findtext("desc", "").strip()
-        })
+    # Write JSON files if data exists
+    if schedules['today']:
+        file_path = os.path.join(OUTPUT_DIR_TODAY, f"{channel_id}.json")
+        output_data = {
+            "channel": channel_id,
+            "date": today_date_str,
+            "schedule": schedules['today']
+        }
+        with open(file_path, 'w', encoding='utf-8') as f:
+            json.dump(output_data, f, indent=2, ensure_ascii=False)
 
-    return schedule
-
-def process_channel(channel_id, root):
-    channel_name = channel_id.replace(".br", "").strip()
-    filename = safe_filename(channel_name) + ".json"
-
-    for day, folder in [(TODAY, "today"), (TOMORROW, "tomorrow")]:
-        schedule = build_schedule(root, channel_id, day)
-        if not schedule:
-            continue
-
-        os.makedirs(f"schedule/{folder}", exist_ok=True)
-
-        with open(f"schedule/{folder}/{filename}", "w", encoding="utf-8") as f:
-            json.dump({
-                "channel": channel_name,
-                "date": str(day),
-                "schedule": schedule
-            }, f, ensure_ascii=False, indent=2)
+    if schedules['tomorrow']:
+        file_path = os.path.join(OUTPUT_DIR_TOMORROW, f"{channel_id}.json")
+        output_data = {
+            "channel": channel_id,
+            "date": tomorrow_date_str,
+            "schedule": schedules['tomorrow']
+        }
+        with open(file_path, 'w', encoding='utf-8') as f:
+            json.dump(output_data, f, indent=2, ensure_ascii=False)
 
 def main():
-    with open("__channel.txt") as f:
-        channels = [x.strip() for x in f if x.strip()]
+    setup_environment()
+    
+    # 1. Fetch Data
+    logger.info("Downloading EPG XML...")
+    try:
+        resp = requests.get(XML_SOURCE_URL)
+        resp.raise_for_status()
+    except requests.RequestException as e:
+        logger.critical(f"Failed to download XML: {e}")
+        sys.exit(1)
 
-    root = parse_xml()
+    # 2. Parse XML
+    logger.info("Parsing XML Tree...")
+    try:
+        root = ET.fromstring(resp.content)
+    except ET.ParseError as e:
+        logger.critical(f"XML Parsing failed: {e}")
+        sys.exit(1)
 
-    with ThreadPoolExecutor(max_workers=8) as executor:
-        for ch in channels:
-            executor.submit(process_channel, ch, root)
+    # 3. Filter and Group
+    target_channels = load_target_channels()
+    if not target_channels:
+        logger.warning("No channels defined in __channel.txt. Exiting.")
+        return
+
+    # Group programmes by channel ID
+    channel_map = {cid: for cid in target_channels}
+    
+    for prog in root.findall('programme'):
+        cid = prog.get('channel')
+        if cid in channel_map:
+            channel_map[cid].append(prog)
+
+    # 4. Define Time Boundaries (Sao Paulo)
+    now = datetime.now(TARGET_TIMEZONE)
+    today_date = now.date()
+    tomorrow_date = today_date + timedelta(days=1)
+    
+    # Create precise datetime boundaries
+    # Today starts at 00:00:00, ends at 23:59:59.999999
+    today_start = TARGET_TIMEZONE.localize(datetime.combine(today_date, time.min))
+    today_end = TARGET_TIMEZONE.localize(datetime.combine(today_date, time.max))
+    
+    # Tomorrow starts at 00:00:00 (next day), ends at 23:59:59.999999
+    tomorrow_start = TARGET_TIMEZONE.localize(datetime.combine(tomorrow_date, time.min))
+    tomorrow_end = TARGET_TIMEZONE.localize(datetime.combine(tomorrow_date, time.max))
+
+    target_dates = {
+        'today_date': today_date,
+        'tomorrow_date': tomorrow_date,
+        'today_start': today_start,
+        'today_end': today_end,
+        'tomorrow_start': tomorrow_start,
+        'tomorrow_end': tomorrow_end
+    }
+
+    # 5. Parallel Execution
+    logger.info(f"Processing {len(target_channels)} channels with {MAX_WORKERS} threads...")
+    
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        futures =
+        for cid, progs in channel_map.items():
+            if progs: # Only process if there are programmes
+                futures.append(executor.submit(process_channel, cid, progs, target_dates))
+        
+        # Wait for completion
+        for future in as_completed(futures):
+            try:
+                future.result()
+            except Exception as e:
+                logger.error(f"Thread execution error: {e}")
+
+    logger.info("EPG Update Complete.")
 
 if __name__ == "__main__":
     main()
