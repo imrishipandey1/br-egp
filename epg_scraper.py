@@ -17,24 +17,22 @@ def safe_filename(name):
     return name.replace(" ", "-").replace(".", "").strip()
 
 def parse_xml():
-    response = requests.get(EPG_URL, timeout=60)
-    response.raise_for_status()
-    return ET.fromstring(response.content)
+    r = requests.get(EPG_URL, timeout=60)
+    r.raise_for_status()
+    return ET.fromstring(r.content)
 
 def parse_time(value):
     dt = datetime.strptime(value[:14], "%Y%m%d%H%M%S")
     return dt.replace(tzinfo=UTC).astimezone(TIMEZONE)
 
-def clamp_time(start, end, day):
+def extract_day_segment(start, end, day):
     day_start = datetime.combine(day, time(0, 0), TIMEZONE)
     day_end = datetime.combine(day, time(23, 59), TIMEZONE)
 
-    start = max(start, day_start)
-    end = min(end, day_end)
-
-    if start >= end:
+    if end <= day_start or start >= day_end:
         return None
-    return start, end
+
+    return max(start, day_start), min(end, day_end)
 
 def format_time(dt):
     return dt.strftime("%I:%M %p").lstrip("0")
@@ -49,17 +47,17 @@ def build_schedule(root, channel_id, day):
         start = parse_time(p.attrib["start"])
         end = parse_time(p.attrib["stop"])
 
-        clamped = clamp_time(start, end, day)
-        if not clamped:
+        segment = extract_day_segment(start, end, day)
+        if not segment:
             continue
 
-        start, end = clamped
+        seg_start, seg_end = segment
 
         schedule.append({
             "show_name": p.findtext("title", "").strip(),
             "show_logo": "",
-            "start_time": format_time(start),
-            "end_time": format_time(end),
+            "start_time": format_time(seg_start),
+            "end_time": format_time(seg_end),
             "episode_description": p.findtext("desc", "").strip()
         })
 
@@ -71,23 +69,21 @@ def process_channel(channel_id, root):
 
     for day, folder in [(TODAY, "today"), (TOMORROW, "tomorrow")]:
         schedule = build_schedule(root, channel_id, day)
-
         if not schedule:
             continue
 
-        data = {
-            "channel": channel_name,
-            "date": str(day),
-            "schedule": schedule
-        }
-
         os.makedirs(f"schedule/{folder}", exist_ok=True)
+
         with open(f"schedule/{folder}/{filename}", "w", encoding="utf-8") as f:
-            json.dump(data, f, ensure_ascii=False, indent=2)
+            json.dump({
+                "channel": channel_name,
+                "date": str(day),
+                "schedule": schedule
+            }, f, ensure_ascii=False, indent=2)
 
 def main():
     with open("__channel.txt") as f:
-        channels = [line.strip() for line in f if line.strip()]
+        channels = [x.strip() for x in f if x.strip()]
 
     root = parse_xml()
 
