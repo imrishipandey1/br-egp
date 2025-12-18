@@ -43,6 +43,13 @@ def get_date_range_brazil(day_offset=0):
     
     return start_dt, end_dt, target_date
 
+def fetch_epg_xml():
+    """Fetch EPG XML from URL"""
+    print(f"Fetching EPG data from {EPG_URL}...")
+    response = requests.get(EPG_URL, timeout=60)
+    response.raise_for_status()
+    return response.content
+
 def parse_epg_for_channel(xml_content, channel_id, day_offset=0):
     """Parse EPG XML and extract schedule for a specific channel"""
     root = ET.fromstring(xml_content)
