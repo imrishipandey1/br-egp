@@ -42,20 +42,41 @@ jobs:
             echo "Record TV.br" > __channels.txt
             echo "Please add your channel IDs (one per line) to __channels.txt"
           fi
-          echo "Channels to be processed:"
+          echo "=== Channels to be processed ==="
           cat __channels.txt
+          echo ""
+      
+      - name: Create schedule directories
+        run: |
+          mkdir -p schedule/today
+          mkdir -p schedule/tomorrow
       
       - name: Run EPG Scraper
         run: |
           python epg_scraper.py
+        continue-on-error: true
       
       - name: Check if schedules were generated
         run: |
           echo "=== Today's schedules ==="
-          ls -lah schedule/today/ 2>/dev/null || echo "No schedules generated for today"
+          if [ -d "schedule/today" ]; then
+            ls -lah schedule/today/ || echo "No files in schedule/today"
+          else
+            echo "Directory schedule/today does not exist"
+          fi
           echo ""
           echo "=== Tomorrow's schedules ==="
-          ls -lah schedule/tomorrow/ 2>/dev/null || echo "No schedules generated for tomorrow"
+          if [ -d "schedule/tomorrow" ]; then
+            ls -lah schedule/tomorrow/ || echo "No files in schedule/tomorrow"
+          else
+            echo "Directory schedule/tomorrow does not exist"
+          fi
+          echo ""
+          echo "=== Checking for errors ==="
+          echo "If no JSON files were created, verify:"
+          echo "1. Channel IDs in __channels.txt match the EPG exactly"
+          echo "2. Run debug-epg.py locally to test"
+          echo "3. Check epg_scraper.py output above for errors"
       
       - name: Commit and push changes
         if: always()
@@ -63,8 +84,10 @@ jobs:
           git config --global user.name "EPG Bot"
           git config --global user.email "epg-bot@github.com"
           
-          # Add all schedule files
-          git add schedule/today/*.json schedule/tomorrow/*.json 2>/dev/null || true
+          # Add all schedule files if they exist
+          if [ -f "schedule/today/*.json" ] 2>/dev/null || [ -f "schedule/tomorrow/*.json" ] 2>/dev/null; then
+            git add schedule/today/*.json schedule/tomorrow/*.json 2>/dev/null || true
+          fi
           
           # Check if there are changes
           if git diff --cached --quiet; then
@@ -79,7 +102,6 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: epg-schedules
-          path: |
-            schedule/today/
-            schedule/tomorrow/
+          path: schedule/
           retention-days: 7
+          if-no-files-found: warn
