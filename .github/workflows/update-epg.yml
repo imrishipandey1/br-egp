@@ -1,3 +1,5 @@
+# .github/workflows/update-epg.yml
+
 name: Update EPG Schedules
 
 on:
@@ -43,11 +45,9 @@ jobs:
       - name: Ensure channels.txt exists
         run: |
           if [ ! -f channels.txt ]; then
-            cat > channels.txt << EOF
-Record TV.br
-Globo.br
-SBT.br
-EOF
+            echo "Record TV.br" > channels.txt
+            echo "Globo.br" >> channels.txt
+            echo "SBT.br" >> channels.txt
             echo "Created channels.txt with example channels."
           else
             echo "channels.txt exists."
