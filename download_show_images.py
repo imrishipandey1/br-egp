@@ -6,7 +6,7 @@ from urllib.parse import urlparse
 from io import BytesIO
 from PIL import Image
 
-BASE_UPLOAD_URL = "https://tvscheduletonight.com/wp-content/uploads"
+BASE_UPLOAD_URL = "https://tvscheduletonight.com/wp-content/uploads/downloaded-images"
 MAX_THREADS = 15
 TIMEOUT = 20
 
