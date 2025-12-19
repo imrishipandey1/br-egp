@@ -21,6 +21,7 @@ Outputs to schedule/today/ and schedule/tomorrow/
 """
 
 import requests
+import io
 from lxml import etree
 from datetime import datetime, timedelta, time, timezone
 from zoneinfo import ZoneInfo
