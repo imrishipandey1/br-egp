@@ -1,20 +1,27 @@
 {
   "channel": "Record TV",
-  "date": "2025-12-19",
+  "date": "2025-12-20",
   "schedule": [
     {
       "show_name": "A Fazenda",
       "show_logo": "",
       "start_time": "12:00 AM",
-      "end_time": "10:30 PM",
+      "end_time": "12:15 AM",
       "episode_description": "Famosos ficam confinados em uma fazenda, onde sao obrigados a dividir aposentos, comida e tarefas domesticas. A cada semana, uma votaçao entre os participantes decide quem vai para a eliminaçao por votaçao popular."
     },
     {
-      "show_name": "A Fazenda",
+      "show_name": "Jornal da Record - 24h",
       "show_logo": "",
-      "start_time": "10:30 PM",
-      "end_time": "11:59 PM",
-      "episode_description": "Famosos ficam confinados em uma fazenda, onde sao obrigados a dividir aposentos, comida e tarefas domesticas. A cada semana, uma votaçao entre os participantes decide quem vai para a eliminaçao por votaçao popular."
+      "start_time": "12:15 AM",
+      "end_time": "12:45 AM",
+      "episode_description": "Acompanhe o boletim informativo com as últimas notícias do Brasil e do mundo."
+    },
+    {
+      "show_name": "Fala que Eu te Escuto",
+      "show_logo": "",
+      "start_time": "12:45 AM",
+      "end_time": "02:00 AM",
+      "episode_description": "Pastores e bispos da Igreja Universal do Reino de Deus debatem diariamente os temas mais relevantes da atualidade a partir de uma perspectiva crista. Os telespectadores participam do programa dando testemunhos impressionantes do poder da fe."
     }
   ]
 }
