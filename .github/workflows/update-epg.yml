@@ -1,69 +1,87 @@
-# .github/workflows/update-epg.yml
-
-name: Update EPG Schedules
+name: Update EPG Schedule
 
 on:
   schedule:
-    # Daily at 3:00 AM UTC (approx 12:00 AM America/Sao_Paulo, UTC-3)
-    - cron: '0 3 * * *'
-  workflow_dispatch:  # Manual trigger allowed
-
-permissions:
-  contents: write
+    # Run every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch:  # Allow manual trigger
 
 jobs:
-  update:
+  scrape-epg:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}  # Enables push
+          fetch-depth: 0
 
-      - name: Install system dependencies (for lxml)
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y libxml2-dev libxslt1-dev
-
-      - name: Set up Python 3.11
-        id: python
-        uses: actions/setup-python@v5
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
           python-version: '3.11'
+          cache: 'pip'
 
-      - name: Install Python dependencies
+      - name: Install dependencies
         run: |
-          ${{ steps.python.outputs.python-path }} -m pip install --upgrade pip
-          ${{ steps.python.outputs.python-path }} -m pip install requests lxml
+          python -m pip install --upgrade pip
+          pip install requests pytz
 
-      - name: Verify installations
+      - name: Check if __channels.txt exists
         run: |
-          ${{ steps.python.outputs.python-path }} -c "import requests; print('requests OK')"
-          ${{ steps.python.outputs.python-path }} -c "from lxml import etree; print('lxml OK')"
-
-      - name: Ensure channels.txt exists
-        run: |
-          if [ ! -f channels.txt ]; then
-            echo "Record TV.br" > channels.txt
-            echo "Globo.br" >> channels.txt
-            echo "SBT.br" >> channels.txt
-            echo "Created channels.txt with example channels."
-          else
-            echo "channels.txt exists."
+          if [ ! -f __channels.txt ]; then
+            echo "Error: __channels.txt not found!"
+            echo "Please create __channels.txt with channel names (one per line)"
+            exit 1
           fi
+          echo "Channels to process:"
+          cat __channels.txt
 
-      - name: Run EPG scraper
-        run: ${{ steps.python.outputs.python-path }} epg_scraper.py
+      - name: Run EPG Scraper
+        run: |
+          python epg_scraper.py
 
-      - name: Commit and push updates
+      - name: Check generated files
+        run: |
+          echo "Today's schedules:"
+          ls -lah schedule/today/ 2>/dev/null || echo "No today schedules generated"
+          echo ""
+          echo "Tomorrow's schedules:"
+          ls -lah schedule/tomorrow/ 2>/dev/null || echo "No tomorrow schedules generated"
+
+      - name: Git configuration
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add schedule/ channels.txt
-          if git diff --staged --quiet; then
-            echo "No changes to commit."
+
+      - name: Commit and push changes
+        run: |
+          if [ -d "schedule" ]; then
+            git add schedule/
+            if git diff --cached --quiet; then
+              echo "No changes to commit"
+            else
+              git commit -m "Update EPG schedule - $(date '+%Y-%m-%d %H:%M:%S')"
+              git push origin $(git rev-parse --abbrev-ref HEAD)
+            fi
           else
-            git commit -m "Auto update EPG schedules"
-            git push
+            echo "No schedule directory found"
+          fi
+
+      - name: Workflow summary
+        if: always()
+        run: |
+          echo "## EPG Update Summary" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**Workflow:** Update EPG Schedule" >> $GITHUB_STEP_SUMMARY
+          echo "**Time:** $(date '+%Y-%m-%d %H:%M:%S')" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          if [ -d "schedule/today" ]; then
+            echo "**Today's Schedules:** $(ls -1 schedule/today/ 2>/dev/null | wc -l) files" >> $GITHUB_STEP_SUMMARY
+          fi
+          if [ -d "schedule/tomorrow" ]; then
+            echo "**Tomorrow's Schedules:** $(ls -1 schedule/tomorrow/ 2>/dev/null | wc -l) files" >> $GITHUB_STEP_SUMMARY
           fi
