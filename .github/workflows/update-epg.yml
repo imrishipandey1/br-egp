@@ -21,18 +21,29 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}  # Required for push
 
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libxml2-dev libxslt1-dev
+
       - name: Set up Python 3.11
+        id: python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
+      - name: Install Python dependencies
         run: |
-          python -m pip install --upgrade pip
-          pip install requests lxml
+          ${{ steps.python.outputs.python-path }} -m pip install --upgrade pip
+          ${{ steps.python.outputs.python-path }} -m pip install requests lxml
+
+      - name: Verify installations
+        run: |
+          ${{ steps.python.outputs.python-path }} -c "import requests; print('requests installed successfully')"
+          ${{ steps.python.outputs.python-path }} -c "from lxml import etree; print('lxml installed successfully')"
 
       - name: Run EPG scraper
-        run: python epg_scraper.py
+        run: ${{ steps.python.outputs.python-path }} epg_scraper.py
 
       - name: Commit and push updated schedules
         run: |
