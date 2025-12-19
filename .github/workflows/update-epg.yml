@@ -22,8 +22,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.11'
-          cache: 'pip'
+          python-version: '3.11'  # no cache to avoid requirements.txt error [web:11][web:18]
 
       - name: Install dependencies
         run: |
@@ -65,7 +64,7 @@ jobs:
               echo "No changes to commit"
             else
               git commit -m "Update EPG schedule - $(date '+%Y-%m-%d %H:%M:%S')"
-              git push origin $(git rev-parse --abbrev-ref HEAD)
+              git push origin "$(git rev-parse --abbrev-ref HEAD)"
             fi
           else
             echo "No schedule directory found"
