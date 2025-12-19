@@ -1,64 +1,47 @@
+# .github/workflows/update-epg.yml
+
 name: Update EPG Schedules
 
 on:
   schedule:
-    # Run every 6 hours (adjust as needed)
-    - cron: '0 */6 * * *'
-  workflow_dispatch: # Allow manual triggers
-  push:
-    branches:
-      - main
-    paths:
-      - '__channel.txt'
-      - 'epg_scraper.py'
-      - '.github/workflows/update-epg.yml'
+    # Daily at 3:00 AM UTC (12:00 AM America/Sao_Paulo, accounting for UTC-3)
+    - cron: '0 3 * * *'
+  workflow_dispatch:  # Allow manual trigger
 
 permissions:
   contents: write
 
 jobs:
-  update-epg:
+  update:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
-    
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 1
-      
-      - name: Set up Python
+          token: ${{ secrets.GITHUB_TOKEN }}  # Required for push
+
+      - name: Set up Python 3.11
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-          cache: 'pip'
-      
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          # No external dependencies needed - uses stdlib only
-      
+          pip install requests lxml
+
       - name: Run EPG scraper
+        run: python epg_scraper.py
+
+      - name: Commit and push updated schedules
         run: |
-          python epg_scraper.py
-        env:
-          PYTHONUNBUFFERED: '1'
-      
-      - name: Check for changes
-        id: git-check
-        run: |
-          git diff --exit-code schedule/ || echo "changes=true" >> $GITHUB_OUTPUT
-      
-      - name: Commit and push changes
-        if: steps.git-check.outputs.changes == 'true'
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
           git add schedule/
-          git commit -m "Auto update EPG schedules"
-          git push
-      
-      - name: No changes detected
-        if: steps.git-check.outputs.changes != 'true'
-        run: |
-          echo "No changes in EPG schedules"
+          if [[ $(git diff --staged --quiet) ]]; then
+            echo "No changes to commit."
+          else
+            git commit -m "Auto update EPG schedules"
+            git push
+          fi
