@@ -1,318 +1,172 @@
-#!/usr/bin/env python3
-"""
-EPG XML Scraper - Extracts channel schedules from EPG XML and saves to JSON
-Supports parallel processing for multiple channels
-"""
-
 import requests
-import xml.etree.ElementTree as ET
 import json
 import os
-from datetime import datetime, timedelta
-from pathlib import Path
+import re
+from bs4 import BeautifulSoup
+from datetime import datetime, timedelta, time
+from concurrent.futures import ThreadPoolExecutor
 import pytz
-from concurrent.futures import ThreadPoolExecutor, as_completed
-import logging
 
-# Setup logging
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s'
-)
-logger = logging.getLogger(__name__)
+BASE_URL = "https://mi.tv/br/async/channel"
+TIMEZONE = pytz.timezone("America/Sao_Paulo")
 
-# Configuration
-EPG_URL = "https://raw.githubusercontent.com/globetvapp/epg/refs/heads/main/Brazil/brazil1.xml"
-CHANNELS_FILE = "__channels.txt"
-OUTPUT_DIR_TODAY = "schedule/today"
-OUTPUT_DIR_TOMORROW = "schedule/tomorrow"
-TIMEZONE = pytz.timezone('America/Sao_Paulo')  # Brazil - São Paulo timezone
+START_DAY = time(5, 30)
+END_DAY = time(23, 59)
+MIDNIGHT = time(0, 0)
+END_NIGHT = time(5, 29)
 
-def create_directories():
-    """Create output directories if they don't exist"""
-    Path(OUTPUT_DIR_TODAY).mkdir(parents=True, exist_ok=True)
-    Path(OUTPUT_DIR_TOMORROW).mkdir(parents=True, exist_ok=True)
-    logger.info(f"Output directories created/verified: {OUTPUT_DIR_TODAY}, {OUTPUT_DIR_TOMORROW}")
+HEADERS = {
+    "User-Agent": "Mozilla/5.0"
+}
 
-def read_channels_file():
-    """Read channel names/IDs from __channels.txt"""
-    if not os.path.exists(CHANNELS_FILE):
-        logger.error(f"Channel file '{CHANNELS_FILE}' not found!")
-        return []
-    
-    with open(CHANNELS_FILE, 'r', encoding='utf-8') as f:
-        channels = [line.strip() for line in f if line.strip()]
-    
-    logger.info(f"Loaded {len(channels)} channels from {CHANNELS_FILE}")
-    return channels
+os.makedirs("schedule/today", exist_ok=True)
+os.makedirs("schedule/tomorrow", exist_ok=True)
 
-def fetch_epg_xml():
-    """Fetch EPG XML from URL"""
-    logger.info(f"Fetching EPG XML from {EPG_URL}")
+LOG_FILE = "epg.log"
+
+
+def log(msg):
+    with open(LOG_FILE, "a", encoding="utf-8") as f:
+        f.write(f"{datetime.now().isoformat()} | {msg}\n")
+
+
+def fetch_html(url):
+    r = requests.get(url, headers=HEADERS, timeout=20)
+    r.raise_for_status()
+    return r.text
+
+
+def parse_shows(html):
+    soup = BeautifulSoup(html, "html.parser")
+    shows = []
+
+    for li in soup.select("ul.broadcasts li"):
+        time_el = li.select_one(".time")
+        title_el = li.select_one("h2")
+        desc_el = li.select_one(".synopsis")
+        cat_el = li.select_one(".sub-title")
+        img_el = li.select_one(".image")
+
+        if not time_el or not title_el:
+            continue
+
+        start_time = time_el.text.strip()
+        category = cat_el.text.strip() if cat_el else ""
+
+        logo = ""
+        if img_el and "background-image" in img_el.get("style", ""):
+            match = re.search(r"url\('(.+?)'\)", img_el["style"])
+            if match:
+                logo = match.group(1)
+
+        shows.append({
+            "show_name": title_el.text.strip(),
+            "start_time": start_time,
+            "show_logo": logo,
+            "show_category": category,
+            "episode_description": desc_el.text.strip() if desc_el else ""
+        })
+
+    return shows
+
+
+def build_schedule(shows, target_date):
+    schedule = []
+
+    for i, show in enumerate(shows):
+        start_t = datetime.strptime(show["start_time"], "%H:%M").time()
+        start_dt = TIMEZONE.localize(datetime.combine(target_date, start_t))
+
+        if i + 1 < len(shows):
+            next_t = datetime.strptime(shows[i + 1]["start_time"], "%H:%M").time()
+            end_dt = TIMEZONE.localize(datetime.combine(target_date, next_t))
+        else:
+            end_dt = start_dt + timedelta(minutes=30)
+
+        schedule.append({
+            "show_name": show["show_name"],
+            "show_logo": show["show_logo"],
+            "show_category": show["show_category"],
+            "start_time": start_dt.strftime("%H:%M"),
+            "end_time": end_dt.strftime("%H:%M"),
+            "episode_description": show["episode_description"]
+        })
+
+    return schedule
+
+
+def filter_by_time(schedule, start_time, end_time):
+    return [
+        s for s in schedule
+        if start_time <= datetime.strptime(s["start_time"], "%H:%M").time() <= end_time
+    ]
+
+
+def process_channel(channel):
     try:
-        response = requests.get(EPG_URL, timeout=30)
-        response.raise_for_status()
-        logger.info(f"EPG XML fetched successfully ({len(response.content)} bytes)")
-        return ET.fromstring(response.content)
-    except Exception as e:
-        logger.error(f"Failed to fetch EPG XML: {e}")
-        raise
+        log(f"START channel: {channel}")
 
-def parse_xmltv_time(time_str):
-    """
-    Parse XMLTV time format: '20251218013000 +0000'
-    Returns datetime object in UTC
-    """
-    try:
-        # Remove timezone info and parse
-        time_part = time_str.split()[0] if ' ' in time_str else time_str
-        # Format: YYYYMMDDhhmmss
-        dt_utc = datetime.strptime(time_part, '%Y%m%d%H%M%S')
-        dt_utc = pytz.UTC.localize(dt_utc)
-        return dt_utc
-    except Exception as e:
-        logger.warning(f"Failed to parse time '{time_str}': {e}")
-        return None
+        html_y = fetch_html(f"{BASE_URL}/{channel}/ontem/330")
+        html_t = fetch_html(f"{BASE_URL}/{channel}/330")
+        html_tm = fetch_html(f"{BASE_URL}/{channel}/amanha/330")
 
-def format_brazilian_time(dt_utc):
-    """Convert UTC datetime to São Paulo time and format"""
-    if dt_utc is None:
-        return None
-    
-    dt_br = dt_utc.astimezone(TIMEZONE)
-    # Format: HH:MM AM/PM
-    return dt_br.strftime('%I:%M %p').lstrip('0').replace(' 0', ' ')
+        shows_y = parse_shows(html_y)
+        shows_t = parse_shows(html_t)
+        shows_tm = parse_shows(html_tm)
 
-def format_brazilian_date(dt_utc):
-    """Convert UTC datetime to São Paulo date"""
-    if dt_utc is None:
-        return None
-    
-    dt_br = dt_utc.astimezone(TIMEZONE)
-    return dt_br.strftime('%Y-%m-%d')
+        today_date = datetime.now(TIMEZONE).date()
+        tomorrow_date = today_date + timedelta(days=1)
 
-def get_today_tomorrow_dates():
-    """Get today and tomorrow dates in Brazilian timezone"""
-    now = datetime.now(TIMEZONE)
-    today = now.replace(hour=0, minute=0, second=0, microsecond=0)
-    tomorrow = today + timedelta(days=1)
-    
-    return {
-        'today': today,
-        'tomorrow': tomorrow,
-        'today_str': today.strftime('%Y-%m-%d'),
-        'tomorrow_str': tomorrow.strftime('%Y-%m-%d')
-    }
+        today_schedule = (
+            filter_by_time(build_schedule(shows_y, today_date), MIDNIGHT, END_NIGHT)
+            + filter_by_time(build_schedule(shows_t, today_date), START_DAY, END_DAY)
+        )
 
-def normalize_channel_id(channel_name):
-    """Convert channel name to channel ID format (with .br suffix if not present)"""
-    channel_name = channel_name.strip()
-    # If it doesn't end with .br, add it for searching in XML
-    if not channel_name.endswith('.br'):
-        # Try both with and without .br
-        return [f"{channel_name}.br", channel_name]
-    return [channel_name]
+        tomorrow_schedule = (
+            filter_by_time(build_schedule(shows_t, tomorrow_date), MIDNIGHT, END_NIGHT)
+            + filter_by_time(build_schedule(shows_tm, tomorrow_date), START_DAY, END_DAY)
+        )
 
-def sanitize_filename(filename):
-    """Convert channel name to safe filename"""
-    # Replace spaces and special chars with dashes
-    filename = filename.replace(' ', '-').replace('.br', '')
-    # Remove any other special characters
-    filename = ''.join(c if c.isalnum() or c == '-' else '' for c in filename)
-    return filename.lower()
+        filename = channel.lower().replace("_", "-") + ".json"
+        channel_name = channel.replace("-", " ").title()
 
-def scrape_channel_schedule(args):
-    """
-    Scrape schedule for a single channel
-    Args: (root_element, channel_name, dates_dict)
-    """
-    root, channel_name, dates = args
-    
-    try:
-        logger.info(f"Processing channel: {channel_name}")
-        
-        # Try to find the channel with different variations
-        channel_ids = normalize_channel_id(channel_name)
-        programmes = []
-        
-        for channel_id in channel_ids:
-            programmes = root.findall(f".//programme[@channel='{channel_id}']")
-            if programmes:
-                logger.info(f"Found {len(programmes)} programmes for {channel_id}")
-                break
-        
-        if not programmes:
-            logger.warning(f"No programmes found for {channel_name} (tried: {channel_ids})")
-            return {
-                'status': 'no_data',
-                'channel': channel_name
-            }
-        
-        # Filter and organize by date
-        today_schedule = []
-        tomorrow_schedule = []
-        
-        for prog in programmes:
-            start_str = prog.get('start')
-            stop_str = prog.get('stop')
-            
-            start_dt = parse_xmltv_time(start_str)
-            stop_dt = parse_xmltv_time(stop_str)
-            
-            if not start_dt or not stop_dt:
-                continue
-            
-            # Get Brazilian date
-            prog_date = format_brazilian_date(start_dt)
-            
-            # Extract show details
-            title = prog.find('title')
-            show_name = title.text if title is not None and title.text else "Unknown"
-            
-            desc = prog.find('desc')
-            show_desc = desc.text if desc is not None and desc.text else ""
-            
-            icon = prog.find('icon')
-            show_logo = icon.get('src') if icon is not None else ""
-            
-            # Format times
-            start_time = format_brazilian_time(start_dt)
-            end_time = format_brazilian_time(stop_dt)
-            
-            schedule_item = {
-                "show_name": show_name,
-                "show_logo": show_logo,
-                "start_time": start_time,
-                "end_time": end_time,
-                "episode_description": show_desc
-            }
-            
-            # Categorize by date
-            if prog_date == dates['today_str']:
-                today_schedule.append((start_dt, schedule_item))
-            elif prog_date == dates['tomorrow_str']:
-                tomorrow_schedule.append((start_dt, schedule_item))
-        
-        # Sort by start time and remove the sort key
-        today_schedule.sort(key=lambda x: x[0])
-        tomorrow_schedule.sort(key=lambda x: x[0])
-        
-        today_schedule = [item for _, item in today_schedule]
-        tomorrow_schedule = [item for _, item in tomorrow_schedule]
-        
-        # Get clean channel name
-        clean_channel_name = channel_name.replace('.br', '').strip()
-        
-        # Prepare output
-        result = {
-            'status': 'success',
-            'channel': clean_channel_name,
-            'today': {
-                'filename': f"{OUTPUT_DIR_TODAY}/{sanitize_filename(channel_name)}.json",
-                'data': {
-                    "channel": clean_channel_name,
-                    "date": dates['today_str'],
+        # -------- NEW LOGIC (ONLY CHANGE) -------- #
+
+        if not today_schedule:
+            log(f"SKIPPED today → {channel} (no shows found)")
+        else:
+            with open(f"schedule/today/{filename}", "w", encoding="utf-8") as f:
+                json.dump({
+                    "channel": channel_name,
+                    "date": today_date.strftime("%d/%m/%Y"),
                     "schedule": today_schedule
-                },
-                'count': len(today_schedule)
-            },
-            'tomorrow': {
-                'filename': f"{OUTPUT_DIR_TOMORROW}/{sanitize_filename(channel_name)}.json",
-                'data': {
-                    "channel": clean_channel_name,
-                    "date": dates['tomorrow_str'],
-                    "schedule": tomorrow_schedule
-                },
-                'count': len(tomorrow_schedule)
-            }
-        }
-        
-        logger.info(f"✓ {clean_channel_name}: {len(today_schedule)} today, {len(tomorrow_schedule)} tomorrow")
-        return result
-        
-    except Exception as e:
-        logger.error(f"Error processing channel {channel_name}: {e}")
-        return {
-            'status': 'error',
-            'channel': channel_name,
-            'error': str(e)
-        }
+                }, f, ensure_ascii=False, indent=2)
+            log(f"SAVED today → schedule/today/{filename} ({len(today_schedule)} shows)")
 
-def save_json(filepath, data):
-    """Save data to JSON file"""
-    try:
-        with open(filepath, 'w', encoding='utf-8') as f:
-            json.dump(data, f, ensure_ascii=False, indent=2)
-        logger.info(f"Saved: {filepath}")
+        if not tomorrow_schedule:
+            log(f"SKIPPED tomorrow → {channel} (no shows found)")
+        else:
+            with open(f"schedule/tomorrow/{filename}", "w", encoding="utf-8") as f:
+                json.dump({
+                    "channel": channel_name,
+                    "date": tomorrow_date.strftime("%d/%m/%Y"),
+                    "schedule": tomorrow_schedule
+                }, f, ensure_ascii=False, indent=2)
+            log(f"SAVED tomorrow → schedule/tomorrow/{filename} ({len(tomorrow_schedule)} shows)")
+
     except Exception as e:
-        logger.error(f"Failed to save {filepath}: {e}")
+        log(f"FAILED channel: {channel} | {e}")
+
 
 def main():
-    logger.info("=" * 60)
-    logger.info("EPG Scraper Started")
-    logger.info("=" * 60)
-    
-    # Create directories
-    create_directories()
-    
-    # Read channels
-    channels = read_channels_file()
-    if not channels:
-        logger.error("No channels to process!")
-        return
-    
-    # Fetch EPG XML
-    root = fetch_epg_xml()
-    
-    # Get dates
-    dates = get_today_tomorrow_dates()
-    logger.info(f"Today: {dates['today_str']}, Tomorrow: {dates['tomorrow_str']}")
-    
-    # Prepare arguments for parallel processing
-    args_list = [(root, channel, dates) for channel in channels]
-    
-    # Process channels in parallel
-    results = []
-    max_workers = min(8, len(channels))  # Use up to 8 threads
-    logger.info(f"Starting parallel processing with {max_workers} workers...")
-    
-    with ThreadPoolExecutor(max_workers=max_workers) as executor:
-        futures = {executor.submit(scrape_channel_schedule, args): args[1] for args in args_list}
-        
-        for future in as_completed(futures):
-            try:
-                result = future.result()
-                results.append(result)
-                
-                # Save JSON files if successful
-                if result['status'] == 'success':
-                    save_json(result['today']['filename'], result['today']['data'])
-                    save_json(result['tomorrow']['filename'], result['tomorrow']['data'])
-                    
-            except Exception as e:
-                logger.error(f"Future execution error: {e}")
-    
-    # Print summary
-    logger.info("\n" + "=" * 60)
-    logger.info("PROCESSING SUMMARY")
-    logger.info("=" * 60)
-    
-    success_count = sum(1 for r in results if r['status'] == 'success')
-    no_data_count = sum(1 for r in results if r['status'] == 'no_data')
-    error_count = sum(1 for r in results if r['status'] == 'error')
-    
-    logger.info(f"Total Channels: {len(channels)}")
-    logger.info(f"Successful: {success_count}")
-    logger.info(f"No Data: {no_data_count}")
-    logger.info(f"Errors: {error_count}")
-    
-    total_today = sum(r['today']['count'] for r in results if r['status'] == 'success')
-    total_tomorrow = sum(r['tomorrow']['count'] for r in results if r['status'] == 'success')
-    
-    logger.info(f"\nTotal Programmes - Today: {total_today}, Tomorrow: {total_tomorrow}")
-    logger.info("=" * 60)
-    logger.info("EPG Scraper Completed")
-    logger.info("=" * 60)
+    open(LOG_FILE, "w", encoding="utf-8").close()
+
+    with open("channel.txt", "r", encoding="utf-8") as f:
+        channels = [c.strip() for c in f if c.strip()]
+
+    with ThreadPoolExecutor(max_workers=6) as executor:
+        executor.map(process_channel, channels)
+
 
 if __name__ == "__main__":
     main()
