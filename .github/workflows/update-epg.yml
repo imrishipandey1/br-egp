@@ -4,9 +4,9 @@ name: Update EPG Schedules
 
 on:
   schedule:
-    # Daily at 3:00 AM UTC (12:00 AM America/Sao_Paulo, accounting for UTC-3)
+    # Daily at 3:00 AM UTC (approx 12:00 AM America/Sao_Paulo, UTC-3)
     - cron: '0 3 * * *'
-  workflow_dispatch:  # Allow manual trigger
+  workflow_dispatch:  # Manual trigger allowed
 
 permissions:
   contents: write
@@ -19,9 +19,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}  # Required for push
+          token: ${{ secrets.GITHUB_TOKEN }}  # Enables push
 
-      - name: Install system dependencies
+      - name: Install system dependencies (for lxml)
         run: |
           sudo apt-get update
           sudo apt-get install -y libxml2-dev libxslt1-dev
@@ -39,29 +39,31 @@ jobs:
 
       - name: Verify installations
         run: |
-          ${{ steps.python.outputs.python-path }} -c "import requests; print('requests installed successfully')"
-          ${{ steps.python.outputs.python-path }} -c "from lxml import etree; print('lxml installed successfully')"
+          ${{ steps.python.outputs.python-path }} -c "import requests; print('requests OK')"
+          ${{ steps.python.outputs.python-path }} -c "from lxml import etree; print('lxml OK')"
 
-      - name: Create channels.txt if not exists
+      - name: Ensure channels.txt exists
         run: |
           if [ ! -f channels.txt ]; then
-            echo "Record TV.br" > channels.txt
-            echo "Globo.br" >> channels.txt
-            echo "SBT.br" >> channels.txt
-            echo "channels.txt created with example channels."
+            cat > channels.txt << EOF
+Record TV.br
+Globo.br
+SBT.br
+EOF
+            echo "Created channels.txt with example channels."
           else
-            echo "channels.txt already exists."
+            echo "channels.txt exists."
           fi
 
       - name: Run EPG scraper
         run: ${{ steps.python.outputs.python-path }} epg_scraper.py
 
-      - name: Commit and push updated schedules
+      - name: Commit and push updates
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add schedule/ channels.txt
-          if [[ $(git diff --staged --quiet) ]]; then
+          if git diff --staged --quiet; then
             echo "No changes to commit."
           else
             git commit -m "Auto update EPG schedules"
