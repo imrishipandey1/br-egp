@@ -1,11 +1,18 @@
 #!/usr/bin/env python3
 """
-EPG Scraper Script
+EPG Scraper Script - Strict Interval Clamping Version
 
 Fetches EPG XML from the specified URL, parses it using streaming iterparse to minimize memory usage,
 filters programmes for channels listed in channels.txt, converts UTC times to America/Sao_Paulo timezone,
-clips programmes to daily windows (12:00 AM - 11:59 PM local), handles midnight-crossing shows by truncation/splitting,
-and outputs structured JSON files for today and tomorrow schedules per channel.
+clamps each programme interval to daily windows (00:00 - 23:59 local) without splitting,
+validates clamped duration > 0, and outputs structured JSON files for today and tomorrow schedules per channel.
+
+Key Rules Enforced:
+- Each programme produces AT MOST ONE entry per day.
+- Clamp: final_start = max(prog_start, day_start), final_end = min(prog_end, day_end)
+- Skip if final_start >= final_end (zero/negative duration).
+- No artificial segments or duplicates within a day.
+- Handles midnight-crossing by separate clamping per day (appears in both if spans).
 
 Requirements:
 - Python 3.11+
@@ -37,7 +44,7 @@ CHANNELS_FILE = "channels.txt"
 OUTPUT_BASE = "schedule"
 SAO_PAULO_TZ = ZoneInfo("America/Sao_Paulo")
 UTC_TZ = timezone.utc
-TIME_FORMAT = "%I:%M %p"  # 12-hour with AM/PM, leading zero for hours 01-09
+TIME_FORMAT = "%I:%M %p"  # 12-hour with AM/PM (e.g., 01:30 AM, 10:45 PM)
 
 
 def parse_time(time_str: str) -> datetime:
@@ -51,6 +58,7 @@ def parse_time(time_str: str) -> datetime:
 def read_channels() -> set:
     """
     Read channel IDs from channels.txt, one per line, stripped.
+    Ignores blank lines.
     Returns set for O(1) lookups.
     """
     if not os.path.exists(CHANNELS_FILE):
@@ -80,7 +88,6 @@ def fetch_and_parse_programmes(channels: set) -> Dict[str, List[Dict[str, Any]]]
         io.BytesIO(response.content),
         events=("end",),
         tag="programme",
-        no_network=False,  # Not needed, but safe
     )
     
     for event, elem in context:
@@ -92,6 +99,12 @@ def fetch_and_parse_programmes(channels: set) -> Dict[str, List[Dict[str, Any]]]
                 try:
                     start_utc = parse_time(start_str)
                     stop_utc = parse_time(stop_str)
+                    
+                    # Ensure start < stop (basic sanity)
+                    if start_utc >= stop_utc:
+                        print(f"Warning: Invalid programme duration for {channel_id}, skipping.")
+                        elem.clear()
+                        continue
                     
                     title_elem = elem.find("title")
                     title = title_elem.text.strip() if title_elem is not None and title_elem.text else ""
@@ -108,7 +121,7 @@ def fetch_and_parse_programmes(channels: set) -> Dict[str, List[Dict[str, Any]]]
                 except ValueError as e:
                     print(f"Warning: Skipping invalid programme time for channel {channel_id}: {e}")
         
-        # Clear element and children to free memory
+        # Clear element and children to free memory (streaming)
         elem.clear()
         while elem.getprevious() is not None:
             del elem.getparent()[0]
@@ -118,20 +131,20 @@ def fetch_and_parse_programmes(channels: set) -> Dict[str, List[Dict[str, Any]]]
     return dict(programmes)  # Convert to regular dict
 
 
-def get_daily_windows() -> tuple[datetime, datetime, datetime, datetime]:
+def get_daily_windows() -> tuple[datetime, datetime, datetime, datetime, Any, Any]:
     """
     Get start/end windows for today and tomorrow in Sao Paulo TZ.
-    Today: current local date 00:00:00 to 23:59:59.999999
-    Tomorrow: next day same.
+    Today/Tomorrow: 00:00:00 to 23:59:59.999999 local.
+    Returns: today_start, today_end, tomorrow_start, tomorrow_end, today_date, tomorrow_date
     """
     now_local = datetime.now(SAO_PAULO_TZ)
     today_date = now_local.date()
     tomorrow_date = today_date + timedelta(days=1)
     
     today_start = datetime.combine(today_date, time.min, tzinfo=SAO_PAULO_TZ)
-    today_end = datetime.combine(today_date, time.max, tzinfo=SAO_PAULO_TZ)
+    today_end = datetime.combine(today_date, time(23, 59, 59, 999999), tzinfo=SAO_PAULO_TZ)
     tomorrow_start = datetime.combine(tomorrow_date, time.min, tzinfo=SAO_PAULO_TZ)
-    tomorrow_end = datetime.combine(tomorrow_date, time.max, tzinfo=SAO_PAULO_TZ)
+    tomorrow_end = datetime.combine(tomorrow_date, time(23, 59, 59, 999999), tzinfo=SAO_PAULO_TZ)
     
     return today_start, today_end, tomorrow_start, tomorrow_end, today_date, tomorrow_date
 
@@ -143,63 +156,74 @@ def process_channel(
     today_end: datetime,
     tomorrow_start: datetime,
     tomorrow_end: datetime,
-    today_date,
-    tomorrow_date,
+    today_date: Any,
+    tomorrow_date: Any,
 ) -> None:
     """
-    Process programmes for one channel: clip to windows, format, sort by start time, write JSONs.
-    Handles truncation for midnight-crossing (Cases A, B, C).
-    Skips zero-duration clips.
-    Writes to schedule/today/ and schedule/tomorrow/
+    Process programmes for one channel: clamp each to windows (once per day), validate duration,
+    format, sort by clamped start time, write JSONs.
+    Enforces: AT MOST ONE entry per programme per day. No splitting.
+    Handles Cases A/B/C via clamping (midnight-crossing appears clamped in both days if valid).
+    Skips channels with no data.
     """
     if not programmes:
         print(f"Warning: No programmes found for channel {channel_id}. Skipping.")
         return
     
     display_name = channel_id.replace(".br", "")
-    filename = display_name.replace(" ", "-") + ".json"
+    filename = display_name.replace(" ", "-").lower() + ".json"  # Lowercase, case insensitive as per rules
     
-    # Sort programmes by UTC start time (should be chronological)
+    # Sort programmes by UTC start time (chronological order)
     programmes.sort(key=lambda p: p["start"])
     
+    # Define windows as list for loop
     windows = [
         (today_start, today_end, today_date, "today"),
         (tomorrow_start, tomorrow_end, tomorrow_date, "tomorrow"),
     ]
     
-    for window_start, window_end, window_date_obj, dir_name in windows:
+    for day_start, day_end, day_date_obj, dir_name in windows:
         schedule_entries = []
         
         for prog in programmes:
+            # Step 1: Convert to local TZ
             local_start = prog["start"].astimezone(SAO_PAULO_TZ)
             local_end = prog["stop"].astimezone(SAO_PAULO_TZ)
             
-            clip_start = max(local_start, window_start)
-            clip_end = min(local_end, window_end)
+            # Step 2: Clamp ONCE per day (no split)
+            clamped_start = max(local_start, day_start)
+            clamped_end = min(local_end, day_end)
             
-            if clip_start < clip_end:
-                start_str = clip_start.strftime(TIME_FORMAT)
-                end_str = clip_end.strftime(TIME_FORMAT)
-                
-                entry = {
-                    "show_name": prog["title"],
-                    "show_logo": "",
-                    "start_time": start_str,
-                    "end_time": end_str,
-                    "episode_description": prog["desc"],
-                }
-                schedule_entries.append((clip_start, entry))
+            # Step 3: HARD VALIDATION - skip if zero/negative duration
+            if clamped_start >= clamped_end:
+                continue  # Do not save; enforces no fake/empty entries
+            
+            # Step 4: Format times
+            start_str = clamped_start.strftime(TIME_FORMAT)
+            end_str = clamped_end.strftime(TIME_FORMAT)
+            
+            # Build entry (one per valid clamp)
+            entry = {
+                "show_name": prog["title"],
+                "show_logo": "",  # Always empty if unavailable
+                "start_time": start_str,
+                "end_time": end_str,
+                "episode_description": prog["desc"],
+            }
+            schedule_entries.append((clamped_start, entry))  # For sorting by clamped start
         
-        # Sort by clip start time
+        # Sort by clamped start time (maintain order, no duplicates)
         schedule_entries.sort(key=lambda x: x[0])
         schedule = [entry for _, entry in schedule_entries]
         
+        # Build JSON data
         data = {
             "channel": display_name,
-            "date": window_date_obj.isoformat(),
+            "date": day_date_obj.isoformat(),  # YYYY-MM-DD
             "schedule": schedule,
         }
         
+        # Write to file
         output_dir = os.path.join(OUTPUT_BASE, dir_name)
         os.makedirs(output_dir, exist_ok=True)
         output_file = os.path.join(output_dir, filename)
@@ -211,7 +235,7 @@ def process_channel(
 
 
 def main():
-    """Main execution: parse, process in parallel, output JSONs."""
+    """Main execution: read channels, fetch/parse XML, process channels in parallel, output JSONs."""
     channels = read_channels()
     if not channels:
         print("No channels to process. Exiting.")
@@ -222,26 +246,24 @@ def main():
     
     today_start, today_end, tomorrow_start, tomorrow_end, today_date, tomorrow_date = get_daily_windows()
     
-    # Parallel processing per channel
+    # Parallel processing: one thread per channel (thread-safe, no shared state)
     with ThreadPoolExecutor(max_workers=min(10, len(channels))) as executor:
         futures = [
             executor.submit(
                 process_channel,
                 channel_id,
                 programmes_by_channel.get(channel_id, []),
-                today_start,
-                today_end,
-                tomorrow_start,
-                tomorrow_end,
-                today_date,
-                tomorrow_date,
+                today_start, today_end,
+                tomorrow_start, tomorrow_end,
+                today_date, tomorrow_date,
             )
             for channel_id in channels
         ]
+        # Wait for completion, propagate exceptions
         for future in futures:
-            future.result()  # Wait for all, raise any exceptions
+            future.result()
     
-    print("EPG scraping completed.")
+    print("EPG scraping completed successfully.")
 
 
 if __name__ == "__main__":
