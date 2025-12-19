@@ -8,7 +8,7 @@ import xml.etree.ElementTree as ET
 import json
 import os
 import re
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, time
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from typing import List, Dict, Optional, Tuple
@@ -22,10 +22,6 @@ CHANNEL_FILE = "__channel.txt"
 OUTPUT_DIR = "schedule"
 TARGET_TIMEZONE = ZoneInfo("America/Sao_Paulo")
 UTC_TIMEZONE = ZoneInfo("UTC")
-
-# Date boundaries in local timezone
-MIDNIGHT = "12:00 AM"
-END_OF_DAY = "11:59 PM"
 
 
 def log(message: str, level: str = "INFO"):
@@ -65,7 +61,6 @@ def parse_xmltv_time(time_str: str) -> datetime:
     """
     # Extract date/time and timezone parts
     dt_part = time_str[:14]  # 20251218013000
-    tz_part = time_str[15:]   # +0000
     
     # Parse the datetime
     dt = datetime.strptime(dt_part, "%Y%m%d%H%M%S")
@@ -91,52 +86,30 @@ def format_date(dt: datetime) -> str:
     return dt.strftime("%Y-%m-%d")
 
 
-def get_day_boundaries(reference_date: datetime) -> Tuple[datetime, datetime]:
+def get_day_boundaries(date_obj: datetime) -> Tuple[datetime, datetime]:
     """
     Get midnight to 11:59:59.999999 PM boundaries for a given date
     Returns (start, end) in local timezone
     """
-    date_only = reference_date.date()
+    date_only = date_obj.date()
     
     # Start: midnight (00:00:00)
-    start = datetime.combine(date_only, datetime.min.time())
+    start = datetime.combine(date_only, time.min)
     start = start.replace(tzinfo=TARGET_TIMEZONE)
     
     # End: 23:59:59.999999
-    end = datetime.combine(date_only, datetime.max.time())
+    end = datetime.combine(date_only, time.max)
     end = end.replace(tzinfo=TARGET_TIMEZONE)
     
     return start, end
 
 
-def should_include_in_day(
-    show_start: datetime,
-    show_end: datetime,
-    day_start: datetime,
-    day_end: datetime
-) -> bool:
+def get_show_effective_date(show_start: datetime) -> datetime:
     """
-    Check if a show overlaps with the day boundary (12:00 AM - 11:59 PM)
+    Determine which day a show belongs to based on its start time.
+    A show belongs to the day it starts in (local timezone).
     """
-    # Show must overlap with the day window
-    return not (show_end <= day_start or show_start > day_end)
-
-
-def adjust_show_times(
-    show_start: datetime,
-    show_end: datetime,
-    day_start: datetime,
-    day_end: datetime
-) -> Tuple[datetime, datetime]:
-    """
-    Adjust show times to fit within day boundaries
-    - If show starts before day: set to 12:00 AM
-    - If show ends after day: set to 11:59 PM
-    """
-    adjusted_start = max(show_start, day_start)
-    adjusted_end = min(show_end, day_end)
-    
-    return adjusted_start, adjusted_end
+    return show_start.date()
 
 
 def download_epg() -> str:
@@ -155,8 +128,8 @@ def download_epg() -> str:
 def process_channel(
     channel_id: str,
     xml_content: str,
-    today_local: datetime,
-    tomorrow_local: datetime
+    today_date: datetime,
+    tomorrow_date: datetime
 ) -> Tuple[str, bool]:
     """
     Process a single channel and generate today/tomorrow schedules
@@ -176,8 +149,12 @@ def process_channel(
         log(f"Found {len(programmes)} programmes for {channel_id}")
         
         # Get day boundaries
-        today_start, today_end = get_day_boundaries(today_local)
-        tomorrow_start, tomorrow_end = get_day_boundaries(tomorrow_local)
+        today_start, today_end = get_day_boundaries(today_date)
+        tomorrow_start, tomorrow_end = get_day_boundaries(tomorrow_date)
+        
+        # Target dates for comparison
+        today_target = today_date.date()
+        tomorrow_target = tomorrow_date.date()
         
         # Collect shows for each day
         today_shows = []
@@ -193,6 +170,9 @@ def process_channel(
                 start_local = convert_to_local(start_utc)
                 stop_local = convert_to_local(stop_utc)
                 
+                # Determine which day this show belongs to based on START time
+                show_date = start_local.date()
+                
                 # Extract show details
                 title = prog.find('title')
                 desc = prog.find('desc')
@@ -200,11 +180,21 @@ def process_channel(
                 show_name = title.text if title is not None and title.text else "Unknown"
                 episode_desc = desc.text if desc is not None and desc.text else ""
                 
-                # Check if show belongs to TODAY
-                if should_include_in_day(start_local, stop_local, today_start, today_end):
-                    adj_start, adj_end = adjust_show_times(
-                        start_local, stop_local, today_start, today_end
-                    )
+                # Process for TODAY
+                if show_date == today_target:
+                    # Show starts today
+                    adj_start = start_local
+                    adj_end = stop_local
+                    
+                    # If show ends after midnight (into tomorrow), truncate to 11:59 PM
+                    if adj_end.date() > today_target:
+                        adj_end = today_end
+                    
+                    # Ensure times are within today's boundary
+                    if adj_start < today_start:
+                        adj_start = today_start
+                    if adj_end > today_end:
+                        adj_end = today_end
                     
                     today_shows.append({
                         "show_name": show_name,
@@ -214,11 +204,59 @@ def process_channel(
                         "episode_description": episode_desc
                     })
                 
-                # Check if show belongs to TOMORROW
-                if should_include_in_day(start_local, stop_local, tomorrow_start, tomorrow_end):
-                    adj_start, adj_end = adjust_show_times(
-                        start_local, stop_local, tomorrow_start, tomorrow_end
-                    )
+                # Process for TOMORROW
+                elif show_date == tomorrow_target:
+                    # Show starts tomorrow
+                    adj_start = start_local
+                    adj_end = stop_local
+                    
+                    # If show ends after midnight (into day after tomorrow), truncate to 11:59 PM
+                    if adj_end.date() > tomorrow_target:
+                        adj_end = tomorrow_end
+                    
+                    # Ensure times are within tomorrow's boundary
+                    if adj_start < tomorrow_start:
+                        adj_start = tomorrow_start
+                    if adj_end > tomorrow_end:
+                        adj_end = tomorrow_end
+                    
+                    tomorrow_shows.append({
+                        "show_name": show_name,
+                        "show_logo": "",
+                        "start_time": format_time_12h(adj_start),
+                        "end_time": format_time_12h(adj_end),
+                        "episode_description": episode_desc
+                    })
+                
+                # Special case: Show started YESTERDAY but ends today
+                elif show_date < today_target and stop_local.date() >= today_target:
+                    # Include in today's schedule starting from midnight
+                    adj_start = today_start
+                    adj_end = stop_local
+                    
+                    # Ensure end time doesn't exceed today
+                    if adj_end > today_end:
+                        adj_end = today_end
+                    
+                    today_shows.append({
+                        "show_name": show_name,
+                        "show_logo": "",
+                        "start_time": format_time_12h(adj_start),
+                        "end_time": format_time_12h(adj_end),
+                        "episode_description": episode_desc
+                    })
+                
+                # Special case: Show started TODAY but ends in TOMORROW
+                # This is already handled above (truncated to 11:59 PM for today)
+                # But we also need to add it to TOMORROW starting from midnight
+                elif show_date == today_target and stop_local.date() > tomorrow_target:
+                    # Add continuation to tomorrow
+                    adj_start = tomorrow_start
+                    adj_end = stop_local
+                    
+                    # Ensure end time doesn't exceed tomorrow
+                    if adj_end > tomorrow_end:
+                        adj_end = tomorrow_end
                     
                     tomorrow_shows.append({
                         "show_name": show_name,
@@ -240,7 +278,7 @@ def process_channel(
         if today_shows:
             today_data = {
                 "channel": display_name,
-                "date": format_date(today_local),
+                "date": format_date(today_date),
                 "schedule": today_shows
             }
             save_schedule(filename, "today", today_data)
@@ -252,7 +290,7 @@ def process_channel(
         if tomorrow_shows:
             tomorrow_data = {
                 "channel": display_name,
-                "date": format_date(tomorrow_local),
+                "date": format_date(tomorrow_date),
                 "schedule": tomorrow_shows
             }
             save_schedule(filename, "tomorrow", tomorrow_data)
@@ -264,6 +302,8 @@ def process_channel(
         
     except Exception as e:
         log(f"Failed to process {channel_id}: {e}", "ERROR")
+        import traceback
+        log(traceback.format_exc(), "ERROR")
         return channel_id, False
 
 
