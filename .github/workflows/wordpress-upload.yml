@@ -1,0 +1,41 @@
+name: Upload to WordPress via SFTP
+
+on:
+  schedule:
+    - cron: '45 0 * * *'  # 12:45 AM UTC daily
+  workflow_dispatch:  # Manual trigger option
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Create zip archive
+        run: |
+          zip -r wordpress-upload.zip schedule/today schedule/tomorrow downloaded-images
+      
+      - name: Upload via SFTP
+        uses: appleboy/scp-action@v0.1.7
+        with:
+          host: ${{ secrets.SFTP_HOST }}
+          username: ${{ secrets.SFTP_USERNAME }}
+          password: ${{ secrets.SFTP_PASSWORD }}
+          port: ${{ secrets.SFTP_PORT || 22 }}
+          source: "wordpress-upload.zip"
+          target: "/home/programacaotvhoje/htdocs/programacaotvhoje.com/wp-content/uploads/"
+      
+      - name: Unzip and cleanup via SSH
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.SFTP_HOST }}
+          username: ${{ secrets.SFTP_USERNAME }}
+          password: ${{ secrets.SFTP_PASSWORD }}
+          port: ${{ secrets.SFTP_PORT || 22 }}
+          script: |
+            cd /home/programacaotvhoje/htdocs/programacaotvhoje.com/wp-content/uploads/
+            unzip -o wordpress-upload.zip
+            rm wordpress-upload.zip
+            echo "Upload completed successfully"
