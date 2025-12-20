@@ -1,9 +1,7 @@
-2025-12-19T20:44:28.546990 | START channel: rede-globo
-2025-12-19T20:44:28.547364 | START channel: record-tv
-2025-12-19T20:44:28.548144 | START channel: sbt
-2025-12-19T20:44:29.108257 | SKIPPED today → record-tv (no shows found)
-2025-12-19T20:44:29.108303 | SKIPPED tomorrow → record-tv (no shows found)
-2025-12-19T20:44:29.205257 | SAVED today → schedule/today/rede-globo.json (23 shows)
-2025-12-19T20:44:29.205311 | SAVED today → schedule/today/sbt.json (18 shows)
-2025-12-19T20:44:29.205878 | SAVED tomorrow → schedule/tomorrow/rede-globo.json (25 shows)
-2025-12-19T20:44:29.206032 | SAVED tomorrow → schedule/tomorrow/sbt.json (15 shows)
+2025-12-20T03:59:22.485817 | START channel: rede-globo
+2025-12-20T03:59:22.485966 | START channel: record-tv
+2025-12-20T03:59:22.486495 | START channel: sbt
+2025-12-20T03:59:22.740674 | SKIPPED today → record-tv (no shows found)
+2025-12-20T03:59:22.740713 | SKIPPED tomorrow → record-tv (no shows found)
+2025-12-20T03:59:42.562522 | FAILED channel: rede-globo | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
+2025-12-20T03:59:42.577296 | FAILED channel: sbt | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
