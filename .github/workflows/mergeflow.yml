@@ -1,0 +1,75 @@
+name: Brazil EPG - Complete Pipeline
+on:
+  schedule:
+    - cron: '30 3 * * *'  # 12:30 AM São Paulo (03:30 UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  complete-pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      # Step 1: EPG Scraper
+      - name: Install EPG dependencies
+        run: pip install requests beautifulsoup4 pytz
+      
+      - name: Run EPG scraper
+        run: python epg_scraper.py
+      
+      - name: Commit EPG data
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add schedule/ epg.log
+          git commit -m "Auto update Brazil EPG schedules" || exit 0
+          git push
+      
+      # Step 2: Download Images
+      - name: Install image dependencies
+        run: pip install requests pillow
+      
+      - name: Run image downloader
+        run: python download_show_images.py
+      
+      - name: Commit images
+        run: |
+          git add downloaded-images schedule
+          git commit -m "Download images, deduplicate URLs, convert to WebP" || exit 0
+          git push
+      
+      # Step 3: Upload to WordPress
+      - name: Create zip archive
+        run: zip -r wordpress-upload.zip schedule/today schedule/tomorrow downloaded-images
+      
+      - name: Upload via SFTP
+        uses: appleboy/scp-action@v0.1.7
+        with:
+          host: ${{ secrets.SFTP_HOST }}
+          username: ${{ secrets.SFTP_USERNAME }}
+          password: ${{ secrets.SFTP_PASSWORD }}
+          port: ${{ secrets.SFTP_PORT || 22 }}
+          source: "wordpress-upload.zip"
+          target: "/home/programacaotvhoje/htdocs/programacaotvhoje.com/wp-content/uploads/"
+      
+      - name: Unzip and cleanup via SSH
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.SFTP_HOST }}
+          username: ${{ secrets.SFTP_USERNAME }}
+          password: ${{ secrets.SFTP_PASSWORD }}
+          port: ${{ secrets.SFTP_PORT || 22 }}
+          script: |
+            cd /home/programacaotvhoje/htdocs/programacaotvhoje.com/wp-content/uploads/
+            unzip -o wordpress-upload.zip
+            rm wordpress-upload.zip
+            echo "Upload completed successfully"
