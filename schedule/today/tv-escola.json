@@ -1,154 +1,210 @@
 {
   "channel": "Tv Escola",
-  "date": "22/12/2025",
+  "date": "23/12/2025",
   "schedule": [
     {
-      "show_name": "Filhos da Liberdade",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_filhos-da-liberdade-1_l_m.webp",
-      "show_category": "Drama",
-      "start_time": "01:00",
-      "end_time": "01:30",
-      "episode_description": "Amara retorna ao quilombo onde nasceu e perde tragicamente sua filha. A partir deste trauma, ela passa a viajar misteriosamente pelo tempo."
-    },
-    {
-      "show_name": "Crisálida",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_crisalida_l_m.webp",
-      "show_category": "Drama",
-      "start_time": "01:30",
-      "end_time": "02:00",
-      "episode_description": "Histórias de jovens surdos que enfrentam os desafios de uma sociedade desenhada apenas para ouvintes. Ao cruzar narrativas e personagens, seu objetivo é evidenciar como o contato com as Libras é o agente transformador em um universo visual."
-    },
-    {
-      "show_name": "Entre Longes",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_entre-longes_l_m.webp",
-      "show_category": "Drama",
-      "start_time": "02:00",
-      "end_time": "02:30",
-      "episode_description": "Depois da Segunda Guerra, a enfermeira Rachel decide recomeçar sua vida em um lugar distante de todas as memórias do amor impossível que teve na Suíça. No Brasil, ela trabalha em um posto de saúde no município de Rosário Oeste, Mato Grosso."
-    },
-    {
-      "show_name": "Curtas ABC",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_curtas-abc_l_m.webp",
-      "show_category": "Entertainment",
-      "start_time": "02:30",
-      "end_time": "03:00",
-      "episode_description": "Curtas sobre projetos que a Agência Brasileira de Cooperação (ABC) promove junto a membros da Comunidade de Países de Língua Portuguesa (CPLP), impulsionando iniciativas em prol da transformação social."
-    },
-    {
-      "show_name": "Na Raiz dos Festejos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_na-raiz-dos-festejos_l_m.webp",
-      "show_category": "Documentary",
-      "start_time": "03:00",
-      "end_time": "03:30",
-      "episode_description": "As histórias sobre os festejos brasileiros, suas lendas, possíveis origens, curiosidades, simbologias e fatos que marcam a memória, a beleza e a resistência das manifestações populares do Brasil."
-    },
-    {
-      "show_name": "Sementes da Educação",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_sementes-da-educac-o_l_m.webp",
-      "show_category": "Documentary",
-      "start_time": "03:30",
-      "end_time": "04:00",
-      "episode_description": "Mesmo com recursos escassos, algumas escolas conseguiram inovar os métodos educacionais."
-    },
-    {
-      "show_name": "Sementes da Educação",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_sementes-da-educac-o_l_m.webp",
-      "show_category": "Documentary",
-      "start_time": "04:00",
-      "end_time": "04:30",
-      "episode_description": "Mesmo com recursos escassos, algumas escolas conseguiram inovar os métodos educacionais."
-    },
-    {
-      "show_name": "Compromisso Nacional Criança Alfabetizada",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_compromisso-nacional-crianca-alfabetizada_l_m.webp",
-      "show_category": "Educational",
-      "start_time": "04:30",
-      "end_time": "05:00",
-      "episode_description": "Programa visa alfabetizar crianças até o 2º ano do Ensino Fundamental, recuperar a aprendizagem nos anos iniciais, e mostrar esforço delas, destacando seus desafios e estratégias."
+      "show_name": "Histórias do Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_historias-do-brasil_l_m.jpg",
+      "show_category": "History",
+      "start_time": "00:15",
+      "end_time": "00:25",
+      "episode_description": "Acompanhe a história de figuras importantes e momentos decisivos da história do Brasil."
     },
     {
       "show_name": "Preto no Branco",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_preto-no-branco-2_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_preto-no-branco-2_l_m.jpg",
       "show_category": "Bus./financial",
-      "start_time": "05:00",
-      "end_time": "05:30",
+      "start_time": "00:25",
+      "end_time": "00:30",
       "episode_description": "Maria Gal comanda o programa que debate pautas raciais, abordando assuntos como a diversidade no mundo corporativo, racismo e finanças, intolerância religiosa, representatividade na publicidade, racismo no esporte e como ser antirracista."
     },
     {
-      "show_name": "Vida de Merendeira",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_vida-de-merendeira_l_m.webp",
-      "show_category": "Reality",
-      "start_time": "06:00",
-      "end_time": "07:00",
-      "episode_description": "Merendeiras de escolas cozinham receitas deliciosas e mostram como alimentam suas comunidades."
+      "show_name": "Se Liga na Educação - Enem",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_se-liga-na-educac-o-enem_l_m.jpg",
+      "show_category": "Educational",
+      "start_time": "00:30",
+      "end_time": "01:45",
+      "episode_description": "Acompanhe as aulas produzidas pela Secretaria de Estado de Educação de Minas Gerais."
     },
     {
-      "show_name": "Fortes do Brasil",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_fortes-do-brasil_l_m.webp",
+      "show_name": "Trilha de Letras",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_trilha-de-letras_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "01:45",
+      "end_time": "02:15",
+      "episode_description": "Autores expõem suas opiniões e críticas sobre diversos temas, unindo literatura e informação."
+    },
+    {
+      "show_name": "Histórias do Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_historias-do-brasil_l_m.jpg",
       "show_category": "History",
-      "start_time": "07:00",
-      "end_time": "07:30",
-      "episode_description": "A série, produzida em parceira com a Marinha do Brasil, conta a história dos principais fortes do país e suas particularidades."
+      "start_time": "02:15",
+      "end_time": "02:25",
+      "episode_description": "Acompanhe a história de figuras importantes e momentos decisivos da história do Brasil."
     },
     {
-      "show_name": "Faróis do Brasil",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_farois-do-brasil_l_m.webp",
-      "show_category": "Art",
-      "start_time": "07:30",
-      "end_time": "08:00",
-      "episode_description": "Solidão é um nome apropriado pra esse farol. Quando ele foi construído, em 1929, não tinha nada nesse ponto do litoral gaúcho. Mas para quem está navegando no mar ele tem sido um ponto de referência importante."
+      "show_name": "Preto no Branco",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_preto-no-branco-2_l_m.jpg",
+      "show_category": "Bus./financial",
+      "start_time": "02:25",
+      "end_time": "02:30",
+      "episode_description": "Maria Gal comanda o programa que debate pautas raciais, abordando assuntos como a diversidade no mundo corporativo, racismo e finanças, intolerância religiosa, representatividade na publicidade, racismo no esporte e como ser antirracista."
     },
     {
-      "show_name": "Parques do Brasil",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_parques-do-brasil_l_m.webp",
-      "show_category": "Environment",
-      "start_time": "08:00",
-      "end_time": "08:30",
-      "episode_description": "Um dos parques nacionais brasileiros, o Parque Nacional do Descobrimento compõe, com o Parque Nacional do Monte Pascoal e Pau Brasil, um corredor ecológico de mata atlântica da costa do descobrimento, administrado pelo Instituto Chico Mendes."
+      "show_name": "Conta a Virada",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_conta-a-virada_l_m.jpg",
+      "show_category": "Public affairs",
+      "start_time": "02:30",
+      "end_time": "03:00",
+      "episode_description": "Programa conta histórias de empreendedores e viradas nos próprios negócios."
     },
     {
-      "show_name": "Meu Pedaço do Brasil",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_meu-pedaco-do-brasil_l_m.webp",
-      "show_category": "Travel",
-      "start_time": "08:30",
-      "end_time": "09:00",
-      "episode_description": "Bruno Barros descobre e experimenta novos destinos turísticos do nosso país. As viagens levam o espectador para lindas praias, importantes museus e outras atrações imperdíveis do Brasil, com conversas descontraídas com moradores locais."
+      "show_name": "Adolescentes e o Mundo Digital",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "03:00",
+      "end_time": "03:30",
+      "episode_description": "Bate-papo entre adolescentes e especialistas sobre os desafios no contexto das redes sociais. Eles falam sobre tempestade hormonal, desenvolvimento integral, clima escolar, saúde mental e masculinidades."
     },
     {
-      "show_name": "Nossa Senhora do Nilo",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_nossa-senhora-do-nilo-2019_l_m.webp",
-      "show_category": "Drama / 2019",
-      "start_time": "09:00",
-      "end_time": "10:30",
-      "episode_description": "Uma história sobre um grupo de meninas ruandesas em um internato católico administrado por belgas."
+      "show_name": "Caminhos da Reportagem",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_caminhos-da-reportagem-1_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "03:30",
+      "end_time": "04:00",
+      "episode_description": "Um programa que oferece uma visão diferente, instigante e complexa de grandes histórias, por meio de viagens feitas pelo país e pelo mundo."
+    },
+    {
+      "show_name": "Preto no Branco",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_preto-no-branco-2_l_m.jpg",
+      "show_category": "Bus./financial",
+      "start_time": "04:00",
+      "end_time": "04:30",
+      "episode_description": "Maria Gal comanda o programa que debate pautas raciais, abordando assuntos como a diversidade no mundo corporativo, racismo e finanças, intolerância religiosa, representatividade na publicidade, racismo no esporte e como ser antirracista."
     },
     {
       "show_name": "Sementes da Educação",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_sementes-da-educac-o_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sementes-da-educac-o_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "04:30",
+      "end_time": "05:00",
+      "episode_description": "Mesmo com recursos escassos, algumas escolas conseguiram inovar os métodos educacionais."
+    },
+    {
+      "show_name": "Sem Dúvida Nenhuma",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sem-duvida-nenhuma_l_m.jpg",
+      "show_category": "Educational",
+      "start_time": "05:00",
+      "end_time": "05:15",
+      "episode_description": "O programa traz jornalismo, curiosidades e histórias da sala de aula e do mundo da educação. A cada edição, ideias criativas de professores, informações sobre o Enem e novidades do Ministério da Educação."
+    },
+    {
+      "show_name": "Pequenos Mestres",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pequenos-mestres_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "05:15",
+      "end_time": "05:30",
+      "episode_description": "Aprendendo a arte de sua família, os herdeiros de grandes mestres da cultura popular brasileira ensinam a importância de preservar uma cultura passada de geração a geração."
+    },
+    {
+      "show_name": "Crisálida",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_crisalida_l_m.jpg",
+      "show_category": "Drama",
+      "start_time": "06:30",
+      "end_time": "07:00",
+      "episode_description": "Histórias de jovens surdos que enfrentam os desafios de uma sociedade desenhada apenas para ouvintes. Ao cruzar narrativas e personagens, seu objetivo é evidenciar como o contato com as Libras é o agente transformador em um universo visual."
+    },
+    {
+      "show_name": "Filhos da Liberdade",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_filhos-da-liberdade-1_l_m.jpg",
+      "show_category": "Drama",
+      "start_time": "07:00",
+      "end_time": "07:30",
+      "episode_description": "Amara retorna ao quilombo onde nasceu e perde tragicamente sua filha. A partir deste trauma, ela passa a viajar misteriosamente pelo tempo."
+    },
+    {
+      "show_name": "Sementes da Educação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sementes-da-educac-o_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "07:30",
+      "end_time": "08:00",
+      "episode_description": "Mesmo com recursos escassos, algumas escolas conseguiram inovar os métodos educacionais."
+    },
+    {
+      "show_name": "Adolescentes e o Mundo Digital",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "08:00",
+      "end_time": "08:30",
+      "episode_description": "Bate-papo entre adolescentes e especialistas sobre os desafios no contexto das redes sociais. Eles falam sobre tempestade hormonal, desenvolvimento integral, clima escolar, saúde mental e masculinidades."
+    },
+    {
+      "show_name": "Caminhos da Reportagem",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_caminhos-da-reportagem-1_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "08:30",
+      "end_time": "09:00",
+      "episode_description": "Um programa que oferece uma visão diferente, instigante e complexa de grandes histórias, por meio de viagens feitas pelo país e pelo mundo."
+    },
+    {
+      "show_name": "Na Raiz dos Festejos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_na-raiz-dos-festejos_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "09:00",
+      "end_time": "09:30",
+      "episode_description": "As histórias sobre os festejos brasileiros, suas lendas, possíveis origens, curiosidades, simbologias e fatos que marcam a memória, a beleza e a resistência das manifestações populares do Brasil."
+    },
+    {
+      "show_name": "Crisálida",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_crisalida_l_m.jpg",
+      "show_category": "Drama",
+      "start_time": "09:30",
+      "end_time": "10:00",
+      "episode_description": "Histórias de jovens surdos que enfrentam os desafios de uma sociedade desenhada apenas para ouvintes. Ao cruzar narrativas e personagens, seu objetivo é evidenciar como o contato com as Libras é o agente transformador em um universo visual."
+    },
+    {
+      "show_name": "Filhos da Liberdade",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_filhos-da-liberdade-1_l_m.jpg",
+      "show_category": "Drama",
+      "start_time": "10:00",
+      "end_time": "10:30",
+      "episode_description": "Amara retorna ao quilombo onde nasceu e perde tragicamente sua filha. A partir deste trauma, ela passa a viajar misteriosamente pelo tempo."
+    },
+    {
+      "show_name": "Sementes da Educação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sementes-da-educac-o_l_m.jpg",
       "show_category": "Documentary",
       "start_time": "10:30",
       "end_time": "11:00",
       "episode_description": "Mesmo com recursos escassos, algumas escolas conseguiram inovar os métodos educacionais."
     },
     {
-      "show_name": "Conta a Virada",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_conta-a-virada_l_m.webp",
-      "show_category": "Public affairs",
+      "show_name": "Preto no Branco",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_preto-no-branco-2_l_m.jpg",
+      "show_category": "Bus./financial",
       "start_time": "11:00",
       "end_time": "11:30",
+      "episode_description": "Maria Gal comanda o programa que debate pautas raciais, abordando assuntos como a diversidade no mundo corporativo, racismo e finanças, intolerância religiosa, representatividade na publicidade, racismo no esporte e como ser antirracista."
+    },
+    {
+      "show_name": "Conta a Virada",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_conta-a-virada_l_m.jpg",
+      "show_category": "Public affairs",
+      "start_time": "11:30",
+      "end_time": "12:00",
       "episode_description": "Programa conta histórias de empreendedores e viradas nos próprios negócios."
     },
     {
-      "show_name": "Olha Elas",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_olha-elas_l_m.webp",
-      "show_category": "Bus./financial",
-      "start_time": "11:30",
+      "show_name": "Adolescentes e o Mundo Digital",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "12:00",
       "end_time": "12:30",
-      "episode_description": "Bate-papos com histórias que visam inspirar outras empreendedoras que atuam em todo o país. Convidadas falam sobre a participação das mulheres em todos os espaços, empreendedorismo feminino e preto, combate à violência contra a mulher e muito mais."
+      "episode_description": "Bate-papo entre adolescentes e especialistas sobre os desafios no contexto das redes sociais. Eles falam sobre tempestade hormonal, desenvolvimento integral, clima escolar, saúde mental e masculinidades."
     },
     {
       "show_name": "Se Liga na Educação - Enem",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_se-liga-na-educac-o-enem_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_se-liga-na-educac-o-enem_l_m.jpg",
       "show_category": "Educational",
       "start_time": "12:30",
       "end_time": "13:45",
@@ -156,31 +212,39 @@
     },
     {
       "show_name": "Trilha de Letras",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_trilha-de-letras_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_trilha-de-letras_l_m.jpg",
       "show_category": "Interview",
       "start_time": "13:45",
       "end_time": "14:15",
       "episode_description": "Autores expõem suas opiniões e críticas sobre diversos temas, unindo literatura e informação."
     },
     {
-      "show_name": "Sem Dúvida Nenhuma",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_sem-duvida-nenhuma_l_m.webp",
-      "show_category": "Educational",
+      "show_name": "Histórias do Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_historias-do-brasil_l_m.jpg",
+      "show_category": "History",
       "start_time": "14:15",
-      "end_time": "14:30",
-      "episode_description": "O programa traz jornalismo, curiosidades e histórias da sala de aula e do mundo da educação. A cada edição, ideias criativas de professores, informações sobre o Enem e novidades do Ministério da Educação."
+      "end_time": "14:25",
+      "episode_description": "Acompanhe a história de figuras importantes e momentos decisivos da história do Brasil."
     },
     {
-      "show_name": "Na Raiz dos Festejos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_na-raiz-dos-festejos_l_m.webp",
-      "show_category": "Documentary",
+      "show_name": "Preto no Branco",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_preto-no-branco-2_l_m.jpg",
+      "show_category": "Bus./financial",
+      "start_time": "14:25",
+      "end_time": "14:30",
+      "episode_description": "Maria Gal comanda o programa que debate pautas raciais, abordando assuntos como a diversidade no mundo corporativo, racismo e finanças, intolerância religiosa, representatividade na publicidade, racismo no esporte e como ser antirracista."
+    },
+    {
+      "show_name": "Preto no Branco",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_preto-no-branco-2_l_m.jpg",
+      "show_category": "Bus./financial",
       "start_time": "14:30",
       "end_time": "15:00",
-      "episode_description": "As histórias sobre os festejos brasileiros, suas lendas, possíveis origens, curiosidades, simbologias e fatos que marcam a memória, a beleza e a resistência das manifestações populares do Brasil."
+      "episode_description": "Maria Gal comanda o programa que debate pautas raciais, abordando assuntos como a diversidade no mundo corporativo, racismo e finanças, intolerância religiosa, representatividade na publicidade, racismo no esporte e como ser antirracista."
     },
     {
       "show_name": "Sementes da Educação",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_sementes-da-educac-o_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sementes-da-educac-o_l_m.jpg",
       "show_category": "Documentary",
       "start_time": "15:00",
       "end_time": "15:30",
@@ -188,7 +252,7 @@
     },
     {
       "show_name": "Palaloos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_palaloos_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palaloos_l_m.jpg",
       "show_category": "Educational",
       "start_time": "15:30",
       "end_time": "15:45",
@@ -196,7 +260,7 @@
     },
     {
       "show_name": "Planeta Palavra",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_planeta-palavra_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_planeta-palavra_l_m.jpg",
       "show_category": "Children",
       "start_time": "15:45",
       "end_time": "15:55",
@@ -204,7 +268,7 @@
     },
     {
       "show_name": "Planeta Palavra",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_planeta-palavra_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_planeta-palavra_l_m.jpg",
       "show_category": "Children",
       "start_time": "15:55",
       "end_time": "16:05",
@@ -212,7 +276,7 @@
     },
     {
       "show_name": "Gildo",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_gildo_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_gildo_l_m.jpg",
       "show_category": "Children",
       "start_time": "16:05",
       "end_time": "16:20",
@@ -220,7 +284,7 @@
     },
     {
       "show_name": "Aninha - A Infância de Cora Coralina",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_aninha-a-infancia-de-cora-coralina_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aninha-a-infancia-de-cora-coralina_l_m.jpg",
       "show_category": "Children",
       "start_time": "16:20",
       "end_time": "16:30",
@@ -228,7 +292,7 @@
     },
     {
       "show_name": "Igarapé Mágico",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_igarape-magico-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_igarape-magico-1_l_m.jpg",
       "show_category": "Children",
       "start_time": "16:30",
       "end_time": "16:50",
@@ -236,7 +300,7 @@
     },
     {
       "show_name": "Passado da Hora",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_passado-da-hora_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_passado-da-hora_l_m.jpg",
       "show_category": "Children",
       "start_time": "16:50",
       "end_time": "17:00",
@@ -244,7 +308,7 @@
     },
     {
       "show_name": "Minha Casa, Nosso Mundo",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_minha-casa-nosso-mundo_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_minha-casa-nosso-mundo_l_m.jpg",
       "show_category": "Documentary",
       "start_time": "17:00",
       "end_time": "17:15",
@@ -252,7 +316,7 @@
     },
     {
       "show_name": "O Teco-Teco",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_o-teco-teco-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-teco-teco-1_l_m.jpg",
       "show_category": "Children",
       "start_time": "17:15",
       "end_time": "17:30",
@@ -260,7 +324,7 @@
     },
     {
       "show_name": "Manual de Sobrevivência da Literatura Brasileira",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_manual-de-sobrevivencia-da-literatura-brasileira_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_manual-de-sobrevivencia-da-literatura-brasileira_l_m.jpg",
       "show_category": "Children",
       "start_time": "17:30",
       "end_time": "18:00",
@@ -268,23 +332,23 @@
     },
     {
       "show_name": "Se Liga na Educação - Enem",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_se-liga-na-educac-o-enem_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_se-liga-na-educac-o-enem_l_m.jpg",
       "show_category": "Educational",
       "start_time": "18:00",
       "end_time": "19:15",
       "episode_description": "Acompanhe as aulas produzidas pela Secretaria de Estado de Educação de Minas Gerais."
     },
     {
-      "show_name": "Trilha de Letras",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_trilha-de-letras_l_m.webp",
-      "show_category": "Interview",
+      "show_name": "Adolescentes e o Mundo Digital",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Special",
       "start_time": "19:15",
       "end_time": "19:45",
-      "episode_description": "Autores expõem suas opiniões e críticas sobre diversos temas, unindo literatura e informação."
+      "episode_description": "Bate-papo entre adolescentes e especialistas sobre os desafios no contexto das redes sociais. Eles falam sobre tempestade hormonal, desenvolvimento integral, clima escolar, saúde mental e masculinidades."
     },
     {
       "show_name": "Histórias do Brasil",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_historias-do-brasil_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_historias-do-brasil_l_m.jpg",
       "show_category": "History",
       "start_time": "19:45",
       "end_time": "19:55",
@@ -292,55 +356,39 @@
     },
     {
       "show_name": "Preto no Branco",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_preto-no-branco-2_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_preto-no-branco-2_l_m.jpg",
       "show_category": "Bus./financial",
       "start_time": "19:55",
       "end_time": "20:00",
       "episode_description": "Maria Gal comanda o programa que debate pautas raciais, abordando assuntos como a diversidade no mundo corporativo, racismo e finanças, intolerância religiosa, representatividade na publicidade, racismo no esporte e como ser antirracista."
     },
     {
-      "show_name": "Conta a Virada",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_conta-a-virada_l_m.webp",
-      "show_category": "Public affairs",
+      "show_name": "Olha Elas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_olha-elas_l_m.jpg",
+      "show_category": "Bus./financial",
       "start_time": "20:00",
-      "end_time": "20:30",
-      "episode_description": "Programa conta histórias de empreendedores e viradas nos próprios negócios."
-    },
-    {
-      "show_name": "Adolescentes e o Mundo Digital",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/fallback_other_l_m.webp",
-      "show_category": "Special",
-      "start_time": "20:30",
       "end_time": "21:00",
-      "episode_description": "Bate-papo entre adolescentes e especialistas sobre os desafios no contexto das redes sociais. Eles falam sobre tempestade hormonal, desenvolvimento integral, clima escolar, saúde mental e masculinidades."
+      "episode_description": "Bate-papos com histórias que visam inspirar outras empreendedoras que atuam em todo o país. Convidadas falam sobre a participação das mulheres em todos os espaços, empreendedorismo feminino e preto, combate à violência contra a mulher e muito mais."
     },
     {
       "show_name": "Sementes da Educação",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_sementes-da-educac-o_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sementes-da-educac-o_l_m.jpg",
       "show_category": "Documentary",
       "start_time": "21:00",
       "end_time": "21:30",
       "episode_description": "Mesmo com recursos escassos, algumas escolas conseguiram inovar os métodos educacionais."
     },
     {
-      "show_name": "Sem Dúvida Nenhuma",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_sem-duvida-nenhuma_l_m.webp",
-      "show_category": "Educational",
+      "show_name": "Preto no Branco",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_preto-no-branco-2_l_m.jpg",
+      "show_category": "Bus./financial",
       "start_time": "21:30",
-      "end_time": "21:45",
-      "episode_description": "O programa traz jornalismo, curiosidades e histórias da sala de aula e do mundo da educação. A cada edição, ideias criativas de professores, informações sobre o Enem e novidades do Ministério da Educação."
-    },
-    {
-      "show_name": "Pequenos Mestres",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_pequenos-mestres_l_m.webp",
-      "show_category": "Documentary",
-      "start_time": "21:45",
       "end_time": "22:00",
-      "episode_description": "Aprendendo a arte de sua família, os herdeiros de grandes mestres da cultura popular brasileira ensinam a importância de preservar uma cultura passada de geração a geração."
+      "episode_description": "Maria Gal comanda o programa que debate pautas raciais, abordando assuntos como a diversidade no mundo corporativo, racismo e finanças, intolerância religiosa, representatividade na publicidade, racismo no esporte e como ser antirracista."
     },
     {
       "show_name": "Palaloos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_palaloos_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palaloos_l_m.jpg",
       "show_category": "Educational",
       "start_time": "22:00",
       "end_time": "22:15",
@@ -348,7 +396,7 @@
     },
     {
       "show_name": "Planeta Palavra",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_planeta-palavra_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_planeta-palavra_l_m.jpg",
       "show_category": "Children",
       "start_time": "22:15",
       "end_time": "22:25",
@@ -356,7 +404,7 @@
     },
     {
       "show_name": "Gildo",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_gildo_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_gildo_l_m.jpg",
       "show_category": "Children",
       "start_time": "22:25",
       "end_time": "22:40",
@@ -364,7 +412,7 @@
     },
     {
       "show_name": "Aninha - A Infância de Cora Coralina",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_aninha-a-infancia-de-cora-coralina_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aninha-a-infancia-de-cora-coralina_l_m.jpg",
       "show_category": "Children",
       "start_time": "22:40",
       "end_time": "22:50",
@@ -372,7 +420,7 @@
     },
     {
       "show_name": "Igarapé Mágico",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_igarape-magico-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_igarape-magico-1_l_m.jpg",
       "show_category": "Children",
       "start_time": "22:50",
       "end_time": "23:05",
@@ -380,7 +428,7 @@
     },
     {
       "show_name": "Passado da Hora",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_passado-da-hora_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_passado-da-hora_l_m.jpg",
       "show_category": "Children",
       "start_time": "23:05",
       "end_time": "23:15",
@@ -388,7 +436,7 @@
     },
     {
       "show_name": "Minha Casa, Nosso Mundo",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_minha-casa-nosso-mundo_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_minha-casa-nosso-mundo_l_m.jpg",
       "show_category": "Documentary",
       "start_time": "23:15",
       "end_time": "23:30",
@@ -396,7 +444,7 @@
     },
     {
       "show_name": "O Teco-Teco",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_o-teco-teco-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-teco-teco-1_l_m.jpg",
       "show_category": "Children",
       "start_time": "23:30",
       "end_time": "23:45",
@@ -404,27 +452,27 @@
     },
     {
       "show_name": "Manual de Sobrevivência da Literatura Brasileira",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_manual-de-sobrevivencia-da-literatura-brasileira_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_manual-de-sobrevivencia-da-literatura-brasileira_l_m.jpg",
       "show_category": "Children",
       "start_time": "23:45",
       "end_time": "00:15",
       "episode_description": "Os primos Gabriela e Rodrigo embarcam em aventuras mágicas a partir de uma biblioteca secreta, enfrentando uma vilã que quer alterar os destinos dos clássicos da literatura brasileira."
     },
     {
-      "show_name": "Parques do Brasil",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_parques-do-brasil_l_m.webp",
-      "show_category": "Environment",
+      "show_name": "Fortes do Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_fortes-do-brasil_l_m.jpg",
+      "show_category": "History",
       "start_time": "05:30",
       "end_time": "06:00",
-      "episode_description": "Um dos parques nacionais brasileiros, o Parque Nacional do Descobrimento compõe, com o Parque Nacional do Monte Pascoal e Pau Brasil, um corredor ecológico de mata atlântica da costa do descobrimento, administrado pelo Instituto Chico Mendes."
+      "episode_description": "A série, produzida em parceira com a Marinha do Brasil, conta a história dos principais fortes do país e suas particularidades."
     },
     {
-      "show_name": "Meu Pedaço do Brasil",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-escola/today/br_meu-pedaco-do-brasil_l_m.webp",
-      "show_category": "Travel",
+      "show_name": "Parques do Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_parques-do-brasil_l_m.jpg",
+      "show_category": "Environment",
       "start_time": "06:00",
       "end_time": "06:30",
-      "episode_description": "Bruno Barros descobre e experimenta novos destinos turísticos do nosso país. As viagens levam o espectador para lindas praias, importantes museus e outras atrações imperdíveis do Brasil, com conversas descontraídas com moradores locais."
+      "episode_description": "Um dos parques nacionais brasileiros, o Parque Nacional do Descobrimento compõe, com o Parque Nacional do Monte Pascoal e Pau Brasil, um corredor ecológico de mata atlântica da costa do descobrimento, administrado pelo Instituto Chico Mendes."
     }
   ]
 }
