@@ -1,0 +1,374 @@
+{
+  "channel": "Food Network",
+  "date": "24/12/2025",
+  "schedule": [
+    {
+      "show_name": "Cake Boss",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cake-boss-s07e16_l_m.jpg",
+      "show_category": "Temporada 7 Episódio 16 - Retorno Meio Amargo",
+      "start_time": "00:02",
+      "end_time": "00:28",
+      "episode_description": "Uma crise toma conta da família Valastro quando a mãe de Buddy aparece para o feriado da Páscoa. Ela foi diagnosticada com uma doença séria. Para animar a todos, Buddy prepara um bolo exclusivo."
+    },
+    {
+      "show_name": "Pequenos Confeiteiros",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pequenos-confeiteiros-s02e01-torta-com-sorvete_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 1 - Torta com Sorvete",
+      "start_time": "00:28",
+      "end_time": "01:17",
+      "episode_description": "Para o primeiro desafio, Valerie Bertinelli e Duff Goldman pedem que dez dos melhores confeiteiros mirins do país transformem tortas clássicas em arte. E essas tortas não seriam nada sem um pouco de sorvete caseiro."
+    },
+    {
+      "show_name": "A Guerra dos Bolos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-guerra-dos-bolos-s03e12-onde-esta-wally_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 12 - Onde Está Wally?",
+      "start_time": "01:17",
+      "end_time": "02:05",
+      "episode_description": "Quatro ótimos confeiteiros batalham para terem seus deliciosos bolos em uma festa em comemoração ao viajante favorito de todos, o Wally, mas só um entre eles vai levar o prêmio de 10 mil dólares."
+    },
+    {
+      "show_name": "A Guerra dos Cupcakes",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-guerra-dos-cupcakes-s07e10_l_m.jpg",
+      "show_category": "Temporada 7 Episódio 10 - Rejeitados",
+      "start_time": "02:05",
+      "end_time": "02:54",
+      "episode_description": "Quatro confeiteiros que retornam, todos buscando uma segunda chance de ganhar a Guerra dos Cupcakes, lutam agora pela oportunidade de servir suas tortas numa festa VIP para a banda The All-American Rejects, ganhadora de um disco de platina."
+    },
+    {
+      "show_name": "A Guerra dos Cupcakes",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-guerra-dos-cupcakes-s07e06_l_m.jpg",
+      "show_category": "Temporada 7 Episódio 6 - Cupcakes de Líder de Torcida",
+      "start_time": "02:54",
+      "end_time": "03:40",
+      "episode_description": "Em uma nova e disputada prova, os confeiteiros participantes precisam se esforçar para mostrar seu talento, agradar os jurados e conquistar um lugar na festa em homenagem às melhores animadoras de torcida do país."
+    },
+    {
+      "show_name": "Batalha de Açúcar - Natal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_batalha-de-acucar-natal-s02e03_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 3",
+      "start_time": "03:40",
+      "end_time": "04:29",
+      "episode_description": "Cinco equipes criam o que acontece quando todos os perus do Dia de Ação de Graças decidem fugir."
+    },
+    {
+      "show_name": "Batalha de Açúcar - Natal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_batalha-de-acucar-natal-s02e04_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 4",
+      "start_time": "04:29",
+      "end_time": "05:12",
+      "episode_description": "As cinco equipes mostram aos jurados o que acontece quando há muita magia natalina e os brinquedos recém-criados ganham vida, escapam de suas caixas e enlouquecem."
+    },
+    {
+      "show_name": "Duelo com Bobby Flay",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_duelo-com-bobby-flay-s06e06-segredo-de-familia_l_m.jpg",
+      "show_category": "Temporada 6 Episódio 6 - Segredo de Família",
+      "start_time": "05:12",
+      "end_time": "05:36",
+      "episode_description": "Teremos comida judaica contra comida indiana quando o chef Ric Orlando, de NY, duelar contra Kiran Verma, de Houston, tentando derrotar Bobby Flay. A apresentadora Anne Burrell e o chef Spike Mendelsohn levam seus conhecimentos culinários à arena."
+    },
+    {
+      "show_name": "Chef Alex Contra Todos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_chef-alex-contra-todos-s04e10-chef-alex-contra-o-sudoeste_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 10 - Chef Alex Contra o Sudoeste",
+      "start_time": "06:00",
+      "end_time": "06:43",
+      "episode_description": "Eric Adjepong recebe chefs do Arizona, Novo México e Texas para mostrar a Alex Guarnaschelli o melhor do sudoeste americano."
+    },
+    {
+      "show_name": "Grandes Chefs - Torneio dos Campeões",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_grandes-chefs-torneio-dos-campe-es-s04e05-batalhas-do-mar-e-da-terra_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 5 - Batalhas do Mar e da Terra",
+      "start_time": "06:43",
+      "end_time": "08:20",
+      "episode_description": "Guy Fieri escolhe os oito chefs da nova rodada e revela uma novidade: o dobro de proteínas. Os chefs precisam preparar pratos com carne e frutos do mar, cuja combinação é decidida pelo randomizador."
+    },
+    {
+      "show_name": "Giada em Casa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_giada-em-casa-s02e10-um-ano-da-jade_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 10 - Um Ano da Jade",
+      "start_time": "08:20",
+      "end_time": "08:44",
+      "episode_description": "É o primeiro aniversário da Jade e Giada organizou uma festa no quintal de casa. O cardápio é inspirado em festa infantil. Ela servirá macarrão gravatinha com ervilha e cenoura, minissanduíches de almôndega e biscoito doce em formado de animais."
+    },
+    {
+      "show_name": "Giada em Casa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_giada-em-casa-s02e17-aloha-los-angeles_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 17 - Aloha, Los Angeles",
+      "start_time": "08:44",
+      "end_time": "09:07",
+      "episode_description": "Giada cria uma festa havaiana, com muita música típica, no quintal da casa dela. Até o cardápio tem um estilo havaiano, com tacos de peixe com rúcula, drumete de frango doce e picante e coquetel Aloha LA."
+    },
+    {
+      "show_name": "Receitas Caseiras da Valerie",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_receitas-caseiras-da-valerie-s12e04-viagem-ao-passado_l_m.jpg",
+      "show_category": "Temporada 12 Episódio 4 - Viagem ao Passado",
+      "start_time": "09:07",
+      "end_time": "09:31",
+      "episode_description": "Valerie Bertinelli prepara receitas que evocam seus papéis favoritos na TV. O cardápio inclui cacio e pepe, coquetel de camarão e, de sobremesa, bolo de laranja com baunilha."
+    },
+    {
+      "show_name": "Receitas Caseiras da Valerie",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_receitas-caseiras-da-valerie-s12e05-festa-do-fondue_l_m.jpg",
+      "show_category": "Temporada 12 Episódio 5 - Festa do Fondue",
+      "start_time": "09:31",
+      "end_time": "09:53",
+      "episode_description": "Valerie Bertinelli organiza uma \"festa do fondue\" para o casal de atores Melissa Peterman e John Brady. O cardápio inclui fondue de quatro queijos com molhos sortidos, legumes assados e, de sobremesa, fondue de chocolate com bananas fritas."
+    },
+    {
+      "show_name": "Refeição em 30 Minutos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_refeic-o-em-30-minutos-s30e09-controle-de-ingredientes_l_m.jpg",
+      "show_category": "Temporada 30 Episódio 9 - Controle de Ingredientes",
+      "start_time": "09:53",
+      "end_time": "10:17",
+      "episode_description": "Rachael Ray controla o sal, a gordura e a qualidade dos ingredientes de uma de suas receitas favoritas para viagem: frango com feijão verde e molho de feijão preto."
+    },
+    {
+      "show_name": "Refeição em 30 Minutos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_refeic-o-em-30-minutos-s30e10-sabores-amalfitanos_l_m.jpg",
+      "show_category": "Temporada 30 Episódio 10 - Sabores Amalfitanos",
+      "start_time": "10:17",
+      "end_time": "10:39",
+      "episode_description": "Rachael Ray evoca a Costa Amalfitana com massa de limão e camarões scampi com limão; seu marido, John, contribui com saborosos coquetéis de limonada."
+    },
+    {
+      "show_name": "Loucos por Churrasco",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_loucos-por-churrasco-s03e04-churrasco-de-ver-o_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 4 - Churrasco de Verão",
+      "start_time": "10:39",
+      "end_time": "11:02",
+      "episode_description": "Bobby Flay celebra o verão com churrasco. O cardápio inclui halibute com manjericão e legumes à puttanesca; salmão glaceado com xarope de bordo, mostarda e pimenta com salada de couve-de-bruxelas e linguiças grelhadas com chalotas e ricota."
+    },
+    {
+      "show_name": "Loucos por Churrasco",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_loucos-por-churrasco-s03e06-churrasco-espanhol-espetacular_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 6 - Churrasco Espanhol Espetacular",
+      "start_time": "11:02",
+      "end_time": "11:23",
+      "episode_description": "Bobby Flay cria um cardápio de churrasco com sabores espanhóis. Uma salada de frutos do mar, costelas de cordeiro grelhadas com molho barbecue de laranja e páprica defumada e salada de cogumelo portobello grelhado com pesto de avelãs."
+    },
+    {
+      "show_name": "Sabor na Brasa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabor-na-brasa-s03e11-banquetes-de-lareira_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 11 - Banquetes de Lareira",
+      "start_time": "11:23",
+      "end_time": "11:46",
+      "episode_description": "Roger Mooking visita dois restaurantes na Nova Inglaterra que oferecem banquetes feitos em lareiras. O Salem Cross Inn assa costelas em uma lareira interna e o Foster's Clambake prepara lagostas e frutos do mar ao ar livre."
+    },
+    {
+      "show_name": "Sabor na Brasa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabor-na-brasa-s03e12-brincando-com-fogo-na-nova-inglaterra_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 12 - Brincando com Fogo na Nova Inglaterra",
+      "start_time": "11:46",
+      "end_time": "12:08",
+      "episode_description": "Na Nova Inglaterra, Roger Mooking encontra duas pessoas que adoram brincar com fogo; a escritora Paula Marcoux o ensina a cozinhar mexilhões no vapor e o fazendeiro David Adamson mostra seus kits para churrasco de porco."
+    },
+    {
+      "show_name": "Lanchonetes Clássicas com Guy Fieri",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s19e07-duplas-de-arrasar_l_m.jpg",
+      "show_category": "Temporada 19 Episódio 7 - De Almôndegas a Pirulitos",
+      "start_time": "12:08",
+      "end_time": "12:33",
+      "episode_description": "Em Miami, na Flórida, um bar dá um toque especial a comidas de bar, como o burrito chimi e os pirulitos de lagosta. Em Sandy, Utah, um restaurante faz combos criativos, como os croquetes de lombo canadense com batata e pizza de feijão com bife."
+    },
+    {
+      "show_name": "Lanchonetes Clássicas com Guy Fieri",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s19e08-curtindo-key-west_l_m.jpg",
+      "show_category": "Temporada 19 Episódio 8 - Achando Comidas Reconfortantes pelo País",
+      "start_time": "12:33",
+      "end_time": "12:57",
+      "episode_description": "Em Miami, Flórida, um estudante de Direito trocou seu terno pela roupa de chef e faz pratos reconfortantes, como o rabo de touro apimentado e o The Big Ragoo. Em Park City, Utah, um rapaz da região serve pratos como o Chivito e a galinha com arroz."
+    },
+    {
+      "show_name": "Batalha de Açúcar - Natal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_batalha-de-acucar-natal-s02e03_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 3",
+      "start_time": "12:57",
+      "end_time": "13:40",
+      "episode_description": "Cinco equipes criam o que acontece quando todos os perus do Dia de Ação de Graças decidem fugir."
+    },
+    {
+      "show_name": "Batalha de Açúcar - Natal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_batalha-de-acucar-natal-s02e04_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 4",
+      "start_time": "13:40",
+      "end_time": "14:30",
+      "episode_description": "As cinco equipes mostram aos jurados o que acontece quando há muita magia natalina e os brinquedos recém-criados ganham vida, escapam de suas caixas e enlouquecem."
+    },
+    {
+      "show_name": "Duelo com Bobby Flay",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_duelo-com-bobby-flay-s16e09-a-bela-e-a-fera_l_m.jpg",
+      "show_category": "Temporada 16 Episódio 9 - A Bela e a Fera",
+      "start_time": "14:30",
+      "end_time": "14:54",
+      "episode_description": "A chef Deb Caplan enfrenta Nick Lisotto, de Boston. Scott Conant se une à atriz e modelo Olivia Culpo para mostrar que Bobby não está pronto para a batalha final."
+    },
+    {
+      "show_name": "Duelo com Bobby Flay",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_duelo-com-bobby-flay-s16e10-costa-leste_l_m.jpg",
+      "show_category": "Temporada 16 Episódio 10 - Costa Leste",
+      "start_time": "14:54",
+      "end_time": "15:18",
+      "episode_description": "Robert Sisca, de Boston, e Michael Brennan, de Atlantic City, formam uma batalha da costa leste na cozinha. A atriz Susie Essman e Sunny Anderson devem escolher quem enfrentará Bobby Flay."
+    },
+    {
+      "show_name": "Chopped - Doce Desafio",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_chopped-doce-desafio-s02e09_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 9 - Sobremesas Bizarras",
+      "start_time": "15:18",
+      "end_time": "16:01",
+      "episode_description": "Os chefs concorrentes encaram fazer um estranho doce tradicional japonês e um ovo muito grande. Além disso, um sorvete esquisito é uma delícia comparado aos pés de um certo animal."
+    },
+    {
+      "show_name": "Food Truck - A Grande Corrida",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_food-truck-a-grande-corrida-s12e03-alta-temperatura_l_m.jpg",
+      "show_category": "Temporada 12 Episódio 3 - Alta Temperatura",
+      "start_time": "16:01",
+      "end_time": "16:48",
+      "episode_description": "As coisas esquentam em Palm Springs, Califórnia, onde as equipes de food trucks devem superar o calor extremo, assim como o medo de um desafio aéreo inédito. Um ingrediente misterioso melhorar todos os pratos."
+    },
+    {
+      "show_name": "Lanchonetes Clássicas com Guy Fieri",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s19e11-grelhando-curtindo-e-comendo-frango-huli-huli_l_m.jpg",
+      "show_category": "Temporada 19 Episódio 11 - Grelhando, Curtindo e Comendo Frango Huli Huli",
+      "start_time": "16:48",
+      "end_time": "17:11",
+      "episode_description": "Em Miami, Flórida, um casal serve comida norte-americana com um toque do século 19, como frango frito defumado e pernil de porco ao estilo Búfalo. Em Orange County, Califórnia, um food truck faz bifes grelhados para o chamado \"sanduíche bêbado\"."
+    },
+    {
+      "show_name": "Lanchonetes Clássicas com Guy Fieri",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s19e12-de-almondegas-a-pirulitos_l_m.jpg",
+      "show_category": "Temporada 19 Episódio 12 - Comida Virtuosa",
+      "start_time": "17:11",
+      "end_time": "17:32",
+      "episode_description": "Conheça alguns pratos ecléticos na costa do Oceano Pacífico. Em Los Angeles, um grupo de amigos serve pratos que nos sentimos culpados por amar. Entre eles, o sanduíche Jerry Gordo, que é uma festa de frituras, traz de palitos de frango a carnes."
+    },
+    {
+      "show_name": "Lanchonetes Clássicas com Guy Fieri",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s21e01-curtindo-boston_l_m.jpg",
+      "show_category": "Temporada 21 Episódio 1 - Curtindo Boston",
+      "start_time": "17:32",
+      "end_time": "17:56",
+      "episode_description": "Guy estaciona o seu carro em Boston para provar as variedades do lugar. Perto dali, em Allston, dois restaurantes dividem a mesma cozinha e fazem pratos completamente diferentes: comida de rua mexicana de um lado e comida chique de bar do outro."
+    },
+    {
+      "show_name": "Lanchonetes Clássicas com Guy Fieri",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s21e02-molhos-maravilhosos_l_m.jpg",
+      "show_category": "Temporada 21 Episódio 2 - Molhos Maravilhosos",
+      "start_time": "17:56",
+      "end_time": "18:17",
+      "episode_description": "Guy adiciona todo tipo de molho a pratos maravilhosos. Em Cincinnati, ele come frango com molho barbecue e um chili vegetariano. Já em Boston, um restaurante local deixa tudo mais picante, de um frango com capim-limão a um sanduíche de carne moída."
+    },
+    {
+      "show_name": "Na Rota do Sabor",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_na-rota-do-sabor-s07e06-lendas-locais_l_m.jpg",
+      "show_category": "Temporada 7 Episódio 6 - Lendas Locais",
+      "start_time": "18:17",
+      "end_time": "19:04",
+      "episode_description": "As lendas dos EUA são: taco de peixe com carne macia e despedaçando coberto com molho de pimenta em San Diego, um chili de Cincinnati com uma pilha de cheddar e um frango frito crocante e suculento acompanhado de macarrão com queijo em Atlanta."
+    },
+    {
+      "show_name": "Loucos por Churrasco",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_loucos-por-churrasco-s03e10-banquete-do-oriente-medio_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 10 - Banquete do Oriente Médio",
+      "start_time": "19:04",
+      "end_time": "19:28",
+      "episode_description": "Saboroso churrasco inspirado no Oriente Médio. Shawarma de cordeiro com uma pasta de pimentão grelhado, nozes e tahine; salada de figos grelhados com mel, queijo feta e pistache; codorna grelhada com molho barbecue de romã e tabule."
+    },
+    {
+      "show_name": "Loucos por Churrasco",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_loucos-por-churrasco-s03e12-churrasco-tropical_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 12 - Churrasco Tropical",
+      "start_time": "19:28",
+      "end_time": "19:49",
+      "episode_description": "Bobby Flay leva seu churrasco para as ilhas caribenhas com costela de porco grelhada, salada de radicchio e manga verde, além de batatas-doces grelhadas no estilo Hasselback e o coquetel Dark and Stormy."
+    },
+    {
+      "show_name": "Sabores da América com Michael Symon",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabores-da-america-com-michael-symon-s05e08-sabores-exoticos_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 8 - Sabores Exóticos",
+      "start_time": "19:49",
+      "end_time": "20:11",
+      "episode_description": "Em Cleveland, Michael relembra sua ascendência grega ao comer hambúrguer de carneiro com sal de azeitona kalamata; um restaurante de Indianapolis inova servindo costeleta de javali e um enroladinho com salsicha de pato."
+    },
+    {
+      "show_name": "Cozinhando no Quintal com Michael Symon",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cozinhando-no-quintal-com-michael-symon-s01e01-mama-mia-que-bela-almondega_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - Mama Mia, que Bela Almôndega!",
+      "start_time": "20:11",
+      "end_time": "20:33",
+      "episode_description": "Inspirado na culinária de sua mãe, Michael Symon prepara almôndegas de frango à parmegiana na churrasqueira, adicionando ricota. Ele faz um rápido molho vermelho doce enquanto a esposa, Liz, prepara polenta sobre as chamas da fogueira."
+    },
+    {
+      "show_name": "Sabor na Brasa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabor-na-brasa-s03e13-celebrac-o-de-primavera-no-kentucky_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 13 - Celebração de Primavera no Kentucky",
+      "start_time": "20:33",
+      "end_time": "20:56",
+      "episode_description": "Em Lancaster, Kentucky, Roger Mooking e Richard McCallister preparam frangos temperados em uma base inspirada nas churrasqueiras uruguaias. Roger contribui com milho na espiga, temperado com ervas e óleo de coco."
+    },
+    {
+      "show_name": "Sabor na Brasa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabor-na-brasa-s04e10-suculento-e-crocante_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 10 - Suculento e Crocante",
+      "start_time": "20:56",
+      "end_time": "21:18",
+      "episode_description": "Em Grand Rapids, Roger Mooking visita o Pit Stop, um restaurante para viagem famoso pelo suculento sanduíche de carne de porco picante, creme de coentro e molho barbecue, envolvido por uma tortilha crocante."
+    },
+    {
+      "show_name": "Batalha de Açúcar - Natal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_batalha-de-acucar-natal-s02e03_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 3",
+      "start_time": "21:18",
+      "end_time": "22:02",
+      "episode_description": "Cinco equipes criam o que acontece quando todos os perus do Dia de Ação de Graças decidem fugir."
+    },
+    {
+      "show_name": "Batalha de Açúcar - Natal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_batalha-de-acucar-natal-s02e04_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 4",
+      "start_time": "22:02",
+      "end_time": "22:52",
+      "episode_description": "As cinco equipes mostram aos jurados o que acontece quando há muita magia natalina e os brinquedos recém-criados ganham vida, escapam de suas caixas e enlouquecem."
+    },
+    {
+      "show_name": "Kitchen Boss",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_kitchen-boss-s02e27-kitchen-boss_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 27 - Banquete de Carne de Porco",
+      "start_time": "22:52",
+      "end_time": "23:17",
+      "episode_description": "Receitas com carne suína: vieiras grelhadas com bacon; \"South Jersey pulled pork\" - churrasco típico preparado normalmente com carne de pescoço desfiada; porco com feijão branco à moda campestre."
+    },
+    {
+      "show_name": "Kitchen Boss",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_kitchen-boss-s02e13-kitchen-boss_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 13 - Somente Carne",
+      "start_time": "23:17",
+      "end_time": "23:43",
+      "episode_description": "Buddy mostra como trazer a churrascaria para sua casa. Ele prepara filé de costela com molho, salada de repolho com queijo gorgonzola, creme de espinafre e anéis de cebola empanados."
+    },
+    {
+      "show_name": "Cake Boss",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cake-boss-s07e11-lights-camera-cake-1_l_m.jpg",
+      "show_category": "Temporada 7 Episódio 11 - Bolo da Era do Gelo",
+      "start_time": "23:43",
+      "end_time": "00:09",
+      "episode_description": "Buddy e seus filhos visitam a Blue Sky Studios, dos criadores de A Era do Gelo, para dar uma espiada na produção mais recente. Ele fará um bolo inspirado no filme."
+    },
+    {
+      "show_name": "Duelo com Bobby Flay",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_duelo-com-bobby-flay-s06e12-comedia-na-cozinha_l_m.jpg",
+      "show_category": "Temporada 6 Episódio 12 - Índia contra Wyoming",
+      "start_time": "05:36",
+      "end_time": "06:00",
+      "episode_description": "Rachael Ray e Ross Mathews, celebridades da TV, participam do programa e nada vai impedi-los de tentar derrotar Bobby Flay."
+    },
+    {
+      "show_name": "Buddy vs. Duff - O Duelo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_buddy-vs-duff-o-duelo-s03e03_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 3 - Doces Carros",
+      "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": "Buddy Valastro e Duff Goldman revisitam seu primeiro desafio da primeira temporada fazendo bolos em formato de carros. Duff tenta melhorar seu modelo lowrider. Buddy aceita o desafio de uma nova rodada com um Chevy 1957 conversível."
+    }
+  ]
+}

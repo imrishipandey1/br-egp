@@ -4,7 +4,7 @@
   "schedule": [
     {
       "show_name": "A Hora da Graça de Deus",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/rit/today/br_a-hora-da-graca-de-deus-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-hora-da-graca-de-deus-1_l_m.jpg",
       "show_category": "Religious",
       "start_time": "02:05",
       "end_time": "10:05",
@@ -12,7 +12,7 @@
     },
     {
       "show_name": "Consulta ao Doutor",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/rit/today/br_consulta-ao-doutor-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_consulta-ao-doutor-1_l_m.jpg",
       "show_category": "Health",
       "start_time": "00:05",
       "end_time": "01:30",
@@ -20,7 +20,7 @@
     },
     {
       "show_name": "Redação RIT",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/rit/today/br_redac-o-rit_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_redac-o-rit_l_m.jpg",
       "show_category": "News",
       "start_time": "01:30",
       "end_time": "01:40",
@@ -28,7 +28,7 @@
     },
     {
       "show_name": "SOS da Fé",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/rit/today/br_sos-da-fe_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sos-da-fe_l_m.jpg",
       "show_category": "Religious",
       "start_time": "01:40",
       "end_time": "02:30",
@@ -36,7 +36,7 @@
     },
     {
       "show_name": "Show da Fé",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/rit/today/br_show-da-fe-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_show-da-fe-1_l_m.jpg",
       "show_category": "Religious",
       "start_time": "02:30",
       "end_time": "03:30",
@@ -44,7 +44,7 @@
     },
     {
       "show_name": "SOS da Fé",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/rit/today/br_sos-da-fe_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sos-da-fe_l_m.jpg",
       "show_category": "Religious",
       "start_time": "03:30",
       "end_time": "04:00",
@@ -52,7 +52,7 @@
     },
     {
       "show_name": "Jornal das 22",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/rit/today/br_jornal-das-22_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-das-22_l_m.jpg",
       "show_category": "News",
       "start_time": "07:00",
       "end_time": "08:00",
@@ -60,7 +60,7 @@
     },
     {
       "show_name": "Semeando a Fé",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/rit/today/br_semeando-a-fe_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_semeando-a-fe_l_m.jpg",
       "show_category": "Religious",
       "start_time": "08:00",
       "end_time": "08:05",
@@ -68,63 +68,79 @@
     },
     {
       "show_name": "Vejam Só",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/rit/today/br_vejam-so-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vejam-so-1_l_m.jpg",
       "show_category": "Religious",
       "start_time": "08:05",
-      "end_time": "09:30",
+      "end_time": "08:30",
       "episode_description": "Programa de debates com linguagem simples e objetiva. Os temas abordados são polêmicos e curiosos."
     },
     {
-      "show_name": "Igreja da Graça no Seu Lar",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/rit/today/br_igreja-da-graca-no-seu-lar-1_l_m.webp",
-      "show_category": "Religious",
-      "start_time": "09:30",
-      "end_time": "11:00",
-      "episode_description": "Cultos realizados com ensinamentos bíblicos, louvor e adoração."
-    },
-    {
       "show_name": "Especial - Missões",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/rit/today/br_especial-miss-es-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_especial-miss-es-1_l_m.jpg",
       "show_category": "Special",
-      "start_time": "11:00",
-      "end_time": "11:30",
+      "start_time": "08:30",
+      "end_time": "09:00",
       "episode_description": "Acompanhe todas as campanhas missionárias e conheça as cidades visitadas pela caravana de fé do Missionário R.R. Soares. Confira reportagens e curiosidades das localidades e os momentos mais marcantes do culto realizado."
     },
     {
+      "show_name": "Igreja da Graça no Seu Lar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_igreja-da-graca-no-seu-lar-1_l_m.jpg",
+      "show_category": "Religious",
+      "start_time": "09:00",
+      "end_time": "10:30",
+      "episode_description": "Cultos realizados com ensinamentos bíblicos, louvor e adoração."
+    },
+    {
+      "show_name": "Sem Desvio",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sem-desvio_l_m.jpg",
+      "show_category": "Religious",
+      "start_time": "10:30",
+      "end_time": "11:30",
+      "episode_description": "Conteúdo cristão que mostra as transmissões das campanhas de fé feitas pelo Missionário R.R. Soares por todo o Brasil."
+    },
+    {
       "show_name": "Show da Fé",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/rit/today/br_show-da-fe-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_show-da-fe-1_l_m.jpg",
       "show_category": "Religious",
       "start_time": "11:30",
-      "end_time": "12:30",
+      "end_time": "13:00",
       "episode_description": "Acompanhe depoimentos, testemunhos e histórias surpreendentes de amor e de superação. Com uma ótica cristã, o programa leva o Evangelho de Jesus Cristo aos quatro cantos do mundo e difunde a reveladora Palavra de Deus."
     },
     {
       "show_name": "SOS da Fé",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/rit/today/br_sos-da-fe_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sos-da-fe_l_m.jpg",
       "show_category": "Religious",
-      "start_time": "12:30",
-      "end_time": "16:00",
+      "start_time": "13:00",
+      "end_time": "15:00",
       "episode_description": "Acompanhe as pregações e as mensagens diárias com o missionário R. R. Soares."
     },
     {
-      "show_name": "Sem Desvio",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/rit/today/br_sem-desvio_l_m.webp",
+      "show_name": "Especial - Missões",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_especial-miss-es-1_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "15:00",
+      "end_time": "15:30",
+      "episode_description": "Acompanhe todas as campanhas missionárias e conheça as cidades visitadas pela caravana de fé do Missionário R.R. Soares. Confira reportagens e curiosidades das localidades e os momentos mais marcantes do culto realizado."
+    },
+    {
+      "show_name": "Igreja da Graça no Seu Lar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_igreja-da-graca-no-seu-lar-1_l_m.jpg",
       "show_category": "Religious",
-      "start_time": "16:00",
-      "end_time": "17:01",
-      "episode_description": "Conteúdo cristão que mostra as transmissões das campanhas de fé feitas pelo Missionário R.R. Soares por todo o Brasil."
+      "start_time": "15:30",
+      "end_time": "17:00",
+      "episode_description": "Cultos realizados com ensinamentos bíblicos, louvor e adoração."
     },
     {
       "show_name": "Redação RIT",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/rit/today/br_redac-o-rit_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_redac-o-rit_l_m.jpg",
       "show_category": "News",
-      "start_time": "17:01",
+      "start_time": "17:00",
       "end_time": "17:30",
       "episode_description": "Acompanhe o boletim com notícias do Brasil e do Mundo."
     },
     {
       "show_name": "Semeando a Fé",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/rit/today/br_semeando-a-fe_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_semeando-a-fe_l_m.jpg",
       "show_category": "Religious",
       "start_time": "17:30",
       "end_time": "17:35",
@@ -132,7 +148,7 @@
     },
     {
       "show_name": "Zig-Zag Show",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/rit/today/br_zig-zag-show-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_zig-zag-show-1_l_m.jpg",
       "show_category": "Children",
       "start_time": "17:35",
       "end_time": "18:30",
@@ -140,7 +156,7 @@
     },
     {
       "show_name": "Redação RIT",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/rit/today/br_redac-o-rit_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_redac-o-rit_l_m.jpg",
       "show_category": "News",
       "start_time": "18:30",
       "end_time": "18:40",
@@ -148,7 +164,7 @@
     },
     {
       "show_name": "Semeando a Fé",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/rit/today/br_semeando-a-fe_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_semeando-a-fe_l_m.jpg",
       "show_category": "Religious",
       "start_time": "18:40",
       "end_time": "18:45",
@@ -156,7 +172,7 @@
     },
     {
       "show_name": "Hummm! Saboroso!",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/rit/today/br_hummm-saboroso_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hummm-saboroso_l_m.jpg",
       "show_category": "Cooking",
       "start_time": "18:45",
       "end_time": "19:30",
@@ -164,7 +180,7 @@
     },
     {
       "show_name": "Redação RIT",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/rit/today/br_redac-o-rit_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_redac-o-rit_l_m.jpg",
       "show_category": "News",
       "start_time": "19:30",
       "end_time": "19:40",
@@ -172,7 +188,7 @@
     },
     {
       "show_name": "Semeando a Fé",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/rit/today/br_semeando-a-fe_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_semeando-a-fe_l_m.jpg",
       "show_category": "Religious",
       "start_time": "19:40",
       "end_time": "19:45",
@@ -180,7 +196,7 @@
     },
     {
       "show_name": "Clip RIT",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/rit/today/br_clip-rit_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_clip-rit_l_m.jpg",
       "show_category": "Music",
       "start_time": "19:45",
       "end_time": "20:20",
@@ -188,7 +204,7 @@
     },
     {
       "show_name": "No Espelho da Fé",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/rit/today/br_no-espelho-da-fe_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_no-espelho-da-fe_l_m.jpg",
       "show_category": "Religious",
       "start_time": "20:20",
       "end_time": "20:30",
@@ -196,23 +212,23 @@
     },
     {
       "show_name": "Fala, Amigo",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/rit/today/br_fala-amigo-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_fala-amigo-1_l_m.jpg",
       "show_category": "Religious",
       "start_time": "20:30",
-      "end_time": "21:33",
+      "end_time": "21:30",
       "episode_description": "Uma conversa com o público de forma descontraída, com respostas para perguntas de internautas."
     },
     {
       "show_name": "Redação RIT",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/rit/today/br_redac-o-rit_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_redac-o-rit_l_m.jpg",
       "show_category": "News",
-      "start_time": "21:33",
+      "start_time": "21:30",
       "end_time": "22:00",
       "episode_description": "Acompanhe o boletim com notícias do Brasil e do Mundo."
     },
     {
       "show_name": "Curso Fé",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/rit/today/br_curso-fe-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_curso-fe-1_l_m.jpg",
       "show_category": "Religious",
       "start_time": "22:00",
       "end_time": "22:20",
@@ -220,7 +236,7 @@
     },
     {
       "show_name": "Redação RIT",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/rit/today/br_redac-o-rit_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_redac-o-rit_l_m.jpg",
       "show_category": "News",
       "start_time": "22:20",
       "end_time": "22:35",
@@ -228,7 +244,7 @@
     },
     {
       "show_name": "Nosso Programa",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/rit/today/br_nosso-programa-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_nosso-programa-1_l_m.jpg",
       "show_category": "Entertainment",
       "start_time": "22:35",
       "end_time": "23:30",
@@ -236,7 +252,7 @@
     },
     {
       "show_name": "Live das 15 Horas",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/rit/today/br_live-das-15-horas_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_live-das-15-horas_l_m.jpg",
       "show_category": "Religious",
       "start_time": "23:30",
       "end_time": "00:05",
