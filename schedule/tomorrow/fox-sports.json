@@ -1,118 +1,142 @@
 {
   "channel": "Fox Sports",
-  "date": "24/12/2025",
+  "date": "25/12/2025",
   "schedule": [
     {
-      "show_name": "GP da Comunidade Valenciana",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_motorcycle-racing-gp-da-comunidade-valenciana_l_m.webp",
-      "show_category": "Moto GP",
-      "start_time": "01:45",
-      "end_time": "03:45",
-      "episode_description": "Vigésima segunda e última corrida da temporada 2025 da categoria, disputada no Circuito Ricardo Tormo, em Cheste, Espanha."
-    },
-    {
-      "show_name": "Show da Rodada do Inglês",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-show-da-rodada-do-ingles_l_m.webp",
-      "show_category": "",
-      "start_time": "03:45",
-      "end_time": "04:15",
-      "episode_description": "O programa traz todos os pormenores da rodada do campeonato inglês com as pontuações dos clubes, gols e lances mais bonitos."
-    },
-    {
-      "show_name": "Villarreal x Barcelona",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-villarreal-x-barcelona_l_m.webp",
-      "show_category": "Campeonato Espanhol",
-      "start_time": "04:15",
-      "end_time": "06:15",
-      "episode_description": "Pela rodada 17, o Villarreal recebe o Barcelona no Estádio de la Cerámica, em Villarreal. Na terceira posição, o Submarino Amarelo soma onze vitórias na La Liga e está oito pontos atrás da liderança. Já o Barça é o atual primeiro colocado."
-    },
-    {
-      "show_name": "Arsenal x Crystal Palace",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-arsenal-x-crystal-palace-1_l_m.webp",
-      "show_category": "Copa da Liga Inglesa",
-      "start_time": "06:30",
-      "end_time": "08:30",
-      "episode_description": "Acompanhe a competição eliminatória anual de futebol na Inglaterra."
-    },
-    {
-      "show_name": "Alverca x Porto",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-alverca-x-porto_l_m.webp",
-      "show_category": "Campeonato Português",
-      "start_time": "08:30",
-      "end_time": "10:30",
-      "episode_description": "Pela rodada 15, o Alverca recebe o Porto no Complexo Desportivo FC Alverca, em Lisboa. Em nono, o Alverca precisa bater o atual líder do campeonato, que vem de mais de cinco jogos seguidos vencendo, para subir na tabela."
-    },
-    {
-      "show_name": "Aston Villa x Manchester United",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-aston-villa-x-manchester-united_l_m.webp",
-      "show_category": "Campeonato Inglês",
-      "start_time": "10:30",
-      "end_time": "12:30",
-      "episode_description": "Pela rodada 17, o Aston Villa recebe o Manchester United no Villa Park, em Birmingham. Na terceira posição, o Villa vive grande momento no futebol inglês e luta pela primeira colocação do torneio. Já os Red Devils ocupam o sexto lugar."
+      "show_name": "Juventus x Roma",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-juventus-x-roma_l_m.jpg",
+      "show_category": "Campeonato Italiano",
+      "start_time": "00:00",
+      "end_time": "02:00",
+      "episode_description": "Pela rodada 16, a Juventus recebe a Roma no Allianz Stadium, em Turim, na Itália. Na quinta posição, a Velha Senhora precisa dos três pontos para entrar no G4 da Série A, enquanto que a Roma é justamente a quarta colocada."
     },
     {
       "show_name": "Ecos do Tênis 2025",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_special-ecos-do-tenis-2025_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_special-ecos-do-tenis-2025_l_m.jpg",
       "show_category": "",
-      "start_time": "12:30",
-      "end_time": "13:30",
+      "start_time": "02:00",
+      "end_time": "03:00",
       "episode_description": ""
     },
     {
-      "show_name": "Al Ittihad x Nasaf",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-al-ittihad-x-nasaf_l_m.webp",
-      "show_category": "AFC Champions League Elite",
-      "start_time": "13:30",
-      "end_time": "15:30",
-      "episode_description": "Todas as emoções da principal competição de futebol masculino entre clubes do continente asiático."
+      "show_name": "Show da Rodada do Italiano",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-do-italiano_l_m.jpg",
+      "show_category": "",
+      "start_time": "03:00",
+      "end_time": "03:30",
+      "episode_description": "Os principais destaques das partidas da Lega Serie A, primeira divisão do Campeonato Italiano de futebol masculino, com os gols, melhores lances e situação da tabela de classificação após cada rodada disputada."
     },
     {
-      "show_name": "Bola da Vez",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_bola-da-vez_l_m.webp",
-      "show_category": "Sports talk",
-      "start_time": "15:30",
+      "show_name": "Show da Rodada de La Liga",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-de-la-liga_l_m.jpg",
+      "show_category": "",
+      "start_time": "03:30",
+      "end_time": "04:00",
+      "episode_description": ".Todos os gols e os principais lances da rodada de La Liga, primeira divisão do Campeonato Espanhol."
+    },
+    {
+      "show_name": "Show da Rodada da EFL",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-da-efl_l_m.jpg",
+      "show_category": "",
+      "start_time": "04:00",
+      "end_time": "04:30",
+      "episode_description": "Os destaques das partidas da EFL Championship, segunda divisão de futebol masculino da Inglaterra."
+    },
+    {
+      "show_name": "Deportivo Táchira x Flamengo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-deportivo-tachira-x-flamengo_l_m.jpg",
+      "show_category": "Copa Libertadores da América",
+      "start_time": "04:30",
+      "end_time": "05:00",
+      "episode_description": "Pela rodada de abertura do Grupo C, o Táchira recebe o Flamengo no Estádio Polideportivo de Pueblo Nuevo, em San Cristóbal, Venezuela. O time da casa não perde há seis partidas nas competições locais, enquanto o Rubro-Negro está invicto há 14 jogos."
+    },
+    {
+      "show_name": "LDU x Flamengo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-ldu-x-flamengo_l_m.jpg",
+      "show_category": "Copa Libertadores da América",
+      "start_time": "06:30",
+      "end_time": "08:30",
+      "episode_description": "Pela terceira rodada do Grupo C, a LDU recebe o Flamengo no Estádio Casa Blanca, em Quito, Equador. Após ser derrotado em casa pelo modesto Central Córdoba, o Rubro-Negro precisa pontuar na altitude para não se complicar dentro de sua chave."
+    },
+    {
+      "show_name": "Flamengo x LDU",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-flamengo-x-ldu_l_m.jpg",
+      "show_category": "Copa Libertadores da América",
+      "start_time": "08:30",
+      "end_time": "10:30",
+      "episode_description": "Pela quinta rodada do Grupo C, o Flamengo recebe a LDU no Estádio do Maracanã, Rio de Janeiro. Em crise na competição continental, o Rubro-Negro precisa vencer para alcançar a vice-liderança de sua chave. Já a LDU vem em primeiro lugar."
+    },
+    {
+      "show_name": "Flamengo x Deportivo Táchira",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-flamengo-x-deportivo-tachira_l_m.jpg",
+      "show_category": "Copa Libertadores da América",
+      "start_time": "10:30",
+      "end_time": "12:30",
+      "episode_description": "Última rodada do Grupo C. O Flamengo recebe o Deportivo Táchira no Estádio do Maracanã, no Rio de Janeiro. Na segunda posição, o Rubro-Negro precisa somar três pontos frente ao lanterna para garantir vaga nas oitavas de final da Libertadores."
+    },
+    {
+      "show_name": "Internacional x Flamengo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-internacional-x-flamengo-2_l_m.jpg",
+      "show_category": "Copa Libertadores da América",
+      "start_time": "12:30",
+      "end_time": "14:30",
+      "episode_description": "Pelas oitavas de final, o Internacional recebe o Flamengo no Estádio Beira-Rio, em Porto Alegre. Derrotado por 1 a 0 no Rio de Janeiro, o Colorado precisa de uma vitória simples para levar o duelo até a prorrogação, em busca de vaga nas quartas."
+    },
+    {
+      "show_name": "Internacional x Flamengo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-internacional-x-flamengo-2_l_m.jpg",
+      "show_category": "Copa Libertadores da América",
+      "start_time": "14:30",
       "end_time": "16:30",
-      "episode_description": "Grandes personalidades do esporte nacional e internacional são colocadas no \"paredão\" e respondem às perguntas de uma bancada de entrevistadores formada por jornalistas, ex-atletas ou especialistas em geral."
+      "episode_description": "Pelas oitavas de final, o Internacional recebe o Flamengo no Estádio Beira-Rio, em Porto Alegre. Derrotado por 1 a 0 no Rio de Janeiro, o Colorado precisa de uma vitória simples para levar o duelo até a prorrogação, em busca de vaga nas quartas."
     },
     {
-      "show_name": "Minas x Flamengo",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_basketball-minas-x-flamengo_l_m.webp",
-      "show_category": "NBB",
+      "show_name": "Quartas de Final: Flamengo x Estudiantes de La Plata",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-quartas-de-final-flamengo-x-estudiantes-de-la-plata_l_m.jpg",
+      "show_category": "Copa Libertadores da América",
       "start_time": "16:30",
       "end_time": "18:30",
-      "episode_description": "Todas as emoções da principal competição de basquete masculino profissional entre clubes do Brasil."
+      "episode_description": "Pelo duelo de ida das quartas, o Flamengo enfrenta o Estudiantes no Estádio do Maracanã, no Rio de Janeiro, RJ. O Rubro-Negro está invicto há nove jogos na temporada, enquanto o clube argentino ganhou só uma das cinco últimas partidas que disputou."
     },
     {
-      "show_name": "Fulham x Nottingham Forest",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-fulham-x-nottingham-forest_l_m.webp",
-      "show_category": "Campeonato Inglês",
+      "show_name": "Quartas de Final: Estudiantes de La Plata x Flamengo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-quartas-de-final-estudiantes-de-la-plata-x-flamengo_l_m.jpg",
+      "show_category": "Copa Libertadores da América",
       "start_time": "18:30",
       "end_time": "20:30",
-      "episode_description": "Pela rodada 17, o Fulham recebe o Nottingham Forest no Estádio Craven Cottage, Londres. Em 14º lugar, o Fulham precisa vencer para se afastar do rebiaxamento, enquanto que o Nottingham vem ainda mais próximo do Z3, em 16º."
+      "episode_description": "Pelo duelo de volta das quartas, o Estudiantes recebe o Flamengo no Estádio UNO Jorge Luis Hirschi, em La Plata, Argentina. A equipe da casa precisa vencer por dois ou mais gols para avançar no tempo normal, enquanto ao Rubro-Negro basta um empate."
     },
     {
-      "show_name": "Benfica x Famalicão",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-benfica-x-famalic-o-1_l_m.webp",
-      "show_category": "Campeonato Português",
+      "show_name": "Final: Palmeiras x Flamengo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-final-palmeiras-x-flamengo-1_l_m.jpg",
+      "show_category": "Copa Libertadores da América",
       "start_time": "20:30",
-      "end_time": "22:30",
-      "episode_description": "Pela rodada 15, o Benfica recebe o Famalicão no Estádio da Luz, em Lisboa, Portugal. Na terceira posição, as Águias precisam vencer para se aproximarem da liderança do nacional, enquanto que o visitante é o atual sexto colocado."
+      "end_time": "23:00",
+      "episode_description": "Pela grande decisão, em jogo único, Palmeiras e Flamengo se enfrentam no Estadio Monumental U Marathon, em Lima, Peru. Em reedição da final de 2021, o confronto vale o primeiro tetracampeonato de uma equipe brasileira na competição continental."
     },
     {
-      "show_name": "Resenha ESPN",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_resenha-espn_l_m.webp",
-      "show_category": "Sports talk",
-      "start_time": "22:30",
-      "end_time": "23:30",
-      "episode_description": "Atletas da atualidade e do passado participam de bate-papo descontraído e cheio de boas histórias."
-    },
-    {
-      "show_name": "F1: The Inside Line",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_auto-racing-f1-the-inside-line_l_m.webp",
+      "show_name": "Show da Rodada da EFL",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-da-efl_l_m.jpg",
       "show_category": "",
+      "start_time": "23:00",
+      "end_time": "23:30",
+      "episode_description": "Os destaques das partidas da EFL Championship, segunda divisão de futebol masculino da Inglaterra."
+    },
+    {
+      "show_name": "Chapecoense x Coritiba",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-chapecoense-x-coritiba-2_l_m.jpg",
+      "show_category": "Campeonato Brasileiro - Série B",
       "start_time": "23:30",
-      "end_time": "00:00",
-      "episode_description": "Veja a cobertura completa da Fórmula 1, a maior e mais badalada categoria do automobilismo mundial. Acompanhe as principais notícias da semana, os bastidores, entrevistas exclusivas e reportagens especiais."
+      "end_time": "01:30",
+      "episode_description": "Pela segunda rodada, a Chapecoense recebe o Coritiba na Arena Condá, em Chapecó, SC. A Chape estreou na Segundona 2025 com derrota para o CRB por 1 a 0 em Maceió, enquanto o Coxa-Branca venceu o Vila Nova pelo mesmo placar no Couto Pereira."
+    },
+    {
+      "show_name": "Criciúma x Coritiba",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-criciuma-x-coritiba_l_m.jpg",
+      "show_category": "Campeonato Brasileiro - Série B",
+      "start_time": "05:30",
+      "end_time": "06:00",
+      "episode_description": "Pela nona rodada, o Criciúma recebe o Coritiba no Estádio Heriberto Hülse, em Criciúma, SC. Os donos da casa tentam pontuar para deixar a zona de rebaixamento, enquanto o Coxa-Branca busca a vitória para se aproximar do G4 da Segundona."
     }
   ]
 }

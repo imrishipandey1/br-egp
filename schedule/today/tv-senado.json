@@ -1,130 +1,170 @@
 {
   "channel": "Tv Senado",
-  "date": "23/12/2025",
+  "date": "24/12/2025",
   "schedule": [
     {
-      "show_name": "Senado Notícias",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/today/br_senado-noticias_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "04:00",
-      "end_time": "04:30",
-      "episode_description": "Acompanhe as últimas notícias do Senado, entre as transmissões ao vivo das reuniões das comissões, do plenário e os programas de grade da emissora."
-    },
-    {
-      "show_name": "Assunto de Estado",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/today/br_assunto-de-estado_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "04:30",
-      "end_time": "05:00",
-      "episode_description": "Mato Grosso lidera a produção agrícola do país e senador José Lacerda, PSD-MT, discute desafios em logística, meio ambiente e mineração."
-    },
-    {
       "show_name": "Em Discussão",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/today/br_em-discuss-o-2_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_em-discuss-o-2_l_m.jpg",
       "show_category": "Educational",
       "start_time": "05:00",
-      "end_time": "05:30",
+      "end_time": "07:00",
       "episode_description": "Análise sobre o panorama esportivo brasileiro além do futebol. Episódio discute estratégias para identificação e desenvolvimento de talentos olímpicos e paralímpicos em ambientes escolares e clubes, essenciais para o futuro do esporte nacional."
     },
     {
-      "show_name": "Reunião de Comissão",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/today/br_reuni-o-de-comiss-o_l_m.webp",
+      "show_name": "Sessão Plenária",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sess-o-plenaria-1_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "07:00",
-      "end_time": "08:30",
-      "episode_description": "Acompanhe as comissões do Senado Federal no Congresso Nacional do Brasil."
+      "start_time": "01:09",
+      "end_time": "02:50",
+      "episode_description": "Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade."
     },
     {
-      "show_name": "Vocação do Poder",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/today/br_vocac-o-do-poder-2005_l_m.webp",
-      "show_category": "Documentary / 2005",
-      "start_time": "08:30",
-      "end_time": "10:18",
-      "episode_description": "O documentário retrata a campanha eleitoral de seis candidatos a vereador e traz as ações de cada um, desde as convenções partidárias até a apuração dos votos, passando pelos programas de TV e as vidas social e familiar."
-    },
-    {
-      "show_name": "Ulysses, Cidadão",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/today/br_ulysses-cidad-o_l_m.webp",
-      "show_category": "Special",
-      "start_time": "10:18",
-      "end_time": "11:30",
-      "episode_description": "A vida e a obra do deputado Ulysses Guimarães a partir de noticiários, entrevistas e depoimentos."
-    },
-    {
-      "show_name": "Assunto de Estado",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/today/br_assunto-de-estado_l_m.webp",
+      "show_name": "Sessão Plenária",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sess-o-plenaria-1_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "11:30",
-      "end_time": "12:00",
-      "episode_description": "Mato Grosso lidera a produção agrícola do país e senador José Lacerda, PSD-MT, discute desafios em logística, meio ambiente e mineração."
+      "start_time": "02:50",
+      "end_time": "04:00",
+      "episode_description": "Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade."
+    },
+    {
+      "show_name": "Tela Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tela-brasil_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "04:00",
+      "end_time": "04:30",
+      "episode_description": "Em um governo passado, havia planos de construção de um aeroporto enorme em cima do que sobrou do lago de Texcoco, que já secou. Uma fortuna em uma área pantanosa."
     },
     {
       "show_name": "Agenda Econômica",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/today/br_agenda-economica-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_agenda-economica-1_l_m.jpg",
       "show_category": "Bus./financial",
-      "start_time": "12:00",
-      "end_time": "12:30",
+      "start_time": "04:30",
+      "end_time": "05:00",
+      "episode_description": "Economistas, formuladores de políticas públicas, acadêmicos, intelectuais e parlamentares analisam questões da economia nacional e internacional."
+    },
+    {
+      "show_name": "Assunto de Estado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_assunto-de-estado_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "05:00",
+      "end_time": "05:30",
+      "episode_description": "Mato Grosso lidera a produção agrícola do país e senador José Lacerda, PSD-MT, discute desafios em logística, meio ambiente e mineração."
+    },
+    {
+      "show_name": "A Última Abolição",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-ultima-abolic-o-2018_l_m.jpg",
+      "show_category": "Documentary / 2018",
+      "start_time": "05:30",
+      "end_time": "07:00",
+      "episode_description": "O documentário aborda a escravidão no Brasil com especial enfoque no período da abolição, destacando os movimentos abolicionistas, seus aliados e inimigos."
+    },
+    {
+      "show_name": "22 em XXI",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_22-em-xxi_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "07:00",
+      "end_time": "08:30",
+      "episode_description": "Acompanhe um novo olhar para a Semana de Arte Moderna de 1922, seus antecedentes e seus realizadores, a partir de entrevistas com historiadores, artistas, filósofos, ativistas, sociólogos e pesquisadores de diversas áreas."
+    },
+    {
+      "show_name": "Os Anos JK - Uma Trajetória Política",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-anos-jk-uma-trajetoria-politica_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "08:30",
+      "end_time": "10:23",
+      "episode_description": "Silvio Tendler reconta a trajetória política de Juscelino Kubitschek no filme realizado em 1980. Acompanhe a rápida ascensão do deputado, prefeito e governador de Minas Gerais que chegou à presidência da República em 1955."
+    },
+    {
+      "show_name": "A Menina de Sessenta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-menina-de-sessenta_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "10:23",
+      "end_time": "10:54",
+      "episode_description": "Nos 60 anos de Brasília, uma viagem no tempo mostra sua construção e, atualmente, as ruas vazias em tempos de pandemia. Personagens da cidade ajudam a entender a Brasília atual."
+    },
+    {
+      "show_name": "Filhos da Democracia - Os 35 Anos da Constituição",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_filhos-da-democracia-os-35-anos-da-constituic-o_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "10:54",
+      "end_time": "11:30",
+      "episode_description": "A trajetória de cinco crianças que nasceram no mesmo dia em que a Carta Magna foi promulgada, cinco de outubro de 1988, em cidades diferentes, e que atingiram a idade adulta."
+    },
+    {
+      "show_name": "Agenda Econômica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_agenda-economica-1_l_m.jpg",
+      "show_category": "Bus./financial",
+      "start_time": "11:30",
+      "end_time": "12:00",
       "episode_description": "Economistas, formuladores de políticas públicas, acadêmicos, intelectuais e parlamentares analisam questões da economia nacional e internacional."
     },
     {
       "show_name": "Salão Nobre",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/today/br_sal-o-nobre_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sal-o-nobre_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "12:30",
-      "end_time": "13:00",
+      "start_time": "12:00",
+      "end_time": "12:30",
       "episode_description": "Assista a temas de relevância nacional com líderes partidários, presidentes das comissões e autores."
     },
     {
       "show_name": "Em Discussão",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/today/br_em-discuss-o-2_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_em-discuss-o-2_l_m.jpg",
       "show_category": "Educational",
-      "start_time": "13:00",
-      "end_time": "13:30",
+      "start_time": "12:30",
+      "end_time": "13:00",
       "episode_description": "Análise sobre o panorama esportivo brasileiro além do futebol. Episódio discute estratégias para identificação e desenvolvimento de talentos olímpicos e paralímpicos em ambientes escolares e clubes, essenciais para o futuro do esporte nacional."
     },
     {
       "show_name": "TV Senado Live",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/today/br_tv-senado-live_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tv-senado-live_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "13:30",
-      "end_time": "14:00",
+      "start_time": "13:00",
+      "end_time": "13:30",
       "episode_description": "Especialistas tiram dúvidas sobre as mudanças físicas e emocionais na menopausa."
     },
     {
       "show_name": "Parlamento Brasil",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/today/br_parlamento-brasil_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "14:00",
-      "end_time": "14:30",
+      "start_time": "13:30",
+      "end_time": "14:00",
       "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
     },
     {
-      "show_name": "Estúdio A",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/today/br_estudio-a_l_m.webp",
+      "show_name": "Assunto de Estado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_assunto-de-estado_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "14:00",
+      "end_time": "14:30",
+      "episode_description": "Mato Grosso lidera a produção agrícola do país e senador José Lacerda, PSD-MT, discute desafios em logística, meio ambiente e mineração."
+    },
+    {
+      "show_name": "Concertos em Geral",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_concertos-em-geral_l_m.jpg",
       "show_category": "Music",
       "start_time": "14:30",
       "end_time": "15:30",
-      "episode_description": "O pernambucano Victor Ramon e o brasiliense Tiago Tunes, colocam no mundo um trabalho autoral, instrumental e sonoridades inovadoras."
+      "episode_description": "Seleção de peças consagradas da lírica internacional com a soprano Ariadna Moreira."
     },
     {
       "show_name": "Guerras do Brasil.Doc",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/today/br_guerras-do-brasil-doc_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_guerras-do-brasil-doc_l_m.jpg",
       "show_category": "Documentary",
       "start_time": "15:30",
       "end_time": "16:00",
       "episode_description": "A Guerra do Tráfico relata a falência do sistema prisional brasileiro e apresenta um pouco da estrutura do crime organizado no país."
     },
     {
-      "show_name": "Em Discussão",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/today/br_em-discuss-o-2_l_m.webp",
-      "show_category": "Educational",
+      "show_name": "Assunto de Estado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_assunto-de-estado_l_m.jpg",
+      "show_category": "Politics",
       "start_time": "16:00",
       "end_time": "16:30",
-      "episode_description": "Análise sobre o panorama esportivo brasileiro além do futebol. Episódio discute estratégias para identificação e desenvolvimento de talentos olímpicos e paralímpicos em ambientes escolares e clubes, essenciais para o futuro do esporte nacional."
+      "episode_description": "Mato Grosso lidera a produção agrícola do país e senador José Lacerda, PSD-MT, discute desafios em logística, meio ambiente e mineração."
     },
     {
       "show_name": "Cidadania",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/today/br_cidadania_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidadania_l_m.jpg",
       "show_category": "Interview",
       "start_time": "16:30",
       "end_time": "17:00",
@@ -132,51 +172,51 @@
     },
     {
       "show_name": "Senado Notícias",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/today/br_senado-noticias_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_senado-noticias_l_m.jpg",
       "show_category": "Politics",
       "start_time": "17:00",
       "end_time": "17:30",
       "episode_description": "Acompanhe as últimas notícias do Senado, entre as transmissões ao vivo das reuniões das comissões, do plenário e os programas de grade da emissora."
     },
     {
-      "show_name": "Subcomissão Temporária para Acompanhamento dos Preparativos para Realização da COP30",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/today/br_subcomiss-o-temporaria-para-acompanhamento-dos-preparativos-para-realizac-o-da-cop30_l_m.webp",
-      "show_category": "",
+      "show_name": "Comissão de Constituição, Justiça e Cidadania",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o-de-constituic-o-justica-e-cidadania_l_m.jpg",
+      "show_category": "Politics",
       "start_time": "17:30",
-      "end_time": "20:25",
-      "episode_description": ""
+      "end_time": "19:00",
+      "episode_description": "A comissão debate a constitucionalidade, juridicidade e regimentalidade das matérias submetidas por deliberação do Plenário."
     },
     {
-      "show_name": "Comissão de Assuntos Econômicos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/today/br_comiss-o-de-assuntos-economicos-1_l_m.webp",
+      "show_name": "Comissão de Serviços de Infraestrutura",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o-de-servicos-de-infraestrutura_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "20:25",
+      "start_time": "19:00",
       "end_time": "22:00",
-      "episode_description": "Os debates e discussões dos projetos de lei que passam pela Comissão de Assuntos Econômicos."
+      "episode_description": "Os debates sobre os transportes de terra, mar e ar, obras públicas em geral, minas, recursos geológicos e serviços de telecomunicações."
     },
     {
-      "show_name": "Senado Notícias",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/today/br_senado-noticias_l_m.webp",
-      "show_category": "Politics",
+      "show_name": "Tela Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tela-brasil_l_m.jpg",
+      "show_category": "Documentary",
       "start_time": "22:00",
       "end_time": "22:30",
-      "episode_description": "Acompanhe as últimas notícias do Senado, entre as transmissões ao vivo das reuniões das comissões, do plenário e os programas de grade da emissora."
+      "episode_description": "Em um governo passado, havia planos de construção de um aeroporto enorme em cima do que sobrou do lago de Texcoco, que já secou. Uma fortuna em uma área pantanosa."
     },
     {
       "show_name": "Sessão Plenária",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/today/br_sess-o-plenaria-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sess-o-plenaria-1_l_m.jpg",
       "show_category": "Politics",
       "start_time": "22:30",
-      "end_time": "01:09",
+      "end_time": "00:20",
       "episode_description": "Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade."
     },
     {
-      "show_name": "A Última Abolição",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/today/br_a-ultima-abolic-o-2018_l_m.webp",
-      "show_category": "Documentary / 2018",
+      "show_name": "Sua Majestade - O Rei do Ritmo Jackson do Pandeiro",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sua-majestade-o-rei-do-ritmo-jackson-do-pandeiro_l_m.jpg",
+      "show_category": "Special",
       "start_time": "05:30",
       "end_time": "06:00",
-      "episode_description": "O documentário aborda a escravidão no Brasil com especial enfoque no período da abolição, destacando os movimentos abolicionistas, seus aliados e inimigos."
+      "episode_description": "A história de Jackson do Pandeiro, o paraibano de Alagoa Grande que ajudou a popularizar a música nordestina no país com canções de xote, xaxado, coco e baião."
     }
   ]
 }
