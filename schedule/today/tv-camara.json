@@ -1,82 +1,82 @@
 {
   "channel": "Tv Camara",
-  "date": "25/12/2025",
+  "date": "26/12/2025",
   "schedule": [
     {
-      "show_name": "Ostras de Florianópolis",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/fallback_other_l_m.webp",
-      "show_category": "Special",
-      "start_time": "01:00",
-      "end_time": "01:15",
-      "episode_description": ""
+      "show_name": "Comissão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "00:00",
+      "end_time": "03:05",
+      "episode_description": "O programa transmite as discussões e votações do plenário."
     },
     {
-      "show_name": "Cacau de Tomé-Açu, a Revolução pela Agrofloresta",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_cacau-de-tome-acu-a-revoluc-o-pela-agrofloresta_l_m.webp",
+      "show_name": "Donas da Terra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_donas-da-terra_l_m.jpg",
       "show_category": "Special",
-      "start_time": "01:15",
-      "end_time": "01:30",
-      "episode_description": "A produção de amêndoas de cacau na Amazônia através de japoneses, ribeirinhos e povos originários."
+      "start_time": "03:05",
+      "end_time": "03:30",
+      "episode_description": "A trajetória das mulheres indígenas Xokó e sua luta pela terra. As recordações, tradições e o trabalho delas na construção da memória coletiva Xokó."
+    },
+    {
+      "show_name": "100 Anos de Cultura e Conflitos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_100-anos-de-cultura-e-conflitos_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "03:30",
+      "end_time": "04:00",
+      "episode_description": "Veja os eventos que marcaram a história do Brasil desde a Semana de Arte Moderna até os dias atuais."
     },
     {
       "show_name": "Câmara Debate",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_camara-debate_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_camara-debate_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "01:30",
-      "end_time": "02:00",
+      "start_time": "04:00",
+      "end_time": "04:30",
       "episode_description": "A cada programa, dois parlamentares discutem os grandes temas que movimentam os trabalhos na Câmara dos Deputados."
     },
     {
       "show_name": "Ciência sem Limites",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_ciencia-sem-limites_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ciencia-sem-limites_l_m.jpg",
       "show_category": "Science",
-      "start_time": "02:00",
-      "end_time": "02:30",
+      "start_time": "04:30",
+      "end_time": "05:00",
       "episode_description": "O programa é um espaço de divulgação da ciência em diferentes áreas. Saiba mais sobre as pesquisas, obras e avanços tecnológicos produzidos pelos pesquisadores da Unesp."
     },
     {
+      "show_name": "Ostras de Florianópolis",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "05:00",
+      "end_time": "05:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Cacau de Tomé-Açu, a Revolução pela Agrofloresta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cacau-de-tome-acu-a-revoluc-o-pela-agrofloresta_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "05:15",
+      "end_time": "05:30",
+      "episode_description": "A produção de amêndoas de cacau na Amazônia através de japoneses, ribeirinhos e povos originários."
+    },
+    {
       "show_name": "Ponto de Vista",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_ponto-de-vista-2009_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ponto-de-vista-2009_l_m.jpg",
       "show_category": "History",
-      "start_time": "02:30",
-      "end_time": "03:00",
+      "start_time": "06:30",
+      "end_time": "07:00",
       "episode_description": "Convidados especiais discutem a respeito de temas relevantes da história mundial."
     },
     {
-      "show_name": "Elas Pautam",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_elas-pautam_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "03:00",
-      "end_time": "04:00",
-      "episode_description": "O programa conta com a participação de duas parlamentares, em uma conversa informal sobre temas diversos de interesse da bancada feminina."
-    },
-    {
-      "show_name": "Comissão",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_comiss-o_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "04:00",
-      "end_time": "04:30",
-      "episode_description": "O programa transmite as discussões e votações do plenário."
-    },
-    {
-      "show_name": "Qual a Questão?",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_qual-a-quest-o_l_m.webp",
-      "show_category": "Public affairs",
-      "start_time": "06:30",
-      "end_time": "07:00",
-      "episode_description": "Discussões sobre grandes temas da agenda nacional que mexem com o dia a dia dos brasileiros, como educação, economia, meio ambiente, empregos, tecnologia e saúde. Com participação de especialistas e representantes da sociedade civil."
-    },
-    {
-      "show_name": "Senhor Deputado Ulysses Guimarães",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_senhor-deputado-ulysses-guimar-es_l_m.webp",
-      "show_category": "Special",
+      "show_name": "Encontro com a Autora",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_encontro-com-a-autora_l_m.jpg",
+      "show_category": "Interview",
       "start_time": "07:00",
       "end_time": "08:00",
-      "episode_description": "A trajetória e o legado do Senhor Diretas são lembrados."
+      "episode_description": "Parceria entre o Centro Cultural e o Centro de Documentação e Informação da Câmara dos Deputados. A autora ou o autor convidado fala sobre sua obra e os participantes podem dirigir perguntas a ela ou ele sobre seu estilo e influências."
     },
     {
       "show_name": "Palavra Aberta",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_palavra-aberta-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
       "show_category": "Interview",
       "start_time": "08:00",
       "end_time": "08:15",
@@ -84,7 +84,7 @@
     },
     {
       "show_name": "Palavra Aberta",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_palavra-aberta-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
       "show_category": "Interview",
       "start_time": "08:15",
       "end_time": "08:30",
@@ -92,31 +92,15 @@
     },
     {
       "show_name": "Comissão",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_comiss-o_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o_l_m.jpg",
       "show_category": "Politics",
       "start_time": "08:30",
-      "end_time": "10:30",
-      "episode_description": "O programa transmite as discussões e votações do plenário."
-    },
-    {
-      "show_name": "Sessão Solene",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_sess-o-solene-1_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "10:30",
-      "end_time": "11:30",
-      "episode_description": "Discussões e votações do plenário e das comissões com maior transparência à rede de elaboração das leis que regem o dia a dia da sociedade."
-    },
-    {
-      "show_name": "Comissão",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_comiss-o_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "11:30",
       "end_time": "15:00",
       "episode_description": "O programa transmite as discussões e votações do plenário."
     },
     {
       "show_name": "Palavra Aberta",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_palavra-aberta-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
       "show_category": "Interview",
       "start_time": "15:00",
       "end_time": "15:15",
@@ -124,23 +108,23 @@
     },
     {
       "show_name": "Palavra Aberta",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_palavra-aberta-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
       "show_category": "Interview",
       "start_time": "15:15",
       "end_time": "15:30",
       "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
     },
     {
-      "show_name": "Uma Árvore Bonita",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_uma-arvore-bonita_l_m.webp",
-      "show_category": "Special",
+      "show_name": "Ciência sem Limites",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ciencia-sem-limites_l_m.jpg",
+      "show_category": "Science",
       "start_time": "15:30",
       "end_time": "16:00",
-      "episode_description": "Confira os relatos indignados de jovens diante do racismo e outras formas de discriminação social que marcam a experiência de uma grande parte da juventude brasileira de hoje."
+      "episode_description": "O programa é um espaço de divulgação da ciência em diferentes áreas. Saiba mais sobre as pesquisas, obras e avanços tecnológicos produzidos pelos pesquisadores da Unesp."
     },
     {
       "show_name": "Palavra Aberta",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_palavra-aberta-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
       "show_category": "Interview",
       "start_time": "16:00",
       "end_time": "16:15",
@@ -148,75 +132,75 @@
     },
     {
       "show_name": "Palavra Aberta",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_palavra-aberta-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
       "show_category": "Interview",
       "start_time": "16:15",
       "end_time": "16:30",
       "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
     },
     {
-      "show_name": "Participação Popular",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_participac-o-popular-1_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "16:30",
-      "end_time": "17:30",
-      "episode_description": "O programa reúne deputados, analistas e o público ao vivo para saber o que o cidadão comum acha dos temas discutidos no Congresso."
-    },
-    {
-      "show_name": "Uma Árvore Bonita",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_uma-arvore-bonita_l_m.webp",
-      "show_category": "Special",
-      "start_time": "17:30",
-      "end_time": "18:00",
-      "episode_description": "Confira os relatos indignados de jovens diante do racismo e outras formas de discriminação social que marcam a experiência de uma grande parte da juventude brasileira de hoje."
-    },
-    {
       "show_name": "Ponto de Vista",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_ponto-de-vista-2009_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ponto-de-vista-2009_l_m.jpg",
       "show_category": "History",
-      "start_time": "18:00",
-      "end_time": "18:30",
+      "start_time": "16:30",
+      "end_time": "17:00",
       "episode_description": "Convidados especiais discutem a respeito de temas relevantes da história mundial."
     },
     {
+      "show_name": "100 Anos de Cultura e Conflitos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_100-anos-de-cultura-e-conflitos_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "17:00",
+      "end_time": "17:30",
+      "episode_description": "Veja os eventos que marcaram a história do Brasil desde a Semana de Arte Moderna até os dias atuais."
+    },
+    {
       "show_name": "Comissão",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_comiss-o_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "18:30",
-      "end_time": "22:00",
+      "start_time": "17:30",
+      "end_time": "20:30",
       "episode_description": "O programa transmite as discussões e votações do plenário."
     },
     {
-      "show_name": "Retrospectiva",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_retrospectiva_l_m.webp",
+      "show_name": "Bora Entender?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bora-entender_l_m.jpg",
       "show_category": "Documentary",
-      "start_time": "22:00",
-      "end_time": "23:00",
-      "episode_description": "Os principais fatos que foram destaque na Câmara dos Deputados durante o ano."
+      "start_time": "20:30",
+      "end_time": "21:30",
+      "episode_description": "Explicação didática de temas que estão presentes no debate político, de forma imparcial, apresentando todas as visões envolvidas, para que o público entenda a questão e tire suas próprias conclusões."
     },
     {
       "show_name": "Elas Pautam",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_elas-pautam_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_elas-pautam_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "23:00",
-      "end_time": "23:30",
+      "start_time": "21:30",
+      "end_time": "22:00",
       "episode_description": "O programa conta com a participação de duas parlamentares, em uma conversa informal sobre temas diversos de interesse da bancada feminina."
     },
     {
-      "show_name": "Qual a Questão?",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_qual-a-quest-o_l_m.webp",
-      "show_category": "Public affairs",
-      "start_time": "23:30",
-      "end_time": "00:00",
-      "episode_description": "Discussões sobre grandes temas da agenda nacional que mexem com o dia a dia dos brasileiros, como educação, economia, meio ambiente, empregos, tecnologia e saúde. Com participação de especialistas e representantes da sociedade civil."
+      "show_name": "Participação Popular",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_participac-o-popular-1_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "22:00",
+      "end_time": "23:00",
+      "episode_description": "O programa reúne deputados, analistas e o público ao vivo para saber o que o cidadão comum acha dos temas discutidos no Congresso."
     },
     {
-      "show_name": "Participação Popular",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_participac-o-popular-1_l_m.webp",
+      "show_name": "Comissão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "23:00",
+      "end_time": "02:00",
+      "episode_description": "O programa transmite as discussões e votações do plenário."
+    },
+    {
+      "show_name": "Expressão Nacional",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_express-o-nacional-1_l_m.jpg",
       "show_category": "Politics",
       "start_time": "05:30",
       "end_time": "06:00",
-      "episode_description": "O programa reúne deputados, analistas e o público ao vivo para saber o que o cidadão comum acha dos temas discutidos no Congresso."
+      "episode_description": "Confira os debates sobre grandes temas da agenda nacional, com deputados e representantes do Governo e da sociedade civil."
     }
   ]
 }
