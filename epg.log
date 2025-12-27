@@ -1,34 +1,34 @@
-2025-12-27T04:05:59.146407 | START channel: tv-senado
-2025-12-27T04:05:59.146558 | START channel: tv-camara
-2025-12-27T04:05:59.147248 | START channel: tv-escola
-2025-12-27T04:05:59.147502 | START channel: history-channel
-2025-12-27T04:05:59.148338 | START channel: rit
-2025-12-27T04:05:59.148563 | START channel: multishow
-2025-12-27T04:06:19.309706 | FAILED channel: history-channel | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
-2025-12-27T04:06:19.309799 | START channel: fox-sports
-2025-12-27T04:06:19.323367 | FAILED channel: tv-escola | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
-2025-12-27T04:06:19.323490 | FAILED channel: tv-senado | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
-2025-12-27T04:06:19.323533 | START channel: h2
-2025-12-27T04:06:19.327238 | START channel: food-network
-2025-12-27T04:06:19.328327 | FAILED channel: multishow | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
-2025-12-27T04:06:19.328384 | START channel: discovery-kids
-2025-12-27T04:06:19.335663 | FAILED channel: tv-camara | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
-2025-12-27T04:06:19.335706 | START channel: national-geographic
-2025-12-27T04:06:19.345941 | FAILED channel: rit | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
-2025-12-27T04:06:19.345994 | START channel: discovery-turbo
-2025-12-27T04:06:39.502837 | FAILED channel: discovery-turbo | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
-2025-12-27T04:06:39.502903 | FAILED channel: food-network | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
-2025-12-27T04:06:39.503198 | START channel: hgtv
-2025-12-27T04:06:39.503306 | START channel: tv-cabo-branco
-2025-12-27T04:06:39.508128 | FAILED channel: fox-sports | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
-2025-12-27T04:06:39.508216 | START channel: tv-aratu
-2025-12-27T04:06:39.534480 | FAILED channel: discovery-kids | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
-2025-12-27T04:06:39.534940 | FAILED channel: national-geographic | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
-2025-12-27T04:06:39.535181 | START channel: gloob
-2025-12-27T04:06:39.535309 | START channel: gnt
-2025-12-27T04:06:39.537006 | FAILED channel: h2 | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
-2025-12-27T04:06:59.647772 | FAILED channel: hgtv | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
-2025-12-27T04:06:59.647891 | FAILED channel: tv-aratu | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
-2025-12-27T04:06:59.652119 | FAILED channel: gnt | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
-2025-12-27T04:06:59.674694 | FAILED channel: tv-cabo-branco | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
-2025-12-27T04:06:59.677196 | FAILED channel: gloob | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
+2025-12-27T04:07:21.639583 | START channel: tv-senado
+2025-12-27T04:07:21.639708 | START channel: tv-camara
+2025-12-27T04:07:21.640373 | START channel: tv-escola
+2025-12-27T04:07:21.640961 | START channel: history-channel
+2025-12-27T04:07:21.645154 | START channel: rit
+2025-12-27T04:07:21.646097 | START channel: multishow
+2025-12-27T04:07:41.792213 | FAILED channel: multishow | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
+2025-12-27T04:07:41.792283 | START channel: fox-sports
+2025-12-27T04:07:41.806184 | FAILED channel: tv-camara | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
+2025-12-27T04:07:41.806245 | START channel: h2
+2025-12-27T04:07:41.836065 | FAILED channel: tv-senado | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
+2025-12-27T04:07:41.836121 | START channel: food-network
+2025-12-27T04:07:41.836915 | FAILED channel: history-channel | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
+2025-12-27T04:07:41.836978 | START channel: discovery-kids
+2025-12-27T04:07:41.838423 | FAILED channel: rit | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
+2025-12-27T04:07:41.838476 | START channel: national-geographic
+2025-12-27T04:07:41.842092 | FAILED channel: tv-escola | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
+2025-12-27T04:07:41.842140 | START channel: discovery-turbo
+2025-12-27T04:08:01.854490 | FAILED channel: fox-sports | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
+2025-12-27T04:08:01.854561 | START channel: tv-cabo-branco
+2025-12-27T04:08:01.867647 | FAILED channel: h2 | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
+2025-12-27T04:08:01.867696 | START channel: hgtv
+2025-12-27T04:08:01.923477 | FAILED channel: food-network | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
+2025-12-27T04:08:01.923548 | START channel: tv-aratu
+2025-12-27T04:08:01.942439 | FAILED channel: discovery-kids | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
+2025-12-27T04:08:01.942508 | START channel: gloob
+2025-12-27T04:08:01.944543 | FAILED channel: national-geographic | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
+2025-12-27T04:08:01.944600 | START channel: gnt
+2025-12-27T04:08:01.946486 | FAILED channel: discovery-turbo | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
+2025-12-27T04:08:21.992123 | FAILED channel: tv-cabo-branco | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
+2025-12-27T04:08:22.007259 | FAILED channel: hgtv | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
+2025-12-27T04:08:22.007372 | FAILED channel: tv-aratu | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
+2025-12-27T04:08:22.040935 | FAILED channel: gnt | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
+2025-12-27T04:08:22.042562 | FAILED channel: gloob | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
