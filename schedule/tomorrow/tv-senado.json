@@ -1,278 +1,206 @@
 {
   "channel": "Tv Senado",
-  "date": "27/12/2025",
+  "date": "29/12/2025",
   "schedule": [
     {
-      "show_name": "Sessão Plenária",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_sess-o-plenaria-1_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "00:55",
-      "end_time": "04:30",
-      "episode_description": "Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade."
+      "show_name": "Espaço Cultural",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_espaco-cultural-1_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "00:30",
+      "end_time": "01:30",
+      "episode_description": "Pablo Vares, artista uruguaio, apresenta no Clube do Choro de Brasília show de música flamenca instrumental no violão e handpan."
     },
     {
-      "show_name": "Parlamento Brasil",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_parlamento-brasil_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "04:30",
-      "end_time": "05:00",
-      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
+      "show_name": "EcoSenado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ecosenado-1_l_m.jpg",
+      "show_category": "Environment",
+      "start_time": "01:30",
+      "end_time": "02:00",
+      "episode_description": "Em comemoração ao Dia Mundial dos Animais, programa mostra como os zoológicos e aquários municipais garantem a proteção de espécies. E debates da bancada feminina para a COP30."
     },
     {
-      "show_name": "TV Senado Live",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_tv-senado-live_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "05:00",
-      "end_time": "05:30",
-      "episode_description": "Especialistas tiram dúvidas sobre as mudanças físicas e emocionais na menopausa."
-    },
-    {
-      "show_name": "Tempo de Luta",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_tempo-de-luta-s01e02-trabalho-capitalismo-e-educac-o_l_m.webp",
-      "show_category": "Temporada 1 Episódio 2 - Trabalho, Capitalismo e Educação",
-      "start_time": "06:03",
-      "end_time": "06:33",
-      "episode_description": "Abordagem da construção de novos vínculos entre as mulheres em um momento em que novos coletivos surgem todos os dias para enfrentar as mesmas velhas lutas."
-    },
-    {
-      "show_name": "Tempo de Luta",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_tempo-de-luta-s01e03-midia-cultura-e-representac-es_l_m.webp",
-      "show_category": "Temporada 1 Episódio 3 - Mídia, Cultura e Representações",
-      "start_time": "06:33",
-      "end_time": "07:03",
-      "episode_description": "Para transformar a si mesmas e ao mundo, as mulheres usaram a arte e a criatividade."
-    },
-    {
-      "show_name": "Tempo de Luta",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_tempo-de-luta-s01e04_l_m.webp",
-      "show_category": "Temporada 1 Episódio 4 - Violência, Feminicídio e Vínculos Entre Mulheres",
-      "start_time": "07:03",
-      "end_time": "07:34",
-      "episode_description": "Espaço que oferece ferramentas para pensar vínculos e lutar contra a violência feminina."
-    },
-    {
-      "show_name": "Habitar/Habitat",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_habitar-habitat_l_m.webp",
+      "show_name": "Guerras do Brasil.Doc",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_guerras-do-brasil-doc_l_m.jpg",
       "show_category": "Documentary",
-      "start_time": "07:34",
-      "end_time": "08:30",
-      "episode_description": "O episódio mostra casas, ecovilas e exemplares de bioconstrução erguidos a partir do conceito de bioarquitetura, criado pelo arquiteto holandês Johan van Lengen, autor do Manual do Arquiteto Descalço."
-    },
-    {
-      "show_name": "Habitar/Habitat",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_habitar-habitat_l_m.webp",
-      "show_category": "Documentary",
-      "start_time": "08:30",
-      "end_time": "09:30",
-      "episode_description": "O episódio mostra casas, ecovilas e exemplares de bioconstrução erguidos a partir do conceito de bioarquitetura, criado pelo arquiteto holandês Johan van Lengen, autor do Manual do Arquiteto Descalço."
-    },
-    {
-      "show_name": "Amazônia, Arqueologia da Floresta",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_amazonia-arqueologia-da-floresta-s01e03-o-tabaco-e-a-cerveja_l_m.webp",
-      "show_category": "Temporada 1 Episódio 3 - O Tabaco e a Cerveja",
-      "start_time": "09:30",
-      "end_time": "10:30",
-      "episode_description": "O sudoeste da Amazônia foi um importante centro de domesticação de plantas. Os vestígios desse processo são encontrados nos sítios arqueológicos da região, onde o passado e o presente estão profundamente conectados."
-    },
-    {
-      "show_name": "Amazônia, Arqueologia da Floresta",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_amazonia-arqueologia-da-floresta-s01e04-cemiterio-bacabal_l_m.webp",
-      "show_category": "Temporada 1 Episódio 4 - Cemitério Bacabal",
-      "start_time": "10:30",
-      "end_time": "11:30",
-      "episode_description": "Novos sepultamentos são encontrados e, através desses vestígios, é possível saber o que os antigos comiam e bebiam. Os ossos e dentes humanos, as amostras de solo, as cerâmicas e objetos de pedra nos ajudam a contar a história de ocupação da região."
-    },
-    {
-      "show_name": "TV Senado Live",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_tv-senado-live_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "11:30",
-      "end_time": "12:00",
-      "episode_description": "Especialistas tiram dúvidas sobre as mudanças físicas e emocionais na menopausa."
-    },
-    {
-      "show_name": "Parlamento Brasil",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_parlamento-brasil_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "12:00",
-      "end_time": "12:30",
-      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
-    },
-    {
-      "show_name": "Assunto de Estado",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_assunto-de-estado_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "12:30",
-      "end_time": "13:00",
-      "episode_description": "Mato Grosso lidera a produção agrícola do país e senador José Lacerda, PSD-MT, discute desafios em logística, meio ambiente e mineração."
-    },
-    {
-      "show_name": "Agenda Econômica",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_agenda-economica-1_l_m.webp",
-      "show_category": "Bus./financial",
-      "start_time": "13:00",
-      "end_time": "13:30",
-      "episode_description": "Economistas, formuladores de políticas públicas, acadêmicos, intelectuais e parlamentares analisam questões da economia nacional e internacional."
-    },
-    {
-      "show_name": "Salão Nobre",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_sal-o-nobre_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "13:30",
-      "end_time": "14:00",
-      "episode_description": "Assista a temas de relevância nacional com líderes partidários, presidentes das comissões e autores."
-    },
-    {
-      "show_name": "Em Discussão",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_em-discuss-o-2_l_m.webp",
-      "show_category": "Educational",
-      "start_time": "14:00",
-      "end_time": "14:30",
-      "episode_description": "Análise sobre o panorama esportivo brasileiro além do futebol. Episódio discute estratégias para identificação e desenvolvimento de talentos olímpicos e paralímpicos em ambientes escolares e clubes, essenciais para o futuro do esporte nacional."
+      "start_time": "02:00",
+      "end_time": "02:30",
+      "episode_description": "A Guerra do Tráfico relata a falência do sistema prisional brasileiro e apresenta um pouco da estrutura do crime organizado no país."
     },
     {
       "show_name": "Concertos em Geral",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_concertos-em-geral_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_concertos-em-geral_l_m.jpg",
       "show_category": "Music",
-      "start_time": "14:30",
-      "end_time": "15:30",
+      "start_time": "02:30",
+      "end_time": "03:30",
       "episode_description": "Pianista, compositor e arranjador, Halley Flamarion iniciou sua carreira profissional aos 16 anos. Ele conta relatos curiosos de sua vida e apresenta algumas das suas obras."
     },
     {
-      "show_name": "Envelhecer",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_envelhecer_l_m.webp",
-      "show_category": "Health",
-      "start_time": "15:30",
-      "end_time": "16:30",
-      "episode_description": "Veja uma discussão sobre os direitos e os deveres dos idosos e os obstáculos para sua efetivação."
+      "show_name": "Leituras",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_leituras_l_m.jpg",
+      "show_category": "Art",
+      "start_time": "03:30",
+      "end_time": "04:00",
+      "episode_description": "A saga de duas famílias durante pouco mais de cem anos: esta é a proposta do novo romance de Leonardo Almeida Filho, \"Mandacarus\". Além de uma saga nordestina, o romance retrata, sobretudo, a saga de um país."
     },
     {
-      "show_name": "Em Discussão",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_em-discuss-o-2_l_m.webp",
-      "show_category": "Educational",
+      "show_name": "Guerras do Brasil.Doc",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_guerras-do-brasil-doc_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "04:00",
+      "end_time": "04:30",
+      "episode_description": "A Guerra do Tráfico relata a falência do sistema prisional brasileiro e apresenta um pouco da estrutura do crime organizado no país."
+    },
+    {
+      "show_name": "Estúdio A",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_estudio-a_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "04:30",
+      "end_time": "05:30",
+      "episode_description": "O pernambucano Victor Ramon e o brasiliense Tiago Tunes, colocam no mundo um trabalho autoral, instrumental e sonoridades inovadoras."
+    },
+    {
+      "show_name": "Vocação do Poder",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vocac-o-do-poder-2005_l_m.jpg",
+      "show_category": "Documentary / 2005",
+      "start_time": "05:30",
+      "end_time": "07:18",
+      "episode_description": "O documentário retrata a campanha eleitoral de seis candidatos a vereador e traz as ações de cada um, desde as convenções partidárias até a apuração dos votos, passando pelos programas de TV e as vidas social e familiar."
+    },
+    {
+      "show_name": "Ulysses, Cidadão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ulysses-cidad-o_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "07:18",
+      "end_time": "08:30",
+      "episode_description": "A vida e a obra do deputado Ulysses Guimarães a partir de noticiários, entrevistas e depoimentos."
+    },
+    {
+      "show_name": "Guerras do Brasil.Doc",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_guerras-do-brasil-doc_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "08:30",
+      "end_time": "09:00",
+      "episode_description": "A Guerra do Tráfico relata a falência do sistema prisional brasileiro e apresenta um pouco da estrutura do crime organizado no país."
+    },
+    {
+      "show_name": "Estúdio A",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_estudio-a_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "episode_description": "O pernambucano Victor Ramon e o brasiliense Tiago Tunes, colocam no mundo um trabalho autoral, instrumental e sonoridades inovadoras."
+    },
+    {
+      "show_name": "Os Anos JK - Uma Trajetória Política",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-anos-jk-uma-trajetoria-politica_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "10:00",
+      "end_time": "11:50",
+      "episode_description": "Silvio Tendler reconta a trajetória política de Juscelino Kubitschek no filme realizado em 1980. Acompanhe a rápida ascensão do deputado, prefeito e governador de Minas Gerais que chegou à presidência da República em 1955."
+    },
+    {
+      "show_name": "A Menina de Sessenta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-menina-de-sessenta_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "11:50",
+      "end_time": "12:20",
+      "episode_description": "Nos 60 anos de Brasília, uma viagem no tempo mostra sua construção e, atualmente, as ruas vazias em tempos de pandemia. Personagens da cidade ajudam a entender a Brasília atual."
+    },
+    {
+      "show_name": "O Presidente Improvável",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-presidente-improvavel-2022_l_m.jpg",
+      "show_category": "Documentary / 2022",
+      "start_time": "12:20",
+      "end_time": "14:10",
+      "episode_description": "Fernando Henrique Cardoso, ex-presidente da república, se reúne com amigos e colegas de longa data para refletir sobre a sua trajetória e a do próprio país. Entre os seus interlocutores, figuram personagens ilustres como Bill Clinton."
+    },
+    {
+      "show_name": "Marco Maciel - Bastidores de um País em Transe",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_marco-maciel-bastidores-de-um-pais-em-transe_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "14:10",
+      "end_time": "14:40",
+      "episode_description": "Por mais de 15 anos, a TV Senado guardou entrevista com o político pernambucano Marco Maciel. Agora em formato de documentário, o ex-presidente da república revela bastidores da ditadura militar e da redemocratização."
+    },
+    {
+      "show_name": "1930 - Tempo de Revolução",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_1930-tempo-de-revoluc-o_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "14:40",
+      "end_time": "15:30",
+      "episode_description": "Movimentos políticos ocorridos antes da Revolução de 1930, por meio de imagens de arquivos inéditas e depoimentos de historiadores, tentam esclarecer esse momento crucial e ainda mal compreendido da história brasileira."
+    },
+    {
+      "show_name": "Guerras do Brasil.Doc",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_guerras-do-brasil-doc_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "15:30",
+      "end_time": "16:00",
+      "episode_description": "A Guerra do Tráfico relata a falência do sistema prisional brasileiro e apresenta um pouco da estrutura do crime organizado no país."
+    },
+    {
+      "show_name": "Parlamento Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "16:00",
+      "end_time": "16:30",
+      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
+    },
+    {
+      "show_name": "Cidadania",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidadania_l_m.jpg",
+      "show_category": "Interview",
       "start_time": "16:30",
       "end_time": "17:00",
-      "episode_description": "Análise sobre o panorama esportivo brasileiro além do futebol. Episódio discute estratégias para identificação e desenvolvimento de talentos olímpicos e paralímpicos em ambientes escolares e clubes, essenciais para o futuro do esporte nacional."
+      "episode_description": "A criação da Política Nacional de Combate ao Suicídio de Crianças e Adolescentes será importante para a saúde mental dos jovens. É o que defende o consultor legislativo Cleiton Diniz."
     },
     {
       "show_name": "Senado Notícias",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_senado-noticias_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_senado-noticias_l_m.jpg",
       "show_category": "Politics",
       "start_time": "17:00",
       "end_time": "17:30",
       "episode_description": "Acompanhe as últimas notícias do Senado, entre as transmissões ao vivo das reuniões das comissões, do plenário e os programas de grade da emissora."
     },
     {
-      "show_name": "EcoSenado",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_ecosenado-1_l_m.webp",
-      "show_category": "Environment",
+      "show_name": "Comissão de Direitos Humanos e Legislação Participativa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o-de-direitos-humanos-e-legislac-o-participativa_l_m.jpg",
+      "show_category": "Politics",
       "start_time": "17:30",
-      "end_time": "18:00",
-      "episode_description": "Em comemoração ao Dia Mundial dos Animais, programa mostra como os zoológicos e aquários municipais garantem a proteção de espécies. E debates da bancada feminina para a COP30."
+      "end_time": "19:53",
+      "episode_description": "Reuniões, audiências e debates da Comissão de Direitos Humanos e Legislação Participativa."
     },
     {
-      "show_name": "Cidadania",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_cidadania_l_m.webp",
-      "show_category": "Interview",
-      "start_time": "18:00",
-      "end_time": "18:30",
-      "episode_description": "A Lei da Ficha Limpa (Lei Complementar 135/2010) completa quinze anos em 2025. Permanece relevante a questão sobre sua eficácia em impedir candidaturas de pessoas com histórico de corrupção e outros crimes."
-    },
-    {
-      "show_name": "Salão Nobre",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_sal-o-nobre_l_m.webp",
+      "show_name": "Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o-de-transparencia-governanca-fiscalizac-o-e-controle-e-defesa-do-consumidor_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "18:30",
-      "end_time": "19:00",
-      "episode_description": "Assista a temas de relevância nacional com líderes partidários, presidentes das comissões e autores."
-    },
-    {
-      "show_name": "Agenda Econômica",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_agenda-economica-1_l_m.webp",
-      "show_category": "Bus./financial",
-      "start_time": "19:00",
-      "end_time": "19:30",
-      "episode_description": "Economistas, formuladores de políticas públicas, acadêmicos, intelectuais e parlamentares analisam questões da economia nacional e internacional."
-    },
-    {
-      "show_name": "Assunto de Estado",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_assunto-de-estado_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "19:30",
-      "end_time": "20:00",
-      "episode_description": "Mato Grosso lidera a produção agrícola do país e senador José Lacerda, PSD-MT, discute desafios em logística, meio ambiente e mineração."
-    },
-    {
-      "show_name": "Cidadania",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_cidadania_l_m.webp",
-      "show_category": "Interview",
-      "start_time": "20:00",
-      "end_time": "20:30",
-      "episode_description": "A Lei da Ficha Limpa (Lei Complementar 135/2010) completa quinze anos em 2025. Permanece relevante a questão sobre sua eficácia em impedir candidaturas de pessoas com histórico de corrupção e outros crimes."
-    },
-    {
-      "show_name": "TV Senado Live",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_tv-senado-live_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "20:30",
-      "end_time": "21:00",
-      "episode_description": "Especialistas tiram dúvidas sobre as mudanças físicas e emocionais na menopausa."
-    },
-    {
-      "show_name": "Parlamento Brasil",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_parlamento-brasil_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "21:00",
-      "end_time": "21:30",
-      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
-    },
-    {
-      "show_name": "EcoSenado",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_ecosenado-1_l_m.webp",
-      "show_category": "Environment",
-      "start_time": "21:30",
+      "start_time": "19:53",
       "end_time": "22:00",
-      "episode_description": "Em comemoração ao Dia Mundial dos Animais, programa mostra como os zoológicos e aquários municipais garantem a proteção de espécies. E debates da bancada feminina para a COP30."
+      "episode_description": "Acompanhe as reuniões da comissão que debatem a defesa do consumidor."
     },
     {
-      "show_name": "Cidadania",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_cidadania_l_m.webp",
-      "show_category": "Interview",
+      "show_name": "Senado Notícias",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_senado-noticias_l_m.jpg",
+      "show_category": "Politics",
       "start_time": "22:00",
       "end_time": "22:30",
-      "episode_description": "A Lei da Ficha Limpa (Lei Complementar 135/2010) completa quinze anos em 2025. Permanece relevante a questão sobre sua eficácia em impedir candidaturas de pessoas com histórico de corrupção e outros crimes."
+      "episode_description": "Acompanhe as últimas notícias do Senado, entre as transmissões ao vivo das reuniões das comissões, do plenário e os programas de grade da emissora."
     },
     {
-      "show_name": "100 Anos de Cultura e Conflitos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_100-anos-de-cultura-e-conflitos_l_m.webp",
-      "show_category": "Documentary",
+      "show_name": "Sessão Plenária",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sess-o-plenaria-1_l_m.jpg",
+      "show_category": "Politics",
       "start_time": "22:30",
-      "end_time": "23:00",
-      "episode_description": "Veja os eventos que marcaram a história do Brasil desde a Semana de Arte Moderna até os dias atuais."
+      "end_time": "00:18",
+      "episode_description": "Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade."
     },
     {
-      "show_name": "Leituras",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_leituras_l_m.webp",
-      "show_category": "Art",
-      "start_time": "23:00",
-      "end_time": "23:30",
-      "episode_description": "A saga de duas famílias durante pouco mais de cem anos: esta é a proposta do novo romance de Leonardo Almeida Filho, \"Mandacarus\". Além de uma saga nordestina, o romance retrata, sobretudo, a saga de um país."
-    },
-    {
-      "show_name": "Estúdio A",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_estudio-a_l_m.webp",
-      "show_category": "Music",
-      "start_time": "23:30",
-      "end_time": "00:30",
-      "episode_description": "O pernambucano Victor Ramon e o brasiliense Tiago Tunes, colocam no mundo um trabalho autoral, instrumental e sonoridades inovadoras."
-    },
-    {
-      "show_name": "O Presidente Improvável",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_o-presidente-improvavel-2022_l_m.webp",
-      "show_category": "Documentary / 2022",
+      "show_name": "Lampião da Esquina",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lampi-o-da-esquina-2016_l_m.jpg",
+      "show_category": "Documentary / 2016",
       "start_time": "05:30",
       "end_time": "06:00",
-      "episode_description": "Fernando Henrique Cardoso, ex-presidente da república, se reúne com amigos e colegas de longa data para refletir sobre a sua trajetória e a do próprio país. Entre os seus interlocutores, figuram personagens ilustres como Bill Clinton."
+      "episode_description": "Nos anos 1960, surgiu nos EUA o jornal Gay Sunshine, uma publicação voltada para o público homossexual. Em 1978, no Brasil, uma iniciativa similar foi criada: o polêmico Lampião da Esquina."
     }
   ]
 }

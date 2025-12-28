@@ -1,34 +1,51 @@
-2025-12-27T04:07:21.639583 | START channel: tv-senado
-2025-12-27T04:07:21.639708 | START channel: tv-camara
-2025-12-27T04:07:21.640373 | START channel: tv-escola
-2025-12-27T04:07:21.640961 | START channel: history-channel
-2025-12-27T04:07:21.645154 | START channel: rit
-2025-12-27T04:07:21.646097 | START channel: multishow
-2025-12-27T04:07:41.792213 | FAILED channel: multishow | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
-2025-12-27T04:07:41.792283 | START channel: fox-sports
-2025-12-27T04:07:41.806184 | FAILED channel: tv-camara | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
-2025-12-27T04:07:41.806245 | START channel: h2
-2025-12-27T04:07:41.836065 | FAILED channel: tv-senado | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
-2025-12-27T04:07:41.836121 | START channel: food-network
-2025-12-27T04:07:41.836915 | FAILED channel: history-channel | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
-2025-12-27T04:07:41.836978 | START channel: discovery-kids
-2025-12-27T04:07:41.838423 | FAILED channel: rit | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
-2025-12-27T04:07:41.838476 | START channel: national-geographic
-2025-12-27T04:07:41.842092 | FAILED channel: tv-escola | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
-2025-12-27T04:07:41.842140 | START channel: discovery-turbo
-2025-12-27T04:08:01.854490 | FAILED channel: fox-sports | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
-2025-12-27T04:08:01.854561 | START channel: tv-cabo-branco
-2025-12-27T04:08:01.867647 | FAILED channel: h2 | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
-2025-12-27T04:08:01.867696 | START channel: hgtv
-2025-12-27T04:08:01.923477 | FAILED channel: food-network | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
-2025-12-27T04:08:01.923548 | START channel: tv-aratu
-2025-12-27T04:08:01.942439 | FAILED channel: discovery-kids | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
-2025-12-27T04:08:01.942508 | START channel: gloob
-2025-12-27T04:08:01.944543 | FAILED channel: national-geographic | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
-2025-12-27T04:08:01.944600 | START channel: gnt
-2025-12-27T04:08:01.946486 | FAILED channel: discovery-turbo | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
-2025-12-27T04:08:21.992123 | FAILED channel: tv-cabo-branco | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
-2025-12-27T04:08:22.007259 | FAILED channel: hgtv | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
-2025-12-27T04:08:22.007372 | FAILED channel: tv-aratu | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
-2025-12-27T04:08:22.040935 | FAILED channel: gnt | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
-2025-12-27T04:08:22.042562 | FAILED channel: gloob | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
+2025-12-28T04:29:33.301225 | START channel: tv-senado
+2025-12-28T04:29:33.302160 | START channel: history-channel
+2025-12-28T04:29:33.302434 | START channel: rit
+2025-12-28T04:29:33.303073 | START channel: tv-camara
+2025-12-28T04:29:33.303220 | START channel: tv-escola
+2025-12-28T04:29:33.306795 | START channel: multishow
+2025-12-28T04:29:34.263830 | SAVED today → schedule/today/history-channel.json (29 shows)
+2025-12-28T04:29:34.264724 | SAVED tomorrow → schedule/tomorrow/history-channel.json (33 shows)
+2025-12-28T04:29:34.264918 | START channel: fox-sports
+2025-12-28T04:29:34.286832 | SAVED today → schedule/today/rit.json (25 shows)
+2025-12-28T04:29:34.286899 | SAVED today → schedule/today/tv-camara.json (27 shows)
+2025-12-28T04:29:34.287542 | SAVED tomorrow → schedule/tomorrow/rit.json (23 shows)
+2025-12-28T04:29:34.287658 | SAVED tomorrow → schedule/tomorrow/tv-camara.json (31 shows)
+2025-12-28T04:29:34.287739 | START channel: h2
+2025-12-28T04:29:34.287769 | START channel: food-network
+2025-12-28T04:29:34.551969 | SAVED today → schedule/today/tv-senado.json (31 shows)
+2025-12-28T04:29:34.578024 | SAVED today → schedule/today/multishow.json (50 shows)
+2025-12-28T04:29:34.586831 | SAVED tomorrow → schedule/tomorrow/tv-senado.json (25 shows)
+2025-12-28T04:29:34.587296 | SAVED tomorrow → schedule/tomorrow/multishow.json (45 shows)
+2025-12-28T04:29:34.587473 | START channel: discovery-kids
+2025-12-28T04:29:34.588585 | START channel: national-geographic
+2025-12-28T04:29:34.591110 | SAVED today → schedule/today/tv-escola.json (49 shows)
+2025-12-28T04:29:34.592151 | SAVED tomorrow → schedule/tomorrow/tv-escola.json (55 shows)
+2025-12-28T04:29:34.592215 | START channel: discovery-turbo
+2025-12-28T04:29:34.894061 | SAVED today → schedule/today/fox-sports.json (12 shows)
+2025-12-28T04:29:34.894313 | SAVED tomorrow → schedule/tomorrow/fox-sports.json (12 shows)
+2025-12-28T04:29:34.894361 | START channel: tv-cabo-branco
+2025-12-28T04:29:35.261203 | SAVED today → schedule/today/national-geographic.json (34 shows)
+2025-12-28T04:29:35.302689 | SAVED tomorrow → schedule/tomorrow/national-geographic.json (31 shows)
+2025-12-28T04:29:35.323406 | START channel: hgtv
+2025-12-28T04:29:35.378090 | SAVED today → schedule/today/h2.json (27 shows)
+2025-12-28T04:29:35.430292 | SAVED tomorrow → schedule/tomorrow/h2.json (28 shows)
+2025-12-28T04:29:35.456009 | START channel: tv-aratu
+2025-12-28T04:29:35.493151 | SAVED today → schedule/today/food-network.json (48 shows)
+2025-12-28T04:29:35.540847 | SAVED today → schedule/today/discovery-turbo.json (30 shows)
+2025-12-28T04:29:35.540914 | SAVED tomorrow → schedule/tomorrow/food-network.json (48 shows)
+2025-12-28T04:29:35.546412 | START channel: gloob
+2025-12-28T04:29:35.621814 | SAVED tomorrow → schedule/tomorrow/discovery-turbo.json (31 shows)
+2025-12-28T04:29:35.622021 | START channel: gnt
+2025-12-28T04:29:35.724743 | SAVED today → schedule/today/discovery-kids.json (120 shows)
+2025-12-28T04:29:35.728851 | SAVED tomorrow → schedule/tomorrow/discovery-kids.json (124 shows)
+2025-12-28T04:29:35.816606 | SAVED today → schedule/today/tv-cabo-branco.json (20 shows)
+2025-12-28T04:29:35.818743 | SAVED tomorrow → schedule/tomorrow/tv-cabo-branco.json (17 shows)
+2025-12-28T04:29:36.070334 | SAVED today → schedule/today/tv-aratu.json (18 shows)
+2025-12-28T04:29:36.070585 | SAVED tomorrow → schedule/tomorrow/tv-aratu.json (13 shows)
+2025-12-28T04:29:36.287143 | SAVED today → schedule/today/hgtv.json (52 shows)
+2025-12-28T04:29:36.385435 | SAVED tomorrow → schedule/tomorrow/hgtv.json (51 shows)
+2025-12-28T04:29:36.437107 | SAVED today → schedule/today/gnt.json (38 shows)
+2025-12-28T04:29:36.437371 | SAVED today → schedule/today/gloob.json (78 shows)
+2025-12-28T04:29:36.438269 | SAVED tomorrow → schedule/tomorrow/gnt.json (33 shows)
+2025-12-28T04:29:36.438400 | SAVED tomorrow → schedule/tomorrow/gloob.json (67 shows)
