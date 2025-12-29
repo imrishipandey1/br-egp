@@ -1,66 +1,122 @@
 {
   "channel": "Tv Cabo Branco",
-  "date": "29/12/2025",
+  "date": "30/12/2025",
   "schedule": [
     {
-      "show_name": "Domingão com Huck",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_doming-o-com-huck-s2025e225_l_m.webp",
-      "show_category": "Temporada 2025 Episódio 225",
-      "start_time": "01:30",
-      "end_time": "05:00",
-      "episode_description": "Os Paralamas do Sucesso embalam o programa e a apresentadora Angélica e outros famosos pedem a Herbert Viana, Bi Ribeiro e João Barone para tocarem clássicos da carreira; o \"Domingão\" ainda apresenta novos episódios do The Wall e Lar Doce Lar."
-    },
-    {
       "show_name": "Fantástico",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_fantastico_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_fantastico_l_m.jpg",
       "show_category": "Newsmagazine",
       "start_time": "05:00",
-      "end_time": "05:30",
+      "end_time": "08:05",
       "episode_description": "Em forma de revista eletrônica, o programa mistura jornalismo, denúncia, esporte, humor, dramaturgia, música e ciência."
     },
     {
-      "show_name": "Irracional - A Ciência do Crime",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_irracional-a-ciencia-do-crime_l_m.webp",
-      "show_category": "Crime drama",
-      "start_time": "08:05",
-      "end_time": "08:50",
-      "episode_description": "Alec Mercer é um professor de ciências comportamentais mundialmente renomado que usa sua experiência em psicologia, linguagem corporal, emoções e tomada de decisões para ajudar a resolver casos difíceis e de alto risco."
+      "show_name": "A Filha da Noiva",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-filha-da-noiva-2023_l_m.jpg",
+      "show_category": "Romantic comedy / 2023",
+      "start_time": "00:00",
+      "end_time": "01:40",
+      "episode_description": "Diane e sua filha Kate são melhores amigas, mas o relacionamento das duas vira de pernas para o ar quando a jovem tenta arruinar os planos de casamento de Diane e o noivo Bruce."
     },
     {
-      "show_name": "Aqueles que me Desejam a Morte",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_aqueles-que-me-desejam-a-morte-2021_l_m.webp",
-      "show_category": "Action / 2021",
-      "start_time": "08:50",
-      "end_time": "10:30",
-      "episode_description": "Um adolescente, testemunha de um homicídio, foge pelas regiões mais selvagens de Montana de dois assassinos que querem silenciá-lo para sempre. Uma mulher, especialista em técnicas de sobrevivência, é a única chance que ele tem de escapar com vida."
+      "show_name": "Vale a Pena Ver de Novo - Rainha da Sucata",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vale-a-pena-ver-de-novo-rainha-da-sucata_l_m.jpg",
+      "show_category": "Soap",
+      "start_time": "01:40",
+      "end_time": "02:55",
+      "episode_description": "A rivalidade entre Maria do Carmo, uma empresária que enriqueceu com os negócios do pai, e Laurinha Figueiroa, uma socialite falida, no universo dos novos-ricos da decadente sociedade paulistana."
+    },
+    {
+      "show_name": "Êta Mundo Melhor!",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_eta-mundo-melhor_l_m.jpg",
+      "show_category": "Drama",
+      "start_time": "02:55",
+      "end_time": "03:40",
+      "episode_description": "Candinho e seu fiel companheiro, Policarpo, voltaram para novas aventuras na cidade grande. Apesar de toda riqueza que o cerca, Candinho enfrenta uma nova saga: a busca pelo filho perdido."
+    },
+    {
+      "show_name": "JPB2",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jpb2_l_m.jpg",
+      "show_category": "News",
+      "start_time": "03:40",
+      "end_time": "04:10",
+      "episode_description": "Acompanhe os acontecimentos do dia a dia e os debates entre a população e as autoridades."
+    },
+    {
+      "show_name": "Dona de Mim",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_dona-de-mim_l_m.jpg",
+      "show_category": "Soap",
+      "start_time": "04:10",
+      "end_time": "05:00",
+      "episode_description": "Leona, uma jovem que vive no Rio de Janeiro, sofre uma perda gestacional e luta para equilibrar as contas da casa onde mora com a avó e a irmã. Para ajudar financeiramente, ela consegue um emprego como babá na mansão da família Boaz."
+    },
+    {
+      "show_name": "Jornal Nacional",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-nacional-1_l_m.jpg",
+      "show_category": "News",
+      "start_time": "05:00",
+      "end_time": "05:50",
+      "episode_description": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo."
+    },
+    {
+      "show_name": "Três Graças",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tres-gracas_l_m.jpg",
+      "show_category": "Drama",
+      "start_time": "05:50",
+      "end_time": "06:50",
+      "episode_description": "Gerluce Maria das Graças integra uma família de mães solo: é filha de Lígia Maria e mãe de Joélly Maria. Criada pela mãe, que engravidou na adolescência e foi abandonada pelo seu pai, Gerluce enfrenta um destino parecido com a chegada da filha."
+    },
+    {
+      "show_name": "Luca",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_luca-2021_l_m.jpg",
+      "show_category": "Children / 2021 / 7.4",
+      "start_time": "06:50",
+      "end_time": "08:25",
+      "episode_description": "Luca vive aventuras com seu novo melhor amigo, mas a diversão é ameaçada por um segredo: seu amigo é um monstro marinho de outro mundo que fica abaixo da superfície da água."
+    },
+    {
+      "show_name": "Jornal da Globo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-da-globo_l_m.jpg",
+      "show_category": "News",
+      "start_time": "08:25",
+      "end_time": "09:15",
+      "episode_description": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura."
+    },
+    {
+      "show_name": "Dona de Mim",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_dona-de-mim_l_m.jpg",
+      "show_category": "Soap",
+      "start_time": "09:15",
+      "end_time": "10:00",
+      "episode_description": "Leona, uma jovem que vive no Rio de Janeiro, sofre uma perda gestacional e luta para equilibrar as contas da casa onde mora com a avó e a irmã. Para ajudar financeiramente, ela consegue um emprego como babá na mansão da família Boaz."
     },
     {
       "show_name": "Vai que Cola",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_vai-que-cola-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-1_l_m.jpg",
       "show_category": "Comedy",
-      "start_time": "10:30",
-      "end_time": "11:05",
+      "start_time": "10:00",
+      "end_time": "10:55",
       "episode_description": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede."
     },
     {
       "show_name": "Vai que Cola",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_vai-que-cola-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-1_l_m.jpg",
       "show_category": "Comedy",
-      "start_time": "11:05",
-      "end_time": "11:45",
+      "start_time": "10:55",
+      "end_time": "11:50",
       "episode_description": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede."
     },
     {
       "show_name": "Vai que Cola",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_vai-que-cola-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-1_l_m.jpg",
       "show_category": "Comedy",
-      "start_time": "11:45",
+      "start_time": "11:50",
       "end_time": "12:30",
       "episode_description": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede."
     },
     {
       "show_name": "Hora 1",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_hora-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hora-1_l_m.jpg",
       "show_category": "News",
       "start_time": "12:30",
       "end_time": "14:30",
@@ -68,7 +124,7 @@
     },
     {
       "show_name": "Bom Dia PB",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_bom-dia-pb_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bom-dia-pb_l_m.jpg",
       "show_category": "News",
       "start_time": "14:30",
       "end_time": "17:00",
@@ -76,7 +132,7 @@
     },
     {
       "show_name": "Bom Dia Brasil",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_bom-dia-brasil-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bom-dia-brasil-1_l_m.jpg",
       "show_category": "News",
       "start_time": "17:00",
       "end_time": "18:00",
@@ -84,7 +140,7 @@
     },
     {
       "show_name": "Encontro com Patrícia Poeta",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_encontro-com-patricia-poeta_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_encontro-com-patricia-poeta_l_m.jpg",
       "show_category": "Entertainment",
       "start_time": "18:00",
       "end_time": "19:05",
@@ -92,7 +148,7 @@
     },
     {
       "show_name": "Mais Você",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_mais-voce-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mais-voce-1_l_m.jpg",
       "show_category": "Talk",
       "start_time": "19:05",
       "end_time": "20:15",
@@ -100,23 +156,23 @@
     },
     {
       "show_name": "JPB1",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_jpb1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jpb1_l_m.jpg",
       "show_category": "News",
       "start_time": "20:15",
       "end_time": "21:30",
       "episode_description": "Acompanhe os acontecimentos do dia a dia e os debates entre a população e as autoridades."
     },
     {
-      "show_name": "Globo Esporte",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_news-globo-esporte_l_m.webp",
+      "show_name": "Globo Esporte PB",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_news-globo-esporte-pb_l_m.jpg",
       "show_category": "",
       "start_time": "21:30",
       "end_time": "21:55",
-      "episode_description": "As principais notícias esportivas do Brasil e do mundo."
+      "episode_description": "Os principais acontecimentos esportivos notícia na Paraíba, no Brasil e no mundo."
     },
     {
       "show_name": "Jornal Hoje",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_jornal-hoje-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-hoje-1_l_m.jpg",
       "show_category": "News",
       "start_time": "21:55",
       "end_time": "23:15",
@@ -124,15 +180,15 @@
     },
     {
       "show_name": "Terra Nostra - Edição Especial",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_terra-nostra-edic-o-especial_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_terra-nostra-edic-o-especial_l_m.jpg",
       "show_category": "Soap",
       "start_time": "23:15",
-      "end_time": "00:00",
+      "end_time": "00:05",
       "episode_description": "Uma parte da história da formação da sociedade brasileira do início do século XX é contada a partir do romance de dois jovens italianos, Giuliana e Matteo. Eles se conhecem em 1894 a bordo do navio que transporta imigrantes para trabalhar no Brasil."
     },
     {
       "show_name": "Três Graças",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_tres-gracas_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tres-gracas_l_m.jpg",
       "show_category": "Drama",
       "start_time": "05:50",
       "end_time": "06:20",
