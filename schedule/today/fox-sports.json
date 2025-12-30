@@ -1,82 +1,106 @@
 {
   "channel": "Fox Sports",
-  "date": "29/12/2025",
+  "date": "30/12/2025",
   "schedule": [
     {
-      "show_name": "Finais",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/fallback_sport_l_m.webp",
-      "show_category": "ITF Beach Tennis World Tour BT 400 Balneário Camboriú 2025",
+      "show_name": "Final: Palmeiras x Flamengo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-final-palmeiras-x-flamengo-1_l_m.jpg",
+      "show_category": "Copa Libertadores da América",
       "start_time": "00:30",
-      "end_time": "03:30",
-      "episode_description": "Torneio internacional de beach tennis de nível BT 400 realizado em Balneário Camboriú, SC."
+      "end_time": "03:00",
+      "episode_description": "Pela grande decisão, em jogo único, Palmeiras e Flamengo se enfrentam no Estadio Monumental U Marathon, em Lima, Peru. Em reedição da final de 2021, o confronto vale o primeiro tetracampeonato de uma equipe brasileira na competição continental."
     },
     {
-      "show_name": "Cremonese x Napoli",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-cremonese-x-napoli_l_m.webp",
-      "show_category": "Campeonato Italiano",
-      "start_time": "03:30",
-      "end_time": "05:30",
-      "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
-    },
-    {
-      "show_name": "Crystal Palace x Tottenham Hotspur",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-crystal-palace-x-tottenham-hotspur_l_m.webp",
-      "show_category": "Campeonato Inglês",
-      "start_time": "05:30",
-      "end_time": "07:30",
-      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
-    },
-    {
-      "show_name": "Sporting x Rio Ave",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-sporting-x-rio-ave_l_m.webp",
-      "show_category": "Campeonato Português",
-      "start_time": "07:30",
-      "end_time": "09:30",
-      "episode_description": "Todas as emoções da principal competição de futebol masculino entre clubes de Portugal."
-    },
-    {
-      "show_name": "Atalanta x Internazionale",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-atalanta-x-internazionale_l_m.webp",
-      "show_category": "Campeonato Italiano",
-      "start_time": "09:30",
-      "end_time": "11:30",
-      "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
-    },
-    {
-      "show_name": "Arsenal vs. Brighton & Hove Albion",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-arsenal-vs-brighton-hove-albion_l_m.webp",
-      "show_category": "Campeonato Inglês",
-      "start_time": "11:30",
-      "end_time": "13:30",
-      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
-    },
-    {
-      "show_name": "Wrexham x Sheffield United",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-wrexham-x-sheffield-united-1_l_m.webp",
-      "show_category": "Campeonato Inglês - Segunda Divisão",
-      "start_time": "13:30",
-      "end_time": "15:30",
-      "episode_description": "Do ST?K Cae Ras, em Wrexham, País de Gales."
-    },
-    {
-      "show_name": "Bola da Vez",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/br_bola-da-vez_l_m.webp",
+      "show_name": "Resenha ESPN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_resenha-espn_l_m.jpg",
       "show_category": "Sports talk",
-      "start_time": "15:30",
-      "end_time": "16:30",
-      "episode_description": "Grandes personalidades do esporte nacional e internacional são colocadas no \"paredão\" e respondem às perguntas de uma bancada de entrevistadores formada por jornalistas, ex-atletas ou especialistas em geral."
+      "start_time": "03:00",
+      "end_time": "04:00",
+      "episode_description": "Com aposentadoria anunciada após uma carreira de destaque nos dois clubes mais populares do Brasil, grandes títulos e uma Copa do Mundo em que esteve perto da \"imortalidade\", Renato Augusto conta histórias e revelações de sua trajetória no futebol."
     },
     {
-      "show_name": "Sacramento Kings x Dallas Mavericks",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/br_basketball-sacramento-kings-x-dallas-mavericks_l_m.webp",
+      "show_name": "Momento ESPN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_documentary-momento-espn_l_m.jpg",
+      "show_category": "",
+      "start_time": "04:00",
+      "end_time": "04:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Flamengo x Botafogo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_basketball-flamengo-x-botafogo_l_m.jpg",
+      "show_category": "NBB",
+      "start_time": "04:15",
+      "end_time": "04:45",
+      "episode_description": "Pela rodada 12, o Flamengo recebe o Botafogo no Ginásio do Maracanãzinho, no Rio de Janeiro, RJ."
+    },
+    {
+      "show_name": "San Antonio Spurs x Cleveland Cavaliers",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_basketball-san-antonio-spurs-x-cleveland-cavaliers_l_m.jpg",
       "show_category": "NBA",
-      "start_time": "16:30",
-      "end_time": "18:30",
+      "start_time": "06:30",
+      "end_time": "09:00",
       "episode_description": "Trinta equipes dos Estados Unidos e Canadá se enfrentam na principal liga de basquete do mundo."
     },
     {
-      "show_name": "Manchester United x Newcastle United",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-manchester-united-x-newcastle-united_l_m.webp",
+      "show_name": "Portland Trail Blazers x Dallas Mavericks",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_basketball-portland-trail-blazers-x-dallas-mavericks_l_m.jpg",
+      "show_category": "NBA",
+      "start_time": "09:00",
+      "end_time": "11:30",
+      "episode_description": "Trinta equipes dos Estados Unidos e Canadá se enfrentam na principal liga de basquete do mundo."
+    },
+    {
+      "show_name": "NBA Action",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_basketball-nba-action_l_m.jpg",
+      "show_category": "",
+      "start_time": "11:30",
+      "end_time": "12:00",
+      "episode_description": "Acompanhe as melhores jogadas da semana e últimas notícias sobre a maior liga de basquete do mundo."
+    },
+    {
+      "show_name": "Ecos da Libertadores 2025",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_special-ecos-da-libertadores-2025_l_m.jpg",
+      "show_category": "",
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "episode_description": "Apresentadores, narradores e comentaristas lembram momentos marcantes das transmissões de futebol internacional dos canais ESPN."
+    },
+    {
+      "show_name": "Roma x Genoa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-roma-x-genoa_l_m.jpg",
+      "show_category": "Campeonato Italiano",
+      "start_time": "13:00",
+      "end_time": "15:00",
+      "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
+    },
+    {
+      "show_name": "Professores do Brasil - Mário Sérgio",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_professores-do-brasil-mario-sergio_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "15:00",
+      "end_time": "15:30",
+      "episode_description": "A história de Mário Sérgio Fontes, primeira pessoa com deficiência visual formada em Educação Física no Brasil e ex-atleta que participou dos Jogos Paralímpicos de Nova York, em 1984, e Seul em 1988."
+    },
+    {
+      "show_name": "Resenha ESPN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_resenha-espn_l_m.jpg",
+      "show_category": "Sports talk",
+      "start_time": "15:30",
+      "end_time": "16:30",
+      "episode_description": "Com aposentadoria anunciada após uma carreira de destaque nos dois clubes mais populares do Brasil, grandes títulos e uma Copa do Mundo em que esteve perto da \"imortalidade\", Renato Augusto conta histórias e revelações de sua trajetória no futebol."
+    },
+    {
+      "show_name": "Flamengo x Botafogo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_basketball-flamengo-x-botafogo_l_m.jpg",
+      "show_category": "NBB",
+      "start_time": "16:30",
+      "end_time": "18:30",
+      "episode_description": "Pela rodada 12, o Flamengo recebe o Botafogo no Ginásio do Maracanãzinho, no Rio de Janeiro, RJ."
+    },
+    {
+      "show_name": "Crystal Palace x Tottenham Hotspur",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-crystal-palace-x-tottenham-hotspur_l_m.jpg",
       "show_category": "Campeonato Inglês",
       "start_time": "18:30",
       "end_time": "20:30",
@@ -84,18 +108,26 @@
     },
     {
       "show_name": "Milan x Hellas Verona",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-milan-x-hellas-verona_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-milan-x-hellas-verona_l_m.jpg",
       "show_category": "Campeonato Italiano",
       "start_time": "20:30",
       "end_time": "22:30",
       "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
     },
     {
-      "show_name": "Liverpool x Wolverhampton",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-liverpool-x-wolverhampton-1_l_m.webp",
-      "show_category": "Campeonato Inglês",
+      "show_name": "Cremonese x Napoli",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-cremonese-x-napoli_l_m.jpg",
+      "show_category": "Campeonato Italiano",
       "start_time": "22:30",
       "end_time": "00:30",
+      "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
+    },
+    {
+      "show_name": "Chelsea x Bournemouth",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-chelsea-x-bournemouth_l_m.jpg",
+      "show_category": "Campeonato Inglês",
+      "start_time": "06:15",
+      "end_time": "06:45",
       "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
     }
   ]

@@ -1,214 +1,198 @@
 {
   "channel": "Tv Senado",
-  "date": "30/12/2025",
+  "date": "31/12/2025",
   "schedule": [
     {
       "show_name": "Sessão Plenária",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_sess-o-plenaria-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sess-o-plenaria-1_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "00:18",
+      "start_time": "00:12",
+      "end_time": "01:45",
+      "episode_description": "Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade."
+    },
+    {
+      "show_name": "Sessão Plenária",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sess-o-plenaria-1_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "01:45",
       "end_time": "04:00",
       "episode_description": "Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade."
     },
     {
-      "show_name": "Tela Brasil",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_tela-brasil_l_m.webp",
-      "show_category": "Documentary",
+      "show_name": "Senado Notícias",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_senado-noticias_l_m.jpg",
+      "show_category": "Politics",
       "start_time": "04:00",
       "end_time": "04:30",
-      "episode_description": "Em um governo passado, havia planos de construção de um aeroporto enorme em cima do que sobrou do lago de Texcoco, que já secou. Uma fortuna em uma área pantanosa."
-    },
-    {
-      "show_name": "Assunto de Estado",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_assunto-de-estado_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "04:30",
-      "end_time": "05:00",
-      "episode_description": "Entrevista com o senador Sérgio Petecão, PSD, sobre investimentos federais no Acre: BR-364, saúde, segurança, agricultura, turismo e educação."
-    },
-    {
-      "show_name": "Em Discussão",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_em-discuss-o-2_l_m.webp",
-      "show_category": "Educational",
-      "start_time": "05:00",
-      "end_time": "05:30",
-      "episode_description": "Líderes mundiais, cientistas e a sociedade organizada chegam à COP 30 com inúmeros desafios. Da educação ambiental ao saneamento básico; da redução das emissões à práticas sustentáveis."
-    },
-    {
-      "show_name": "Lampião da Esquina",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_lampi-o-da-esquina-2016_l_m.webp",
-      "show_category": "Documentary / 2016",
-      "start_time": "05:30",
-      "end_time": "06:55",
-      "episode_description": "Nos anos 1960, surgiu nos EUA o jornal Gay Sunshine, uma publicação voltada para o público homossexual. Em 1978, no Brasil, uma iniciativa similar foi criada: o polêmico Lampião da Esquina."
-    },
-    {
-      "show_name": "Soletrando o Orgulho",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_soletrando-o-orgulho_l_m.webp",
-      "show_category": "Special",
-      "start_time": "06:55",
-      "end_time": "07:50",
-      "episode_description": "Nove pessoas, cada uma pertencente a uma das comunidades que formam o acrônimo LGBTIQA+, compartilham como reconheceram sua identidade."
-    },
-    {
-      "show_name": "As Várias Vidas de Tânia",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_as-varias-vidas-de-tania_l_m.webp",
-      "show_category": "Special",
-      "start_time": "07:50",
-      "end_time": "08:30",
-      "episode_description": "A vida e a obra da alagoana Tânia de Maya Pedrosa, artista autodidata e colecionadora de arte popular brasileira."
-    },
-    {
-      "show_name": "O Presidente Improvável",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_o-presidente-improvavel-2022_l_m.webp",
-      "show_category": "Documentary / 2022",
-      "start_time": "08:30",
-      "end_time": "10:12",
-      "episode_description": "Fernando Henrique Cardoso, ex-presidente da república, se reúne com amigos e colegas de longa data para refletir sobre a sua trajetória e a do próprio país. Entre os seus interlocutores, figuram personagens ilustres como Bill Clinton."
-    },
-    {
-      "show_name": "Marco Maciel - Bastidores de um País em Transe",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_marco-maciel-bastidores-de-um-pais-em-transe_l_m.webp",
-      "show_category": "Special",
-      "start_time": "10:12",
-      "end_time": "10:40",
-      "episode_description": "Por mais de 15 anos, a TV Senado guardou entrevista com o político pernambucano Marco Maciel. Agora em formato de documentário, o ex-presidente da república revela bastidores da ditadura militar e da redemocratização."
-    },
-    {
-      "show_name": "1930 - Tempo de Revolução",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_1930-tempo-de-revoluc-o_l_m.webp",
-      "show_category": "Special",
-      "start_time": "10:40",
-      "end_time": "11:30",
-      "episode_description": "Movimentos políticos ocorridos antes da Revolução de 1930, por meio de imagens de arquivos inéditas e depoimentos de historiadores, tentam esclarecer esse momento crucial e ainda mal compreendido da história brasileira."
-    },
-    {
-      "show_name": "Assunto de Estado",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_assunto-de-estado_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "11:30",
-      "end_time": "12:00",
-      "episode_description": "Entrevista com o senador Sérgio Petecão, PSD, sobre investimentos federais no Acre: BR-364, saúde, segurança, agricultura, turismo e educação."
+      "episode_description": "Acompanhe as últimas notícias do Senado, entre as transmissões ao vivo das reuniões das comissões, do plenário e os programas de grade da emissora."
     },
     {
       "show_name": "Agenda Econômica",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_agenda-economica-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_agenda-economica-1_l_m.jpg",
       "show_category": "Bus./financial",
-      "start_time": "12:00",
-      "end_time": "12:30",
+      "start_time": "04:30",
+      "end_time": "05:00",
+      "episode_description": "Em 2024, os grandes empresários deixaram de pagar cerca de 20% dos impostos devidos ao Governo Federal. O dinheiro ficou no caixa das empresas na forma de benefícios fiscais."
+    },
+    {
+      "show_name": "Assunto de Estado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_assunto-de-estado_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "05:00",
+      "end_time": "05:30",
+      "episode_description": "Entrevista com o senador Sérgio Petecão, PSD, sobre investimentos federais no Acre: BR-364, saúde, segurança, agricultura, turismo e educação."
+    },
+    {
+      "show_name": "O Acre Existe",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-acre-existe-2014_l_m.jpg",
+      "show_category": "Documentary / 2014 / 7.5",
+      "start_time": "05:30",
+      "end_time": "07:30",
+      "episode_description": "Para acabar com um certo mito que tomou conta das redes sociais nos últimos anos, quatro cineastas percorrem 10 mil quilômetros cruzando cidades, florestas e seringais para mostrar que o Acre existe."
+    },
+    {
+      "show_name": "1932, A Guerra Civil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_1932-a-guerra-civil_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "07:30",
+      "end_time": "08:30",
+      "episode_description": "A guerra civil de 1932 durou três meses, e houve cerca de 800 vítimas fatais. Mas apesar do apoio maciço da população e do alistamento espontâneo de 45 mil civis, os paulistas acabaram derrotados."
+    },
+    {
+      "show_name": "Vocação do Poder",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vocac-o-do-poder-2005_l_m.jpg",
+      "show_category": "Documentary / 2005",
+      "start_time": "08:30",
+      "end_time": "10:18",
+      "episode_description": "O documentário retrata a campanha eleitoral de seis candidatos a vereador e traz as ações de cada um, desde as convenções partidárias até a apuração dos votos, passando pelos programas de TV e as vidas social e familiar."
+    },
+    {
+      "show_name": "Ulysses, Cidadão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ulysses-cidad-o_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "10:18",
+      "end_time": "11:30",
+      "episode_description": "A vida e a obra do deputado Ulysses Guimarães a partir de noticiários, entrevistas e depoimentos."
+    },
+    {
+      "show_name": "Agenda Econômica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_agenda-economica-1_l_m.jpg",
+      "show_category": "Bus./financial",
+      "start_time": "11:30",
+      "end_time": "12:00",
       "episode_description": "Em 2024, os grandes empresários deixaram de pagar cerca de 20% dos impostos devidos ao Governo Federal. O dinheiro ficou no caixa das empresas na forma de benefícios fiscais."
     },
     {
       "show_name": "Salão Nobre",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_sal-o-nobre_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sal-o-nobre_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "12:30",
-      "end_time": "13:00",
+      "start_time": "12:00",
+      "end_time": "12:30",
       "episode_description": "Senador Izalci Lucas defende aprovação da Proposta de Emenda à Constituição 1/2025, de sua autoria."
     },
     {
       "show_name": "Em Discussão",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_em-discuss-o-2_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_em-discuss-o-2_l_m.jpg",
       "show_category": "Educational",
-      "start_time": "13:00",
-      "end_time": "13:30",
+      "start_time": "12:30",
+      "end_time": "13:00",
       "episode_description": "Líderes mundiais, cientistas e a sociedade organizada chegam à COP 30 com inúmeros desafios. Da educação ambiental ao saneamento básico; da redução das emissões à práticas sustentáveis."
     },
     {
       "show_name": "TV Senado Live",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_tv-senado-live_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tv-senado-live_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "13:30",
-      "end_time": "14:00",
+      "start_time": "13:00",
+      "end_time": "13:30",
       "episode_description": "Especialistas tiram dúvidas sobre as mudanças físicas e emocionais na menopausa."
     },
     {
       "show_name": "Parlamento Brasil",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_parlamento-brasil_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "14:00",
-      "end_time": "14:30",
+      "start_time": "13:30",
+      "end_time": "14:00",
       "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
     },
     {
-      "show_name": "Estúdio A",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_estudio-a_l_m.webp",
+      "show_name": "Assunto de Estado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_assunto-de-estado_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "14:00",
+      "end_time": "14:30",
+      "episode_description": "Entrevista com o senador Sérgio Petecão, PSD, sobre investimentos federais no Acre: BR-364, saúde, segurança, agricultura, turismo e educação."
+    },
+    {
+      "show_name": "Concertos em Geral",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_concertos-em-geral_l_m.jpg",
       "show_category": "Music",
       "start_time": "14:30",
       "end_time": "15:30",
-      "episode_description": "O pernambucano Victor Ramon e o brasiliense Tiago Tunes, colocam no mundo um trabalho autoral, instrumental e sonoridades inovadoras."
+      "episode_description": "Pianista, compositor e arranjador, Halley Flamarion iniciou sua carreira profissional aos 16 anos. Ele conta relatos curiosos de sua vida e apresenta algumas das suas obras."
     },
     {
       "show_name": "Guerras do Brasil.Doc",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_guerras-do-brasil-doc_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_guerras-do-brasil-doc_l_m.jpg",
       "show_category": "Documentary",
       "start_time": "15:30",
       "end_time": "16:00",
       "episode_description": "A Guerra do Tráfico relata a falência do sistema prisional brasileiro e apresenta um pouco da estrutura do crime organizado no país."
     },
     {
-      "show_name": "Em Discussão",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_em-discuss-o-2_l_m.webp",
-      "show_category": "Educational",
+      "show_name": "Assunto de Estado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_assunto-de-estado_l_m.jpg",
+      "show_category": "Politics",
       "start_time": "16:00",
       "end_time": "16:30",
-      "episode_description": "Líderes mundiais, cientistas e a sociedade organizada chegam à COP 30 com inúmeros desafios. Da educação ambiental ao saneamento básico; da redução das emissões à práticas sustentáveis."
+      "episode_description": "Entrevista com o senador Sérgio Petecão, PSD, sobre investimentos federais no Acre: BR-364, saúde, segurança, agricultura, turismo e educação."
     },
     {
       "show_name": "Cidadania",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_cidadania_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidadania_l_m.jpg",
       "show_category": "Interview",
       "start_time": "16:30",
       "end_time": "17:00",
-      "episode_description": "O Brasil é líder mundial na exportação de animais vivos pelo mar, em sofrimento físico e psicológico, mas o modelo não é interessante economicamente e existem outras opções disponíveis."
-    },
-    {
-      "show_name": "Senado Notícias",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_senado-noticias_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "17:00",
-      "end_time": "17:30",
-      "episode_description": "Acompanhe as últimas notícias do Senado, entre as transmissões ao vivo das reuniões das comissões, do plenário e os programas de grade da emissora."
-    },
-    {
-      "show_name": "Comissão de Assuntos Econômicos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_comiss-o-de-assuntos-economicos-1_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "17:30",
-      "end_time": "18:55",
-      "episode_description": "Os debates e discussões dos projetos de lei que passam pela Comissão de Assuntos Econômicos."
-    },
-    {
-      "show_name": "Comissão de Assuntos Sociais",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_comiss-o-de-assuntos-sociais-1_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "18:55",
-      "end_time": "22:00",
-      "episode_description": "Debate as relações de trabalho, organização do sistema nacional de emprego e condição para o exercício de profissões."
+      "episode_description": "Senado debate legislação para regulamentar processos estruturais. Ações judiciais que tratam de problemas de grande abrangência e alta complexidade social no sistema judiciário brasileiro."
     },
     {
       "show_name": "Tela Brasil",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_tela-brasil_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tela-brasil_l_m.jpg",
       "show_category": "Documentary",
-      "start_time": "22:00",
-      "end_time": "22:30",
+      "start_time": "17:00",
+      "end_time": "17:30",
       "episode_description": "Em um governo passado, havia planos de construção de um aeroporto enorme em cima do que sobrou do lago de Texcoco, que já secou. Uma fortuna em uma área pantanosa."
     },
     {
-      "show_name": "Sessão Plenária",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_sess-o-plenaria-1_l_m.webp",
+      "show_name": "Comissão de Constituição, Justiça e Cidadania",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o-de-constituic-o-justica-e-cidadania_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "22:30",
-      "end_time": "00:12",
+      "start_time": "17:30",
+      "end_time": "20:45",
+      "episode_description": "A comissão debate a constitucionalidade, juridicidade e regimentalidade das matérias submetidas por deliberação do Plenário."
+    },
+    {
+      "show_name": "Comissão de Meio Ambiente",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o-de-meio-ambiente_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "20:45",
+      "end_time": "22:52",
+      "episode_description": "A comissão debate a proteção do meio ambiente, controle da poluição e conservação da natureza."
+    },
+    {
+      "show_name": "Sessão Plenária",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sess-o-plenaria-1_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "22:52",
+      "end_time": "00:58",
       "episode_description": "Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade."
     },
     {
-      "show_name": "O Acre Existe",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_o-acre-existe-2014_l_m.webp",
-      "show_category": "Documentary / 2014 / 7.5",
+      "show_name": "Quando Elas se Movimentam",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quando-elas-se-movimentam-2024_l_m.jpg",
+      "show_category": "Documentary / 2024",
       "start_time": "05:30",
       "end_time": "06:00",
-      "episode_description": "Para acabar com um certo mito que tomou conta das redes sociais nos últimos anos, quatro cineastas percorrem 10 mil quilômetros cruzando cidades, florestas e seringais para mostrar que o Acre existe."
+      "episode_description": "Três personagens de diferentes regiões que manifestam e corporificam a conquista dos direitos da população brasileira, viabilizados e garantidos pelas leis aprovadas pelo senado federal."
     }
   ]
 }
