@@ -1,142 +1,150 @@
 {
   "channel": "Fox Sports",
-  "date": "31/12/2025",
+  "date": "01/01/2026",
   "schedule": [
     {
-      "show_name": "Bola da Vez",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_bola-da-vez_l_m.webp",
-      "show_category": "Sports talk",
-      "start_time": "00:30",
-      "end_time": "01:35",
-      "episode_description": "Grandes personalidades do esporte nacional e internacional são colocadas no \"paredão\" e respondem às perguntas de uma bancada de entrevistadores formada por jornalistas, ex-atletas ou especialistas em geral."
+      "show_name": "Ecos da Libertadores 2025",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_special-ecos-da-libertadores-2025_l_m.jpg",
+      "show_category": "",
+      "start_time": "01:15",
+      "end_time": "02:15",
+      "episode_description": "Apresentadores, narradores e comentaristas lembram momentos marcantes das transmissões de futebol internacional dos canais ESPN."
+    },
+    {
+      "show_name": "Show da Rodada do Italiano",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-do-italiano_l_m.jpg",
+      "show_category": "",
+      "start_time": "02:15",
+      "end_time": "02:45",
+      "episode_description": "Os principais destaques das partidas da Lega Serie A, primeira divisão do Campeonato Italiano de futebol masculino, com os gols, melhores lances e situação da tabela de classificação após cada rodada disputada."
+    },
+    {
+      "show_name": "Show da Rodada da EFL",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-da-efl_l_m.jpg",
+      "show_category": "",
+      "start_time": "02:45",
+      "end_time": "03:15",
+      "episode_description": "Os destaques das partidas da EFL Championship, segunda divisão de futebol masculino da Inglaterra."
+    },
+    {
+      "show_name": "Momento ESPN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_documentary-momento-espn_l_m.jpg",
+      "show_category": "",
+      "start_time": "03:15",
+      "end_time": "03:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Manchester United x Wolverhampton",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-manchester-united-x-wolverhampton_l_m.jpg",
+      "show_category": "Campeonato Inglês",
+      "start_time": "03:30",
+      "end_time": "05:30",
+      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
+    },
+    {
+      "show_name": "Oitava Etapa - Velocitta, SP",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_auto-racing-oitava-etapa-velocitta-sp_l_m.jpg",
+      "show_category": "Nascar Brasil Sprint Race",
+      "start_time": "06:30",
+      "end_time": "07:30",
+      "episode_description": "Oitava etapa da temporada 2025 da categoria, disputada no Autódromo Velocitta, em Mogi Guaçu, SP."
+    },
+    {
+      "show_name": "Final: Palmeiras x Flamengo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-final-palmeiras-x-flamengo-1_l_m.jpg",
+      "show_category": "Copa Libertadores da América",
+      "start_time": "07:30",
+      "end_time": "10:00",
+      "episode_description": "Pela grande decisão, em jogo único, Palmeiras e Flamengo se enfrentam no Estadio Monumental U Marathon, em Lima, Peru. Em reedição da final de 2021, o confronto vale o primeiro tetracampeonato de uma equipe brasileira na competição continental."
+    },
+    {
+      "show_name": "Ecos da Libertadores 2025",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_special-ecos-da-libertadores-2025_l_m.jpg",
+      "show_category": "",
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "episode_description": "Apresentadores, narradores e comentaristas lembram momentos marcantes das transmissões de futebol internacional dos canais ESPN."
+    },
+    {
+      "show_name": "Show da Rodada da EFL",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-da-efl_l_m.jpg",
+      "show_category": "",
+      "start_time": "11:00",
+      "end_time": "11:30",
+      "episode_description": "Os destaques das partidas da EFL Championship, segunda divisão de futebol masculino da Inglaterra."
     },
     {
       "show_name": "Arsenal x Aston Villa",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-arsenal-x-aston-villa_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-arsenal-x-aston-villa_l_m.jpg",
       "show_category": "Campeonato Inglês",
-      "start_time": "01:35",
-      "end_time": "03:45",
-      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
-    },
-    {
-      "show_name": "Show da Rodada do Inglês",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-show-da-rodada-do-ingles_l_m.webp",
-      "show_category": "",
-      "start_time": "03:45",
-      "end_time": "04:15",
-      "episode_description": "O programa traz todos os pormenores da rodada do campeonato inglês com as pontuações dos clubes, gols e lances mais bonitos."
-    },
-    {
-      "show_name": "Braga x Benfica",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-braga-x-benfica_l_m.webp",
-      "show_category": "Campeonato Português",
-      "start_time": "04:15",
-      "end_time": "06:15",
-      "episode_description": "Todas as emoções da principal competição de futebol masculino entre clubes de Portugal."
-    },
-    {
-      "show_name": "Chelsea x Bournemouth",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-chelsea-x-bournemouth_l_m.webp",
-      "show_category": "Campeonato Inglês",
-      "start_time": "06:15",
-      "end_time": "08:15",
-      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
-    },
-    {
-      "show_name": "Playoffs - 400 Milhas de Kansas",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_auto-racing-playoffs-400-milhas-de-kansas_l_m.webp",
-      "show_category": "NASCAR Cup Series",
-      "start_time": "08:15",
-      "end_time": "11:15",
-      "episode_description": "Segunda etapa da segunda fase dos playoffs de 2025. Do Kansas Speedway, em Kansas City, EUA."
-    },
-    {
-      "show_name": "Momento ESPN",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_documentary-momento-espn_l_m.webp",
-      "show_category": "",
-      "start_time": "11:15",
-      "end_time": "11:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Resenha ESPN",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_resenha-espn_l_m.webp",
-      "show_category": "Sports talk",
       "start_time": "11:30",
-      "end_time": "12:30",
-      "episode_description": "Com aposentadoria anunciada após uma carreira de destaque nos dois clubes mais populares do Brasil, grandes títulos e uma Copa do Mundo em que esteve perto da \"imortalidade\", Renato Augusto conta histórias e revelações de sua trajetória no futebol."
+      "end_time": "13:30",
+      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
     },
     {
-      "show_name": "Flamengo x Botafogo",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_basketball-flamengo-x-botafogo_l_m.webp",
-      "show_category": "NBB",
-      "start_time": "12:30",
-      "end_time": "14:30",
-      "episode_description": "Pela rodada 12, o Flamengo recebe o Botafogo no Ginásio do Maracanãzinho, no Rio de Janeiro, RJ."
-    },
-    {
-      "show_name": "Ecos do Tênis 2025",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_special-ecos-do-tenis-2025_l_m.webp",
-      "show_category": "",
-      "start_time": "14:30",
-      "end_time": "15:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Bola da Vez",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_bola-da-vez_l_m.webp",
-      "show_category": "Sports talk",
-      "start_time": "15:30",
-      "end_time": "16:30",
-      "episode_description": "Grandes personalidades do esporte nacional e internacional são colocadas no \"paredão\" e respondem às perguntas de uma bancada de entrevistadores formada por jornalistas, ex-atletas ou especialistas em geral."
-    },
-    {
-      "show_name": "San Antonio Spurs x Cleveland Cavaliers",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_basketball-san-antonio-spurs-x-cleveland-cavaliers_l_m.webp",
+      "show_name": "Charlotte Hornets x Golden State Warriors",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_basketball-charlotte-hornets-x-golden-state-warriors_l_m.jpg",
       "show_category": "NBA",
-      "start_time": "16:30",
-      "end_time": "18:30",
+      "start_time": "13:30",
+      "end_time": "16:00",
       "episode_description": "Trinta equipes dos Estados Unidos e Canadá se enfrentam na principal liga de basquete do mundo."
     },
     {
-      "show_name": "Atalanta x Internazionale",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-atalanta-x-internazionale_l_m.webp",
-      "show_category": "Campeonato Italiano",
+      "show_name": "Quinta Etapa - Cascavel, PR",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_auto-racing-quinta-etapa-cascavel-pr-1_l_m.jpg",
+      "show_category": "Nascar Brasil Sprint Race",
+      "start_time": "16:00",
+      "end_time": "17:30",
+      "episode_description": "Quinta etapa da categoria em 2025. Do Autódromo Internacional Zilmar Beux, em Cascavel, PR."
+    },
+    {
+      "show_name": "Etapa Velocitta, SP",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_auto-racing-etapa-velocitta-sp_l_m.jpg",
+      "show_category": "Nascar Brasil Sprint Race",
+      "start_time": "17:30",
+      "end_time": "18:30",
+      "episode_description": "Etapa da temporada 2025 da Nascar Brasil Series realizada no Autódromo Velocitta, em Mogi Guaçu, SP."
+    },
+    {
+      "show_name": "Sétima Etapa - Curvelo, MG",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_auto-racing-setima-etapa-curvelo-mg_l_m.jpg",
+      "show_category": "Nascar Brasil Sprint Race",
       "start_time": "18:30",
+      "end_time": "19:30",
+      "episode_description": "Sétima etapa da temporada 2025 da categoria, realizada no Circuito dos Cristais, em Curvelo, MG."
+    },
+    {
+      "show_name": "Resenha ESPN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_resenha-espn_l_m.jpg",
+      "show_category": "Sports talk",
+      "start_time": "19:30",
       "end_time": "20:30",
-      "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
+      "episode_description": "Com aposentadoria anunciada após uma carreira de destaque nos dois clubes mais populares do Brasil, grandes títulos e uma Copa do Mundo em que esteve perto da \"imortalidade\", Renato Augusto conta histórias e revelações de sua trajetória no futebol."
     },
     {
-      "show_name": "Milan x Hellas Verona",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-milan-x-hellas-verona_l_m.webp",
-      "show_category": "Campeonato Italiano",
+      "show_name": "Final: Palmeiras x Flamengo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-final-palmeiras-x-flamengo-1_l_m.jpg",
+      "show_category": "Copa Libertadores da América",
       "start_time": "20:30",
-      "end_time": "22:30",
-      "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
+      "end_time": "22:50",
+      "episode_description": "Pela grande decisão, em jogo único, Palmeiras e Flamengo se enfrentam no Estadio Monumental U Marathon, em Lima, Peru. Em reedição da final de 2021, o confronto vale o primeiro tetracampeonato de uma equipe brasileira na competição continental."
     },
     {
-      "show_name": "Playoffs - GP de Charlotte",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_auto-racing-playoffs-gp-de-charlotte_l_m.webp",
+      "show_name": "Crystal Palace x Fulham",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-crystal-palace-x-fulham_l_m.jpg",
+      "show_category": "Campeonato Inglês",
+      "start_time": "22:50",
+      "end_time": "01:00",
+      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
+    },
+    {
+      "show_name": "Playoffs - GP de Las Vegas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_auto-racing-playoffs-gp-de-las-vegas_l_m.jpg",
       "show_category": "NASCAR Cup Series",
-      "start_time": "22:30",
-      "end_time": "01:15",
-      "episode_description": "Corrida dos últimos 12 pilotos do ranking, realizado no Charlotte Motor Speedway, Carolina do Norte."
-    },
-    {
-      "show_name": "Marc Márquez - Mais que um Retorno",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_special-marc-marquez-mais-que-um-retorno_l_m.webp",
-      "show_category": "",
       "start_time": "05:30",
-      "end_time": "06:15",
-      "episode_description": "A saga do espanhol Marc Márquez, que após conquistar seis títulos da MotoGP entre 2013 e 2019 enfrentou um grande calvário. Depois de sofrer 108 acidentes, passar por seis cirurgias e perder 30 provas, o piloto voltou a ser campeão da categoria."
-    },
-    {
-      "show_name": "Momento ESPN",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_documentary-momento-espn_l_m.webp",
-      "show_category": "",
-      "start_time": "06:15",
-      "end_time": "06:45",
-      "episode_description": ""
+      "end_time": "06:00",
+      "episode_description": "Com oito remanescentes na briga pelo título da temporada 2025 da Nascar Cup Series, os pilotos da categoria aceleram para a etapa de abertura da terceira fase dos playoffs. Do Las Vegas Motor Speedway, em Las Vegas, EUA."
     }
   ]
 }
