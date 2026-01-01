@@ -1,10 +1,10 @@
 {
   "channel": "Tv Jangadeiro",
-  "date": "31/12/2025",
+  "date": "01/01/2026",
   "schedule": [
     {
       "show_name": "Fofocalizando",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_fofocalizando_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_fofocalizando_l_m.jpg",
       "show_category": "Newsmagazine",
       "start_time": "00:00",
       "end_time": "01:15",
@@ -12,95 +12,71 @@
     },
     {
       "show_name": "Casos de Família",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_casos-de-familia-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_casos-de-familia-1_l_m.jpg",
       "show_category": "Talk",
       "start_time": "01:15",
-      "end_time": "02:15",
+      "end_time": "02:00",
       "episode_description": "Expõe os impactos das prioridades desalinhadas em um relacionamento e seus desgastes."
     },
     {
       "show_name": "Coração Indomável",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_corac-o-indomavel-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_corac-o-indomavel-1_l_m.jpg",
       "show_category": "Soap",
-      "start_time": "02:15",
-      "end_time": "03:00",
+      "start_time": "02:00",
+      "end_time": "02:45",
       "episode_description": "A novela conta a história da pobre Maricruz que, após ter sido abandonada pelo marido, decide se vingar daqueles que a humilharam. Ela descobre ser filha de um homem rico, tornando-se uma mulher da alta sociedade."
     },
     {
       "show_name": "Jornal Jangadeiro - 2ª Edição",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_jornal-jangadeiro-2-edic-o_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-jangadeiro-2-edic-o_l_m.jpg",
       "show_category": "News",
-      "start_time": "03:00",
-      "end_time": "04:10",
+      "start_time": "02:45",
+      "end_time": "03:40",
       "episode_description": "Acompanhe os principais fatos do dia com matérias, reportagens especiais e denúncias."
     },
     {
       "show_name": "Loteria dos Sonhos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_loteria-dos-sonhos_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_loteria-dos-sonhos_l_m.jpg",
       "show_category": "Gaming",
-      "start_time": "04:10",
-      "end_time": "04:15",
+      "start_time": "03:40",
+      "end_time": "03:45",
       "episode_description": "Acompanhe os resultados da Loteria Estadual do Ceará."
     },
     {
       "show_name": "SBT Brasil",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_sbt-brasil_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-brasil_l_m.jpg",
       "show_category": "News",
-      "start_time": "04:15",
-      "end_time": "05:30",
+      "start_time": "03:45",
+      "end_time": "04:30",
       "episode_description": "Acompanhe as principais notícias do Brasil e do mundo com análise profunda dos fatos."
     },
     {
-      "show_name": "Programa do Ratinho",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_programa-do-ratinho_l_m.webp",
-      "show_category": "Variety",
-      "start_time": "06:30",
-      "end_time": "07:30",
-      "episode_description": "O apresentador Carlos Massa leva ao público um programa alegre e repleto de atrações. Ele recebe convidados famosos e games, comédia, participação do público e quadros únicos, como o \"Jornal Racional\", \"Gol Show\" e \"Dez ou Mil\", entre outros."
-    },
-    {
-      "show_name": "Baile da Latinera",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_baile-da-latinera_l_m.webp",
+      "show_name": "Vira Brasil 2025",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vira-brasil-2025_l_m.jpg",
       "show_category": "Holiday",
-      "start_time": "07:30",
-      "end_time": "08:45",
-      "episode_description": "Uma noite de música, nostalgia e energia lá em cima para fechar o ano de 2025 dançando."
+      "start_time": "04:30",
+      "end_time": "05:00",
+      "episode_description": "Festival de música cristã, com pregações e cultos acontece no Allianz Parque, em São Paulo."
     },
     {
-      "show_name": "The Noite com Danilo Gentili",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_the-noite-com-danilo-gentili_l_m.webp",
-      "show_category": "Talk",
-      "start_time": "08:45",
-      "end_time": "09:45",
-      "episode_description": "Talk show com alto índice de piadas por minuto, que, com muita irreverência, aborda os fatos relevantes do dia."
-    },
-    {
-      "show_name": "Operação Mesquita",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_operac-o-mesquita_l_m.webp",
-      "show_category": "Entertainment",
-      "start_time": "09:45",
-      "end_time": "10:15",
-      "episode_description": "Descubra o lado B dos famosos, que mostram o seu cotidiano de forma curiosa e divertida por meio de entrevistas. Acompanhe ainda pessoas comuns que estão prestes a protagonizar um grande momento que pode mudar para sempre as suas vidas."
-    },
-    {
-      "show_name": "SBT PodNight",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_sbt-podnight_l_m.webp",
-      "show_category": "Talk",
-      "start_time": "10:15",
-      "end_time": "11:00",
-      "episode_description": "Exibição de podcasts brasileiros líderes de audiência nas plataformas digitais, que abordam temas variados, de cultura e entretenimento a questões sociais."
+      "show_name": "Espetáculo Seja Luz",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_espetaculo-seja-luz_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "11:30",
+      "end_time": "12:45",
+      "episode_description": ""
     },
     {
       "show_name": "SBT Notícias",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_sbt-noticias_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-noticias_l_m.jpg",
       "show_category": "News",
-      "start_time": "11:00",
+      "start_time": "12:45",
       "end_time": "13:15",
       "episode_description": "Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia."
     },
     {
       "show_name": "SBT Manhã",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_sbt-manh_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-manh_l_m.jpg",
       "show_category": "News",
       "start_time": "13:15",
       "end_time": "13:30",
@@ -108,7 +84,7 @@
     },
     {
       "show_name": "SBT Manhã",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_sbt-manh_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-manh_l_m.jpg",
       "show_category": "News",
       "start_time": "13:30",
       "end_time": "15:15",
@@ -116,7 +92,7 @@
     },
     {
       "show_name": "Quem Como Deus?",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_quem-como-deus_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-como-deus_l_m.jpg",
       "show_category": "Religious",
       "start_time": "15:15",
       "end_time": "15:30",
@@ -124,7 +100,7 @@
     },
     {
       "show_name": "Terço das Santas Chagas",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_terco-das-santas-chagas_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_terco-das-santas-chagas_l_m.jpg",
       "show_category": "Religious",
       "start_time": "15:30",
       "end_time": "16:00",
@@ -132,7 +108,7 @@
     },
     {
       "show_name": "SBT Manhã",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_sbt-manh_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-manh_l_m.jpg",
       "show_category": "News",
       "start_time": "16:00",
       "end_time": "17:00",
@@ -140,55 +116,39 @@
     },
     {
       "show_name": "Primeiro Impacto",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_primeiro-impacto-1997_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_primeiro-impacto-1997_l_m.jpg",
       "show_category": "News",
       "start_time": "17:00",
       "end_time": "19:30",
       "episode_description": "Acompanhe as reportagens que trazem informações do dia a dia. Saiba o que é relevante para o cenário cotidiano por meio de análises e opiniões de colunistas."
     },
     {
-      "show_name": "Loteria dos Sonhos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_loteria-dos-sonhos_l_m.webp",
-      "show_category": "Gaming",
-      "start_time": "19:30",
-      "end_time": "19:35",
-      "episode_description": "Acompanhe os resultados da Loteria Estadual do Ceará."
-    },
-    {
       "show_name": "Futebolês",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_sports-talk-futeboles_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sports-talk-futeboles_l_m.jpg",
       "show_category": "",
-      "start_time": "19:35",
-      "end_time": "19:50",
+      "start_time": "19:30",
+      "end_time": "19:45",
       "episode_description": "Acompanhe a melhor cobertura sobre a Copa do Nordeste e a Copa do Mundo de futebol de 2018."
     },
     {
       "show_name": "Barra",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_barra_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_barra_l_m.jpg",
       "show_category": "Crime",
-      "start_time": "19:50",
-      "end_time": "21:25",
+      "start_time": "19:45",
+      "end_time": "21:35",
       "episode_description": "Programa jornalístico-policial que tem como proposta divulgar os acontecimentos da comunidade. Além de notícias policiais, o programa oferece serviços de utilidade pública e repercute as queixas da população."
     },
     {
       "show_name": "Todo Mundo Ama",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_todo-mundo-ama_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_todo-mundo-ama_l_m.jpg",
       "show_category": "Variety",
-      "start_time": "21:25",
-      "end_time": "22:25",
+      "start_time": "21:35",
+      "end_time": "22:30",
       "episode_description": "O programa traz personagens curiosos, dicas de saúde e beleza, comunidade, famosos e boas histórias."
     },
     {
-      "show_name": "Loteria dos Sonhos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_loteria-dos-sonhos_l_m.webp",
-      "show_category": "Gaming",
-      "start_time": "22:25",
-      "end_time": "22:30",
-      "episode_description": "Acompanhe os resultados da Loteria Estadual do Ceará."
-    },
-    {
       "show_name": "Esmeralda - Edição Especial",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_esmeralda-edic-o-especial_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_esmeralda-edic-o-especial_l_m.jpg",
       "show_category": "Soap",
       "start_time": "22:30",
       "end_time": "23:00",
@@ -196,11 +156,19 @@
     },
     {
       "show_name": "Rubi",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_rubi_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rubi_l_m.jpg",
       "show_category": "Soap",
       "start_time": "23:00",
       "end_time": "00:00",
       "episode_description": "Rubi é uma jovem universitária que vive na pobreza com mãe e irmã. Obcecada por dinheiro desde a morte do pai, decide usar sua beleza para conquistar um homem rico e mudar de vida."
+    },
+    {
+      "show_name": "A.MAR",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-mar_l_m.jpg",
+      "show_category": "Soap",
+      "start_time": "05:30",
+      "end_time": "06:00",
+      "episode_description": "Rosalba e Porfírio planejam fuga; Érika mente sobre relacionamento com Fabian; Sérgio propõe casamento a Beatriz por interesse; Porfírio acusa Ulisses de fraude; Beatriz descobre verdade sobre Sérgio; Yasmin rejeita Fabian; Érika incentiva sequestro."
     }
   ]
 }

@@ -1,130 +1,98 @@
 {
   "channel": "Tv Camara",
-  "date": "01/01/2026",
+  "date": "02/01/2026",
   "schedule": [
     {
-      "show_name": "Bala de Banana - Uma Doce Tradição",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_bala-de-banana-uma-doce-tradic-o_l_m.webp",
-      "show_category": "Special",
-      "start_time": "01:00",
-      "end_time": "01:15",
-      "episode_description": "Na cidade de Antonina, no Paraná, a fabricação da tradicional bala de banana transformou a vida de centenas de moradores ao longo das décadas."
-    },
-    {
-      "show_name": "Cachaça de Paraty - Onde a Serra Encontra o Mar",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/tomorrow/fallback_other_l_m.webp",
-      "show_category": "Special",
-      "start_time": "01:15",
-      "end_time": "01:30",
-      "episode_description": "Os alambiques de Paraty preservam a tradição da cachaça, outrora usada como moeda no Caminho do Ouro. Após anos de resistência, produtores mantiveram viva essa joia regional, com fermentação e destilação únicas onde a serra encontra o mar."
-    },
-    {
-      "show_name": "Câmara Debate",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_camara-debate_l_m.webp",
+      "show_name": "Comissão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "01:30",
-      "end_time": "02:00",
-      "episode_description": "A cada programa, dois parlamentares discutem os grandes temas que movimentam os trabalhos na Câmara dos Deputados."
-    },
-    {
-      "show_name": "Ciência sem Limites",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_ciencia-sem-limites_l_m.webp",
-      "show_category": "Science",
-      "start_time": "02:00",
+      "start_time": "00:00",
       "end_time": "02:30",
-      "episode_description": "O programa é um espaço de divulgação da ciência em diferentes áreas. Saiba mais sobre as pesquisas, obras e avanços tecnológicos produzidos pelos pesquisadores da Unesp."
-    },
-    {
-      "show_name": "Ponto de Vista",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_ponto-de-vista-2009_l_m.webp",
-      "show_category": "History",
-      "start_time": "02:30",
-      "end_time": "03:00",
-      "episode_description": "Convidados especiais discutem a respeito de temas relevantes da história mundial."
-    },
-    {
-      "show_name": "Elas Pautam",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_elas-pautam_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "03:00",
-      "end_time": "03:30",
-      "episode_description": "O programa conta com a participação de duas parlamentares, em uma conversa informal sobre temas diversos de interesse da bancada feminina."
-    },
-    {
-      "show_name": "Mimo - O Milagre de Milagres",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_mimo-o-milagre-de-milagres_l_m.webp",
-      "show_category": "Special",
-      "start_time": "03:30",
-      "end_time": "04:00",
-      "episode_description": "Um agricultor do interior do Ceará considerado um jogador de futebol talentoso perde uma perna após ser gravemente atropelado. Mesmo amputado, ele se torna um exemplo de superação ao disputar o campeonato municipal da cidade de Milagres."
-    },
-    {
-      "show_name": "Comissão",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_comiss-o_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "04:00",
-      "end_time": "04:30",
-      "episode_description": "O programa transmite as discussões e votações do plenário."
-    },
-    {
-      "show_name": "Qual a Questão?",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_qual-a-quest-o_l_m.webp",
-      "show_category": "Public affairs",
-      "start_time": "06:30",
-      "end_time": "07:00",
-      "episode_description": "Discussões sobre grandes temas da agenda nacional que mexem com o dia a dia dos brasileiros, como educação, economia, meio ambiente, empregos, tecnologia e saúde. Com participação de especialistas e representantes da sociedade civil."
-    },
-    {
-      "show_name": "Elas Pautam",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_elas-pautam_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "07:00",
-      "end_time": "07:30",
-      "episode_description": "O programa conta com a participação de duas parlamentares, em uma conversa informal sobre temas diversos de interesse da bancada feminina."
-    },
-    {
-      "show_name": "Parlamento Brasil",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_parlamento-brasil_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "07:30",
-      "end_time": "08:00",
-      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
-    },
-    {
-      "show_name": "Palavra Aberta",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_palavra-aberta-1_l_m.webp",
-      "show_category": "Interview",
-      "start_time": "08:00",
-      "end_time": "08:15",
-      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
-    },
-    {
-      "show_name": "Palavra Aberta",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_palavra-aberta-1_l_m.webp",
-      "show_category": "Interview",
-      "start_time": "08:15",
-      "end_time": "08:30",
-      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
-    },
-    {
-      "show_name": "Comissão",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_comiss-o_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "08:30",
-      "end_time": "14:00",
       "episode_description": "O programa transmite as discussões e votações do plenário."
     },
     {
       "show_name": "Ocupação",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_ocupac-o_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ocupac-o_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "14:00",
-      "end_time": "15:00",
+      "start_time": "02:30",
+      "end_time": "03:30",
       "episode_description": "Cinquenta jovens de todos os estados do país participam de um debate informal e dinâmico - mas sem perder a seriedade - e abordam assuntos importantes para o país. Esses jovens são integrantes de um programa de estágio da Câmara dos Deputados."
     },
     {
+      "show_name": "100 Anos de Cultura e Conflitos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_100-anos-de-cultura-e-conflitos_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "03:30",
+      "end_time": "04:00",
+      "episode_description": "Veja os eventos que marcaram a história do Brasil desde a Semana de Arte Moderna até os dias atuais."
+    },
+    {
+      "show_name": "Câmara Debate",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_camara-debate_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "04:00",
+      "end_time": "04:30",
+      "episode_description": "A cada programa, dois parlamentares discutem os grandes temas que movimentam os trabalhos na Câmara dos Deputados."
+    },
+    {
+      "show_name": "Ciência sem Limites",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ciencia-sem-limites_l_m.jpg",
+      "show_category": "Science",
+      "start_time": "04:30",
+      "end_time": "05:00",
+      "episode_description": "O programa é um espaço de divulgação da ciência em diferentes áreas. Saiba mais sobre as pesquisas, obras e avanços tecnológicos produzidos pelos pesquisadores da Unesp."
+    },
+    {
+      "show_name": "Bala de Banana - Uma Doce Tradição",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bala-de-banana-uma-doce-tradic-o_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "05:00",
+      "end_time": "05:15",
+      "episode_description": "Na cidade de Antonina, no Paraná, a fabricação da tradicional bala de banana transformou a vida de centenas de moradores ao longo das décadas."
+    },
+    {
+      "show_name": "Cachaça de Paraty - Onde a Serra Encontra o Mar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "05:15",
+      "end_time": "05:30",
+      "episode_description": "Os alambiques de Paraty preservam a tradição da cachaça, outrora usada como moeda no Caminho do Ouro. Após anos de resistência, produtores mantiveram viva essa joia regional, com fermentação e destilação únicas onde a serra encontra o mar."
+    },
+    {
+      "show_name": "Ponto de Vista",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ponto-de-vista-2009_l_m.jpg",
+      "show_category": "History",
+      "start_time": "06:30",
+      "end_time": "07:00",
+      "episode_description": "Convidados especiais discutem a respeito de temas relevantes da história mundial."
+    },
+    {
+      "show_name": "Encontro com a Autora",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_encontro-com-a-autora_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "07:00",
+      "end_time": "08:00",
+      "episode_description": "Parceria entre o Centro Cultural e o Centro de Documentação e Informação da Câmara dos Deputados. A autora ou o autor convidado fala sobre sua obra e os participantes podem dirigir perguntas a ela ou ele sobre seu estilo e influências."
+    },
+    {
+      "show_name": "Entrevista Especial",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_entrevista-especial-1_l_m.jpg",
+      "show_category": "",
+      "start_time": "08:00",
+      "end_time": "08:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Comissão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "08:30",
+      "end_time": "15:00",
+      "episode_description": "O programa transmite as discussões e votações do plenário."
+    },
+    {
       "show_name": "Palavra Aberta",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_palavra-aberta-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
       "show_category": "Interview",
       "start_time": "15:00",
       "end_time": "15:15",
@@ -132,23 +100,23 @@
     },
     {
       "show_name": "Palavra Aberta",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_palavra-aberta-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
       "show_category": "Interview",
       "start_time": "15:15",
       "end_time": "15:30",
       "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
     },
     {
-      "show_name": "Meia Lua Falciforme",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_meia-lua-falciforme_l_m.webp",
-      "show_category": "Special",
+      "show_name": "Ciência sem Limites",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ciencia-sem-limites_l_m.jpg",
+      "show_category": "Science",
       "start_time": "15:30",
       "end_time": "16:00",
-      "episode_description": "O documentário apresenta relatos carregados de emoção sobre a doença falciforme, predominante na população afrodescendente. Aborda o racismo que impede um melhor tratamento, mostra o que é a enfermidade e como os pacientes podem ser melhor atendidos."
+      "episode_description": "O programa é um espaço de divulgação da ciência em diferentes áreas. Saiba mais sobre as pesquisas, obras e avanços tecnológicos produzidos pelos pesquisadores da Unesp."
     },
     {
       "show_name": "Palavra Aberta",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_palavra-aberta-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
       "show_category": "Interview",
       "start_time": "16:00",
       "end_time": "16:15",
@@ -156,75 +124,75 @@
     },
     {
       "show_name": "Palavra Aberta",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_palavra-aberta-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
       "show_category": "Interview",
       "start_time": "16:15",
       "end_time": "16:30",
       "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
     },
     {
-      "show_name": "Participação Popular",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_participac-o-popular-1_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "16:30",
-      "end_time": "17:30",
-      "episode_description": "O programa reúne deputados, analistas e o público ao vivo para saber o que o cidadão comum acha dos temas discutidos no Congresso."
-    },
-    {
-      "show_name": "Entrevista Especial",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_entrevista-especial-1_l_m.webp",
-      "show_category": "",
-      "start_time": "17:30",
-      "end_time": "18:00",
-      "episode_description": ""
-    },
-    {
       "show_name": "Ponto de Vista",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_ponto-de-vista-2009_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ponto-de-vista-2009_l_m.jpg",
       "show_category": "History",
-      "start_time": "18:00",
-      "end_time": "18:30",
+      "start_time": "16:30",
+      "end_time": "17:00",
       "episode_description": "Convidados especiais discutem a respeito de temas relevantes da história mundial."
     },
     {
+      "show_name": "100 Anos de Cultura e Conflitos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_100-anos-de-cultura-e-conflitos_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "17:00",
+      "end_time": "17:30",
+      "episode_description": "Veja os eventos que marcaram a história do Brasil desde a Semana de Arte Moderna até os dias atuais."
+    },
+    {
       "show_name": "Comissão",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_comiss-o_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "18:30",
-      "end_time": "22:15",
+      "start_time": "17:30",
+      "end_time": "20:30",
       "episode_description": "O programa transmite as discussões e votações do plenário."
     },
     {
-      "show_name": "Retrospectiva 2025",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_retrospectiva-2025_l_m.webp",
-      "show_category": "Special",
-      "start_time": "22:15",
-      "end_time": "23:00",
+      "show_name": "Bora Entender?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bora-entender_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "20:30",
+      "end_time": "21:30",
+      "episode_description": "Explicação didática de temas que estão presentes no debate político, de forma imparcial, apresentando todas as visões envolvidas, para que o público entenda a questão e tire suas próprias conclusões."
+    },
+    {
+      "show_name": "Entrevista Especial",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_entrevista-especial-1_l_m.jpg",
+      "show_category": "",
+      "start_time": "21:30",
+      "end_time": "22:00",
       "episode_description": ""
     },
     {
-      "show_name": "Elas Pautam",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_elas-pautam_l_m.webp",
+      "show_name": "Participação Popular",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_participac-o-popular-1_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "22:00",
+      "end_time": "23:00",
+      "episode_description": "O programa reúne deputados, analistas e o público ao vivo para saber o que o cidadão comum acha dos temas discutidos no Congresso."
+    },
+    {
+      "show_name": "Comissão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o_l_m.jpg",
       "show_category": "Politics",
       "start_time": "23:00",
-      "end_time": "23:30",
-      "episode_description": "O programa conta com a participação de duas parlamentares, em uma conversa informal sobre temas diversos de interesse da bancada feminina."
+      "end_time": "01:30",
+      "episode_description": "O programa transmite as discussões e votações do plenário."
     },
     {
-      "show_name": "Qual a Questão?",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_qual-a-quest-o_l_m.webp",
-      "show_category": "Public affairs",
-      "start_time": "23:30",
-      "end_time": "00:00",
-      "episode_description": "Discussões sobre grandes temas da agenda nacional que mexem com o dia a dia dos brasileiros, como educação, economia, meio ambiente, empregos, tecnologia e saúde. Com participação de especialistas e representantes da sociedade civil."
-    },
-    {
-      "show_name": "Participação Popular",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_participac-o-popular-1_l_m.webp",
+      "show_name": "Expressão Nacional",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_express-o-nacional-1_l_m.jpg",
       "show_category": "Politics",
       "start_time": "05:30",
       "end_time": "06:00",
-      "episode_description": "O programa reúne deputados, analistas e o público ao vivo para saber o que o cidadão comum acha dos temas discutidos no Congresso."
+      "episode_description": "Confira os debates sobre grandes temas da agenda nacional, com deputados e representantes do Governo e da sociedade civil."
     }
   ]
 }
