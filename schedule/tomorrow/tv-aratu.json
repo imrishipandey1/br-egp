@@ -1,142 +1,102 @@
 {
   "channel": "Tv Aratu",
-  "date": "04/01/2026",
+  "date": "05/01/2026",
   "schedule": [
     {
-      "show_name": "O Caminho da Fé",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-aratu/tomorrow/br_o-caminho-da-fe-2019_l_m.webp",
-      "show_category": "Comedy drama / 2019",
-      "start_time": "00:45",
-      "end_time": "02:30",
-      "episode_description": "Lidar com adversidades em sua vida fez com que Elisha partisse em busca de propósito e significado, até que inesperadamente encontra esperança e redenção em uma viagem não planejada com um estranho."
-    },
-    {
-      "show_name": "SBT Notícias - 2ª Edição",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-aratu/tomorrow/br_sbt-noticias-2-edic-o_l_m.webp",
-      "show_category": "News",
-      "start_time": "02:30",
-      "end_time": "03:50",
-      "episode_description": "Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia."
-    },
-    {
-      "show_name": "Aratu Notícias",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-aratu/tomorrow/br_aratu-noticias_l_m.webp",
-      "show_category": "News",
-      "start_time": "03:50",
-      "end_time": "04:15",
-      "episode_description": "As principais notícias do dia são mostradas no Aratu Notícias. Com reportagens ao vivo e muito dinamismo, o telejornal acompanha os principais fatos que acontecem no dia a dia dos baianos."
-    },
-    {
-      "show_name": "SBT Brasil",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-aratu/tomorrow/br_sbt-brasil_l_m.webp",
-      "show_category": "News",
-      "start_time": "04:15",
-      "end_time": "05:15",
-      "episode_description": "Acompanhe as principais notícias do Brasil e do mundo com análise profunda dos fatos."
-    },
-    {
       "show_name": "Esquadrão da Moda",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-aratu/tomorrow/br_esquadr-o-da-moda_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_esquadr-o-da-moda_l_m.jpg",
       "show_category": "Fashion",
       "start_time": "05:15",
-      "end_time": "05:45",
+      "end_time": "06:45",
       "episode_description": "Mulheres consideradas sem estilo são indicadas por amigos e familiares para participar do programa. Uma equipe de especialistas ensina como se vestir bem e, principalmente, o que não usar."
     },
     {
-      "show_name": "Sabadou com Virginia",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-aratu/tomorrow/br_sabadou-com-virginia_l_m.webp",
-      "show_category": "Variety",
-      "start_time": "06:45",
-      "end_time": "08:30",
-      "episode_description": "Convidados das mais diversas áreas chegam para encontro repletos de games, musicais, boas histórias e muita interação com a plateia e o público de casa."
+      "show_name": "Roda a Roda Jequiti",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_roda-a-roda-jequiti-1_l_m.jpg",
+      "show_category": "Game show",
+      "start_time": "02:45",
+      "end_time": "03:30",
+      "episode_description": "Um programa único que possibilita aos participantes concorrerem a prêmios especiais em barras de ouro."
     },
     {
-      "show_name": "Programa do João no SBT",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-aratu/tomorrow/br_programa-do-jo-o-no-sbt_l_m.webp",
+      "show_name": "Programa Silvio Santos com Patrícia Abravanel",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_programa-silvio-santos-com-patricia-abravanel-1_l_m.jpg",
       "show_category": "Variety",
+      "start_time": "03:30",
+      "end_time": "04:00",
+      "episode_description": "Patricia Abravanel comanda um divertido programa, interagindo com o público e levando muita alegria para toda a família nas tardes dos domingos."
+    },
+    {
+      "show_name": "Mestres da Mágica - Henry & Klauss",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mestres-da-magica-henry-klauss_l_m.jpg",
+      "show_category": "Special",
       "start_time": "08:30",
       "end_time": "09:30",
-      "episode_description": "João Silva apresenta entrevistas que revelam novas facetas de figuras consagradas. Além disso, o programa promove encontros emocionantes e quadros divertidos que mesclam jogos e histórias."
-    },
-    {
-      "show_name": "Notícias Impressionantes",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-aratu/tomorrow/br_noticias-impressionantes_l_m.webp",
-      "show_category": "News",
-      "start_time": "09:30",
-      "end_time": "10:30",
-      "episode_description": "Acompanhe uma série de vídeos curiosos da internet que aconteceram no Brasil e no mundo."
+      "episode_description": "Os ilusionistas Henry e Klauss levam ao ar um show que reúne levitações, escapismos, teletransportes e cenas de tirar o fôlego em uma superprodução que desafia todas as leis da lógica."
     },
     {
       "show_name": "SBT Notícias",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-aratu/tomorrow/br_sbt-noticias_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-noticias_l_m.jpg",
       "show_category": "News",
-      "start_time": "10:30",
+      "start_time": "09:30",
       "end_time": "14:30",
       "episode_description": "Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia."
     },
     {
-      "show_name": "SBT Notícias",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-aratu/tomorrow/br_sbt-noticias_l_m.webp",
+      "show_name": "Aratu 24 Horas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aratu-24-horas_l_m.jpg",
       "show_category": "News",
       "start_time": "14:30",
-      "end_time": "15:30",
-      "episode_description": "Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia."
-    },
-    {
-      "show_name": "Pé na Estrada",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-aratu/tomorrow/br_pe-na-estrada-2008_l_m.webp",
-      "show_category": "Travel",
-      "start_time": "15:30",
       "end_time": "16:00",
-      "episode_description": "O melhor do turismo paranaense, com aventuras, esportes radicais e locais encantadores."
+      "episode_description": "Programa matinal traz notícias da madrugada, reportagens e serviços. Em três blocos, aborda segurança, cultura, lazer e informações práticas."
     },
     {
-      "show_name": "SBT Sports",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-aratu/tomorrow/br_news-sbt-sports_l_m.webp",
-      "show_category": "",
+      "show_name": "SBT Manhã",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-manh_l_m.jpg",
+      "show_category": "News",
       "start_time": "16:00",
       "end_time": "17:00",
-      "episode_description": "Os principais acontecimentos das competições esportivas mais importantes do Brasil e do mundo, com análises dos jogos e comentários de especialistas."
+      "episode_description": "O jornal traz os primeiros assuntos do dia e faz uma abordagem sobre os últimos acontecimentos."
     },
     {
-      "show_name": "Show do Motor",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-aratu/tomorrow/br_show-do-motor_l_m.webp",
-      "show_category": "Auto",
+      "show_name": "Primeiro Impacto",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_primeiro-impacto-1997_l_m.jpg",
+      "show_category": "News",
       "start_time": "17:00",
-      "end_time": "17:30",
-      "episode_description": "Atração voltada ao universo dos carros e novidades do mercado automotivo."
-    },
-    {
-      "show_name": "Bahia Dá Sorte",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-aratu/tomorrow/br_bahia-da-sorte-1_l_m.webp",
-      "show_category": "Entertainment",
-      "start_time": "17:30",
-      "end_time": "18:30",
-      "episode_description": "Acompanhe os resultados do título de capitalização Bahia Dá Sorte."
-    },
-    {
-      "show_name": "Universo na Estrada",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-aratu/tomorrow/br_universo-na-estrada_l_m.webp",
-      "show_category": "Entertainment",
-      "start_time": "18:30",
       "end_time": "19:30",
-      "episode_description": ""
+      "episode_description": "Acompanhe as reportagens que trazem informações do dia a dia. Saiba o que é relevante para o cenário cotidiano por meio de análises e opiniões de colunistas."
     },
     {
-      "show_name": "Sorteio da Tele Sena",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-aratu/tomorrow/br_sorteio-da-tele-sena-1_l_m.webp",
-      "show_category": "Game show",
+      "show_name": "Alô Juca",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alo-juca_l_m.jpg",
+      "show_category": "News",
       "start_time": "19:30",
-      "end_time": "19:45",
-      "episode_description": "A Tele Sena é um título de capitalização que dá prêmios em dinheiro. Os consumidores podem adquirir sua Tele Sena em casas lotéricas ou agências dos correios."
+      "end_time": "22:15",
+      "episode_description": "Cobertura das principais notícias da Bahia, prestação de serviços, entrevistas exclusivas com especialistas e autoridades, além de reportagens especiais."
     },
     {
-      "show_name": "Domingo Legal",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-aratu/tomorrow/br_domingo-legal-1_l_m.webp",
-      "show_category": "Variety",
-      "start_time": "19:45",
-      "end_time": "02:45",
-      "episode_description": "Programa de auditório com músicas, celebridades, notícias e reportagens, comandado pelo apresentador Celso Portiolli."
+      "show_name": "Esmeralda - Edição Especial",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_esmeralda-edic-o-especial_l_m.jpg",
+      "show_category": "Soap",
+      "start_time": "22:15",
+      "end_time": "23:00",
+      "episode_description": "Uma tragédia obriga uma parteira a trocar dois bebês no dia de seu nascimento. Esmeralda é uma jovem cega que cresceu no campo, enquanto José se tornou um rapaz culto de uma família rica. O destino faz com que os dois se apaixonem."
+    },
+    {
+      "show_name": "Rubi",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rubi_l_m.jpg",
+      "show_category": "Soap",
+      "start_time": "23:00",
+      "end_time": "00:00",
+      "episode_description": "Rubi é uma jovem universitária que vive na pobreza com mãe e irmã. Obcecada por dinheiro desde a morte do pai, decide usar sua beleza para conquistar um homem rico e mudar de vida."
+    },
+    {
+      "show_name": "A.MAR",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-mar_l_m.jpg",
+      "show_category": "Soap",
+      "start_time": "05:30",
+      "end_time": "06:00",
+      "episode_description": "Rosalba e Porfírio planejam fuga; Érika mente sobre relacionamento com Fabian; Sérgio propõe casamento a Beatriz por interesse; Porfírio acusa Ulisses de fraude; Beatriz descobre verdade sobre Sérgio; Yasmin rejeita Fabian; Érika incentiva sequestro."
     }
   ]
 }
