@@ -1,158 +1,134 @@
 {
   "channel": "Tv Cabo Branco",
-  "date": "04/01/2026",
+  "date": "05/01/2026",
   "schedule": [
     {
-      "show_name": "Caldeirão com Mion",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_caldeir-o-com-mion_l_m.webp",
-      "show_category": "Entertainment",
-      "start_time": "00:45",
-      "end_time": "03:10",
-      "episode_description": "Marcos Mion traz alegria ao programa de auditório com quadros animados, desafios inéditos e atrações musicais especiais."
+      "show_name": "Avatar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_avatar-2009_l_m.jpg",
+      "show_category": "Science fiction / 2009 / 7.9",
+      "start_time": "00:00",
+      "end_time": "02:00",
+      "episode_description": "No exuberante mundo alienígena de Pandora vivem os Na'vi, seres que parecem ser primitivos, mas são altamente evoluídos. Como o ambiente do planeta é tóxico, foram criados os avatares, corpos biológicos controlados pela mente humana que se movimentam livremente em Pandora. Jake Sully, um ex-fuzileiro naval paralítico, volta a andar através de um avatar e se apaixona por uma Na'vi. Esta paixão leva Jake a lutar pela sobrevivência de Pandora."
     },
     {
-      "show_name": "Êta Mundo Melhor!",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_eta-mundo-melhor_l_m.webp",
-      "show_category": "Drama",
-      "start_time": "03:10",
-      "end_time": "03:55",
-      "episode_description": "Míriam agradece Estela por deixá-la ficar em sua casa; Lourival se preocupa quando Dita diz ter contado a Manoela sobre Doris; todos se preparam para a festa de Réveillon no dancing; Lourival teme estar apaixonado por Dita."
+      "show_name": "Domingão com Huck",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_doming-o-com-huck-s2026e226_l_m.jpg",
+      "show_category": "Temporada 2026 Episódio 226",
+      "start_time": "02:00",
+      "end_time": "05:00",
+      "episode_description": "No quadro \"Sexolândia\", os atores Humberto Morais, Giovana Cordeiro e L7nnon falam da reta final da novela \"Dona de Mim\". O Domingão traz mais uma temporada do \"Quem Quer Ser Um Milionário\"."
     },
     {
-      "show_name": "JPB2",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_jpb2_l_m.webp",
+      "show_name": "Fantástico",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_fantastico_l_m.jpg",
+      "show_category": "Newsmagazine",
+      "start_time": "05:00",
+      "end_time": "05:30",
+      "episode_description": "Em forma de revista eletrônica, o programa mistura jornalismo, denúncia, esporte, humor, dramaturgia, música e ciência."
+    },
+    {
+      "show_name": "Alerta de Emergência",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alerta-de-emergencia-2021_l_m.jpg",
+      "show_category": "Thriller / 2021",
+      "start_time": "08:05",
+      "end_time": "10:20",
+      "episode_description": "As autoridades coreanas descobrem que um terrorista embarcou em um voo com destino aos Estados Unidos. Quando um passageiro morre repentinamente, o pânico irrompe tanto no voo quanto no solo. Com a diminuição constante do combustível e as recusas internacionais em oferecer ajuda, o capitão e a tripulação tomam medidas de emergência sem precedentes para salvar a vida de todos a bordo."
+    },
+    {
+      "show_name": "Inimigo do Estado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_inimigo-do-estado-1998_l_m.jpg",
+      "show_category": "Thriller / 1998 / 7.3",
+      "start_time": "10:20",
+      "end_time": "12:30",
+      "episode_description": "Robert Clayton Dean, um advogado bem-sucedido em Washington, recebe um vídeo que mostra a ligação entre um oficial do alto escalão da Agência Nacional de Segurança a um assassinato político. A partir daí, Dean se transforma em um alvo constante para a mais perigosa e treinada equipe do governo. Utilizando todos os meios para arruinar sua carreira e conseguir o vídeo de volta, a equipe inicia uma caçada sem tréguas. Dean precisa lutar para salvar sua vida e provar sua inocência."
+    },
+    {
+      "show_name": "Hora 1",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hora-1_l_m.jpg",
       "show_category": "News",
-      "start_time": "03:55",
-      "end_time": "04:15",
+      "start_time": "12:30",
+      "end_time": "14:30",
+      "episode_description": "Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais."
+    },
+    {
+      "show_name": "Bom Dia PB",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bom-dia-pb_l_m.jpg",
+      "show_category": "News",
+      "start_time": "14:30",
+      "end_time": "17:00",
+      "episode_description": "Telejornal dinâmico que traz as notícias mais importantes da região para começar o dia."
+    },
+    {
+      "show_name": "Bom Dia Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bom-dia-brasil-1_l_m.jpg",
+      "show_category": "News",
+      "start_time": "17:00",
+      "end_time": "18:00",
+      "episode_description": "Acompanhe as principais notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia."
+    },
+    {
+      "show_name": "Encontro com Patrícia Poeta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_encontro-com-patricia-poeta_l_m.jpg",
+      "show_category": "Entertainment",
+      "start_time": "18:00",
+      "end_time": "19:05",
+      "episode_description": "O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jornalistas e convidados especiais, os assuntos são abordados em um formato de bate-papo."
+    },
+    {
+      "show_name": "Mais Você",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mais-voce-1_l_m.jpg",
+      "show_category": "Talk",
+      "start_time": "19:05",
+      "end_time": "20:15",
+      "episode_description": "Com ótimo humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia."
+    },
+    {
+      "show_name": "JPB1",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jpb1_l_m.jpg",
+      "show_category": "News",
+      "start_time": "20:15",
+      "end_time": "21:30",
       "episode_description": "Acompanhe os acontecimentos do dia a dia e os debates entre a população e as autoridades."
     },
     {
-      "show_name": "Dona de Mim",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_dona-de-mim_l_m.webp",
-      "show_category": "Soap",
-      "start_time": "04:15",
-      "end_time": "05:00",
-      "episode_description": "Leona, uma jovem que vive no Rio de Janeiro, sofre uma perda gestacional e luta para equilibrar as contas da casa onde mora com a avó e a irmã. Para ajudar financeiramente, ela consegue um emprego como babá na mansão da família Boaz."
+      "show_name": "Globo Esporte PB",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_news-globo-esporte-pb_l_m.jpg",
+      "show_category": "",
+      "start_time": "21:30",
+      "end_time": "21:55",
+      "episode_description": "Os principais acontecimentos esportivos notícia na Paraíba, no Brasil e no mundo."
     },
     {
-      "show_name": "Jornal Nacional",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_jornal-nacional-1_l_m.webp",
+      "show_name": "Jornal Hoje",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-hoje-1_l_m.jpg",
       "show_category": "News",
-      "start_time": "05:00",
-      "end_time": "05:50",
-      "episode_description": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo."
+      "start_time": "21:55",
+      "end_time": "23:15",
+      "episode_description": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais."
+    },
+    {
+      "show_name": "Terra Nostra - Edição Especial",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_terra-nostra-edic-o-especial_l_m.jpg",
+      "show_category": "Soap",
+      "start_time": "23:15",
+      "end_time": "23:55",
+      "episode_description": "Uma parte da história da formação da sociedade brasileira do início do século XX é contada a partir do romance de dois jovens italianos, Giuliana e Matteo. Eles se conhecem em 1894 a bordo do navio que transporta imigrantes para trabalhar no Brasil."
+    },
+    {
+      "show_name": "Gato de Botas 2 - O Último Pedido",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_gato-de-botas-2-o-ultimo-pedido-2022_l_m.jpg",
+      "show_category": "Children / 2022",
+      "start_time": "23:55",
+      "end_time": "01:35",
+      "episode_description": "O Gato de Botas descobre que sua paixão pela aventura cobrou seu preço: ele já gastou oito de suas nove vidas. Ele então parte em uma jornada épica para encontrar o mítico Último Desejo e restaurar suas nove vidas."
     },
     {
       "show_name": "Três Graças",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_tres-gracas_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tres-gracas_l_m.jpg",
       "show_category": "Drama",
       "start_time": "05:50",
-      "end_time": "06:55",
+      "end_time": "06:20",
       "episode_description": "Ferette deixa a casa de Arminda às pressas com Vicente ao ver que atirou contra uma montagem de travesseiros; Arminda se recusa a chamar a polícia e tem um acesso de raiva; Zenilda desconfia por Ferette não deixá-la acompanhá-lo à casa de Arminda."
-    },
-    {
-      "show_name": "Altas Horas",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_altas-horas-1_l_m.webp",
-      "show_category": "Entertainment",
-      "start_time": "06:55",
-      "end_time": "08:45",
-      "episode_description": "Serginho Groisman promove debates sobre temas relevantes com a participação da plateia, artistas e personalidades de diferentes áreas."
-    },
-    {
-      "show_name": "Entre Facas e Segredos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_entre-facas-e-segredos-2019_l_m.webp",
-      "show_category": "Mystery / 2019",
-      "start_time": "08:45",
-      "end_time": "10:35",
-      "episode_description": "Depois de fazer 85 anos, Harlan Thrombey, um famoso escritor de histórias policiais, é encontrado morto. Contratado para investigar o caso, o detetive Benoit Blanc descobre que, entre os funcionários misteriosos e a família conflituosa de Harlan, todos podem ser considerados suspeitos do crime."
-    },
-    {
-      "show_name": "Dona de Mim",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_dona-de-mim_l_m.webp",
-      "show_category": "Soap",
-      "start_time": "10:35",
-      "end_time": "11:15",
-      "episode_description": "Leona, uma jovem que vive no Rio de Janeiro, sofre uma perda gestacional e luta para equilibrar as contas da casa onde mora com a avó e a irmã. Para ajudar financeiramente, ela consegue um emprego como babá na mansão da família Boaz."
-    },
-    {
-      "show_name": "Edward Mãos de Tesoura",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_edward-m-os-de-tesoura-1990-1_l_m.webp",
-      "show_category": "Holiday / 1990",
-      "start_time": "11:15",
-      "end_time": "12:55",
-      "episode_description": "Peg Boggs é uma vendedora que acidentalmente descobre Edward, jovem que mora sozinho em um castelo no topo de uma montanha, criado por um inventor que morreu antes de dar mãos ao estranho ser, que possui apenas enormes lâminas no lugar delas. Isto o impede de poder se aproximar dos humanos, a não ser para criar revolucionários cortes de cabelos. No entanto, Edward é vítima da sua inocência e, se é amado por uns, é perseguido e usado por outros."
-    },
-    {
-      "show_name": "A Fabulosa Gilly Hopkins",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_a-fabulosa-gilly-hopkins-2016_l_m.webp",
-      "show_category": "Comedy drama / 2016",
-      "start_time": "12:55",
-      "end_time": "14:30",
-      "episode_description": "Gilly Hopkins é uma garota de 12 anos que passa por diversos lares adotivos durante a vida. Ela é enviada para a casa de Maime Trotter e planeja uma fuga para se juntar à sua mãe biológica, mas as coisas não são tão simples quanto ela imaginava."
-    },
-    {
-      "show_name": "Santa Missa",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_santa-missa_l_m.webp",
-      "show_category": "Religious",
-      "start_time": "14:30",
-      "end_time": "15:20",
-      "episode_description": "Acompanhe a celebração da santa missa em João Pessoa."
-    },
-    {
-      "show_name": "Globo Repórter",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_globo-reporter-1_l_m.webp",
-      "show_category": "Newsmagazine",
-      "start_time": "15:20",
-      "end_time": "16:10",
-      "episode_description": "O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo."
-    },
-    {
-      "show_name": "Paraíba Comunidade",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_paraiba-comunidade_l_m.webp",
-      "show_category": "Community",
-      "start_time": "16:10",
-      "end_time": "16:40",
-      "episode_description": "O programa coloca em pauta os temas de estações como verão, festas populares e Semana Santa, bem como as expressões da cultura popular e a preservação do patrimônio histórico e cultural do estado."
-    },
-    {
-      "show_name": "AutoEsporte",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_auto-autoesporte_l_m.webp",
-      "show_category": "",
-      "start_time": "16:40",
-      "end_time": "17:10",
-      "episode_description": "A revista eletrônica do setor automotivo apresenta as últimas notícias sobre automóveis, nacionais e importados, além de lançamentos, segredos, curiosidades, comparativos e testes."
-    },
-    {
-      "show_name": "Globo Rural",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_globo-rural-1_l_m.webp",
-      "show_category": "Agriculture",
-      "start_time": "17:10",
-      "end_time": "18:45",
-      "episode_description": "Acompanhe as principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais."
-    },
-    {
-      "show_name": "Viver Sertanejo",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_viver-sertanejo_l_m.webp",
-      "show_category": "Interview",
-      "start_time": "18:45",
-      "end_time": "19:40",
-      "episode_description": "Daniel abre a porteira de sua fazenda para receber grandes astros da música sertaneja. Juntos, eles relembram suas trajetórias, falam sobre suas inspirações e se deixam levar pelas modas de viola."
-    },
-    {
-      "show_name": "Esporte Espetacular",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_newsmagazine-esporte-espetacular-2_l_m.webp",
-      "show_category": "",
-      "start_time": "19:40",
-      "end_time": "21:35",
-      "episode_description": "Fique por dentro de tudo o que rolou durante a semana nos esportes e veja os gols pelo mundo afora. Entrevistas, reportagens sobre ciência esportiva e personagens históricos também fazem parte da atração."
-    },
-    {
-      "show_name": "Vingadores - Era de Ultron",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_vingadores-era-de-ultron-2015_l_m.webp",
-      "show_category": "Action / 2015",
-      "start_time": "21:35",
-      "end_time": "00:00",
-      "episode_description": "Ao tentar proteger o planeta de ameaças, Tony Stark constrói um sistema de inteligência artificial que cuidaria da paz mundial. O projeto acaba dando errado e gera o nascimento do Ultron. Com o destino da Terra em jogo, Capitão América, Homem de Ferro, Thor, Hulk, Viúva Negra e Gavião Arqueiro terão que se unir para mais uma vez salvar a raça humana da extinção."
     }
   ]
 }
