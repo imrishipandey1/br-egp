@@ -1,66 +1,44 @@
-2026-01-05T04:41:43.624256 | START channel: tv-senado
-2026-01-05T04:41:43.624353 | START channel: tv-camara
-2026-01-05T04:41:43.625169 | START channel: tv-escola
-2026-01-05T04:41:43.625544 | START channel: history-channel
-2026-01-05T04:41:43.629915 | START channel: rit
-2026-01-05T04:41:43.631381 | START channel: multishow
-2026-01-05T04:41:44.592732 | SAVED today → schedule/today/tv-senado.json (25 shows)
-2026-01-05T04:41:44.615501 | SAVED tomorrow → schedule/tomorrow/tv-senado.json (24 shows)
-2026-01-05T04:41:44.615683 | START channel: fox-sports
-2026-01-05T04:41:44.701129 | SAVED today → schedule/today/tv-escola.json (55 shows)
-2026-01-05T04:41:44.701734 | SAVED tomorrow → schedule/tomorrow/tv-escola.json (59 shows)
-2026-01-05T04:41:44.701811 | START channel: h2
-2026-01-05T04:41:44.826707 | SAVED today → schedule/today/history-channel.json (32 shows)
-2026-01-05T04:41:44.858807 | SAVED tomorrow → schedule/tomorrow/history-channel.json (31 shows)
-2026-01-05T04:41:44.914286 | SAVED today → schedule/today/tv-camara.json (32 shows)
-2026-01-05T04:41:44.919943 | START channel: food-network
-2026-01-05T04:41:44.920053 | SAVED today → schedule/today/rit.json (23 shows)
-2026-01-05T04:41:44.946834 | SAVED tomorrow → schedule/tomorrow/rit.json (30 shows)
-2026-01-05T04:41:44.946983 | START channel: discovery-kids
-2026-01-05T04:41:44.952944 | SAVED tomorrow → schedule/tomorrow/tv-camara.json (28 shows)
-2026-01-05T04:41:44.953056 | START channel: national-geographic
-2026-01-05T04:41:45.035143 | SAVED today → schedule/today/multishow.json (48 shows)
-2026-01-05T04:41:45.036165 | SAVED tomorrow → schedule/tomorrow/multishow.json (49 shows)
-2026-01-05T04:41:45.036276 | START channel: discovery-turbo
-2026-01-05T04:41:45.370239 | SAVED today → schedule/today/fox-sports.json (15 shows)
-2026-01-05T04:41:45.372658 | SAVED tomorrow → schedule/tomorrow/fox-sports.json (17 shows)
-2026-01-05T04:41:45.372717 | START channel: tv-cabo-branco
-2026-01-05T04:41:45.512037 | SAVED today → schedule/today/h2.json (28 shows)
-2026-01-05T04:41:45.512619 | SAVED tomorrow → schedule/tomorrow/h2.json (32 shows)
-2026-01-05T04:41:45.512687 | START channel: hgtv
-2026-01-05T04:41:45.690268 | SAVED today → schedule/today/national-geographic.json (31 shows)
-2026-01-05T04:41:45.716411 | SAVED tomorrow → schedule/tomorrow/national-geographic.json (33 shows)
-2026-01-05T04:41:45.716619 | START channel: tv-aratu
-2026-01-05T04:41:45.881343 | SAVED today → schedule/today/discovery-turbo.json (31 shows)
-2026-01-05T04:41:45.881419 | SAVED today → schedule/today/food-network.json (49 shows)
-2026-01-05T04:41:45.934530 | SAVED tomorrow → schedule/tomorrow/discovery-turbo.json (32 shows)
-2026-01-05T04:41:45.934695 | SAVED tomorrow → schedule/tomorrow/food-network.json (58 shows)
-2026-01-05T04:41:45.934791 | START channel: gloob
-2026-01-05T04:41:45.935985 | START channel: gnt
-2026-01-05T04:41:46.151676 | SAVED today → schedule/today/discovery-kids.json (119 shows)
-2026-01-05T04:41:46.152380 | SAVED today → schedule/today/tv-cabo-branco.json (16 shows)
-2026-01-05T04:41:46.153370 | SAVED tomorrow → schedule/tomorrow/tv-cabo-branco.json (23 shows)
-2026-01-05T04:41:46.153819 | START channel: cartoonito
-2026-01-05T04:41:46.156819 | SAVED tomorrow → schedule/tomorrow/discovery-kids.json (116 shows)
-2026-01-05T04:41:46.157011 | START channel: tv-jangadeiro
-2026-01-05T04:41:46.340474 | SAVED today → schedule/today/hgtv.json (50 shows)
-2026-01-05T04:41:46.341251 | SAVED tomorrow → schedule/tomorrow/hgtv.json (57 shows)
-2026-01-05T04:41:46.341324 | START channel: tooncast
-2026-01-05T04:41:46.456712 | SAVED today → schedule/today/tv-aratu.json (12 shows)
-2026-01-05T04:41:46.457005 | SAVED tomorrow → schedule/tomorrow/tv-aratu.json (21 shows)
-2026-01-05T04:41:46.457057 | START channel: amc-brasil
-2026-01-05T04:41:46.745349 | SKIPPED today → cartoonito (no shows found)
-2026-01-05T04:41:46.783866 | SKIPPED tomorrow → cartoonito (no shows found)
-2026-01-05T04:41:46.800032 | START channel: telecine-action
-2026-01-05T04:41:46.846417 | SAVED today → schedule/today/gloob.json (71 shows)
-2026-01-05T04:41:46.852207 | SAVED today → schedule/today/gnt.json (32 shows)
-2026-01-05T04:41:46.855402 | SAVED today → schedule/today/tv-jangadeiro.json (19 shows)
-2026-01-05T04:41:46.855994 | SAVED tomorrow → schedule/tomorrow/gnt.json (31 shows)
-2026-01-05T04:41:46.856058 | SAVED tomorrow → schedule/tomorrow/gloob.json (74 shows)
-2026-01-05T04:41:46.856415 | SAVED tomorrow → schedule/tomorrow/tv-jangadeiro.json (27 shows)
-2026-01-05T04:41:47.302326 | SAVED today → schedule/today/tooncast.json (122 shows)
-2026-01-05T04:41:47.303706 | SAVED today → schedule/today/amc-brasil.json (21 shows)
-2026-01-05T04:41:47.305001 | SAVED tomorrow → schedule/tomorrow/tooncast.json (122 shows)
-2026-01-05T04:41:47.305167 | SAVED tomorrow → schedule/tomorrow/amc-brasil.json (20 shows)
-2026-01-05T04:41:47.455534 | SAVED today → schedule/today/telecine-action.json (13 shows)
-2026-01-05T04:41:47.455832 | SAVED tomorrow → schedule/tomorrow/telecine-action.json (12 shows)
+2026-01-06T04:13:11.178586 | START channel: tv-senado
+2026-01-06T04:13:11.179035 | START channel: tv-camara
+2026-01-06T04:13:11.179474 | START channel: tv-escola
+2026-01-06T04:13:11.180125 | START channel: history-channel
+2026-01-06T04:13:11.180381 | START channel: rit
+2026-01-06T04:13:11.183270 | START channel: multishow
+2026-01-06T04:13:31.287900 | FAILED channel: tv-senado | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
+2026-01-06T04:13:31.287991 | START channel: fox-sports
+2026-01-06T04:13:31.294334 | FAILED channel: tv-escola | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
+2026-01-06T04:13:31.294386 | START channel: h2
+2026-01-06T04:13:31.299281 | FAILED channel: tv-camara | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
+2026-01-06T04:13:31.299353 | START channel: food-network
+2026-01-06T04:13:31.300937 | FAILED channel: multishow | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
+2026-01-06T04:13:31.301016 | START channel: discovery-kids
+2026-01-06T04:13:31.302107 | FAILED channel: history-channel | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
+2026-01-06T04:13:31.302369 | START channel: national-geographic
+2026-01-06T04:13:31.309679 | FAILED channel: rit | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
+2026-01-06T04:13:31.310071 | START channel: discovery-turbo
+2026-01-06T04:13:51.359765 | FAILED channel: fox-sports | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
+2026-01-06T04:13:51.359850 | START channel: tv-cabo-branco
+2026-01-06T04:13:51.367378 | FAILED channel: h2 | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
+2026-01-06T04:13:51.367424 | START channel: hgtv
+2026-01-06T04:13:51.403075 | FAILED channel: food-network | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
+2026-01-06T04:13:51.403135 | START channel: tv-aratu
+2026-01-06T04:13:51.404790 | FAILED channel: national-geographic | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
+2026-01-06T04:13:51.404843 | START channel: gloob
+2026-01-06T04:13:51.408495 | FAILED channel: discovery-kids | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
+2026-01-06T04:13:51.408546 | START channel: gnt
+2026-01-06T04:13:51.410003 | FAILED channel: discovery-turbo | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
+2026-01-06T04:13:51.410047 | START channel: cartoonito
+2026-01-06T04:14:11.416783 | FAILED channel: tv-cabo-branco | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
+2026-01-06T04:14:11.417234 | FAILED channel: hgtv | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
+2026-01-06T04:14:11.417375 | START channel: tooncast
+2026-01-06T04:14:11.418571 | START channel: tv-jangadeiro
+2026-01-06T04:14:11.480509 | FAILED channel: tv-aratu | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
+2026-01-06T04:14:11.480562 | START channel: amc-brasil
+2026-01-06T04:14:11.497650 | FAILED channel: cartoonito | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
+2026-01-06T04:14:11.497705 | START channel: telecine-action
+2026-01-06T04:14:11.500606 | FAILED channel: gloob | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
+2026-01-06T04:14:11.501239 | FAILED channel: gnt | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
+2026-01-06T04:14:31.497676 | FAILED channel: tooncast | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
+2026-01-06T04:14:31.499179 | FAILED channel: tv-jangadeiro | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
+2026-01-06T04:14:31.523233 | FAILED channel: amc-brasil | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
+2026-01-06T04:14:31.559676 | FAILED channel: telecine-action | HTTPSConnectionPool(host='mi.tv', port=443): Read timed out. (read timeout=20)
