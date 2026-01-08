@@ -1,158 +1,150 @@
 {
   "channel": "Fox Sports",
-  "date": "07/01/2026",
+  "date": "08/01/2026",
   "schedule": [
     {
-      "show_name": "Encontros WNBA",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/br_encontros-wnba_l_m.webp",
-      "show_category": "Basketball",
-      "start_time": "00:30",
-      "end_time": "01:10",
-      "episode_description": "Helen Luz bate um papo com Kamilla Cardoso, jogadora do Chicago Sky. Natural do interior de Minas Gerais, a pivô se mudou aos 14 anos para os Estados Unidos, onde se desenvolveu no esporte até se tornar multicampeã com a Seleção Brasileira."
-    },
-    {
-      "show_name": "Sporting x Vitória de Guimarães",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-sporting-x-vitoria-de-guimar-es-2_l_m.webp",
-      "show_category": "Taça da Liga de Portugal",
-      "start_time": "01:10",
-      "end_time": "03:15",
-      "episode_description": "Todas as emoções da segunda principal competição eliminatória do futebol masculino de Portugal."
-    },
-    {
-      "show_name": "Momento ESPN",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/br_documentary-momento-espn_l_m.webp",
-      "show_category": "",
-      "start_time": "03:15",
-      "end_time": "03:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Show da Rodada do Inglês",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-show-da-rodada-do-ingles_l_m.webp",
-      "show_category": "",
-      "start_time": "03:30",
-      "end_time": "04:00",
-      "episode_description": "O programa traz todos os pormenores da rodada do campeonato inglês com as pontuações dos clubes, gols e lances mais bonitos."
-    },
-    {
-      "show_name": "Inside Serie A",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-inside-serie-a_l_m.webp",
-      "show_category": "",
-      "start_time": "04:00",
-      "end_time": "04:30",
-      "episode_description": "Uma previsão sobre os próximos jogos do Campeonato Italiano."
-    },
-    {
-      "show_name": "Fulham x Liverpool",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-fulham-x-liverpool_l_m.webp",
+      "show_name": "Fulham x Chelsea",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-fulham-x-chelsea_l_m.jpg",
       "show_category": "Campeonato Inglês",
-      "start_time": "04:30",
-      "end_time": "05:00",
+      "start_time": "00:50",
+      "end_time": "03:00",
       "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
     },
     {
+      "show_name": "Show da Rodada de La Liga",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-de-la-liga_l_m.jpg",
+      "show_category": "",
+      "start_time": "03:00",
+      "end_time": "03:30",
+      "episode_description": ".Todos os gols e os principais lances da rodada de La Liga, primeira divisão do Campeonato Espanhol."
+    },
+    {
+      "show_name": "Show da Rodada do Italiano",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-do-italiano_l_m.jpg",
+      "show_category": "",
+      "start_time": "03:30",
+      "end_time": "04:00",
+      "episode_description": "Os principais destaques das partidas da Lega Serie A, primeira divisão do Campeonato Italiano de futebol masculino, com os gols, melhores lances e situação da tabela de classificação após cada rodada disputada."
+    },
+    {
+      "show_name": "Show da Rodada da EFL",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-da-efl_l_m.jpg",
+      "show_category": "",
+      "start_time": "04:00",
+      "end_time": "04:30",
+      "episode_description": "Os destaques das partidas da EFL Championship, segunda divisão de futebol masculino da Inglaterra."
+    },
+    {
+      "show_name": "Espanyol x Barcelona",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-espanyol-x-barcelona_l_m.jpg",
+      "show_category": "Campeonato Espanhol",
+      "start_time": "04:30",
+      "end_time": "05:00",
+      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
+    },
+    {
       "show_name": "Rally Dakar 2026",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/fallback_sport_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
       "show_category": "",
       "start_time": "06:30",
       "end_time": "07:30",
       "episode_description": "Destaques e acontecimentos da 48ª edição do Rally Dakar, disputado em Yahu, Arábia Saudita."
     },
     {
-      "show_name": "Cagliari x Milan",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-cagliari-x-milan_l_m.webp",
-      "show_category": "Campeonato Italiano",
+      "show_name": "Granada x Rayo Vallecano",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-granada-x-rayo-vallecano_l_m.jpg",
+      "show_category": "Copa do Rei",
       "start_time": "07:30",
       "end_time": "09:30",
-      "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
+      "episode_description": "Pelos 16 avos de final da Copa do Rei 2025-2026, em jogo único, o Granada recebe o Rayo Vallecano no Nuevo Estadio de Los Cármenes, em Granada, Espanha."
     },
     {
-      "show_name": "Rayo Vallecano x Getafe",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-rayo-vallecano-x-getafe_l_m.webp",
-      "show_category": "Campeonato Espanhol",
+      "show_name": "Manchester City x Brighton & Hove Albion",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-manchester-city-x-brighton-hove-albion_l_m.jpg",
+      "show_category": "Campeonato Inglês",
       "start_time": "09:30",
       "end_time": "11:30",
-      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
+      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
     },
     {
-      "show_name": "Lecce x Roma",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-lecce-x-roma_l_m.webp",
-      "show_category": "Campeonato Italiano",
-      "start_time": "11:30",
-      "end_time": "13:30",
-      "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
-    },
-    {
-      "show_name": "Show da Rodada do Inglês",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-show-da-rodada-do-ingles_l_m.webp",
+      "show_name": "Show da Rodada de La Liga",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-de-la-liga_l_m.jpg",
       "show_category": "",
-      "start_time": "13:30",
-      "end_time": "14:00",
-      "episode_description": "O programa traz todos os pormenores da rodada do campeonato inglês com as pontuações dos clubes, gols e lances mais bonitos."
+      "start_time": "11:30",
+      "end_time": "12:00",
+      "episode_description": ".Todos os gols e os principais lances da rodada de La Liga, primeira divisão do Campeonato Espanhol."
     },
     {
-      "show_name": "Encontros WNBA",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/br_encontros-wnba_l_m.webp",
-      "show_category": "Basketball",
+      "show_name": "Fulham x Chelsea",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-fulham-x-chelsea_l_m.jpg",
+      "show_category": "Campeonato Inglês",
+      "start_time": "12:00",
+      "end_time": "14:00",
+      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
+    },
+    {
+      "show_name": "Show da Rodada do Italiano",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-do-italiano_l_m.jpg",
+      "show_category": "",
       "start_time": "14:00",
       "end_time": "14:30",
-      "episode_description": "Helen Luz bate um papo com Kamilla Cardoso, jogadora do Chicago Sky. Natural do interior de Minas Gerais, a pivô se mudou aos 14 anos para os Estados Unidos, onde se desenvolveu no esporte até se tornar multicampeã com a Seleção Brasileira."
+      "episode_description": "Os principais destaques das partidas da Lega Serie A, primeira divisão do Campeonato Italiano de futebol masculino, com os gols, melhores lances e situação da tabela de classificação após cada rodada disputada."
     },
     {
-      "show_name": "Bola da Vez",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/br_bola-da-vez_l_m.webp",
+      "show_name": "Resenha ESPN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_resenha-espn_l_m.jpg",
       "show_category": "Sports talk",
       "start_time": "14:30",
       "end_time": "15:30",
-      "episode_description": "Mais jovem velejadora brasileira a cruzar o Oceano Atlântico sozinha e primeira mulher do mundo a passar oito meses de inverno isolada em um barco no Ártico, Tamara Klink fala sobre a sua nova travessia, considerada uma das mais perigosas do mundo."
+      "episode_description": "Maior ídolo da história do Flamengo, Zico é o convidado especial do programa. Ao lado do irmão mais velho, Edu, o Galinho relembra momentos de sua trajetória, incluindo o dia em que quase parou de jogar futebol após uma decepção envolvendo a Seleção."
     },
     {
       "show_name": "Rally Dakar 2026",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/fallback_sport_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
       "show_category": "",
       "start_time": "15:30",
       "end_time": "16:30",
       "episode_description": "Destaques e acontecimentos da 48ª edição do Rally Dakar, disputado em Yahu, Arábia Saudita."
     },
     {
-      "show_name": "Louisville x Duke",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/br_basketball-louisville-x-duke_l_m.webp",
-      "show_category": "Basquete Universitário",
+      "show_name": "Boston Celtics x Denver Nuggets",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_basketball-boston-celtics-x-denver-nuggets_l_m.jpg",
+      "show_category": "NBA",
       "start_time": "16:30",
       "end_time": "18:30",
-      "episode_description": "Futuros astros do basquete profissional se enfrentam no torneio organizado pela NCAA e disputado por equipes das universidades dos Estados Unidos."
-    },
-    {
-      "show_name": "Sporting x Vitória de Guimarães",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-sporting-x-vitoria-de-guimar-es-2_l_m.webp",
-      "show_category": "Taça da Liga de Portugal",
-      "start_time": "18:30",
-      "end_time": "20:30",
-      "episode_description": "Todas as emoções da segunda principal competição eliminatória do futebol masculino de Portugal."
-    },
-    {
-      "show_name": "West Ham x Nottingham Forest",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-west-ham-x-nottingham-forest_l_m.webp",
-      "show_category": "Campeonato Inglês",
-      "start_time": "20:30",
-      "end_time": "22:30",
-      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
-    },
-    {
-      "show_name": "SportsCenter Abre o Jogo",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/br_sports-talk-sportscenter-abre-o-jogo_l_m.webp",
-      "show_category": "",
-      "start_time": "22:30",
-      "end_time": "22:50",
-      "episode_description": "Os preparativos para os principais eventos esportivos do Brasil e do mundo."
+      "episode_description": "Trinta equipes dos Estados Unidos e Canadá se enfrentam na principal liga de basquete do mundo."
     },
     {
       "show_name": "Napoli x Hellas Verona",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-napoli-x-hellas-verona_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-napoli-x-hellas-verona_l_m.jpg",
       "show_category": "Campeonato Italiano",
-      "start_time": "22:50",
-      "end_time": "00:50",
+      "start_time": "18:30",
+      "end_time": "20:30",
       "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
+    },
+    {
+      "show_name": "Benfica x Braga",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-benfica-x-braga-3_l_m.jpg",
+      "show_category": "Taça da Liga",
+      "start_time": "20:30",
+      "end_time": "22:30",
+      "episode_description": "Todas as emoções da segunda principal competição eliminatória do futebol masculino de Portugal."
+    },
+    {
+      "show_name": "Manchester City x Brighton & Hove Albion",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-manchester-city-x-brighton-hove-albion_l_m.jpg",
+      "show_category": "Campeonato Inglês",
+      "start_time": "22:30",
+      "end_time": "00:30",
+      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
+    },
+    {
+      "show_name": "Moto GP",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_motorcycle-racing-moto-gp-1_l_m.jpg",
+      "show_category": "",
+      "start_time": "05:30",
+      "end_time": "06:00",
+      "episode_description": "Destaques e principais acontecimentos das maiores competições de motovelocidade do mundo."
     }
   ]
 }
