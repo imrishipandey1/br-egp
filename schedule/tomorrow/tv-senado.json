@@ -1,230 +1,278 @@
 {
   "channel": "Tv Senado",
-  "date": "09/01/2026",
+  "date": "10/01/2026",
   "schedule": [
     {
       "show_name": "Sessão Plenária",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_sess-o-plenaria-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sess-o-plenaria-1_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "00:00",
-      "end_time": "01:05",
+      "start_time": "00:42",
+      "end_time": "02:14",
       "episode_description": "Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade."
     },
     {
       "show_name": "Sessão Plenária",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_sess-o-plenaria-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sess-o-plenaria-1_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "01:05",
-      "end_time": "02:45",
+      "start_time": "02:14",
+      "end_time": "04:00",
       "episode_description": "Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade."
     },
     {
-      "show_name": "Sessão Plenária",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_sess-o-plenaria-1_l_m.webp",
+      "show_name": "Assunto de Estado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_assunto-de-estado_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "02:45",
+      "start_time": "04:00",
       "end_time": "04:30",
-      "episode_description": "Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade."
+      "episode_description": "A senadora Dra. Eudócia, PL, comenta avanços em saúde, educação, emprego e turismo em Alagoas, com destaque para o programa \"Olhar da Gente\" e o combate ao câncer."
     },
     {
-      "show_name": "Em Discussão",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_em-discuss-o-2_l_m.webp",
-      "show_category": "Educational",
+      "show_name": "Parlamento Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
+      "show_category": "Politics",
       "start_time": "04:30",
       "end_time": "05:00",
-      "episode_description": "O Brasil ganhou o marco regulatório da Educação a Distância (EAD). Nenhum curso de graduação poderá ser 100% no formato EAD. Especialistas explicam as mudanças. O prazo de transição é de dois anos."
-    },
-    {
-      "show_name": "Salão Nobre",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_sal-o-nobre_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "05:00",
-      "end_time": "05:30",
-      "episode_description": "O senador Flávio Arns, PSB-PR, relator do projeto do ECA Digital, ressalta que a nova lei tem como objetivo garantir a proteção de crianças e adolescentes no meio digital."
-    },
-    {
-      "show_name": "Senadoc",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_senadoc_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "06:15",
-      "end_time": "07:10",
-      "episode_description": "Espaço da TV Senado dedicado a documentários."
-    },
-    {
-      "show_name": "Carioca Era um Rio",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_carioca-era-um-rio-2013_l_m.webp",
-      "show_category": "Documentary / 2013",
-      "start_time": "07:10",
-      "end_time": "08:30",
-      "episode_description": "Este documentário é sobre o rio que deu nome aos habitantes da cidade do Rio de Janeiro. O Rio Carioca orientou o crescimento dessa capital, mas hoje é um grande canal de esgoto submerso que deságua na Baía da Guanabara."
-    },
-    {
-      "show_name": "Os Anos JK - Uma Trajetória Política",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_os-anos-jk-uma-trajetoria-politica_l_m.webp",
-      "show_category": "Special",
-      "start_time": "08:30",
-      "end_time": "10:23",
-      "episode_description": "Silvio Tendler reconta a trajetória política de Juscelino Kubitschek no filme realizado em 1980. Acompanhe a rápida ascensão do deputado, prefeito e governador de Minas Gerais que chegou à presidência da República em 1955."
-    },
-    {
-      "show_name": "A Menina de Sessenta",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_a-menina-de-sessenta_l_m.webp",
-      "show_category": "Special",
-      "start_time": "10:23",
-      "end_time": "10:52",
-      "episode_description": "Nos 60 anos de Brasília, uma viagem no tempo mostra sua construção e, atualmente, as ruas vazias em tempos de pandemia. Personagens da cidade ajudam a entender a Brasília atual."
-    },
-    {
-      "show_name": "Filhos da Democracia - Os 35 Anos da Constituição",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_filhos-da-democracia-os-35-anos-da-constituic-o_l_m.webp",
-      "show_category": "Special",
-      "start_time": "10:52",
-      "end_time": "11:30",
-      "episode_description": "A trajetória de cinco crianças que nasceram no mesmo dia em que a Carta Magna foi promulgada, cinco de outubro de 1988, em cidades diferentes, e que atingiram a idade adulta."
-    },
-    {
-      "show_name": "Em Discussão",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_em-discuss-o-2_l_m.webp",
-      "show_category": "Educational",
-      "start_time": "11:30",
-      "end_time": "12:00",
-      "episode_description": "O Brasil ganhou o marco regulatório da Educação a Distância (EAD). Nenhum curso de graduação poderá ser 100% no formato EAD. Especialistas explicam as mudanças. O prazo de transição é de dois anos."
+      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
     },
     {
       "show_name": "TV Senado Live",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_tv-senado-live_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tv-senado-live_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "12:00",
-      "end_time": "12:30",
+      "start_time": "05:00",
+      "end_time": "05:30",
+      "episode_description": "O crime organizado tem sido um dos grandes desafios da segurança pública no Brasil. No programa, especialistas falam sobre o problema e as ações do governo."
+    },
+    {
+      "show_name": "Brasil Imperial",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_brasil-imperial-s01e10_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 10",
+      "start_time": "06:11",
+      "end_time": "07:10",
+      "episode_description": "Arrebita luta com os liberais para derrubar D. Pedro; O Imperador casa-se novamente, abdica do trono em favor de seu filho e volta à Portugal."
+    },
+    {
+      "show_name": "O Caldeirão da Santa Cruz do Deserto",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-caldeir-o-da-santa-cruz-do-deserto_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "07:10",
+      "end_time": "08:30",
+      "episode_description": "Um resgate, a partir do imaginário popular, da história da comunidade do Caldeirão - movimento religioso liderado pelo influente beato José Lourenço."
+    },
+    {
+      "show_name": "Jango",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jango-1984_l_m.jpg",
+      "show_category": "Documentary / 1984 / 7.7",
+      "start_time": "08:30",
+      "end_time": "10:20",
+      "episode_description": "A trajetória política de João Goulart, o 24º presidente brasileiro, que foi deposto por um golpe militar nas primeiras horas de 1º de abril de 1964."
+    },
+    {
+      "show_name": "Arte no Caos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_arte-no-caos_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "10:20",
+      "end_time": "11:02",
+      "episode_description": "O processo criativo do artista Vik Muniz durante a elaboração da obra \"8 de Janeiro de 2023\", criada a partir de destroços dos atos ocorridos naquela data. A tela foi doada ao Senado."
+    },
+    {
+      "show_name": "100 Anos de Cultura e Conflitos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_100-anos-de-cultura-e-conflitos_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "11:02",
+      "end_time": "11:30",
+      "episode_description": "Veja os eventos que marcaram a história do Brasil desde a Semana de Arte Moderna até os dias atuais."
+    },
+    {
+      "show_name": "TV Senado Live",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tv-senado-live_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "11:30",
+      "end_time": "12:00",
       "episode_description": "O crime organizado tem sido um dos grandes desafios da segurança pública no Brasil. No programa, especialistas falam sobre o problema e as ações do governo."
     },
     {
       "show_name": "Parlamento Brasil",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_parlamento-brasil_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "12:30",
-      "end_time": "13:00",
+      "start_time": "12:00",
+      "end_time": "12:30",
       "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
     },
     {
       "show_name": "Assunto de Estado",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_assunto-de-estado_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_assunto-de-estado_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "13:00",
-      "end_time": "13:30",
+      "start_time": "12:30",
+      "end_time": "13:00",
       "episode_description": "A senadora Dra. Eudócia, PL, comenta avanços em saúde, educação, emprego e turismo em Alagoas, com destaque para o programa \"Olhar da Gente\" e o combate ao câncer."
     },
     {
       "show_name": "Agenda Econômica",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_agenda-economica-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_agenda-economica-1_l_m.jpg",
       "show_category": "Bus./financial",
-      "start_time": "13:30",
-      "end_time": "14:00",
+      "start_time": "13:00",
+      "end_time": "13:30",
       "episode_description": "Em outubro, senadores e deputados aprovaram projetos impedindo a cobrança pela mala de cabine em aviões e a reinserção da mala de porão, com 23 kg, na passagem básica."
     },
     {
       "show_name": "Salão Nobre",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_sal-o-nobre_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sal-o-nobre_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "14:00",
-      "end_time": "14:30",
+      "start_time": "13:30",
+      "end_time": "14:00",
       "episode_description": "O senador Flávio Arns, PSB-PR, relator do projeto do ECA Digital, ressalta que a nova lei tem como objetivo garantir a proteção de crianças e adolescentes no meio digital."
     },
     {
-      "show_name": "Estúdio A",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_estudio-a_l_m.webp",
+      "show_name": "Em Discussão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_em-discuss-o-2_l_m.jpg",
+      "show_category": "Educational",
+      "start_time": "14:00",
+      "end_time": "14:30",
+      "episode_description": "O Brasil ganhou o marco regulatório da Educação a Distância (EAD). Nenhum curso de graduação poderá ser 100% no formato EAD. Especialistas explicam as mudanças. O prazo de transição é de dois anos."
+    },
+    {
+      "show_name": "Concertos em Geral",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_concertos-em-geral_l_m.jpg",
       "show_category": "Music",
       "start_time": "14:30",
       "end_time": "15:30",
-      "episode_description": "Programa celebra o cantor e compositor Lô Borges, um dos fundadores do movimento musical Clube da Esquina, e ícone da música popular brasileira."
+      "episode_description": "Interpretações de grandes obras da música clássica universal, com informações e curiosidades sobre os instrumentos, a vida e a obra dos compositores."
     },
     {
-      "show_name": "Guerras do Brasil.Doc",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_guerras-do-brasil-doc_l_m.webp",
-      "show_category": "Documentary",
+      "show_name": "Envelhecer",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_envelhecer_l_m.jpg",
+      "show_category": "Health",
       "start_time": "15:30",
-      "end_time": "16:00",
-      "episode_description": "Os acontecimentos que puseram fim a velha república. Entenda a disputa eleitoral que levaria ao poder, no voto, o paulista Júlio Prestes e a ascensão do gaúcho Getúlio Vargas."
-    },
-    {
-      "show_name": "Salão Nobre",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_sal-o-nobre_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "16:00",
       "end_time": "16:30",
-      "episode_description": "O senador Flávio Arns, PSB-PR, relator do projeto do ECA Digital, ressalta que a nova lei tem como objetivo garantir a proteção de crianças e adolescentes no meio digital."
+      "episode_description": "Uma reflexão sobre o lugar social da velhice no cotidiano com histórias e heranças que enriquecem a experiência no grupo intergeracional. Neste episódio, é ressaltado que o ideal de uma sociedade é não precisar fazer esforços para aproximar gerações."
     },
     {
-      "show_name": "Cidadania",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_cidadania_l_m.webp",
-      "show_category": "Interview",
+      "show_name": "Em Discussão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_em-discuss-o-2_l_m.jpg",
+      "show_category": "Educational",
       "start_time": "16:30",
       "end_time": "17:00",
-      "episode_description": "Adotar uma criança no Brasil tem regras, mas o processo é simples. Após fazer o cadastro no Conselho Nacional de Justiça, a pessoa que deseja adotar entra na fila da adoção."
+      "episode_description": "O Brasil ganhou o marco regulatório da Educação a Distância (EAD). Nenhum curso de graduação poderá ser 100% no formato EAD. Especialistas explicam as mudanças. O prazo de transição é de dois anos."
     },
     {
       "show_name": "Parlamento Brasil",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_parlamento-brasil_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
       "show_category": "Politics",
       "start_time": "17:00",
       "end_time": "17:30",
       "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
     },
     {
-      "show_name": "TV Senado Live",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_tv-senado-live_l_m.webp",
-      "show_category": "Politics",
+      "show_name": "EcoSenado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ecosenado-1_l_m.jpg",
+      "show_category": "Environment",
       "start_time": "17:30",
       "end_time": "18:00",
+      "episode_description": "Assuntos relevantes e que impactam o meio ambiente com participação de especialistas, políticos, biólogos e lideranças comunitárias."
+    },
+    {
+      "show_name": "Cidadania",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidadania_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "18:00",
+      "end_time": "18:30",
+      "episode_description": "Adotar uma criança no Brasil tem regras, mas o processo é simples. Após fazer o cadastro no Conselho Nacional de Justiça, a pessoa que deseja adotar entra na fila da adoção."
+    },
+    {
+      "show_name": "Salão Nobre",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sal-o-nobre_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "18:30",
+      "end_time": "19:00",
+      "episode_description": "O senador Flávio Arns, PSB-PR, relator do projeto do ECA Digital, ressalta que a nova lei tem como objetivo garantir a proteção de crianças e adolescentes no meio digital."
+    },
+    {
+      "show_name": "Agenda Econômica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_agenda-economica-1_l_m.jpg",
+      "show_category": "Bus./financial",
+      "start_time": "19:00",
+      "end_time": "19:30",
+      "episode_description": "Em outubro, senadores e deputados aprovaram projetos impedindo a cobrança pela mala de cabine em aviões e a reinserção da mala de porão, com 23 kg, na passagem básica."
+    },
+    {
+      "show_name": "Assunto de Estado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_assunto-de-estado_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "19:30",
+      "end_time": "20:00",
+      "episode_description": "A senadora Dra. Eudócia, PL, comenta avanços em saúde, educação, emprego e turismo em Alagoas, com destaque para o programa \"Olhar da Gente\" e o combate ao câncer."
+    },
+    {
+      "show_name": "Cidadania",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidadania_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "20:00",
+      "end_time": "20:30",
+      "episode_description": "Adotar uma criança no Brasil tem regras, mas o processo é simples. Após fazer o cadastro no Conselho Nacional de Justiça, a pessoa que deseja adotar entra na fila da adoção."
+    },
+    {
+      "show_name": "TV Senado Live",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tv-senado-live_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "20:30",
+      "end_time": "21:00",
       "episode_description": "O crime organizado tem sido um dos grandes desafios da segurança pública no Brasil. No programa, especialistas falam sobre o problema e as ações do governo."
     },
     {
-      "show_name": "Comissão de Segurança Pública",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_comiss-o-de-seguranca-publica_l_m.webp",
+      "show_name": "Parlamento Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "18:00",
-      "end_time": "20:07",
-      "episode_description": "Analisa proposições e assuntos relacionados com a área da segurança pública."
+      "start_time": "21:00",
+      "end_time": "21:30",
+      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
     },
     {
-      "show_name": "Comissão de Educação, Cultura e Esporte",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_comiss-o-de-educac-o-cultura-e-esporte_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "20:07",
-      "end_time": "21:59",
-      "episode_description": "Acompanhe a atividade legislativa da comissão permanente do Senado Federal que debate normas gerais sobre educação, cultura, ensino e esportes, instituições educacionais e culturais, diretrizes e bases da educação nacional."
+      "show_name": "EcoSenado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ecosenado-1_l_m.jpg",
+      "show_category": "Environment",
+      "start_time": "21:30",
+      "end_time": "22:00",
+      "episode_description": "Assuntos relevantes e que impactam o meio ambiente com participação de especialistas, políticos, biólogos e lideranças comunitárias."
     },
     {
-      "show_name": "Sessão Plenária",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_sess-o-plenaria-1_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "21:59",
-      "end_time": "23:22",
-      "episode_description": "Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade."
+      "show_name": "Cidadania",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidadania_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "22:00",
+      "end_time": "22:30",
+      "episode_description": "Adotar uma criança no Brasil tem regras, mas o processo é simples. Após fazer o cadastro no Conselho Nacional de Justiça, a pessoa que deseja adotar entra na fila da adoção."
     },
     {
-      "show_name": "Sessão Plenária",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_sess-o-plenaria-1_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "23:22",
-      "end_time": "00:42",
-      "episode_description": "Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade."
+      "show_name": "100 Anos de Cultura e Conflitos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_100-anos-de-cultura-e-conflitos_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "22:30",
+      "end_time": "23:00",
+      "episode_description": "Veja os eventos que marcaram a história do Brasil desde a Semana de Arte Moderna até os dias atuais."
     },
     {
-      "show_name": "Brasil Imperial",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_brasil-imperial-s01e09_l_m.webp",
-      "show_category": "Temporada 1 Episódio 9",
+      "show_name": "Leituras",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_leituras_l_m.jpg",
+      "show_category": "Art",
+      "start_time": "23:00",
+      "end_time": "23:30",
+      "episode_description": "Uma poesia marcada pela sonoridade e pelo ritmo. Assim é a poesia de Luci Collin, que lança \"Combinados\", uma reunião de todo o seu trabalho de quarenta anos."
+    },
+    {
+      "show_name": "Estúdio A",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_estudio-a_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "23:30",
+      "end_time": "00:30",
+      "episode_description": "Programa celebra o cantor e compositor Lô Borges, um dos fundadores do movimento musical Clube da Esquina, e ícone da música popular brasileira."
+    },
+    {
+      "show_name": "Jango",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jango-1984_l_m.jpg",
+      "show_category": "Documentary / 1984 / 7.7",
       "start_time": "05:30",
-      "end_time": "06:11",
-      "episode_description": "Leopoldina dá à luz ao herdeiro da coroa; Domitila recebe o título de Marquesa e a revolta do povo e dos Republicanos com D. Pedro aumenta."
-    },
-    {
-      "show_name": "Brasil Imperial",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_brasil-imperial-s01e10_l_m.webp",
-      "show_category": "Temporada 1 Episódio 10",
-      "start_time": "06:11",
-      "end_time": "06:41",
-      "episode_description": "Arrebita luta com os liberais para derrubar D. Pedro; O Imperador casa-se novamente, abdica do trono em favor de seu filho e volta à Portugal."
+      "end_time": "06:00",
+      "episode_description": "A trajetória política de João Goulart, o 24º presidente brasileiro, que foi deposto por um golpe militar nas primeiras horas de 1º de abril de 1964."
     }
   ]
 }
