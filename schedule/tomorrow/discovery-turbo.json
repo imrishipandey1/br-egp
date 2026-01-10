@@ -1,262 +1,270 @@
 {
   "channel": "Discovery Turbo",
-  "date": "10/01/2026",
+  "date": "11/01/2026",
   "schedule": [
     {
-      "show_name": "Viciado em Motores - Goblin Garage",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-turbo/tomorrow/br_viciado-em-motores-goblin-garage-s02e01-mini_l_m.webp",
-      "show_category": "Temporada 2 Episódio 1 - Mini",
+      "show_name": "Twin Turbos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_twin-turbos-s01e03_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3 - De Volta às Pistas",
       "start_time": "00:30",
       "end_time": "01:20",
-      "episode_description": "O original Mini Clubman é um clássico muito cobiçado, mas Jimmy chega com um modelo enferrujado e a equipe encontra furos na carroceria; Ant incrementa sua Harley e viaja à Suécia para vendê-la."
-    },
-    {
-      "show_name": "Viciado em Motores - Goblin Garage",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-turbo/tomorrow/br_viciado-em-motores-goblin-garage-s02e02-bmw_l_m.webp",
-      "show_category": "Temporada 2 Episódio 2 - BMW",
-      "start_time": "01:20",
-      "end_time": "02:10",
-      "episode_description": "Jimmy não se impressiona quando Helen chega à oficina com uma BMW E30 da década de 80 na traseira de seu trailer. Ela concebe um dos projetos mais criativos da Goblins e tem uma surpresa durante o lançamento."
-    },
-    {
-      "show_name": "Dupla do Barulho ao Resgate",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-turbo/tomorrow/br_dupla-do-barulho-ao-resgate-s01e08_l_m.webp",
-      "show_category": "Temporada 1 Episódio 8 - Elite Powersports",
-      "start_time": "02:10",
-      "end_time": "03:00",
-      "episode_description": "Richard cobiça uma oficina de quadriciclos na Louisiana, mas os donos rejeitam a oferta. Então, ele vai a Oklahoma e pensa em recuperar uma oficina de tuning que mal consegue pagar as contas."
-    },
-    {
-      "show_name": "Vida Automotiva",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-turbo/tomorrow/br_vida-automotiva-s01e07-caroline-ganho-gol-gts_l_m.webp",
-      "show_category": "Temporada 1 Episódio 7 - Caroline Ganho (Gol GTS)",
-      "start_time": "03:00",
-      "end_time": "03:25",
-      "episode_description": "Caroline Ganho conta a história de seu clássico esportivo brasileiro, o Gol GTS."
-    },
-    {
-      "show_name": "Vida Automotiva",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-turbo/tomorrow/br_vida-automotiva-s01e08-dudu-fritz-vw-passat-vr6_l_m.webp",
-      "show_category": "Temporada 1 Episódio 8 - Dudu Fritz (VW Passat VR6)",
-      "start_time": "03:25",
-      "end_time": "03:50",
-      "episode_description": "Conheça a história de Dudu Fritz e seu Passat VR6 1995. Fã da VW desde a infância, Dudu conta como conseguiu unir sua paixão pelos carros à sua profissão de soldador graças ao seu Passat com mais de 400 cv."
-    },
-    {
-      "show_name": "Dupla do Barulho",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-turbo/tomorrow/br_dupla-do-barulho-s01e07-impala_l_m.webp",
-      "show_category": "Temporada 1 Episódio 7 - Impala",
-      "start_time": "03:50",
-      "end_time": "04:40",
-      "episode_description": "Richard, Aaron e a equipe do Gas Monkey desenterram um Impala de 1964 e de um monte de escombros conseguem restaurar o carro; a restauração de um caminhão de bombeiro Bruco de 51 e de um Cadillac Coupe de Ville de 55."
-    },
-    {
-      "show_name": "Os Reis da Sucata",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-turbo/tomorrow/br_os-reis-da-sucata-s02e01_l_m.webp",
-      "show_category": "Temporada 2 Episódio 1 - Um Novo Dia, Mais um Dólar",
-      "start_time": "04:40",
-      "end_time": "05:30",
-      "episode_description": "Andy sabe que não há lugar melhor para encontrar um bom negócio que um leilão - mas quando arremata um Mercedes SL55 AMG, pode ter dado um passo maior do que a perna."
-    },
-    {
-      "show_name": "Os Reis da Sucata",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-turbo/tomorrow/br_os-reis-da-sucata-s02e03_l_m.webp",
-      "show_category": "Temporada 2 Episódio 3 - A Todo Vapor",
-      "start_time": "06:20",
-      "end_time": "07:11",
-      "episode_description": "A determinação incansável de Andy de expandir o negócio esbarra no excesso de encomendas. Os problemas se acumulam e Andy recorre a seus experientes funcionários para acelerar a produção."
-    },
-    {
-      "show_name": "Os Reis da Sucata",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-turbo/tomorrow/br_os-reis-da-sucata-s02e04_l_m.webp",
-      "show_category": "Temporada 2 Episódio 4 - Fazendo Negócio com Hot Wheels",
-      "start_time": "07:11",
-      "end_time": "08:03",
-      "episode_description": "Quando era criança, Andy Cohen passava horas brincando com suas miniaturas de carros Hot Wheels. Quando o designer da marca, Larry Wood, pede uma réplica em tamanho real, Andy realiza um sonho de infância."
-    },
-    {
-      "show_name": "Os Reis da Sucata",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-turbo/tomorrow/br_os-reis-da-sucata-s02e05_l_m.webp",
-      "show_category": "Temporada 2 Episódio 5 - Aprimorar e Vender com Lucro",
-      "start_time": "08:03",
-      "end_time": "08:55",
-      "episode_description": "A ideias ambiciosas de Andy e suas capacidade de executá-las criam grandes oportunidades de negócio para a oficina. E com a ajuda do pai, ele tem a chance de ter sua própria coleção."
-    },
-    {
-      "show_name": "Dupla do Barulho",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-turbo/tomorrow/br_dupla-do-barulho-s01e07-impala_l_m.webp",
-      "show_category": "Temporada 1 Episódio 7 - Impala",
-      "start_time": "08:55",
-      "end_time": "09:45",
-      "episode_description": "Richard, Aaron e a equipe do Gas Monkey desenterram um Impala de 1964 e de um monte de escombros conseguem restaurar o carro; a restauração de um caminhão de bombeiro Bruco de 51 e de um Cadillac Coupe de Ville de 55."
-    },
-    {
-      "show_name": "Os Reis da Sucata",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-turbo/tomorrow/br_os-reis-da-sucata-s02e01_l_m.webp",
-      "show_category": "Temporada 2 Episódio 1 - Um Novo Dia, Mais um Dólar",
-      "start_time": "09:45",
-      "end_time": "10:35",
-      "episode_description": "Andy sabe que não há lugar melhor para encontrar um bom negócio que um leilão - mas quando arremata um Mercedes SL55 AMG, pode ter dado um passo maior do que a perna."
-    },
-    {
-      "show_name": "Os Reis da Sucata",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-turbo/tomorrow/br_os-reis-da-sucata-s02e02_l_m.webp",
-      "show_category": "Temporada 2 Episódio 2 - A Aposta",
-      "start_time": "10:35",
-      "end_time": "11:22",
-      "episode_description": "Andy Cohen nunca recua diante de um desafio. Quando concorda em construir um tanque de paintball e faz uma aposta com seu pai sobre uma picape, ele precisa provar que dá conta dos dois projetos."
-    },
-    {
-      "show_name": "Os Reis da Sucata",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-turbo/tomorrow/br_os-reis-da-sucata-s02e03_l_m.webp",
-      "show_category": "Temporada 2 Episódio 3 - A Todo Vapor",
-      "start_time": "11:22",
-      "end_time": "12:09",
-      "episode_description": "A determinação incansável de Andy de expandir o negócio esbarra no excesso de encomendas. Os problemas se acumulam e Andy recorre a seus experientes funcionários para acelerar a produção."
-    },
-    {
-      "show_name": "Os Reis da Sucata",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-turbo/tomorrow/br_os-reis-da-sucata-s02e04_l_m.webp",
-      "show_category": "Temporada 2 Episódio 4 - Fazendo Negócio com Hot Wheels",
-      "start_time": "12:09",
-      "end_time": "12:56",
-      "episode_description": "Quando era criança, Andy Cohen passava horas brincando com suas miniaturas de carros Hot Wheels. Quando o designer da marca, Larry Wood, pede uma réplica em tamanho real, Andy realiza um sonho de infância."
-    },
-    {
-      "show_name": "Os Reis da Sucata",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-turbo/tomorrow/br_os-reis-da-sucata-s02e05_l_m.webp",
-      "show_category": "Temporada 2 Episódio 5 - Aprimorar e Vender com Lucro",
-      "start_time": "12:56",
-      "end_time": "13:43",
-      "episode_description": "A ideias ambiciosas de Andy e suas capacidade de executá-las criam grandes oportunidades de negócio para a oficina. E com a ajuda do pai, ele tem a chance de ter sua própria coleção."
-    },
-    {
-      "show_name": "Texas Metal",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-turbo/tomorrow/br_texas-metal-s06e02-caminh-o-tanque-do-missouri_l_m.webp",
-      "show_category": "Temporada 6 Episódio 2 - Caminhão-Tanque do Missouri",
-      "start_time": "13:43",
-      "end_time": "14:30",
-      "episode_description": "Um caminhão-tanque de 1953 testa a equipe sendo o maior projeto até hoje; o carrinho de golfe de uma família é transformado em uma fera elétrica."
-    },
-    {
-      "show_name": "Custom Club Argentina",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-turbo/tomorrow/br_custom-club-argentina-s01e01_l_m.webp",
-      "show_category": "Temporada 1 Episódio 1",
-      "start_time": "14:30",
-      "end_time": "14:55",
-      "episode_description": "Começa a travessia, mas o clima árido e a altitude afetam tanto os pilotos como suas motos, que passam a apresentar defeitos. Eles precisam decidir se atravessarão um rio para fazer uma doação em uma escola rural."
-    },
-    {
-      "show_name": "Custom Club Argentina",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-turbo/tomorrow/br_custom-club-argentina-s01e02_l_m.webp",
-      "show_category": "Temporada 1 Episódio 2",
-      "start_time": "14:55",
-      "end_time": "15:20",
-      "episode_description": "No segundo dia da travessia, o grupo recebe uma notícia desalentadora: a chuva forte impossibilita a rota prevista por Henry para Salta; em Buenos Aires, o motor de La Gorda esconde uma surpresa desagradável."
-    },
-    {
-      "show_name": "Os Reis da Sucata",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-turbo/tomorrow/br_os-reis-da-sucata-s03e08_l_m.webp",
-      "show_category": "Temporada 3 Episódio 8 - Dois para Viagem",
-      "start_time": "15:20",
-      "end_time": "16:10",
-      "episode_description": "Determinado a fazer um Roadster 1932 funcionar, Andy pede a ajuda de um especialista em injeção de combustível, Dave Jenson; Andy tenta transformar dois caminhões Chevrolet em um Frankenstein."
-    },
-    {
-      "show_name": "American Chopper",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-turbo/tomorrow/br_american-chopper-s11e03-moto-sustentavel_l_m.webp",
-      "show_category": "Temporada 11 Episódio 3 - Moto Sustentável",
-      "start_time": "16:10",
-      "end_time": "17:00",
-      "episode_description": "A equipe da OCC testa seus limites construindo duas motos bem diferentes para um cliente; Júnior projeta um modelo movido a metanol; quando Júnior faz uma alteração no projeto da moto dos Yankees, Sênior o confronta."
-    },
-    {
-      "show_name": "American Chopper",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-turbo/tomorrow/br_american-chopper_l_m.webp",
-      "show_category": "Reality",
-      "start_time": "17:00",
-      "end_time": "17:50",
-      "episode_description": "A equipe da OCC constrói uma moto inspirada na GTO 1965, mas a complexidade da montagem pode levar Sênior a perder o primeiro prazo de sua carreira; Júnior enfrenta atrasos na entrega de um modelo para um cliente corporativo."
-    },
-    {
-      "show_name": "American Chopper",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-turbo/tomorrow/br_american-chopper-s11e05-a-moda-antiga_l_m.webp",
-      "show_category": "Temporada 11 Episódio 5 - À Moda Antiga",
-      "start_time": "17:50",
-      "end_time": "18:40",
-      "episode_description": "Paul Sênior encarrega Mikey de concluir uma moto tradicional encomendada por um fã de longa data; Júnior projeta uma moto espetacular para um cliente antigo, e pai e filho chegam à reta final do projeto da Yankee."
+      "episode_description": "Vencer na feira SEMA pode colocar o negócio e as corridas de Brad em outro patamar. Para tentar ganhar a disputa, os DeBertis customizam um Mustang 2018 novo, enquanto Brad dá o primeiro passo na volta à categoria Pro-Lite."
     },
     {
       "show_name": "Twin Turbos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-turbo/tomorrow/br_twin-turbos-s01e14-besta-para-o-leste_l_m.webp",
-      "show_category": "Temporada 1 Episódio 14 - Besta para o Leste",
-      "start_time": "18:40",
-      "end_time": "19:30",
-      "episode_description": "Pai e filho aceitam o último desafio antes da mudança, montando um caminhão que pode levar todos os seus veículos para a Carolina do Norte. Eles também pedem ajuda a profissionais para ajudar Brad no controle de tração ao volante."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_twin-turbos-s01e04-corrida-para-o-topo_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - Corrida para o Topo",
+      "start_time": "01:20",
+      "end_time": "02:10",
+      "episode_description": "Os DeBertis se apressam para terminar o Mustang 2018 para a SEMA, em que um encontro casual com Joey Logano pode catapultar a carreira de Brad como piloto."
     },
     {
-      "show_name": "Dupla do Barulho",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-turbo/tomorrow/br_dupla-do-barulho-s01e07-impala_l_m.webp",
-      "show_category": "Temporada 1 Episódio 7 - Impala",
-      "start_time": "19:30",
-      "end_time": "20:20",
-      "episode_description": "Richard, Aaron e a equipe do Gas Monkey desenterram um Impala de 1964 e de um monte de escombros conseguem restaurar o carro; a restauração de um caminhão de bombeiro Bruco de 51 e de um Cadillac Coupe de Ville de 55."
+      "show_name": "Movidos a Diesel",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_movidos-a-diesel-s07e05-corrida-no-deserto_l_m.jpg",
+      "show_category": "Temporada 7 Episódio 5 - Corrida no Deserto",
+      "start_time": "02:10",
+      "end_time": "03:00",
+      "episode_description": "Diesel Dave trabalha em uma nova picape e pretende transformá-la em uma nova versão do Kodiak; Todd LeDuc desafia os rapazes em uma corrida no deserto e escolhe The Muscle para sua equipe."
     },
     {
-      "show_name": "Os Reis da Sucata",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-turbo/tomorrow/br_os-reis-da-sucata-s02e01_l_m.webp",
-      "show_category": "Temporada 2 Episódio 1 - Um Novo Dia, Mais um Dólar",
-      "start_time": "20:20",
-      "end_time": "21:10",
-      "episode_description": "Andy sabe que não há lugar melhor para encontrar um bom negócio que um leilão - mas quando arremata um Mercedes SL55 AMG, pode ter dado um passo maior do que a perna."
+      "show_name": "American Hot Rod",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_american-hot-rod-s03e03-bud-light-3_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 3 - Bud Light 3",
+      "start_time": "03:00",
+      "end_time": "03:50",
+      "episode_description": "Bernt, o novo funcionário, sente a pressão conforme o tempo passa e a equipe precisa finalizar o hot rod encomendado pela Bud Light. A tensão se instala na oficina enquanto todos lutam para cumprir o prazo de entrega."
     },
     {
-      "show_name": "Os Reis da Sucata",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-turbo/tomorrow/br_os-reis-da-sucata-s02e02_l_m.webp",
-      "show_category": "Temporada 2 Episódio 2 - A Aposta",
-      "start_time": "21:10",
-      "end_time": "22:00",
-      "episode_description": "Andy Cohen nunca recua diante de um desafio. Quando concorda em construir um tanque de paintball e faz uma aposta com seu pai sobre uma picape, ele precisa provar que dá conta dos dois projetos."
+      "show_name": "Custom Club Argentina",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_custom-club-argentina-s01e02_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2",
+      "start_time": "03:50",
+      "end_time": "04:15",
+      "episode_description": "No segundo dia da travessia, o grupo recebe uma notícia desalentadora: a chuva forte impossibilita a rota prevista por Henry para Salta; em Buenos Aires, o motor de La Gorda esconde uma surpresa desagradável."
     },
     {
-      "show_name": "Os Reis da Sucata",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-turbo/tomorrow/br_os-reis-da-sucata-s02e03_l_m.webp",
-      "show_category": "Temporada 2 Episódio 3 - A Todo Vapor",
-      "start_time": "22:00",
-      "end_time": "22:50",
-      "episode_description": "A determinação incansável de Andy de expandir o negócio esbarra no excesso de encomendas. Os problemas se acumulam e Andy recorre a seus experientes funcionários para acelerar a produção."
-    },
-    {
-      "show_name": "Os Reis da Sucata",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-turbo/tomorrow/br_os-reis-da-sucata-s02e04_l_m.webp",
-      "show_category": "Temporada 2 Episódio 4 - Fazendo Negócio com Hot Wheels",
-      "start_time": "22:50",
-      "end_time": "23:40",
-      "episode_description": "Quando era criança, Andy Cohen passava horas brincando com suas miniaturas de carros Hot Wheels. Quando o designer da marca, Larry Wood, pede uma réplica em tamanho real, Andy realiza um sonho de infância."
+      "show_name": "Custom Club Argentina",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_custom-club-argentina-s01e03_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3",
+      "start_time": "04:15",
+      "end_time": "04:40",
+      "episode_description": "Os pilotos testam os limites de suas motos em um dia complicado. Eles devem atravessar uma rota sinuosa até Piedra del Molino, onde realizarão um ritual milenar com os povoadores originários do norte da Argentina."
     },
     {
       "show_name": "Os Reis da Sucata",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-turbo/tomorrow/br_os-reis-da-sucata-s02e05_l_m.webp",
-      "show_category": "Temporada 2 Episódio 5 - Aprimorar e Vender com Lucro",
-      "start_time": "23:40",
-      "end_time": "00:30",
-      "episode_description": "A ideias ambiciosas de Andy e suas capacidade de executá-las criam grandes oportunidades de negócio para a oficina. E com a ajuda do pai, ele tem a chance de ter sua própria coleção."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-reis-da-sucata-s03e11_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 11 - Esmagando Carros & Anotando Nomes",
+      "start_time": "04:40",
+      "end_time": "05:30",
+      "episode_description": "Andy Cohen nunca consegue prever o que vai aparecer em seu ferro-velho, mas todos têm um choque com uma escavadeira enorme e um pedaço lendário da história militar dos EUA."
     },
     {
       "show_name": "Mexicânicos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-turbo/tomorrow/br_mexicanicos-s10e01-viagem-a-phoenix_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mexicanicos-s10e02-irm-s-mustang-van-avi-o_l_m.jpg",
+      "show_category": "Temporada 10 Episódio 2 - Irmãs Mustang + Van Avião",
+      "start_time": "06:20",
+      "end_time": "07:10",
+      "episode_description": "Alessa e Michelle querem surpreender o pai delas restaurando o seu Mustang Clássico de 1965, com a ajuda do especialista Martín Vaca. Enquanto a equipe enfrenta desafios na restauração, Martín também trabalha em uma van com cauda de avião."
+    },
+    {
+      "show_name": "Mexicânicos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mexicanicos-s10e03-viagem-a-chicago_l_m.jpg",
+      "show_category": "Temporada 10 Episódio 3 - Viagem a Chicago",
+      "start_time": "07:10",
+      "end_time": "08:00",
+      "episode_description": "Martín Vaca explora a paixão latina por carros e motos em Chicago, mergulhando na cultura lowrider e conhecendo as Viclas, motos estilo mexicano."
+    },
+    {
+      "show_name": "Twin Turbos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_twin-turbos-s01e15-mania-de-minibikes_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 15 - Mania de Minibikes",
+      "start_time": "08:00",
+      "end_time": "08:50",
+      "episode_description": "Mestre na construção de minibikes, Madera enche a oficina com suas criações; Brad concebe um vídeo hilário para as mídias sociais, filmando nas ruas de Pismo com sua Kombi 1961."
+    },
+    {
+      "show_name": "Custom Club Argentina",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_custom-club-argentina-s01e02_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2",
+      "start_time": "08:50",
+      "end_time": "09:15",
+      "episode_description": "No segundo dia da travessia, o grupo recebe uma notícia desalentadora: a chuva forte impossibilita a rota prevista por Henry para Salta; em Buenos Aires, o motor de La Gorda esconde uma surpresa desagradável."
+    },
+    {
+      "show_name": "Custom Club Argentina",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_custom-club-argentina-s01e03_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3",
+      "start_time": "09:15",
+      "end_time": "09:40",
+      "episode_description": "Os pilotos testam os limites de suas motos em um dia complicado. Eles devem atravessar uma rota sinuosa até Piedra del Molino, onde realizarão um ritual milenar com os povoadores originários do norte da Argentina."
+    },
+    {
+      "show_name": "Os Reis da Sucata",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-reis-da-sucata-s03e11_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 11 - Esmagando Carros & Anotando Nomes",
+      "start_time": "09:40",
+      "end_time": "10:30",
+      "episode_description": "Andy Cohen nunca consegue prever o que vai aparecer em seu ferro-velho, mas todos têm um choque com uma escavadeira enorme e um pedaço lendário da história militar dos EUA."
+    },
+    {
+      "show_name": "Mexicânicos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mexicanicos-s10e01-viagem-a-phoenix_l_m.jpg",
       "show_category": "Temporada 10 Episódio 1 - Viagem a Phoenix",
-      "start_time": "05:30",
-      "end_time": "06:20",
+      "start_time": "10:30",
+      "end_time": "11:18",
       "episode_description": "Em Phoenix, Arizona, Martín Vaca descobre uma cidade de grandes contrastes entre o passado e o futuro. Depois de visitar o clube Car Club PHX Driven e a fábrica da Nikola Motors, ele viaja para um vilarejo fantasma."
     },
     {
       "show_name": "Mexicânicos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-turbo/tomorrow/br_mexicanicos-s10e02-irm-s-mustang-van-avi-o_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mexicanicos-s10e02-irm-s-mustang-van-avi-o_l_m.jpg",
       "show_category": "Temporada 10 Episódio 2 - Irmãs Mustang + Van Avião",
+      "start_time": "11:18",
+      "end_time": "12:06",
+      "episode_description": "Alessa e Michelle querem surpreender o pai delas restaurando o seu Mustang Clássico de 1965, com a ajuda do especialista Martín Vaca. Enquanto a equipe enfrenta desafios na restauração, Martín também trabalha em uma van com cauda de avião."
+    },
+    {
+      "show_name": "Mexicânicos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mexicanicos-s10e03-viagem-a-chicago_l_m.jpg",
+      "show_category": "Temporada 10 Episódio 3 - Viagem a Chicago",
+      "start_time": "12:06",
+      "end_time": "12:54",
+      "episode_description": "Martín Vaca explora a paixão latina por carros e motos em Chicago, mergulhando na cultura lowrider e conhecendo as Viclas, motos estilo mexicano."
+    },
+    {
+      "show_name": "Twin Turbos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_twin-turbos-s01e15-mania-de-minibikes_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 15 - Mania de Minibikes",
+      "start_time": "12:54",
+      "end_time": "13:42",
+      "episode_description": "Mestre na construção de minibikes, Madera enche a oficina com suas criações; Brad concebe um vídeo hilário para as mídias sociais, filmando nas ruas de Pismo com sua Kombi 1961."
+    },
+    {
+      "show_name": "American Hot Rod",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_american-hot-rod-s03e03-bud-light-3_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 3 - Bud Light 3",
+      "start_time": "13:42",
+      "end_time": "14:30",
+      "episode_description": "Bernt, o novo funcionário, sente a pressão conforme o tempo passa e a equipe precisa finalizar o hot rod encomendado pela Bud Light. A tensão se instala na oficina enquanto todos lutam para cumprir o prazo de entrega."
+    },
+    {
+      "show_name": "Carros Irados - Bastidores",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_carros-irados-bastidores-s01e03-esta-ficando-quente-aqui_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3 - Está Ficando Quente Aqui",
+      "start_time": "14:30",
+      "end_time": "15:20",
+      "episode_description": "Dave tenta equipar a oficina com ar-condicionado usando um material nada convencional."
+    },
+    {
+      "show_name": "Mexicânicos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mexicanicos-1_l_m.jpg",
+      "show_category": "Auto",
+      "start_time": "15:20",
+      "end_time": "16:10",
+      "episode_description": "Martín e sua equipe devem restaurar ao estado original uma Chevrolet C10 de 68 para que Kika Edgar a entregue como presente de aniversário ao marido. Realizarão a tarefa inédita de converter um fusca alemão em carro elétrico."
+    },
+    {
+      "show_name": "Carros dos Sonhos com Robert Downey Jr.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_carros-dos-sonhos-com-robert-downey-jr-s01e01-a-caminhonete-thanos_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - A Caminhonete Thanos",
+      "start_time": "16:10",
+      "end_time": "17:04",
+      "episode_description": "O sistema de transmissão elétrico é testado quando Robert faz uma conversão ambiciosa em sua enorme caminhonete K10. As forças armadas ajudam Robert a testar os limites de sua nova caminhonete elétrica."
+    },
+    {
+      "show_name": "Carros dos Sonhos com Robert Downey Jr.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_carros-dos-sonhos-com-robert-downey-jr-s01e02-n-o-a-mercedez-da-sua-m-e_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Não a Mercedez da Sua Mãe",
+      "start_time": "17:04",
+      "end_time": "17:52",
+      "episode_description": "Robert relembra o passado na Mercedes-Benz de sua falecida mãe. Com uma conversão sustentável que homenageia o estilo dela, Robert explora as possibilidades do biodiesel com a ajuda de seu filho Exton e da equipe."
+    },
+    {
+      "show_name": "American Chopper: Rebuilt",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_american-chopper-rebuilt-s01e01-o-retorno_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - O Retorno",
+      "start_time": "17:52",
+      "end_time": "18:40",
+      "episode_description": "Dez anos depois do fim de sua tumultuada sociedade, os fabricantes de motos customizadas Paul Sr. e Paul Jr. dirigem as próprias oficinas. O pai tenta cumprir um prazo, enquanto o filho tem a chance de reconstruir uma moto."
+    },
+    {
+      "show_name": "American Chopper",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_american-chopper-s11e01-desafio-em-dose-dupla_l_m.jpg",
+      "show_category": "Temporada 11 Episódio 1 - Desafio em Dose Dupla",
+      "start_time": "18:40",
+      "end_time": "19:30",
+      "episode_description": "A equipe da OCC constrói uma de suas motos mais velozes, mas enfrenta um problema no compressor; Júnior tenta terminar uma moto complicada para um cliente; durante a restauração, pai e filho não conseguem esquecer o passado."
+    },
+    {
+      "show_name": "Custom Club Argentina",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_custom-club-argentina-s01e02_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2",
+      "start_time": "19:30",
+      "end_time": "19:55",
+      "episode_description": "No segundo dia da travessia, o grupo recebe uma notícia desalentadora: a chuva forte impossibilita a rota prevista por Henry para Salta; em Buenos Aires, o motor de La Gorda esconde uma surpresa desagradável."
+    },
+    {
+      "show_name": "Custom Club Argentina",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_custom-club-argentina-s01e03_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3",
+      "start_time": "19:55",
+      "end_time": "20:20",
+      "episode_description": "Os pilotos testam os limites de suas motos em um dia complicado. Eles devem atravessar uma rota sinuosa até Piedra del Molino, onde realizarão um ritual milenar com os povoadores originários do norte da Argentina."
+    },
+    {
+      "show_name": "Os Reis da Sucata",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-reis-da-sucata-s03e11_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 11 - Esmagando Carros & Anotando Nomes",
+      "start_time": "20:20",
+      "end_time": "21:10",
+      "episode_description": "Andy Cohen nunca consegue prever o que vai aparecer em seu ferro-velho, mas todos têm um choque com uma escavadeira enorme e um pedaço lendário da história militar dos EUA."
+    },
+    {
+      "show_name": "Mexicânicos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mexicanicos-s10e01-viagem-a-phoenix_l_m.jpg",
+      "show_category": "Temporada 10 Episódio 1 - Viagem a Phoenix",
+      "start_time": "21:10",
+      "end_time": "22:00",
+      "episode_description": "Em Phoenix, Arizona, Martín Vaca descobre uma cidade de grandes contrastes entre o passado e o futuro. Depois de visitar o clube Car Club PHX Driven e a fábrica da Nikola Motors, ele viaja para um vilarejo fantasma."
+    },
+    {
+      "show_name": "Mexicânicos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mexicanicos-s10e02-irm-s-mustang-van-avi-o_l_m.jpg",
+      "show_category": "Temporada 10 Episódio 2 - Irmãs Mustang + Van Avião",
+      "start_time": "22:00",
+      "end_time": "22:50",
+      "episode_description": "Alessa e Michelle querem surpreender o pai delas restaurando o seu Mustang Clássico de 1965, com a ajuda do especialista Martín Vaca. Enquanto a equipe enfrenta desafios na restauração, Martín também trabalha em uma van com cauda de avião."
+    },
+    {
+      "show_name": "Mexicânicos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mexicanicos-s10e03-viagem-a-chicago_l_m.jpg",
+      "show_category": "Temporada 10 Episódio 3 - Viagem a Chicago",
+      "start_time": "22:50",
+      "end_time": "23:40",
+      "episode_description": "Martín Vaca explora a paixão latina por carros e motos em Chicago, mergulhando na cultura lowrider e conhecendo as Viclas, motos estilo mexicano."
+    },
+    {
+      "show_name": "Twin Turbos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_twin-turbos-s01e15-mania-de-minibikes_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 15 - Mania de Minibikes",
+      "start_time": "23:40",
+      "end_time": "00:30",
+      "episode_description": "Mestre na construção de minibikes, Madera enche a oficina com suas criações; Brad concebe um vídeo hilário para as mídias sociais, filmando nas ruas de Pismo com sua Kombi 1961."
+    },
+    {
+      "show_name": "Carros dos Sonhos com Robert Downey Jr.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_carros-dos-sonhos-com-robert-downey-jr-s01e03-riviera-para-hoje_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3 - Riviera para Hoje",
+      "start_time": "05:30",
+      "end_time": "06:20",
+      "episode_description": "Robert explora alternativas ecológicas para modernizar um dos carros mais icônicos e de maior consumo de combustível de todos os tempos: o Buick Riviera. Depois da conversão, ele testa os resultados em um passeio nostálgico pelas ruas de Manhattan."
+    },
+    {
+      "show_name": "Carros dos Sonhos com Robert Downey Jr.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_carros-dos-sonhos-com-robert-downey-jr-s01e04-stingray-eletrico_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - Stingray Elétrico",
       "start_time": "06:20",
       "end_time": "06:50",
-      "episode_description": "Alessa e Michelle querem surpreender o pai delas restaurando o seu Mustang Clássico de 1965, com a ajuda do especialista Martín Vaca. Enquanto a equipe enfrenta desafios na restauração, Martín também trabalha em uma van com cauda de avião."
+      "episode_description": "Depois de uma corrida contra o Corvette 71 de Mazzilli, Robert testa a compostura de seus amigos mecânicos puristas insistindo em converter seu Corvette 1965 perfeito e original em um carro elétrico antes da revanche."
     }
   ]
 }

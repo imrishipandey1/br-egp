@@ -1,190 +1,150 @@
 {
   "channel": "Fox Sports",
-  "date": "10/01/2026",
+  "date": "11/01/2026",
   "schedule": [
     {
-      "show_name": "F1: The Inside Line",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_auto-racing-f1-the-inside-line_l_m.webp",
-      "show_category": "",
-      "start_time": "00:50",
-      "end_time": "01:20",
-      "episode_description": "Veja a cobertura completa da Fórmula 1, a maior e mais badalada categoria do automobilismo mundial. Acompanhe as principais notícias da semana, os bastidores, entrevistas exclusivas e reportagens especiais."
-    },
-    {
-      "show_name": "Getafe x Real Sociedad",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-getafe-x-real-sociedad_l_m.webp",
-      "show_category": "Campeonato Espanhol",
-      "start_time": "01:20",
-      "end_time": "03:30",
-      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
-    },
-    {
-      "show_name": "Premier League Stories",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-premier-league-stories_l_m.webp",
-      "show_category": "",
-      "start_time": "03:30",
-      "end_time": "04:00",
-      "episode_description": "Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês."
-    },
-    {
       "show_name": "Inside Serie A",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-inside-serie-a_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-inside-serie-a_l_m.jpg",
       "show_category": "",
-      "start_time": "04:00",
-      "end_time": "04:30",
+      "start_time": "00:30",
+      "end_time": "01:00",
       "episode_description": "Uma previsão sobre os próximos jogos do Campeonato Italiano."
     },
     {
-      "show_name": "Milan x Genoa",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-milan-x-genoa_l_m.webp",
-      "show_category": "Campeonato Italiano",
-      "start_time": "04:30",
-      "end_time": "05:00",
-      "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
-    },
-    {
-      "show_name": "Rally Dakar 2026",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/fallback_sport_l_m.webp",
+      "show_name": "F1: The Inside Line",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_auto-racing-f1-the-inside-line_l_m.jpg",
       "show_category": "",
-      "start_time": "06:30",
-      "end_time": "07:30",
-      "episode_description": "Destaques e acontecimentos da 48ª edição do Rally Dakar, disputado em Yahu, Arábia Saudita."
+      "start_time": "01:00",
+      "end_time": "01:25",
+      "episode_description": "Veja a cobertura completa da Fórmula 1, a maior e mais badalada categoria do automobilismo mundial. Acompanhe as principais notícias da semana, os bastidores, entrevistas exclusivas e reportagens especiais."
     },
     {
-      "show_name": "Wrexham x Nottingham Forest",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-wrexham-x-nottingham-forest_l_m.webp",
-      "show_category": "Copa da Inglaterra",
-      "start_time": "07:30",
-      "end_time": "09:30",
-      "episode_description": "Criada em 1871, a FA Cup é o torneio de futebol mais antigo do planeta. Reúne os principais times da Inglaterra contra diversos de todo país, em eliminatórias simples. São quase 800 clubes buscando uma vaga na final."
-    },
-    {
-      "show_name": "Ecos da Libertadores 2025",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_special-ecos-da-libertadores-2025_l_m.webp",
-      "show_category": "",
-      "start_time": "09:30",
-      "end_time": "10:30",
-      "episode_description": "Apresentadores, narradores e comentaristas lembram momentos marcantes das transmissões de futebol internacional dos canais ESPN."
-    },
-    {
-      "show_name": "Premier League Stories",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-premier-league-stories_l_m.webp",
-      "show_category": "",
-      "start_time": "10:30",
-      "end_time": "11:00",
-      "episode_description": "Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês."
-    },
-    {
-      "show_name": "Getafe x Real Sociedad",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-getafe-x-real-sociedad_l_m.webp",
-      "show_category": "Campeonato Espanhol",
-      "start_time": "11:00",
-      "end_time": "13:00",
-      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
-    },
-    {
-      "show_name": "Show da Rodada da EFL",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-show-da-rodada-da-efl_l_m.webp",
-      "show_category": "",
-      "start_time": "13:00",
-      "end_time": "13:30",
-      "episode_description": "Os destaques das partidas da EFL Championship, segunda divisão de futebol masculino da Inglaterra."
-    },
-    {
-      "show_name": "Show da Rodada do Italiano",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-show-da-rodada-do-italiano_l_m.webp",
-      "show_category": "",
-      "start_time": "13:30",
-      "end_time": "14:00",
-      "episode_description": "Os principais destaques das partidas da Lega Serie A, primeira divisão do Campeonato Italiano de futebol masculino, com os gols, melhores lances e situação da tabela de classificação após cada rodada disputada."
+      "show_name": "Final: Vitória de Guimarães x Braga",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-final-vitoria-de-guimar-es-x-braga_l_m.jpg",
+      "show_category": "Taça da Liga de Portugal",
+      "start_time": "01:25",
+      "end_time": "03:30",
+      "episode_description": "Pela grande decisão, em jogo único, Vitória de Guimarães e Braga se enfrentam no Estádio Dr. Magalhães Pessoa, em Leiria, Portugal. O Vitória busca o título inédito da competição, enquanto o Braga foi campeão em 2012-2013, 2019-2020 e 2023-2024."
     },
     {
       "show_name": "Show da Rodada do Inglês",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-show-da-rodada-do-ingles_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-do-ingles_l_m.jpg",
       "show_category": "",
-      "start_time": "14:00",
-      "end_time": "14:30",
+      "start_time": "03:30",
+      "end_time": "04:00",
       "episode_description": "O programa traz todos os pormenores da rodada do campeonato inglês com as pontuações dos clubes, gols e lances mais bonitos."
     },
     {
-      "show_name": "Mina de Passe",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_mina-de-passe_l_m.webp",
-      "show_category": "Sports talk",
-      "start_time": "14:30",
-      "end_time": "15:30",
-      "episode_description": "Acompanhe tudo sobre o futebol feminino."
-    },
-    {
-      "show_name": "Show da Rodada de La Liga",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-show-da-rodada-de-la-liga_l_m.webp",
+      "show_name": "Show da Rodada do Italiano",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-do-italiano_l_m.jpg",
       "show_category": "",
-      "start_time": "15:30",
-      "end_time": "16:00",
-      "episode_description": ".Todos os gols e os principais lances da rodada de La Liga, primeira divisão do Campeonato Espanhol."
+      "start_time": "04:00",
+      "end_time": "04:30",
+      "episode_description": "Os principais destaques das partidas da Lega Serie A, primeira divisão do Campeonato Italiano de futebol masculino, com os gols, melhores lances e situação da tabela de classificação após cada rodada disputada."
     },
     {
-      "show_name": "Inside Serie A",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-inside-serie-a_l_m.webp",
+      "show_name": "Moto GP",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_motorcycle-racing-moto-gp-1_l_m.jpg",
       "show_category": "",
-      "start_time": "16:00",
-      "end_time": "16:30",
-      "episode_description": "Uma previsão sobre os próximos jogos do Campeonato Italiano."
+      "start_time": "04:30",
+      "end_time": "05:30",
+      "episode_description": "Destaques e principais acontecimentos das maiores competições de motovelocidade do mundo."
     },
     {
-      "show_name": "F1: The Inside Line",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_auto-racing-f1-the-inside-line_l_m.webp",
-      "show_category": "",
-      "start_time": "16:30",
-      "end_time": "17:00",
-      "episode_description": "Veja a cobertura completa da Fórmula 1, a maior e mais badalada categoria do automobilismo mundial. Acompanhe as principais notícias da semana, os bastidores, entrevistas exclusivas e reportagens especiais."
-    },
-    {
-      "show_name": "Rally Dakar 2026",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/fallback_sport_l_m.webp",
-      "show_category": "",
-      "start_time": "17:00",
-      "end_time": "17:55",
-      "episode_description": "Destaques e acontecimentos da 48ª edição do Rally Dakar, disputado em Yahu, Arábia Saudita."
-    },
-    {
-      "show_name": "Arsenal x Manchester United",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-arsenal-x-manchester-united-1_l_m.webp",
-      "show_category": "Campeonato Inglês Feminino",
-      "start_time": "17:55",
-      "end_time": "20:00",
-      "episode_description": "Todas as emoções da principal competição de futebol feminino entre clubes da Inglaterra."
-    },
-    {
-      "show_name": "Momento ESPN",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_documentary-momento-espn_l_m.webp",
-      "show_category": "",
-      "start_time": "20:00",
-      "end_time": "20:25",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Newcastle United x Bournemouth",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-newcastle-united-x-bournemouth_l_m.webp",
+      "show_name": "Charlton x Chelsea",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-charlton-x-chelsea_l_m.jpg",
       "show_category": "Copa da Inglaterra",
-      "start_time": "20:25",
-      "end_time": "22:25",
+      "start_time": "06:30",
+      "end_time": "08:30",
       "episode_description": "Criada em 1871, a FA Cup é o torneio de futebol mais antigo do planeta. Reúne os principais times da Inglaterra contra diversos de todo país, em eliminatórias simples. São quase 800 clubes buscando uma vaga na final."
     },
     {
-      "show_name": "Roma x Sassuolo",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-roma-x-sassuolo_l_m.webp",
-      "show_category": "Campeonato Italiano",
-      "start_time": "22:25",
-      "end_time": "00:30",
-      "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
+      "show_name": "Premier League Stories",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-premier-league-stories_l_m.jpg",
+      "show_category": "",
+      "start_time": "08:30",
+      "end_time": "09:00",
+      "episode_description": "Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês."
     },
     {
-      "show_name": "Rally Dakar 2026",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/fallback_sport_l_m.webp",
+      "show_name": "F1: The Inside Line",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_auto-racing-f1-the-inside-line_l_m.jpg",
       "show_category": "",
-      "start_time": "05:30",
-      "end_time": "06:00",
-      "episode_description": "Destaques e acontecimentos da 48ª edição do Rally Dakar, disputado em Yahu, Arábia Saudita."
+      "start_time": "09:00",
+      "end_time": "09:30",
+      "episode_description": "Veja a cobertura completa da Fórmula 1, a maior e mais badalada categoria do automobilismo mundial. Acompanhe as principais notícias da semana, os bastidores, entrevistas exclusivas e reportagens especiais."
+    },
+    {
+      "show_name": "Bola da Vez",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bola-da-vez_l_m.jpg",
+      "show_category": "Sports talk",
+      "start_time": "09:30",
+      "end_time": "10:30",
+      "episode_description": "Grandes personalidades do esporte nacional e internacional são colocadas no \"paredão\" e respondem às perguntas de uma bancada de entrevistadores formada por jornalistas, ex-atletas ou especialistas em geral."
+    },
+    {
+      "show_name": "Tottenham Hotspur x Aston Villa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-tottenham-hotspur-x-aston-villa-1_l_m.jpg",
+      "show_category": "Copa da Inglaterra",
+      "start_time": "10:30",
+      "end_time": "12:30",
+      "episode_description": "Criada em 1871, a FA Cup é o torneio de futebol mais antigo do planeta. Reúne os principais times da Inglaterra contra diversos de todo país, em eliminatórias simples. São quase 800 clubes buscando uma vaga na final."
+    },
+    {
+      "show_name": "Valencia x Elche CF",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-valencia-x-elche-cf_l_m.jpg",
+      "show_category": "Campeonato Espanhol",
+      "start_time": "12:30",
+      "end_time": "14:30",
+      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
+    },
+    {
+      "show_name": "Bola da Vez",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bola-da-vez_l_m.jpg",
+      "show_category": "Sports talk",
+      "start_time": "14:30",
+      "end_time": "15:30",
+      "episode_description": "Grandes personalidades do esporte nacional e internacional são colocadas no \"paredão\" e respondem às perguntas de uma bancada de entrevistadores formada por jornalistas, ex-atletas ou especialistas em geral."
+    },
+    {
+      "show_name": "Manchester City x Exeter City",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-manchester-city-x-exeter-city_l_m.jpg",
+      "show_category": "Copa da Inglaterra",
+      "start_time": "15:30",
+      "end_time": "17:25",
+      "episode_description": "Criada em 1871, a FA Cup é o torneio de futebol mais antigo do planeta. Reúne os principais times da Inglaterra contra diversos de todo país, em eliminatórias simples. São quase 800 clubes buscando uma vaga na final."
+    },
+    {
+      "show_name": "Chelsea x West Ham United",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-chelsea-x-west-ham-united_l_m.jpg",
+      "show_category": "Campeonato Inglês Feminino",
+      "start_time": "17:25",
+      "end_time": "19:30",
+      "episode_description": "Todas as emoções da principal competição de futebol feminino entre clubes da Inglaterra."
+    },
+    {
+      "show_name": "SportsCenter Abre o Jogo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sports-talk-sportscenter-abre-o-jogo_l_m.jpg",
+      "show_category": "",
+      "start_time": "19:30",
+      "end_time": "19:55",
+      "episode_description": "Os preparativos para os principais eventos esportivos do Brasil e do mundo."
+    },
+    {
+      "show_name": "West Ham x Queens Park Rangers",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-west-ham-x-queens-park-rangers_l_m.jpg",
+      "show_category": "Copa da Inglaterra",
+      "start_time": "19:55",
+      "end_time": "22:00",
+      "episode_description": "Criada em 1871, a FA Cup é o torneio de futebol mais antigo do planeta. Reúne os principais times da Inglaterra contra diversos de todo país, em eliminatórias simples. São quase 800 clubes buscando uma vaga na final."
+    },
+    {
+      "show_name": "Derby County x Leeds United",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-derby-county-x-leeds-united-3_l_m.jpg",
+      "show_category": "Copa da Inglaterra",
+      "start_time": "22:00",
+      "end_time": "00:00",
+      "episode_description": "Criada em 1871, a FA Cup é o torneio de futebol mais antigo do planeta. Reúne os principais times da Inglaterra contra diversos de todo país, em eliminatórias simples. São quase 800 clubes buscando uma vaga na final."
     }
   ]
 }
