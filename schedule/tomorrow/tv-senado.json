@@ -1,10 +1,10 @@
 {
   "channel": "Tv Senado",
-  "date": "11/01/2026",
+  "date": "12/01/2026",
   "schedule": [
     {
       "show_name": "Espaço Cultural",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_espaco-cultural-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_espaco-cultural-1_l_m.jpg",
       "show_category": "Music",
       "start_time": "00:30",
       "end_time": "01:30",
@@ -12,23 +12,23 @@
     },
     {
       "show_name": "EcoSenado",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_ecosenado-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ecosenado-1_l_m.jpg",
       "show_category": "Environment",
       "start_time": "01:30",
       "end_time": "02:00",
       "episode_description": "Assuntos relevantes e que impactam o meio ambiente com participação de especialistas, políticos, biólogos e lideranças comunitárias."
     },
     {
-      "show_name": "Guerras do Brasil.Doc",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_guerras-do-brasil-doc_l_m.webp",
-      "show_category": "Documentary",
+      "show_name": "Coleções",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_colec-es_l_m.jpg",
+      "show_category": "Entertainment",
       "start_time": "02:00",
       "end_time": "02:30",
-      "episode_description": "A Guerra dos Palmares escancara um período que deixa marcas no país até hoje, desenvolvendo uma sociedade injusta, racista e preconceituosa."
+      "episode_description": "O episódio apresenta a cidade de Pirenópolis, em Goiás, por seus aspectos históricos e culturais goianos, por meio das manifestações folclóricas relacionadas à festa da Cavalhada, e pelo turismo de natureza."
     },
     {
       "show_name": "Concertos em Geral",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_concertos-em-geral_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_concertos-em-geral_l_m.jpg",
       "show_category": "Music",
       "start_time": "02:30",
       "end_time": "03:30",
@@ -36,219 +36,179 @@
     },
     {
       "show_name": "Leituras",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_leituras_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_leituras_l_m.jpg",
       "show_category": "Art",
       "start_time": "03:30",
       "end_time": "04:00",
       "episode_description": "Uma poesia marcada pela sonoridade e pelo ritmo. Assim é a poesia de Luci Collin, que lança \"Combinados\", uma reunião de todo o seu trabalho de quarenta anos."
     },
     {
-      "show_name": "Coleções",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_colec-es_l_m.webp",
-      "show_category": "Entertainment",
+      "show_name": "Guerras do Brasil.Doc",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_guerras-do-brasil-doc_l_m.jpg",
+      "show_category": "Documentary",
       "start_time": "04:00",
       "end_time": "04:30",
-      "episode_description": "O episódio apresenta a cidade de Pirenópolis, em Goiás, por seus aspectos históricos e culturais goianos, por meio das manifestações folclóricas relacionadas à festa da Cavalhada, e pelo turismo de natureza."
+      "episode_description": "A Guerra dos Palmares escancara um período que deixa marcas no país até hoje, desenvolvendo uma sociedade injusta, racista e preconceituosa."
     },
     {
       "show_name": "Estúdio A",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_estudio-a_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_estudio-a_l_m.jpg",
       "show_category": "Music",
       "start_time": "04:30",
       "end_time": "05:30",
       "episode_description": "Programa celebra o cantor e compositor Lô Borges, um dos fundadores do movimento musical Clube da Esquina, e ícone da música popular brasileira."
     },
     {
-      "show_name": "Jango",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_jango-1984_l_m.webp",
-      "show_category": "Documentary / 1984 / 7.7",
-      "start_time": "05:30",
-      "end_time": "07:20",
-      "episode_description": "A trajetória política de João Goulart, o 24º presidente brasileiro, que foi deposto por um golpe militar nas primeiras horas de 1º de abril de 1964."
-    },
-    {
-      "show_name": "Arte no Caos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_arte-no-caos_l_m.webp",
-      "show_category": "Special",
-      "start_time": "07:20",
-      "end_time": "08:02",
-      "episode_description": "O processo criativo do artista Vik Muniz durante a elaboração da obra \"8 de Janeiro de 2023\", criada a partir de destroços dos atos ocorridos naquela data. A tela foi doada ao Senado."
-    },
-    {
-      "show_name": "100 Anos de Cultura e Conflitos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_100-anos-de-cultura-e-conflitos_l_m.webp",
-      "show_category": "Documentary",
-      "start_time": "08:02",
-      "end_time": "08:30",
-      "episode_description": "Veja os eventos que marcaram a história do Brasil desde a Semana de Arte Moderna até os dias atuais."
-    },
-    {
-      "show_name": "Estúdio A",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_estudio-a_l_m.webp",
-      "show_category": "Music",
-      "start_time": "08:30",
-      "end_time": "09:30",
-      "episode_description": "Programa celebra o cantor e compositor Lô Borges, um dos fundadores do movimento musical Clube da Esquina, e ícone da música popular brasileira."
-    },
-    {
-      "show_name": "Jango",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_jango-1984_l_m.webp",
-      "show_category": "Documentary / 1984 / 7.7",
-      "start_time": "09:30",
-      "end_time": "11:20",
-      "episode_description": "A trajetória política de João Goulart, o 24º presidente brasileiro, que foi deposto por um golpe militar nas primeiras horas de 1º de abril de 1964."
-    },
-    {
-      "show_name": "Arte no Caos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_arte-no-caos_l_m.webp",
-      "show_category": "Special",
-      "start_time": "11:20",
-      "end_time": "12:03",
-      "episode_description": "O processo criativo do artista Vik Muniz durante a elaboração da obra \"8 de Janeiro de 2023\", criada a partir de destroços dos atos ocorridos naquela data. A tela foi doada ao Senado."
-    },
-    {
-      "show_name": "100 Anos de Cultura e Conflitos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_100-anos-de-cultura-e-conflitos_l_m.webp",
-      "show_category": "Documentary",
-      "start_time": "12:03",
-      "end_time": "12:30",
-      "episode_description": "Veja os eventos que marcaram a história do Brasil desde a Semana de Arte Moderna até os dias atuais."
-    },
-    {
       "show_name": "O Dia que Durou 21 Anos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_o-dia-que-durou-21-anos-2013_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-dia-que-durou-21-anos-2013_l_m.jpg",
       "show_category": "Special",
-      "start_time": "12:30",
-      "end_time": "13:50",
+      "start_time": "05:30",
+      "end_time": "06:50",
       "episode_description": "Em clima de suspense e ação, o documentário apresenta, em três episódios, os bastidores da participação do governo dos Estados Unidos no golpe militar de 1964, que durou até 1985 e instaurou a ditadura no Brasil."
     },
     {
       "show_name": "35 - O Assalto ao Poder",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_35-o-assalto-ao-poder-2002_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_35-o-assalto-ao-poder-2002_l_m.jpg",
       "show_category": "Documentary / 2002 / 7.2",
-      "start_time": "13:50",
-      "end_time": "15:30",
+      "start_time": "06:50",
+      "end_time": "08:30",
       "episode_description": "O ano de 1935 estava chegando ao fim quando três levantes militares, em três diferentes capitais brasileiras, tentaram derrubar o governo de Getúlio Vargas."
     },
     {
-      "show_name": "Envelhecer",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_envelhecer_l_m.webp",
-      "show_category": "Health",
-      "start_time": "15:30",
-      "end_time": "16:30",
-      "episode_description": "Uma reflexão sobre o lugar social da velhice no cotidiano com histórias e heranças que enriquecem a experiência no grupo intergeracional. Neste episódio, é ressaltado que o ideal de uma sociedade é não precisar fazer esforços para aproximar gerações."
+      "show_name": "Guerras do Brasil.Doc",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_guerras-do-brasil-doc_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "08:30",
+      "end_time": "09:00",
+      "episode_description": "A Guerra dos Palmares escancara um período que deixa marcas no país até hoje, desenvolvendo uma sociedade injusta, racista e preconceituosa."
     },
     {
-      "show_name": "Em Discussão",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_em-discuss-o-2_l_m.webp",
-      "show_category": "Educational",
+      "show_name": "Espaço Cultural",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_espaco-cultural-1_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "episode_description": "Alberto Salgado lança seu novo álbum \"Tutorial de Ebó\", com dez faixas autorais, no palco do Clube do Choro em Brasília."
+    },
+    {
+      "show_name": "O Presidente Improvável",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-presidente-improvavel-2022_l_m.jpg",
+      "show_category": "Documentary / 2022",
+      "start_time": "10:00",
+      "end_time": "11:45",
+      "episode_description": "Fernando Henrique Cardoso, ex-presidente da república, se reúne com amigos e colegas de longa data para refletir sobre a sua trajetória e a do próprio país. Entre os seus interlocutores, figuram personagens ilustres como Bill Clinton."
+    },
+    {
+      "show_name": "Jango",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jango-1984_l_m.jpg",
+      "show_category": "Documentary / 1984 / 7.7",
+      "start_time": "11:45",
+      "end_time": "13:34",
+      "episode_description": "A trajetória política de João Goulart, o 24º presidente brasileiro, que foi deposto por um golpe militar nas primeiras horas de 1º de abril de 1964."
+    },
+    {
+      "show_name": "Arte no Caos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_arte-no-caos_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "13:34",
+      "end_time": "14:15",
+      "episode_description": "O processo criativo do artista Vik Muniz durante a elaboração da obra \"8 de Janeiro de 2023\", criada a partir de destroços dos atos ocorridos naquela data. A tela foi doada ao Senado."
+    },
+    {
+      "show_name": "100 Anos de Cultura e Conflitos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_100-anos-de-cultura-e-conflitos_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "14:15",
+      "end_time": "14:41",
+      "episode_description": "Veja os eventos que marcaram a história do Brasil desde a Semana de Arte Moderna até os dias atuais."
+    },
+    {
+      "show_name": "1930 - Tempo de Revolução",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_1930-tempo-de-revoluc-o_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "14:41",
+      "end_time": "15:30",
+      "episode_description": "Movimentos políticos ocorridos antes da Revolução de 1930, por meio de imagens de arquivos inéditas e depoimentos de historiadores, tentam esclarecer esse momento crucial e ainda mal compreendido da história brasileira."
+    },
+    {
+      "show_name": "Coleções",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_colec-es_l_m.jpg",
+      "show_category": "Entertainment",
+      "start_time": "15:30",
+      "end_time": "16:00",
+      "episode_description": "O episódio apresenta a cidade de Pirenópolis, em Goiás, por seus aspectos históricos e culturais goianos, por meio das manifestações folclóricas relacionadas à festa da Cavalhada, e pelo turismo de natureza."
+    },
+    {
+      "show_name": "Parlamento Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "16:00",
+      "end_time": "16:30",
+      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
+    },
+    {
+      "show_name": "Cidadania",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidadania_l_m.jpg",
+      "show_category": "Interview",
       "start_time": "16:30",
       "end_time": "17:00",
-      "episode_description": "As principais discussões realizadas nas audiências públicas promovidas pelo Senado."
+      "episode_description": "Entrevistas semanais sobre assuntos da atualidade, com a participação de parlamentares, especialistas e representantes de organizações sociais."
     },
     {
       "show_name": "TV Senado Live",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_tv-senado-live_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tv-senado-live_l_m.jpg",
       "show_category": "Politics",
       "start_time": "17:00",
       "end_time": "17:30",
       "episode_description": "Veja entrevistas com a participação do público sobre os grandes temas em pauta no país."
     },
     {
-      "show_name": "EcoSenado",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_ecosenado-1_l_m.webp",
-      "show_category": "Environment",
+      "show_name": "Comissão de Direitos Humanos e Legislação Participativa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o-de-direitos-humanos-e-legislac-o-participativa_l_m.jpg",
+      "show_category": "Politics",
       "start_time": "17:30",
-      "end_time": "18:00",
-      "episode_description": "Assuntos relevantes e que impactam o meio ambiente com participação de especialistas, políticos, biólogos e lideranças comunitárias."
-    },
-    {
-      "show_name": "Salão Nobre",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_sal-o-nobre_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "18:00",
-      "end_time": "18:30",
-      "episode_description": "O senador Flávio Arns, PSB-PR, relator do projeto do ECA Digital, ressalta que a nova lei tem como objetivo garantir a proteção de crianças e adolescentes no meio digital."
-    },
-    {
-      "show_name": "Concertos em Geral",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_concertos-em-geral_l_m.webp",
-      "show_category": "Music",
-      "start_time": "18:30",
-      "end_time": "19:30",
-      "episode_description": "Interpretações de grandes obras da música clássica universal, com informações e curiosidades sobre os instrumentos, a vida e a obra dos compositores."
-    },
-    {
-      "show_name": "Estúdio A",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_estudio-a_l_m.webp",
-      "show_category": "Music",
-      "start_time": "19:30",
-      "end_time": "20:30",
-      "episode_description": "Programa celebra o cantor e compositor Lô Borges, um dos fundadores do movimento musical Clube da Esquina, e ícone da música popular brasileira."
-    },
-    {
-      "show_name": "Parlamento Brasil",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_parlamento-brasil_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "20:30",
-      "end_time": "21:00",
-      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
-    },
-    {
-      "show_name": "Agenda Econômica",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_agenda-economica-1_l_m.webp",
-      "show_category": "Bus./financial",
-      "start_time": "21:00",
       "end_time": "21:30",
-      "episode_description": "Economistas, formuladores de políticas públicas, acadêmicos, intelectuais e parlamentares analisam questões da economia nacional e internacional."
+      "episode_description": "Reuniões, audiências e debates da Comissão de Direitos Humanos e Legislação Participativa."
     },
     {
-      "show_name": "EcoSenado",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_ecosenado-1_l_m.webp",
-      "show_category": "Environment",
+      "show_name": "Em Discussão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_em-discuss-o-2_l_m.jpg",
+      "show_category": "Educational",
       "start_time": "21:30",
       "end_time": "22:00",
-      "episode_description": "Assuntos relevantes e que impactam o meio ambiente com participação de especialistas, políticos, biólogos e lideranças comunitárias."
+      "episode_description": "As principais discussões realizadas nas audiências públicas promovidas pelo Senado."
     },
     {
-      "show_name": "Cidadania",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_cidadania_l_m.webp",
-      "show_category": "Interview",
+      "show_name": "Assunto de Estado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_assunto-de-estado_l_m.jpg",
+      "show_category": "Politics",
       "start_time": "22:00",
       "end_time": "22:30",
-      "episode_description": "Entrevistas semanais sobre assuntos da atualidade, com a participação de parlamentares, especialistas e representantes de organizações sociais."
+      "episode_description": "A senadora Dra. Eudócia, PL, comenta avanços em saúde, educação, emprego e turismo em Alagoas, com destaque para o programa \"Olhar da Gente\" e o combate ao câncer."
     },
     {
-      "show_name": "100 Anos de Cultura e Conflitos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_100-anos-de-cultura-e-conflitos_l_m.webp",
-      "show_category": "Documentary",
+      "show_name": "Sessão Plenária",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sess-o-plenaria-1_l_m.jpg",
+      "show_category": "Politics",
       "start_time": "22:30",
-      "end_time": "23:00",
-      "episode_description": "Veja os eventos que marcaram a história do Brasil desde a Semana de Arte Moderna até os dias atuais."
+      "end_time": "23:33",
+      "episode_description": "Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade."
     },
     {
-      "show_name": "Leituras",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_leituras_l_m.webp",
-      "show_category": "Art",
-      "start_time": "23:00",
-      "end_time": "23:30",
-      "episode_description": "Uma poesia marcada pela sonoridade e pelo ritmo. Assim é a poesia de Luci Collin, que lança \"Combinados\", uma reunião de todo o seu trabalho de quarenta anos."
+      "show_name": "Sessão Plenária",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sess-o-plenaria-1_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "23:33",
+      "end_time": "01:53",
+      "episode_description": "Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade."
     },
     {
-      "show_name": "Estúdio A",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_estudio-a_l_m.webp",
-      "show_category": "Music",
-      "start_time": "23:30",
-      "end_time": "00:30",
-      "episode_description": "Programa celebra o cantor e compositor Lô Borges, um dos fundadores do movimento musical Clube da Esquina, e ícone da música popular brasileira."
-    },
-    {
-      "show_name": "O Dia que Durou 21 Anos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_o-dia-que-durou-21-anos-2013_l_m.webp",
-      "show_category": "Special",
+      "show_name": "Jango",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jango-1984_l_m.jpg",
+      "show_category": "Documentary / 1984 / 7.7",
       "start_time": "05:30",
       "end_time": "06:00",
-      "episode_description": "Em clima de suspense e ação, o documentário apresenta, em três episódios, os bastidores da participação do governo dos Estados Unidos no golpe militar de 1964, que durou até 1985 e instaurou a ditadura no Brasil."
+      "episode_description": "A trajetória política de João Goulart, o 24º presidente brasileiro, que foi deposto por um golpe militar nas primeiras horas de 1º de abril de 1964."
     }
   ]
 }

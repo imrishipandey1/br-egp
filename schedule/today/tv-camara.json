@@ -1,230 +1,222 @@
 {
   "channel": "Tv Camara",
-  "date": "10/01/2026",
+  "date": "11/01/2026",
   "schedule": [
     {
-      "show_name": "Palavra Aberta",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_palavra-aberta-1_l_m.webp",
-      "show_category": "Interview",
-      "start_time": "02:00",
-      "end_time": "02:15",
-      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
-    },
-    {
-      "show_name": "Palavra Aberta",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_palavra-aberta-1_l_m.webp",
-      "show_category": "Interview",
-      "start_time": "02:15",
-      "end_time": "02:30",
-      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
-    },
-    {
-      "show_name": "Bora Entender?",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_bora-entender_l_m.webp",
+      "show_name": "100 Anos de Cultura e Conflitos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_100-anos-de-cultura-e-conflitos_l_m.jpg",
       "show_category": "Documentary",
-      "start_time": "02:30",
-      "end_time": "03:30",
-      "episode_description": "Explicação didática de temas que estão presentes no debate político, de forma imparcial, apresentando todas as visões envolvidas, para que o público entenda a questão e tire suas próprias conclusões."
-    },
-    {
-      "show_name": "Retrospectiva 2025",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_retrospectiva-2025_l_m.webp",
-      "show_category": "Special",
-      "start_time": "03:30",
-      "end_time": "04:30",
-      "episode_description": ""
+      "start_time": "00:30",
+      "end_time": "01:00",
+      "episode_description": "Veja os eventos que marcaram a história do Brasil desde a Semana de Arte Moderna até os dias atuais."
     },
     {
       "show_name": "Ponto de Vista",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_ponto-de-vista-2009_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ponto-de-vista-2009_l_m.jpg",
       "show_category": "History",
-      "start_time": "04:30",
-      "end_time": "05:00",
+      "start_time": "01:00",
+      "end_time": "01:30",
       "episode_description": "Convidados especiais discutem a respeito de temas relevantes da história mundial."
     },
     {
-      "show_name": "Elas Pautam",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_elas-pautam_l_m.webp",
+      "show_name": "Palavra Aberta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "01:30",
+      "end_time": "01:45",
+      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
+    },
+    {
+      "show_name": "Palavra Aberta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "01:45",
+      "end_time": "02:00",
+      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
+    },
+    {
+      "show_name": "Participação Popular",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_participac-o-popular-1_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "05:00",
-      "end_time": "05:30",
-      "episode_description": "O programa conta com a participação de duas parlamentares, em uma conversa informal sobre temas diversos de interesse da bancada feminina."
-    },
-    {
-      "show_name": "Brasília Capital Brasileira do Futebol Mundial",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_brasilia-capital-brasileira-do-futebol-mundial_l_m.webp",
-      "show_category": "Special",
-      "start_time": "06:30",
-      "end_time": "07:30",
-      "episode_description": "Veja a atmosfera vivida por visitantes e moradores de Brasília durante os jogos da Copa de 2014 que ocorreram na capital."
-    },
-    {
-      "show_name": "Ciência sem Limites",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_ciencia-sem-limites_l_m.webp",
-      "show_category": "Science",
-      "start_time": "07:30",
-      "end_time": "08:00",
-      "episode_description": "O programa é um espaço de divulgação da ciência em diferentes áreas. Saiba mais sobre as pesquisas, obras e avanços tecnológicos produzidos pelos pesquisadores da Unesp."
-    },
-    {
-      "show_name": "Palavra Aberta",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_palavra-aberta-1_l_m.webp",
-      "show_category": "Interview",
-      "start_time": "08:00",
-      "end_time": "08:15",
-      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
-    },
-    {
-      "show_name": "Palavra Aberta",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_palavra-aberta-1_l_m.webp",
-      "show_category": "Interview",
-      "start_time": "08:15",
-      "end_time": "08:30",
-      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
-    },
-    {
-      "show_name": "Cerâmica Ancestral do Vale do Jequitinhonha",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_ceramica-ancestral-do-vale-do-jequitinhonha_l_m.webp",
-      "show_category": "Special",
-      "start_time": "08:30",
-      "end_time": "08:45",
-      "episode_description": "Cerâmica Ancestral dá lugar à dignidade e o barro se transforma em futuro."
-    },
-    {
-      "show_name": "Quilombo Cultural da Liberdade",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_quilombo-cultural-da-liberdade_l_m.webp",
-      "show_category": "Special",
-      "start_time": "08:45",
-      "end_time": "09:00",
-      "episode_description": "O bairro da Liberdade sempre foi reduto de muita cultura tradicional, mas tinha a fama de ser um local violento, a ser evitado. Nos últimos anos, os moradores e fazedores de cultura implantaram estratégias para mudar a visão sobre o bairro."
+      "start_time": "02:00",
+      "end_time": "03:00",
+      "episode_description": "O programa reúne deputados, analistas e o público ao vivo para saber o que o cidadão comum acha dos temas discutidos no Congresso."
     },
     {
       "show_name": "Parlamento Brasil",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_parlamento-brasil_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "09:00",
-      "end_time": "09:30",
+      "start_time": "03:00",
+      "end_time": "03:30",
       "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
     },
     {
+      "show_name": "Encontro com o Autor",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_encontro-com-o-autor_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "03:30",
+      "end_time": "04:30",
+      "episode_description": "Parceria entre o Centro Cultural e o Centro de Documentação e Informação da Câmara dos Deputados. A autora ou o autor convidado fala sobre sua obra e os participantes podem dirigir perguntas a ela ou ele sobre seu estilo e influências."
+    },
+    {
+      "show_name": "Ciência sem Limites",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ciencia-sem-limites_l_m.jpg",
+      "show_category": "Science",
+      "start_time": "04:30",
+      "end_time": "05:00",
+      "episode_description": "O programa é um espaço de divulgação da ciência em diferentes áreas. Saiba mais sobre as pesquisas, obras e avanços tecnológicos produzidos pelos pesquisadores da Unesp."
+    },
+    {
+      "show_name": "Brasília Capital Brasileira do Futebol Mundial",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_brasilia-capital-brasileira-do-futebol-mundial_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "05:00",
+      "end_time": "06:00",
+      "episode_description": "Veja a atmosfera vivida por visitantes e moradores de Brasília durante os jogos da Copa de 2014 que ocorreram na capital."
+    },
+    {
+      "show_name": "Retrospectiva",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_retrospectiva_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "06:30",
+      "end_time": "07:30",
+      "episode_description": "Os principais fatos que foram destaque na Câmara dos Deputados durante o ano."
+    },
+    {
+      "show_name": "Qual a Questão?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_qual-a-quest-o_l_m.jpg",
+      "show_category": "Public affairs",
+      "start_time": "07:30",
+      "end_time": "08:00",
+      "episode_description": "Discussões sobre grandes temas da agenda nacional que mexem com o dia a dia dos brasileiros, como educação, economia, meio ambiente, empregos, tecnologia e saúde. Com participação de especialistas e representantes da sociedade civil."
+    },
+    {
+      "show_name": "Expressão Nacional",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_express-o-nacional-1_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "08:00",
+      "end_time": "09:00",
+      "episode_description": "Confira os debates sobre grandes temas da agenda nacional, com deputados e representantes do Governo e da sociedade civil."
+    },
+    {
+      "show_name": "Interesse Público",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_interesse-publico-1_l_m.jpg",
+      "show_category": "Law",
+      "start_time": "09:00",
+      "end_time": "09:30",
+      "episode_description": "O programa divulga as ações do Ministério Público Federal em benefício do cidadão e da sociedade."
+    },
+    {
       "show_name": "Ponto de Vista",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_ponto-de-vista-2009_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ponto-de-vista-2009_l_m.jpg",
       "show_category": "History",
       "start_time": "09:30",
       "end_time": "10:00",
       "episode_description": "Convidados especiais discutem a respeito de temas relevantes da história mundial."
     },
     {
-      "show_name": "Elas Pautam",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_elas-pautam_l_m.webp",
-      "show_category": "Politics",
+      "show_name": "Aqui É Flamengo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aqui-e-flamengo_l_m.jpg",
+      "show_category": "Special",
       "start_time": "10:00",
       "end_time": "10:30",
-      "episode_description": "O programa conta com a participação de duas parlamentares, em uma conversa informal sobre temas diversos de interesse da bancada feminina."
+      "episode_description": "O Flamengo é o clube mais popular do Nordeste, mesmo que o Rio de Janeiro esteja a milhares de quilômetros de distância. No sertão do Ceará, há um lugarzinho onde a paixão beira a devoção. O nome desse distrito é curioso: Flamengo. Quem nasce lá é flamenguense, e quase todo flamenguense é flamenguista. O documentário conta a história do local em meio a uma visita em um dia histórico para o Rubro-Negro: a final da Copa Libertadores da América de 2019."
     },
     {
       "show_name": "Comissão",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_comiss-o_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o_l_m.jpg",
       "show_category": "Politics",
       "start_time": "10:30",
       "end_time": "15:30",
       "episode_description": "O programa transmite as discussões e votações do plenário."
     },
     {
-      "show_name": "Aqui É Flamengo",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_aqui-e-flamengo_l_m.webp",
-      "show_category": "Special",
+      "show_name": "Retratos da Reforma Psiquiátrica Brasileira",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_retratos-da-reforma-psiquiatrica-brasileira_l_m.jpg",
+      "show_category": "Documentary",
       "start_time": "15:30",
       "end_time": "16:00",
-      "episode_description": "O Flamengo é o clube mais popular do Nordeste, mesmo que o Rio de Janeiro esteja a milhares de quilômetros de distância. No sertão do Ceará, há um lugarzinho onde a paixão beira a devoção. O nome desse distrito é curioso: Flamengo. Quem nasce lá é flamenguense, e quase todo flamenguense é flamenguista. O documentário conta a história do local em meio a uma visita em um dia histórico para o Rubro-Negro: a final da Copa Libertadores da América de 2019."
+      "episode_description": "Ex-internos do sistema psiquiátrico narram suas histórias e recriam suas vidas em liberdade."
     },
     {
-      "show_name": "100 Anos de Cultura e Conflitos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_100-anos-de-cultura-e-conflitos_l_m.webp",
-      "show_category": "Documentary",
+      "show_name": "Qual a Questão?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_qual-a-quest-o_l_m.jpg",
+      "show_category": "Public affairs",
       "start_time": "16:00",
       "end_time": "16:30",
-      "episode_description": "Veja os eventos que marcaram a história do Brasil desde a Semana de Arte Moderna até os dias atuais."
-    },
-    {
-      "show_name": "Expressão Nacional",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_express-o-nacional-1_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "16:30",
-      "end_time": "17:30",
-      "episode_description": "Confira os debates sobre grandes temas da agenda nacional, com deputados e representantes do Governo e da sociedade civil."
+      "episode_description": "Discussões sobre grandes temas da agenda nacional que mexem com o dia a dia dos brasileiros, como educação, economia, meio ambiente, empregos, tecnologia e saúde. Com participação de especialistas e representantes da sociedade civil."
     },
     {
       "show_name": "Cerâmica Ancestral do Vale do Jequitinhonha",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_ceramica-ancestral-do-vale-do-jequitinhonha_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ceramica-ancestral-do-vale-do-jequitinhonha_l_m.jpg",
       "show_category": "Special",
-      "start_time": "17:30",
-      "end_time": "17:45",
+      "start_time": "16:30",
+      "end_time": "16:45",
       "episode_description": "Cerâmica Ancestral dá lugar à dignidade e o barro se transforma em futuro."
     },
     {
       "show_name": "Quilombo Cultural da Liberdade",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_quilombo-cultural-da-liberdade_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quilombo-cultural-da-liberdade_l_m.jpg",
       "show_category": "Special",
-      "start_time": "17:45",
-      "end_time": "18:00",
+      "start_time": "16:45",
+      "end_time": "17:00",
       "episode_description": "O bairro da Liberdade sempre foi reduto de muita cultura tradicional, mas tinha a fama de ser um local violento, a ser evitado. Nos últimos anos, os moradores e fazedores de cultura implantaram estratégias para mudar a visão sobre o bairro."
     },
     {
-      "show_name": "Interesse Público",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_interesse-publico-1_l_m.webp",
-      "show_category": "Law",
-      "start_time": "18:00",
+      "show_name": "Parlamento Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "17:00",
+      "end_time": "17:30",
+      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
+    },
+    {
+      "show_name": "Retrospectiva",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_retrospectiva_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "17:30",
       "end_time": "18:30",
-      "episode_description": "O programa divulga as ações do Ministério Público Federal em benefício do cidadão e da sociedade."
+      "episode_description": "Os principais fatos que foram destaque na Câmara dos Deputados durante o ano."
     },
     {
       "show_name": "Comissão",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_comiss-o_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o_l_m.jpg",
       "show_category": "Politics",
       "start_time": "18:30",
-      "end_time": "21:35",
+      "end_time": "21:30",
       "episode_description": "O programa transmite as discussões e votações do plenário."
     },
     {
-      "show_name": "Retrospectiva 2025",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_retrospectiva-2025_l_m.webp",
-      "show_category": "Special",
-      "start_time": "21:35",
+      "show_name": "Bora Entender?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bora-entender_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "21:30",
       "end_time": "22:30",
-      "episode_description": ""
+      "episode_description": "Explicação didática de temas que estão presentes no debate político, de forma imparcial, apresentando todas as visões envolvidas, para que o público entenda a questão e tire suas próprias conclusões."
     },
     {
       "show_name": "Câmara Debate",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_camara-debate_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_camara-debate_l_m.jpg",
       "show_category": "Politics",
       "start_time": "22:30",
       "end_time": "23:00",
       "episode_description": "A cada programa, dois parlamentares discutem os grandes temas que movimentam os trabalhos na Câmara dos Deputados."
     },
     {
-      "show_name": "Elas Pautam",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_elas-pautam_l_m.webp",
+      "show_name": "Expressão Nacional",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_express-o-nacional-1_l_m.jpg",
       "show_category": "Politics",
       "start_time": "23:00",
-      "end_time": "23:30",
-      "episode_description": "O programa conta com a participação de duas parlamentares, em uma conversa informal sobre temas diversos de interesse da bancada feminina."
+      "end_time": "00:00",
+      "episode_description": "Confira os debates sobre grandes temas da agenda nacional, com deputados e representantes do Governo e da sociedade civil."
     },
     {
-      "show_name": "Brasília Capital Brasileira do Futebol Mundial",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_brasilia-capital-brasileira-do-futebol-mundial_l_m.webp",
-      "show_category": "Special",
-      "start_time": "23:30",
-      "end_time": "00:30",
-      "episode_description": "Veja a atmosfera vivida por visitantes e moradores de Brasília durante os jogos da Copa de 2014 que ocorreram na capital."
-    },
-    {
-      "show_name": "Elas Pautam",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_elas-pautam_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "06:00",
-      "end_time": "06:30",
-      "episode_description": "O programa conta com a participação de duas parlamentares, em uma conversa informal sobre temas diversos de interesse da bancada feminina."
+      "show_name": "Encontro com o Autor",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_encontro-com-o-autor_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "05:30",
+      "end_time": "06:00",
+      "episode_description": "Parceria entre o Centro Cultural e o Centro de Documentação e Informação da Câmara dos Deputados. A autora ou o autor convidado fala sobre sua obra e os participantes podem dirigir perguntas a ela ou ele sobre seu estilo e influências."
     }
   ]
 }

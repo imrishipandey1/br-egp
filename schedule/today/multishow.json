@@ -1,414 +1,446 @@
 {
   "channel": "Multishow",
-  "date": "10/01/2026",
+  "date": "11/01/2026",
   "schedule": [
     {
+      "show_name": "Tapas & Beijos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tapas-beijos-s03e17-mia-mello-e-a-noiva-do-ano-das-vendedoras-de-copacabana_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 17 - Miá Mello É a Noiva do Ano das Vendedoras de Copacabana",
+      "start_time": "00:19",
+      "end_time": "00:54",
+      "episode_description": "Sueli se prontifica a atender uma noiva e ajudar na escolha dos looks das 18 madrinhas que a acompanham, apostando no bom trabalho para garantir uma farta comissão."
+    },
+    {
+      "show_name": "Toma Lá, Dá Cá",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_toma-la-da-ca-s03e06-o-rouxinol-do-jambalaya_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 6 - O Rouxinol do Jambalaya",
+      "start_time": "00:54",
+      "end_time": "01:40",
+      "episode_description": "Após assistir a Susan Boyle, Bozena fica encantada e se põe a cantar. Todos ficam impressionados com a bela voz da polaca e começa uma batalha pelos direitos de agenciá-la."
+    },
+    {
+      "show_name": "A Grande Família",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-grande-familia-s06e27-nunca-houve-uma-mulher-como-gilda_l_m.jpg",
+      "show_category": "Temporada 6 Episódio 27 - Nunca Houve uma Mulher Como Gilda",
+      "start_time": "01:40",
+      "end_time": "02:13",
+      "episode_description": "Marilda ganha ingressos para ir em boate chic com Nenê, mas para conseguir entrar, elas se passam por Gilda e Darci; Lineu e Agostinho se unem para recuperar Taça da sinuca."
+    },
+    {
+      "show_name": "A Grande Família",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-grande-familia-s06e28-dois-filhos-de-lineu_l_m.jpg",
+      "show_category": "Temporada 6 Episódio 28 - Dois Filhos de Lineu",
+      "start_time": "02:13",
+      "end_time": "02:44",
+      "episode_description": "Tuco reprova no concurso da repartição e quem consegue a vaga é seu amigo Fumaça, o mais novo preferido de Lineu; Bebel acredita que receita chinesa de Nenê é afrodisíaca."
+    },
+    {
+      "show_name": "Toma Lá, Dá Cá",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_toma-la-da-ca-s03e07-n-o-tem-p-o-comam-bolo_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 7 - Não Tem Pão, Comam Bolo!",
+      "start_time": "02:44",
+      "end_time": "03:26",
+      "episode_description": "Dona Álvara começa a oferecer presentes para os moradores. Ela quer um terceiro mandato no Jambalaia. Porém, descobrem que a síndica anda roubando diversos objetos pelo condomínio."
+    },
+    {
+      "show_name": "Toma Lá, Dá Cá",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_toma-la-da-ca-s03e08-doze-horas-para-salvar-seu-casamento_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 8 - Doze Horas para Salvar Seu Casamento",
+      "start_time": "03:26",
+      "end_time": "04:10",
+      "episode_description": "Dra. Percy resolve promover um encontro de casais no Jambalaia; Copélia é contratada como terapeuta sexual e Isadora planeja se tornar uma juíza e quer ir à Brasília garantir o cargo."
+    },
+    {
+      "show_name": "Toma Lá, Dá Cá",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_toma-la-da-ca-s03e09-os-politicamente-esquecidos_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 9 - Os Politicamente Esquecidos",
+      "start_time": "04:10",
+      "end_time": "04:54",
+      "episode_description": "Álvara cria a Sepocoja, Secretaria do Politicamente Correto do Jambalaya. Agora, todos precisam tentar virar politicamente corretos; Bozena conta para seus patrões que está grávida."
+    },
+    {
+      "show_name": "Toma Lá, Dá Cá",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_toma-la-da-ca-s03e10-a-tal-da-metalinguagem_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 10 - A Tal da Metalinguagem",
+      "start_time": "04:54",
+      "end_time": "05:36",
+      "episode_description": "Dra. Percy escreve uma novela, \"A Chama de Tupã\", com Mário Jorge e Rita como protagonistas. A turma do Jambalaya não consegue seguir o roteiro e a história fica repleta de confusão."
+    },
+    {
       "show_name": "Vai que Cola",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_vai-que-cola-s01e35-identidade-canto_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-s01e35-identidade-canto_l_m.jpg",
       "show_category": "Temporada 1 Episódio 35 - Identidade: Canto",
-      "start_time": "00:34",
-      "end_time": "01:22",
+      "start_time": "06:22",
+      "end_time": "07:09",
       "episode_description": "A pensão recebe a visita ilustre de Flávio Canto que foi ao Méier gravar um documentário, mas acabou perdendo-se da equipe. Toni Manchette resolve investir no documentário de Canto, e tenta se dar bem às custas de todos."
     },
     {
-      "show_name": "Tapas & Beijos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_tapas-beijos-s03e24-fabio-lago-participa-de-seriado_l_m.webp",
-      "show_category": "Temporada 3 Episódio 24 - Fábio Lago Participa de Seriado",
-      "start_time": "01:22",
-      "end_time": "01:56",
-      "episode_description": "O fiscal Palhares chega para amedrontar os comerciantes de Copacabana com seu bloquinho de multas sempre à mão. É claro que Armane, Seu Chalita, Jorge e cia armam muitas confusões para se livrar das punições da lei."
-    },
-    {
-      "show_name": "Tapas & Beijos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_tapas-beijos-s03e25-um-pc-entre-duas-amigas_l_m.webp",
-      "show_category": "Temporada 3 Episódio 25 - Um PC Entre Duas Amigas",
-      "start_time": "01:56",
-      "end_time": "02:30",
-      "episode_description": "Após passar a noite com a namorada, o dentista se depara com a melhor amiga dela saindo do banho e é flagrado por Jorge e Fátima numa situação desconcertante. PC não para de pensar em como seria ter as duas amigas a sua disposição."
-    },
-    {
-      "show_name": "TVZ",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_tvz_l_m.webp",
-      "show_category": "Music",
-      "start_time": "02:30",
-      "end_time": "03:00",
-      "episode_description": "Os melhores videoclipes nacionais e internacionais das paradas musicais."
+      "show_name": "Vai que Cola",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-s01e36-spa-da-jo_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 36 - Spa da Jô",
+      "start_time": "07:09",
+      "end_time": "07:58",
+      "episode_description": "Lacraia faz uma massagem relaxante em Jéssica que fica extasiada. Velna, Terezinha e Ferdinando fazem fila para experimentar e aprovam a massagem de Lacraia. Valdo ouve os elogios e tem a ideia de transformar a pensão em um spa."
     },
     {
       "show_name": "Vai que Cola",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_vai-que-cola-s09e25_l_m.webp",
-      "show_category": "Temporada 9 Episódio 25 - Olha a Cobra",
-      "start_time": "03:00",
-      "end_time": "03:15",
-      "episode_description": "Começa a circular no zap do Méier que uma cobra fugiu quando a estavam levando para o Zoológico e está na região da pensão da Dona Jô, deixando todos morrendo de medo."
-    },
-    {
-      "show_name": "O Dono do Lar",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_o-dono-do-lar-s03e04-corpo-marcado_l_m.webp",
-      "show_category": "Temporada 3 Episódio 4 - Corpo Marcado",
-      "start_time": "03:15",
-      "end_time": "03:47",
-      "episode_description": "Américo esquece a data do aniversário de casamento e mente para Luciana dizendo que comprou um presente. Sem dinheiro, ele precisa resolver a situação de qualquer jeito. Só que certas soluções acabam sendo permanentes."
-    },
-    {
-      "show_name": "Toma Lá, Dá Cá",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_toma-la-da-ca-s03e12-a-alma-boa-do-bloco-h_l_m.webp",
-      "show_category": "Temporada 3 Episódio 12 - A Alma Boa do Bloco H",
-      "start_time": "03:47",
-      "end_time": "04:27",
-      "episode_description": "Isadora surpreende a família ao ficar noiva de Xandinho, um rapaz inteligente e educado; Rita e Mário Jorge querem alertar a família, mas a chance de receberem um dote faz com que o noivado seja mantido."
-    },
-    {
-      "show_name": "Toma Lá, Dá Cá",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_toma-la-da-ca-s03e13-o-anel-que-tu-me-deste_l_m.webp",
-      "show_category": "Temporada 3 Episódio 13 - O Anel que Tu me Deste",
-      "start_time": "04:27",
-      "end_time": "05:07",
-      "episode_description": "Celinha quer que Mário Jorge lhe presenteie com um anel. Ele alega que não tem dinheiro e, para satisfazer o desejo da esposa, decide resgatar o anel que deu para Rita quando noivaram."
-    },
-    {
-      "show_name": "A Grande Família",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_a-grande-familia-s06e34-o-iluminado_l_m.webp",
-      "show_category": "Temporada 6 Episódio 34 - O Iluminado",
-      "start_time": "05:07",
-      "end_time": "05:37",
-      "episode_description": "Mendonça faz corpo mole durante o trabalho e acaba virando alvo de difamação; Lineu entra numa enrascada na tentativa de ajudar o amigo; Bebel decide cozinhar e apavora a família."
-    },
-    {
-      "show_name": "Vai que Cola",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_vai-que-cola-s01e27-o-preco-da-amizade_l_m.webp",
-      "show_category": "Temporada 1 Episódio 27 - O Preço da Amizade",
-      "start_time": "06:15",
-      "end_time": "07:00",
-      "episode_description": "Justo no dia do amigo, uma caixa com a cabeça de uma boneca é deixada na porta da pensão. Teresinha decifra o recado: um agiota está cobrando a dívida de um dos moradores. Todos ficam assustados e descobrem que Ferdinando é o devedor."
-    },
-    {
-      "show_name": "O Dono do Lar",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_o-dono-do-lar-s08e11-obra-prima_l_m.webp",
-      "show_category": "Temporada 8 Episódio 11 - Obra-Prima",
-      "start_time": "07:00",
-      "end_time": "07:29",
-      "episode_description": "Isabela, prima de Fran e Américo, se interessa por Cris e causa ciúmes em Soraia; Américo precisa esconder de Fran que quebrou um vaso supostamente valioso."
-    },
-    {
-      "show_name": "O Dono do Lar",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_o-dono-do-lar-s07e08-americo-day_l_m.webp",
-      "show_category": "Temporada 7 Episódio 8 - Américo Day",
-      "start_time": "07:29",
-      "end_time": "07:59",
-      "episode_description": "Américo lança promoção para o Achaí com descontos e brindes fornecidos por Fran, mas o sucesso da ação sobrecarrega o negócio, prejudicando seu caixa e o empreendimento da prima."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-s01e32-tempero-baiano_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 32 - Tempero Baiano",
+      "start_time": "07:58",
+      "end_time": "08:47",
+      "episode_description": "Ivonete Salgado propõe a Dona Jô uma sociedade para levar suas quentinhas, famosas no Méier, para a Zona Sul. Mas diz que precisa descobrir o segredo do tempero. Wilson convoca uma assembleia-geral para sabotar a comida."
     },
     {
       "show_name": "Tô de Graça",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_to-de-graca-s02e28-bumbum-paticumbum-prugurundum_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_to-de-graca-s02e28-bumbum-paticumbum-prugurundum_l_m.jpg",
       "show_category": "Temporada 2 Episódio 28 - Bumbum Paticumbum Prugurundum",
-      "start_time": "07:59",
-      "end_time": "08:28",
+      "start_time": "08:47",
+      "end_time": "09:16",
       "episode_description": "A cantora Pablita gravou um clipe na comunidade de Graça e só se fala disso; Graça e a família ficam sabendo que um dos bumbuns que apareceram no clipe será capa de uma revista; Graça acha que o bumbum bombado é de Sara Jane."
     },
     {
-      "show_name": "Tô de Graça",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_to-de-graca-s02e29_l_m.webp",
-      "show_category": "Temporada 2 Episódio 29 - É Guerra!",
-      "start_time": "08:28",
-      "end_time": "08:57",
-      "episode_description": "Suelen resolve provocar Graça contratando Craudio para trabalhar no bar de Canário, prometendo assinar a carteira de trabalho do rapaz. Craudio se entusiasma, mas Graça não gosta pois sabe das intenções da inimiga."
-    },
-    {
-      "show_name": "Vai que Cola",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_vai-que-cola-s10e12_l_m.webp",
-      "show_category": "Temporada 10 Episódio 12 - Ali Bebe e os 40 Ladrões",
-      "start_time": "08:57",
-      "end_time": "09:09",
-      "episode_description": "Bebeto ganha um papel de galã na novela de maior sucesso das Arábias, e todos da casa ficam com inveja do novo ator."
-    },
-    {
-      "show_name": "Vai que Cola",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_vai-que-cola-s12e34-ferdim-o_l_m.webp",
-      "show_category": "Temporada 12 Episódio 34 - Ferdimão",
-      "start_time": "09:09",
-      "end_time": "09:20",
-      "episode_description": "Ferdinando recebe uma ligação: seu irmão, Berdinardo, está chegando, mas eles são opostos."
+      "show_name": "O Dono do Lar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-dono-do-lar-s08e04-se-essa-casa-fosse-minha_l_m.jpg",
+      "show_category": "Temporada 8 Episódio 4 - Se Essa Casa Fosse Minha",
+      "start_time": "09:16",
+      "end_time": "09:23",
+      "episode_description": "Durante uma faxina, Américo encontra um pedaço do testamento da tia e acha que tem direito à metade da casa de Fran."
     },
     {
       "show_name": "Aquecimento BBB",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_aquecimento-bbb_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aquecimento-bbb_l_m.jpg",
       "show_category": "Reality",
-      "start_time": "09:20",
-      "end_time": "09:46",
-      "episode_description": "Show de Projota na casa do BBB 17."
-    },
-    {
-      "show_name": "A Grande Família",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_a-grande-familia-s06e33-a-escolinha-da-professora-nene_l_m.webp",
-      "show_category": "Temporada 6 Episódio 33 - A Escolinha da Professora Nenê",
-      "start_time": "09:46",
-      "end_time": "10:18",
-      "episode_description": "Marilda fica cansada dos constantes erros de português de Paulão, e Lineu sugere que ela lhe dê aulas particulares. Bebel aproveita o embalo e obriga Agostinho a estudar também."
-    },
-    {
-      "show_name": "Chaves",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_chaves_l_m.webp",
-      "show_category": "Sitcom",
-      "start_time": "10:18",
-      "end_time": "10:43",
-      "episode_description": "Chaves planta um pezinho de carambolas para ter uma árvore que dê milhões dessas frutas. O problema é que ele suja a vila toda de terra, incluindo alguns dos vizinhos."
-    },
-    {
-      "show_name": "Chapolin",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_chapolin-s01e141-operac-o-tripa-seca_l_m.webp",
-      "show_category": "Temporada 1 Episódio 141 - Operação Tripa-Seca",
-      "start_time": "10:43",
-      "end_time": "11:06",
-      "episode_description": "Um casal sai de casa e deixa seu bebê sozinho. O problema é que Tripa Seca invade o lugar para se esconder da polícia. Desesperados, eles pedem ajuda ao Chapolin Colorado."
-    },
-    {
-      "show_name": "Chaves",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_chaves_l_m.webp",
-      "show_category": "Sitcom",
-      "start_time": "11:06",
-      "end_time": "11:32",
-      "episode_description": "Chaves planta um pezinho de carambolas para ter uma árvore que dê milhões dessas frutas. O problema é que ele suja a vila toda de terra, incluindo alguns dos vizinhos."
-    },
-    {
-      "show_name": "Chapolin",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_chapolin-s01e139-n-o-se-diz-estuata-se-diz-menumento_l_m.webp",
-      "show_category": "Temporada 1 Episódio 139 - Não se Diz Estuata, se Diz Menumento",
-      "start_time": "11:32",
-      "end_time": "11:57",
-      "episode_description": "Rubén vive pregando peças nos outros, mas sua sobrinha pede que ele não faça isso com seu marido, que pode morrer ao tomar um grande susto."
-    },
-    {
-      "show_name": "Chaves",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_chaves_l_m.webp",
-      "show_category": "Sitcom",
-      "start_time": "11:57",
-      "end_time": "12:22",
-      "episode_description": "Chaves planta um pezinho de carambolas para ter uma árvore que dê milhões dessas frutas. O problema é que ele suja a vila toda de terra, incluindo alguns dos vizinhos."
-    },
-    {
-      "show_name": "Chapolin",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_chapolin-s01e119-ha-hoteis-t-o-limpos-que-limpam-ate-carteira_l_m.webp",
-      "show_category": "Temporada 1 Episódio 119 - Há Hotéis Tão Limpos que Limpam até Carteira",
-      "start_time": "12:22",
-      "end_time": "12:49",
-      "episode_description": "Um casal está para ir embora do hotel, mas o gerente quer cobrar o dobro do combinado. Sem dinheiro, eles precisam da ajuda do Chapolin para poder sair dali."
-    },
-    {
-      "show_name": "Tô de Graça",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_to-de-graca-s02e24-meu-peito-ta-capenga_l_m.webp",
-      "show_category": "Temporada 2 Episódio 24 - Meu Peito Tá Capenga",
-      "start_time": "12:49",
-      "end_time": "13:18",
-      "episode_description": "Maico, filho de Graça, passa por uma crise com o namorado. Decidido a mudar algo no relacionamento, e querendo inovar no visual, ele aposta em um implante, mas para surpresa de todos, coloca um peito só."
-    },
-    {
-      "show_name": "Vai que Cola",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_vai-que-cola-s09e25_l_m.webp",
-      "show_category": "Temporada 9 Episódio 25 - Olha a Cobra",
-      "start_time": "13:18",
-      "end_time": "13:26",
-      "episode_description": "Começa a circular no zap do Méier que uma cobra fugiu quando a estavam levando para o Zoológico e está na região da pensão da Dona Jô, deixando todos morrendo de medo."
-    },
-    {
-      "show_name": "Vai que Cola",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_vai-que-cola-s11e13-a-falta-que-dona-jo-faz_l_m.webp",
-      "show_category": "Temporada 11 Episódio 13 - A Falta que Dona Jô Faz",
-      "start_time": "13:26",
-      "end_time": "13:35",
-      "episode_description": "Dona Jô e Sid estão em uma viagem romântica. Com a falta da matriarca, a família precisa trabalhar duro para dar vida ao show que Sidlayne fechou para o Sofrência Bar."
-    },
-    {
-      "show_name": "TVZ",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_tvz_l_m.webp",
-      "show_category": "Music",
-      "start_time": "13:35",
-      "end_time": "14:05",
-      "episode_description": "Os melhores videoclipes nacionais e internacionais das paradas musicais."
-    },
-    {
-      "show_name": "Aquecimento BBB",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_aquecimento-bbb_l_m.webp",
-      "show_category": "Reality",
-      "start_time": "14:05",
-      "end_time": "14:31",
+      "start_time": "09:23",
+      "end_time": "09:50",
       "episode_description": "Show de Projota na casa do BBB 17."
     },
     {
       "show_name": "Tô de Graça",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_to-de-graca-s02e26-parada-gay_l_m.webp",
-      "show_category": "Temporada 2 Episódio 26 - Parada Gay",
-      "start_time": "14:31",
-      "end_time": "15:00",
-      "episode_description": "Graça e Briti vendem o jornal do arco-íris, criado por Maico e Marraia para o público LGBT. No sinal de trânsito, reagem a uma cena de preconceito e vão parar na internet. O vídeo projeta Graça como mãe dos gays."
-    },
-    {
-      "show_name": "A Vila",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_a-vila-s03e01-vila-coiffeur_l_m.webp",
-      "show_category": "Temporada 3 Episódio 1 - Vila Coiffeur",
-      "start_time": "15:00",
-      "end_time": "15:30",
-      "episode_description": "Lupércio conta que vai pedir Eleonora em noivado à noite, mas está apreensivo com sua aparência. Rique percebe a chance e diz que ele e Violeta estão montando um salão de beleza."
-    },
-    {
-      "show_name": "Tô de Graça",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_to-de-graca-s02e20-uma-baba-quase-perfeita_l_m.webp",
-      "show_category": "Temporada 2 Episódio 20 - Uma Babá Quase Perfeita",
-      "start_time": "15:30",
-      "end_time": "15:58",
-      "episode_description": "Graça está exausta dos filhos que brigam o tempo todo. Seguindo o conselho de Suellen, Graça pede ajuda da Nana, babá do programa de televisão que vai nas casas escolhidas pela produção para consertar seus filhos."
-    },
-    {
-      "show_name": "Tô de Graça",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_to-de-graca-s02e21-proposta-super-indecente_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_to-de-graca-s02e21-proposta-super-indecente_l_m.jpg",
       "show_category": "Temporada 2 Episódio 21 - Proposta Super Indecente",
-      "start_time": "15:58",
-      "end_time": "16:27",
+      "start_time": "09:50",
+      "end_time": "10:19",
       "episode_description": "Após salvar Suelen e a si mesma de um assalto, Graça recebe toda a gratidão da nova amiga, que se propõe a fazer qualquer coisa para retribuir o gesto heroico."
     },
     {
       "show_name": "Tô de Graça",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_to-de-graca-s02e22-escola-de-bandido_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_to-de-graca-s02e22-escola-de-bandido_l_m.jpg",
       "show_category": "Temporada 2 Episódio 22 - Escola de Bandido",
-      "start_time": "16:27",
-      "end_time": "16:55",
+      "start_time": "10:19",
+      "end_time": "10:47",
       "episode_description": "Graça não está nada satisfeita com a situação da segurança na sua comunidade. Depois de fugir de um tiroteio no farol, ela conclui que os bandidos da favela estão cada vez menos educados."
     },
     {
-      "show_name": "Aquecimento BBB",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_aquecimento-bbb_l_m.webp",
-      "show_category": "Reality",
-      "start_time": "16:55",
-      "end_time": "17:21",
-      "episode_description": "Show de Projota na casa do BBB 17."
-    },
-    {
-      "show_name": "Vai que Cola",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_vai-que-cola-s09e21-a-botocada_l_m.webp",
-      "show_category": "Temporada 9 Episódio 21 - A Botocada",
-      "start_time": "17:21",
-      "end_time": "17:30",
-      "episode_description": "O Spa da Laje pode acabar de vez por causa da clínica de estética no Méier, que está aplicando botox; Sanderson e Reginel querem abrir um beauty truck no lugar do food truck."
-    },
-    {
-      "show_name": "TVZ Experimente",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_tvz-experimente-1_l_m.webp",
-      "show_category": "Music",
-      "start_time": "17:30",
-      "end_time": "18:00",
-      "episode_description": "Confira os videoclipes dos artistas alternativos dos cenários nacional e internacional."
-    },
-    {
-      "show_name": "O Dono do Lar",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_o-dono-do-lar-s08e06-frankeira_l_m.webp",
-      "show_category": "Temporada 8 Episódio 6 - Frankeira",
-      "start_time": "18:00",
-      "end_time": "18:29",
-      "episode_description": "Michelle descobre que Fran era funkeira e Américo tem a ideia de relançar a prima aos palcos."
-    },
-    {
-      "show_name": "O Dono do Lar",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_o-dono-do-lar-s08e07-o-apostado-n-o-sai-caro_l_m.webp",
-      "show_category": "Temporada 8 Episódio 7 - O Apostado Não Sai Caro",
-      "start_time": "18:29",
-      "end_time": "18:58",
-      "episode_description": "Américo erra o pagamento de uma compra da Frandora e, para tentar reverter o dano, decide apostar o dinheiro do plano de saúde da família em uma vitória do time de Gérson."
-    },
-    {
-      "show_name": "O Dono do Lar",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_o-dono-do-lar-s08e08-empreendedor-do-ano_l_m.webp",
-      "show_category": "Temporada 8 Episódio 8 - Empreendedor do Ano",
-      "start_time": "18:58",
-      "end_time": "19:27",
-      "episode_description": "Frandora é selecionada para o concurso Empreendedor do Ano e Américo precisa se passar por um respeitável CEO para faturar o prêmio."
-    },
-    {
-      "show_name": "A Grande Família",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_a-grande-familia-s06e24-dona-beicola_l_m.webp",
-      "show_category": "Temporada 6 Episódio 24 - Dona Beiçola",
-      "start_time": "19:27",
-      "end_time": "20:05",
-      "episode_description": "Beiçola aparece no jornal por ter sido detido após surto psicótico. Nenê decide cuidar da pastelaria enquanto o amigo se recupera, mas não imagina a trabalheira que a espera no estabelecimento."
-    },
-    {
-      "show_name": "A Grande Família",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_a-grande-familia-s06e25-de-pasteleiro-e-louco-todo-mundo-tem-um-pouco_l_m.webp",
-      "show_category": "Temporada 6 Episódio 25 - De Pasteleiro e Louco Todo Mundo Tem um Pouco",
-      "start_time": "20:05",
-      "end_time": "20:42",
-      "episode_description": "Beiçola recebe alta do hospital e fica aflito quando vê o sucesso do pastel da Nenê. Para conseguir a receita secreta, mente sobre recuperação e sobrecarrega Nenê até as últimas."
-    },
-    {
-      "show_name": "A Grande Família",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_a-grande-familia-s06e26-joga-pedra-na-nene_l_m.webp",
-      "show_category": "Temporada 6 Episódio 26 - Joga Pedra na Nenê",
-      "start_time": "20:42",
-      "end_time": "21:21",
-      "episode_description": "Nenê declara seu amor a Lineu em uma entrevista para TV, mas confessa já ter tido fantasias com outros homens. Declaração polêmica agita a vizinhança e faz Nenê querer ir embora."
-    },
-    {
       "show_name": "Reclame",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_reclame-s19e18_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_reclame-s19e18_l_m.jpg",
       "show_category": "Temporada 19 Episódio 18",
-      "start_time": "21:21",
-      "end_time": "21:50",
+      "start_time": "10:47",
+      "end_time": "11:16",
       "episode_description": "Fique por dentro dos bastidores do mundo publicitário no Brasil e confira também entrevistas com profissionais da área, making of de campanhas, filmes de maior destaque e a cobertura dos eventos do setor."
     },
     {
       "show_name": "Aquecimento BBB",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_aquecimento-bbb_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aquecimento-bbb_l_m.jpg",
       "show_category": "Reality",
-      "start_time": "21:50",
-      "end_time": "22:16",
+      "start_time": "11:16",
+      "end_time": "11:43",
       "episode_description": "Show de Projota na casa do BBB 17."
     },
     {
+      "show_name": "Chaves",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_chaves_l_m.jpg",
+      "show_category": "Sitcom",
+      "start_time": "11:43",
+      "end_time": "12:07",
+      "episode_description": "Seu Madruga começa a trabalhar como fotógrafo e seus serviços são solicitados pelos moradores da vila, o que causa várias encrencas."
+    },
+    {
+      "show_name": "Chapolin",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_chapolin-s01e137-a-sess-o-espirita_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 137 - A Sessão Espírita",
+      "start_time": "12:07",
+      "end_time": "12:33",
+      "episode_description": "Florinda chama um paranormal para entrar em contato com seu ex-marido por meio de uma sessão espírita, que tem inclusive a participação do Chapolin Colorado."
+    },
+    {
+      "show_name": "Chaves",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_chaves_l_m.jpg",
+      "show_category": "Sitcom",
+      "start_time": "12:33",
+      "end_time": "12:59",
+      "episode_description": "Seu Madruga começa a trabalhar como fotógrafo e seus serviços são solicitados pelos moradores da vila, o que causa várias encrencas."
+    },
+    {
+      "show_name": "Chapolin",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_chapolin-s01e138-de-acordo-com-o-diabo_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 138 - De Acordo com o Diabo",
+      "start_time": "12:59",
+      "end_time": "13:27",
+      "episode_description": "Um cientista perde um parafuso de um de seus inventos e pede a sua filha que o ajude. Ela chama Chapolin, que acaba ensinando algumas lições."
+    },
+    {
+      "show_name": "Chaves",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_chaves_l_m.jpg",
+      "show_category": "Sitcom",
+      "start_time": "13:27",
+      "end_time": "13:53",
+      "episode_description": "Seu Madruga começa a trabalhar como fotógrafo e seus serviços são solicitados pelos moradores da vila, o que causa várias encrencas."
+    },
+    {
+      "show_name": "Chapolin",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_chapolin-s01e139-n-o-se-diz-estuata-se-diz-menumento_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 139 - Não se Diz Estuata, se Diz Menumento",
+      "start_time": "13:53",
+      "end_time": "14:18",
+      "episode_description": "Rubén vive pregando peças nos outros, mas sua sobrinha pede que ele não faça isso com seu marido, que pode morrer ao tomar um grande susto."
+    },
+    {
+      "show_name": "Chaves",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_chaves_l_m.jpg",
+      "show_category": "Sitcom",
+      "start_time": "14:18",
+      "end_time": "14:44",
+      "episode_description": "Seu Madruga começa a trabalhar como fotógrafo e seus serviços são solicitados pelos moradores da vila, o que causa várias encrencas."
+    },
+    {
       "show_name": "Tô de Graça",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_to-de-graca-s02e24-meu-peito-ta-capenga_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_to-de-graca-s02e25-quanto-mais-massagem-melhor_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 25 - Quanto Mais Massagem Melhor",
+      "start_time": "14:44",
+      "end_time": "15:12",
+      "episode_description": "Graça bate boca com uma mulher que rouba a atenção dos motoristas na sua rua de trabalho; Geralda recebe a sobrinha, Sonáira, na sua casa e descobre que ela tem uma rixa antiga com Sara Jane."
+    },
+    {
+      "show_name": "Vai que Cola",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-s09e25_l_m.jpg",
+      "show_category": "Temporada 9 Episódio 25 - Olha a Cobra",
+      "start_time": "15:12",
+      "end_time": "15:20",
+      "episode_description": "Começa a circular no zap do Méier que uma cobra fugiu quando a estavam levando para o Zoológico e está na região da pensão da Dona Jô, deixando todos morrendo de medo."
+    },
+    {
+      "show_name": "Vai que Cola",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-s13e08-quem-vigia-o-vigia_l_m.jpg",
+      "show_category": "Temporada 13 Episódio 8 - Quem Vigia o Vigia?",
+      "start_time": "15:20",
+      "end_time": "15:30",
+      "episode_description": "Mistério no Méier: alguns objetos estão sumindo na pensão e Zélio, vigia narcoléptico, vive dormindo no ponto."
+    },
+    {
+      "show_name": "Chapolin",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_chapolin-s01e140-o-pelot-o-de-fuzilamento_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 140 - O Pelotão de Fuzilamento",
+      "start_time": "15:30",
+      "end_time": "15:54",
+      "episode_description": "Um caminhão atola e seus passageiros ficam presos em uma região proibida. Se não conseguirem atravessar a fronteira logo, serão fuzilados."
+    },
+    {
+      "show_name": "Chaves",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_chaves_l_m.jpg",
+      "show_category": "Sitcom",
+      "start_time": "15:54",
+      "end_time": "16:19",
+      "episode_description": "Seu Madruga começa a trabalhar como fotógrafo e seus serviços são solicitados pelos moradores da vila, o que causa várias encrencas."
+    },
+    {
+      "show_name": "Chapolin",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_chapolin-s01e141-operac-o-tripa-seca_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 141 - Operação Tripa-Seca",
+      "start_time": "16:19",
+      "end_time": "16:42",
+      "episode_description": "Um casal sai de casa e deixa seu bebê sozinho. O problema é que Tripa Seca invade o lugar para se esconder da polícia. Desesperados, eles pedem ajuda ao Chapolin Colorado."
+    },
+    {
+      "show_name": "Aquecimento BBB",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aquecimento-bbb_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "16:42",
+      "end_time": "17:09",
+      "episode_description": "Show de Projota na casa do BBB 17."
+    },
+    {
+      "show_name": "Vai que Cola",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-s13e08-quem-vigia-o-vigia_l_m.jpg",
+      "show_category": "Temporada 13 Episódio 8 - Quem Vigia o Vigia?",
+      "start_time": "17:09",
+      "end_time": "17:19",
+      "episode_description": "Mistério no Méier: alguns objetos estão sumindo na pensão e Zélio, vigia narcoléptico, vive dormindo no ponto."
+    },
+    {
+      "show_name": "Vai que Cola",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-s12e36-o-que-pensam-da-pens-o_l_m.jpg",
+      "show_category": "Temporada 12 Episódio 36 - O que Pensam da Pensão",
+      "start_time": "17:19",
+      "end_time": "17:30",
+      "episode_description": "A pensão de Dona Jô está bombando nas redes, mas com avaliações péssimas. Ela também não sabe que suas quentinhas e sua hospedaria estão em um app, sendo este um crítico segredo de alguém."
+    },
+    {
+      "show_name": "TVZ Gospel",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tvz-gospel_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "17:30",
+      "end_time": "17:33",
+      "episode_description": "Programa dedicado a clipes do gênero gospel."
+    },
+    {
+      "show_name": "TVZ Gospel",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tvz-gospel_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "17:33",
+      "end_time": "17:36",
+      "episode_description": "Programa dedicado a clipes do gênero gospel."
+    },
+    {
+      "show_name": "TVZ Gospel",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tvz-gospel_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "17:36",
+      "end_time": "17:39",
+      "episode_description": "Programa dedicado a clipes do gênero gospel."
+    },
+    {
+      "show_name": "TVZ Gospel",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tvz-gospel_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "17:39",
+      "end_time": "17:42",
+      "episode_description": "Programa dedicado a clipes do gênero gospel."
+    },
+    {
+      "show_name": "TVZ Gospel",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tvz-gospel_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "17:42",
+      "end_time": "17:45",
+      "episode_description": "Programa dedicado a clipes do gênero gospel."
+    },
+    {
+      "show_name": "TVZ Gospel",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tvz-gospel_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "17:45",
+      "end_time": "17:57",
+      "episode_description": "Programa dedicado a clipes do gênero gospel."
+    },
+    {
+      "show_name": "TVZ Gospel",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tvz-gospel_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "17:57",
+      "end_time": "18:00",
+      "episode_description": "Programa dedicado a clipes do gênero gospel."
+    },
+    {
+      "show_name": "Tô de Graça",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_to-de-graca-s02e23-um-hospede-do-barulho_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 23 - Um Hóspede do Barulho",
+      "start_time": "18:00",
+      "end_time": "18:29",
+      "episode_description": "Marraia atropela Pará e, muito culpada, o convida para se restabelecer em sua casa. Graça detesta a ideia, mas, ao se tocar de quanto prestígio a presença de Pará pode render, ela muda de opinião, tornando-se mais amável."
+    },
+    {
+      "show_name": "Tô de Graça",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_to-de-graca-s02e24-meu-peito-ta-capenga_l_m.jpg",
       "show_category": "Temporada 2 Episódio 24 - Meu Peito Tá Capenga",
-      "start_time": "22:16",
-      "end_time": "22:45",
+      "start_time": "18:29",
+      "end_time": "18:58",
       "episode_description": "Maico, filho de Graça, passa por uma crise com o namorado. Decidido a mudar algo no relacionamento, e querendo inovar no visual, ele aposta em um implante, mas para surpresa de todos, coloca um peito só."
     },
     {
       "show_name": "Tô de Graça",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_to-de-graca-s02e25-quanto-mais-massagem-melhor_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_to-de-graca-s02e25-quanto-mais-massagem-melhor_l_m.jpg",
       "show_category": "Temporada 2 Episódio 25 - Quanto Mais Massagem Melhor",
-      "start_time": "22:45",
-      "end_time": "23:13",
+      "start_time": "18:58",
+      "end_time": "19:26",
       "episode_description": "Graça bate boca com uma mulher que rouba a atenção dos motoristas na sua rua de trabalho; Geralda recebe a sobrinha, Sonáira, na sua casa e descobre que ela tem uma rixa antiga com Sara Jane."
     },
     {
-      "show_name": "Tô de Graça",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_to-de-graca-s02e26-parada-gay_l_m.webp",
-      "show_category": "Temporada 2 Episódio 26 - Parada Gay",
-      "start_time": "23:13",
-      "end_time": "23:42",
-      "episode_description": "Graça e Briti vendem o jornal do arco-íris, criado por Maico e Marraia para o público LGBT. No sinal de trânsito, reagem a uma cena de preconceito e vão parar na internet. O vídeo projeta Graça como mãe dos gays."
+      "show_name": "Tapas & Beijos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tapas-beijos-s03e18-um-relacionamento-se-vai-mas-novos-sempre-vem_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 18 - Um Relacionamento se Vai, mas Novos Sempre Vêm",
+      "start_time": "19:26",
+      "end_time": "20:08",
+      "episode_description": "Sueli ve Jorge partindo para os braços de outra pretendente e Fátima se torna o pivô de constantes brigas entre PC e Armane."
     },
     {
       "show_name": "Tapas & Beijos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_tapas-beijos-s03e16-daniel-boaventura-volta-a-tapas-beijos-como-o-dentista-pc_l_m.webp",
-      "show_category": "Temporada 3 Episódio 16 - Daniel Boaventura Volta a Tapas & Beijos Como o Dentista PC",
-      "start_time": "23:42",
-      "end_time": "00:19",
-      "episode_description": "Armane pede a Fátima que cuide de seus cinco filhos, mas a agitação é tão grande que rende um dente quebrado à vendedora da Djalma Noivas. Diante da emergência, ela recorre a PC, antigo namorado e dentista, que logo cai de amores pela ex."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tapas-beijos-s03e19-lacos-de-paternidade-ou-amizade_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 19 - Laços de Paternidade ou Amizade?",
+      "start_time": "20:08",
+      "end_time": "20:41",
+      "episode_description": "Flavinha encontra cartas da falecida sogra para Chalita, com quem teve um romance. A surpresa vem quando uma das cartas revela que Djalma pode ser filho do libanês."
+    },
+    {
+      "show_name": "Tapas & Beijos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tapas-beijos-s03e20-fatima-e-sueli-completam-15-anos-como-vendedoras-da-djalma-noivas_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 20 - Fátima e Sueli Completam 15 Anos como Vendedoras da Djalma Noivas",
+      "start_time": "20:41",
+      "end_time": "21:16",
+      "episode_description": "Finalmente, o tempo de dedicação de Fátima e Sueli à Djalma Noivas é recompensado. Ao chegarem para o batente na data em que celebram 15 anos como funcionárias da boutique, as amigas são surpreendidas com uma pequena festa comandada por Flavinha."
+    },
+    {
+      "show_name": "O Dono do Lar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-dono-do-lar-s08e09-p-s-faz-meu-pix_l_m.jpg",
+      "show_category": "Temporada 8 Episódio 9 - P.S. Faz Meu Pix",
+      "start_time": "21:16",
+      "end_time": "21:47",
+      "episode_description": "Uma carta de amor anônima, com o nome do destinatário manchado, cria uma guerra de egos entre Américo, Cris e Gérson, que disputam para descobrir quem é o mais amado da casa."
+    },
+    {
+      "show_name": "Aquecimento BBB",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aquecimento-bbb_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "21:47",
+      "end_time": "22:14",
+      "episode_description": "Show de Projota na casa do BBB 17."
+    },
+    {
+      "show_name": "Tô de Graça",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_to-de-graca-s02e26-parada-gay_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 26 - Parada Gay",
+      "start_time": "22:14",
+      "end_time": "22:45",
+      "episode_description": "Graça e Briti vendem o jornal do arco-íris, criado por Maico e Marraia para o público LGBT. No sinal de trânsito, reagem a uma cena de preconceito e vão parar na internet. O vídeo projeta Graça como mãe dos gays."
+    },
+    {
+      "show_name": "Tô de Graça",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_to-de-graca-s02e27_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 27 - A Extraordinária",
+      "start_time": "22:45",
+      "end_time": "23:14",
+      "episode_description": "Briti está sendo alvo de bullying por meio de memes com fotos suas depreciando sua aparência e passa a agir de forma estranha. Graça decide chamar uma psicóloga para a filha e a confusão está armada."
+    },
+    {
+      "show_name": "Tô de Graça",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_to-de-graca-s02e23-um-hospede-do-barulho_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 23 - Um Hóspede do Barulho",
+      "start_time": "23:14",
+      "end_time": "23:43",
+      "episode_description": "Marraia atropela Pará e, muito culpada, o convida para se restabelecer em sua casa. Graça detesta a ideia, mas, ao se tocar de quanto prestígio a presença de Pará pode render, ela muda de opinião, tornando-se mais amável."
+    },
+    {
+      "show_name": "Tô de Graça",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_to-de-graca-s02e21-proposta-super-indecente_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 21 - Proposta Super Indecente",
+      "start_time": "23:43",
+      "end_time": "00:14",
+      "episode_description": "Após salvar Suelen e a si mesma de um assalto, Graça recebe toda a gratidão da nova amiga, que se propõe a fazer qualquer coisa para retribuir o gesto heroico."
     },
     {
       "show_name": "Vai que Cola",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_vai-que-cola-s01e34-tpm_l_m.webp",
-      "show_category": "Temporada 1 Episódio 34 - TPM",
-      "start_time": "05:36",
-      "end_time": "06:22",
-      "episode_description": "Dona Jô, Jéssica, Velna e Terezinha têm TPM na mesma semana, deixando os rapazes da pensão malucos."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-s01e31-por-agua-abaixo_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 31 - Por Água Abaixo",
+      "start_time": "05:45",
+      "end_time": "06:28",
+      "episode_description": "Valdo lê sobre a seca no Méier e tem a ideia de fazer um estoque de água. Ele enche todos os recipientes e acaba com a água da pensão. Valdo resolve vender a água que estocou para os próprios moradores, mas seu esquema acaba fracassando."
     },
     {
       "show_name": "Vai que Cola",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/multishow/today/br_vai-que-cola-s01e35-identidade-canto_l_m.webp",
-      "show_category": "Temporada 1 Episódio 35 - Identidade: Canto",
-      "start_time": "06:22",
-      "end_time": "06:52",
-      "episode_description": "A pensão recebe a visita ilustre de Flávio Canto que foi ao Méier gravar um documentário, mas acabou perdendo-se da equipe. Toni Manchette resolve investir no documentário de Canto, e tenta se dar bem às custas de todos."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-s01e32-tempero-baiano_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 32 - Tempero Baiano",
+      "start_time": "06:28",
+      "end_time": "06:58",
+      "episode_description": "Ivonete Salgado propõe a Dona Jô uma sociedade para levar suas quentinhas, famosas no Méier, para a Zona Sul. Mas diz que precisa descobrir o segredo do tempero. Wilson convoca uma assembleia-geral para sabotar a comida."
     }
   ]
 }
