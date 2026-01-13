@@ -1,18 +1,10 @@
 {
   "channel": "Tv Jangadeiro",
-  "date": "13/01/2026",
+  "date": "14/01/2026",
   "schedule": [
     {
-      "show_name": "Programa Silvio Santos com Patrícia Abravanel",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_programa-silvio-santos-com-patricia-abravanel-1_l_m.webp",
-      "show_category": "Variety",
-      "start_time": "03:30",
-      "end_time": "08:30",
-      "episode_description": "No \"Nada Além de 1 Minuto - Celebridades\", as estrelas precisam demonstrar habilidades impressionantes em apenas 60 segundos. Os atores Catarina Abdalla e Kadu Moliterno participam do \"Jogo das 3 Pistas\". O \"Qual É a Música\" reúne filhos de artistas."
-    },
-    {
       "show_name": "Fofocalizando",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_fofocalizando_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_fofocalizando_l_m.jpg",
       "show_category": "Newsmagazine",
       "start_time": "00:15",
       "end_time": "01:30",
@@ -20,7 +12,7 @@
     },
     {
       "show_name": "Casos de Família",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_casos-de-familia-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_casos-de-familia-1_l_m.jpg",
       "show_category": "Talk",
       "start_time": "01:30",
       "end_time": "02:30",
@@ -28,7 +20,7 @@
     },
     {
       "show_name": "Coração Indomável",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_corac-o-indomavel-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_corac-o-indomavel-1_l_m.jpg",
       "show_category": "Soap",
       "start_time": "02:30",
       "end_time": "03:00",
@@ -36,7 +28,7 @@
     },
     {
       "show_name": "Jornal Jangadeiro - 2ª Edição",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_jornal-jangadeiro-2-edic-o_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-jangadeiro-2-edic-o_l_m.jpg",
       "show_category": "News",
       "start_time": "03:00",
       "end_time": "04:10",
@@ -44,7 +36,7 @@
     },
     {
       "show_name": "Loteria dos Sonhos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_loteria-dos-sonhos_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_loteria-dos-sonhos_l_m.jpg",
       "show_category": "Gaming",
       "start_time": "04:10",
       "end_time": "04:15",
@@ -52,71 +44,63 @@
     },
     {
       "show_name": "SBT Brasil",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_sbt-brasil_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-brasil_l_m.jpg",
       "show_category": "News",
       "start_time": "04:15",
       "end_time": "05:30",
       "episode_description": "Acompanhe as principais notícias do Brasil e do mundo com análise profunda dos fatos."
     },
     {
-      "show_name": "A.MAR",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_a-mar_l_m.webp",
-      "show_category": "Soap",
-      "start_time": "05:30",
-      "end_time": "06:45",
-      "episode_description": "Estrela volta ao seu povoado natal com sua filha e decide reconstruir sua vida no lugar. Enquanto tenta resolver o mistério da morte do pai, ela cruza o caminho de Fabian Bravo, um pescador viúvo que luta para recuperar a guarda da filha."
-    },
-    {
       "show_name": "Programa do Ratinho",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_programa-do-ratinho_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_programa-do-ratinho_l_m.jpg",
       "show_category": "Variety",
-      "start_time": "06:45",
-      "end_time": "08:15",
+      "start_time": "06:30",
+      "end_time": "07:30",
       "episode_description": "O apresentador Carlos Massa leva ao público um programa alegre e repleto de atrações. Ele recebe convidados famosos e games, comédia, participação do público e quadros únicos, como o \"Jornal Racional\", \"Gol Show\" e \"Dez ou Mil\", entre outros."
     },
     {
+      "show_name": "SBT Repórter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-reporter_l_m.jpg",
+      "show_category": "News",
+      "start_time": "07:30",
+      "end_time": "08:30",
+      "episode_description": "Com linguagem direta e aborda temas variados e de interesse coletivo, programa jornalístico mostra o que acontece no Brasil e no mundo."
+    },
+    {
       "show_name": "The Noite com Danilo Gentili",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_the-noite-com-danilo-gentili_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-noite-com-danilo-gentili_l_m.jpg",
       "show_category": "Talk",
-      "start_time": "08:15",
-      "end_time": "09:15",
+      "start_time": "08:30",
+      "end_time": "09:30",
       "episode_description": "Talk show com alto índice de piadas por minuto, que, com muita irreverência, aborda os fatos relevantes do dia."
     },
     {
       "show_name": "Operação Mesquita",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_operac-o-mesquita_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_operac-o-mesquita_l_m.jpg",
       "show_category": "Entertainment",
-      "start_time": "09:15",
-      "end_time": "09:45",
+      "start_time": "09:30",
+      "end_time": "10:00",
       "episode_description": "Descubra o lado B dos famosos, que mostram o seu cotidiano de forma curiosa e divertida por meio de entrevistas. Acompanhe ainda pessoas comuns que estão prestes a protagonizar um grande momento que pode mudar para sempre as suas vidas."
     },
     {
       "show_name": "SBT PodNight",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_sbt-podnight_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-podnight_l_m.jpg",
       "show_category": "Talk",
-      "start_time": "09:45",
-      "end_time": "10:30",
+      "start_time": "10:00",
+      "end_time": "10:45",
       "episode_description": "Exibição de podcasts brasileiros líderes de audiência nas plataformas digitais, que abordam temas variados, de cultura e entretenimento a questões sociais."
     },
     {
       "show_name": "SBT Notícias",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_sbt-noticias_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-noticias_l_m.jpg",
       "show_category": "News",
-      "start_time": "10:30",
-      "end_time": "13:30",
+      "start_time": "10:45",
+      "end_time": "15:15",
       "episode_description": "Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia."
     },
     {
-      "show_name": "SBT Manhã",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_sbt-manh_l_m.webp",
-      "show_category": "News",
-      "start_time": "13:30",
-      "end_time": "15:15",
-      "episode_description": "O jornal traz os primeiros assuntos do dia e faz uma abordagem sobre os últimos acontecimentos."
-    },
-    {
       "show_name": "Quem Como Deus?",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_quem-como-deus_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-como-deus_l_m.jpg",
       "show_category": "Religious",
       "start_time": "15:15",
       "end_time": "15:30",
@@ -124,7 +108,7 @@
     },
     {
       "show_name": "Terço das Santas Chagas",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_terco-das-santas-chagas_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_terco-das-santas-chagas_l_m.jpg",
       "show_category": "Religious",
       "start_time": "15:30",
       "end_time": "16:00",
@@ -132,7 +116,7 @@
     },
     {
       "show_name": "SBT Manhã",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_sbt-manh_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-manh_l_m.jpg",
       "show_category": "News",
       "start_time": "16:00",
       "end_time": "18:30",
@@ -140,7 +124,7 @@
     },
     {
       "show_name": "Primeiro Impacto",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_primeiro-impacto-1997_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_primeiro-impacto-1997_l_m.jpg",
       "show_category": "News",
       "start_time": "18:30",
       "end_time": "19:30",
@@ -148,7 +132,7 @@
     },
     {
       "show_name": "Loteria dos Sonhos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_loteria-dos-sonhos_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_loteria-dos-sonhos_l_m.jpg",
       "show_category": "Gaming",
       "start_time": "19:30",
       "end_time": "19:35",
@@ -156,7 +140,7 @@
     },
     {
       "show_name": "Futebolês",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_sports-talk-futeboles_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sports-talk-futeboles_l_m.jpg",
       "show_category": "",
       "start_time": "19:35",
       "end_time": "19:50",
@@ -164,7 +148,7 @@
     },
     {
       "show_name": "Barra",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_barra_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_barra_l_m.jpg",
       "show_category": "Crime",
       "start_time": "19:50",
       "end_time": "21:25",
@@ -172,7 +156,7 @@
     },
     {
       "show_name": "Todo Mundo Ama",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_todo-mundo-ama_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_todo-mundo-ama_l_m.jpg",
       "show_category": "Variety",
       "start_time": "21:25",
       "end_time": "22:25",
@@ -180,7 +164,7 @@
     },
     {
       "show_name": "Loteria dos Sonhos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_loteria-dos-sonhos_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_loteria-dos-sonhos_l_m.jpg",
       "show_category": "Gaming",
       "start_time": "22:25",
       "end_time": "22:30",
@@ -188,7 +172,7 @@
     },
     {
       "show_name": "Esmeralda - Edição Especial",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_esmeralda-edic-o-especial_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_esmeralda-edic-o-especial_l_m.jpg",
       "show_category": "Soap",
       "start_time": "22:30",
       "end_time": "23:15",
@@ -196,7 +180,7 @@
     },
     {
       "show_name": "Rubi",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_rubi_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rubi_l_m.jpg",
       "show_category": "Soap",
       "start_time": "23:15",
       "end_time": "00:15",
@@ -204,7 +188,7 @@
     },
     {
       "show_name": "A.MAR",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_a-mar_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-mar_l_m.jpg",
       "show_category": "Soap",
       "start_time": "05:30",
       "end_time": "06:00",

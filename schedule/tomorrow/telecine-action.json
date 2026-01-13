@@ -1,102 +1,110 @@
 {
   "channel": "Telecine Action",
-  "date": "13/01/2026",
+  "date": "14/01/2026",
   "schedule": [
     {
-      "show_name": "A Lenda de Tarzan",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-action/tomorrow/br_a-lenda-de-tarzan-2016_l_m.webp",
-      "show_category": "Adventure / 2016",
-      "start_time": "01:05",
-      "end_time": "03:05",
-      "episode_description": "Tarzan deixou as florestas da África para viver uma vida pacata como John Clayton III, o Lorde Greystoke, ao lado de sua esposa, Jane, na Inglaterra. Agora, ele é convidado para voltar ao Congo, onde passou a maior parte da sua vida, para servir como emissário de troca do parlamento britânico. O que Tarzan não sabe é que está se dirigindo para uma armadilha mortal, fruto da vingança do capitão belga Leon Rom."
+      "show_name": "A Chamada",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-chamada-2023_l_m.jpg",
+      "show_category": "Action / 2023",
+      "start_time": "00:35",
+      "end_time": "02:15",
+      "episode_description": "Enquanto dirige com os filhos, um homem recebe um telefonema de um agressor desconhecido que alega haver uma bomba no carro. Incapaz de sair do veículo, ele precisa seguir uma série de instruções distorcidas, enquanto tenta descobrir como sobreviver."
+    },
+    {
+      "show_name": "Preview",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_preview_l_m.jpg",
+      "show_category": "Entertainment",
+      "start_time": "02:15",
+      "end_time": "02:20",
+      "episode_description": "Acompanhe matérias especiais sobre o mundo da sétima arte, o cinema."
+    },
+    {
+      "show_name": "Colombiana - Em Busca de Vingança",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_colombiana-em-busca-de-vinganca-2011-1_l_m.jpg",
+      "show_category": "Action / 2011",
+      "start_time": "02:20",
+      "end_time": "04:20",
+      "episode_description": "A jovem Cataleya testemunha a morte dos pais quando pequena e, ao crescer, se torna uma assassina profissional. Trabalhando para o tio, ela busca vingança contra o criminoso que matou sua família."
+    },
+    {
+      "show_name": "Mad Max - Estrada da Fúria",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mad-max-estrada-da-furia-2015_l_m.jpg",
+      "show_category": "Action / 2015",
+      "start_time": "04:20",
+      "end_time": "04:50",
+      "episode_description": "Em um mundo pós-apocalíptico, Max Rockatansky acredita que a melhor forma de sobreviver é não depender de ninguém. Porém, após ser capturado pelo tirano Immortan Joe e seus rebeldes, Max se vê no meio de uma guerra mortal iniciada pela Imperatriz Furiosa, que tenta salvar um grupo de garotas. Também tentando fugir, Max aceita ajudá-la."
+    },
+    {
+      "show_name": "Eu Sou a Lenda",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_eu-sou-a-lenda-2007-1_l_m.jpg",
+      "show_category": "Science fiction / 2007",
+      "start_time": "06:30",
+      "end_time": "08:15",
+      "episode_description": "Robert Neville é um brilhante cientista e o único sobrevivente de uma epidemia que transformou os humanos em mutantes sedentos por sangue. Andando pela cidade de Nova York, ele procura por outros possíveis sobreviventes e tenta achar a cura da praga usando seu próprio sangue, que é imune."
+    },
+    {
+      "show_name": "O Protetor",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-protetor-2014-1_l_m.jpg",
+      "show_category": "Action / 2014",
+      "start_time": "08:15",
+      "end_time": "10:40",
+      "episode_description": "O ex-agente secreto Robert McCall acredita que seu passado ficou para trás e tenta viver uma nova vida. Ele conhece Alina, uma jovem que está sob poder de uma quadrilha russa, e simplesmente não consegue ignorá-la. Munido de suas extraordinárias habilidades, ele ressurge como um verdadeiro anjo vingador. Longe da aposentadoria e com um novo desejo de fazer justiça, McCall decide ajudar quem foi brutalizado e oprimido."
+    },
+    {
+      "show_name": "Caçador de Tormentas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cacador-de-tormentas-2022_l_m.jpg",
+      "show_category": "Adventure / 2022",
+      "start_time": "10:40",
+      "end_time": "12:30",
+      "episode_description": "William Brody é o filho de um lendário caçador de tempestades, um pesquisador de fenômenos meteorológicos que morreu em um super tornado. Para o desgosto de sua mãe, o garoto decide seguir os passos do pai e continuar seu trabalho. Ele foge de casa e se une a um grupo especializado em entrar de cabeça nas maiores tormentas do mundo."
+    },
+    {
+      "show_name": "Nos Braços de um Assassino",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_nos-bracos-de-um-assassino-2019_l_m.jpg",
+      "show_category": "Thriller / 2019",
+      "start_time": "12:30",
+      "end_time": "14:20",
+      "episode_description": "Forçada a viver com um traficante de drogas por nove longos anos, a jovem Sarai escapa de seu complexo se escondendo em um carro de propriedade de Victor, um assassino charmoso e mortal. Depois de descobrir quem ela é, Victor decide arriscar tudo para proteger a bela mulher do chefão vingativo e seus capangas brutais."
+    },
+    {
+      "show_name": "A Origem",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-origem-2010-1_l_m.jpg",
+      "show_category": "Science fiction / 2010 / 5.2",
+      "start_time": "14:20",
+      "end_time": "16:55",
+      "episode_description": "Dom Cobb é um ladrão com a rara habilidade de roubar segredos do inconsciente, obtidos durante o estado de sono. Impedido de retornar para sua família, ele recebe a oportunidade de se redimir ao realizar uma tarefa aparentemente impossível: plantar uma ideia na mente do herdeiro de um império. Para realizar o crime perfeito, ele conta com a ajuda do parceiro Arthur, o discreto Eames e a arquiteta de sonhos Ariadne. Juntos, eles correm para que o inimigo não antecipe seus passos."
+    },
+    {
+      "show_name": "O Último Caçador de Bruxas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-ultimo-cacador-de-bruxas-2015_l_m.jpg",
+      "show_category": "Fantasy / 2015",
+      "start_time": "16:55",
+      "end_time": "18:45",
+      "episode_description": "Kaulder é um caçador de bruxas amaldiçoado a viver eternamente. Um dia, uma nova ameaça surge e coloca a humanidade em risco. Agora, ele precisa contar com a ajuda da jovem bruxa Chloe para enfrentar o mal."
+    },
+    {
+      "show_name": "Círculo de Fogo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_circulo-de-fogo-2013-1_l_m.jpg",
+      "show_category": "Science fiction / 2013",
+      "start_time": "18:45",
+      "end_time": "21:05",
+      "episode_description": "Criaturas monstruosas conhecidas como Kaiju começam a emergir do mar. Para combatê-los, a humanidade desenvolve uma série de robôs gigantescos, os Jaegers. Cada um é controlado por duas pessoas por meio de uma conexão neural. Entretanto, mesmo os Jaegers se mostram insuficientes para derrotar os Kaiju. Diante deste cenário, a última esperança é um velho robô, que passa a ser comandado por um antigo piloto e uma pessoa em treinamento."
     },
     {
       "show_name": "O Atirador - Legado",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-action/tomorrow/br_o-atirador-legado-2014-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-atirador-legado-2014-1_l_m.jpg",
       "show_category": "Action / 2014",
-      "start_time": "03:05",
-      "end_time": "04:55",
+      "start_time": "21:05",
+      "end_time": "22:55",
       "episode_description": "Após o assassinato de vários líderes militares, Brandon acredita que seu pai tenha sido uma das vítimas. Decidido a encontrar os assassinos, ele descobre que seu pai continua vivo, mas foi envolvido por outros motivos."
     },
     {
-      "show_name": "Dente por Dente",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-action/tomorrow/br_dente-por-dente-2021_l_m.webp",
-      "show_category": "Action / 2021 / 5.7",
-      "start_time": "04:55",
-      "end_time": "05:25",
-      "episode_description": "Ademar é sócio de uma empresa de segurança particular que presta serviço para uma grande construtora de São Paulo. Quando seu sócio Teixeira desaparece, ele começa uma investigação e, junto com Joana, mulher de Teixeira, percebe que o amigo estava envolvido em um esquema criminoso. A incansável busca de Ademar pela verdade é marcada por sonhos premonitórios assustadores."
-    },
-    {
-      "show_name": "MIB: Homens de Preto - Internacional",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-action/tomorrow/br_mib-homens-de-preto-internacional-2019_l_m.webp",
-      "show_category": "Science fiction / 2019",
-      "start_time": "06:30",
-      "end_time": "08:30",
-      "episode_description": "Os agentes H e M usam armas de alta tecnologia para combaterem alienígenas que podem assumir a forma de qualquer ser humano."
-    },
-    {
-      "show_name": "Anaconda 2 - A Caçada pela Orquídea Sangrenta",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-action/tomorrow/br_anaconda-2-a-cacada-pela-orquidea-sangrenta-2004-2_l_m.webp",
-      "show_category": "Thriller / 2004",
-      "start_time": "08:30",
-      "end_time": "10:15",
-      "episode_description": "Enquanto exploram a selva de Borneo em busca da mítica orquídea negra, responsável por garantir vida eterna, um grupo de cientistas se depara com monstruosas cobras Anacondas, que vêm se alimentando das orquídeas há anos."
-    },
-    {
       "show_name": "Frankenstein - Entre Anjos e Demônios",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-action/tomorrow/br_frankenstein-entre-anjos-e-demonios-2014-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_frankenstein-entre-anjos-e-demonios-2014-1_l_m.jpg",
       "show_category": "Fantasy / 2014",
-      "start_time": "10:15",
-      "end_time": "11:55",
-      "episode_description": "Após enterrar o Dr. Victor Frankenstein, o monstro criado por ele é atacado por demônios, que pretendem capturá-lo. Ele consegue se salvar e segue sua vida. Porém, 200 anos depois, ele agora com o nome de Adam, acaba se envolvendo em uma guerra entre dois clãs imortais na cidade ancestral de Darkhaven."
-    },
-    {
-      "show_name": "Imortais",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-action/tomorrow/br_imortais-2011_l_m.webp",
-      "show_category": "Adventure / 2011 / 6.1",
-      "start_time": "11:55",
-      "end_time": "13:50",
-      "episode_description": "O impiedoso rei Hipérion busca o arco de Épiro para dominar o mundo e destruir os deuses. O único que pode detê-lo é Teseu, um corajoso jovem escolhido por Zeus. Com a ajuda da sacerdotisa Fedra, ele comandará essa batalha épica."
-    },
-    {
-      "show_name": "Postais Mortíferos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-action/tomorrow/br_postais-mortiferos-2020_l_m.webp",
-      "show_category": "Thriller / 2020",
-      "start_time": "13:50",
-      "end_time": "15:45",
-      "episode_description": "Um nova-iorquino tem sua vida virada de cabeça para baixo quando descobre que sua filha recém-casada foi brutalmente assassinada. Crimes semelhantes são relatados por toda a Europa, com cada morte acompanhada por um cartão postal enviado a um jornalista local. Enquanto ele segue a trilha das pistas, uma jovem repórter recebe o próximo cartão."
-    },
-    {
-      "show_name": "O Ilusionista",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-action/tomorrow/br_o-ilusionista-2006_l_m.webp",
-      "show_category": "Mystery / 2006",
-      "start_time": "15:45",
-      "end_time": "17:45",
-      "episode_description": "O ilusionista Eisenheim compete pelo amor da jovem Sophie com o Príncipe Leopoldo, herdeiro do trono do Império Austro-Húngaro, sem saber que está entrando em um jogo perigoso."
-    },
-    {
-      "show_name": "Rampage - Destruição Total",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-action/tomorrow/br_rampage-destruic-o-total-2018_l_m.webp",
-      "show_category": "Action / 2018",
-      "start_time": "17:45",
-      "end_time": "19:45",
-      "episode_description": "Davis Okoye é um primatologista recluso que compartilha um vínculo inabalável com George, um gorila muito inteligente que está sob seus cuidados desde o nascimento. Quando um experimento genético desonesto é feito em um grupo de predadores que inclui o primata, os animais se transformam em monstros que destroem tudo em seu caminho. Agora, Okoye precisa conseguir um antídoto e impedir que seu amigo provoque uma catástrofe global."
-    },
-    {
-      "show_name": "Os Infiltrados",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-action/tomorrow/br_os-infiltrados-2006-1_l_m.webp",
-      "show_category": "Crime drama / 2006",
-      "start_time": "19:45",
-      "end_time": "22:25",
-      "episode_description": "Billy Costigan, um jovem policial, recebe a missão de se infiltrar na máfia, no grupo comandado por Frank Costello. Billy conquista sua confiança ao mesmo tempo, em que Colin Sullivan, um criminoso que atuou na polícia como informante de Costello, também ascende dentro da corporação. Tanto Billy quanto Colin se sentem aflitos devido à vida dupla que levam. Mas, quando a máfia e a polícia descobrem que há um espião entre eles, a vida de ambos passa a correr perigo."
-    },
-    {
-      "show_name": "O Exorcista",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-action/tomorrow/br_o-exorcista-1973-1_l_m.webp",
-      "show_category": "Horror / 1973",
-      "start_time": "22:25",
+      "start_time": "22:55",
       "end_time": "00:35",
-      "episode_description": "Atriz vai gradativamente tomando consciência de que a sua filha de 12 anos está tendo um comportamento completamente assustador. Ela decide pedir ajuda a um padre, que também é um psiquiatra, e ele chega à conclusão de que a garota está possuída pelo demônio. Ele solicita a ajuda de um segundo sacerdote, especialista em exorcismo, para tentar livrar a menina desta terrível possessão."
+      "episode_description": "Após enterrar o Dr. Victor Frankenstein, o monstro criado por ele é atacado por demônios, que pretendem capturá-lo. Ele consegue se salvar e segue sua vida. Porém, 200 anos depois, ele agora com o nome de Adam, acaba se envolvendo em uma guerra entre dois clãs imortais na cidade ancestral de Darkhaven."
     }
   ]
 }

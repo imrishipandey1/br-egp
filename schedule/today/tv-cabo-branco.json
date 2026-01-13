@@ -1,58 +1,114 @@
 {
   "channel": "Tv Cabo Branco",
-  "date": "12/01/2026",
+  "date": "13/01/2026",
   "schedule": [
     {
-      "show_name": "Domingão com Huck",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_doming-o-com-huck-s2026e227_l_m.webp",
-      "show_category": "Temporada 2026 Episódio 227",
-      "start_time": "01:50",
-      "end_time": "04:30",
-      "episode_description": "Após animar o lançamento de \"Coração Acelerado\", Paula Fernandes embala o programa. Elenco da nova novela das sete participa do \"Sexolândia\"."
-    },
-    {
-      "show_name": "Seleção BBB",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_selec-o-bbb_l_m.webp",
-      "show_category": "Reality",
-      "start_time": "04:30",
-      "end_time": "05:00",
-      "episode_description": "O público escolhe dois membros de cada uma das Casas de Vidro para participar do BBB 26."
-    },
-    {
       "show_name": "Fantástico",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_fantastico_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_fantastico_l_m.jpg",
       "show_category": "Newsmagazine",
       "start_time": "05:00",
-      "end_time": "05:30",
+      "end_time": "07:30",
       "episode_description": "Em forma de revista eletrônica, o programa mistura jornalismo, denúncia, esporte, humor, dramaturgia, música e ciência."
     },
     {
-      "show_name": "Globo de Ouro 2026",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_globo-de-ouro-2026_l_m.webp",
-      "show_category": "Special",
-      "start_time": "07:30",
-      "end_time": "09:40",
-      "episode_description": "De Los Angeles, nos Estados Unidos, a 83ª edição do Globo de Ouro."
+      "show_name": "Vale a Pena Ver de Novo - Rainha da Sucata",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vale-a-pena-ver-de-novo-rainha-da-sucata_l_m.jpg",
+      "show_category": "Soap",
+      "start_time": "01:35",
+      "end_time": "02:55",
+      "episode_description": "A rivalidade entre Maria do Carmo, uma empresária que enriqueceu com os negócios do pai, e Laurinha Figueiroa, uma socialite falida, no universo dos novos-ricos da decadente sociedade paulistana."
     },
     {
-      "show_name": "Domingo Maior",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_domingo-maior-1_l_m.webp",
-      "show_category": "Action",
-      "start_time": "09:40",
-      "end_time": "11:30",
-      "episode_description": "Acompanhe filmes de diferentes gêneros que marcaram época na cultura mundial."
+      "show_name": "Êta Mundo Melhor!",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_eta-mundo-melhor_l_m.jpg",
+      "show_category": "Drama",
+      "start_time": "02:55",
+      "end_time": "03:40",
+      "episode_description": "Candinho e seu fiel companheiro, Policarpo, voltaram para novas aventuras na cidade grande. Apesar de toda riqueza que o cerca, Candinho enfrenta uma nova saga: a busca pelo filho perdido."
+    },
+    {
+      "show_name": "JPB2",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jpb2_l_m.jpg",
+      "show_category": "News",
+      "start_time": "03:40",
+      "end_time": "04:10",
+      "episode_description": "Acompanhe os acontecimentos do dia a dia e os debates entre a população e as autoridades."
+    },
+    {
+      "show_name": "Coração Acelerado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_corac-o-acelerado_l_m.jpg",
+      "show_category": "Soap",
+      "start_time": "04:10",
+      "end_time": "05:00",
+      "episode_description": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\"."
+    },
+    {
+      "show_name": "Jornal Nacional",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-nacional-1_l_m.jpg",
+      "show_category": "News",
+      "start_time": "05:00",
+      "end_time": "05:50",
+      "episode_description": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo."
+    },
+    {
+      "show_name": "Três Graças",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tres-gracas_l_m.jpg",
+      "show_category": "Drama",
+      "start_time": "05:50",
+      "end_time": "06:55",
+      "episode_description": "Gerluce Maria das Graças integra uma família de mães solo: é filha de Lígia Maria e mãe de Joélly Maria. Criada pela mãe, que engravidou na adolescência e foi abandonada pelo seu pai, Gerluce enfrenta um destino parecido com a chegada da filha."
+    },
+    {
+      "show_name": "Big Brother Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_big-brother-brasil-s26e01_l_m.jpg",
+      "show_category": "Temporada 26 Episódio 1",
+      "start_time": "06:55",
+      "end_time": "07:55",
+      "episode_description": "Exibição de momentos extras do que acontece na casa mais vigiada do Brasil."
+    },
+    {
+      "show_name": "Jornal da Globo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-da-globo_l_m.jpg",
+      "show_category": "News",
+      "start_time": "07:55",
+      "end_time": "08:50",
+      "episode_description": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura."
+    },
+    {
+      "show_name": "Coração Acelerado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_corac-o-acelerado_l_m.jpg",
+      "show_category": "Soap",
+      "start_time": "08:50",
+      "end_time": "09:35",
+      "episode_description": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\"."
     },
     {
       "show_name": "Vai que Cola",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_vai-que-cola-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-1_l_m.jpg",
       "show_category": "Comedy",
-      "start_time": "11:30",
-      "end_time": "12:30",
+      "start_time": "09:35",
+      "end_time": "10:15",
       "episode_description": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede."
     },
     {
+      "show_name": "Vai que Cola",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-1_l_m.jpg",
+      "show_category": "Comedy",
+      "start_time": "10:15",
+      "end_time": "10:55",
+      "episode_description": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede."
+    },
+    {
+      "show_name": "Pixinguinha - Um Homem Carinhoso",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pixinguinha-um-homem-carinhoso-2019_l_m.jpg",
+      "show_category": "Biography / 2019",
+      "start_time": "10:55",
+      "end_time": "12:30",
+      "episode_description": "A vida de Alfredo da Rocha Vianna Junior, o Pixinguinha, contada desde suas primeiras apresentações na flauta até a composição de suas muitas obras-primas, como \"Carinhoso\". Negro e neto de escravos, ele foi um gênio à frente do seu tempo."
+    },
+    {
       "show_name": "Hora 1",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_hora-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hora-1_l_m.jpg",
       "show_category": "News",
       "start_time": "12:30",
       "end_time": "14:30",
@@ -60,7 +116,7 @@
     },
     {
       "show_name": "Bom Dia PB",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_bom-dia-pb_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bom-dia-pb_l_m.jpg",
       "show_category": "News",
       "start_time": "14:30",
       "end_time": "17:00",
@@ -68,7 +124,7 @@
     },
     {
       "show_name": "Bom Dia Brasil",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_bom-dia-brasil-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bom-dia-brasil-1_l_m.jpg",
       "show_category": "News",
       "start_time": "17:00",
       "end_time": "18:00",
@@ -76,7 +132,7 @@
     },
     {
       "show_name": "Encontro com Patrícia Poeta",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_encontro-com-patricia-poeta_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_encontro-com-patricia-poeta_l_m.jpg",
       "show_category": "Entertainment",
       "start_time": "18:00",
       "end_time": "19:05",
@@ -84,7 +140,7 @@
     },
     {
       "show_name": "Mais Você",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_mais-voce-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mais-voce-1_l_m.jpg",
       "show_category": "Talk",
       "start_time": "19:05",
       "end_time": "20:15",
@@ -92,7 +148,7 @@
     },
     {
       "show_name": "JPB1",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_jpb1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jpb1_l_m.jpg",
       "show_category": "News",
       "start_time": "20:15",
       "end_time": "21:30",
@@ -100,7 +156,7 @@
     },
     {
       "show_name": "Globo Esporte PB",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_news-globo-esporte-pb_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_news-globo-esporte-pb_l_m.jpg",
       "show_category": "",
       "start_time": "21:30",
       "end_time": "21:55",
@@ -108,7 +164,7 @@
     },
     {
       "show_name": "Jornal Hoje",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_jornal-hoje-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-hoje-1_l_m.jpg",
       "show_category": "News",
       "start_time": "21:55",
       "end_time": "23:15",
@@ -116,23 +172,23 @@
     },
     {
       "show_name": "Terra Nostra - Edição Especial",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_terra-nostra-edic-o-especial_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_terra-nostra-edic-o-especial_l_m.jpg",
       "show_category": "Soap",
       "start_time": "23:15",
       "end_time": "23:55",
       "episode_description": "Uma parte da história da formação da sociedade brasileira do início do século XX é contada a partir do romance de dois jovens italianos, Giuliana e Matteo. Eles se conhecem em 1894 a bordo do navio que transporta imigrantes para trabalhar no Brasil."
     },
     {
-      "show_name": "Podres de Ricos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_podres-de-ricos-2018_l_m.webp",
-      "show_category": "Romantic comedy / 2018",
+      "show_name": "Quatro Vidas de um Cachorro",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quatro-vidas-de-um-cachorro-2017_l_m.jpg",
+      "show_category": "Comedy drama / 2017",
       "start_time": "23:55",
       "end_time": "01:35",
-      "episode_description": "Rachel Chu é uma professora de economia nos Estados Unidos e namora Nick Young há algum tempo. Quando Nick convida Rachel para ir ao casamento do melhor amigo em Singapura, ele esquece de avisar à namorada que, como herdeiro de uma fortuna, ele é um dos solteiros mais cobiçados do local, colocando Rachel na mira de outras candidatas e da mãe de Nick, que desaprova o namoro."
+      "episode_description": "Um cachorro morre e reencarna várias vezes na Terra. Embora encontre novas pessoas e viva muitas aventuras, ele mantém o sonho de reencontrar Ethan, o seu primeiro dono, que sempre foi seu maior amigo."
     },
     {
       "show_name": "Três Graças",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_tres-gracas_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tres-gracas_l_m.jpg",
       "show_category": "Drama",
       "start_time": "05:50",
       "end_time": "06:20",

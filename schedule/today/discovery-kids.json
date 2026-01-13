@@ -1,522 +1,498 @@
 {
   "channel": "Discovery Kids",
-  "date": "12/01/2026",
+  "date": "13/01/2026",
   "schedule": [
     {
-      "show_name": "Topo Gigio",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_topo-gigio-s02e15_l_m.webp",
-      "show_category": "Temporada 2 Episódio 15 - Web Rádio Bum",
-      "start_time": "01:00",
-      "end_time": "01:12",
-      "episode_description": "Jô está resfriado, e Gigio e Bob se oferecem para substituí-lo como apresentadores de seu programa de rádio na internet que dá conselhos a todos. Os dois acabam causando um caos."
-    },
-    {
-      "show_name": "Topo Gigio",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_topo-gigio-s02e17-a-gigionet_l_m.webp",
-      "show_category": "Temporada 2 Episódio 17 - A Gigionet",
-      "start_time": "01:12",
-      "end_time": "01:23",
-      "episode_description": "Zoe tem que ficar em casa devido a uma gripe e a internet de toda a vizinhança cai. No entanto, Gigio está pronto a ajudá-la com a sua Gigionet."
-    },
-    {
-      "show_name": "Topo Gigio",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_topo-gigio-s02e19-cade-voce-bonsai_l_m.webp",
-      "show_category": "Temporada 2 Episódio 19 - Cadê Você, Bonsai?",
-      "start_time": "01:23",
-      "end_time": "01:35",
-      "episode_description": "Mamãe incumbe Gigio de cuidar de um bonsai. Mas depois de uma soneca reparadora, o bonsai parece ter desaparecido."
-    },
-    {
-      "show_name": "Topo Gigio",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_topo-gigio-s02e21-o-segredo-do-vovo_l_m.webp",
-      "show_category": "Temporada 2 Episódio 21 - O Segredo do Vovô",
-      "start_time": "01:35",
-      "end_time": "01:46",
-      "episode_description": "Gigio e Zoe descobrem que o vovô Martin acabou de chegar para uma visita, mas logo descobrem que ele está agindo de forma estranha."
-    },
-    {
-      "show_name": "Mermicorno - A Queda das Estrelas",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_mermicorno-a-queda-das-estrelas-s01e02-entrincheirada_l_m.webp",
-      "show_category": "Temporada 1 Episódio 2 - Entrincheirada",
-      "start_time": "01:46",
-      "end_time": "02:08",
-      "episode_description": "Astra faz um acordo arriscado e enfrenta consequências desastrosas."
-    },
-    {
-      "show_name": "Hello Kitty: Super Style!",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_hello-kitty-super-style-s12e01-o-caso-do-misterio-misterioso_l_m.webp",
-      "show_category": "Temporada 12 Episódio 1 - O Caso do Mistério Misterioso",
-      "start_time": "02:08",
-      "end_time": "02:21",
-      "episode_description": "DB come acidentalmente as cintilâncias que Nori pretendia usar em sua próxima sobremesa. Kitty investiga o que aconteceu, mas DB tenta esconder o que fez a qualquer custo."
-    },
-    {
-      "show_name": "Hello Kitty: Super Style!",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_hello-kitty-super-style_l_m.webp",
-      "show_category": "Children",
-      "start_time": "02:21",
-      "end_time": "02:32",
-      "episode_description": "Kitty constrói para Nori um ajudante robótico para fazer a vitamina perfeita. Quando o chef eletrônico se rebela, Nori e Kitty precisam derrotá-lo em uma competição de vitaminas."
-    },
-    {
-      "show_name": "Mini Beat Power Rockers",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_mini-beat-power-rockers-s03e22-bebe-dj_l_m.webp",
-      "show_category": "Temporada 3 Episódio 22 - Bebê DJ",
-      "start_time": "02:32",
-      "end_time": "02:37",
-      "episode_description": "Uma nova amiga chega na creche, a Bebê DJ; ela é a vida da festa, mas quando os Power Rockers querem participar, ela não deixa."
-    },
-    {
-      "show_name": "Mini Beat Power Rockers",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_mini-beat-power-rockers-s03e23-bom-dia-pequeninos_l_m.webp",
-      "show_category": "Temporada 3 Episódio 23 - Bom Dia, Pequeninos!",
-      "start_time": "02:37",
-      "end_time": "02:42",
-      "episode_description": "Os bebês passam por suas rotinas diárias antes de irem para a Creche Arco-íris. Cada um deles tem uma manhã divertida, mas um pouco caótica."
-    },
-    {
-      "show_name": "Mini Beat Power Rockers",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_mini-beat-power-rockers-s03e24-adeus-chupeta_l_m.webp",
-      "show_category": "Temporada 3 Episódio 24 - Adeus Chupeta",
-      "start_time": "02:42",
-      "end_time": "02:47",
-      "episode_description": "O Bebê Metal decide que está na hora de abandonar o hábito da chupeta, e escreve uma linda balada de despedida com a ajuda Dolores e dos outros bebês."
-    },
-    {
-      "show_name": "Mini Beat Power Rockers",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_mini-beat-power-rockers-s03e25-ultra-mini-beat-power-rockers_l_m.webp",
-      "show_category": "Temporada 3 Episódio 25 - Ultra Mini Beat Power Rockers",
-      "start_time": "02:47",
-      "end_time": "02:53",
-      "episode_description": "Dolores encolhe acidentalmente os bebês até ficarem do tamanho de uma pulga. Agora, eles precisam atravessar o pátio inteiro para chegar aos instrumentos e tentar chamar a atenção da babá."
-    },
-    {
-      "show_name": "Mini Beat Power Rockers",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_mini-beat-power-rockers-s03e26-uma-planta-cantarnivora_l_m.webp",
-      "show_category": "Temporada 3 Episódio 26 - Uma Planta Cantarnívora",
-      "start_time": "02:53",
-      "end_time": "02:58",
-      "episode_description": "Dolores traz para os bebês uma plantinha. Uma canção de ninar, um pouco de água e luz solar é tudo de que eles precisam para cuidar dela, mas quando Wat decide tocar um rock, a planta começa a crescer sem parar."
-    },
-    {
-      "show_name": "Mini Beat Power Rockers",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_mini-beat-power-rockers-s03e27-sigam-o-lider_l_m.webp",
-      "show_category": "Temporada 3 Episódio 27 - Sigam o Líder",
-      "start_time": "02:58",
-      "end_time": "03:03",
-      "episode_description": "Dolores não consegue fazer os bebês dormirem, e Jay chega à Creche Arco-íris com uma ideia: se não puder vencê-los, junte-se a eles. Cantando em falsete, Jay entra na banda e deixa os bebês exaustos."
-    },
-    {
-      "show_name": "Mini Beat Power Rockers",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_mini-beat-power-rockers_l_m.webp",
-      "show_category": "Children",
-      "start_time": "03:03",
-      "end_time": "03:07",
-      "episode_description": "As aventuras cheias de ritmo de um improvável grupo de bebês músicos em uma creche."
-    },
-    {
-      "show_name": "Zouk a Bruxinha",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_zouk-a-bruxinha-s01e31-a-familia-abobora_l_m.webp",
-      "show_category": "Temporada 1 Episódio 31 - A Família Abóbora",
-      "start_time": "03:07",
-      "end_time": "03:18",
-      "episode_description": "Zouk decide plantar mandrágoras gigantes sem a ajuda da sua mãe. Mas Bobó, sobrinho do Senhor Abóbora, passa a tarde na mansão. O Senhor Abóbora mostra as qualidades do menino, mas ele se revela muito arteiro e atrapalha Zouk."
-    },
-    {
-      "show_name": "Zouk a Bruxinha",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_zouk-a-bruxinha-s01e04-tem-uma-gargula-na-geladeira_l_m.webp",
-      "show_category": "Temporada 1 Episódio 4 - Tem uma Gárgula na Geladeira",
-      "start_time": "03:18",
-      "end_time": "03:29",
-      "episode_description": "Zouk convida sua amiga Galatéia pra noite do pijama na mansão, então pra tudo sair perfeito, ela decide deixar a mansão o mais normal e arrumada possível. Mas ela só não contava que as gárgulas da geladeira capturariam o Jojo."
-    },
-    {
       "show_name": "Peppa",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_peppa-s08e25-trailer-de-aventuras_l_m.webp",
-      "show_category": "Temporada 8 Episódio 25 - Trailer de Aventuras",
-      "start_time": "03:29",
-      "end_time": "03:34",
-      "episode_description": "Peppa, George e seus pais vivem uma aventura viajando em um trailer puxado pelo carro da família."
-    },
-    {
-      "show_name": "Peppa",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_peppa-s08e26-amigos-de-trailer_l_m.webp",
-      "show_category": "Temporada 8 Episódio 26 - Amigos de Trailer",
-      "start_time": "03:34",
-      "end_time": "03:39",
-      "episode_description": "Peppa e George acordam no trailer e percebem que estão no meio de um nevoeiro. Quando ele se dissipa, a família repara que estacionou no alto de um penhasco, o mesmo que Mamãe Pig queria visitar."
-    },
-    {
-      "show_name": "Peppa",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_peppa-s08e01-o-robo-do-vovo_l_m.webp",
-      "show_category": "Temporada 8 Episódio 1 - O Robô do Vovô",
-      "start_time": "03:39",
-      "end_time": "03:44",
-      "episode_description": "Peppa e George vão brincar na casa da Vovó e do Vovô Pig. A Vovó, Peppa e George vão até o galpão para ver o que o Vovô está fazendo e descobrem que ele construiu um robô."
-    },
-    {
-      "show_name": "Peppa Pig",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_peppa-pig-s07e07-macaco-com-tosse_l_m.webp",
-      "show_category": "Temporada 7 Episódio 7 - Macaco com Tosse",
-      "start_time": "03:44",
-      "end_time": "04:10",
-      "episode_description": "Mamãe ensina Peppa a piscar, então, na brincadeira com Zoe, ela diz que o macaco está tossindo e pisca para a amiga para dizer que está fingindo. Elas ensinam George a piscar."
-    },
-    {
-      "show_name": "Peppa",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_peppa-s08e03-nuvens_l_m.webp",
-      "show_category": "Temporada 8 Episódio 3 - Nuvens",
-      "start_time": "04:10",
-      "end_time": "04:15",
-      "episode_description": "Mamãe, Papai, Peppa e George decidem ir à praia em um lindo dia de sol. De repente, uma nuvenzinha cobre o sol por um minuto, mas logo passa e o sol reaparece."
-    },
-    {
-      "show_name": "Peppa Pig",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_peppa-pig_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_peppa_l_m.jpg",
       "show_category": "Children",
-      "start_time": "04:15",
-      "end_time": "04:20",
-      "episode_description": "Papai lê uma história para Peppa e George na hora de dormir; Peppa e sua família vão viajar e o papai perde a chave do carro; George visita uma loja de brinquedos."
-    },
-    {
-      "show_name": "Peppa Pig",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_peppa-pig_l_m.webp",
-      "show_category": "Children",
-      "start_time": "04:20",
-      "end_time": "04:25",
-      "episode_description": "Papai lê uma história para Peppa e George na hora de dormir; Peppa e sua família vão viajar e o papai perde a chave do carro; George visita uma loja de brinquedos."
-    },
-    {
-      "show_name": "Peppa Pig",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_peppa-pig-s07e08-carro-da-policia_l_m.webp",
-      "show_category": "Temporada 7 Episódio 8 - Carro da Polícia",
-      "start_time": "04:25",
-      "end_time": "04:48",
-      "episode_description": "Os policiais Panda e Esquilo visitam Peppa e seus amigos e oferecem para duas crianças a chance de passar o dia com a polícia. Peppa e Freddy levantam as mãos e ficam ansiosos para solucionar crimes e ligar a sirene da viatura."
-    },
-    {
-      "show_name": "Peppa Pig",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_peppa-pig-s07e09-pulando-e-saltando_l_m.webp",
-      "show_category": "Temporada 7 Episódio 9 - Pulando e Saltando",
-      "start_time": "04:48",
-      "end_time": "05:13",
-      "episode_description": "Peppa e George brincam no jardim, e Rebecca Coelha se junta a eles e os ensina a pular. Depois, Suzy Ovelha aparece e os ensina a saltar. Em seguida, Pedro chega e lança um desafio."
-    },
-    {
-      "show_name": "Peppa Pig",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_peppa-pig-s07e10-o-resgate_l_m.webp",
-      "show_category": "Temporada 7 Episódio 10 - O Resgate",
-      "start_time": "05:13",
-      "end_time": "05:36",
-      "episode_description": "Dona Coelha está trabalhando na biblioteca enquanto o Senhor Touro conserta o teto. De repente, ela recebe um chamado de resgate e pega a escada do Senhor Touro emprestada para tirar a tartaruga Tiddles de uma árvore."
-    },
-    {
-      "show_name": "Peppa",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_peppa_l_m.webp",
-      "show_category": "Children",
-      "start_time": "06:24",
-      "end_time": "06:47",
+      "start_time": "00:03",
+      "end_time": "00:27",
       "episode_description": "Papai compra uma câmera de vídeo; mamãe e papai ajudam Peppa a praticar suas falas para uma peça de teatro no parquinho; é o dia do aniversário da mamãe; Peppa e George brincam no jardim do vovô."
     },
     {
-      "show_name": "Mini Beat Power Rockers",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_mini-beat-power-rockers-s04e08-o-segredo-da-mestre-baba_l_m.webp",
-      "show_category": "Temporada 4 Episódio 8 - O Segredo da Mestre Babá",
-      "start_time": "06:47",
-      "end_time": "06:52",
-      "episode_description": "Hoje, a rígida Mestre Babá assume a creche mas, apesar disso, os Mini Beat buscam formas de tocar seus instrumentos. Quando, sem querer, os bebês descobrem uma paixão musical da Mestre Babá, ela muda tanto que eles se arrependem."
+      "show_name": "Bubble's Hotel",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bubble-s-hotel-s01e16-reac-es-em-cadeia_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 16 - Reações em Cadeia",
+      "start_time": "00:27",
+      "end_time": "00:39",
+      "episode_description": "Após Bubble tentar ajudar a hóspede Marie com seus experimentos científicos, eles começam a se misturar e causar confusão no hotel."
+    },
+    {
+      "show_name": "Turma da Mônica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_turma-da-monica-s04e11-o-misterio-da-obra-de-arte_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 11 - O Mistério da Obra de Arte",
+      "start_time": "00:39",
+      "end_time": "00:46",
+      "episode_description": "Um grupo de amigos está sempre se metendo em confusões no Bairro do Limoeiro. Mônica, Cebolinha, Cascão, Magali e o resto da turminha participam de várias aventuras."
+    },
+    {
+      "show_name": "Turma da Mônica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_turma-da-monica-s02e08-feliz-com-meu-brinquedo_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 8 - Feliz com Meu Brinquedo",
+      "start_time": "00:46",
+      "end_time": "00:53",
+      "episode_description": "Cascão dá uma aula de criatividade transformando brinquedos comuns em personagens das mais incríveis aventuras. Uma pequena nave de plástico pode se transformar na arma espacial que defenderá a Terra de malvados invasores alienígenas."
+    },
+    {
+      "show_name": "Peppa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_peppa_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "00:53",
+      "end_time": "01:18",
+      "episode_description": "Papai compra uma câmera de vídeo; mamãe e papai ajudam Peppa a praticar suas falas para uma peça de teatro no parquinho; é o dia do aniversário da mamãe; Peppa e George brincam no jardim do vovô."
+    },
+    {
+      "show_name": "Lupi & Baduki",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lupi-baduki-s01e08-o-temivel-eclipse_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 8 - O Temível Eclipse",
+      "start_time": "01:18",
+      "end_time": "01:29",
+      "episode_description": "Em uma expedição pela floresta, Lupi se surpreende com a notícia de que o objetivo da turma é ver um eclipse, que começará logo. Porém, Lupi não consegue admitir para os amigos que tem medo do escuro, o que só piora a situação."
+    },
+    {
+      "show_name": "Zouk a Bruxinha",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_zouk-a-bruxinha-s01e16-a-vizinha-que-n-o-gostava-de-feiticeiros_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 16 - A Vizinha que Não Gostava de Feiticeiros",
+      "start_time": "01:29",
+      "end_time": "01:40",
+      "episode_description": "Uma nova vizinha odeia feiticeiros e quer expô-los. Zouk tenta mudar a opinião dela com um chá, mas a vizinha, ao ouvir o Sr. Abóbora cantar, acha que ele é um homem transformado e o sequestra. Zouk se irrita e considera transformá-la em vegetal."
+    },
+    {
+      "show_name": "Peppa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_peppa_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "01:40",
+      "end_time": "02:05",
+      "episode_description": "Papai compra uma câmera de vídeo; mamãe e papai ajudam Peppa a praticar suas falas para uma peça de teatro no parquinho; é o dia do aniversário da mamãe; Peppa e George brincam no jardim do vovô."
+    },
+    {
+      "show_name": "Peppa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_peppa-s08e12-lentes_l_m.jpg",
+      "show_category": "Temporada 8 Episódio 12 - Lentes",
+      "start_time": "02:05",
+      "end_time": "02:10",
+      "episode_description": "Peppa entrega os óculos errados para Penny e Pedro sem querer e eles não conseguem enxergar muito bem. Madame Gazela ensina a eles a importância das lentes e como elas estão presentes em várias coisas."
+    },
+    {
+      "show_name": "Peppa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_peppa_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "02:10",
+      "end_time": "02:33",
+      "episode_description": "Papai compra uma câmera de vídeo; mamãe e papai ajudam Peppa a praticar suas falas para uma peça de teatro no parquinho; é o dia do aniversário da mamãe; Peppa e George brincam no jardim do vovô."
+    },
+    {
+      "show_name": "Hello Kitty: Super Style!",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hello-kitty-super-style-s04e02-em-busca-de-um-sorriso_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 2 - Em Busca de um Sorriso",
+      "start_time": "02:33",
+      "end_time": "02:44",
+      "episode_description": "Kitty descobre que Pinky está triste e embarca em uma missão para alegrá-la."
+    },
+    {
+      "show_name": "Mermicorno - A Queda das Estrelas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mermicorno-a-queda-das-estrelas-s01e01-miss-o-mermicorno_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - Missão - Mermicorno",
+      "start_time": "02:44",
+      "end_time": "03:08",
+      "episode_description": "Astra busca sua irmã desaparecida em uma jornada mágica."
+    },
+    {
+      "show_name": "Mermicorno - A Queda das Estrelas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mermicorno-a-queda-das-estrelas-s01e02-entrincheirada_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Entrincheirada",
+      "start_time": "03:08",
+      "end_time": "03:30",
+      "episode_description": "Astra faz um acordo arriscado e enfrenta consequências desastrosas."
+    },
+    {
+      "show_name": "Turma da Mônica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_turma-da-monica-s03e22-coelho-por-um-dia_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 22 - Coelho por um Dia",
+      "start_time": "03:30",
+      "end_time": "03:37",
+      "episode_description": "Em mais uma travessura com o Sansão, Cebolinha acidentalmente rasga uma das orelhas do coelho. Mônica, desta vez, traz uma nova solução: Cebolinha será seu mascote até ele pedir desculpas do jeito certo."
+    },
+    {
+      "show_name": "Turma da Mônica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_turma-da-monica-s02e15-sozinho-no-mundo_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 15 - Sozinho no Mundo",
+      "start_time": "03:37",
+      "end_time": "03:44",
+      "episode_description": "Cebolinha exagerou na bagunça. Sua mãe ficou louca da vida e ele precisou arrumar tudo e ainda foi para cama mais cedo. Contrariado na véspera do seu aniversário, tudo que o Cebolinha quer é poder ficar sozinho no mundo."
+    },
+    {
+      "show_name": "O Show da Luna!",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-show-da-luna-s08e08-voa-ou-n-o-voa_l_m.jpg",
+      "show_category": "Temporada 8 Episódio 8 - Voa ou Não Voa?",
+      "start_time": "03:44",
+      "end_time": "03:55",
+      "episode_description": "Luna, Júpiter e Cláudio querem saber sobre a origem da pipa e viajam para China para descobrir."
+    },
+    {
+      "show_name": "O Show da Luna!",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-show-da-luna-s08e10-luzes-camera-ac-o_l_m.jpg",
+      "show_category": "Temporada 8 Episódio 10 - Luzes, Câmera, Ação!",
+      "start_time": "03:55",
+      "end_time": "04:08",
+      "episode_description": "Luna, Júpiter e Cláudio vão ao cinema e se perguntam quem inventou essa maravilha. Para descobrir a resposta, eles viajam no tempo e participam do primeiro filme do mundo."
+    },
+    {
+      "show_name": "Polly Pocket",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_polly-pocket-s04e04-acampamento-kapow_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 4 - Acampamento Kapow",
+      "start_time": "04:08",
+      "end_time": "04:19",
+      "episode_description": "Bella se vê perdida no Acampamento Kapow e pede ajuda a Polly e a Shani para ajudá-la."
+    },
+    {
+      "show_name": "Polly Pocket",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_polly-pocket-s04e05-e-so-um-dente_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 5 - É Só um Dente",
+      "start_time": "04:19",
+      "end_time": "04:30",
+      "episode_description": "Polly, Lila e Shani encontram uma fada do dente em treinamento que corre o risco de perder suas asas se não conseguir completar suas tarefas de coleta de dentes até a próxima manhã."
+    },
+    {
+      "show_name": "Peppa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_peppa-s08e11-iglu_l_m.jpg",
+      "show_category": "Temporada 8 Episódio 11 - Iglu",
+      "start_time": "04:30",
+      "end_time": "04:35",
+      "episode_description": "Peppa e George estão brincando na neve do jardim. Papai Pig ajuda os irmãos a construírem seu próprio iglu. Penny Urso Polar fica muito impressionada com o iglu, afinal, ursos polares adoram iglus."
+    },
+    {
+      "show_name": "Peppa Pig",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_peppa-pig-s08e17-o-onibus-de-festa_l_m.jpg",
+      "show_category": "Temporada 8 Episódio 17 - O Ônibus de Festa",
+      "start_time": "04:35",
+      "end_time": "04:40",
+      "episode_description": "Peppa é convidada para o aniversário de Candy Gato e descobre que não será uma comemoração comum."
+    },
+    {
+      "show_name": "Peppa Pig",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_peppa-pig-s08e18-noite-de-filme_l_m.jpg",
+      "show_category": "Temporada 8 Episódio 18 - Noite de Filme",
+      "start_time": "04:40",
+      "end_time": "04:45",
+      "episode_description": "Peppa vai à casa de Penny Urso Polar para uma festinha noturna com exibição de filmes."
+    },
+    {
+      "show_name": "Peppa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_peppa_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "04:45",
+      "end_time": "05:10",
+      "episode_description": "Papai compra uma câmera de vídeo; mamãe e papai ajudam Peppa a praticar suas falas para uma peça de teatro no parquinho; é o dia do aniversário da mamãe; Peppa e George brincam no jardim do vovô."
+    },
+    {
+      "show_name": "Peppa Pig",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_peppa-pig-s08e19-dia-da-arte-em-casa_l_m.jpg",
+      "show_category": "Temporada 8 Episódio 19 - Dia da Arte em Casa",
+      "start_time": "05:10",
+      "end_time": "05:15",
+      "episode_description": "Vovó Ovelha e Suzy Ovelha levam Peppa e Vovó Pig para passar o dia apreciando obras de arte."
+    },
+    {
+      "show_name": "Peppa Pig",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_peppa-pig-s08e20-bosque-de-flores-silvestres_l_m.jpg",
+      "show_category": "Temporada 8 Episódio 20 - Bosque de Flores Silvestres",
+      "start_time": "05:15",
+      "end_time": "05:20",
+      "episode_description": "A Madame Gazela leva Peppa e seus amigos para visitar um bosque com flores silvestres."
     },
     {
       "show_name": "Mini Beat Power Rockers",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_mini-beat-power-rockers-s04e09-de-volta-a-natureza_l_m.webp",
-      "show_category": "Temporada 4 Episódio 9 - De Volta à Natureza",
-      "start_time": "06:52",
-      "end_time": "06:57",
-      "episode_description": "Os pais de Myo e Wat levam os Mini Beat para acampar: um deles é bem tranquilo e relaxado, enquanto o outro é bem técnico e sem graça. Os Power Rockers conseguem unir o melhor de cada um e criar um acampamento incrível."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mini-beat-power-rockers-s05e01-boa-noite-pequeninos_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 1 - Boa Noite, Pequeninos!",
+      "start_time": "05:20",
+      "end_time": "05:25",
+      "episode_description": "Os pais dos Power Rockers enfrentam uma tarefa muito difícil para fazer seus filhos dormirem. Eles precisam ser muito cuidadosos, mas, acima de tudo, extremamente silenciosos."
     },
     {
       "show_name": "Mini Beat Power Rockers",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_mini-beat-power-rockers-s04e10-rock-de-sinais_l_m.webp",
-      "show_category": "Temporada 4 Episódio 10 - Rock de Sinais",
-      "start_time": "06:57",
-      "end_time": "07:02",
-      "episode_description": "Uma construção na vizinhança faz com que ninguém escute nada na creche Arco-Íris. Por sorte, a Bebê Ondas está de visita e mostra aos Mini Beat Power Rockers como cantar e dançar usando língua de sinais."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mini-beat-power-rockers-s05e02-duelo-de-gatos_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 2 - Duelo de Gatos",
+      "start_time": "05:25",
+      "end_time": "05:30",
+      "episode_description": "É a grande obra anual da Creche Arco-Íris, e os pequeninos se preparam para interpretar diferentes animais, mas há um problema: Fuz e Baby Metal querem interpretar o mesmo animal, o gato."
     },
     {
-      "show_name": "Mini Beat Power Rockers",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_mini-beat-power-rockers-s04e11-origami-musical_l_m.webp",
-      "show_category": "Temporada 4 Episódio 11 - Origami Musical",
-      "start_time": "07:02",
-      "end_time": "07:08",
-      "episode_description": "Wat viaja no tempo e encontra Bethoven bebê compondo a Quinta Sinfonia. Ela, sem querer, fica com a partitura e precisa devolver ao gênio da música, mas Dolores a usou para fazer origami."
+      "show_name": "Peppa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_peppa_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "06:26",
+      "end_time": "06:49",
+      "episode_description": "Papai compra uma câmera de vídeo; mamãe e papai ajudam Peppa a praticar suas falas para uma peça de teatro no parquinho; é o dia do aniversário da mamãe; Peppa e George brincam no jardim do vovô."
     },
     {
-      "show_name": "Mini Beat Power Rockers",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_mini-beat-power-rockers-s04e12-fuzpunzel_l_m.webp",
-      "show_category": "Temporada 4 Episódio 12 - Fuzpunzel",
-      "start_time": "07:08",
-      "end_time": "07:13",
-      "episode_description": "A creche Arco-Íris apresenta uma obra teatral sobre um famoso inventor de instrumentos: Fuzpunzel. O pequeno inventor se isola em uma torre muito alta para criar sua maior invenção: um contrabaixo."
+      "show_name": "Peppa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_peppa_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "06:49",
+      "end_time": "07:12",
+      "episode_description": "Papai compra uma câmera de vídeo; mamãe e papai ajudam Peppa a praticar suas falas para uma peça de teatro no parquinho; é o dia do aniversário da mamãe; Peppa e George brincam no jardim do vovô."
     },
     {
-      "show_name": "Mini Beat Power Rockers",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_mini-beat-power-rockers-s04e13-os-tres-roqueirinhos_l_m.webp",
-      "show_category": "Temporada 4 Episódio 13 - Os Três Roqueirinhos",
-      "start_time": "07:13",
-      "end_time": "07:18",
-      "episode_description": "Wat, Carlos e Myo interpretarem três porquinhos com muito talento para a música que precisam fugir de Fuz, o lobo feroz. Os três porquinhos precisam pensar rápido e criar uma música para domar o lobo."
+      "show_name": "Peppa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_peppa_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "07:12",
+      "end_time": "07:37",
+      "episode_description": "Papai compra uma câmera de vídeo; mamãe e papai ajudam Peppa a praticar suas falas para uma peça de teatro no parquinho; é o dia do aniversário da mamãe; Peppa e George brincam no jardim do vovô."
     },
     {
-      "show_name": "Mini Beat Power Rockers",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_mini-beat-power-rockers-s04e14-o-cabelo_l_m.webp",
-      "show_category": "Temporada 4 Episódio 14 - O Cabelo",
-      "start_time": "07:18",
-      "end_time": "07:22",
-      "episode_description": "Nasce o primeiro fio de cabelo de Carlos, mas ele já chega rebelde e difícil de controlar. Dolores chega com uma solução: cortá-lo. Apenas uma ópera é capaz de controlar o cabelo rebelde de Carlos."
+      "show_name": "Super Wish",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_super-wish_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "07:37",
+      "end_time": "07:49",
+      "episode_description": "Jesse e sua turma encontram um estranho mercador que oferece fichas mágicas a qualquer pessoa com dez anos ou mais. Jesse aceita o presente, mas quando entra no fliperama e usa as fichas, começa a envelhecer cada vez mais."
     },
     {
-      "show_name": "Mini Beat Power Rockers",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_mini-beat-power-rockers-s04e15-um-bebe-com-ritmo_l_m.webp",
-      "show_category": "Temporada 4 Episódio 15 - Um Bebê com Ritmo",
-      "start_time": "07:22",
-      "end_time": "07:27",
-      "episode_description": "Os pais de Carlos têm uma notícia e tanto: ele vai ganhar uma irmãzinha. A princípio, Carlos fica enciumado com a atenção que os pais dão à irmãzinha, mas logo descobre que o coração de toda a família bate no mesmo ritmo."
+      "show_name": "Super Wish",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_super-wish_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "07:49",
+      "end_time": "08:00",
+      "episode_description": "Jesse e sua turma encontram um estranho mercador que oferece fichas mágicas a qualquer pessoa com dez anos ou mais. Jesse aceita o presente, mas quando entra no fliperama e usa as fichas, começa a envelhecer cada vez mais."
     },
     {
       "show_name": "44 Gatos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_44-gatos-s01e09-um-cachorro-como-amigo_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_44-gatos-s01e09-um-cachorro-como-amigo_l_m.jpg",
       "show_category": "Temporada 1 Episódio 9 - Um Cachorro como Amigo",
-      "start_time": "07:27",
-      "end_time": "07:39",
+      "start_time": "08:00",
+      "end_time": "08:12",
       "episode_description": "Terry, o cãozinho da vizinhança, fica na casa da Vovó Pina durante alguns dias. Parece um pesadelo que se tornou realidade para os Buffycats, mas Terry gosta tanto de gatos que quer de se tornar um deles."
     },
     {
       "show_name": "44 Gatos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_44-gatos-s01e11-febre-felina_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_44-gatos-s01e10-lampo-e-a-corrida-maluca_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 10 - Lampo e a Corrida Maluca",
+      "start_time": "08:12",
+      "end_time": "08:29",
+      "episode_description": "Lampo sonha em participar da maior corrida de motocicletas da cidade. O único problema é que ele não tem uma moto. Para sua sorte, porém, o mecânico Aligate o ajuda a construir uma moto especial movida a petiscos."
+    },
+    {
+      "show_name": "Mini Beat Power Rockers",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mini-beat-power-rockers-s05e09-dolores-vs-bebe-duende_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 9 - Dolores vs. Bebê Duende",
+      "start_time": "08:29",
+      "end_time": "08:34",
+      "episode_description": "Dolores leva a flauta do Bebê Duende enquanto arruma a creche com a ajuda de Super Popper. Inconformado, ele faz de tudo para recuperar o instrumento."
+    },
+    {
+      "show_name": "Mini Beat Power Rockers",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mini-beat-power-rockers-s01e32_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 32 - Superbebês ao Resgate!",
+      "start_time": "08:34",
+      "end_time": "08:39",
+      "episode_description": "Dolores leva a TV da sala de brinquedos e os Baby Rockers precisam usar o Poder da Partitura para trazer de volta seus heróis."
+    },
+    {
+      "show_name": "Mini Beat Power Rockers",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mini-beat-power-rockers-s01e33-bebe-de-botas_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 33 - Bebê de Botas",
+      "start_time": "08:39",
+      "end_time": "08:43",
+      "episode_description": "Bebê Country chega à creche usando botas que são cobiçadas pelos Baby Rockers. Na hora da soneca, eles têm chance de pegar as botas, mas não será fácil."
+    },
+    {
+      "show_name": "Mini Beat Power Rockers",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mini-beat-power-rockers-s01e34-rockabilly_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 34 - Rockabilly",
+      "start_time": "08:43",
+      "end_time": "08:48",
+      "episode_description": "O carrinho de Fuz quebra e o Bebê Rockabilly é encarregado de consertá-lo. Os Baby Rockers decidem apostar corrida de carrinho, mas são interrompidos por Dolores, que não quer saber de bagunça."
+    },
+    {
+      "show_name": "Mini Beat Power Rockers",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mini-beat-power-rockers-s01e35-metal-vs-im_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 35 - Metal vs. Ímã",
+      "start_time": "08:48",
+      "end_time": "08:53",
+      "episode_description": "Dolores usa um enorme ímã para tirar os instrumentos dos Baby Rockers. Mas quando o Bebê Metal chega à creche, acontece uma grande luta entre o metal e o ímã."
+    },
+    {
+      "show_name": "The Dog & Pony Show",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-dog-pony-show_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "08:53",
+      "end_time": "09:04",
+      "episode_description": "Dog e Pony são convocados para trabalhar como repórteres. Em um dia com poucas notícias interessantes, Pony usa seu Botão Mágico para criar um furo de reportagem."
+    },
+    {
+      "show_name": "The Dog & Pony Show",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-dog-pony-show_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "09:04",
+      "end_time": "09:16",
+      "episode_description": "Dog e Pony são convocados para trabalhar como repórteres. Em um dia com poucas notícias interessantes, Pony usa seu Botão Mágico para criar um furo de reportagem."
+    },
+    {
+      "show_name": "100% Lobo - O Livro de Hath",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_100-lobo-o-livro-de-hath-s02e20-o-amigo-dos-ursos_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 20 - O Amigo dos Ursos",
+      "start_time": "09:16",
+      "end_time": "09:38",
+      "episode_description": "Ruel surpreende as crianças de Howlington com um desafio de sobrevivência; Ivan volta para Milford, onde Gretchen tem dificuldade para entender o futuro; eles criam um plano secreto para dominar os desafios."
+    },
+    {
+      "show_name": "Meio-Irmãos, Meio-Heróis",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_meio-irm-os-meio-herois-s01e29-raaaaaapido_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 29 - Ráááááápido",
+      "start_time": "09:38",
+      "end_time": "09:49",
+      "episode_description": "Mo diz a Amber que concorda em ajudar no mercadinho dos pais dela, mas quer o chaveiro do Capitão Responsável que está em promoção."
+    },
+    {
+      "show_name": "Meio-Irmãos, Meio-Heróis",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_meio-irm-os-meio-herois-s01e30-a-mente-das-pessoas_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 30 - A Mente das Pessoas",
+      "start_time": "09:49",
+      "end_time": "10:00",
+      "episode_description": "Sam percebe que não tem um presente para o aniversário surpresa de 70 anos de Wanda. Ela decide que quer o presente perfeito para sua avó."
+    },
+    {
+      "show_name": "Meio-Irmãos, Meio-Heróis",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_meio-irm-os-meio-herois-s01e31-sam-viaja-no-tempo_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 31 - Sam Viaja no Tempo",
+      "start_time": "10:00",
+      "end_time": "10:10",
+      "episode_description": "Sam estraga sua apresentação dos Fazendeiros de Canucktoky, um jogo de tabuleiro que ela encontrou no sótão de sua avó e consertou."
+    },
+    {
+      "show_name": "Meio-Irmãos, Meio-Heróis",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_meio-irm-os-meio-herois-s01e32-voando-alto_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 32 - Voando Alto",
+      "start_time": "10:10",
+      "end_time": "10:21",
+      "episode_description": "Para recuperar seu drone, Mo pede o poder de voar para o Cetro e é atendido."
+    },
+    {
+      "show_name": "44 Gatos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_44-gatos-s01e11-febre-felina_l_m.jpg",
       "show_category": "Temporada 1 Episódio 11 - Febre Felina",
-      "start_time": "07:39",
-      "end_time": "07:51",
+      "start_time": "10:21",
+      "end_time": "10:33",
       "episode_description": "Lampo fica apavorado quando adoece, mas tem mais medo ainda de Fisby, o veterinário. Com seus bigodes e sua maleta cheia de estranhos instrumentos, Fisby não parece ser o gato mais amigável do bairro."
     },
     {
       "show_name": "44 Gatos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_44-gatos-s01e13-milady-e-o-mestre-de-gato-fu_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_44-gatos-s01e12-o-concurso-de-danca_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 12 - O Concurso de Dança",
+      "start_time": "10:33",
+      "end_time": "10:45",
+      "episode_description": "Ginny sonha em vencer uma famosa competição de dança na cidade, mas não se sente muito confiante. Graças ao Buffycats, ela tenta realizar seu sonho."
+    },
+    {
+      "show_name": "44 Gatos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_44-gatos-s01e13-milady-e-o-mestre-de-gato-fu_l_m.jpg",
       "show_category": "Temporada 1 Episódio 13 - Milady e o Mestre de Gato-Fu",
-      "start_time": "07:51",
-      "end_time": "08:07",
+      "start_time": "10:45",
+      "end_time": "10:57",
       "episode_description": "O desastrado Almôndega é o alvo perfeito dos truques de Blister e Scrab. Para ajudá-lo a se defender e a ganhar confiança, Milady apresenta Almôndega a seu mestre, que pode ensinar a ele os segredos do gato-fu."
     },
     {
-      "show_name": "44 Gatos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_44-gatos-s01e15-miss-o-baba_l_m.webp",
-      "show_category": "Temporada 1 Episódio 15 - Missão Babá",
-      "start_time": "08:07",
-      "end_time": "08:19",
-      "episode_description": "Os cãezinhos Zoe e Bucky estão sempre se desentendendo. Sua mãe já está cansada disso, mas os Buffycats se oferecem para cuidar dos filhotinhos e ensiná-los a conviver em harmonia."
-    },
-    {
-      "show_name": "Agente Binky ao Resgate!",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_agente-binky-ao-resgate_l_m.webp",
-      "show_category": "Children",
-      "start_time": "08:19",
-      "end_time": "08:30",
-      "episode_description": "Um enxame de insetos-robô não para de invadir a estação e roubar coisas."
-    },
-    {
-      "show_name": "Agente Binky ao Resgate!",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_agente-binky-ao-resgate_l_m.webp",
-      "show_category": "Children",
-      "start_time": "08:30",
-      "end_time": "08:41",
-      "episode_description": "Um enxame de insetos-robô não para de invadir a estação e roubar coisas."
-    },
-    {
-      "show_name": "Agente Binky ao Resgate!",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_agente-binky-ao-resgate_l_m.webp",
-      "show_category": "Children",
-      "start_time": "08:41",
-      "end_time": "08:53",
-      "episode_description": "Um enxame de insetos-robô não para de invadir a estação e roubar coisas."
-    },
-    {
-      "show_name": "The Dog & Pony Show",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_the-dog-pony-show_l_m.webp",
-      "show_category": "Children",
-      "start_time": "08:53",
-      "end_time": "09:04",
-      "episode_description": "Pony decide dar vida nova à bola favorita de Dog, mas sua magia os faz pular por toda a cidade."
-    },
-    {
-      "show_name": "The Dog & Pony Show",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_the-dog-pony-show_l_m.webp",
-      "show_category": "Children",
-      "start_time": "09:04",
-      "end_time": "09:16",
-      "episode_description": "Pony decide dar vida nova à bola favorita de Dog, mas sua magia os faz pular por toda a cidade."
-    },
-    {
-      "show_name": "100% Lobo - O Livro de Hath",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_100-lobo-o-livro-de-hath-s02e19-o-cajado-na-pedra_l_m.webp",
-      "show_category": "Temporada 2 Episódio 19 - O Cajado na Pedra",
-      "start_time": "09:16",
-      "end_time": "09:37",
-      "episode_description": "Em Svenberg, Tora é desafiada por Ruel pelo direito de liderar a alcateia. Ela vai precisar da ajuda de Freddy e de sua turma."
-    },
-    {
-      "show_name": "Meio-Irmãos, Meio-Heróis",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_meio-irm-os-meio-herois-s01e25-o-grande-talento-do-mo_l_m.webp",
-      "show_category": "Temporada 1 Episódio 25 - O Grande Talento do Mo",
-      "start_time": "09:37",
-      "end_time": "09:48",
-      "episode_description": "Amber organiza um almoço especial no refeitório com um cardápio concentrado em chicória para resgatar essa verdura subestimada."
-    },
-    {
-      "show_name": "Meio-Irmãos, Meio-Heróis",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_meio-irm-os-meio-herois-s01e26-falando-com-as-plantas_l_m.webp",
-      "show_category": "Temporada 1 Episódio 26 - A Batalha dos Tronos",
-      "start_time": "09:48",
-      "end_time": "09:59",
-      "episode_description": "Desde que descobriram que um astro de Hollywood é primo do JC, os seguidores de JC ficam atrás dele na escola fazendo tudo que ele quer."
-    },
-    {
-      "show_name": "Meio-Irmãos, Meio-Heróis",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_meio-irm-os-meio-herois-s01e27-mo-zart-da-guitarra_l_m.webp",
-      "show_category": "Temporada 1 Episódio 27 - Mo-Zart da Guitarra",
-      "start_time": "09:59",
-      "end_time": "10:10",
-      "episode_description": "O hino de Sam é recusado por um famoso site de bem-estar animal."
-    },
-    {
-      "show_name": "Meio-Irmãos, Meio-Heróis",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_meio-irm-os-meio-herois-s01e28-pulando-o-falatorio_l_m.webp",
-      "show_category": "Temporada 1 Episódio 28 - Pulando o Falatório",
-      "start_time": "10:10",
-      "end_time": "10:21",
-      "episode_description": "Mo pede ao Cetro Espectral o poder de pular as partes sem graça de seu programa preferido para descobrir o que acontece no final."
-    },
-    {
-      "show_name": "44 Gatos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_44-gatos-s01e06-gas-o-gato-fedorento_l_m.webp",
-      "show_category": "Temporada 1 Episódio 6 - Gás, o Gato Fedorento",
-      "start_time": "10:21",
-      "end_time": "10:33",
-      "episode_description": "Quando Gás está por perto, todos os gatos da vizinhança desaparecem. Ele é o gato mais fedorento da cidade e aproveita seu mau cheiro para espantar os outros gatos e comer toda a comida."
-    },
-    {
-      "show_name": "44 Gatos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_44-gatos-s01e07-a-receita-secreta-da-vovo-pina_l_m.webp",
-      "show_category": "Temporada 1 Episódio 7 - A Receita Secreta da Vovó Pina",
-      "start_time": "10:33",
-      "end_time": "10:45",
-      "episode_description": "Lampo se proclama cozinheiro por um dia e decide preparar a receita especial de macarrão da vovó Pina, mas a receita escapa de suas patas e voa para longe ao vento."
-    },
-    {
-      "show_name": "44 Gatos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_44-gatos-s01e08-neko-o-gato-sortudo_l_m.webp",
-      "show_category": "Temporada 1 Episódio 8 - Neko, o Gato Sortudo",
-      "start_time": "10:45",
-      "end_time": "10:57",
-      "episode_description": "Neko sempre foi o gato mais sortudo do bairro, mas ultimamente anda enfrentando uma maré de azar e parece só atrair problemas. Os Buffycats estão dispostos a ajudá-lo, mesmo sem saber o que pode acontecer."
-    },
-    {
       "show_name": "Ba Da Bean",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_ba-da-bean-s01e18-mau-gosto_l_m.webp",
-      "show_category": "Temporada 1 Episódio 18 - Mau Gosto",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ba-da-bean-s01e19-caos-colagem_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 19 - A Caverna dos Rabiscos Esquecidos",
       "start_time": "10:57",
       "end_time": "11:08",
-      "episode_description": "A festa mais popular do Mesão é o baile de Panto, e todos estão convidados para festejar em seu palácio. Porém, ninguém aparece além de York, Bean e Cosa, e o festejo parece ter sido um fiasco."
+      "episode_description": "Bean e Cosa decidem refazer um desenho desaparecido para ajudar Kamia completar o mapa do Mesão. Mas, durante a jornada, a dupla encontra uma caverna que contém estranhos rabiscos ancestrais."
     },
     {
       "show_name": "Ba Da Bean",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_ba-da-bean-s01e14-o-circulo-perfeito_l_m.webp",
-      "show_category": "Temporada 1 Episódio 14 - O Círculo Perfeito",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ba-da-bean-s01e20-a-caverna-dos-rabiscos-esquecidos_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 20 - Caos & Colagem",
       "start_time": "11:08",
       "end_time": "11:19",
-      "episode_description": "York se gaba de ser o único morador do Mesão capaz de desenhar um círculo perfeito. Bean fica ansioso para aprender a técnica avançada que ele tanto admira do seu amigo Ovo."
+      "episode_description": "Bean e Cosa são ajudantes voluntários na Feira do Dia do Mesão e recebem a sua primeira grande tarefa: fazer uma colagem para a galeria de arte. Apesar de toda a criatividade e esforço, York dá a entender que a obra de arte não está pronta."
     },
     {
       "show_name": "Topo Gigio",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_topo-gigio-s01e07-agente-especial_l_m.webp",
-      "show_category": "Temporada 1 Episódio 7 - Agente Especial",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_topo-gigio-s01e16-a-grande-corrida_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 16 - A Grande Corrida",
       "start_time": "11:19",
       "end_time": "11:30",
-      "episode_description": "Zoe participa de um concurso de ciências na escola, mas Gigio percebe que ela deixou sua experiência em casa. Esta é uma missão para o agente especial McGigio e seu time."
+      "episode_description": "Zoe é escolhida para representar a escola na corrida de cross-country, mas ela e o esporte não nasceram um para o outro; Gigio oferece ajuda como treinador; com a ajuda do G-Team, ele faz de Zoe uma campeã."
     },
     {
       "show_name": "Topo Gigio",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_topo-gigio-s01e08-super-atrac-o_l_m.webp",
-      "show_category": "Temporada 1 Episódio 8 - Super Atração",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_topo-gigio-s01e17-o-mago_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 17 - O Mago",
       "start_time": "11:30",
       "end_time": "11:41",
-      "episode_description": "Zoe estuda ímãs e Gigio fica fascinado por eles, se perguntando como eles conseguem se atrair e o que os faz flutuar. Só há uma maneira de descobrir: cobrir as roupas de ímãs e começar a voar."
+      "episode_description": "Depois de encontrar fotos de Gregory vestido de mago, Gigio decide se tornar o Mago Topo com a ajuda de Zoe, Bob e do G-Team; enquanto isso, a pulseira da amizade que Emilia deu a Zoe desaparece magicamente."
     },
     {
       "show_name": "Underdogs United",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_underdogs-united-s01e21-a-historia-de-worst_l_m.webp",
-      "show_category": "Temporada 1 Episódio 21 - A História de Worst",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_underdogs-united-s01e23-bem-vindo-a-casa-campe-o_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 23 - Bem-Vindo à Casa, Campeão",
       "start_time": "11:41",
       "end_time": "11:52",
-      "episode_description": "Waldoberto tenta destruir o clube dos Underdogs rolando uma bola de futebol gigante por cima dele, mas acaba ficando preso nela junto com Gigi. Ela pede para Waldoberto explicar como foi parar em Sportsville."
+      "episode_description": "Capi descobre um cão robô incrível, Champ e, com os Underdogs, tenta lhe encontrar um lar; Waldoberto decide adotá-lo mas os heróis não gostam da ideia, e têm que vencer vários obstáculos para salvar Champ."
     },
     {
       "show_name": "Underdogs United",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_underdogs-united-s01e22-as-caneleiras-do-destino_l_m.webp",
-      "show_category": "Temporada 1 Episódio 22 - As Caneleiras do Destino",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_underdogs-united-s01e24-o-mais-preguicoso-de-sportsville_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 24 - O Mais Preguiçoso de Sportsville",
       "start_time": "11:52",
       "end_time": "12:03",
-      "episode_description": "Os Underdogs United devem vencer uma série de obstáculos que testarão suas capacidades antes que seja tarde demais."
+      "episode_description": "Worst está perdendo a batalha do título de mais preguiçoso de Sportsville e, para manter o título, ele pede ajuda dos Underdogs para que o seu maior rival deixe a preguiça de lado."
     },
     {
       "show_name": "Kung Fu Wa",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_kung-fu-wa-s01e21-batalha-cibernetica_l_m.webp",
-      "show_category": "Temporada 1 Episódio 21 - Batalha Cibernética",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_kung-fu-wa-s01e23-resgate-na-caverna_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 23 - Resgate na Caverna",
       "start_time": "12:03",
       "end_time": "12:14",
-      "episode_description": "Tee Zeng pega emprestado um jogo da Superguerreira e fica viciada. Mestre Meia não gosta muito do jogo, a princípio, mas logo fica atraído por seu belos movimentos."
+      "episode_description": "Tee Zeng recebe uma ligação de um colega após a aula, que afirma estar em uma caverna assustadora. Em um grito, a ligação é encerrada. Preocupada, ela se reúne a Min e Hiro Hao para irem até a caverna e encontrá-lo."
     },
     {
       "show_name": "Kung Fu Wa",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_kung-fu-wa-s01e22-encontro-animal_l_m.webp",
-      "show_category": "Temporada 1 Episódio 22 - Encontro Animal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_kung-fu-wa-s01e24-les-o-na-meia_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 24 - Lesão na Meia",
       "start_time": "12:14",
-      "end_time": "12:25",
-      "episode_description": "Tee Zeng leva a meia errada para um passeio da escola; traumatizada por causa da última vez, Mestre Meia tenta alcançar Tee Zeng pedindo carona para um cachorro, mas se envolve em uma confusão."
+      "end_time": "12:24",
+      "episode_description": "Tee Zeng se transforma na Superguerreira para lutar com um mosquito enfeitiçado por Kwei. Durante a luta, ela fica impaciente e, acidentalmente, machuca o Mestre Meia."
     },
     {
       "show_name": "Polly Pocket",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_polly-pocket_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_polly-pocket_l_m.jpg",
       "show_category": "Children",
-      "start_time": "12:25",
+      "start_time": "12:24",
       "end_time": "12:36",
-      "episode_description": "Polly e Lila se oferecem como voluntárias para ajudar o abrigo de animais de Littleton a fazer um show de fantasias para que os animais sejam adotados na Feira de Animais de Estimação Petween."
+      "episode_description": "Shani descobre que pode falar com as plantas e incentiva o crescimento de suas rosas, mas a planta se torna uma selva. Shani chama suas amigas para ajudar e descobre que ficar maior nem sempre é melhor."
     },
     {
       "show_name": "Polly Pocket",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_polly-pocket_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_polly-pocket_l_m.jpg",
       "show_category": "Children",
       "start_time": "12:36",
       "end_time": "12:47",
-      "episode_description": "Polly e Lila se oferecem como voluntárias para ajudar o abrigo de animais de Littleton a fazer um show de fantasias para que os animais sejam adotados na Feira de Animais de Estimação Petween."
+      "episode_description": "Shani descobre que pode falar com as plantas e incentiva o crescimento de suas rosas, mas a planta se torna uma selva. Shani chama suas amigas para ajudar e descobre que ficar maior nem sempre é melhor."
     },
     {
       "show_name": "O Show da Luna!",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_o-show-da-luna-s02e11-tecendo-teias_l_m.webp",
-      "show_category": "Temporada 2 Episódio 11 - Assombrados",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-show-da-luna-s02e12-um-trov-o-dois-trov-es-tres_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 12 - Olha o Tatu-Bola",
       "start_time": "12:47",
       "end_time": "12:59",
-      "episode_description": "Júpiter encontra sua sombra e se assusta com seu tamanho. Ao lado de Luna e Cláudio, eles participam de um divertido faz de conta em um lindo Teatro de Sombras chinês em que, ao lado de sapinhos simpáticos, o trio aprende mais sobre as sombras."
+      "episode_description": "Durante um piquenique com Tom, Igor e Alice, Luna encontra um tatu-bolinha. Mas quando eles tentam vê-lo de perto, tomam um susto e o inseto vira uma bolinha. Para saber por que isso acontece, eles fazem de conta que são tatu-bolinhas também."
     },
     {
       "show_name": "O Show da Luna!",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_o-show-da-luna-s02e11-tecendo-teias_l_m.webp",
-      "show_category": "Temporada 2 Episódio 11 - Assombrados",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-show-da-luna-s02e12-um-trov-o-dois-trov-es-tres_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 12 - Olha o Tatu-Bola",
       "start_time": "12:59",
       "end_time": "13:11",
-      "episode_description": "Júpiter encontra sua sombra e se assusta com seu tamanho. Ao lado de Luna e Cláudio, eles participam de um divertido faz de conta em um lindo Teatro de Sombras chinês em que, ao lado de sapinhos simpáticos, o trio aprende mais sobre as sombras."
+      "episode_description": "Durante um piquenique com Tom, Igor e Alice, Luna encontra um tatu-bolinha. Mas quando eles tentam vê-lo de perto, tomam um susto e o inseto vira uma bolinha. Para saber por que isso acontece, eles fazem de conta que são tatu-bolinhas também."
     },
     {
       "show_name": "Peppa",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_peppa_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_peppa_l_m.jpg",
       "show_category": "Children",
       "start_time": "13:11",
       "end_time": "13:34",
@@ -524,47 +500,47 @@
     },
     {
       "show_name": "O Resort Zoobak",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_o-resort-zoobak-s01e21-a-poltrona-inteligente_l_m.webp",
-      "show_category": "Temporada 1 Episódio 21 - A Poltrona Inteligente",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-resort-zoobak-s01e23-lembrancas-do-passado_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 23 - Lembranças do Passado",
       "start_time": "13:34",
       "end_time": "13:45",
-      "episode_description": "A equipe do resort compra uma cadeira robótica inteligente. A alegria dura pouco quando o Senhor Putu foge com ela, fingindo que sente dor nas costas."
+      "episode_description": "Bayo faz um show de marionetes, mas Ozo percebe que ele não leva jeito para a coisa decide ajudá-lo."
     },
     {
       "show_name": "O Resort Zoobak",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_o-resort-zoobak-s01e22-a-lenda-da-ilha_l_m.webp",
-      "show_category": "Temporada 1 Episódio 22 - A Lenda da Ilha",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-resort-zoobak-s01e24-zoober_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 24 - Zoober",
       "start_time": "13:45",
       "end_time": "13:56",
-      "episode_description": "A história original da ilha sobre um morcego que não quer que os ancestrais da equipe sejam felizes."
+      "episode_description": "Os táxis da ilha são tão ruins que Bayo decide criar seu próprio serviço para transportar as pessoas com maior eficiência."
     },
     {
       "show_name": "Agente Binky ao Resgate!",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_agente-binky-ao-resgate_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_agente-binky-ao-resgate_l_m.jpg",
       "show_category": "Children",
       "start_time": "13:56",
       "end_time": "14:08",
-      "episode_description": "Um enxame de insetos-robô não para de invadir a estação e roubar coisas."
+      "episode_description": "A Professora Pru dá um presente de aniversário voador para Nola, mas o time precisa intervir rápido para derrubar a tartaruga do ar e pegar Loo."
     },
     {
       "show_name": "Agente Binky ao Resgate!",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_agente-binky-ao-resgate_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_agente-binky-ao-resgate_l_m.jpg",
       "show_category": "Children",
       "start_time": "14:08",
       "end_time": "14:19",
-      "episode_description": "Um enxame de insetos-robô não para de invadir a estação e roubar coisas."
+      "episode_description": "A Professora Pru dá um presente de aniversário voador para Nola, mas o time precisa intervir rápido para derrubar a tartaruga do ar e pegar Loo."
     },
     {
       "show_name": "Agente Binky ao Resgate!",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_agente-binky-ao-resgate_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_agente-binky-ao-resgate_l_m.jpg",
       "show_category": "Children",
       "start_time": "14:19",
       "end_time": "14:30",
-      "episode_description": "Um enxame de insetos-robô não para de invadir a estação e roubar coisas."
+      "episode_description": "A Professora Pru dá um presente de aniversário voador para Nola, mas o time precisa intervir rápido para derrubar a tartaruga do ar e pegar Loo."
     },
     {
       "show_name": "Peppa",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_peppa_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_peppa_l_m.jpg",
       "show_category": "Children",
       "start_time": "14:30",
       "end_time": "14:53",
@@ -572,7 +548,7 @@
     },
     {
       "show_name": "Peppa",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_peppa_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_peppa_l_m.jpg",
       "show_category": "Children",
       "start_time": "14:53",
       "end_time": "15:19",
@@ -580,175 +556,175 @@
     },
     {
       "show_name": "Mundo do Barney",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_mundo-do-barney-s01e50-volta-por-cima_l_m.webp",
-      "show_category": "Temporada 1 Episódio 50 - Volta por Cima",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mundo-do-barney-s01e52-a-boa-desculpa_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 52 - A Boa Desculpa",
       "start_time": "15:19",
       "end_time": "15:30",
-      "episode_description": "Mel perde a confiança em andar de skate após uma queda. Barney leva as crianças em uma aventura em alto mar, onde um mar tempestuoso apresenta desafios que ajudam Mel a descobrir o que ela precisa para se sentir segura."
+      "episode_description": "Mel não entende o valor de um pedido de desculpas sincero depois de quase danificar o brinquedo especial de David. Um grande acidente causado por Billy e Baby Bop a faz entender a importância de se desculpar de verdade."
     },
     {
       "show_name": "44 Gatos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_44-gatos-s01e39-a-partida-de-caudabol_l_m.webp",
-      "show_category": "Temporada 1 Episódio 39 - A Partida de Caudabol",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_44-gatos-s01e43-o-dia-de-sorte-do-almondega_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 43 - O Dia de Sorte do Almôndega",
       "start_time": "15:30",
       "end_time": "15:42",
-      "episode_description": "Boss, Blister e Scab estão sempre prontos para pregar peças nos Buffycats. Lampo já está farto dessas brincadeiras e decide desafiá-los para uma partida de caudabol."
+      "episode_description": "Em um biscoito da sorte recebido de Neko, Almôndega descobre que é seu dia de sorte. Ele então decide desafiar o gato da sorte Neko em um jogo e acaba descobrindo que sua sorte também pode ajudar os outros."
     },
     {
       "show_name": "44 Gatos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_44-gatos-s01e41-o-dia-da-reciclagem-criativa_l_m.webp",
-      "show_category": "Temporada 1 Episódio 41 - O Dia da Reciclagem Criativa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_44-gatos-s01e45-contos-felinos-de-acampamento_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 45 - Contos Felinos de Acampamento",
       "start_time": "15:42",
       "end_time": "15:54",
-      "episode_description": "Boss, Blister e Scab atiram objetos velhos no jardim da Vovó Pina para irritar os Buffycats. Como é o Dia da Reciclagem Criativa, os gatos o usam para fabricar brinquedos para o parque, mas os vilões tentam sabotar o plano."
+      "episode_description": "Os Buffycats estão no parque com seu amigo Bucky e contam histórias sobre o lendário orangotango branco. Bucky ama suas histórias de aventura, mas ele ainda não acredita que ser lendário exista."
     },
     {
       "show_name": "Mermicorno - A Queda das Estrelas",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_mermicorno-a-queda-das-estrelas-s02e02-teste-em-dupla_l_m.webp",
-      "show_category": "Temporada 2 Episódio 2 - Teste em Dupla",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mermicorno-a-queda-das-estrelas-s02e04-aprendendo-a-compor_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 4 - Aprendendo a Compor",
       "start_time": "15:54",
       "end_time": "16:17",
-      "episode_description": "Astra e Gwen buscam uma relíquia no cofre secreto do Palácio da Pérola que pode guiá-las ao Reino dos Mermicornos."
+      "episode_description": "Ika treina Pérola Sombria e Squishella entra em um show de talentos, mas sua vontade de vencer traz consequências."
     },
     {
       "show_name": "Mermicorno - A Queda das Estrelas",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_mermicorno-a-queda-das-estrelas-s02e03-uma-entrega-especial_l_m.webp",
-      "show_category": "Temporada 2 Episódio 3 - Uma Entrega Especial",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mermicorno-a-queda-das-estrelas-s02e05-em-busca-da-tartaruga-interior_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 5 - Em Busca da Tartaruga Interior",
       "start_time": "16:17",
       "end_time": "16:39",
-      "episode_description": "Kameko parte em busca de seu pai; Nautique relembra sua vida após a Queda das Estrelas ao lado de Squishella."
+      "episode_description": "Após descobrir que faz parte de uma sociedade secreta de tartarugas, Kameko começa a se perguntar onde é seu lugar quando sente que não se encaixa."
     },
     {
       "show_name": "Hello Kitty: Super Style!",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_hello-kitty-super-style-s01e03-espirito-esportivo_l_m.webp",
-      "show_category": "Temporada 1 Episódio 3 - Espírito Esportivo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hello-kitty-super-style-s05e01-solucos-no-palco_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 1 - Soluços no Palco",
       "start_time": "16:39",
-      "end_time": "16:51",
-      "episode_description": "Zing sempre foi a campeã de Cherry Town, até Vastus chegar e desafiá-la para uma competição. Quando Zing duvida de seu talento, Kitty Atleta chega para ajudá-la."
+      "end_time": "16:50",
+      "episode_description": "O trio de castores está se preparando para subir ao palco para uma grande apresentação, mas uma crise de soluço atrapalha as coreografias. O show será cancelado a menos que Kitty Popstar possa ajudar."
     },
     {
       "show_name": "Hello Kitty: Super Style!",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_hello-kitty-super-style-s01e06-cha-de-sumico_l_m.webp",
-      "show_category": "Temporada 1 Episódio 6 - Chá de Sumiço",
-      "start_time": "16:51",
-      "end_time": "17:02",
-      "episode_description": "Keroppi desaparece depois de um truque de mágica, e a Detetive Kitty tenta encontrá-lo."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hello-kitty-super-style-s01e02-o-dia-do-amigo_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - O Dia do Amigo",
+      "start_time": "16:50",
+      "end_time": "17:01",
+      "episode_description": "Todos fazem uma presente de Dia do Amigo para seu melhor amigo, menos Frido. Kitty Artista ajuda Frido a fazer um presente para Zonty."
     },
     {
-      "show_name": "Lego Friends - O Próximo Capítulo",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_lego-friends-o-proximo-capitulo-s02e04-as-aventuras-arriscadas-de-autumn_l_m.webp",
-      "show_category": "Temporada 2 Episódio 4 - Autumn no Hospital",
-      "start_time": "17:02",
+      "show_name": "LEGO Friends: The Next Chapter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lego-friends-the-next-chapter-s02e06-ley-la-nasce-uma-estrela_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 6 - Ley-La - Nasce uma Estrela",
+      "start_time": "17:01",
       "end_time": "17:24",
-      "episode_description": "Aliya teme que Autumn se machuque em uma nova aventura, mas aprende a respeitar as decisões dela."
+      "episode_description": "Olly vê sua chance como figurinista de Ley-La; Aliya e Liann viram \"detetives\" repórteres; Zac destrói pistas para proteger Paisley."
     },
     {
       "show_name": "Ba Da Bean",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_ba-da-bean-s01e29-uma-centena-de-arcos-iris_l_m.webp",
-      "show_category": "Temporada 1 Episódio 29 - Uma Centena de Arcos-Íris",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ba-da-bean-s01e33-carrancoodle_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 33 - Desdobramentos Radicais",
       "start_time": "17:24",
       "end_time": "17:35",
-      "episode_description": "Bean se sente incapaz de gerar novas ideias e constrói um robô para ajudá-lo a ser mais criativo, mas a máquina acaba sempre copiando as artes dos outros."
+      "episode_description": "No dia mais quente do Mesão, um livro gigante de origami cai aberto sobre a biblioteca de Kami."
     },
     {
-      "show_name": "Bada Bean",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_bada-bean-s01e31-o-lugar-mais-feliz-do-mundo_l_m.webp",
-      "show_category": "Temporada 1 Episódio 31 - O Lugar Mais Feliz do Mundo",
+      "show_name": "Ba Da Bean",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ba-da-bean-s01e35-o-chapeu-da-venerac-o_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 35 - O Chapéu da Veneração",
       "start_time": "17:35",
       "end_time": "17:46",
-      "episode_description": "Bean fica triste ao descobrir que Cosa vai para um acampamento de artes e ficará longe por vários meses. Determinado a se livrar da sensação de saudade da melhor amiga, ele decide construir um circo com a ajuda de seus outros amigos."
+      "episode_description": "Inconformado com as críticas que recebeu sobre seu projeto arquitetônico, York embarca em uma jornada na busca de um chapéu mítico, capaz de fazer com que os habitantes do Mesão acreditem que ele é um gênio incriticável."
     },
     {
       "show_name": "Zouk a Bruxinha",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_zouk-a-bruxinha-s01e07-campe-o-das-telas_l_m.webp",
-      "show_category": "Temporada 1 Episódio 7 - Campeão das Telas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_zouk-a-bruxinha-s01e23-a-geleia-ganhou-vida_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 23 - A Geleia Ganhou Vida",
       "start_time": "17:46",
       "end_time": "17:57",
-      "episode_description": "Durante uma caça fantasma, Zouk descobre que Soso, sua amiga aranha e ex-campeã de tricô, perdeu o recorde para Angelina Tarantula. Determinada, Zouk se torna treinadora para ajudar Soso a recuperar o título, mas seus métodos são intensos demais."
+      "episode_description": "Vovó Jaque se convida para a mansão acompanhada de Raimundo, o seu dragão-porco. Mas o bicho é tão estúpido quanto travesso. Zouk e seus pais arranjam um monte das bolotas favoritas dele para distraírem a fera enquanto Zouk cozinha."
     },
     {
       "show_name": "Zouk a Bruxinha",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_zouk-a-bruxinha-s01e32-gato-do-azar_l_m.webp",
-      "show_category": "Temporada 1 Episódio 32 - Gato do Azar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_zouk-a-bruxinha-s01e36-o-olho-duplo_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 36 - O Olho Duplo",
       "start_time": "17:57",
       "end_time": "18:11",
-      "episode_description": "A noite vai passar o filme favorito da Zouk na tv-monstro e ela quer muito mostrar para o Jojo. Mas o Azar esta esperramado na frente da tv esperando o \"Gatomago\": o bruxo que vai lançar um feitiço para todo os gatos pretos passarem ainda mais azar."
+      "episode_description": "Salbrina promete a Zouk que iria assistir a filha no concerto da escola. Infelizmente, no mesmo dia ela precisa comparecer à cerimônia de Energização de Varinhas, um evento anual que aqueles que não participam, deixam de conseguir usar suas varinhas."
     },
     {
       "show_name": "Polly Pocket",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_polly-pocket_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_polly-pocket_l_m.jpg",
       "show_category": "Children",
       "start_time": "18:11",
       "end_time": "18:22",
-      "episode_description": "Polly e Lila se oferecem como voluntárias para ajudar o abrigo de animais de Littleton a fazer um show de fantasias para que os animais sejam adotados na Feira de Animais de Estimação Petween."
+      "episode_description": "Shani descobre que pode falar com as plantas e incentiva o crescimento de suas rosas, mas a planta se torna uma selva. Shani chama suas amigas para ajudar e descobre que ficar maior nem sempre é melhor."
     },
     {
       "show_name": "Polly Pocket",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_polly-pocket_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_polly-pocket_l_m.jpg",
       "show_category": "Children",
       "start_time": "18:22",
       "end_time": "18:33",
-      "episode_description": "Polly e Lila se oferecem como voluntárias para ajudar o abrigo de animais de Littleton a fazer um show de fantasias para que os animais sejam adotados na Feira de Animais de Estimação Petween."
+      "episode_description": "Shani descobre que pode falar com as plantas e incentiva o crescimento de suas rosas, mas a planta se torna uma selva. Shani chama suas amigas para ajudar e descobre que ficar maior nem sempre é melhor."
     },
     {
       "show_name": "Turma da Mônica",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_turma-da-monica-s03e03-a-culpa-e-sempre-dos-outros_l_m.webp",
-      "show_category": "Temporada 3 Episódio 3 - A Culpa É Sempre dos Outros",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_turma-da-monica-s03e04-o-buraco_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 4 - O Buraco",
       "start_time": "18:33",
       "end_time": "18:40",
-      "episode_description": "Dudu sugere que Cebolinha conte uma mentira para escapar de uma bronca. No entanto, uma mentirinha puxa a outra, e ele vai se enrolando cada vez mais, causando um monte de problemas."
+      "episode_description": "Cascão e Jeremias entram em um buraco escuro e assustador para recuperar uma bola de futebol. Eles têm que encarar túneis cheios de vultos e barulhos estranhos para cumprir a missão."
     },
     {
       "show_name": "Turma da Mônica",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_turma-da-monica-s02e08-feliz-com-meu-brinquedo_l_m.webp",
-      "show_category": "Temporada 2 Episódio 8 - Feliz com Meu Brinquedo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_turma-da-monica-s02e09-rei-e-rainha-da-rua_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 9 - Rei e Rainha da Rua",
       "start_time": "18:40",
       "end_time": "18:47",
-      "episode_description": "Cascão dá uma aula de criatividade transformando brinquedos comuns em personagens das mais incríveis aventuras. Uma pequena nave de plástico pode se transformar na arma espacial que defenderá a Terra de malvados invasores alienígenas."
+      "episode_description": "A Turma da Mônica promove uma festinha para o sábado, e Mônica e Magali têm uma ideia genial para tornar a festa mais divertida: eleger o rei e a rainha da rua."
     },
     {
       "show_name": "Hello Kitty: Super Style!",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_hello-kitty-super-style-s03e02-o-ingrediente-secreto_l_m.webp",
-      "show_category": "Temporada 3 Episódio 2 - O Ingrediente Secreto",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hello-kitty-super-style-s01e05-a-ponte-caiu_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 5 - A Ponte Caiu",
       "start_time": "18:47",
-      "end_time": "18:59",
-      "episode_description": "Está faltando um ingrediente para Nori conseguir fazer seu mega bolo, e a Chef Kitty ajuda seu amigo a chegar ao topo da Montanha da Cereja para conseguir o ingrediente que precisa."
+      "end_time": "18:58",
+      "episode_description": "A ponte de Cherry Town quebra e o trio de castores têm dificuldades em decidir como consertá-la. Eles vão precisar da ajuda da Kitty Construtora para reconstruí-la."
     },
     {
       "show_name": "Hello Kitty: Super Style!",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_hello-kitty-super-style-s01e01-vamos-patinar_l_m.webp",
-      "show_category": "Temporada 1 Episódio 1 - Passos Vitaminados",
-      "start_time": "18:59",
-      "end_time": "19:10",
-      "episode_description": "O novo smoothie do Nori vira febre. Ele fica superatarefado, mas graças à chef Kitty, que assume o comando, ele pode tirar uma folga merecida."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hello-kitty-super-style-s04e02-em-busca-de-um-sorriso_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 2 - Em Busca de um Sorriso",
+      "start_time": "18:58",
+      "end_time": "19:09",
+      "episode_description": "Kitty descobre que Pinky está triste e embarca em uma missão para alegrá-la."
     },
     {
       "show_name": "Mermicorno - A Queda das Estrelas",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_mermicorno-a-queda-das-estrelas-s01e05-a-pratica-leva-a-perfeic-o_l_m.webp",
-      "show_category": "Temporada 1 Episódio 5 - A Prática Leva à Perfeição",
-      "start_time": "19:10",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mermicorno-a-queda-das-estrelas-s01e06-nasce-uma-estrela_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 6 - Nasce uma Estrela",
+      "start_time": "19:09",
       "end_time": "19:34",
-      "episode_description": "Astra busca perfeição e coloca as Mermicornos em perigo."
+      "episode_description": "Squishella alcança a fama como estrela pop, mas isso tem um preço alto."
     },
     {
-      "show_name": "Peppa",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_peppa-s08e10-o-andorinh-o-pequeno_l_m.webp",
-      "show_category": "Temporada 8 Episódio 10 - O Andorinhão Pequeno",
+      "show_name": "Peppa Pig",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_peppa-pig-s08e21-brincadeiras-em-dias-de-sol_l_m.jpg",
+      "show_category": "Temporada 8 Episódio 21 - Brincadeiras em Dias de Sol",
       "start_time": "19:34",
       "end_time": "19:39",
-      "episode_description": "Em um dia com muito vento, Peppa e sua família estão empinando uma pipa quando encontram um pássaro caído no chão. Eles levam o pássaro ao Doutor Hamster, que explica que se trata de uma espécie de andorinhão."
+      "episode_description": "Peppa e seus amigos vão a escolinha em um lindo dia de sol."
     },
     {
       "show_name": "Peppa",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_peppa-s08e13-o-que-os-bebes-fazem_l_m.webp",
-      "show_category": "Temporada 8 Episódio 13 - O Que os Bebês Fazem?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_peppa-s08e22-truque-magico_l_m.jpg",
+      "show_category": "Temporada 8 Episódio 22 - Truque Mágico",
       "start_time": "19:39",
       "end_time": "19:44",
-      "episode_description": "Peppa e sua família visitam a Prima Chloe. Tia Pig explica a Peppa como cuidar de bebês e até deixa a porquinha alimentar Alexander, um bebezinho que todos adoram."
+      "episode_description": "Na festa de aniversário de Emily Elefante, Papai Pig é convidado para apresentar um número de mágica. É a oportunidade perfeita para ele mostrar seu novo truque."
     },
     {
       "show_name": "Peppa",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_peppa_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_peppa_l_m.jpg",
       "show_category": "Children",
       "start_time": "19:44",
       "end_time": "20:07",
@@ -756,199 +732,199 @@
     },
     {
       "show_name": "O Show da Luna!",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_o-show-da-luna-s08e06-viajar-num-instante_l_m.webp",
-      "show_category": "Temporada 8 Episódio 6 - Viajar num Instante!",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-show-da-luna-s08e10-luzes-camera-ac-o_l_m.jpg",
+      "show_category": "Temporada 8 Episódio 10 - Luzes, Câmera, Ação!",
       "start_time": "20:07",
       "end_time": "20:18",
-      "episode_description": "Luna, Júpiter e Cláudio querem viajar à Tailândia e voltar antes do jantar, mas descobrem que teletransporte não é possível. Em um faz de conta futurista, o trio busca respostas para a invenção que nunca aconteceu, cheio de surpresas e descobertas."
+      "episode_description": "Luna, Júpiter e Cláudio vão ao cinema e se perguntam quem inventou essa maravilha. Para descobrir a resposta, eles viajam no tempo e participam do primeiro filme do mundo."
     },
     {
       "show_name": "O Show da Luna!",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_o-show-da-luna-s08e08-voa-ou-n-o-voa_l_m.webp",
-      "show_category": "Temporada 8 Episódio 8 - Voa ou Não Voa?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-show-da-luna-s08e12-uma-viagem-nas-alturas_l_m.jpg",
+      "show_category": "Temporada 8 Episódio 12 - Uma Viagem nas Alturas",
       "start_time": "20:18",
       "end_time": "20:29",
-      "episode_description": "Luna, Júpiter e Cláudio querem saber sobre a origem da pipa e viajam para China para descobrir."
+      "episode_description": "Luna, Júpiter e Cláudio investigam um elevador quebrado e se perguntam como ele funciona. Em um faz de conta intrigante, eles descobrem o funcionamento desse dispositivo incrível e desvendam o mistério por trás da falha."
     },
     {
       "show_name": "Academia Unicórnio",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_academia-unicornio-s01e09-remendando-o-cristal_l_m.webp",
-      "show_category": "Temporada 1 Episódio 9 - Remendando o Cristal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_academia-unicornio-s01e03-a-competic-o_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3 - A Competição",
       "start_time": "20:29",
       "end_time": "20:52",
-      "episode_description": "Sem a ajuda dos professores, os alunos precisam trabalhar em equipe para encarar a maléfica Ravenzella. O futuro da Academia Unicórnio depende dessa batalha."
+      "episode_description": "A Professora Primrose manda os alunos para uma pista de obstáculos para agilizar o treinamento."
     },
     {
       "show_name": "Shasha & Milo",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_shasha-milo-s01e08-a-peca-gatastica_l_m.webp",
-      "show_category": "Temporada 1 Episódio 8 - A Peça Gatástica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_shasha-milo-s01e09-cristais-s-o-os-melhores-amigos-dos-gatos_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 9 - Cristais São os Melhores Amigos dos Gatos",
       "start_time": "20:52",
       "end_time": "21:14",
-      "episode_description": "Os Guardiões fazem um caótico curso intensivo de teatro na produção escolar de \"Cinderkatz\" e Shasha é escalada para o papel principal; a identidade secreta da dupla é ameaçada."
+      "episode_description": "O desejo de Milo de agir de forma mais instintiva ao tentar impedir um assalto ao museu faz com que os Guardiões sejam identificados como criminosos; Jack, sem saber, se junta aos minions e toda a cidade enfrenta uma ameaça supercarregada."
     },
     {
       "show_name": "Três Espiãs Demais",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_tres-espi-s-demais-s07e08-superlua-de-queijo_l_m.webp",
-      "show_category": "Temporada 7 Episódio 8 - Superlua de Queijo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tres-espi-s-demais-s07e09-frio-demais_l_m.jpg",
+      "show_category": "Temporada 7 Episódio 9 - Frio Demais",
       "start_time": "21:14",
       "end_time": "21:36",
-      "episode_description": "As Espiãs descobrem que alguém mexeu com a Lua e a transformou em queijo quando ondas começam a quebrar de cabeça para baixo. As Espiãs conseguem localizar o responsável na Torre Eiffel, em Paris."
+      "episode_description": "As Espiãs precisam deter um vilão que trouxe mamutes de volta à vida para usar a lã em uma linha de roupas de tricô. O que elas não sabem é que o vilão pretende fazer a Terra voltar à Era Glacial."
     },
     {
       "show_name": "Polly Pocket",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_polly-pocket-s04e04-acampamento-kapow_l_m.webp",
-      "show_category": "Temporada 4 Episódio 4 - Acampamento Kapow",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_polly-pocket-s04e07-pudim-a-gatinha_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 7 - Pudim, a Gatinha",
       "start_time": "21:36",
       "end_time": "21:49",
-      "episode_description": "Bella se vê perdida no Acampamento Kapow e pede ajuda a Polly e a Shani para ajudá-la."
+      "episode_description": "Bella cuida de um grupo de gatinhos fofos; Polly encanta todos os bichinhos, exceto uma: Pudim."
     },
     {
       "show_name": "Polly Pocket",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_polly-pocket-s04e05-e-so-um-dente_l_m.webp",
-      "show_category": "Temporada 4 Episódio 5 - É Só um Dente",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_polly-pocket-s04e08-a-doce-vida_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 8 - A Doce Vida",
       "start_time": "21:49",
       "end_time": "22:00",
-      "episode_description": "Polly, Lila e Shani encontram uma fada do dente em treinamento que corre o risco de perder suas asas se não conseguir completar suas tarefas de coleta de dentes até a próxima manhã."
+      "episode_description": "Inspirados a fazer o melhor bolo de todos os tempos, Papai e a Polly usam o poder do medalhão para se unirem. Eles procuram ganhar uma competição de confeitaria no Centro de Convenções."
     },
     {
       "show_name": "Hello Kitty: Super Style!",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_hello-kitty-super-style_l_m.webp",
-      "show_category": "Children",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hello-kitty-super-style-s11e02-um-toque-da-frido_l_m.jpg",
+      "show_category": "Temporada 11 Episódio 2 - Um Toque da Frido",
       "start_time": "22:00",
       "end_time": "22:11",
-      "episode_description": "Kitty constrói para Nori um ajudante robótico para fazer a vitamina perfeita. Quando o chef eletrônico se rebela, Nori e Kitty precisam derrotá-lo em uma competição de vitaminas."
+      "episode_description": "Frida não consegue pintar um quadro que expresse quem ela é, e Kitty a ajuda a descobrir seu eu."
     },
     {
       "show_name": "Hello Kitty: Super Style!",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_hello-kitty-super-style_l_m.webp",
-      "show_category": "Children",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hello-kitty-super-style-s12e04-cade-o-haroshee_l_m.jpg",
+      "show_category": "Temporada 12 Episódio 4 - Cadê o Haroshee?",
       "start_time": "22:11",
-      "end_time": "22:23",
-      "episode_description": "Kitty constrói para Nori um ajudante robótico para fazer a vitamina perfeita. Quando o chef eletrônico se rebela, Nori e Kitty precisam derrotá-lo em uma competição de vitaminas."
+      "end_time": "22:22",
+      "episode_description": "Depois de uma longa viagem pelo mundo, Kitty mal pode esperar para reencontrar Haroshee. Mas ele desaparece, e Kitty precisa encontrar seu melhor amigo."
     },
     {
       "show_name": "Hello Kitty: Super Style!",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_hello-kitty-super-style-s10e01-confus-o-no-museu_l_m.webp",
-      "show_category": "Temporada 10 Episódio 1 - Confusão no Museu",
-      "start_time": "22:23",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hello-kitty-super-style-s02e01-vamos-cantar_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 1 - Vamos Cantar",
+      "start_time": "22:22",
       "end_time": "22:34",
-      "episode_description": "Kitty cobre o turno de PI no museu para que ele possa curtir seu novo hobby: levantamento de pesos. Sem querer, ela acaba acordando uma estátua poderosa."
+      "episode_description": "A famosa cantora Podo Pooch está na cidade e Rio quer muito cantar com ela, mas se sente inseguro. No entanto, a Kitty Popstar o ajuda a ter coragem."
     },
     {
       "show_name": "LEGO DreamZzz - As Provas dos Caçadores de Sonhos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_lego-dreamzzz-as-provas-dos-cacadores-de-sonhos-s01e16-o-sonhador-merecedor_l_m.webp",
-      "show_category": "Temporada 1 Episódio 16 - O Sonhador Merecedor",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lego-dreamzzz-as-provas-dos-cacadores-de-sonhos-s01e18-a-caca-da-noite_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 18 - A Caça da Noite",
       "start_time": "22:34",
       "end_time": "22:57",
-      "episode_description": "A ampulheta da Lunia é ativada e vai guiar os Caçadores de Sonhos ao Castelo Nocturnia, a fortaleza do Guardião dos Sonhos. Dentro, está a chave para derrotar o Rei do Pesadelo, mas também uma poderosa criatura mitológica."
+      "episode_description": "Usando seu poder corruptivo em Z-Blob, o Rei do Pesadelo começa a abrir uma fenda para o Mundo Concreto. Mas, para estabilizá-la, ele precisa de um fabricante de sonhos."
     },
     {
       "show_name": "Mini Beat Power Rockers",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_mini-beat-power-rockers-s03e16-apenas-voce-e-eu_l_m.webp",
-      "show_category": "Temporada 3 Episódio 16 - Apenas Você e Eu",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mini-beat-power-rockers-s03e19-melo-dia-inesquecivel_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 19 - Melo-Dia Inesquecível",
       "start_time": "22:57",
       "end_time": "23:02",
-      "episode_description": "A mãe de Wat não consegue buscá-la e a bebê fica sozinha com Dolores na creche Arco-Íris. Elas se divertem muito até que, finalmente, a mãe de Wat a leve para casa."
+      "episode_description": "Depois de um erro de cálculo na creche Arco-Íris, Jay perde a memória. Os bebês e Dolores tentam ajudá-lo a recuperar suas lembranças com canções e sons de sua vida."
     },
     {
       "show_name": "Mini Beat Power Rockers",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_mini-beat-power-rockers-s03e17-musica-escondida_l_m.webp",
-      "show_category": "Temporada 3 Episódio 17 - Música Escondida",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mini-beat-power-rockers-s03e20-dia-de-rodeio_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 20 - Dia de Rodeio",
       "start_time": "23:02",
       "end_time": "23:07",
-      "episode_description": "Dolores usa canções com mensagens subliminares para controlar os bebês. No entanto, eles percebem o que ela está fazendo, e os bebês criam uma canção para controlá-la e fazer a babá provar o próprio veneno."
+      "episode_description": "A Bebê Country aparece na creche Arco-Íris para ensinar os outros bebês a controlar suas botas de caubói. Isso não é nada fácil para Wat, já que suas botas parecem ser muito rebeldes."
     },
     {
       "show_name": "Mini Beat Power Rockers",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_mini-beat-power-rockers-s03e18-adeus-ursinho_l_m.webp",
-      "show_category": "Temporada 3 Episódio 18",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mini-beat-power-rockers-s03e21-talento-oculto_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 21 - Talento Oculto",
       "start_time": "23:07",
       "end_time": "23:12",
-      "episode_description": "Dolores ensina aos Power Rockers a importância de doar, então todos começam a doar seus brinquedos."
+      "episode_description": "Dolores decide organizar um show de talentos e os bebês treinam suas outras habilidades longe de Wat. Ela se sente perdida sem sua guitarra, mas logo descobre um incrível talento oculto."
     },
     {
       "show_name": "Mini Beat Power Rockers",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_mini-beat-power-rockers-s01e11_l_m.webp",
-      "show_category": "Temporada 1 Episódio 11 - A Doce Candy",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mini-beat-power-rockers-s01e12_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 12 - Comidas Loucas",
       "start_time": "23:12",
       "end_time": "23:16",
-      "episode_description": "Candy substitui Dolores nas férias, e os bebês descobrem que a nova babá adora cantar e dançar. Mas nem tudo sai como eles esperam e eles acabam sentindo mais falta de Dolores do que imaginavam."
+      "episode_description": "Dolores alimenta os bebês com uma refeição muito nutritiva, mas eles acham muito sem graça. Os Bebês Roqueiros usam a imaginação para preparar todo tipo de pratos malucos e criativos."
     },
     {
       "show_name": "Pinóquio e Seus Amigos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_pinoquio-e-seus-amigos-s02e23_l_m.webp",
-      "show_category": "Temporada 2 Episódio 23 - Pinóquio, Presidente da Classe",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pinoquio-e-seus-amigos-s01e02-a-fada-da-floresta_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - A Fada da Floresta",
       "start_time": "23:16",
       "end_time": "23:28",
-      "episode_description": "Pinóquio quer provar seu valor como presidente de classe em uma fiscalização escolar - e quem decide os testes é ninguém menos do que o Grilo Falante."
+      "episode_description": "O boneco está determinado a descobrir quem é a sua mãe, e ao lado do Grilo Falante e de Frida, busca a resposta na Floresta Mágica, onde conhece a bela Fada de Cabelo Turquesa."
     },
     {
       "show_name": "Pinóquio e Seus Amigos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_pinoquio-e-seus-amigos-s02e25_l_m.webp",
-      "show_category": "Temporada 2 Episódio 25 - As Lições do Come-Fogo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pinoquio-e-seus-amigos-s01e04-dia-magico-na-escola_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - Dia Mágico na Escola",
       "start_time": "23:28",
-      "end_time": "23:40",
-      "episode_description": "Pinóquio e Frida pedem que Come-Fogo dirija a turma na peça da escola, mas ele fica impaciente e deixa as crianças sozinhas. A Bruxa do Mar então decide ensinar a ele uma lição mágica."
+      "end_time": "23:39",
+      "episode_description": "Pinóquio, Frida e o Grilo Falante perseguem a Raposa e o Gato, que pegou uma varinha mágica da Fada do Cabelo Azul. Durante a fuga, a varinha cai nas mãos de Lucila, uma garotinha que está correndo para a escola."
     },
     {
       "show_name": "Topo Gigio",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_topo-gigio-s02e03_l_m.webp",
-      "show_category": "Temporada 2 Episódio 3 - Em Casa com Tatum",
-      "start_time": "23:40",
-      "end_time": "23:52",
-      "episode_description": "Gigio e Zoe descobrem, horrorizados, que Tatum ficará na casa deles durante todo o fim de semana."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_topo-gigio-s02e05_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 5 - Eu Quero Ser Grande",
+      "start_time": "23:39",
+      "end_time": "23:50",
+      "episode_description": "Gigio não entende por que, enquanto todo mundo cresce, ele permanece sempre da mesma altura. O ratinho decide que chegou a hora de ele crescer também e está disposto a tudo para ver o mundo de cima."
     },
     {
       "show_name": "Topo Gigio",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_topo-gigio-s02e04_l_m.webp",
-      "show_category": "Temporada 2 Episódio 4 - Missão Anti-Hibernação",
-      "start_time": "23:52",
-      "end_time": "00:03",
-      "episode_description": "Zoe se arrepende de ir a uma festa com suas amigas e só quer dormir. Mas Gigio tem medo de que ela hiberne e tenta salvá-la."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_topo-gigio-s02e06_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 6 - A Brincadeira Preferida do Vovô",
+      "start_time": "23:50",
+      "end_time": "00:01",
+      "episode_description": "Vovô Martin visita Zoe e Gigio e traz uma pipa que vai ser fonte de muitos problemas."
     },
     {
       "show_name": "Mini Beat Power Rockers",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_mini-beat-power-rockers-s05e03-bebezinho_l_m.webp",
-      "show_category": "Temporada 5 Episódio 3 - Bebezinho",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mini-beat-power-rockers-s05e07-quanto-falta_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 7",
       "start_time": "05:30",
-      "end_time": "05:34",
-      "episode_description": "Bebezinho chega ao berçário e chama a atenção de todos os Power Rockers com seu talento."
+      "end_time": "05:35",
+      "episode_description": "Uma tempestade atrasa a chegada do caminhão de sorvete, e Fuz e Bebê Fuz decidem superar sua frustração com uma jornada musical enquanto esperam o tempo melhorar."
     },
     {
       "show_name": "Mini Beat Power Rockers",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_mini-beat-power-rockers-s05e04-batalha-de-aplausos_l_m.webp",
-      "show_category": "Temporada 5 Episódio 4 - Batalha de Aplausos",
-      "start_time": "05:34",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mini-beat-power-rockers-s05e08-um-dia-tranquilo_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 8",
+      "start_time": "05:35",
       "end_time": "05:39",
-      "episode_description": "Dolores instala no berçário um aparelho para mantê-lo em ordem, acionado por palmas."
+      "episode_description": "A Bebê Tofu medita, mas os outros bebês estão mais agitados do que nunca. A Bebê Tofu tenta fazer os pequenos seguirem seu exemplo e se acalmarem, mas o maior desafio é manter a calma durante o processo."
     },
     {
       "show_name": "Hello Kitty: Super Style!",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_hello-kitty-super-style-s06e02-a-torcida-de-cherry-town_l_m.webp",
-      "show_category": "Temporada 6 Episódio 2 - A Torcida de Cherry Town",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hello-kitty-super-style-s07e02-o-superbadtz_l_m.jpg",
+      "show_category": "Temporada 7 Episódio 2 - O Superbadtz",
       "start_time": "05:39",
       "end_time": "05:50",
-      "episode_description": "Kitty e seus amigos querem fazer uma dança para celebrar Cherry Town e torcer pelo campeão Zing."
+      "episode_description": "Um novo herói surge em Cherry Town: Superbadtz. Hello Kitty e Haroshee viram seus ajudantes, mas ninguém parece precisar ser salvo."
     },
     {
       "show_name": "Hello Kitty: Super Style!",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_hello-kitty-super-style-s08e04-a-festa-do-db_l_m.webp",
-      "show_category": "Temporada 8 Episódio 4 - A Festa do DB",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hello-kitty-super-style-s09e03-que-comecem-os-jogos_l_m.jpg",
+      "show_category": "Temporada 9 Episódio 3 - Que Comecem os Jogos!",
       "start_time": "05:50",
       "end_time": "06:01",
-      "episode_description": "O trio de castores ficam super agitados querendo comprar tudo pra festa do DB."
+      "episode_description": "PI ressuscita um antigo esporte; Hello Kitty ajuda Zing a perceber que, às vezes, se divertir é mais importante do que vencer."
     },
     {
       "show_name": "Mermicorno - A Queda das Estrelas",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_mermicorno-a-queda-das-estrelas-s01e08-falha-epica_l_m.webp",
-      "show_category": "Temporada 1 Episódio 8 - Falha Épica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mermicorno-a-queda-das-estrelas-s01e01-miss-o-mermicorno_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - Missão - Mermicorno",
       "start_time": "06:01",
       "end_time": "06:26",
-      "episode_description": "O talismã de Astra falha e coloca Squishella e Gwen em apuros."
+      "episode_description": "Astra busca sua irmã desaparecida em uma jornada mágica."
     },
     {
       "show_name": "Peppa",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-kids/today/br_peppa_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_peppa_l_m.jpg",
       "show_category": "Children",
       "start_time": "06:26",
       "end_time": "06:56",
