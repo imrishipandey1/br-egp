@@ -1,214 +1,222 @@
 {
   "channel": "Tv Senado",
-  "date": "15/01/2026",
+  "date": "16/01/2026",
   "schedule": [
     {
       "show_name": "Sessão Plenária",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_sess-o-plenaria-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sess-o-plenaria-1_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "01:20",
-      "end_time": "04:00",
+      "start_time": "00:15",
+      "end_time": "02:15",
       "episode_description": "Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade."
     },
     {
-      "show_name": "Em Discussão",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_em-discuss-o-2_l_m.webp",
-      "show_category": "Educational",
+      "show_name": "Sessão Plenária",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sess-o-plenaria-1_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "02:15",
+      "end_time": "03:30",
+      "episode_description": "Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade."
+    },
+    {
+      "show_name": "Parlamento Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "03:30",
+      "end_time": "04:00",
+      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
+    },
+    {
+      "show_name": "EcoSenado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ecosenado-1_l_m.jpg",
+      "show_category": "Environment",
       "start_time": "04:00",
       "end_time": "04:30",
+      "episode_description": "Assuntos relevantes e impactam o meio ambiente com participação de especialistas, políticos, biólogos e lideranças comunitárias."
+    },
+    {
+      "show_name": "Em Discussão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_em-discuss-o-2_l_m.jpg",
+      "show_category": "Educational",
+      "start_time": "04:30",
+      "end_time": "05:00",
       "episode_description": "As principais discussões realizadas nas audiências públicas promovidas pelo Senado."
     },
     {
       "show_name": "Salão Nobre",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_sal-o-nobre_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sal-o-nobre_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "04:30",
-      "end_time": "05:00",
-      "episode_description": "O senador Flávio Arns, PSB-PR, relator do projeto do ECA Digital, ressalta que a nova lei tem como objetivo garantir a proteção de crianças e adolescentes no meio digital."
-    },
-    {
-      "show_name": "Agenda Econômica",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_agenda-economica-1_l_m.webp",
-      "show_category": "Bus./financial",
       "start_time": "05:00",
       "end_time": "05:30",
-      "episode_description": "Economistas, formuladores de políticas públicas, acadêmicos, intelectuais e parlamentares analisam questões da economia nacional e internacional."
-    },
-    {
-      "show_name": "Baré, Povo do Rio",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_bare-povo-do-rio_l_m.webp",
-      "show_category": "Special",
-      "start_time": "06:30",
-      "end_time": "07:35",
-      "episode_description": "Dirigido por Tatiana Toffoli, o documentário retrata o cotidiano, costumes e lendas da etnia baré, cujo território se estende em várias comunidades ao longo do Médio e Alto Rio Negro, na Amazônia."
+      "episode_description": "O senador Flávio Arns, PSB-PR, relator do projeto do ECA Digital, ressalta que a nova lei tem como objetivo garantir a proteção de crianças e adolescentes no meio digital."
     },
     {
       "show_name": "Habitar/Habitat",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_habitar-habitat_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_habitar-habitat_l_m.jpg",
       "show_category": "Documentary",
-      "start_time": "07:35",
+      "start_time": "06:27",
+      "end_time": "07:20",
+      "episode_description": "Conheça as diversas formas de habitação da população brasileira. A abordagem liga aspectos arquitetônicos com formas de organização familiar, saberes locais, valores estéticos e motivos práticos de suas construções."
+    },
+    {
+      "show_name": "Territórios Indígenas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_territorios-indigenas_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "07:20",
+      "end_time": "08:03",
+      "episode_description": "Conheça o universo de crianças indígenas do povo A'uwê, uma autodenominação do povo Xavante que ocupa a aldeia Pimentel Barbosa, no Mato Grosso."
+    },
+    {
+      "show_name": "Tela Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tela-brasil_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "08:03",
       "end_time": "08:30",
-      "episode_description": "O programa mostra como vivem as famílias que moram em locais como Ocupação Progresso e Ocupação Hotel Cambridge. Conceitua ocupação, direito à moradia e aborda o medo do despejo e o sonho da casa própria."
+      "episode_description": "O programa mostra o folclore, artes, músicas e religiões do Brasil."
     },
     {
-      "show_name": "O Presidente Improvável",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_o-presidente-improvavel-2022_l_m.webp",
-      "show_category": "Documentary / 2022",
+      "show_name": "Vocação do Poder",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vocac-o-do-poder-2005_l_m.jpg",
+      "show_category": "Documentary / 2005",
       "start_time": "08:30",
-      "end_time": "10:12",
-      "episode_description": "Fernando Henrique Cardoso, ex-presidente da república, se reúne com amigos e colegas de longa data para refletir sobre a sua trajetória e a do próprio país. Entre os seus interlocutores, figuram personagens ilustres como Bill Clinton."
+      "end_time": "10:18",
+      "episode_description": "O documentário retrata a campanha eleitoral de seis candidatos a vereador e traz as ações de cada um, desde as convenções partidárias até a apuração dos votos, passando pelos programas de TV e as vidas social e familiar."
     },
     {
-      "show_name": "Marco Maciel - Bastidores de um País em Transe",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_marco-maciel-bastidores-de-um-pais-em-transe_l_m.webp",
+      "show_name": "Ulysses, Cidadão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ulysses-cidad-o_l_m.jpg",
       "show_category": "Special",
-      "start_time": "10:12",
-      "end_time": "10:41",
-      "episode_description": "Por mais de 15 anos, a TV Senado guardou entrevista com o político pernambucano Marco Maciel. Agora em formato de documentário, o ex-presidente da república revela bastidores da ditadura militar e da redemocratização."
-    },
-    {
-      "show_name": "1930 - Tempo de Revolução",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_1930-tempo-de-revoluc-o_l_m.webp",
-      "show_category": "Special",
-      "start_time": "10:41",
+      "start_time": "10:18",
       "end_time": "11:30",
-      "episode_description": "Movimentos políticos ocorridos antes da Revolução de 1930, por meio de imagens de arquivos inéditas e depoimentos de historiadores, tentam esclarecer esse momento crucial e ainda mal compreendido da história brasileira."
-    },
-    {
-      "show_name": "Salão Nobre",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_sal-o-nobre_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "11:30",
-      "end_time": "12:00",
-      "episode_description": "O senador Flávio Arns, PSB-PR, relator do projeto do ECA Digital, ressalta que a nova lei tem como objetivo garantir a proteção de crianças e adolescentes no meio digital."
+      "episode_description": "A vida e a obra do deputado Ulysses Guimarães a partir de noticiários, entrevistas e depoimentos."
     },
     {
       "show_name": "Em Discussão",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_em-discuss-o-2_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_em-discuss-o-2_l_m.jpg",
       "show_category": "Educational",
-      "start_time": "12:00",
-      "end_time": "12:30",
+      "start_time": "11:30",
+      "end_time": "12:00",
       "episode_description": "As principais discussões realizadas nas audiências públicas promovidas pelo Senado."
     },
     {
       "show_name": "TV Senado Live",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_tv-senado-live_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tv-senado-live_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "12:30",
-      "end_time": "13:00",
+      "start_time": "12:00",
+      "end_time": "12:30",
       "episode_description": "Veja entrevistas com a participação do público sobre os grandes temas em pauta no país."
     },
     {
       "show_name": "Parlamento Brasil",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_parlamento-brasil_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "13:00",
-      "end_time": "13:30",
+      "start_time": "12:30",
+      "end_time": "13:00",
       "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
     },
     {
       "show_name": "Assunto de Estado",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_assunto-de-estado_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_assunto-de-estado_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "13:30",
-      "end_time": "14:00",
+      "start_time": "13:00",
+      "end_time": "13:30",
       "episode_description": "A senadora Dra. Eudócia, PL, comenta avanços em saúde, educação, emprego e turismo em Alagoas, com destaque para o programa \"Olhar da Gente\" e o combate ao câncer."
     },
     {
       "show_name": "Agenda Econômica",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_agenda-economica-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_agenda-economica-1_l_m.jpg",
       "show_category": "Bus./financial",
-      "start_time": "14:00",
-      "end_time": "14:30",
+      "start_time": "13:30",
+      "end_time": "14:00",
       "episode_description": "Economistas, formuladores de políticas públicas, acadêmicos, intelectuais e parlamentares analisam questões da economia nacional e internacional."
     },
     {
-      "show_name": "Espaço Cultural",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_espaco-cultural-1_l_m.webp",
+      "show_name": "Salão Nobre",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sal-o-nobre_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "14:00",
+      "end_time": "14:30",
+      "episode_description": "O senador Flávio Arns, PSB-PR, relator do projeto do ECA Digital, ressalta que a nova lei tem como objetivo garantir a proteção de crianças e adolescentes no meio digital."
+    },
+    {
+      "show_name": "Estúdio A",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_estudio-a_l_m.jpg",
       "show_category": "Music",
       "start_time": "14:30",
       "end_time": "15:30",
-      "episode_description": "Alberto Salgado lança seu novo álbum \"Tutorial de Ebó\", com dez faixas autorais, no palco do Clube do Choro em Brasília."
+      "episode_description": "Programa apresenta música popular brasileira mesclando entrevista e músicas gravadas em estúdio."
     },
     {
       "show_name": "Guerras do Brasil.Doc",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_guerras-do-brasil-doc_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_guerras-do-brasil-doc_l_m.jpg",
       "show_category": "Documentary",
       "start_time": "15:30",
       "end_time": "16:00",
-      "episode_description": "A Guerra dos Palmares escancara um período que deixa marcas no país até hoje, desenvolvendo uma sociedade injusta, racista e preconceituosa."
+      "episode_description": "A Guerra do Tráfico relata a falência do sistema prisional brasileiro e apresenta um pouco da estrutura do crime organizado no país."
     },
     {
-      "show_name": "Agenda Econômica",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_agenda-economica-1_l_m.webp",
-      "show_category": "Bus./financial",
+      "show_name": "Salão Nobre",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sal-o-nobre_l_m.jpg",
+      "show_category": "Politics",
       "start_time": "16:00",
       "end_time": "16:30",
-      "episode_description": "Economistas, formuladores de políticas públicas, acadêmicos, intelectuais e parlamentares analisam questões da economia nacional e internacional."
+      "episode_description": "O senador Flávio Arns, PSB-PR, relator do projeto do ECA Digital, ressalta que a nova lei tem como objetivo garantir a proteção de crianças e adolescentes no meio digital."
     },
     {
       "show_name": "Cidadania",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_cidadania_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidadania_l_m.jpg",
       "show_category": "Interview",
       "start_time": "16:30",
       "end_time": "17:00",
       "episode_description": "Entrevistas semanais sobre assuntos da atualidade, com a participação de parlamentares, especialistas e representantes de organizações sociais."
     },
     {
-      "show_name": "Salão Nobre",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_sal-o-nobre_l_m.webp",
+      "show_name": "Parlamento Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
       "show_category": "Politics",
       "start_time": "17:00",
       "end_time": "17:30",
-      "episode_description": "O senador Flávio Arns, PSB-PR, relator do projeto do ECA Digital, ressalta que a nova lei tem como objetivo garantir a proteção de crianças e adolescentes no meio digital."
+      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
     },
     {
-      "show_name": "Comissão de Relações Exteriores e Defesa Nacional",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_comiss-o-de-relac-es-exteriores-e-defesa-nacional-1_l_m.webp",
+      "show_name": "TV Senado Live",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tv-senado-live_l_m.jpg",
       "show_category": "Politics",
       "start_time": "17:30",
-      "end_time": "21:30",
-      "episode_description": "Acompanhe discussões referentes às áreas de defesa e de política externa brasileiras."
+      "end_time": "18:00",
+      "episode_description": "Veja entrevistas com a participação do público sobre os grandes temas em pauta no país."
     },
     {
-      "show_name": "Agenda Econômica",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_agenda-economica-1_l_m.webp",
-      "show_category": "Bus./financial",
-      "start_time": "21:30",
-      "end_time": "22:00",
-      "episode_description": "Economistas, formuladores de políticas públicas, acadêmicos, intelectuais e parlamentares analisam questões da economia nacional e internacional."
+      "show_name": "Comissão de Educação, Cultura e Esporte",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o-de-educac-o-cultura-e-esporte_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "18:00",
+      "end_time": "20:45",
+      "episode_description": "Acompanhe a atividade legislativa da comissão permanente do Senado Federal que debate normas gerais sobre educação, cultura, ensino e esportes, instituições educacionais e culturais, diretrizes e bases da educação nacional."
     },
     {
-      "show_name": "Em Discussão",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_em-discuss-o-2_l_m.webp",
-      "show_category": "Educational",
-      "start_time": "22:00",
-      "end_time": "22:30",
-      "episode_description": "As principais discussões realizadas nas audiências públicas promovidas pelo Senado."
+      "show_name": "Comissão de Esporte",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o-de-esporte_l_m.jpg",
+      "show_category": "Event",
+      "start_time": "20:45",
+      "end_time": "22:34",
+      "episode_description": "Reuniões, audiências e debates da Comissão de Esporte."
     },
     {
       "show_name": "Sessão Plenária",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_sess-o-plenaria-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sess-o-plenaria-1_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "22:30",
-      "end_time": "00:15",
+      "start_time": "22:34",
+      "end_time": "00:11",
       "episode_description": "Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade."
     },
     {
       "show_name": "Amazônia, Arqueologia da Floresta",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_amazonia-arqueologia-da-floresta-s01e03-o-tabaco-e-a-cerveja_l_m.webp",
-      "show_category": "Temporada 1 Episódio 3 - O Tabaco e a Cerveja",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_amazonia-arqueologia-da-floresta-s01e04-cemiterio-bacabal_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - Cemitério Bacabal",
       "start_time": "05:30",
-      "end_time": "06:27",
-      "episode_description": "O sudoeste da Amazônia foi um importante centro de domesticação de plantas. Os vestígios desse processo são encontrados nos sítios arqueológicos da região, onde o passado e o presente estão profundamente conectados."
-    },
-    {
-      "show_name": "Habitar/Habitat",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_habitar-habitat_l_m.webp",
-      "show_category": "Documentary",
-      "start_time": "06:27",
-      "end_time": "06:57",
-      "episode_description": "O programa mostra como vivem as famílias que moram em locais como Ocupação Progresso e Ocupação Hotel Cambridge. Conceitua ocupação, direito à moradia e aborda o medo do despejo e o sonho da casa própria."
+      "end_time": "06:00",
+      "episode_description": "Novos sepultamentos são encontrados e, através desses vestígios, é possível saber o que os antigos comiam e bebiam. Os ossos e dentes humanos, as amostras de solo, as cerâmicas e objetos de pedra nos ajudam a contar a história de ocupação da região."
     }
   ]
 }

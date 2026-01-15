@@ -1,118 +1,142 @@
 {
   "channel": "Fox Sports",
-  "date": "14/01/2026",
+  "date": "15/01/2026",
   "schedule": [
     {
-      "show_name": "Real Sociedad x Osasuna",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-real-sociedad-x-osasuna-1_l_m.webp",
+      "show_name": "Premier League Stories",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-premier-league-stories_l_m.jpg",
+      "show_category": "",
+      "start_time": "01:00",
+      "end_time": "01:25",
+      "episode_description": "Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês."
+    },
+    {
+      "show_name": "Betis x Elche",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-betis-x-elche-1_l_m.jpg",
       "show_category": "Copa do Rei",
       "start_time": "01:25",
       "end_time": "03:30",
-      "episode_description": "Do Estádio de Anoeta, em San Sebastián, Espanha."
+      "episode_description": "Do Estádio de La Cartuja, em Sevilha, Espanha."
     },
     {
-      "show_name": "Doutrinadores",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/br_football-doutrinadores_l_m.webp",
+      "show_name": "Show da Rodada do Italiano",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-do-italiano_l_m.jpg",
       "show_category": "",
       "start_time": "03:30",
-      "end_time": "04:30",
-      "episode_description": "Conheça os maiores doutrinadores da bola oval. Veja os jogadores que revolucionaram a NFL e marcaram história no esporte."
+      "end_time": "04:00",
+      "episode_description": "Os principais destaques das partidas da Lega Serie A, primeira divisão do Campeonato Italiano de futebol masculino, com os gols, melhores lances e situação da tabela de classificação após cada rodada disputada."
     },
     {
-      "show_name": "Real Sociedad x Osasuna",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-real-sociedad-x-osasuna-1_l_m.webp",
-      "show_category": "Copa do Rei",
+      "show_name": "Show da Rodada de La Liga",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-de-la-liga_l_m.jpg",
+      "show_category": "",
+      "start_time": "04:00",
+      "end_time": "04:30",
+      "episode_description": ".Todos os gols e os principais lances da rodada de La Liga, primeira divisão do Campeonato Espanhol."
+    },
+    {
+      "show_name": "Internazionale x Lecce",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-internazionale-x-lecce_l_m.jpg",
+      "show_category": "Campeonato Italiano",
       "start_time": "04:30",
       "end_time": "05:00",
-      "episode_description": "Do Estádio de Anoeta, em San Sebastián, Espanha."
+      "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
     },
     {
       "show_name": "Rally Dakar 2026",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/fallback_sport_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
       "show_category": "",
       "start_time": "06:30",
       "end_time": "07:30",
       "episode_description": "Destaques e acontecimentos da 48ª edição do Rally Dakar, disputado em Yahu, Arábia Saudita."
     },
     {
-      "show_name": "Newcastle United x Manchester City",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-newcastle-united-x-manchester-city_l_m.webp",
-      "show_category": "Copa da Liga Inglesa",
+      "show_name": "Albacete Balompié x Real Madrid",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-albacete-balompie-x-real-madrid_l_m.jpg",
+      "show_category": "Copa do Rei",
       "start_time": "07:30",
       "end_time": "09:30",
+      "episode_description": "Do Estádio Carlos Belmonte, em Albacete, Espanha."
+    },
+    {
+      "show_name": "El Toro Nadal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_el-toro-nadal_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "09:30",
+      "end_time": "10:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Linha de Passe: Mesa-Redonda",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sports-talk-linha-de-passe-mesa-redonda_l_m.jpg",
+      "show_category": "",
+      "start_time": "10:30",
+      "end_time": "12:00",
+      "episode_description": "Comentaristas esportivos conceituados entram em campo para uma análise completa da rodada do futebol ao estilo \"mesa redonda\", com debates acalorados e comentários de qualidade, sempre a partir de um olhar crítico e da imparcialidade."
+    },
+    {
+      "show_name": "Chelsea x Arsenal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-chelsea-x-arsenal-2_l_m.jpg",
+      "show_category": "Copa da Liga Inglesa",
+      "start_time": "12:00",
+      "end_time": "14:00",
       "episode_description": "Acompanhe a competição eliminatória anual de futebol na Inglaterra."
     },
     {
-      "show_name": "Telstar x Ajax",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-telstar-x-ajax_l_m.webp",
-      "show_category": "Campeonato Neerlandês",
-      "start_time": "09:30",
-      "end_time": "11:30",
-      "episode_description": "Todas as emoções dos jogos da Eredivisie, a primeira divisão de futebol masculino dos Países Baixos."
+      "show_name": "Inside Serie A",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-inside-serie-a_l_m.jpg",
+      "show_category": "",
+      "start_time": "14:00",
+      "end_time": "14:30",
+      "episode_description": "Uma previsão sobre os próximos jogos do Campeonato Italiano."
     },
     {
-      "show_name": "Manchester United x Brighton & Hove Albion",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-manchester-united-x-brighton-hove-albion-1_l_m.webp",
-      "show_category": "Copa da Inglaterra",
-      "start_time": "11:30",
-      "end_time": "13:30",
-      "episode_description": "Criada em 1871, a FA Cup é o torneio de futebol mais antigo do planeta. Reúne os principais times da Inglaterra contra diversos de todo país, em eliminatórias simples. São quase 800 clubes buscando uma vaga na final."
-    },
-    {
-      "show_name": "Fiorentina x Milan",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-fiorentina-x-milan_l_m.webp",
-      "show_category": "Campeonato Italiano",
-      "start_time": "13:30",
+      "show_name": "Rally Dakar 2026",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_sport_l_m.jpg",
+      "show_category": "",
+      "start_time": "14:30",
       "end_time": "15:30",
-      "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
+      "episode_description": "Destaques e acontecimentos da 48ª edição do Rally Dakar, disputado em Yahu, Arábia Saudita."
     },
     {
-      "show_name": "Mogi x Cruzeiro",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/br_basketball-mogi-x-cruzeiro_l_m.webp",
-      "show_category": "NBB",
+      "show_name": "Dallas Mavericks x Denver Nuggets",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_basketball-dallas-mavericks-x-denver-nuggets_l_m.jpg",
+      "show_category": "NBA",
       "start_time": "15:30",
       "end_time": "17:30",
-      "episode_description": "Todas as emoções da principal competição de basquete masculino profissional entre clubes do Brasil."
+      "episode_description": "Trinta equipes dos Estados Unidos e Canadá se enfrentam na principal liga de basquete do mundo."
     },
     {
       "show_name": "Real Sociedad x Osasuna",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-real-sociedad-x-osasuna-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-real-sociedad-x-osasuna-1_l_m.jpg",
       "show_category": "Copa do Rei",
       "start_time": "17:30",
       "end_time": "19:30",
       "episode_description": "Do Estádio de Anoeta, em San Sebastián, Espanha."
     },
     {
-      "show_name": "El Toro Nadal",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/br_el-toro-nadal_l_m.webp",
-      "show_category": "Special",
+      "show_name": "Newcastle United x Manchester City",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-newcastle-united-x-manchester-city_l_m.jpg",
+      "show_category": "Copa da Liga Inglesa",
       "start_time": "19:30",
-      "end_time": "20:30",
-      "episode_description": ""
+      "end_time": "21:30",
+      "episode_description": "Acompanhe a competição eliminatória anual de futebol na Inglaterra."
     },
     {
-      "show_name": "Deportivo La Coruña x Atlético de Madrid",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-deportivo-la-coruna-x-atletico-de-madrid-1_l_m.webp",
+      "show_name": "Betis x Elche",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-betis-x-elche-1_l_m.jpg",
       "show_category": "Copa do Rei",
-      "start_time": "20:30",
-      "end_time": "22:30",
-      "episode_description": "Do Estádio Abanca-Riazor, em Corunha, Espanha."
+      "start_time": "21:30",
+      "end_time": "23:30",
+      "episode_description": "Do Estádio de La Cartuja, em Sevilha, Espanha."
     },
     {
-      "show_name": "SportsCenter Abre o Jogo",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/br_sports-talk-sportscenter-abre-o-jogo_l_m.webp",
-      "show_category": "",
-      "start_time": "22:30",
-      "end_time": "22:50",
-      "episode_description": "Os preparativos para os principais eventos esportivos do Brasil e do mundo."
-    },
-    {
-      "show_name": "Napoli x Parma",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-napoli-x-parma_l_m.webp",
-      "show_category": "Campeonato Italiano",
-      "start_time": "22:50",
-      "end_time": "01:00",
-      "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
+      "show_name": "Philadelphia 76ers x Cleveland Cavaliers",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_basketball-philadelphia-76ers-x-cleveland-cavaliers_l_m.jpg",
+      "show_category": "NBA",
+      "start_time": "23:30",
+      "end_time": "01:25",
+      "episode_description": "Trinta equipes dos Estados Unidos e Canadá se enfrentam na principal liga de basquete do mundo."
     }
   ]
 }
