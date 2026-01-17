@@ -1,102 +1,110 @@
 {
   "channel": "Telecine Action",
-  "date": "16/01/2026",
+  "date": "17/01/2026",
   "schedule": [
     {
-      "show_name": "Eu Sou a Lenda",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-action/today/br_eu-sou-a-lenda-2007-1_l_m.webp",
-      "show_category": "Science fiction / 2007",
-      "start_time": "00:15",
-      "end_time": "02:00",
-      "episode_description": "Robert Neville é um brilhante cientista e o único sobrevivente de uma epidemia que transformou os humanos em mutantes sedentos por sangue. Andando pela cidade de Nova York, ele procura por outros possíveis sobreviventes e tenta achar a cura da praga usando seu próprio sangue, que é imune."
+      "show_name": "Mortal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mortal-2020_l_m.jpg",
+      "show_category": "Fantasy / 2020 / 5.9",
+      "start_time": "00:40",
+      "end_time": "02:30",
+      "episode_description": "Um mochileiro viajando pela Noruega acaba preso pela morte de um garoto local. Durante sua detenção, uma psicóloga tenta entender o que aconteceu. Lentamente, o jovem começa a perceber que sua história se mistura com a mitologia nórdica."
     },
     {
-      "show_name": "Medusa",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-action/today/br_medusa-2021_l_m.webp",
-      "show_category": "Horror / 2021 / 5.9",
-      "start_time": "02:00",
-      "end_time": "04:20",
-      "episode_description": "Uma gangue de jovens mulheres tenta controlar tudo ao seu redor, incluindo outras mulheres, perambulando pelas ruas e espancando aquelas que consideram muito pecaminosas."
+      "show_name": "Bellini e o Demônio",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bellini-e-o-demonio-2008_l_m.jpg",
+      "show_category": "Mystery / 2008",
+      "start_time": "02:30",
+      "end_time": "04:05",
+      "episode_description": "Em crise, Bellini é contratado para encontrar um livro misterioso que está relacionado a uma série de assassinatos brutais ocorridos ao longo dos anos. Ele acaba se envolvendo em uma trama alucinante de ação e rituais satânicos."
     },
     {
-      "show_name": "O Protetor 2",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-action/today/br_o-protetor-2-2018_l_m.webp",
-      "show_category": "Action / 2018",
-      "start_time": "04:20",
-      "end_time": "04:50",
-      "episode_description": "Criminosos assassinam Susan Plummer, a melhor amiga de Robert McCall e sua ex-colega de trabalho. Obcecado, Robert pensa apenas em eliminar o bando de assassinos profissionais que destruiu sua vida."
+      "show_name": "Jogador Nº 1",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jogador-n-1-2018_l_m.jpg",
+      "show_category": "Science fiction / 2018",
+      "start_time": "04:05",
+      "end_time": "04:35",
+      "episode_description": "Em 2045, Wade Watts, assim como o resto da humanidade, prefere a realidade virtual do jogo OASIS ao mundo real. James Halliday, o excêntrico criador do jogo, morre e deixa sua fortuna inestimável para a primeira pessoa que descobrir a chave de um quebra-cabeça diabólico que ele arquitetou. Para vencer, Watts precisa abandonar a existência virtual e experimentar o amor e a realidade."
+    },
+    {
+      "show_name": "A Batalha de Riddick",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-batalha-de-riddick-2004-1_l_m.jpg",
+      "show_category": "Science fiction / 2004",
+      "start_time": "06:30",
+      "end_time": "08:35",
+      "episode_description": "Os Necromongers, guerreiros interplanetários, vivem de assolar novos mundos. Os poucos que conseguem sobreviver a eles passam a acreditar em mitos e profecias. Riddick, um homem solitário que vive exilado, decide ajudar os fugitivos."
+    },
+    {
+      "show_name": "Círculo de Fogo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_circulo-de-fogo-2013-1_l_m.jpg",
+      "show_category": "Science fiction / 2013",
+      "start_time": "08:35",
+      "end_time": "10:50",
+      "episode_description": "Criaturas monstruosas conhecidas como Kaiju começam a emergir do mar. Para combatê-los, a humanidade desenvolve uma série de robôs gigantescos, os Jaegers. Cada um é controlado por duas pessoas por meio de uma conexão neural. Entretanto, mesmo os Jaegers se mostram insuficientes para derrotar os Kaiju. Diante deste cenário, a última esperança é um velho robô, que passa a ser comandado por um antigo piloto e uma pessoa em treinamento."
+    },
+    {
+      "show_name": "Jogos Mortais - O Final",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jogos-mortais-o-final-2010-1_l_m.jpg",
+      "show_category": "Horror / 2010",
+      "start_time": "10:50",
+      "end_time": "12:25",
+      "episode_description": "Sobreviventes se reúnem devido aos traumas adquiridos. Entre eles, o psicólogo que controla o encontro e não é uma vítima como as outras, mas tem segredos que podem reiniciar os ataques do psicopata."
+    },
+    {
+      "show_name": "Jogos Mortais VI",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jogos-mortais-vi-2009-1_l_m.jpg",
+      "show_category": "Horror / 2009",
+      "start_time": "12:25",
+      "end_time": "14:00",
+      "episode_description": "O agente especial Strahm está morto, e o detetive Hoffman é o único que conhece o verdadeiro legado de Jigsaw. Porém, quando o FBI se aproxima de Hoffman, ele é forçado a colocar o jogo em ação."
+    },
+    {
+      "show_name": "Red - Aposentados e Perigosos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_red-aposentados-e-perigosos-2010-1_l_m.jpg",
+      "show_category": "Action / 2010",
+      "start_time": "14:00",
+      "end_time": "15:55",
+      "episode_description": "Após sobreviver a uma tentativa de homicídio investida por assassinos de aluguel, o agente aposentado da CIA Frank Moses decide se unir ao seu antigo time de campo para garantir a segurança de sua família."
     },
     {
       "show_name": "O Exorcismo",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-action/today/br_o-exorcismo-2024_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-exorcismo-2024_l_m.jpg",
       "show_category": "Horror / 2024",
-      "start_time": "06:30",
-      "end_time": "08:10",
+      "start_time": "15:55",
+      "end_time": "17:35",
       "episode_description": "Enquanto grava um filme de terror, um ator passa a ter um comportamento estranho e agressivo. Despertando preocupações, sua filha busca entender o que está por trás dessas mudanças."
     },
     {
-      "show_name": "O Exorcista",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-action/today/br_o-exorcista-1973-1_l_m.webp",
-      "show_category": "Horror / 1973",
-      "start_time": "08:10",
-      "end_time": "10:20",
-      "episode_description": "Atriz vai gradativamente tomando consciência de que a sua filha de 12 anos está tendo um comportamento completamente assustador. Ela decide pedir ajuda a um padre, que também é um psiquiatra, e ele chega à conclusão de que a garota está possuída pelo demônio. Ele solicita a ajuda de um segundo sacerdote, especialista em exorcismo, para tentar livrar a menina desta terrível possessão."
+      "show_name": "Contra-Filé",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_contra-file-2019_l_m.jpg",
+      "show_category": "Horror / 2019",
+      "start_time": "17:35",
+      "end_time": "17:55",
+      "episode_description": "Um homem corre contra o tempo na tentativa de salvar sua própria vida. Mas sua única esperança se encontra em um açougue."
     },
     {
-      "show_name": "Os Infiltrados",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-action/today/br_os-infiltrados-2006-1_l_m.webp",
-      "show_category": "Crime drama / 2006",
-      "start_time": "10:20",
-      "end_time": "13:00",
-      "episode_description": "Billy Costigan, um jovem policial, recebe a missão de se infiltrar na máfia, no grupo comandado por Frank Costello. Billy conquista sua confiança ao mesmo tempo, em que Colin Sullivan, um criminoso que atuou na polícia como informante de Costello, também ascende dentro da corporação. Tanto Billy quanto Colin se sentem aflitos devido à vida dupla que levam. Mas, quando a máfia e a polícia descobrem que há um espião entre eles, a vida de ambos passa a correr perigo."
+      "show_name": "Medusa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_medusa-2021_l_m.jpg",
+      "show_category": "Horror / 2021 / 5.9",
+      "start_time": "17:55",
+      "end_time": "20:15",
+      "episode_description": "Uma gangue de jovens mulheres tenta controlar tudo ao seu redor, incluindo outras mulheres, perambulando pelas ruas e espancando aquelas que consideram muito pecaminosas."
     },
     {
-      "show_name": "Jogos Mortais V",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-action/today/br_jogos-mortais-v-2008_l_m.webp",
-      "show_category": "Horror / 2008",
-      "start_time": "13:00",
-      "end_time": "14:40",
-      "episode_description": "Mark Hoffman é, aparentemente, a última pessoa viva disposta a seguir o legado deixado por Jigsaw. Porém, quando seu segredo é ameaçado, usando uma série de armadilhas, cada vez mais bizarras e terríveis, ele precisa iniciar uma caçada para eliminar todos os envolvidos."
+      "show_name": "Truque de Mestre - O 2º Ato",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_truque-de-mestre-o-2-ato-2016_l_m.jpg",
+      "show_category": "Adventure / 2016",
+      "start_time": "20:15",
+      "end_time": "22:40",
+      "episode_description": "Após enganarem o FBI, ilusionistas foragidos são protegidos por Dylan Rhodes, agente duplo infiltrado. Enquanto desviam da perseguição oficial, o grupo prepara seu próximo golpe: expor um gênio da tecnologia que rouba dados pessoais."
     },
     {
-      "show_name": "Pânico nas Alturas",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-action/today/br_panico-nas-alturas-2019_l_m.webp",
-      "show_category": "Thriller / 2019",
-      "start_time": "14:40",
-      "end_time": "16:15",
-      "episode_description": "Um grupo de cinco amigos invade um teleférico para passar o Ano Novo clandestinamente no topo de uma montanha. No entanto, no meio do caminho, eles ficam presos e suas férias se tornam um cenário de horror e luta pela sobrevivência."
-    },
-    {
-      "show_name": "Procurar e Destruir",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-action/today/br_procurar-e-destruir-2020_l_m.webp",
-      "show_category": "Action / 2020",
-      "start_time": "16:15",
-      "end_time": "17:50",
-      "episode_description": "John Cutter falha em salvar uma família sequestrada, perde toda sua equipe em batalha e acaba dispensado das forças armadas. Três anos depois, é abordado por seu ex-general para uma perigosa missão."
-    },
-    {
-      "show_name": "A Origem",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-action/today/br_a-origem-2010-1_l_m.webp",
-      "show_category": "Science fiction / 2010 / 5.2",
-      "start_time": "17:50",
-      "end_time": "20:25",
-      "episode_description": "Dom Cobb é um ladrão com a rara habilidade de roubar segredos do inconsciente, obtidos durante o estado de sono. Impedido de retornar para sua família, ele recebe a oportunidade de se redimir ao realizar uma tarefa aparentemente impossível: plantar uma ideia na mente do herdeiro de um império. Para realizar o crime perfeito, ele conta com a ajuda do parceiro Arthur, o discreto Eames e a arquiteta de sonhos Ariadne. Juntos, eles correm para que o inimigo não antecipe seus passos."
-    },
-    {
-      "show_name": "Máquina Mortífera",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-action/today/br_maquina-mortifera-1987-1_l_m.webp",
-      "show_category": "Action / 1987",
-      "start_time": "20:25",
-      "end_time": "22:25",
-      "episode_description": "Após perder a esposa, o detetive Martin Riggs torna-se temerário e suicida. Transferido, entra em conflito com Roger Murtaugh, veterano do departamento. Juntos, descobrem um cartel de drogas e formam um vínculo em situações perigosas."
-    },
-    {
-      "show_name": "Matrix Revolutions",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-action/today/br_matrix-revolutions-2003_l_m.webp",
-      "show_category": "Science fiction / 2003 / 6.7",
-      "start_time": "22:25",
-      "end_time": "00:40",
-      "episode_description": "Após enfrentar os sentinelas no mundo real, Neo, a maior esperança da humanidade, está preso entre a Matriz e a realidade. A maioria da população do planeta permanece em um estado de suspensão da realidade virtual. Os poucos humanos que estão cientes das duras realidades tentam afastar desesperadamente as máquinas a tempo de Neo escapar e salvar o dia. Mas as coisas pioram quando o poderoso software, Agente Smith, aparece na forma humana."
+      "show_name": "O Protetor 2",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-protetor-2-2018_l_m.jpg",
+      "show_category": "Action / 2018",
+      "start_time": "22:40",
+      "end_time": "00:50",
+      "episode_description": "Criminosos assassinam Susan Plummer, a melhor amiga de Robert McCall e sua ex-colega de trabalho. Obcecado, Robert pensa apenas em eliminar o bando de assassinos profissionais que destruiu sua vida."
     }
   ]
 }

@@ -1,118 +1,110 @@
 {
   "channel": "Telecine Pipoca",
-  "date": "17/01/2026",
+  "date": "18/01/2026",
   "schedule": [
     {
+      "show_name": "Reféns na Ponte",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_refens-na-ponte-2024_l_m.jpg",
+      "show_category": "Action / 2024",
+      "start_time": "01:40",
+      "end_time": "03:20",
+      "episode_description": "Eric é um veterano de guerra que estava indo para um passeio com sua irmã, quando um grupo de ex-militares faz todos na ponte de reféns. Agora, ele terá que usar suas habilidades para salvar a todos."
+    },
+    {
+      "show_name": "Código Alarum",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_codigo-alarum-2025_l_m.jpg",
+      "show_category": "Action / 2025",
+      "start_time": "03:20",
+      "end_time": "05:00",
+      "episode_description": "Vivendo isolados durante as férias em um resort de inverno, os espiões casados Joe e Lara são atacados por membros da velha guarda que suspeitam que eles se juntaram a uma equipe de elite de espiões renegados."
+    },
+    {
+      "show_name": "Missão Pet",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_miss-o-pet-2025_l_m.jpg",
+      "show_category": "Children / 2025",
+      "start_time": "05:00",
+      "end_time": "05:30",
+      "episode_description": "Uma equipe de bandidos animais embarca em um golpe de rotina e se veem envolvidos em um assalto a trem. Cabe a Falcon, um guaxinim ladrão de pouca monta, e Rex, um cão policial justo, salvar os animais neste trem em alta velocidade."
+    },
+    {
+      "show_name": "John Wick - Um Novo Dia para Matar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_john-wick-um-novo-dia-para-matar-2017_l_m.jpg",
+      "show_category": "Action / 2017",
+      "start_time": "06:30",
+      "end_time": "08:35",
+      "episode_description": "John Wick é forçado a deixar a aposentadoria mais uma vez por causa de uma promessa antiga e viaja para Roma, com o objetivo de ajudar um velho amigo a derrubar uma organização secreta, perigosa e mortal de assassinos procurados em todo o mundo."
+    },
+    {
+      "show_name": "Os Farofeiros",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-farofeiros-2018_l_m.jpg",
+      "show_category": "Comedy / 2018",
+      "start_time": "08:35",
+      "end_time": "10:25",
+      "episode_description": "Quatro colegas de trabalho se programam para curtir o feriado prolongado em uma casa de praia. Lá, eles descobrem que se meteram em uma tremenda roubada."
+    },
+    {
+      "show_name": "Noivo à Indiana",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_noivo-a-indiana-2024_l_m.jpg",
+      "show_category": "Romantic comedy / 2024",
+      "start_time": "10:25",
+      "end_time": "12:05",
+      "episode_description": "Naveen vem de uma família tradicional com ascendência indiana, mas está noivo de Jay, um homem branco. Agora, seu maior desafio é organizar com seus pais um clássico casamento indiano."
+    },
+    {
+      "show_name": "Riddick 3",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_riddick-3-2013_l_m.jpg",
+      "show_category": "Science fiction / 2013 / 6.4",
+      "start_time": "12:05",
+      "end_time": "14:10",
+      "episode_description": "Abandonado para morrer em um mundo habitado por animais selvagens, Riddick deseja retornar ao seu planeta natal. Quando dois grupos de mercenários chegam ao planeta, ele passa a usá-los para tentar conseguir uma das naves para fugir do local."
+    },
+    {
+      "show_name": "A Força em Alerta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-forca-em-alerta-1992_l_m.jpg",
+      "show_category": "Action / 1992",
+      "start_time": "14:10",
+      "end_time": "16:00",
+      "episode_description": "Terroristas embarcam em um navio de guerra que está prestes a ser desativado. O grupo planeja roubar o arsenal nuclear da embarcação, mas antes terá que lidar com um agente especial que também está a bordo, disfarçado de cozinheiro."
+    },
+    {
+      "show_name": "Contra Ataque",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_contra-ataque-2018_l_m.jpg",
+      "show_category": "Action / 2018",
+      "start_time": "16:00",
+      "end_time": "17:40",
+      "episode_description": "Um gerente de banco é atormentado por um assalto violento, que termina com a morte de um de seus colegas de trabalho. Ele decide encontrar o verdadeiro criminoso e limpar seu nome quando descobre que é o principal suspeito do crime."
+    },
+    {
+      "show_name": "Qual Seu Número?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_qual-seu-numero-2011-1_l_m.jpg",
+      "show_category": "Romantic comedy / 2011",
+      "start_time": "17:40",
+      "end_time": "19:30",
+      "episode_description": "Ally lê em uma revista que mulheres que já tiveram mais de 20 parceiros não conseguem casar. Desesperada, ela decide procurar seus ex-namorados na esperança de firmar o verdadeiro amor."
+    },
+    {
       "show_name": "Roubo do Cão",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-pipoca/tomorrow/br_roubo-do-c-o-2025_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_roubo-do-c-o-2025_l_m.jpg",
       "show_category": "Comedy / 2025",
-      "start_time": "01:35",
-      "end_time": "02:55",
+      "start_time": "19:30",
+      "end_time": "20:50",
       "episode_description": "Luciana e a chihuahua Rita Lee são melhores amigas. Após a cadelinha virar uma celebridade, Luciana precisará enfrentar bandidos atrapalhados contratados para roubá-la."
     },
     {
-      "show_name": "A Chamada",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-pipoca/tomorrow/br_a-chamada-2023_l_m.webp",
-      "show_category": "Action / 2023",
-      "start_time": "02:55",
-      "end_time": "04:30",
-      "episode_description": "Enquanto dirige com os filhos, um homem recebe um telefonema de um agressor desconhecido que alega haver uma bomba no carro. Incapaz de sair do veículo, ele precisa seguir uma série de instruções distorcidas, enquanto tenta descobrir como sobreviver."
+      "show_name": "Rota de Fuga",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rota-de-fuga-2013-1_l_m.jpg",
+      "show_category": "Action / 2013",
+      "start_time": "20:50",
+      "end_time": "22:50",
+      "episode_description": "Ray Breslin é a maior autoridade que existe quando se trata de segurança. Após analisar diversas prisões de segurança máxima, ele desenvolve um modelo à prova de fugas. No entanto, Ray acaba sendo preso, mas é enviado justamente para a prisão que ele mesmo criou. Lá, ele precisa encontrar uma brecha não imaginada até então, que possa permitir sua fuga."
     },
     {
-      "show_name": "A Teia",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-pipoca/tomorrow/br_a-teia-2024_l_m.webp",
-      "show_category": "Thriller / 2024",
-      "start_time": "04:30",
-      "end_time": "06:25",
-      "episode_description": "Sofrendo de perda de memória, um ex-detetive de homicídios tenta resolver um assassinato brutal do qual não consegue se lembrar. À medida que reúne evidências de uma investigação de uma década, ele logo descobre segredos em seu passado esquecido."
-    },
-    {
-      "show_name": "Sob Fogo",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-pipoca/tomorrow/br_sob-fogo-2025_l_m.webp",
-      "show_category": "Action / 2025",
-      "start_time": "06:30",
-      "end_time": "08:10",
-      "episode_description": "Dois agentes infiltrados revelam subitamente suas identidades durante uma negociação de cartel, cada um sem saber que o outro trabalhava no mesmo caso. A surpresa dura pouco quando uma chuva de balas os deixa encurralados e sob fogo pesado."
-    },
-    {
-      "show_name": "Jogos Vorazes - A Cantiga dos Pássaros e das Serpentes",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-pipoca/tomorrow/br_jogos-vorazes-a-cantiga-dos-passaros-e-das-serpentes-2023_l_m.webp",
-      "show_category": "Action / 2023",
-      "start_time": "08:10",
-      "end_time": "10:45",
-      "episode_description": "Anos antes de se tornar o presidente tirânico de Panem, Coriolanus Snow, de 18 anos, vê uma chance de mudar sua sorte quando se torna o mentor de Lucy Gray Baird, o tributo feminino do Distrito 12."
-    },
-    {
-      "show_name": "Noites Brutais",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-pipoca/tomorrow/br_noites-brutais-2022_l_m.webp",
-      "show_category": "Horror / 2022",
-      "start_time": "10:45",
-      "end_time": "12:30",
-      "episode_description": "Uma jovem descobre que a casa que alugou já está ocupada por um estranho. Contra seu melhor julgamento, ela decide pernoitar, mas logo percebe que há muito mais a temer do que apenas um hóspede inesperado."
-    },
-    {
-      "show_name": "Hellboy",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-pipoca/tomorrow/br_hellboy-2019_l_m.webp",
-      "show_category": "Action / 2019 / 5.2",
-      "start_time": "12:30",
-      "end_time": "14:35",
-      "episode_description": "Uma antiga feiticeira volta à vida decidida a vingar-se de uma traição do passado. Dividido entre o mundo sobrenatural e humano, o lendário meio-demônio Hellboy recebe a missão de conter essa ameaça e salvar o mundo."
-    },
-    {
-      "show_name": "The Professional",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-pipoca/tomorrow/br_the-professional-1994_l_m.webp",
-      "show_category": "Thriller / 1994 / 8.5",
-      "start_time": "14:35",
-      "end_time": "16:30",
-      "episode_description": "Mathilda, 12 anos, vive com família abusiva envolvida com policiais corruptos. Quando todos são mortos ela busca refúgio com Léon, vizinho que é assassino profissional. A garota convence o matador a ensiná-la o ofício para vingar sua família."
-    },
-    {
-      "show_name": "Mistério em Alto Mar",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-pipoca/tomorrow/br_misterio-em-alto-mar-2022_l_m.webp",
-      "show_category": "Thriller / 2022",
-      "start_time": "16:30",
-      "end_time": "18:05",
-      "episode_description": "Depois de uma festa num iate, um grupo de amigos acorda à deriva em alto-mar. Sem suprimentos ou chance de comunicação, eles logo percebem que são vítimas de um plano de vingança."
-    },
-    {
-      "show_name": "Treinamento Brutal",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-pipoca/tomorrow/br_treinamento-brutal-2022_l_m.webp",
-      "show_category": "Action / 2022",
-      "start_time": "18:05",
-      "end_time": "19:35",
-      "episode_description": "Buscando um recomeço, Bryant se muda para uma pequena cidade. Lá, faz amizade com um jovem e se torna seu mentor. Ele só não esperava que seu passado o forçasse a entrar em uma luta de vida ou morte."
-    },
-    {
-      "show_name": "Noé",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-pipoca/tomorrow/br_noe-2014_l_m.webp",
-      "show_category": "Historical drama / 2014 / 5.9",
-      "start_time": "19:35",
-      "end_time": "21:55",
-      "episode_description": "Noé vive com a esposa Naameh e os filhos Sem, Cam e Jafé em um mundo devastado pelo pecado, onde os homens perseguem e matam uns aos outros. Um dia, Noé recebe uma missão divina: construir uma imensa arca para abrigar os animais durante um dilúvio."
-    },
-    {
-      "show_name": "Tô de Graça - O Filme",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-pipoca/tomorrow/br_to-de-graca-o-filme-2024_l_m.webp",
-      "show_category": "Comedy / 2024",
-      "start_time": "21:55",
-      "end_time": "23:40",
-      "episode_description": "A hilária Graça, mãe de Shubakira, Maico, Briti Sprite e mais onze, viaja com a prole para Búzios, onde se mete em várias confusões enquanto se desdobra para manter a família unida."
-    },
-    {
-      "show_name": "Preview",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-pipoca/tomorrow/br_preview_l_m.webp",
-      "show_category": "Entertainment",
-      "start_time": "23:40",
-      "end_time": "23:45",
-      "episode_description": "Acompanhe matérias especiais sobre o mundo da sétima arte, o cinema."
-    },
-    {
-      "show_name": "Um Espião e Meio",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-pipoca/tomorrow/br_um-espi-o-e-meio-2016_l_m.webp",
-      "show_category": "Action / 2016",
-      "start_time": "23:45",
-      "end_time": "01:40",
-      "episode_description": "Antes de se tornar um agente da CIA, Bob sofria bullying na época do colégio. Na agência, ele precisa resolver um caso ultrassecreto e recorre a um antigo colega, popular nos tempos da escola, hoje contador."
+      "show_name": "Minha Mãe É uma Peça 3",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_minha-m-e-e-uma-peca-3-2019_l_m.jpg",
+      "show_category": "Comedy / 2019",
+      "start_time": "22:50",
+      "end_time": "00:50",
+      "episode_description": "Dona Hermínia precisa se reinventar porque seus filhos estão formando novas famílias. Marcelina está grávida e Juliano vai casar. Dona Hermínia está mais ansiosa do que nunca. Para completar as confusões, Carlos Alberto, seu ex-marido, que esteve sempre por perto, resolve se mudar para o apartamento ao lado."
     }
   ]
 }

@@ -1,174 +1,214 @@
 {
   "channel": "Tv Camara",
-  "date": "16/01/2026",
+  "date": "17/01/2026",
   "schedule": [
     {
-      "show_name": "Comissão",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_comiss-o_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "00:00",
-      "end_time": "03:00",
-      "episode_description": "O programa transmite as discussões e votações do plenário."
-    },
-    {
-      "show_name": "O Futuro da Medicina",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_o-futuro-da-medicina_l_m.webp",
-      "show_category": "Special",
-      "start_time": "03:00",
-      "end_time": "03:30",
-      "episode_description": "A evolução da medicina por meio da tecnologia. Inovações, questões legais, éticas e filosóficas."
-    },
-    {
-      "show_name": "100 Anos de Cultura e Conflitos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_100-anos-de-cultura-e-conflitos_l_m.webp",
-      "show_category": "Documentary",
-      "start_time": "03:30",
-      "end_time": "04:00",
-      "episode_description": "Veja os eventos que marcaram a história do Brasil desde a Semana de Arte Moderna até os dias atuais."
-    },
-    {
-      "show_name": "Câmara Debate",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_camara-debate_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "04:00",
-      "end_time": "04:30",
-      "episode_description": "A cada programa, dois parlamentares discutem os grandes temas que movimentam os trabalhos na Câmara dos Deputados."
-    },
-    {
-      "show_name": "Ciência sem Limites",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_ciencia-sem-limites_l_m.webp",
-      "show_category": "Science",
-      "start_time": "04:30",
-      "end_time": "05:00",
-      "episode_description": "O programa é um espaço de divulgação da ciência em diferentes áreas. Saiba mais sobre as pesquisas, obras e avanços tecnológicos produzidos pelos pesquisadores da Unesp."
-    },
-    {
-      "show_name": "Um Dia na Câmara",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_um-dia-na-camara_l_m.webp",
-      "show_category": "Special",
-      "start_time": "05:00",
-      "end_time": "05:30",
-      "episode_description": "Além dos parlamentares, milhares de trabalhadores atuam para que o Legislativo possa cumprir o seu papel. São assessores, jornalistas, policiais, recepcionistas, faxineiros e diversos outros profissionais que colaboram para que os deputados possam fiscalizar o Governo e aprovar novas leis. O documentário acompanha, do amanhecer ao anoitecer, os bastidores de um dia de trabalho da Câmara dos Deputados."
-    },
-    {
-      "show_name": "Participação Popular",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_participac-o-popular-1_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "06:30",
-      "end_time": "07:00",
-      "episode_description": "O programa reúne deputados, analistas e o público ao vivo para saber o que o cidadão comum acha dos temas discutidos no Congresso."
+      "show_name": "Palavra Aberta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "02:00",
+      "end_time": "02:15",
+      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
     },
     {
       "show_name": "Palavra Aberta",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_palavra-aberta-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
       "show_category": "Interview",
-      "start_time": "07:00",
+      "start_time": "02:15",
+      "end_time": "02:30",
+      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
+    },
+    {
+      "show_name": "Bora Entender?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bora-entender_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "02:30",
+      "end_time": "03:30",
+      "episode_description": "Explicação didática de temas que estão presentes no debate político, de forma imparcial, apresentando todas as visões envolvidas, para que o público entenda a questão e tire suas próprias conclusões."
+    },
+    {
+      "show_name": "Retrospectiva",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_retrospectiva_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "03:30",
+      "end_time": "04:30",
+      "episode_description": "Os principais fatos que foram destaque na Câmara dos Deputados durante o ano."
+    },
+    {
+      "show_name": "Ponto de Vista",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ponto-de-vista-2009_l_m.jpg",
+      "show_category": "History",
+      "start_time": "04:30",
+      "end_time": "05:00",
+      "episode_description": "Convidados especiais discutem a respeito de temas relevantes da história mundial."
+    },
+    {
+      "show_name": "Elas Pautam",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_elas-pautam_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "05:00",
+      "end_time": "05:30",
+      "episode_description": "O programa conta com a participação de duas parlamentares, em uma conversa informal sobre temas diversos de interesse da bancada feminina."
+    },
+    {
+      "show_name": "Participação Popular",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_participac-o-popular-1_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "06:30",
+      "end_time": "07:30",
+      "episode_description": "O programa reúne deputados, analistas e o público ao vivo para saber o que o cidadão comum acha dos temas discutidos no Congresso."
+    },
+    {
+      "show_name": "100 Anos de Cultura e Conflitos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_100-anos-de-cultura-e-conflitos_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "07:30",
+      "end_time": "08:00",
+      "episode_description": "Veja os eventos que marcaram a história do Brasil desde a Semana de Arte Moderna até os dias atuais."
+    },
+    {
+      "show_name": "Palavra Aberta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "08:00",
       "end_time": "08:15",
       "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
     },
     {
       "show_name": "Palavra Aberta",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_palavra-aberta-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
       "show_category": "Interview",
       "start_time": "08:15",
       "end_time": "08:30",
       "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
     },
     {
-      "show_name": "Comissão",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_comiss-o_l_m.webp",
-      "show_category": "Politics",
+      "show_name": "Um Dia na Câmara",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_um-dia-na-camara_l_m.jpg",
+      "show_category": "Special",
       "start_time": "08:30",
-      "end_time": "15:00",
+      "end_time": "09:00",
+      "episode_description": "Além dos parlamentares, milhares de trabalhadores atuam para que o Legislativo possa cumprir o seu papel. São assessores, jornalistas, policiais, recepcionistas, faxineiros e diversos outros profissionais que colaboram para que os deputados possam fiscalizar o Governo e aprovar novas leis. O documentário acompanha, do amanhecer ao anoitecer, os bastidores de um dia de trabalho da Câmara dos Deputados."
+    },
+    {
+      "show_name": "Parlamento Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "09:00",
+      "end_time": "09:30",
+      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
+    },
+    {
+      "show_name": "Bora Entender?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bora-entender_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "09:30",
+      "end_time": "10:30",
+      "episode_description": "Explicação didática de temas que estão presentes no debate político, de forma imparcial, apresentando todas as visões envolvidas, para que o público entenda a questão e tire suas próprias conclusões."
+    },
+    {
+      "show_name": "Comissão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "10:30",
+      "end_time": "15:30",
       "episode_description": "O programa transmite as discussões e votações do plenário."
     },
     {
-      "show_name": "Palavra Aberta",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_palavra-aberta-1_l_m.webp",
-      "show_category": "Interview",
-      "start_time": "15:00",
-      "end_time": "15:15",
-      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
-    },
-    {
-      "show_name": "Palavra Aberta",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_palavra-aberta-1_l_m.webp",
-      "show_category": "Interview",
-      "start_time": "15:15",
-      "end_time": "15:30",
-      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
+      "show_name": "Participação Popular",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_participac-o-popular-1_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "15:30",
+      "end_time": "16:00",
+      "episode_description": "O programa reúne deputados, analistas e o público ao vivo para saber o que o cidadão comum acha dos temas discutidos no Congresso."
     },
     {
       "show_name": "100 Anos de Cultura e Conflitos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_100-anos-de-cultura-e-conflitos_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_100-anos-de-cultura-e-conflitos_l_m.jpg",
       "show_category": "Documentary",
-      "start_time": "15:30",
-      "end_time": "16:00",
+      "start_time": "16:00",
+      "end_time": "16:30",
       "episode_description": "Veja os eventos que marcaram a história do Brasil desde a Semana de Arte Moderna até os dias atuais."
     },
     {
-      "show_name": "Palavra Aberta",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_palavra-aberta-1_l_m.webp",
-      "show_category": "Interview",
-      "start_time": "16:00",
-      "end_time": "16:15",
-      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
-    },
-    {
-      "show_name": "Palavra Aberta",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_palavra-aberta-1_l_m.webp",
-      "show_category": "Interview",
-      "start_time": "16:15",
-      "end_time": "16:30",
-      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
-    },
-    {
-      "show_name": "Participação Popular",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_participac-o-popular-1_l_m.webp",
+      "show_name": "Expressão Nacional",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_express-o-nacional-1_l_m.jpg",
       "show_category": "Politics",
       "start_time": "16:30",
       "end_time": "17:30",
-      "episode_description": "O programa reúne deputados, analistas e o público ao vivo para saber o que o cidadão comum acha dos temas discutidos no Congresso."
+      "episode_description": "Confira os debates sobre grandes temas da agenda nacional, com deputados e representantes do Governo e da sociedade civil."
+    },
+    {
+      "show_name": "Cerâmica Ancestral do Vale do Jequitinhonha",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ceramica-ancestral-do-vale-do-jequitinhonha_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "17:30",
+      "end_time": "17:45",
+      "episode_description": "Cerâmica Ancestral dá lugar à dignidade e o barro se transforma em futuro."
+    },
+    {
+      "show_name": "Quilombo Cultural da Liberdade",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quilombo-cultural-da-liberdade_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "17:45",
+      "end_time": "18:00",
+      "episode_description": "O bairro da Liberdade sempre foi reduto de muita cultura tradicional, mas tinha a fama de ser um local violento, a ser evitado. Nos últimos anos, os moradores e fazedores de cultura implantaram estratégias para mudar a visão sobre o bairro."
+    },
+    {
+      "show_name": "Interesse Público",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_interesse-publico-1_l_m.jpg",
+      "show_category": "Law",
+      "start_time": "18:00",
+      "end_time": "18:30",
+      "episode_description": "O programa divulga as ações do Ministério Público Federal em benefício do cidadão e da sociedade."
     },
     {
       "show_name": "Comissão",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_comiss-o_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "17:30",
-      "end_time": "20:30",
+      "start_time": "18:30",
+      "end_time": "21:30",
       "episode_description": "O programa transmite as discussões e votações do plenário."
     },
     {
-      "show_name": "Participação Popular",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_participac-o-popular-1_l_m.webp",
+      "show_name": "Retrospectiva",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_retrospectiva_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "21:30",
+      "end_time": "22:30",
+      "episode_description": "Os principais fatos que foram destaque na Câmara dos Deputados durante o ano."
+    },
+    {
+      "show_name": "Câmara Debate",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_camara-debate_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "20:30",
-      "end_time": "21:30",
-      "episode_description": "O programa reúne deputados, analistas e o público ao vivo para saber o que o cidadão comum acha dos temas discutidos no Congresso."
+      "start_time": "22:30",
+      "end_time": "23:00",
+      "episode_description": "A cada programa, dois parlamentares discutem os grandes temas que movimentam os trabalhos na Câmara dos Deputados."
     },
     {
       "show_name": "Elas Pautam",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_elas-pautam_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_elas-pautam_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "21:30",
-      "end_time": "22:00",
+      "start_time": "23:00",
+      "end_time": "23:30",
       "episode_description": "O programa conta com a participação de duas parlamentares, em uma conversa informal sobre temas diversos de interesse da bancada feminina."
     },
     {
-      "show_name": "Enrolados na Raiz",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_enrolados-na-raiz_l_m.webp",
-      "show_category": "Special",
-      "start_time": "22:00",
-      "end_time": "02:00",
-      "episode_description": "Mulheres negras falam sobre as diferentes formas de violência física e simbólica que o racismo impõe cotidianamente sobre seus corpos. Desejos, traumas e enfrentamentos são expostos em falas que recuperam experiências da infância à idade adulta."
+      "show_name": "Terras Brasileiras",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_terras-brasileiras-2017_l_m.jpg",
+      "show_category": "Documentary / 2017",
+      "start_time": "23:30",
+      "end_time": "00:30",
+      "episode_description": "No sul do Mato Grosso do Sul, quase na fronteira com o Paraguai, indígenas e produtores rurais disputam a posse da terra. Num clima tenso, sobram confrontos, despejos, ataques e até mortes. O conflito vem de séculos, provocado também por erros do próprio estado brasileiro. Agora, os dois lados exigem solução urgente. A disputa já se transforma numa tragédia de grandes proporções."
     },
     {
-      "show_name": "Expressão Nacional",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/br_express-o-nacional-1_l_m.webp",
+      "show_name": "Elas Pautam",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_elas-pautam_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "05:30",
-      "end_time": "06:00",
-      "episode_description": "Confira os debates sobre grandes temas da agenda nacional, com deputados e representantes do Governo e da sociedade civil."
+      "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": "O programa conta com a participação de duas parlamentares, em uma conversa informal sobre temas diversos de interesse da bancada feminina."
     }
   ]
 }
