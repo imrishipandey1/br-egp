@@ -1,10 +1,10 @@
 {
   "channel": "Tv Senado",
-  "date": "18/01/2026",
+  "date": "19/01/2026",
   "schedule": [
     {
       "show_name": "Espaço Cultural",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_espaco-cultural-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_espaco-cultural-1_l_m.jpg",
       "show_category": "Music",
       "start_time": "00:30",
       "end_time": "01:30",
@@ -12,7 +12,7 @@
     },
     {
       "show_name": "EcoSenado",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_ecosenado-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ecosenado-1_l_m.jpg",
       "show_category": "Environment",
       "start_time": "01:30",
       "end_time": "02:00",
@@ -20,7 +20,7 @@
     },
     {
       "show_name": "Coleções",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_colec-es_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_colec-es_l_m.jpg",
       "show_category": "Entertainment",
       "start_time": "02:00",
       "end_time": "02:30",
@@ -28,7 +28,7 @@
     },
     {
       "show_name": "Concertos em Geral",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_concertos-em-geral_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_concertos-em-geral_l_m.jpg",
       "show_category": "Music",
       "start_time": "02:30",
       "end_time": "03:30",
@@ -36,7 +36,7 @@
     },
     {
       "show_name": "Leituras",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_leituras_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_leituras_l_m.jpg",
       "show_category": "Art",
       "start_time": "03:30",
       "end_time": "04:00",
@@ -44,7 +44,7 @@
     },
     {
       "show_name": "Coleções",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_colec-es_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_colec-es_l_m.jpg",
       "show_category": "Entertainment",
       "start_time": "04:00",
       "end_time": "04:30",
@@ -52,211 +52,171 @@
     },
     {
       "show_name": "Estúdio A",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_estudio-a_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_estudio-a_l_m.jpg",
       "show_category": "Music",
       "start_time": "04:30",
       "end_time": "05:30",
       "episode_description": "Programa apresenta música popular brasileira mesclando entrevista e músicas gravadas em estúdio."
     },
     {
-      "show_name": "A Grande Nuvem Cinza",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/fallback_movies_l_m.webp",
-      "show_category": "",
-      "start_time": "05:30",
-      "end_time": "06:42",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Senado, a História que Transformou o Brasil",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_senado-a-historia-que-transformou-o-brasil_l_m.webp",
-      "show_category": "Documentary",
-      "start_time": "06:42",
-      "end_time": "07:34",
-      "episode_description": "O Senado desempenhou um papel crucial nas decisões sobre os direitos dos trabalhadores, sendo palco de avanços e retrocessos nas leis trabalhistas."
-    },
-    {
-      "show_name": "Habitar/Habitat",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_habitar-habitat_l_m.webp",
-      "show_category": "Documentary",
-      "start_time": "07:34",
-      "end_time": "08:30",
-      "episode_description": "Conheça as diversas formas de habitação da população brasileira. A abordagem liga aspectos arquitetônicos com formas de organização familiar, saberes locais, valores estéticos e motivos práticos de suas construções."
-    },
-    {
-      "show_name": "Estúdio A",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_estudio-a_l_m.webp",
-      "show_category": "Music",
-      "start_time": "08:30",
-      "end_time": "09:30",
-      "episode_description": "Programa apresenta música popular brasileira mesclando entrevista e músicas gravadas em estúdio."
-    },
-    {
-      "show_name": "A Grande Nuvem Cinza",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/fallback_movies_l_m.webp",
-      "show_category": "",
-      "start_time": "09:30",
-      "end_time": "10:42",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Senado, a História que Transformou o Brasil",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_senado-a-historia-que-transformou-o-brasil_l_m.webp",
-      "show_category": "Documentary",
-      "start_time": "10:42",
-      "end_time": "11:36",
-      "episode_description": "O Senado desempenhou um papel crucial nas decisões sobre os direitos dos trabalhadores, sendo palco de avanços e retrocessos nas leis trabalhistas."
-    },
-    {
-      "show_name": "Habitar/Habitat",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_habitar-habitat_l_m.webp",
-      "show_category": "Documentary",
-      "start_time": "11:36",
-      "end_time": "12:29",
-      "episode_description": "Conheça as diversas formas de habitação da população brasileira. A abordagem liga aspectos arquitetônicos com formas de organização familiar, saberes locais, valores estéticos e motivos práticos de suas construções."
-    },
-    {
       "show_name": "Jango",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_jango-1984_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jango-1984_l_m.jpg",
       "show_category": "Documentary / 1984 / 7.7",
-      "start_time": "12:29",
-      "end_time": "14:19",
+      "start_time": "05:30",
+      "end_time": "07:20",
       "episode_description": "A trajetória política de João Goulart, o 24º presidente brasileiro, que foi deposto por um golpe militar nas primeiras horas de 1º de abril de 1964."
     },
     {
       "show_name": "Arte no Caos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_arte-no-caos_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_arte-no-caos_l_m.jpg",
       "show_category": "Special",
-      "start_time": "14:19",
-      "end_time": "15:01",
+      "start_time": "07:20",
+      "end_time": "08:02",
       "episode_description": "O processo criativo do artista Vik Muniz durante a elaboração da obra \"8 de Janeiro de 2023\", criada a partir de destroços dos atos ocorridos naquela data. A tela foi doada ao Senado."
     },
     {
       "show_name": "100 Anos de Cultura e Conflitos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_100-anos-de-cultura-e-conflitos_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_100-anos-de-cultura-e-conflitos_l_m.jpg",
       "show_category": "Documentary",
-      "start_time": "15:01",
-      "end_time": "15:30",
+      "start_time": "08:02",
+      "end_time": "08:30",
       "episode_description": "Veja os eventos que marcaram a história do Brasil desde a Semana de Arte Moderna até os dias atuais."
     },
     {
-      "show_name": "Envelhecer",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_envelhecer_l_m.webp",
-      "show_category": "Health",
-      "start_time": "15:30",
-      "end_time": "16:30",
-      "episode_description": "Acompanhe reflexões sobre o envelhecimento no século XXI e como as pessoas podem ter o controle dele, evitando reduzir essa fase da vida a incertezas, tensões e exclusões, permitindo que ela seja um tempo de bem-estar e realizações."
+      "show_name": "Coleções",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_colec-es_l_m.jpg",
+      "show_category": "Entertainment",
+      "start_time": "08:30",
+      "end_time": "09:00",
+      "episode_description": "Explore a cidade maravilhosa do Rio de Janeiro. Conheça seus aspectos históricos, suas belezas naturais e suas principais manifestações culturais. Tudo contado por personagens que são apaixonados pela bela cidade."
     },
     {
-      "show_name": "Em Discussão",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_em-discuss-o-2_l_m.webp",
-      "show_category": "Educational",
+      "show_name": "Espaço Cultural",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_espaco-cultural-1_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "episode_description": "O programa apresenta diversos eventos culturais como teatro, música e outras formas de expressão do povo brasileiro."
+    },
+    {
+      "show_name": "O Dia que Durou 21 Anos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-dia-que-durou-21-anos-2013_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "10:00",
+      "end_time": "11:20",
+      "episode_description": "Em clima de suspense e ação, o documentário apresenta, em três episódios, os bastidores da participação do governo dos Estados Unidos no golpe militar de 1964, que durou até 1985 e instaurou a ditadura no Brasil."
+    },
+    {
+      "show_name": "35 - O Assalto ao Poder",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_35-o-assalto-ao-poder-2002_l_m.jpg",
+      "show_category": "Documentary / 2002 / 7.2",
+      "start_time": "11:20",
+      "end_time": "13:00",
+      "episode_description": "O ano de 1935 estava chegando ao fim quando três levantes militares, em três diferentes capitais brasileiras, tentaram derrubar o governo de Getúlio Vargas."
+    },
+    {
+      "show_name": "A Grande Nuvem Cinza",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "",
+      "start_time": "13:00",
+      "end_time": "14:10",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Senado, a História que Transformou o Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_senado-a-historia-que-transformou-o-brasil_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "14:10",
+      "end_time": "15:04",
+      "episode_description": "O Senado desempenhou um papel crucial nas decisões sobre os direitos dos trabalhadores, sendo palco de avanços e retrocessos nas leis trabalhistas."
+    },
+    {
+      "show_name": "Coleções",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_colec-es_l_m.jpg",
+      "show_category": "Entertainment",
+      "start_time": "15:04",
+      "end_time": "15:30",
+      "episode_description": "Explore a cidade maravilhosa do Rio de Janeiro. Conheça seus aspectos históricos, suas belezas naturais e suas principais manifestações culturais. Tudo contado por personagens que são apaixonados pela bela cidade."
+    },
+    {
+      "show_name": "Coleções",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_colec-es_l_m.jpg",
+      "show_category": "Entertainment",
+      "start_time": "15:30",
+      "end_time": "16:00",
+      "episode_description": "Explore a cidade maravilhosa do Rio de Janeiro. Conheça seus aspectos históricos, suas belezas naturais e suas principais manifestações culturais. Tudo contado por personagens que são apaixonados pela bela cidade."
+    },
+    {
+      "show_name": "Parlamento Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "16:00",
+      "end_time": "16:30",
+      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
+    },
+    {
+      "show_name": "Cidadania",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidadania_l_m.jpg",
+      "show_category": "Interview",
       "start_time": "16:30",
       "end_time": "17:00",
-      "episode_description": "As principais discussões realizadas nas audiências públicas promovidas pelo Senado."
+      "episode_description": "Entrevistas semanais sobre assuntos da atualidade, com a participação de parlamentares, especialistas e representantes de organizações sociais."
     },
     {
       "show_name": "TV Senado Live",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_tv-senado-live_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tv-senado-live_l_m.jpg",
       "show_category": "Politics",
       "start_time": "17:00",
       "end_time": "17:30",
       "episode_description": "Veja entrevistas com a participação do público sobre os grandes temas em pauta no país."
     },
     {
-      "show_name": "EcoSenado",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_ecosenado-1_l_m.webp",
-      "show_category": "Environment",
+      "show_name": "Comissão de Direitos Humanos e Legislação Participativa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o-de-direitos-humanos-e-legislac-o-participativa_l_m.jpg",
+      "show_category": "Politics",
       "start_time": "17:30",
-      "end_time": "18:00",
-      "episode_description": "Assuntos relevantes e impactam o meio ambiente com participação de especialistas, políticos, biólogos e lideranças comunitárias."
+      "end_time": "19:10",
+      "episode_description": "Reuniões, audiências e debates da Comissão de Direitos Humanos e Legislação Participativa."
     },
     {
-      "show_name": "Salão Nobre",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_sal-o-nobre_l_m.webp",
+      "show_name": "Comissão de Desenvolvimento Regional e Turismo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o-de-desenvolvimento-regional-e-turismo_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "18:00",
-      "end_time": "18:30",
-      "episode_description": "Assista a temas de relevância nacional com líderes partidários, presidentes das comissões e autores."
+      "start_time": "19:10",
+      "end_time": "20:51",
+      "episode_description": "Reuniões, audiências e debates da Comissão de Desenvolvimento Regional e Turismo."
     },
     {
-      "show_name": "Concertos em Geral",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_concertos-em-geral_l_m.webp",
-      "show_category": "Music",
-      "start_time": "18:30",
-      "end_time": "19:30",
-      "episode_description": "Interpretações de grandes obras da música clássica universal, com informações e curiosidades sobre os instrumentos, a vida e a obra dos compositores."
-    },
-    {
-      "show_name": "Estúdio A",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_estudio-a_l_m.webp",
-      "show_category": "Music",
-      "start_time": "19:30",
-      "end_time": "20:30",
-      "episode_description": "Programa apresenta música popular brasileira mesclando entrevista e músicas gravadas em estúdio."
-    },
-    {
-      "show_name": "Parlamento Brasil",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_parlamento-brasil_l_m.webp",
+      "show_name": "Comissão de Educação, Cultura e Esporte",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o-de-educac-o-cultura-e-esporte_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "20:30",
-      "end_time": "21:00",
-      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
+      "start_time": "20:51",
+      "end_time": "22:02",
+      "episode_description": "Acompanhe a atividade legislativa da comissão permanente do Senado Federal que debate normas gerais sobre educação, cultura, ensino e esportes, instituições educacionais e culturais, diretrizes e bases da educação nacional."
     },
     {
-      "show_name": "Agenda Econômica",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_agenda-economica-1_l_m.webp",
-      "show_category": "Bus./financial",
-      "start_time": "21:00",
-      "end_time": "21:30",
-      "episode_description": "Economistas, formuladores de políticas públicas, acadêmicos, intelectuais e parlamentares analisam questões da economia nacional e internacional."
-    },
-    {
-      "show_name": "EcoSenado",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_ecosenado-1_l_m.webp",
-      "show_category": "Environment",
-      "start_time": "21:30",
-      "end_time": "22:00",
-      "episode_description": "Assuntos relevantes e impactam o meio ambiente com participação de especialistas, políticos, biólogos e lideranças comunitárias."
-    },
-    {
-      "show_name": "Cidadania",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_cidadania_l_m.webp",
-      "show_category": "Interview",
-      "start_time": "22:00",
+      "show_name": "Assunto de Estado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_assunto-de-estado_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "22:02",
       "end_time": "22:30",
-      "episode_description": "Entrevistas semanais sobre assuntos da atualidade, com a participação de parlamentares, especialistas e representantes de organizações sociais."
+      "episode_description": "A senadora Dra. Eudócia, PL, comenta avanços em saúde, educação, emprego e turismo em Alagoas, com destaque para o programa \"Olhar da Gente\" e o combate ao câncer."
     },
     {
-      "show_name": "100 Anos de Cultura e Conflitos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_100-anos-de-cultura-e-conflitos_l_m.webp",
-      "show_category": "Documentary",
+      "show_name": "Sessão Plenária",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sess-o-plenaria-1_l_m.jpg",
+      "show_category": "Politics",
       "start_time": "22:30",
-      "end_time": "23:00",
-      "episode_description": "Veja os eventos que marcaram a história do Brasil desde a Semana de Arte Moderna até os dias atuais."
+      "end_time": "03:00",
+      "episode_description": "Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade."
     },
     {
-      "show_name": "Leituras",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_leituras_l_m.webp",
-      "show_category": "Art",
-      "start_time": "23:00",
-      "end_time": "23:30",
-      "episode_description": "Análise e divulgação da literatura brasileira. Entrevistas com escritores e análises de obras literárias, com espaço para todas as correntes criativas."
-    },
-    {
-      "show_name": "Estúdio A",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_estudio-a_l_m.webp",
-      "show_category": "Music",
-      "start_time": "23:30",
-      "end_time": "00:30",
-      "episode_description": "Programa apresenta música popular brasileira mesclando entrevista e músicas gravadas em estúdio."
-    },
-    {
-      "show_name": "Jango",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_jango-1984_l_m.webp",
-      "show_category": "Documentary / 1984 / 7.7",
+      "show_name": "O Presidente Improvável",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-presidente-improvavel-2022_l_m.jpg",
+      "show_category": "Documentary / 2022",
       "start_time": "05:30",
       "end_time": "06:00",
-      "episode_description": "A trajetória política de João Goulart, o 24º presidente brasileiro, que foi deposto por um golpe militar nas primeiras horas de 1º de abril de 1964."
+      "episode_description": "Fernando Henrique Cardoso, ex-presidente da república, se reúne com amigos e colegas de longa data para refletir sobre a sua trajetória e a do próprio país. Entre os seus interlocutores, figuram personagens ilustres como Bill Clinton."
     }
   ]
 }

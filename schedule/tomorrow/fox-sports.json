@@ -1,118 +1,142 @@
 {
   "channel": "Fox Sports",
-  "date": "18/01/2026",
+  "date": "19/01/2026",
   "schedule": [
     {
-      "show_name": "Fortuna Sittard x PSV",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-fortuna-sittard-x-psv_l_m.webp",
-      "show_category": "Campeonato Neerlandês",
-      "start_time": "00:25",
-      "end_time": "02:30",
-      "episode_description": "Todas as emoções dos jogos da Eredivisie, a primeira divisão de futebol masculino dos Países Baixos."
-    },
-    {
-      "show_name": "Aquece Moto GP",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/fallback_sport_l_m.webp",
-      "show_category": "",
-      "start_time": "02:30",
-      "end_time": "03:30",
-      "episode_description": "Uma prévia da temporada 2026 da Moto GP, com estreia do brasileiro Diogo Moreira, que vai competir pela equipe LCR Honda após conquistar o título da Moto 2 em 2025. O País também volta a sediar uma prova da categoria, em Goiânia, após 12 anos."
-    },
-    {
-      "show_name": "Dallas Mavericks x Utah Jazz",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_basketball-dallas-mavericks-x-utah-jazz_l_m.webp",
-      "show_category": "NBA",
-      "start_time": "03:30",
-      "end_time": "06:00",
-      "episode_description": "Trinta equipes dos Estados Unidos e Canadá se enfrentam na principal liga de basquete do mundo."
-    },
-    {
-      "show_name": "Rally Dakar 2026",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/fallback_sport_l_m.webp",
-      "show_category": "",
-      "start_time": "06:30",
-      "end_time": "07:30",
-      "episode_description": "Destaques e acontecimentos da 48ª edição do Rally Dakar, disputado em Yahu, Arábia Saudita."
-    },
-    {
-      "show_name": "Mina de Passe",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_mina-de-passe_l_m.webp",
-      "show_category": "Sports talk",
-      "start_time": "07:30",
-      "end_time": "08:30",
-      "episode_description": "Acompanhe tudo sobre o futebol feminino."
-    },
-    {
-      "show_name": "Gabriel Jiménez x Daniel Sánchez Biviesca",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_boxing-gabriel-jimenez-x-daniel-sanchez-biviesca_l_m.webp",
-      "show_category": "Boxe Internacional",
-      "start_time": "08:30",
-      "end_time": "11:30",
-      "episode_description": "Os pugilistas mexicanos Gabriel \"Nitchs\" Jiménez e Daniel \"Dragón\" Sánchez fazem a luta principal, pela categoria super-leve, de evento realizado no Recinto Deportivo Cuauhtémoc, em Cuauhtémoc, México."
-    },
-    {
-      "show_name": "Liverpool x Burnley",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-liverpool-x-burnley_l_m.webp",
-      "show_category": "Campeonato Inglês",
-      "start_time": "11:30",
-      "end_time": "13:30",
-      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
-    },
-    {
-      "show_name": "Coventry City x Leicester City",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-coventry-city-x-leicester-city_l_m.webp",
-      "show_category": "Campeonato Inglês - Segunda Divisão",
-      "start_time": "13:30",
-      "end_time": "15:30",
-      "episode_description": "Da Coventry Building Society Arena, em Coventry, Inglaterra."
-    },
-    {
-      "show_name": "Udinese x Internazionale",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-udinese-x-internazionale_l_m.webp",
+      "show_name": "Milan x Lecce",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-milan-x-lecce_l_m.jpg",
       "show_category": "Campeonato Italiano",
-      "start_time": "15:30",
-      "end_time": "17:30",
+      "start_time": "01:00",
+      "end_time": "03:15",
       "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
     },
     {
-      "show_name": "Aquece Moto GP",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/fallback_sport_l_m.webp",
+      "show_name": "Momento ESPN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_documentary-momento-espn_l_m.jpg",
       "show_category": "",
-      "start_time": "17:30",
-      "end_time": "18:30",
+      "start_time": "03:15",
+      "end_time": "03:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Alanyaspor x Fenerbahçe",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-alanyaspor-x-fenerbahce_l_m.jpg",
+      "show_category": "Campeonato Turco de Futebol",
+      "start_time": "03:30",
+      "end_time": "05:30",
+      "episode_description": "Todas as emoções da Süper Lig, a principal competição de futebol masculino entre clubes da Turquia."
+    },
+    {
+      "show_name": "Torino x Roma",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-torino-x-roma_l_m.jpg",
+      "show_category": "Campeonato Italiano",
+      "start_time": "05:30",
+      "end_time": "07:30",
+      "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
+    },
+    {
+      "show_name": "Wolverhampton x Newcastle United",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-wolverhampton-x-newcastle-united_l_m.jpg",
+      "show_category": "Campeonato Inglês",
+      "start_time": "07:30",
+      "end_time": "09:30",
+      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
+    },
+    {
+      "show_name": "Linha de Passe: Mesa-Redonda",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sports-talk-linha-de-passe-mesa-redonda_l_m.jpg",
+      "show_category": "",
+      "start_time": "09:30",
+      "end_time": "11:00",
+      "episode_description": "Comentaristas esportivos conceituados entram em campo para uma análise completa da rodada do futebol ao estilo \"mesa redonda\", com debates acalorados e comentários de qualidade, sempre a partir de um olhar crítico e da imparcialidade."
+    },
+    {
+      "show_name": "Inside Serie A",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-inside-serie-a_l_m.jpg",
+      "show_category": "",
+      "start_time": "11:00",
+      "end_time": "11:30",
+      "episode_description": "Uma previsão sobre os próximos jogos do Campeonato Italiano."
+    },
+    {
+      "show_name": "Aquece Moto GP",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_special-aquece-moto-gp_l_m.jpg",
+      "show_category": "",
+      "start_time": "11:30",
+      "end_time": "12:30",
       "episode_description": "Uma prévia da temporada 2026 da Moto GP, com estreia do brasileiro Diogo Moreira, que vai competir pela equipe LCR Honda após conquistar o título da Moto 2 em 2025. O País também volta a sediar uma prova da categoria, em Goiânia, após 12 anos."
     },
     {
+      "show_name": "Peñarol x River Plate",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-penarol-x-river-plate_l_m.jpg",
+      "show_category": "Serie Río de la Plata",
+      "start_time": "12:30",
+      "end_time": "14:30",
+      "episode_description": "Amistoso de pré-temporada disputado no Estádio Domingo Burgueño Miguel, em Maldonado, Uruguai."
+    },
+    {
+      "show_name": "Destaques da Copa da Liga Inglesa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-destaques-da-copa-da-liga-inglesa_l_m.jpg",
+      "show_category": "",
+      "start_time": "14:30",
+      "end_time": "15:00",
+      "episode_description": "Melhores momentos das partidas válidas pela Copa da Liga, competição inglesa de futebol masculino."
+    },
+    {
+      "show_name": "Varejão - Made in Brazil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_varej-o-made-in-brazil_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "15:00",
+      "end_time": "15:30",
+      "episode_description": "Ídolo do Cleveland Cavaliers, o ex-jogador brasileiro de basquete Anderson Varejão segue em parceria com sua antiga equipe da NBA na missão de revitalizar quadras e expandir a prática da modalidade em solo nacional."
+    },
+    {
+      "show_name": "New York Knicks x Phoenix Suns",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_basketball-new-york-knicks-x-phoenix-suns_l_m.jpg",
+      "show_category": "NBA",
+      "start_time": "15:30",
+      "end_time": "17:30",
+      "episode_description": "Trinta equipes dos Estados Unidos e Canadá se enfrentam na principal liga de basquete do mundo."
+    },
+    {
+      "show_name": "Fortuna Sittard x PSV",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-fortuna-sittard-x-psv_l_m.jpg",
+      "show_category": "Campeonato Neerlandês",
+      "start_time": "17:30",
+      "end_time": "19:30",
+      "episode_description": "Todas as emoções dos jogos da Eredivisie, a primeira divisão de futebol masculino dos Países Baixos."
+    },
+    {
       "show_name": "Manchester United x Manchester City",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-manchester-united-x-manchester-city_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-manchester-united-x-manchester-city_l_m.jpg",
       "show_category": "Campeonato Inglês",
-      "start_time": "18:30",
-      "end_time": "20:35",
+      "start_time": "19:30",
+      "end_time": "21:30",
       "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
     },
     {
       "show_name": "Atlético de Madrid x Alavés",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-atletico-de-madrid-x-alaves_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-atletico-de-madrid-x-alaves_l_m.jpg",
       "show_category": "Campeonato Espanhol",
-      "start_time": "20:35",
-      "end_time": "22:45",
+      "start_time": "21:30",
+      "end_time": "23:20",
       "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
     },
     {
-      "show_name": "Celta de Vigo x Rayo Vallecano",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-celta-de-vigo-x-rayo-vallecano_l_m.webp",
+      "show_name": "Real Sociedad x Barcelona",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-real-sociedad-x-barcelona_l_m.jpg",
       "show_category": "Campeonato Espanhol",
-      "start_time": "22:45",
-      "end_time": "01:00",
-      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
+      "start_time": "23:20",
+      "end_time": "01:20",
+      "episode_description": "Pela rodada 11, a Real Sociedad recebe o Barcelona na Reale Arena, em San Sebastián, Espanha. O clube basco tenta alcançar a parte de cima da tabela de La Liga, enquanto os Culés vão em busca da oitava vitória consecutiva por todas as competições."
     },
     {
-      "show_name": "Torino x Roma",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-torino-x-roma_l_m.webp",
-      "show_category": "Campeonato Italiano",
-      "start_time": "05:30",
-      "end_time": "06:00",
-      "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
+      "show_name": "SportsCenter Abre o Jogo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_basketball-sportscenter-abre-o-jogo_l_m.jpg",
+      "show_category": "",
+      "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": "Os últimos preparativos para a partida pela principal competição de basquete masculino do Brasil."
     }
   ]
 }
