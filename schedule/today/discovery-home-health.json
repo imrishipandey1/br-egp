@@ -1,254 +1,222 @@
 {
   "channel": "Discovery Home Health",
-  "date": "19/01/2026",
+  "date": "20/01/2026",
   "schedule": [
     {
-      "show_name": "Irmãos à Obra - Compra e Venda",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-home-health/today/br_irm-os-a-obra-compra-e-venda-s07e07_l_m.webp",
-      "show_category": "Temporada 7 Episódio 7 - Kylah e Jon",
-      "start_time": "00:02",
-      "end_time": "00:53",
-      "episode_description": "Com três filhas jovens, Kylah e Jon estão desesperados para encontrar uma casa maior."
-    },
-    {
-      "show_name": "Quilos Mortais",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-home-health/today/br_quilos-mortais-s06e07_l_m.webp",
-      "show_category": "Temporada 6 Episódio 7 - A História de Lisa",
+      "show_name": "Irmãos À Obra: Um Lar para Amar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_irm-os-a-obra-um-lar-para-amar-s01e04-despesas_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - Gastos sem Fim",
       "start_time": "00:53",
-      "end_time": "02:41",
-      "episode_description": "Lisa começou a ter problemas com peso na infância, uma condição que piorou quando ela presenciou o assassinato do irmão. Acamada e incapaz de cuidar de si mesma, ela precisa encontrar uma forma de emagrecer com saúde."
-    },
-    {
-      "show_name": "Missão Faxina com Ellen Milgrau",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-home-health/today/br_miss-o-faxina-com-ellen-milgrau-s01e05-marcelo_l_m.webp",
-      "show_category": "Temporada 1 Episódio 5 - Marcelo",
-      "start_time": "02:41",
-      "end_time": "03:07",
-      "episode_description": "Marcelo vive em seu próprio universo, sempre disposto a ver o lado positivo da vida. Mas depois de perda da mãe e de um incêndio, sua casa colapsou. Ellen e seus faxiners chegam com força total para transformar totalmente esse cenário."
-    },
-    {
-      "show_name": "Missão Faxina com Ellen Milgrau",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-home-health/today/br_miss-o-faxina-com-ellen-milgrau-s01e06-jane_l_m.webp",
-      "show_category": "Temporada 1 Episódio 6 - Jane",
-      "start_time": "03:07",
-      "end_time": "03:32",
-      "episode_description": "Depois de uma desilusão amorosa, Jane perdeu a vontade de cuidar da casa. A sujeira e o acúmulo se instalaram e até andar pela casa ficou difícil. Por isso, a filha pediu ajuda para Ellen, que chegou para transformar tudo ali."
-    },
-    {
-      "show_name": "90 Dias para Casar - Do Outro Lado",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-home-health/today/br_90-dias-para-casar-do-outro-lado-s06e15-vacas-magras_l_m.webp",
-      "show_category": "Temporada 6 Episódio 15 - Vacas Magras",
-      "start_time": "03:32",
-      "end_time": "04:22",
-      "episode_description": "Um grupo de estadunidenses faz grande sacrifício e viaja pelo mundo em busca das pessoas que amam."
-    },
-    {
-      "show_name": "90 Dias na Cama - Do Outro Lado",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-home-health/today/br_90-dias-na-cama-do-outro-lado-s06e15-vacas-magras_l_m.webp",
-      "show_category": "Temporada 6 Episódio 15 - Vacas Magras",
-      "start_time": "04:22",
-      "end_time": "05:09",
-      "episode_description": "Acompanhe os últimos episódios da temporada de dentro da casa dos participantes favoritos."
-    },
-    {
-      "show_name": "90 Dias para Casar - Do Outro Lado",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-home-health/today/br_90-dias-para-casar-do-outro-lado-s06e16-a-filha-da-noiva_l_m.webp",
-      "show_category": "Temporada 6 Episódio 16 - A Filha da Noiva",
-      "start_time": "05:09",
-      "end_time": "05:58",
-      "episode_description": "Um grupo de estadunidenses faz grande sacrifício e viaja pelo mundo em busca das pessoas que amam."
-    },
-    {
-      "show_name": "90 Dias na Cama - Do Outro Lado",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-home-health/today/br_90-dias-na-cama-do-outro-lado-s06e16-a-filha-da-noiva_l_m.webp",
-      "show_category": "Temporada 6 Episódio 16 - A Filha da Noiva",
-      "start_time": "05:58",
-      "end_time": "06:44",
-      "episode_description": "Acompanhe os últimos episódios da temporada de dentro da casa dos participantes favoritos."
-    },
-    {
-      "show_name": "90 Dias para Casar - Do Outro Lado",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-home-health/today/br_90-dias-para-casar-do-outro-lado-s06e17-perguntas-dificeis_l_m.webp",
-      "show_category": "Temporada 6 Episódio 17 - Perguntas Difíceis",
-      "start_time": "06:44",
-      "end_time": "07:33",
-      "episode_description": "Um grupo de estadunidenses faz grande sacrifício e viaja pelo mundo em busca das pessoas que amam."
-    },
-    {
-      "show_name": "90 Dias para Casar - Do Outro Lado",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-home-health/today/br_90-dias-para-casar-do-outro-lado-s06e18-noiva-e-preconceito_l_m.webp",
-      "show_category": "Temporada 6 Episódio 18 - Noiva e Preconceito",
-      "start_time": "07:33",
-      "end_time": "08:22",
-      "episode_description": "Um grupo de estadunidenses faz grande sacrifício e viaja pelo mundo em busca das pessoas que amam."
+      "end_time": "01:48",
+      "episode_description": "Casal compra uma casa e planeja se mudar quando os filhos crescerem, mas os pais dele se mudam para o bairro e decidem ficar e reformar. Jonathan e Drew abrem caminho, mas vários perigos surgem."
     },
     {
       "show_name": "MasterChef Celebridades",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-home-health/today/br_masterchef-celebridades-s01e09_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_masterchef-celebridades-s01e09_l_m.jpg",
       "show_category": "Temporada 1 Episódio 9",
-      "start_time": "08:22",
-      "end_time": "10:17",
+      "start_time": "01:48",
+      "end_time": "03:45",
       "episode_description": "Pratos chiques viram versões populares. Beef Wellington esquenta a disputa na semifinal dos famosos."
     },
     {
+      "show_name": "Masterchef EUA",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_masterchef-eua-s24e05-sr-e-sra-caixa-misteriosa_l_m.jpg",
+      "show_category": "Temporada 24 Episódio 5 - Sr. e Sra. Caixa Misteriosa",
+      "start_time": "03:45",
+      "end_time": "04:31",
+      "episode_description": "Uma competição única que testa chefs amadores em uma série de desafios difíceis julgados por especialistas em culinária."
+    },
+    {
+      "show_name": "Masterchef EUA",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_masterchef-eua-s24e06-press-o-no-pier_l_m.jpg",
+      "show_category": "Temporada 24 Episódio 6 - Pressão no Píer",
+      "start_time": "04:31",
+      "end_time": "05:18",
+      "episode_description": "Uma competição única que testa chefs amadores em uma série de desafios difíceis julgados por especialistas em culinária."
+    },
+    {
       "show_name": "Gordon Ramsay - Serviço Secreto",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-home-health/today/br_gordon-ramsay-servico-secreto-s01e09_l_m.webp",
-      "show_category": "Temporada 1 Episódio 9",
-      "start_time": "10:17",
-      "end_time": "11:04",
-      "episode_description": "O Pretty Girls Cook abriu e era um lugar incrivelmente popular: tudo do cardápio estava esgotado. Porém, este restaurante com uma proprietária experiente e chefs com habilidades avançadas mudou. Gordon Ramsay investiga."
-    },
-    {
-      "show_name": "Mama June - Vida Nova",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-home-health/today/br_mama-june-vida-nova-s01e03-gosto-amargo_l_m.webp",
-      "show_category": "Temporada 1 Episódio 3 - Gosto Amargo",
-      "start_time": "11:04",
-      "end_time": "11:50",
-      "episode_description": "Mama June pretende perder muito peso com a nova personal trainer, Kenya, mas uma discussão com a noiva de Sugar Bear sabota sua dieta."
-    },
-    {
-      "show_name": "Os Pequenos Johnstons",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-home-health/today/br_os-pequenos-johnstons-s16e03-um-lugar-vazio-a-mesa_l_m.webp",
-      "show_category": "Temporada 16 Episódio 3 - Um Lugar Vazio à Mesa",
-      "start_time": "11:50",
-      "end_time": "12:34",
-      "episode_description": "O dia a dia dos Johnstons, uma família de sete pessoas com acondroplasia, um tipo de nanismo. Com filhos biológicos e adotivos, eles mostram como lidam com questões envolvendo o preconceito e a adaptação ao mundo moderno."
-    },
-    {
-      "show_name": "Restaurações de Emergência",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-home-health/today/br_restaurac-es-de-emergencia-s01e05-raios-e-troninhos_l_m.webp",
-      "show_category": "Temporada 1 Episódio 5 - Raios e Troninhos",
-      "start_time": "12:34",
-      "end_time": "13:22",
-      "episode_description": "Um raio incendeia a casa de Sandra e Trevor e Lindsey e Kirsten reconstroem o telhado, a sala de estar e a sala de jantar; Kirsten corre para a casa de sua melhor amiga, onde um vazamento destrói o banheiro."
-    },
-    {
-      "show_name": "Reforma Aloha",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-home-health/today/br_reforma-aloha-s01e08-alto-risco_l_m.webp",
-      "show_category": "Temporada 1 Episódio 8 - Alto Risco",
-      "start_time": "13:22",
-      "end_time": "14:06",
-      "episode_description": "Kamohai e Tristyn arriscam tudo na reforma mais cara até o momento. A situação se complica quando o novo deque desaba, e eles percebem que precisam aumentar a metragem para atrair um comprador sofisticado."
-    },
-    {
-      "show_name": "Cozinha dos Sonhos com John e Anthony",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-home-health/today/br_cozinha-dos-sonhos-com-john-e-anthony-s01e01-beleza-rustica_l_m.webp",
-      "show_category": "Temporada 1 Episódio 1 - Beleza Rústica",
-      "start_time": "14:06",
-      "end_time": "14:30",
-      "episode_description": "Os primos expõem o piso de tijolos de uma cozinha para revelar a beleza rústica de uma casa de arenito pardo em Hoboken."
-    },
-    {
-      "show_name": "Reformas Incríveis",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-home-health/today/br_reformas-incriveis-s04e04-retiro-no-quintal_l_m.webp",
-      "show_category": "Temporada 4 Episódio 4 - Retiro no Quintal",
-      "start_time": "14:30",
-      "end_time": "14:55",
-      "episode_description": "Um casal quer um espaço para poder relaxar e praticar ioga na casa onde moram. E a solução encontrada é juntar um cômodo extra ao quintal."
-    },
-    {
-      "show_name": "Irmãos à Obra - Compra e Venda",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-home-health/today/br_irm-os-a-obra-compra-e-venda-s07e03-samantha-e-alex_l_m.webp",
-      "show_category": "Temporada 7 Episódio 3 - Samantha e Alex",
-      "start_time": "14:55",
-      "end_time": "15:44",
-      "episode_description": "Jonathan transforma um apartamento de solteiro no primeiro imóvel de um casal, um projeto que certamente impressionará a vovó."
-    },
-    {
-      "show_name": "O Vestido Ideal",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-home-health/today/br_o-vestido-ideal-s14e18_l_m.webp",
-      "show_category": "Temporada 14 Episódio 18 - Um Vestido, um Buquê",
-      "start_time": "15:44",
-      "end_time": "16:09",
-      "episode_description": "O jogador de futebol Justin Pugh acompanha a irmã Jenna na butique. Talmesha quer um vestido que combine com um buquê muito especial, que homenageia seu falecido pai."
-    },
-    {
-      "show_name": "O Vestido Ideal",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-home-health/today/br_o-vestido-ideal-s14e20_l_m.webp",
-      "show_category": "Temporada 14 Episódio 20 - Randy, Eu Acho que Eu Consigo",
-      "start_time": "16:09",
-      "end_time": "16:33",
-      "episode_description": "Shay tenta ajudar um noivo a fazer um pedido de casamento, mas a situação se complica quando ele rejeita a ajuda de Randy. A ex-miss EUA, Nia Sanchez, tem apenas um dia para encontrar seu vestido."
-    },
-    {
-      "show_name": "O Vestido Ideal",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-home-health/today/br_o-vestido-ideal-s22e01-eu-vou-ser-a-problematica-hoje_l_m.webp",
-      "show_category": "Temporada 22 Episódio 1 - Eu Vou Ser a Problemática Hoje",
-      "start_time": "16:33",
-      "end_time": "17:23",
-      "episode_description": "Nina está com pressa para achar um vestido para a recepção no qual ela possa dançar. Ashley e Amber precisam achar um macacão para Amber e um vestido que mantenha as pernas de Ashley livres já que não pode usar os braços."
-    },
-    {
-      "show_name": "90 Dias na Cama: Antes dos 90 Dias - Com Miá Mello e Leandro Ramos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-home-health/today/br_90-dias-na-cama-antes-dos-90-dias-com-mia-mello-e-leandro-ramos-s07e11_l_m.webp",
-      "show_category": "Temporada 7 Episódio 11 - Relações Estremecidas",
-      "start_time": "17:23",
-      "end_time": "18:18",
-      "episode_description": "Tigerlily e Adnan fazem as pazes, mas logo brigam novamente. Joe e Magda enfrentam tensões. Veah descobre que precisará se converter. Niles e Matilda têm problemas financeiros. Rayne e Chidi brigam até na despedida."
-    },
-    {
-      "show_name": "90 Dias na Cama: Antes dos 90 Dias - Com Miá Mello e Leandro Ramos",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-home-health/today/br_90-dias-na-cama-antes-dos-90-dias-com-mia-mello-e-leandro-ramos-s07e12-assento-vazio_l_m.webp",
-      "show_category": "Temporada 7 Episódio 12 - Assento Vazio",
-      "start_time": "18:18",
-      "end_time": "19:26",
-      "episode_description": "Miá e Leandro reagem as novidades da temporada. Veah e Sunny vivem um momento de paz. Joe encara desafios para encontrar Magda, e Loren tenta se enturmar na família de Faith. Vanja descobre segredos do passado de Bo?o."
-    },
-    {
-      "show_name": "Os Pequenos Johnstons",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-home-health/today/br_os-pequenos-johnstons-s14e03-melhorando-o-trent_l_m.webp",
-      "show_category": "Temporada 14 Episódio 3 - Melhorando o Trent",
-      "start_time": "19:26",
-      "end_time": "20:21",
-      "episode_description": "A família faz uma aula com cama elástica; após vários acidentes na cozinha, Anna aprende a cozinhar; Emma se abre com Liz sobre dificuldade de fazer amigos; Alex sai com os gêmeos da equipe de robótica."
-    },
-    {
-      "show_name": "Os Pequenos Johnstons",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-home-health/today/br_os-pequenos-johnstons-s14e04-a-bagunca-do-cupido_l_m.webp",
-      "show_category": "Temporada 14 Episódio 4 - A Bagunça do Cupido",
-      "start_time": "20:21",
-      "end_time": "21:14",
-      "episode_description": "A família visita uma fazenda e conhece vacas anãs; Alex e Emma vão ao baile e Trent e Amber revivem seu romance de colegial; Ashley vem visitar e as meninas a levam em um brunch para saber mais sobre a relação dela com Jonah."
-    },
-    {
-      "show_name": "Irmãos à Obra - Lar Sempre Lar",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-home-health/today/br_irm-os-a-obra-lar-sempre-lar-s01e06-reforma-em-las-vegas_l_m.webp",
-      "show_category": "Temporada 1 Episódio 6 - Reforma em Las Vegas",
-      "start_time": "21:14",
-      "end_time": "22:06",
-      "episode_description": "Jonathan e Drew reformam a cozinha, o escritório, a lavanderia e o banheiro principal de um casal, dando à sua casa clássica, porém antiquada, uma modernização muito necessária."
-    },
-    {
-      "show_name": "100 Dias para Morar - Começando do Zero",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-home-health/today/br_100-dias-para-morar-comecando-do-zero-s01e07-planos-futuros_l_m.webp",
-      "show_category": "Temporada 1 Episódio 7 - Planos Futuros",
-      "start_time": "22:06",
-      "end_time": "23:00",
-      "episode_description": "Mika e Brian constroem uma casa para uma fisioterapeuta que sempre sonhou com um imóvel próprio. O casal projeta uma bela casa, com acessos adequados para deficientes físicos."
-    },
-    {
-      "show_name": "Imóveis que Cabem no Bolso",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-home-health/today/br_imoveis-que-cabem-no-bolso-s01e07-adaptando-se-a-south-fulton_l_m.webp",
-      "show_category": "Temporada 1 Episódio 7 - Adaptando-se a South Fulton",
-      "start_time": "23:00",
-      "end_time": "23:57",
-      "episode_description": "Uma família ativa de cinco pessoas precisa comprar uma casa mais perto de sua empresa, em South Fulton, na Geórgia. Com um longa lista de desejos e um orçamento apertado, eles precisam de toda a ajuda de Egypt e Mike."
-    },
-    {
-      "show_name": "Imóveis que Cabem no Bolso",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-home-health/today/br_imoveis-que-cabem-no-bolso-s01e08-do-country-ao-moderno_l_m.webp",
-      "show_category": "Temporada 1 Episódio 8 - Do Country ao Moderno",
-      "start_time": "23:57",
-      "end_time": "00:53",
-      "episode_description": "Um jovem casal está determinado a morar no cobiçado bairro de Brookhaven, na Geórgia. Eles querem a ajuda de Egypt e Mike para comprar barato e agregar valor por meio de uma reforma."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_gordon-ramsay-servico-secreto-s01e05_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 5",
+      "start_time": "05:18",
+      "end_time": "06:05",
+      "episode_description": "Gordon deve domar uma equipe briguenta e transformar uma cozinha desleixada em chefs adequados."
     },
     {
       "show_name": "Pesadelo na Cozinha com Gordon Ramsay",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/discovery-home-health/today/br_pesadelo-na-cozinha-com-gordon-ramsay-s02e03-voleos_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pesadelo-na-cozinha-com-gordon-ramsay-s02e03-voleos_l_m.jpg",
       "show_category": "Temporada 2 Episódio 3 - Voleos",
       "start_time": "06:05",
-      "end_time": "06:35",
+      "end_time": "06:52",
       "episode_description": "Gordon tenta reformular o Restaurante de Frutos do Mar Voleo, um restaurante familiar de segunda geração que luta para se manter após a devastação causada pelo furacão Ida em 2021."
+    },
+    {
+      "show_name": "Gordon Ramsay - Do Inferno ao Paraíso em 24h",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_gordon-ramsay-do-inferno-ao-paraiso-em-24h-s02e07-boardwalk-11_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 7",
+      "start_time": "06:52",
+      "end_time": "07:38",
+      "episode_description": "Gordon tenta salvar um restaurante com karaokê que está com dificuldades de sobreviver no competitivo mercado de Los Angeles."
+    },
+    {
+      "show_name": "Pesadelo na Cozinha",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pesadelo-na-cozinha-s04e02_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 2 - Bar do Dedé",
+      "start_time": "07:38",
+      "end_time": "09:15",
+      "episode_description": "No bairro do Socorro, uma família clama por ajuda. O Bar do Dedé reúne muita confusão e a limpeza é o pior pesadelo do chef Jacquin."
+    },
+    {
+      "show_name": "S.O.S. Restaurante",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_s-o-s-restaurante-s18e01-uma-amizade-em-risco_l_m.jpg",
+      "show_category": "Temporada 18 Episódio 1 - Natal Impossível",
+      "start_time": "09:15",
+      "end_time": "10:02",
+      "episode_description": "Robert Irvine ajuda a dona do restaurante Don Luis em Billings, Montana, a superar a perda do marido. Carmen não mudou nada no restaurante desde a morte de Luis e precisa aceitar mudanças se quiser que o negócio sobreviva."
+    },
+    {
+      "show_name": "90 Dias na Cama - Felizes para Sempre?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_90-dias-na-cama-felizes-para-sempre-s07e19-na-cama-reuni-o-sem-limites_l_m.jpg",
+      "show_category": "Temporada 7 Episódio 19 - Sem Limites",
+      "start_time": "10:02",
+      "end_time": "10:49",
+      "episode_description": "Os favoritos do 90 Dias Para Casar assistem aos episódios mais recentes de Felizes Para Sempre. Kenny e Armando, Robert e Anny, Emily e Kobe, e Patrick e John vão assistir e dizer o que pensam."
+    },
+    {
+      "show_name": "Pesadelo na Cozinha",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pesadelo-na-cozinha-s02e06_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 6 - Joka's Grill",
+      "start_time": "10:49",
+      "end_time": "12:25",
+      "episode_description": "O chef Erick Jacquin ajuda um restaurante que ficou parado no tempo."
+    },
+    {
+      "show_name": "Quilos Mortais - Como Eles Estão Agora?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quilos-mortais-como-eles-est-o-agora-s05e06-o-desafio-de-milla_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 6 - O Desafio de Milla",
+      "start_time": "12:25",
+      "end_time": "14:05",
+      "episode_description": "Há três anos, Milla pesava mais de 340 quilos e vivia acamada. Depois de perder mais de 200 quilos e remover dois linfedemas, seu maior desafio é caminhar sem a bengala para que possa cuidar adequadamente dos cinco filhos."
+    },
+    {
+      "show_name": "Cozinha dos Sonhos com John e Anthony",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cozinha-dos-sonhos-com-john-e-anthony-s01e03-utensilios-novos-para-uma-cozinha-antiga_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3 - Utensílios Novos para uma Cozinha Antiga",
+      "start_time": "14:05",
+      "end_time": "14:30",
+      "episode_description": "Os primos reformam uma cozinha com utensílios velhos, poucos armários e sem espaço para temperos."
+    },
+    {
+      "show_name": "Reformas Incríveis",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_reformas-incriveis-s04e05-quintal-de-brincar_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 5 - Quintal de Brincar",
+      "start_time": "14:30",
+      "end_time": "14:52",
+      "episode_description": "Greg e Carla precisam de um quintal onde seus três filhos possam brincar com os vizinhos. Chip transforma o quintal vazio em uma área perfeita para os meninos, com toques de sofisticação para os adultos."
+    },
+    {
+      "show_name": "Irmãos à Obra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_irm-os-a-obra-s12e06_l_m.jpg",
+      "show_category": "Temporada 12 Episódio 6 - Sarah e Kevin",
+      "start_time": "14:52",
+      "end_time": "15:42",
+      "episode_description": "No Canadá, Jonathan e Drew ajudam o casal Jason e Janna a superar suas diferenças quanto à estética do imóvel desejado. Ele gosta de toques antigos e rústicos, enquanto ela prefere linhas mais suaves e modernas."
+    },
+    {
+      "show_name": "O Vestido Ideal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-vestido-ideal-s14e17_l_m.jpg",
+      "show_category": "Temporada 14 Episódio 17 - Será que Vai Caber?",
+      "start_time": "15:42",
+      "end_time": "16:08",
+      "episode_description": "Bridget pensa ter encontrado o vestido perfeito, mas nenhuma de suas acompanhantes o aprova. Karyssa acaba de ser mãe e quer um modelo discreto, enquanto Lauren espera caber no vestido."
+    },
+    {
+      "show_name": "O Vestido Ideal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-vestido-ideal-s14e19_l_m.jpg",
+      "show_category": "Temporada 14 Episódio 19 - Um Novato na Cidade",
+      "start_time": "16:08",
+      "end_time": "16:34",
+      "episode_description": "Randy descobre que houve grandes mudanças, e a maior surpresa é a contratação do primeiro consultor homem. Amanda teme que seu vestido não seja modesto o suficiente para um casamento ortodoxo."
+    },
+    {
+      "show_name": "O Vestido Ideal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-vestido-ideal-s22e02-quero-realcar-costas-biceps-e-bumbum_l_m.jpg",
+      "show_category": "Temporada 22 Episódio 2 - Quero Realçar Costas, Bíceps e Bumbum",
+      "start_time": "16:34",
+      "end_time": "17:24",
+      "episode_description": "Victoria quer mostrar as costas, o bumbum e o bíceps, mas a avó a quer coberta. Dominique entra em pânico no estoque, e Rachel espera que sua decisão de comprar um vestido antes de noivar valha a pena."
+    },
+    {
+      "show_name": "90 Dias na Cama: Antes dos 90 Dias - Com Miá Mello e Leandro Ramos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_90-dias-na-cama-antes-dos-90-dias-com-mia-mello-e-leandro-ramos-s07e13-a-escurid-o-aumenta_l_m.jpg",
+      "show_category": "Temporada 7 Episódio 13 - A Escuridão Aumenta",
+      "start_time": "17:24",
+      "end_time": "18:26",
+      "episode_description": "Magda questiona Joe sobre sua última escapada sexual. Niles desconfia de que Matilda o enganou. Loren sugere um plano para casar a mãe de Faith. Ingrid descobre que Brian foi casado quatro vezes. Sunny dá um ultimato a Veah."
+    },
+    {
+      "show_name": "90 Dias para Casar - Antes dos 90 Dias",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_90-dias-para-casar-antes-dos-90-dias-s07e14-uma-paz-diferente_l_m.jpg",
+      "show_category": "Temporada 7 Episódio 14 - Uma Paz Diferente",
+      "start_time": "18:26",
+      "end_time": "19:32",
+      "episode_description": "Loren tenta impressionar os amigos de Faith. Niles toma uma decisão. Joe descobre o passado amoroso de Magda. Vanja lida com uma visita surpresa."
+    },
+    {
+      "show_name": "Os Pequenos Johnstons",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-pequenos-johnstons-s14e05-fresquinho-no-ver-o_l_m.jpg",
+      "show_category": "Temporada 14 Episódio 5 - Fresquinho no Verão",
+      "start_time": "19:32",
+      "end_time": "20:26",
+      "episode_description": "Anna dá uma festa de verão em sua nova casa e com uma competição de sorvete; Emma e Alex surpreendem Amber com uma refeição de Dia das Mães; Trent e Amber exibem seus figurinos de salsa e passinhos diferentes."
+    },
+    {
+      "show_name": "Os Pequenos Johnstons",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-pequenos-johnstons-s14e06-emma-no-comando_l_m.jpg",
+      "show_category": "Temporada 14 Episódio 6 - Emma no Comando",
+      "start_time": "20:26",
+      "end_time": "21:18",
+      "episode_description": "Trent e Amber tiram as suas primeiras férias sem as crianças; Anna usa suas novas habilidades culinárias para preparar o jantar para a família; Jonah pede que as irmãs provem o molho barbecue que fez para um concurso."
+    },
+    {
+      "show_name": "Irmãos à Obra - Lar Sempre Lar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_irm-os-a-obra-lar-sempre-lar-s01e03-do-passado-ao-futuro_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3 - Do Passado ao Futuro",
+      "start_time": "21:18",
+      "end_time": "22:10",
+      "episode_description": "Jonathan e Drew desenvolvem um projeto para uma casa enorme, criando um espaço moderno que agrade à nova geração."
+    },
+    {
+      "show_name": "100 Dias para Morar - Começando do Zero",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_100-dias-para-morar-comecando-do-zero-s01e08-um-sonho-azul_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 8 - Um Sonho Azul",
+      "start_time": "22:10",
+      "end_time": "23:04",
+      "episode_description": "Um homem e sua filha decidem construir uma casa para ter mais estabilidade depois de uma década morando de aluguel; como a filha é apaixonada pela cor azul, Mika precisa achar um meio de integrá-la à decoração."
+    },
+    {
+      "show_name": "Irmãos à Obra - Compra e Venda",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_irm-os-a-obra-compra-e-venda-s06e03-melanie-e-derek_l_m.jpg",
+      "show_category": "Temporada 6 Episódio 3 - Melanie e Derek",
+      "start_time": "23:04",
+      "end_time": "23:58",
+      "episode_description": "Melanie e Derek compraram uma casa há três anos. Apesar de as crianças adorarem a piscina, o casal sofre com a cozinha mal projetada e um porão cujas reformas, feitas por eles, se tornaram um desastre."
+    },
+    {
+      "show_name": "Irmãos à Obra - Lar Sempre Lar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_irm-os-a-obra-lar-sempre-lar-s07e03-uma-grande-mudanca_l_m.jpg",
+      "show_category": "Temporada 7 Episódio 3 - Uma Grande Mudança",
+      "start_time": "23:58",
+      "end_time": "00:52",
+      "episode_description": "Com três filhos que crescem rapidamente, um casal decide fazer uma grande mudança na casa da família. Jonathan e Drew aproveitam ao máximo uma vasta sala de estar e sugerem um estilo maduro que encanta toda a família."
+    },
+    {
+      "show_name": "Dr. Pimple Popper: Breaking Out",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_dr-pimple-popper-breaking-out_l_m.jpg",
+      "show_category": "Health",
+      "start_time": "05:56",
+      "end_time": "06:26",
+      "episode_description": ""
     }
   ]
 }
