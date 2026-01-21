@@ -1,102 +1,110 @@
 {
   "channel": "Telecine Premium",
-  "date": "20/01/2026",
+  "date": "21/01/2026",
   "schedule": [
     {
+      "show_name": "Águas Profundas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aguas-profundas-2022_l_m.jpg",
+      "show_category": "Thriller / 2022",
+      "start_time": "00:05",
+      "end_time": "02:05",
+      "episode_description": "Um homem permite que sua esposa tenha relações com outras pessoas para tentar salvar seu casamento. Porém, quando os amantes dela começam a desaparecer, o marido se torna o principal suspeito."
+    },
+    {
+      "show_name": "O Conde de Monte Cristo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-conde-de-monte-cristo-2024_l_m.jpg",
+      "show_category": "Adventure / 2024",
+      "start_time": "02:05",
+      "end_time": "05:05",
+      "episode_description": "Edmond Dantes é preso por um crime que não cometeu. Após 14 anos na prisão, ele consegue realizar uma fuga ousada. Agora rico além dos seus sonhos, ele assume a identidade do Conde de Monte Cristo e executa sua vingança."
+    },
+    {
+      "show_name": "Quem É Morto Sempre Aparece",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-e-morto-sempre-aparece-2025_l_m.jpg",
+      "show_category": "Comedy / 2025",
+      "start_time": "05:05",
+      "end_time": "05:35",
+      "episode_description": "Um golpista charmoso e um porteiro endividado veem a morte de um milionário como a chance de enriquecerem. Porém, o golpe perfeito se transforma em uma sucessão de desastres para a dupla."
+    },
+    {
+      "show_name": "211 - O Grande Assalto",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_211-o-grande-assalto-2018_l_m.jpg",
+      "show_category": "Action / 2018",
+      "start_time": "06:30",
+      "end_time": "08:05",
+      "episode_description": "O oficial Mike Chandler e um jovem civil encontram-se despreparados e desarmados quando o destino os coloca diretamente na mira de um ousado roubo a banco em andamento por uma equipe destemida de homens altamente treinados e fortemente armados."
+    },
+    {
+      "show_name": "O Convento",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-convento-2023_l_m.jpg",
+      "show_category": "Horror / 2023",
+      "start_time": "08:05",
+      "end_time": "09:40",
+      "episode_description": "Após a morte suspeita do irmão, um padre, Grace viaja até o Convento Mount Saviour, na Escócia, para descobrir o que realmente aconteceu. Uma vez lá, ela descobre assassinato, sacrilégio e uma verdade perturbadora sobre seu próprio passado."
+    },
+    {
+      "show_name": "John Wick 4: Baba Yaga",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_john-wick-4-baba-yaga-2023_l_m.jpg",
+      "show_category": "Action / 2023",
+      "start_time": "09:40",
+      "end_time": "12:30",
+      "episode_description": "O ex-assassino de aluguel John Wick é procurado pelo mundo todo e a recompensa por sua captura aumenta cada vez mais. Wick descobre um caminho para derrotar a Alta Cúpula, mas antes de conquistar sua liberdade, ele precisa enfrentar um novo inimigo com alianças poderosas e forças que transformam velhos amigos em inimigos."
+    },
+    {
+      "show_name": "Minha Irmã e Eu",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_minha-irm-e-eu-2023_l_m.jpg",
+      "show_category": "Comedy / 2023",
+      "start_time": "12:30",
+      "end_time": "14:30",
+      "episode_description": "As irmãs Mirian e Mirelly nasceram em Rio Verde, no interior de Goiás. Elas não realizaram o sonho da mãe, Dona Márcia, de se tornarem uma dupla sertaneja. Além das irmãs terem seguido caminhos opostos, elas vivem às turras. A mãe delas desaparece e as duas deixam de lado as diferenças e se unem para procurá-la em uma viagem que pode mudar suas vidas."
+    },
+    {
+      "show_name": "Garra de Ferro",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_garra-de-ferro-2023_l_m.jpg",
+      "show_category": "Drama / 2023",
+      "start_time": "14:30",
+      "end_time": "16:45",
+      "episode_description": "A trajetória conturbada dos inseparáveis irmãos Von Erich, que fizeram história no competitivo mundo da luta livre profissional no início da década de 1980. Dominados pelo que pai, eles colecionam triunfos e tragédias."
+    },
+    {
+      "show_name": "Houria - Dançando no Silêncio",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_houria-dancando-no-silencio-2022_l_m.jpg",
+      "show_category": "Drama / 2022",
+      "start_time": "16:45",
+      "end_time": "18:30",
+      "episode_description": "Uma jovem apaixonada por balé vivencia um trauma. Ela conhece outras mulheres que passaram por situações semelhantes e, juntas, encontram uma forma criativa de correr atrás de suas paixões."
+    },
+    {
+      "show_name": "Depois do Apocalipse",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_depois-do-apocalipse-2024_l_m.jpg",
+      "show_category": "Horror / 2024",
+      "start_time": "18:30",
+      "end_time": "20:10",
+      "episode_description": "Em uma Terra dizimada, Paul e seus filhos gêmeos enfrentam o terror à noite, quando criaturas ferozes despertam. Quando Paul quase é morto, os meninos bolam um plano de sobrevivência, usando tudo o que o pai lhes ensinou para mantê-lo vivo."
+    },
+    {
+      "show_name": "O Roubo de 88",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-roubo-de-88-2023_l_m.jpg",
+      "show_category": "Crime drama / 2023",
+      "start_time": "20:10",
+      "end_time": "21:40",
+      "episode_description": "Um gênio do crime decide fazer um último trabalho antes de ir para a prisão e recruta um grupo de funcionários de um banco para roubar US$ 80 milhões em um ataque ousado ao sistema bancário Americano."
+    },
+    {
       "show_name": "Luiz Gonzaga - Légua Tirana",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-premium/today/br_luiz-gonzaga-legua-tirana-2025_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_luiz-gonzaga-legua-tirana-2025_l_m.jpg",
       "show_category": "Biography / 2025",
-      "start_time": "00:50",
-      "end_time": "02:50",
+      "start_time": "21:40",
+      "end_time": "23:45",
       "episode_description": "A vida e obra do icônico Luiz Gonzaga do Nascimento, conhecido como o Rei do Baião. Um mergulho desde a infância e adolescência do artista, explorando suas raízes de retirante do sertão nordestino, revelando as conexões profundas entre sua música e a rica e complexa cultura que marcou sua obra."
     },
     {
-      "show_name": "Instinto Materno",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-premium/today/br_instinto-materno-2024_l_m.webp",
-      "show_category": "Thriller / 2024",
-      "start_time": "02:50",
-      "end_time": "04:30",
-      "episode_description": "As donas de casa Alice e Celine são melhores amigas e vizinhas que parecem ter tudo. No entanto, quando um trágico acidente destrói a harmonia de suas vidas, a culpa, a suspeita e a paranoia começam a desfazer seu vínculo."
-    },
-    {
-      "show_name": "Meninas Malvadas",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-premium/today/br_meninas-malvadas-2024_l_m.webp",
-      "show_category": "Musical comedy / 2024",
-      "start_time": "04:30",
-      "end_time": "05:00",
-      "episode_description": "Uma nova estudante é recebida no topo da cadeia social por um grupo de elite de garotas populares chamadas as Plásticas. No entanto, quando ela comete o erro de se apaixonar pelo ex-namorado da rainha do grupo, ela se vê na mira delas."
-    },
-    {
-      "show_name": "Missão: Impossível - Acerto de Contas Parte 1",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-premium/today/br_miss-o-impossivel-acerto-de-contas-parte-1-2023_l_m.webp",
-      "show_category": "Action / 2023",
-      "start_time": "06:30",
-      "end_time": "09:15",
-      "episode_description": "Ethan Hunt e sua equipe devem rastrear uma nova arma que pode ameaçar toda a humanidade se cair em mãos erradas. Com o destino do mundo em jogo, se inicia uma corrida mortal ao redor do globo. Confrontado por um inimigo misterioso e poderoso, Ethan é forçado a considerar que talvez nada importe mais do que a missão, nem mesmo as vidas daqueles com quem ele mais se importa."
-    },
-    {
-      "show_name": "Emmanuelle",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-premium/today/br_emmanuelle-2024_l_m.webp",
-      "show_category": "Drama / 2024 / 4.1",
-      "start_time": "09:15",
-      "end_time": "11:05",
-      "episode_description": "Emmanuelle voa sozinha para Hong Kong e conhece um homem que constantemente a evita."
-    },
-    {
-      "show_name": "Seis Minutos para Meia-Noite",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-premium/today/br_seis-minutos-para-meia-noite-2020_l_m.webp",
-      "show_category": "Historical drama / 2020",
-      "start_time": "11:05",
-      "end_time": "12:45",
-      "episode_description": "Um professor de literatura e línguas de uma escola em fim de carreira se envolve em uma conspiração nazista."
-    },
-    {
-      "show_name": "Eu Sou Maria",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-premium/today/br_eu-sou-maria-2023_l_m.webp",
-      "show_category": "Drama / 2023",
-      "start_time": "12:45",
-      "end_time": "14:30",
-      "episode_description": "Maria, uma menina que mora em uma comunidade carioca, consegue uma bolsa de estudos em um dos melhores colégios particulares do Rio de Janeiro. Agora, ela precisa lidar com uma realidade diferente da que estava acostumada."
-    },
-    {
-      "show_name": "Danificado",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-premium/today/br_danificado-2024_l_m.webp",
-      "show_category": "Thriller / 2024",
-      "start_time": "14:30",
-      "end_time": "16:15",
-      "episode_description": "Assassino sádico surge na Escócia e um detetive da polícia de Chicago se junta à perseguição na esperança de detê-lo antes que faça sua próxima vítima."
-    },
-    {
-      "show_name": "De Pernas pro Ar 3",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-premium/today/br_de-pernas-pro-ar-3-2019_l_m.webp",
-      "show_category": "Comedy / 2019",
-      "start_time": "16:15",
-      "end_time": "18:10",
-      "episode_description": "O sucesso da rede de lojas Sexy Delícia leva Alice Segretto a fazer uma viagem pelo mundo. Trabalhando sem parar, Alice percebe que não tem conseguido acompanhar sua família, que também cresceu. Impetuosa, ela toma uma decisão inusitada: decide se aposentar e entregar o comando dos negócios para sua mãe."
-    },
-    {
-      "show_name": "Detetives do Prédio Azul 3 - Uma Aventura no Fim do Mundo",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-premium/today/br_detetives-do-predio-azul-3-uma-aventura-no-fim-do-mundo-2021_l_m.webp",
-      "show_category": "Children / 2021",
-      "start_time": "18:10",
-      "end_time": "20:05",
-      "episode_description": "Severino encontra um objeto em meio aos escombros de um avião, sem saber que se trata de uma das faces do Medalhão de Uzur. O porteiro do Prédio Azul coloca o objeto no pescoço e acaba se tornando cada vez mais malvado. Com a bruxa Duvíbora e sua filha Dunhoca dispostas a roubá-lo, Pippo, Sol e Bento não têm outra saída a não ser encontrar a metade do bem do medalhão. Para tanto, eles contam com a ajuda da feiticeira Berenice, dos Inspetores de la Casa Naranja e ainda do mago Elergun."
-    },
-    {
-      "show_name": "Chernobyl: O Filme",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-premium/today/br_chernobyl-o-filme-2021_l_m.webp",
-      "show_category": "Drama / 2021",
-      "start_time": "20:05",
-      "end_time": "22:25",
-      "episode_description": "Após o terrível acidente nuclear na usina de Chernobyl, um bombeiro arrisca sua vida para evitar um desastre ainda maior. Ao lado de um engenheiro e um mergulhador militar, eles partem na perigosa missão de drenar a água de um reator em chamas."
-    },
-    {
-      "show_name": "Perto de Você",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-premium/today/br_perto-de-voce-2025_l_m.webp",
-      "show_category": "Drama / 2025",
-      "start_time": "22:25",
-      "end_time": "00:05",
-      "episode_description": "No começo da pandemia, um jovem trans acaba isolado em um pequeno apartamento junto a seu pai idoso. Dia após dia, ele tenta estar cada vez mais perto do pai."
+      "show_name": "Emilia Pérez",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_emilia-perez-2024_l_m.jpg",
+      "show_category": "Musical / 2024 / 5.4",
+      "start_time": "23:45",
+      "end_time": "02:05",
+      "episode_description": "Rita trabalha em um escritório de advocacia mais interessado em lavar dinheiro do que em servir a lei. Para sobreviver, ela ajuda um chefe do cartel a sair do negócio para que ela possa finalmente se tornar a mulher que sempre sonhou ser."
     }
   ]
 }

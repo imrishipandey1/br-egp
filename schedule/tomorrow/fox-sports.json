@@ -1,150 +1,158 @@
 {
   "channel": "Fox Sports",
-  "date": "21/01/2026",
+  "date": "22/01/2026",
   "schedule": [
     {
-      "show_name": "Liverpool x Burnley",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-liverpool-x-burnley_l_m.webp",
-      "show_category": "Campeonato Inglês",
-      "start_time": "01:00",
-      "end_time": "03:00",
-      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
-    },
-    {
-      "show_name": "F1: The Inside Line",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_auto-racing-f1-the-inside-line_l_m.webp",
-      "show_category": "",
-      "start_time": "03:00",
-      "end_time": "03:30",
-      "episode_description": "Veja a cobertura completa da Fórmula 1, a maior e mais badalada categoria do automobilismo mundial. Acompanhe as principais notícias da semana, os bastidores, entrevistas exclusivas e reportagens especiais."
-    },
-    {
-      "show_name": "Show da Rodada do Inglês",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-show-da-rodada-do-ingles_l_m.webp",
-      "show_category": "",
-      "start_time": "03:30",
-      "end_time": "04:00",
-      "episode_description": "O programa traz todos os pormenores da rodada do campeonato inglês com as pontuações dos clubes, gols e lances mais bonitos."
-    },
-    {
-      "show_name": "SportsCenter Abre o Jogo",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_basketball-sportscenter-abre-o-jogo_l_m.webp",
-      "show_category": "",
-      "start_time": "04:00",
-      "end_time": "04:15",
-      "episode_description": "Os últimos preparativos para a partida pela principal competição de basquete masculino do Brasil."
-    },
-    {
-      "show_name": "Vasco x Mogi",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_basketball-vasco-x-mogi_l_m.webp",
-      "show_category": "NBB",
-      "start_time": "04:15",
-      "end_time": "04:45",
-      "episode_description": "Todas as emoções da principal competição de basquete masculino profissional entre clubes do Brasil."
-    },
-    {
-      "show_name": "Manchester United x Manchester City",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-manchester-united-x-manchester-city_l_m.webp",
-      "show_category": "Campeonato Inglês",
-      "start_time": "06:30",
-      "end_time": "08:30",
-      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
-    },
-    {
-      "show_name": "Milan x Lecce",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-milan-x-lecce_l_m.webp",
-      "show_category": "Campeonato Italiano",
-      "start_time": "08:30",
-      "end_time": "10:30",
-      "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
-    },
-    {
-      "show_name": "Alanyaspor x Fenerbahçe",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-alanyaspor-x-fenerbahce_l_m.webp",
-      "show_category": "Campeonato Turco de Futebol",
-      "start_time": "10:30",
-      "end_time": "12:30",
-      "episode_description": "Todas as emoções da Süper Lig, a principal competição de futebol masculino entre clubes da Turquia."
-    },
-    {
-      "show_name": "Coventry City x Leicester City",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-coventry-city-x-leicester-city_l_m.webp",
-      "show_category": "Campeonato Inglês - Segunda Divisão",
-      "start_time": "12:30",
-      "end_time": "14:30",
-      "episode_description": "Da Coventry Building Society Arena, em Coventry, Inglaterra."
-    },
-    {
-      "show_name": "Encontros WNBA",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_encontros-wnba_l_m.webp",
-      "show_category": "Basketball",
-      "start_time": "14:30",
-      "end_time": "15:00",
-      "episode_description": "Helen Luz bate um papo com Kamilla Cardoso, jogadora do Chicago Sky. Natural do interior de Minas Gerais, a pivô se mudou aos 14 anos para os Estados Unidos, onde se desenvolveu no esporte até se tornar multicampeã com a Seleção Brasileira."
-    },
-    {
-      "show_name": "Show da Rodada do Inglês",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-show-da-rodada-do-ingles_l_m.webp",
-      "show_category": "",
-      "start_time": "15:00",
-      "end_time": "15:30",
-      "episode_description": "O programa traz todos os pormenores da rodada do campeonato inglês com as pontuações dos clubes, gols e lances mais bonitos."
-    },
-    {
-      "show_name": "Florida x LSU",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_basketball-florida-x-lsu_l_m.webp",
-      "show_category": "Basquete Universitário",
-      "start_time": "15:30",
-      "end_time": "17:30",
-      "episode_description": "Futuros astros do basquete profissional se enfrentam no torneio organizado pela NCAA e disputado por equipes das universidades dos Estados Unidos."
-    },
-    {
-      "show_name": "Torino x Roma",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-torino-x-roma_l_m.webp",
-      "show_category": "Campeonato Italiano",
-      "start_time": "17:30",
-      "end_time": "19:30",
-      "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
-    },
-    {
-      "show_name": "Vitória Guimarães x Porto",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-vitoria-guimar-es-x-porto_l_m.webp",
+      "show_name": "Sporting x Casa Pia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-sporting-x-casa-pia-1_l_m.jpg",
       "show_category": "Campeonato Português",
-      "start_time": "19:30",
-      "end_time": "21:30",
+      "start_time": "01:30",
+      "end_time": "03:30",
       "episode_description": "Todas as emoções da principal competição de futebol masculino entre clubes de Portugal."
     },
     {
-      "show_name": "Real Madrid x Levante UD",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-real-madrid-x-levante-ud_l_m.webp",
-      "show_category": "Campeonato Espanhol",
-      "start_time": "21:30",
-      "end_time": "23:30",
-      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
-    },
-    {
-      "show_name": "Atlético de Madrid x Alavés",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-atletico-de-madrid-x-alaves_l_m.webp",
-      "show_category": "Campeonato Espanhol",
-      "start_time": "23:30",
-      "end_time": "01:30",
-      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
-    },
-    {
-      "show_name": "NBA Courtside",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_basketball-nba-courtside_l_m.webp",
+      "show_name": "F1: The Inside Line",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_auto-racing-f1-the-inside-line_l_m.jpg",
       "show_category": "",
-      "start_time": "05:30",
-      "end_time": "05:42",
-      "episode_description": "O aquecimento final das equipes e últimos preparativos para o duelo entre New York Knicks e Cleveland Cavaliers, pela rodada de abertura da temporada regular 2025-2026 da NBA, direto do Madison Square Garden, em Nova York, EUA."
+      "start_time": "03:30",
+      "end_time": "04:00",
+      "episode_description": "Veja a cobertura completa da Fórmula 1, a maior e mais badalada categoria do automobilismo mundial. Acompanhe as principais notícias da semana, os bastidores, entrevistas exclusivas e reportagens especiais."
+    },
+    {
+      "show_name": "Show da Rodada do Italiano",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-do-italiano_l_m.jpg",
+      "show_category": "",
+      "start_time": "04:00",
+      "end_time": "04:30",
+      "episode_description": "Os principais destaques das partidas da Lega Serie A, primeira divisão do Campeonato Italiano de futebol masculino, com os gols, melhores lances e situação da tabela de classificação após cada rodada disputada."
+    },
+    {
+      "show_name": "Show da Rodada da EFL",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-da-efl_l_m.jpg",
+      "show_category": "",
+      "start_time": "04:30",
+      "end_time": "05:00",
+      "episode_description": "Os destaques das partidas da EFL Championship, segunda divisão de futebol masculino da Inglaterra."
+    },
+    {
+      "show_name": "Show da Rodada de La Liga",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-de-la-liga_l_m.jpg",
+      "show_category": "",
+      "start_time": "05:00",
+      "end_time": "05:30",
+      "episode_description": ".Todos os gols e os principais lances da rodada de La Liga, primeira divisão do Campeonato Espanhol."
     },
     {
       "show_name": "Charlotte Hornets x Cleveland Cavaliers",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_basketball-charlotte-hornets-x-cleveland-cavaliers_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_basketball-charlotte-hornets-x-cleveland-cavaliers_l_m.jpg",
       "show_category": "NBA",
       "start_time": "05:42",
-      "end_time": "06:12",
+      "end_time": "08:05",
       "episode_description": "Trinta equipes dos Estados Unidos e Canadá se enfrentam na principal liga de basquete do mundo."
+    },
+    {
+      "show_name": "Milwaukee Bucks x Oklahoma City Thunder",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_basketball-milwaukee-bucks-x-oklahoma-city-thunder_l_m.jpg",
+      "show_category": "NBA",
+      "start_time": "08:05",
+      "end_time": "10:35",
+      "episode_description": "Trinta equipes dos Estados Unidos e Canadá se enfrentam na principal liga de basquete do mundo."
+    },
+    {
+      "show_name": "Show da Rodada do Italiano",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-do-italiano_l_m.jpg",
+      "show_category": "",
+      "start_time": "10:35",
+      "end_time": "11:05",
+      "episode_description": "Os principais destaques das partidas da Lega Serie A, primeira divisão do Campeonato Italiano de futebol masculino, com os gols, melhores lances e situação da tabela de classificação após cada rodada disputada."
+    },
+    {
+      "show_name": "Show da Rodada de La Liga",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-de-la-liga_l_m.jpg",
+      "show_category": "",
+      "start_time": "11:05",
+      "end_time": "11:35",
+      "episode_description": ".Todos os gols e os principais lances da rodada de La Liga, primeira divisão do Campeonato Espanhol."
+    },
+    {
+      "show_name": "Peñarol x River Plate",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-penarol-x-river-plate_l_m.jpg",
+      "show_category": "Serie Río de la Plata",
+      "start_time": "11:35",
+      "end_time": "13:30",
+      "episode_description": "Amistoso de pré-temporada disputado no Estádio Domingo Burgueño Miguel, em Maldonado, Uruguai."
+    },
+    {
+      "show_name": "Especial Libertadores - Campanha do Campeão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_special-especial-libertadores-campanha-do-campe-o_l_m.jpg",
+      "show_category": "",
+      "start_time": "13:30",
+      "end_time": "14:30",
+      "episode_description": "Destaques da trajetória da equipe campeã da Libertadores 2025 até a conquista da \"Glória Eterna\"."
+    },
+    {
+      "show_name": "Show da Rodada da EFL",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-da-efl_l_m.jpg",
+      "show_category": "",
+      "start_time": "14:30",
+      "end_time": "15:00",
+      "episode_description": "Os destaques das partidas da EFL Championship, segunda divisão de futebol masculino da Inglaterra."
+    },
+    {
+      "show_name": "Show da Rodada de La Liga",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-de-la-liga_l_m.jpg",
+      "show_category": "",
+      "start_time": "15:00",
+      "end_time": "15:30",
+      "episode_description": ".Todos os gols e os principais lances da rodada de La Liga, primeira divisão do Campeonato Espanhol."
+    },
+    {
+      "show_name": "Milwaukee Bucks x Oklahoma City Thunder",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_basketball-milwaukee-bucks-x-oklahoma-city-thunder_l_m.jpg",
+      "show_category": "NBA",
+      "start_time": "15:30",
+      "end_time": "17:30",
+      "episode_description": "Trinta equipes dos Estados Unidos e Canadá se enfrentam na principal liga de basquete do mundo."
+    },
+    {
+      "show_name": "Brighton & Hove Albion x Bournemouth",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-brighton-hove-albion-x-bournemouth_l_m.jpg",
+      "show_category": "Campeonato Inglês",
+      "start_time": "17:30",
+      "end_time": "19:30",
+      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
+    },
+    {
+      "show_name": "Elche CF x Sevilla",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-elche-cf-x-sevilla_l_m.jpg",
+      "show_category": "Campeonato Espanhol",
+      "start_time": "19:30",
+      "end_time": "21:25",
+      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
+    },
+    {
+      "show_name": "Al Gharafa x Sharjah",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-al-gharafa-x-sharjah_l_m.jpg",
+      "show_category": "Supercopa Qatar-Emirados Árabes Unidos de Futebol",
+      "start_time": "21:25",
+      "end_time": "23:30",
+      "episode_description": "As melhores equipes do Qatar e Emirados Árabes Unidos disputam torneio exclusivo da região."
+    },
+    {
+      "show_name": "Boca Juniors x Olimpia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-boca-juniors-x-olimpia_l_m.jpg",
+      "show_category": "Serie Río de la Plata",
+      "start_time": "23:30",
+      "end_time": "01:30",
+      "episode_description": "Amistoso disputado no Estádio Único de San Nicolás, em San Nicolás de los Arroyos, Argentina."
+    },
+    {
+      "show_name": "Real Sociedad x Barcelona",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-real-sociedad-x-barcelona_l_m.jpg",
+      "show_category": "Campeonato Espanhol",
+      "start_time": "05:30",
+      "end_time": "06:00",
+      "episode_description": "Pela rodada 11, a Real Sociedad recebe o Barcelona na Reale Arena, em San Sebastián, Espanha. O clube basco tenta alcançar a parte de cima da tabela de La Liga, enquanto os Culés vão em busca da oitava vitória consecutiva por todas as competições."
     }
   ]
 }
