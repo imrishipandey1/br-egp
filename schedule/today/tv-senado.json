@@ -3,6 +3,14 @@
   "date": "22/01/2026",
   "schedule": [
     {
+      "show_name": "Servidão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_servid-o-2024_l_m.jpg",
+      "show_category": "Documentary / 2024",
+      "start_time": "05:30",
+      "end_time": "00:19",
+      "episode_description": "Saiba mais sobre o trabalho escravo contemporâneo no Brasil, especialmente na região da Amazônia. Trabalhadores rurais escravizados e abolicionistas de diferentes vertentes falam a respeito de uma das maiores mazelas do país."
+    },
+    {
       "show_name": "Sessão Plenária",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sess-o-plenaria-1_l_m.jpg",
       "show_category": "Politics",
@@ -199,16 +207,8 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sess-o-plenaria-1_l_m.jpg",
       "show_category": "Politics",
       "start_time": "22:30",
-      "end_time": "00:15",
+      "end_time": "23:00",
       "episode_description": "Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade."
-    },
-    {
-      "show_name": "Maria Luiza",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_maria-luiza-2020_l_m.jpg",
-      "show_category": "Documentary / 2020 / 9.0",
-      "start_time": "05:30",
-      "end_time": "06:00",
-      "episode_description": "Maria Luiza da Silva é a primeira transexual na história das Forças Armadas brasileiras. Após 22 anos de trabalho como militar, foi aposentada por invalidez. Conheça as motivações para impedi-la de vestir a farda feminina e a sua trajetória de afirmação como mulher trans, militar e católica."
     }
   ]
 }

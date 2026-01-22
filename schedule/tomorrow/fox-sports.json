@@ -3,6 +3,14 @@
   "date": "23/01/2026",
   "schedule": [
     {
+      "show_name": "Charlotte Hornets x Cleveland Cavaliers",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_basketball-charlotte-hornets-x-cleveland-cavaliers_l_m.jpg",
+      "show_category": "NBA",
+      "start_time": "05:42",
+      "end_time": "01:30",
+      "episode_description": "Trinta equipes dos Estados Unidos e Canadá se enfrentam na principal liga de basquete do mundo."
+    },
+    {
       "show_name": "Udinese x Internazionale",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-udinese-x-internazionale_l_m.jpg",
       "show_category": "Campeonato Italiano",
@@ -119,7 +127,7 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_special-aquece-moto-gp_l_m.jpg",
       "show_category": "",
       "start_time": "23:30",
-      "end_time": "00:30",
+      "end_time": "24:00",
       "episode_description": "Uma prévia da temporada 2026 da Moto GP, com estreia do brasileiro Diogo Moreira, que vai competir pela equipe LCR Honda após conquistar o título da Moto 2 em 2025. O País também volta a sediar uma prova da categoria, em Goiânia, após 12 anos."
     }
   ]
