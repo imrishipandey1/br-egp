@@ -16,7 +16,13 @@ MIDNIGHT = time(0, 0)
 END_NIGHT = time(5, 29)
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0"
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+    "Accept-Language": "pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Upgrade-Insecure-Requests": "1",
+    "Cache-Control": "max-age=0"
 }
 
 os.makedirs("schedule/today", exist_ok=True)
@@ -114,6 +120,7 @@ def process_channel(channel):
         shows_t = parse_shows(html_t)
         shows_tm = parse_shows(html_tm)
 
+        # Use São Paulo timezone for date calculations
         today_date = datetime.now(TIMEZONE).date()
         tomorrow_date = today_date + timedelta(days=1)
 
@@ -129,8 +136,6 @@ def process_channel(channel):
 
         filename = channel.lower().replace("_", "-") + ".json"
         channel_name = channel.replace("-", " ").title()
-
-        # -------- NEW LOGIC (ONLY CHANGE) -------- #
 
         if not today_schedule:
             log(f"SKIPPED today → {channel} (no shows found)")
@@ -160,6 +165,10 @@ def process_channel(channel):
 
 def main():
     open(LOG_FILE, "w", encoding="utf-8").close()
+    
+    # Log the current time in São Paulo timezone
+    sao_paulo_time = datetime.now(TIMEZONE)
+    log(f"Script started at São Paulo time: {sao_paulo_time.strftime('%Y-%m-%d %H:%M:%S %Z')}")
 
     with open("channel.txt", "r", encoding="utf-8") as f:
         channels = [c.strip() for c in f if c.strip()]
