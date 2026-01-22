@@ -80,21 +80,23 @@ def build_schedule(shows, target_date):
     schedule = []
 
     for i, show in enumerate(shows):
+        # Just use the time directly - it's already in São Paulo time from the website
         start_t = datetime.strptime(show["start_time"], "%H:%M").time()
-        start_dt = TIMEZONE.localize(datetime.combine(target_date, start_t))
-
+        
         if i + 1 < len(shows):
             next_t = datetime.strptime(shows[i + 1]["start_time"], "%H:%M").time()
-            end_dt = TIMEZONE.localize(datetime.combine(target_date, next_t))
+            end_time_str = shows[i + 1]["start_time"]
         else:
-            end_dt = start_dt + timedelta(minutes=30)
+            # Calculate end time as 30 minutes after start
+            temp_dt = datetime.combine(target_date, start_t) + timedelta(minutes=30)
+            end_time_str = temp_dt.strftime("%H:%M")
 
         schedule.append({
             "show_name": show["show_name"],
             "show_logo": show["show_logo"],
             "show_category": show["show_category"],
-            "start_time": start_dt.strftime("%H:%M"),
-            "end_time": end_dt.strftime("%H:%M"),
+            "start_time": show["start_time"],  # Use original time string
+            "end_time": end_time_str,
             "episode_description": show["episode_description"]
         })
 
