@@ -1,93 +1,93 @@
-2026-01-22 22:02:51 | EPG Scraper started
-2026-01-22 22:02:51 | Processing 30 channels
-2026-01-22 22:02:51 | START channel: tv-camara
-2026-01-22 22:02:51 | START channel: tv-senado
-2026-01-22 22:02:51 | START channel: tv-escola
-2026-01-22 22:02:51 | START channel: history-channel
-2026-01-22 22:02:51 | START channel: rit
-2026-01-22 22:02:51 | START channel: multishow
-2026-01-22 22:02:52 | SAVED today → schedule/today/tv-camara.json (29 shows)
-2026-01-22 22:02:52 | SAVED tomorrow → schedule/tomorrow/tv-camara.json (23 shows)
-2026-01-22 22:02:52 | START channel: fox-sports
-2026-01-22 22:02:52 | SAVED today → schedule/today/tv-escola.json (48 shows)
-2026-01-22 22:02:52 | SAVED today → schedule/today/rit.json (26 shows)
-2026-01-22 22:02:52 | SAVED tomorrow → schedule/tomorrow/tv-escola.json (55 shows)
-2026-01-22 22:02:52 | SAVED today → schedule/today/history-channel.json (32 shows)
-2026-01-22 22:02:52 | START channel: h2
-2026-01-22 22:02:52 | SAVED tomorrow → schedule/tomorrow/rit.json (26 shows)
-2026-01-22 22:02:52 | START channel: food-network
-2026-01-22 22:02:52 | SAVED tomorrow → schedule/tomorrow/history-channel.json (33 shows)
-2026-01-22 22:02:52 | SAVED today → schedule/today/tv-senado.json (26 shows)
-2026-01-22 22:02:52 | START channel: discovery-kids
-2026-01-22 22:02:52 | SAVED tomorrow → schedule/tomorrow/tv-senado.json (28 shows)
-2026-01-22 22:02:52 | START channel: national-geographic
-2026-01-22 22:02:52 | SAVED today → schedule/today/multishow.json (48 shows)
-2026-01-22 22:02:52 | SAVED tomorrow → schedule/tomorrow/multishow.json (50 shows)
-2026-01-22 22:02:52 | START channel: discovery-turbo
-2026-01-22 22:02:53 | SAVED today → schedule/today/discovery-turbo.json (32 shows)
-2026-01-22 22:02:53 | SAVED today → schedule/today/fox-sports.json (19 shows)
-2026-01-22 22:02:53 | SAVED tomorrow → schedule/tomorrow/discovery-turbo.json (31 shows)
-2026-01-22 22:02:53 | START channel: tv-cabo-branco
-2026-01-22 22:02:53 | SAVED tomorrow → schedule/tomorrow/fox-sports.json (16 shows)
-2026-01-22 22:02:53 | START channel: hgtv
-2026-01-22 22:02:53 | SAVED today → schedule/today/h2.json (27 shows)
-2026-01-22 22:02:53 | SAVED tomorrow → schedule/tomorrow/h2.json (29 shows)
-2026-01-22 22:02:53 | START channel: tv-aratu
-2026-01-22 22:02:53 | SAVED today → schedule/today/food-network.json (56 shows)
-2026-01-22 22:02:53 | SAVED today → schedule/today/national-geographic.json (33 shows)
-2026-01-22 22:02:53 | SAVED tomorrow → schedule/tomorrow/national-geographic.json (33 shows)
-2026-01-22 22:02:53 | START channel: gloob
-2026-01-22 22:02:53 | SAVED tomorrow → schedule/tomorrow/food-network.json (50 shows)
-2026-01-22 22:02:53 | START channel: gnt
-2026-01-22 22:02:53 | SAVED today → schedule/today/discovery-kids.json (109 shows)
-2026-01-22 22:02:53 | SAVED tomorrow → schedule/tomorrow/discovery-kids.json (108 shows)
-2026-01-22 22:02:53 | START channel: cartoonito
-2026-01-22 22:02:54 | SAVED today → schedule/today/tv-cabo-branco.json (23 shows)
-2026-01-22 22:02:54 | SAVED tomorrow → schedule/tomorrow/tv-cabo-branco.json (23 shows)
-2026-01-22 22:02:54 | START channel: tv-jangadeiro
-2026-01-22 22:02:54 | SAVED today → schedule/today/tv-aratu.json (22 shows)
-2026-01-22 22:02:54 | SAVED tomorrow → schedule/tomorrow/tv-aratu.json (23 shows)
-2026-01-22 22:02:54 | START channel: tooncast
-2026-01-22 22:02:54 | SAVED today → schedule/today/hgtv.json (57 shows)
-2026-01-22 22:02:54 | SAVED tomorrow → schedule/tomorrow/hgtv.json (56 shows)
-2026-01-22 22:02:54 | START channel: amc-brasil
-2026-01-22 22:02:54 | SKIPPED today → cartoonito (no shows found)
-2026-01-22 22:02:54 | SKIPPED tomorrow → cartoonito (no shows found)
-2026-01-22 22:02:54 | START channel: telecine-action
-2026-01-22 22:02:54 | SAVED today → schedule/today/gnt.json (30 shows)
-2026-01-22 22:02:54 | SAVED tomorrow → schedule/tomorrow/gnt.json (31 shows)
-2026-01-22 22:02:54 | START channel: telecine-premium
-2026-01-22 22:02:54 | SAVED today → schedule/today/gloob.json (75 shows)
-2026-01-22 22:02:54 | SAVED tomorrow → schedule/tomorrow/gloob.json (76 shows)
-2026-01-22 22:02:54 | START channel: hbo-family
-2026-01-22 22:02:54 | SAVED today → schedule/today/tv-jangadeiro.json (28 shows)
-2026-01-22 22:02:54 | SAVED tomorrow → schedule/tomorrow/tv-jangadeiro.json (28 shows)
-2026-01-22 22:02:54 | START channel: a-e
-2026-01-22 22:02:55 | SAVED today → schedule/today/amc-brasil.json (23 shows)
-2026-01-22 22:02:55 | SAVED tomorrow → schedule/tomorrow/amc-brasil.json (21 shows)
-2026-01-22 22:02:55 | START channel: tcm
-2026-01-22 22:02:55 | SAVED today → schedule/today/tooncast.json (119 shows)
-2026-01-22 22:02:55 | SAVED tomorrow → schedule/tomorrow/tooncast.json (117 shows)
-2026-01-22 22:02:55 | START channel: discovery-theater-hd
-2026-01-22 22:02:55 | SAVED today → schedule/today/telecine-action.json (13 shows)
-2026-01-22 22:02:55 | SAVED tomorrow → schedule/tomorrow/telecine-action.json (12 shows)
-2026-01-22 22:02:55 | START channel: telecine-pipoca
-2026-01-22 22:02:55 | SAVED today → schedule/today/telecine-premium.json (12 shows)
-2026-01-22 22:02:55 | SAVED tomorrow → schedule/tomorrow/telecine-premium.json (13 shows)
-2026-01-22 22:02:55 | START channel: discovery-home-health
-2026-01-22 22:02:55 | SAVED today → schedule/today/hbo-family.json (17 shows)
-2026-01-22 22:02:55 | SAVED tomorrow → schedule/tomorrow/hbo-family.json (14 shows)
-2026-01-22 22:02:55 | START channel: lifetime-hd
-2026-01-22 22:02:55 | SAVED today → schedule/today/a-e.json (36 shows)
-2026-01-22 22:02:55 | SAVED tomorrow → schedule/tomorrow/a-e.json (41 shows)
-2026-01-22 22:02:55 | SAVED today → schedule/today/tcm.json (18 shows)
-2026-01-22 22:02:55 | SAVED tomorrow → schedule/tomorrow/tcm.json (18 shows)
-2026-01-22 22:02:55 | SAVED today → schedule/today/telecine-pipoca.json (13 shows)
-2026-01-22 22:02:55 | SAVED tomorrow → schedule/tomorrow/telecine-pipoca.json (13 shows)
-2026-01-22 22:02:56 | SAVED today → schedule/today/discovery-home-health.json (29 shows)
-2026-01-22 22:02:56 | SAVED tomorrow → schedule/tomorrow/discovery-home-health.json (27 shows)
-2026-01-22 22:02:56 | SAVED today → schedule/today/discovery-theater-hd.json (28 shows)
-2026-01-22 22:02:56 | SAVED today → schedule/today/lifetime-hd.json (18 shows)
-2026-01-22 22:02:56 | SAVED tomorrow → schedule/tomorrow/discovery-theater-hd.json (29 shows)
-2026-01-22 22:02:56 | SAVED tomorrow → schedule/tomorrow/lifetime-hd.json (17 shows)
-2026-01-22 22:02:56 | EPG Scraper completed
+2026-01-22 22:06:55 | EPG Scraper started
+2026-01-22 22:06:55 | Processing 30 channels
+2026-01-22 22:06:55 | START channel: tv-senado
+2026-01-22 22:06:55 | START channel: tv-camara
+2026-01-22 22:06:55 | START channel: tv-escola
+2026-01-22 22:06:55 | START channel: history-channel
+2026-01-22 22:06:55 | START channel: multishow
+2026-01-22 22:06:55 | START channel: rit
+2026-01-22 22:06:56 | SAVED today → schedule/today/history-channel.json (32 shows)
+2026-01-22 22:06:56 | SAVED tomorrow → schedule/tomorrow/history-channel.json (33 shows)
+2026-01-22 22:06:56 | START channel: fox-sports
+2026-01-22 22:06:56 | SAVED today → schedule/today/multishow.json (48 shows)
+2026-01-22 22:06:56 | SAVED today → schedule/today/tv-senado.json (26 shows)
+2026-01-22 22:06:56 | SAVED tomorrow → schedule/tomorrow/multishow.json (50 shows)
+2026-01-22 22:06:56 | SAVED tomorrow → schedule/tomorrow/tv-senado.json (28 shows)
+2026-01-22 22:06:56 | START channel: h2
+2026-01-22 22:06:56 | START channel: food-network
+2026-01-22 22:06:56 | SAVED today → schedule/today/tv-escola.json (48 shows)
+2026-01-22 22:06:56 | SAVED tomorrow → schedule/tomorrow/tv-escola.json (55 shows)
+2026-01-22 22:06:56 | START channel: discovery-kids
+2026-01-22 22:06:57 | SAVED today → schedule/today/rit.json (26 shows)
+2026-01-22 22:06:57 | SAVED today → schedule/today/tv-camara.json (29 shows)
+2026-01-22 22:06:57 | SAVED tomorrow → schedule/tomorrow/tv-camara.json (23 shows)
+2026-01-22 22:06:57 | START channel: national-geographic
+2026-01-22 22:06:57 | SAVED tomorrow → schedule/tomorrow/rit.json (26 shows)
+2026-01-22 22:06:57 | START channel: discovery-turbo
+2026-01-22 22:06:57 | SAVED today → schedule/today/h2.json (27 shows)
+2026-01-22 22:06:57 | SAVED tomorrow → schedule/tomorrow/h2.json (29 shows)
+2026-01-22 22:06:57 | START channel: tv-cabo-branco
+2026-01-22 22:06:57 | SAVED today → schedule/today/food-network.json (56 shows)
+2026-01-22 22:06:57 | SAVED today → schedule/today/fox-sports.json (19 shows)
+2026-01-22 22:06:57 | SAVED tomorrow → schedule/tomorrow/fox-sports.json (16 shows)
+2026-01-22 22:06:57 | START channel: hgtv
+2026-01-22 22:06:57 | SAVED tomorrow → schedule/tomorrow/food-network.json (50 shows)
+2026-01-22 22:06:57 | START channel: tv-aratu
+2026-01-22 22:06:58 | SAVED today → schedule/today/discovery-kids.json (109 shows)
+2026-01-22 22:06:58 | SAVED today → schedule/today/discovery-turbo.json (32 shows)
+2026-01-22 22:06:58 | SAVED tomorrow → schedule/tomorrow/discovery-turbo.json (31 shows)
+2026-01-22 22:06:58 | START channel: gloob
+2026-01-22 22:06:58 | SAVED tomorrow → schedule/tomorrow/discovery-kids.json (108 shows)
+2026-01-22 22:06:58 | START channel: gnt
+2026-01-22 22:06:58 | SAVED today → schedule/today/national-geographic.json (33 shows)
+2026-01-22 22:06:58 | SAVED tomorrow → schedule/tomorrow/national-geographic.json (33 shows)
+2026-01-22 22:06:58 | START channel: cartoonito
+2026-01-22 22:06:58 | SAVED today → schedule/today/tv-cabo-branco.json (23 shows)
+2026-01-22 22:06:58 | SAVED tomorrow → schedule/tomorrow/tv-cabo-branco.json (23 shows)
+2026-01-22 22:06:58 | START channel: tv-jangadeiro
+2026-01-22 22:06:58 | SAVED today → schedule/today/tv-aratu.json (22 shows)
+2026-01-22 22:06:58 | SAVED tomorrow → schedule/tomorrow/tv-aratu.json (23 shows)
+2026-01-22 22:06:58 | START channel: tooncast
+2026-01-22 22:06:58 | SAVED today → schedule/today/hgtv.json (57 shows)
+2026-01-22 22:06:58 | SAVED tomorrow → schedule/tomorrow/hgtv.json (56 shows)
+2026-01-22 22:06:58 | START channel: amc-brasil
+2026-01-22 22:06:59 | SAVED today → schedule/today/gnt.json (30 shows)
+2026-01-22 22:06:59 | SAVED tomorrow → schedule/tomorrow/gnt.json (31 shows)
+2026-01-22 22:06:59 | START channel: telecine-action
+2026-01-22 22:06:59 | SKIPPED today → cartoonito (no shows found)
+2026-01-22 22:06:59 | SKIPPED tomorrow → cartoonito (no shows found)
+2026-01-22 22:06:59 | START channel: telecine-premium
+2026-01-22 22:06:59 | SAVED today → schedule/today/tv-jangadeiro.json (28 shows)
+2026-01-22 22:06:59 | SAVED tomorrow → schedule/tomorrow/tv-jangadeiro.json (28 shows)
+2026-01-22 22:06:59 | START channel: hbo-family
+2026-01-22 22:06:59 | SAVED today → schedule/today/gloob.json (75 shows)
+2026-01-22 22:06:59 | SAVED tomorrow → schedule/tomorrow/gloob.json (76 shows)
+2026-01-22 22:06:59 | START channel: a-e
+2026-01-22 22:06:59 | SAVED today → schedule/today/amc-brasil.json (23 shows)
+2026-01-22 22:06:59 | SAVED tomorrow → schedule/tomorrow/amc-brasil.json (21 shows)
+2026-01-22 22:06:59 | START channel: tcm
+2026-01-22 22:06:59 | SAVED today → schedule/today/telecine-premium.json (12 shows)
+2026-01-22 22:07:00 | SAVED today → schedule/today/telecine-action.json (13 shows)
+2026-01-22 22:07:00 | SAVED today → schedule/today/tooncast.json (119 shows)
+2026-01-22 22:07:00 | SAVED tomorrow → schedule/tomorrow/telecine-premium.json (13 shows)
+2026-01-22 22:07:00 | START channel: discovery-theater-hd
+2026-01-22 22:07:00 | SAVED tomorrow → schedule/tomorrow/telecine-action.json (12 shows)
+2026-01-22 22:07:00 | START channel: telecine-pipoca
+2026-01-22 22:07:00 | SAVED tomorrow → schedule/tomorrow/tooncast.json (117 shows)
+2026-01-22 22:07:00 | START channel: discovery-home-health
+2026-01-22 22:07:00 | SAVED today → schedule/today/a-e.json (36 shows)
+2026-01-22 22:07:00 | SAVED tomorrow → schedule/tomorrow/a-e.json (41 shows)
+2026-01-22 22:07:00 | START channel: lifetime-hd
+2026-01-22 22:07:00 | SAVED today → schedule/today/hbo-family.json (17 shows)
+2026-01-22 22:07:00 | SAVED tomorrow → schedule/tomorrow/hbo-family.json (14 shows)
+2026-01-22 22:07:00 | SAVED today → schedule/today/tcm.json (18 shows)
+2026-01-22 22:07:00 | SAVED tomorrow → schedule/tomorrow/tcm.json (18 shows)
+2026-01-22 22:07:00 | SAVED today → schedule/today/telecine-pipoca.json (13 shows)
+2026-01-22 22:07:00 | SAVED tomorrow → schedule/tomorrow/telecine-pipoca.json (13 shows)
+2026-01-22 22:07:00 | SAVED today → schedule/today/discovery-theater-hd.json (28 shows)
+2026-01-22 22:07:01 | SAVED tomorrow → schedule/tomorrow/discovery-theater-hd.json (29 shows)
+2026-01-22 22:07:01 | SAVED today → schedule/today/lifetime-hd.json (18 shows)
+2026-01-22 22:07:01 | SAVED tomorrow → schedule/tomorrow/lifetime-hd.json (17 shows)
+2026-01-22 22:07:01 | SAVED today → schedule/today/discovery-home-health.json (29 shows)
+2026-01-22 22:07:01 | SAVED tomorrow → schedule/tomorrow/discovery-home-health.json (27 shows)
+2026-01-22 22:07:01 | EPG Scraper completed
