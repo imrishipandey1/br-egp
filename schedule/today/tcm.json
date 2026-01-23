@@ -1,150 +1,294 @@
 {
-  "channel": "Tcm",
+  "channel": "TCM",
   "date": "23/01/2026",
   "schedule": [
     {
-      "show_name": "A Noiva Desconhecida",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-noiva-desconhecida-1949_l_m.jpg",
-      "show_category": "Musical comedy / 1949",
+      "start_time": "01:02",
+      "show_name": "Balas Contra a Gestapo",
+      "show_category": "Drama / 1942",
+      "episode_description": "A vida tranquila de um pequeno grupo de mafiosos do Brooklin, chefiados por Gloves, toma um rumo inesperado quando um padeiro é assassinado. Eles se envolvem num grande complô gerido por nazistas dentro de Nova Iorque.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_balas-contra-a-gestapo-1942_l_m.jpg",
+      "end_time": "02:18"
+    },
+    {
       "start_time": "01:07",
-      "end_time": "02:52",
-      "episode_description": "Andrew e Veronica detestam um ou outro desde a primeira vez em que se encontraram. A implicância aumenta quando Andrew é obrigado a contratar Veronica como vendedora. O que eles não sabem é que são amigos por correspondência."
-    },
-    {
-      "show_name": "As Sete Faces do Dr. Lao",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_as-sete-faces-do-dr-lao-1964_l_m.jpg",
-      "show_category": "Fantasy / 1964",
-      "start_time": "02:52",
-      "end_time": "04:33",
-      "episode_description": "Um circo itinerante comandado pelo misterioso Dr. Lao chega a pequena Abalone, no Arizona. Despertando sentimentos de curiosidade e constrangimento na população, suas exóticas atrações transformam magicamente a vida da comunidade para sempre."
-    },
-    {
-      "show_name": "Bullitt",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_bullitt-1968_l_m.jpg",
-      "show_category": "Crime drama / 1968 / 7.5",
-      "start_time": "04:33",
-      "end_time": "06:30",
-      "episode_description": "Frank Bullitt e dois outros policiais são escalados para um caso aparentemente simples: vigiar uma testemunha por 24 h antes que ele se apresente no tribunal. Mas policiais e testemunhas são assassinados e Frank jura capturar os autores do crime."
-    },
-    {
-      "show_name": "Signos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_signos-s01e02-cancer-com-ascendente-em-peixes_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 2 - Câncer com Ascendente em Peixes",
-      "start_time": "06:30",
-      "end_time": "07:29",
-      "episode_description": "A polícia segue a pista do formol utilizado nos crimes dos irmãos. Dois novos assassinatos, que parecem estar relacionados com o signo de Câncer, agitam a cidade. Laura investiga a ligação entre as mortes e o horóscopo de uma publicação local."
-    },
-    {
-      "show_name": "Signos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_signos-s01e02-cancer-com-ascendente-em-peixes_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 2 - Câncer com Ascendente em Peixes",
-      "start_time": "07:29",
-      "end_time": "08:22",
-      "episode_description": "A polícia segue a pista do formol utilizado nos crimes dos irmãos. Dois novos assassinatos, que parecem estar relacionados com o signo de Câncer, agitam a cidade. Laura investiga a ligação entre as mortes e o horóscopo de uma publicação local."
-    },
-    {
-      "show_name": "Em um Relacionamento Sério",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_em-um-relacionamento-serio-2018_l_m.jpg",
-      "show_category": "Romantic comedy / 2018",
-      "start_time": "08:22",
-      "end_time": "09:53",
-      "episode_description": "O casal de longa data Owen e Hallie talvez esteja terminando. Assim que o relacionamento deles chega a um ponto de virada, seu amigo Matt e sua prima Willa embarcam em um romance não tão casual."
-    },
-    {
-      "show_name": "Alma Em Suplício",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_alma-em-suplicio-1945_l_m.jpg",
-      "show_category": "Drama / 1945",
-      "start_time": "09:53",
-      "end_time": "11:46",
-      "episode_description": "Após ser traída e abandonada pelo marido, Mildred Pierce quer provar que consegue ser independente e criar suas duas filhas sozinha. Apesar do sucesso no ramo de restaurantes, ela não tem a aprovação da filha Veda, que se envolve com o padrasto."
-    },
-    {
-      "show_name": "A Tortura do Silêncio",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-tortura-do-silencio-1953_l_m.jpg",
-      "show_category": "Drama / 1953",
-      "start_time": "11:46",
-      "end_time": "13:22",
-      "episode_description": "O padre católico Logan tem sua fé testada quando ele é erroneamente acusado de matar um membro da paróquia. O real assassino é o imigrante alemão Otto, que confessou o crime a ele. Mas, como padre, ele não pode revelar o que ouviu no confessionário."
-    },
-    {
-      "show_name": "Hollywood One on One",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
-      "show_category": "Talk",
-      "start_time": "13:22",
-      "end_time": "13:57",
-      "episode_description": "Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects."
-    },
-    {
-      "show_name": "Hollywood One on One",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
-      "show_category": "Talk",
-      "start_time": "13:57",
-      "end_time": "14:07",
-      "episode_description": "Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects."
-    },
-    {
-      "show_name": "Hollywood One on One",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
-      "show_category": "Talk",
-      "start_time": "14:07",
-      "end_time": "14:18",
-      "episode_description": "Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects."
-    },
-    {
-      "show_name": "Hollywood One on One",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
-      "show_category": "Talk",
-      "start_time": "14:18",
-      "end_time": "14:30",
-      "episode_description": "Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects."
-    },
-    {
-      "show_name": "Hollywood One on One",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
-      "show_category": "Talk",
-      "start_time": "14:30",
-      "end_time": "16:01",
-      "episode_description": "Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects."
-    },
-    {
-      "show_name": "Ardida Como Pimenta",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_ardida-como-pimenta-1953_l_m.jpg",
-      "show_category": "Musical / 1953",
-      "start_time": "16:01",
-      "end_time": "17:44",
-      "episode_description": "A caçadora Calamity Jane se apaixona por Wild BIll Hichcok e tenta se comportar como uma dama."
-    },
-    {
       "show_name": "A Noiva Desconhecida",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-noiva-desconhecida-1949_l_m.jpg",
       "show_category": "Musical comedy / 1949",
-      "start_time": "17:44",
-      "end_time": "19:30",
-      "episode_description": "Andrew e Veronica detestam um ou outro desde a primeira vez em que se encontraram. A implicância aumenta quando Andrew é obrigado a contratar Veronica como vendedora. O que eles não sabem é que são amigos por correspondência."
+      "episode_description": "Andrew e Veronica detestam um ou outro desde a primeira vez em que se encontraram. A implicância aumenta quando Andrew é obrigado a contratar Veronica como vendedora. O que eles não sabem é que são amigos por correspondência.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-noiva-desconhecida-1949_l_m.jpg",
+      "end_time": "02:51"
     },
     {
+      "start_time": "02:51",
+      "show_name": "A Aldeia dos Amaldiçoados",
+      "show_category": "Science fiction / 1960",
+      "episode_description": "Na pacata vila britânica de Midwich, tudo e todos entram em um sono profundo por horas durante um dia misterioso. Meses depois, doze mulheres grávidas têm ao mesmo tempo, seus filhos, com cabelos loiros idênticos e olhares penetrantes e assustadores.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-aldeia-dos-amaldicoados-1960_l_m.jpg",
+      "end_time": "04:06"
+    },
+    {
+      "start_time": "02:52",
       "show_name": "As Sete Faces do Dr. Lao",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_as-sete-faces-do-dr-lao-1964_l_m.jpg",
       "show_category": "Fantasy / 1964",
-      "start_time": "19:30",
-      "end_time": "21:14",
-      "episode_description": "Um circo itinerante comandado pelo misterioso Dr. Lao chega a pequena Abalone, no Arizona. Despertando sentimentos de curiosidade e constrangimento na população, suas exóticas atrações transformam magicamente a vida da comunidade para sempre."
+      "episode_description": "Um circo itinerante comandado pelo misterioso Dr. Lao chega a pequena Abalone, no Arizona. Despertando sentimentos de curiosidade e constrangimento na população, suas exóticas atrações transformam magicamente a vida da comunidade para sempre.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_as-sete-faces-do-dr-lao-1964_l_m.jpg",
+      "end_time": "04:10"
     },
     {
+      "start_time": "04:10",
+      "show_name": "Águia Solitária",
+      "show_category": "Biography / 1957",
+      "episode_description": "O aviador Charles Lindbergh arrisca sua vida para completar a primeira travessia do oceano Atlântico em um voo solo sem escalas. Para sobreviver à jornada, Lindbergh precisa superar sua própria fadiga e a natureza, indo desde gelo nas asas até neblina. Ao longo do caminho, Lindbergh relembra seu passado como piloto de correio e de acrobacias aéreas.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aguia-solitaria-1957_l_m.jpg",
+      "end_time": "06:30"
+    },
+    {
+      "start_time": "04:33",
       "show_name": "Bullitt",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_bullitt-1968_l_m.jpg",
       "show_category": "Crime drama / 1968 / 7.5",
-      "start_time": "21:14",
-      "end_time": "23:11",
-      "episode_description": "Frank Bullitt e dois outros policiais são escalados para um caso aparentemente simples: vigiar uma testemunha por 24 h antes que ele se apresente no tribunal. Mas policiais e testemunhas são assassinados e Frank jura capturar os autores do crime."
+      "episode_description": "Frank Bullitt e dois outros policiais são escalados para um caso aparentemente simples: vigiar uma testemunha por 24 h antes que ele se apresente no tribunal. Mas policiais e testemunhas são assassinados e Frank jura capturar os autores do crime.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bullitt-1968_l_m.jpg",
+      "end_time": "06:30"
     },
     {
-      "show_name": "Bonnie e Clyde - Uma Rajada de Balas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_bonnie-e-clyde-uma-rajada-de-balas-1967_l_m.jpg",
-      "show_category": "Crime drama / 1967",
+      "start_time": "06:30",
+      "show_name": "Audazes e Malditos",
+      "show_category": "Western / 1960",
+      "episode_description": "Em um forte militar no Arizona em 1881, um oficial é assassinado e a sua filha é espancada, estuprada e estrangulada. Tom Cantrell, advogado do Exército, defende o réu, o sargento afro-americano Braxton Rutledge, que já esteve sob o seu comando.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_audazes-e-malditos-1960_l_m.jpg",
+      "end_time": "06:30"
+    },
+    {
+      "start_time": "06:30",
+      "show_name": "Signos",
+      "show_category": "Temporada 1 Episódio 2 - Câncer com Ascendente em Peixes",
+      "episode_description": "A polícia segue a pista do formol utilizado nos crimes dos irmãos. Dois novos assassinatos, que parecem estar relacionados com o signo de Câncer, agitam a cidade. Laura investiga a ligação entre as mortes e o horóscopo de uma publicação local.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_signos-s01e02-cancer-com-ascendente-em-peixes_l_m.jpg",
+      "end_time": "06:30"
+    },
+    {
+      "start_time": "07:29",
+      "show_name": "Signos",
+      "show_category": "Temporada 1 Episódio 2 - Câncer com Ascendente em Peixes",
+      "episode_description": "A polícia segue a pista do formol utilizado nos crimes dos irmãos. Dois novos assassinatos, que parecem estar relacionados com o signo de Câncer, agitam a cidade. Laura investiga a ligação entre as mortes e o horóscopo de uma publicação local.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_signos-s01e02-cancer-com-ascendente-em-peixes_l_m.jpg",
+      "end_time": "08:03"
+    },
+    {
+      "start_time": "08:22",
+      "show_name": "Signos",
+      "show_category": "Temporada 1 Episódio 2 - Câncer com Ascendente em Peixes",
+      "episode_description": "A polícia segue a pista do formol utilizado nos crimes dos irmãos. Dois novos assassinatos, que parecem estar relacionados com o signo de Câncer, agitam a cidade. Laura investiga a ligação entre as mortes e o horóscopo de uma publicação local.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_signos-s01e02-cancer-com-ascendente-em-peixes_l_m.jpg",
+      "end_time": "08:22"
+    },
+    {
+      "start_time": "08:22",
+      "show_name": "Em um Relacionamento Sério",
+      "show_category": "Romantic comedy / 2018",
+      "episode_description": "O casal de longa data Owen e Hallie talvez esteja terminando. Assim que o relacionamento deles chega a um ponto de virada, seu amigo Matt e sua prima Willa embarcam em um romance não tão casual.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_em-um-relacionamento-serio-2018_l_m.jpg",
+      "end_time": "08:55"
+    },
+    {
+      "start_time": "09:21",
+      "show_name": "Signos",
+      "show_category": "Temporada 1 Episódio 2 - Câncer com Ascendente em Peixes",
+      "episode_description": "A polícia segue a pista do formol utilizado nos crimes dos irmãos. Dois novos assassinatos, que parecem estar relacionados com o signo de Câncer, agitam a cidade. Laura investiga a ligação entre as mortes e o horóscopo de uma publicação local.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_signos-s01e02-cancer-com-ascendente-em-peixes_l_m.jpg",
+      "end_time": "09:53"
+    },
+    {
+      "start_time": "09:53",
+      "show_name": "Alma Em Suplício",
+      "show_category": "Drama / 1945",
+      "episode_description": "Após ser traída e abandonada pelo marido, Mildred Pierce quer provar que consegue ser independente e criar suas duas filhas sozinha. Apesar do sucesso no ramo de restaurantes, ela não tem a aprovação da filha Veda, que se envolve com o padrasto.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alma-em-suplicio-1945_l_m.jpg",
+      "end_time": "11:20"
+    },
+    {
+      "start_time": "10:14",
+      "show_name": "Pacto Sinistro",
+      "show_category": "Thriller / 1951",
+      "episode_description": "Dois completos desconhecidos concordam em matar alguém de quem o outro quer se livrar. O aristocrata Bruno Anthony encomenda a morte do seu odioso pai, e o jogador de tênis Guy Haines quer se divorciar da mulher para se casar com a filha do senador.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pacto-sinistro-1951_l_m.jpg",
+      "end_time": "11:46"
+    },
+    {
+      "start_time": "11:46",
+      "show_name": "A Tortura do Silêncio",
+      "show_category": "Drama / 1953",
+      "episode_description": "O padre católico Logan tem sua fé testada quando ele é erroneamente acusado de matar um membro da paróquia. O real assassino é o imigrante alemão Otto, que confessou o crime a ele. Mas, como padre, ele não pode revelar o que ouviu no confessionário.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-tortura-do-silencio-1953_l_m.jpg",
+      "end_time": "13:08"
+    },
+    {
+      "start_time": "11:56",
+      "show_name": "O Pecado de Todos Nós",
+      "show_category": "Drama / 1967",
+      "episode_description": "Penderton é um major que esconde sua homossexualidade a sete chaves. Ele tem um casamento problemático com Leonora, que vive traindo o marido. Ao descobrir que ela mantém um caso com um jovem recruta por quem é apaixonado, ele fica furioso.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-pecado-de-todos-nos-1967_l_m.jpg",
+      "end_time": "13:22"
+    },
+    {
+      "start_time": "13:22",
+      "show_name": "Hollywood One on One",
+      "show_category": "Talk",
+      "episode_description": "Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
+      "end_time": "13:57"
+    },
+    {
+      "start_time": "13:46",
+      "show_name": "Hollywood One on One",
+      "show_category": "Talk",
+      "episode_description": "Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
+      "end_time": "13:57"
+    },
+    {
+      "start_time": "13:57",
+      "show_name": "Hollywood One on One",
+      "show_category": "Talk",
+      "episode_description": "Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
+      "end_time": "14:07"
+    },
+    {
+      "start_time": "14:07",
+      "show_name": "Hollywood One on One",
+      "show_category": "Talk",
+      "episode_description": "Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
+      "end_time": "14:18"
+    },
+    {
+      "start_time": "14:18",
+      "show_name": "Hollywood One on One",
+      "show_category": "Talk",
+      "episode_description": "Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
+      "end_time": "14:30"
+    },
+    {
+      "start_time": "14:21",
+      "show_name": "Hollywood One on One",
+      "show_category": "Talk",
+      "episode_description": "Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
+      "end_time": "14:30"
+    },
+    {
+      "start_time": "14:30",
+      "show_name": "Hollywood One on One",
+      "show_category": "Talk",
+      "episode_description": "Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
+      "end_time": "14:30"
+    },
+    {
+      "start_time": "14:30",
+      "show_name": "Hollywood One on One",
+      "show_category": "Talk",
+      "episode_description": "Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
+      "end_time": "14:30"
+    },
+    {
+      "start_time": "15:07",
+      "show_name": "Hollywood One on One",
+      "show_category": "Talk",
+      "episode_description": "Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
+      "end_time": "15:43"
+    },
+    {
+      "start_time": "15:43",
+      "show_name": "Hollywood One on One",
+      "show_category": "Talk",
+      "episode_description": "Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
+      "end_time": "15:56"
+    },
+    {
+      "start_time": "15:56",
+      "show_name": "Lua-de-Mel Agitada",
+      "show_category": "Comedy / 1954",
+      "episode_description": "Nicky e Tacy se casam e decidem comprar um trailer ao invés de uma casa, para economizar dinheiro. Durante a lua de mel, eles viajam pelos EUA e aprendem que viver em uma casa sobre rodas pode ser muito complicado.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lua-de-mel-agitada-1954_l_m.jpg",
+      "end_time": "16:01"
+    },
+    {
+      "start_time": "16:01",
+      "show_name": "Ardida Como Pimenta",
+      "show_category": "Musical / 1953",
+      "episode_description": "A caçadora Calamity Jane se apaixona por Wild BIll Hichcok e tenta se comportar como uma dama.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ardida-como-pimenta-1953_l_m.jpg",
+      "end_time": "16:28"
+    },
+    {
+      "start_time": "17:36",
+      "show_name": "Uma Sepultura na Eternidade",
+      "show_category": "Science fiction / 1967",
+      "episode_description": "Um misterioso artefato descoberto abaixo de uma estação de metrô de Londres prova ter poderosos efeitos psíquicos nas pessoas ao redor.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_uma-sepultura-na-eternidade-1967_l_m.jpg",
+      "end_time": "17:44"
+    },
+    {
+      "start_time": "17:44",
+      "show_name": "A Noiva Desconhecida",
+      "show_category": "Musical comedy / 1949",
+      "episode_description": "Andrew e Veronica detestam um ou outro desde a primeira vez em que se encontraram. A implicância aumenta quando Andrew é obrigado a contratar Veronica como vendedora. O que eles não sabem é que são amigos por correspondência.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-noiva-desconhecida-1949_l_m.jpg",
+      "end_time": "18:17"
+    },
+    {
+      "start_time": "19:16",
+      "show_name": "O Jogo da Imitação",
+      "show_category": "Historical drama / 2014",
+      "episode_description": "Em 1939, a recém-criada agência de inteligência britânica MI6 recruta Alan Turing, um aluno da Universidade de Cambridge, para entender códigos nazistas, incluindo o \"Enigma\", que criptógrafos acreditavam ser inquebrável. A equipe de Turing, incluindo Joan Clarke, analisa as mensagens de \"Enigma\", enquanto ele constrói uma máquina para decifrá-las. Após desvendar as codificações, Turing se torna herói. Porém, em 1952, autoridades revelam sua homossexualidade, e a vida dele vira um pesadelo.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-jogo-da-imitac-o-2014_l_m.jpg",
+      "end_time": "19:30"
+    },
+    {
+      "start_time": "19:30",
+      "show_name": "As Sete Faces do Dr. Lao",
+      "show_category": "Fantasy / 1964",
+      "episode_description": "Um circo itinerante comandado pelo misterioso Dr. Lao chega a pequena Abalone, no Arizona. Despertando sentimentos de curiosidade e constrangimento na população, suas exóticas atrações transformam magicamente a vida da comunidade para sempre.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_as-sete-faces-do-dr-lao-1964_l_m.jpg",
+      "end_time": "19:37"
+    },
+    {
+      "start_time": "21:11",
+      "show_name": "Onze Homens e um Segredo",
+      "show_category": "Comedy drama / 1960",
+      "episode_description": "Véspera de Ano Novo em Las Vegas. Todos estão em festa, mas as luzes se apagam. É a hora perfeita para se roubar um beijo ou uma moeda. Para Danny Ocean e os seus 10 cúmplices, é a hora perfeita para se roubar milhões.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_onze-homens-e-um-segredo-1960_l_m.jpg",
+      "end_time": "21:14"
+    },
+    {
+      "start_time": "21:14",
+      "show_name": "Bullitt",
+      "show_category": "Crime drama / 1968 / 7.5",
+      "episode_description": "Frank Bullitt e dois outros policiais são escalados para um caso aparentemente simples: vigiar uma testemunha por 24 h antes que ele se apresente no tribunal. Mas policiais e testemunhas são assassinados e Frank jura capturar os autores do crime.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bullitt-1968_l_m.jpg",
+      "end_time": "21:57"
+    },
+    {
       "start_time": "23:11",
-      "end_time": "23:41",
-      "episode_description": "Bonnie Parker se apaixona por um ex-presidiário, Clyde Barrow e decide acompanhá-lo. Juntos, iniciam uma carreira de crimes roubando carros e assaltando bancos até serem perseguidos pela polícia por todo o país."
+      "show_name": "Bonnie e Clyde - Uma Rajada de Balas",
+      "show_category": "Crime drama / 1967",
+      "episode_description": "Bonnie Parker se apaixona por um ex-presidiário, Clyde Barrow e decide acompanhá-lo. Juntos, iniciam uma carreira de crimes roubando carros e assaltando bancos até serem perseguidos pela polícia por todo o país.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bonnie-e-clyde-uma-rajada-de-balas-1967_l_m.jpg",
+      "end_time": "23:54"
+    },
+    {
+      "start_time": "23:23",
+      "show_name": "Calamity Jane",
+      "show_category": "Musical / 1953 / 7.2",
+      "episode_description": "A caçadora Calamity Jane se apaixona por Wild BIll Hichcok e tenta se comportar como uma dama.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_calamity-jane-1953_l_m.jpg",
+      "end_time": "23:59"
     }
   ]
 }

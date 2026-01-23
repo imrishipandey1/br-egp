@@ -1,214 +1,390 @@
 {
-  "channel": "Tv Cabo Branco",
+  "channel": "TV Cabo Branco",
   "date": "24/01/2026",
   "schedule": [
     {
-      "show_name": "Pegando Fogo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_pegando-fogo-2015_l_m.jpg",
-      "show_category": "Drama / 2015",
       "start_time": "00:00",
-      "end_time": "01:35",
-      "episode_description": "Adam Jones já foi um respeitado chef em Paris, mas o abuso de drogas e álcool destruiu sua carreira. Depois de passar um tempo em Nova Orleans, ele tem uma nova oportunidade em Londres, quando é contratado por seu antigo maître para ser o chef de cozinha de um restaurante requintado. Exigindo a perfeição da sua recém-formada equipe, o amargo e temperamental Jones tem uma segunda chance para realizar seu sonho de ganhar uma terceira estrela Michelin."
+      "show_name": "Pegando Fogo",
+      "show_category": "Drama / 2015",
+      "episode_description": "Adam Jones já foi um respeitado chef em Paris, mas o abuso de drogas e álcool destruiu sua carreira. Depois de passar um tempo em Nova Orleans, ele tem uma nova oportunidade em Londres, quando é contratado por seu antigo maître para ser o chef de cozinha de um restaurante requintado. Exigindo a perfeição da sua recém-formada equipe, o amargo e temperamental Jones tem uma segunda chance para realizar seu sonho de ganhar uma terceira estrela Michelin.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pegando-fogo-2015_l_m.jpg",
+      "end_time": "00:45"
     },
     {
-      "show_name": "Vale a Pena Ver de Novo - Rainha da Sucata",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_vale-a-pena-ver-de-novo-rainha-da-sucata_l_m.jpg",
-      "show_category": "Soap",
+      "start_time": "00:45",
+      "show_name": "Caldeirão com Mion",
+      "show_category": "Entertainment",
+      "episode_description": "Marcos Mion traz alegria ao programa de auditório com quadros animados, desafios inéditos e atrações musicais especiais.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_caldeir-o-com-mion_l_m.jpg",
+      "end_time": "01:35"
+    },
+    {
       "start_time": "01:35",
-      "end_time": "02:55",
-      "episode_description": "A rivalidade entre Maria do Carmo, uma empresária que enriqueceu com os negócios do pai, e Laurinha Figueiroa, uma socialite falida, no universo dos novos-ricos da decadente sociedade paulistana."
+      "show_name": "Vale a Pena Ver de Novo - Rainha da Sucata",
+      "show_category": "Soap",
+      "episode_description": "A rivalidade entre Maria do Carmo, uma empresária que enriqueceu com os negócios do pai, e Laurinha Figueiroa, uma socialite falida, no universo dos novos-ricos da decadente sociedade paulistana.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vale-a-pena-ver-de-novo-rainha-da-sucata_l_m.jpg",
+      "end_time": "02:55"
     },
     {
-      "show_name": "Êta Mundo Melhor!",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_eta-mundo-melhor_l_m.jpg",
-      "show_category": "Drama",
       "start_time": "02:55",
-      "end_time": "03:40",
-      "episode_description": "Candinho e seu fiel companheiro, Policarpo, voltaram para novas aventuras na cidade grande. Apesar de toda riqueza que o cerca, Candinho enfrenta uma nova saga: a busca pelo filho perdido."
+      "show_name": "Êta Mundo Melhor!",
+      "show_category": "Drama",
+      "episode_description": "Candinho e seu fiel companheiro, Policarpo, voltaram para novas aventuras na cidade grande. Apesar de toda riqueza que o cerca, Candinho enfrenta uma nova saga: a busca pelo filho perdido.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_eta-mundo-melhor_l_m.jpg",
+      "end_time": "03:10"
     },
     {
-      "show_name": "JPB2",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_jpb2_l_m.jpg",
-      "show_category": "News",
+      "start_time": "03:10",
+      "show_name": "Êta Mundo Melhor!",
+      "show_category": "Drama",
+      "episode_description": "Candinho e seu fiel companheiro, Policarpo, voltaram para novas aventuras na cidade grande. Apesar de toda riqueza que o cerca, Candinho enfrenta uma nova saga: a busca pelo filho perdido.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_eta-mundo-melhor_l_m.jpg",
+      "end_time": "03:40"
+    },
+    {
       "start_time": "03:40",
-      "end_time": "04:10",
-      "episode_description": "Acompanhe os acontecimentos do dia a dia e os debates entre a população e as autoridades."
+      "show_name": "JPB2",
+      "show_category": "News",
+      "episode_description": "Acompanhe os acontecimentos do dia a dia e os debates entre a população e as autoridades.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jpb2_l_m.jpg",
+      "end_time": "03:55"
     },
     {
-      "show_name": "Coração Acelerado",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_corac-o-acelerado_l_m.jpg",
-      "show_category": "Soap",
+      "start_time": "03:55",
+      "show_name": "JPB2",
+      "show_category": "News",
+      "episode_description": "Acompanhe os acontecimentos do dia a dia e os debates entre a população e as autoridades.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jpb2_l_m.jpg",
+      "end_time": "04:10"
+    },
+    {
       "start_time": "04:10",
-      "end_time": "05:00",
-      "episode_description": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\"."
-    },
-    {
-      "show_name": "Jornal Nacional",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-nacional-1_l_m.jpg",
-      "show_category": "News",
-      "start_time": "05:00",
-      "end_time": "05:50",
-      "episode_description": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo."
-    },
-    {
-      "show_name": "Três Graças",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_tres-gracas_l_m.jpg",
-      "show_category": "Drama",
-      "start_time": "05:50",
-      "end_time": "06:55",
-      "episode_description": "Gerluce Maria das Graças integra uma família de mães solo: é filha de Lígia Maria e mãe de Joélly Maria. Criada pela mãe, que engravidou na adolescência e foi abandonada pelo seu pai, Gerluce enfrenta um destino parecido com a chegada da filha."
-    },
-    {
-      "show_name": "Big Brother Brasil",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_big-brother-brasil-s26e12_l_m.jpg",
-      "show_category": "Temporada 26 Episódio 12",
-      "start_time": "06:55",
-      "end_time": "07:30",
-      "episode_description": "Um grupo de pessoas topa ficar confinado em uma espaçosa casa cenográfica, sendo vigiado por câmeras 24 horas por dia. Sem receber informações do mundo exterior, eles disputam uma série de provas e dinâmicas em busca de um prêmio milionário."
-    },
-    {
-      "show_name": "The Castaways - Isolados",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-castaways-isolados_l_m.jpg",
-      "show_category": "Drama",
-      "start_time": "07:30",
-      "end_time": "08:15",
-      "episode_description": "Erin vai para as Ilhas Fiji em busca de respostas quando o cartão de crédito de sua irmã desaparecida é usado em uma ilha remota no Pacífico."
-    },
-    {
-      "show_name": "Jornal da Globo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-da-globo_l_m.jpg",
-      "show_category": "News",
-      "start_time": "08:15",
-      "end_time": "09:05",
-      "episode_description": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura."
-    },
-    {
       "show_name": "Coração Acelerado",
+      "show_category": "Soap",
+      "episode_description": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_corac-o-acelerado_l_m.jpg",
+      "end_time": "04:15"
+    },
+    {
+      "start_time": "04:15",
+      "show_name": "Coração Acelerado",
       "show_category": "Soap",
-      "start_time": "09:05",
-      "end_time": "09:50",
-      "episode_description": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\"."
+      "episode_description": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_corac-o-acelerado_l_m.jpg",
+      "end_time": "05:00"
     },
     {
-      "show_name": "Vai que Cola",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-1_l_m.jpg",
-      "show_category": "Comedy",
-      "start_time": "09:50",
-      "end_time": "10:35",
-      "episode_description": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede."
-    },
-    {
-      "show_name": "Correndo Atrás",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_correndo-atras-2018_l_m.jpg",
-      "show_category": "Comedy / 2018",
-      "start_time": "10:35",
-      "end_time": "11:55",
-      "episode_description": "Ventania é um trabalhador que tenta mudar de vida. Ele faz vários bicos até que decide tentar a sorte como empresário de futebol. Na nova função, ele conhece Glanderson, um garoto pobre e deficiente físico que tem muito talento."
-    },
-    {
-      "show_name": "Lucicreide Vai pra Marte",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lucicreide-vai-pra-marte-2021_l_m.jpg",
-      "show_category": "Comedy / 2021 / 5.1",
-      "start_time": "11:55",
-      "end_time": "13:20",
-      "episode_description": "A sogra de Lucicreide é despejada e vai morar com ela. Abandonada pelo marido e sem condições de criar seus cinco filhos, ela deseja ir embora para bem longe. Por isso, Lucicreide aceita participar de uma missão que levará o primeiro homem a Marte."
-    },
-    {
-      "show_name": "Veneza",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_veneza-2019_l_m.jpg",
-      "show_category": "Comedy drama / 2019",
-      "start_time": "13:20",
-      "end_time": "14:30",
-      "episode_description": "Reencontrar o único homem que amou é o sonho de Gringa, dona de um bordel no interior do Brasil. Mesmo cega e muito doente, ela insiste em realizar seu último desejo: ir até Veneza para pedir perdão ao amante que abandonou décadas atrás. Para levá-la à cidade italiana, Tonho, Rita e as outras moças que trabalham para Gringa idealizam um fantástico plano com a ajuda de uma trupe circense."
-    },
-    {
-      "show_name": "Globo Rural",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_globo-rural-1_l_m.jpg",
-      "show_category": "Agriculture",
-      "start_time": "14:30",
-      "end_time": "15:20",
-      "episode_description": "Acompanhe as principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais."
-    },
-    {
-      "show_name": "Bom Dia Sábado",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_bom-dia-sabado_l_m.jpg",
+      "start_time": "05:00",
+      "show_name": "Jornal Nacional",
       "show_category": "News",
-      "start_time": "15:20",
-      "end_time": "16:20",
-      "episode_description": "As principais notícias do Brasil para começar o final de semana bem-informado."
+      "episode_description": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-nacional-1_l_m.jpg",
+      "end_time": "05:00"
     },
     {
-      "show_name": "Pequenas Empresas & Grandes Negócios",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_pequenas-empresas-grandes-negocios-2_l_m.jpg",
-      "show_category": "Bus./financial",
-      "start_time": "16:20",
-      "end_time": "17:00",
-      "episode_description": "Informações e reportagens de grande interesse para empreendedores, pequenos e médios empresários."
-    },
-    {
-      "show_name": "É de Casa",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_e-de-casa-1_l_m.jpg",
-      "show_category": "Home improvement",
-      "start_time": "17:00",
-      "end_time": "20:15",
-      "episode_description": "A equipe do programa discute e comenta assuntos que são comuns a todas as famílias. O que está sendo falado na imprensa, o que se fala nas ruas e, é claro, dentro de casa."
-    },
-    {
-      "show_name": "JPB1",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_jpb1_l_m.jpg",
+      "start_time": "05:00",
+      "show_name": "Jornal Nacional",
       "show_category": "News",
-      "start_time": "20:15",
-      "end_time": "21:30",
-      "episode_description": "Acompanhe os acontecimentos do dia a dia e os debates entre a população e as autoridades."
+      "episode_description": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-nacional-1_l_m.jpg",
+      "end_time": "05:50"
     },
     {
-      "show_name": "Globo Esporte PB",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_news-globo-esporte-pb_l_m.jpg",
-      "show_category": "",
-      "start_time": "21:30",
-      "end_time": "21:55",
-      "episode_description": "Os principais acontecimentos esportivos notícia na Paraíba, no Brasil e no mundo."
-    },
-    {
-      "show_name": "Jornal Hoje",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-hoje-1_l_m.jpg",
-      "show_category": "News",
-      "start_time": "21:55",
-      "end_time": "22:40",
-      "episode_description": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais."
-    },
-    {
-      "show_name": "Terra Nostra - Edição Especial",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_terra-nostra-edic-o-especial_l_m.jpg",
-      "show_category": "Soap",
-      "start_time": "22:40",
-      "end_time": "23:00",
-      "episode_description": "Uma parte da história da formação da sociedade brasileira do início do século XX é contada a partir do romance de dois jovens italianos, Giuliana e Matteo. Eles se conhecem em 1894 a bordo do navio que transporta imigrantes para trabalhar no Brasil."
-    },
-    {
-      "show_name": "Minha Paraíba",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_minha-paraiba_l_m.jpg",
-      "show_category": "Community",
-      "start_time": "23:00",
-      "end_time": "23:45",
-      "episode_description": "O público envia as histórias reais de paraibanos e paraibanas que fazem a diferença, valorizam suas origens ou simplesmente representam o orgulho de ser da Paraíba."
-    },
-    {
-      "show_name": "Nossa Música",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_nossa-musica_l_m.jpg",
-      "show_category": "Music",
-      "start_time": "23:45",
-      "end_time": "05:50",
-      "episode_description": "Uma homenagem à força e diversidade musical do Nordeste. Em uma sequência de shows incríveis, a Rede Paraíba apresenta artistas consagrados e promissores que têm feito história na música brasileira."
-    },
-    {
-      "show_name": "Três Graças",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_tres-gracas_l_m.jpg",
-      "show_category": "Drama",
       "start_time": "05:50",
-      "end_time": "06:20",
-      "episode_description": "Gerluce Maria das Graças integra uma família de mães solo: é filha de Lígia Maria e mãe de Joélly Maria. Criada pela mãe, que engravidou na adolescência e foi abandonada pelo seu pai, Gerluce enfrenta um destino parecido com a chegada da filha."
+      "show_name": "Três Graças",
+      "show_category": "Drama",
+      "episode_description": "Gerluce Maria das Graças integra uma família de mães solo: é filha de Lígia Maria e mãe de Joélly Maria. Criada pela mãe, que engravidou na adolescência e foi abandonada pelo seu pai, Gerluce enfrenta um destino parecido com a chegada da filha.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tres-gracas_l_m.jpg",
+      "end_time": "05:50"
+    },
+    {
+      "start_time": "05:50",
+      "show_name": "Três Graças",
+      "show_category": "Drama",
+      "episode_description": "Gerluce Maria das Graças integra uma família de mães solo: é filha de Lígia Maria e mãe de Joélly Maria. Criada pela mãe, que engravidou na adolescência e foi abandonada pelo seu pai, Gerluce enfrenta um destino parecido com a chegada da filha.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tres-gracas_l_m.jpg",
+      "end_time": "05:50"
+    },
+    {
+      "start_time": "05:50",
+      "show_name": "Três Graças",
+      "show_category": "Drama",
+      "episode_description": "Gerluce Maria das Graças integra uma família de mães solo: é filha de Lígia Maria e mãe de Joélly Maria. Criada pela mãe, que engravidou na adolescência e foi abandonada pelo seu pai, Gerluce enfrenta um destino parecido com a chegada da filha.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tres-gracas_l_m.jpg",
+      "end_time": "05:50"
+    },
+    {
+      "start_time": "05:50",
+      "show_name": "Três Graças",
+      "show_category": "Drama",
+      "episode_description": "Gerluce Maria das Graças integra uma família de mães solo: é filha de Lígia Maria e mãe de Joélly Maria. Criada pela mãe, que engravidou na adolescência e foi abandonada pelo seu pai, Gerluce enfrenta um destino parecido com a chegada da filha.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tres-gracas_l_m.jpg",
+      "end_time": "06:55"
+    },
+    {
+      "start_time": "06:55",
+      "show_name": "Big Brother Brasil",
+      "show_category": "Temporada 26 Episódio 11",
+      "episode_description": "Um grupo de pessoas topa ficar confinado em uma espaçosa casa cenográfica, sendo vigiado por câmeras 24 horas por dia. Sem receber informações do mundo exterior, eles disputam uma série de provas e dinâmicas em busca de um prêmio milionário.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_big-brother-brasil-s26e11_l_m.jpg",
+      "end_time": "06:55"
+    },
+    {
+      "start_time": "06:55",
+      "show_name": "Big Brother Brasil",
+      "show_category": "Temporada 26 Episódio 12",
+      "episode_description": "Um grupo de pessoas topa ficar confinado em uma espaçosa casa cenográfica, sendo vigiado por câmeras 24 horas por dia. Sem receber informações do mundo exterior, eles disputam uma série de provas e dinâmicas em busca de um prêmio milionário.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_big-brother-brasil-s26e12_l_m.jpg",
+      "end_time": "07:30"
+    },
+    {
+      "start_time": "07:30",
+      "show_name": "The Castaways - Isolados",
+      "show_category": "Drama",
+      "episode_description": "Erin vai para as Ilhas Fiji em busca de respostas quando o cartão de crédito de sua irmã desaparecida é usado em uma ilha remota no Pacífico.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-castaways-isolados_l_m.jpg",
+      "end_time": "07:55"
+    },
+    {
+      "start_time": "07:55",
+      "show_name": "Jornal da Globo",
+      "show_category": "News",
+      "episode_description": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-da-globo_l_m.jpg",
+      "end_time": "08:15"
+    },
+    {
+      "start_time": "08:15",
+      "show_name": "Jornal da Globo",
+      "show_category": "News",
+      "episode_description": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-da-globo_l_m.jpg",
+      "end_time": "08:45"
+    },
+    {
+      "start_time": "08:45",
+      "show_name": "Coração Acelerado",
+      "show_category": "Soap",
+      "episode_description": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_corac-o-acelerado_l_m.jpg",
+      "end_time": "09:05"
+    },
+    {
+      "start_time": "09:05",
+      "show_name": "Coração Acelerado",
+      "show_category": "Soap",
+      "episode_description": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\".",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_corac-o-acelerado_l_m.jpg",
+      "end_time": "09:30"
+    },
+    {
+      "start_time": "09:30",
+      "show_name": "Vai que Cola",
+      "show_category": "Comedy",
+      "episode_description": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-1_l_m.jpg",
+      "end_time": "09:50"
+    },
+    {
+      "start_time": "09:50",
+      "show_name": "Vai que Cola",
+      "show_category": "Comedy",
+      "episode_description": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-1_l_m.jpg",
+      "end_time": "10:15"
+    },
+    {
+      "start_time": "10:15",
+      "show_name": "Perlimps",
+      "show_category": "Adventure / 2022",
+      "episode_description": "A jornada de aventura e fantasia de Claé e Bruô, agentes secretos de reinos rivais. Eles precisam superar suas diferenças e unir forças para buscar os Perlimps, criaturas misteriosas capazes de encontrar um caminho para a paz em tempos de guerra.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_perlimps-2022_l_m.jpg",
+      "end_time": "10:35"
+    },
+    {
+      "start_time": "10:35",
+      "show_name": "Correndo Atrás",
+      "show_category": "Comedy / 2018",
+      "episode_description": "Ventania é um trabalhador que tenta mudar de vida. Ele faz vários bicos até que decide tentar a sorte como empresário de futebol. Na nova função, ele conhece Glanderson, um garoto pobre e deficiente físico que tem muito talento.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_correndo-atras-2018_l_m.jpg",
+      "end_time": "11:30"
+    },
+    {
+      "start_time": "11:30",
+      "show_name": "Galeria Futuro",
+      "show_category": "Comedy / 2021",
+      "episode_description": "Três amigos de infância trabalham como lojistas na Galeria Futuro, um centro comercial decadente e prestes a ser vendido. Com ajuda de uma manicure nova na área, eles criam um plano mirabolante para salvarem a galeria.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_galeria-futuro-2021_l_m.jpg",
+      "end_time": "11:55"
+    },
+    {
+      "start_time": "11:55",
+      "show_name": "Lucicreide Vai pra Marte",
+      "show_category": "Comedy / 2021 / 5.1",
+      "episode_description": "A sogra de Lucicreide é despejada e vai morar com ela. Abandonada pelo marido e sem condições de criar seus cinco filhos, ela deseja ir embora para bem longe. Por isso, Lucicreide aceita participar de uma missão que levará o primeiro homem a Marte.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lucicreide-vai-pra-marte-2021_l_m.jpg",
+      "end_time": "12:30"
+    },
+    {
+      "start_time": "12:30",
+      "show_name": "Hora 1",
+      "show_category": "News",
+      "episode_description": "Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hora-1_l_m.jpg",
+      "end_time": "13:20"
+    },
+    {
+      "start_time": "13:20",
+      "show_name": "Veneza",
+      "show_category": "Comedy drama / 2019",
+      "episode_description": "Reencontrar o único homem que amou é o sonho de Gringa, dona de um bordel no interior do Brasil. Mesmo cega e muito doente, ela insiste em realizar seu último desejo: ir até Veneza para pedir perdão ao amante que abandonou décadas atrás. Para levá-la à cidade italiana, Tonho, Rita e as outras moças que trabalham para Gringa idealizam um fantástico plano com a ajuda de uma trupe circense.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_veneza-2019_l_m.jpg",
+      "end_time": "14:30"
+    },
+    {
+      "start_time": "14:30",
+      "show_name": "Bom Dia PB",
+      "show_category": "News",
+      "episode_description": "Telejornal dinâmico que traz as notícias mais importantes da região para começar o dia.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bom-dia-pb_l_m.jpg",
+      "end_time": "14:30"
+    },
+    {
+      "start_time": "14:30",
+      "show_name": "Globo Rural",
+      "show_category": "Agriculture",
+      "episode_description": "Acompanhe as principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_globo-rural-1_l_m.jpg",
+      "end_time": "15:20"
+    },
+    {
+      "start_time": "15:20",
+      "show_name": "Bom Dia Sábado",
+      "show_category": "News",
+      "episode_description": "As principais notícias do Brasil para começar o final de semana bem-informado.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bom-dia-sabado_l_m.jpg",
+      "end_time": "16:20"
+    },
+    {
+      "start_time": "16:20",
+      "show_name": "Pequenas Empresas & Grandes Negócios",
+      "show_category": "Bus./financial",
+      "episode_description": "Informações e reportagens de grande interesse para empreendedores, pequenos e médios empresários.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pequenas-empresas-grandes-negocios-2_l_m.jpg",
+      "end_time": "17:00"
+    },
+    {
+      "start_time": "17:00",
+      "show_name": "Bom Dia Brasil",
+      "show_category": "News",
+      "episode_description": "Acompanhe as principais notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bom-dia-brasil-1_l_m.jpg",
+      "end_time": "17:00"
+    },
+    {
+      "start_time": "17:00",
+      "show_name": "É de Casa",
+      "show_category": "Home improvement",
+      "episode_description": "A equipe do programa discute e comenta assuntos que são comuns a todas as famílias. O que está sendo falado na imprensa, o que se fala nas ruas e, é claro, dentro de casa.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_e-de-casa-1_l_m.jpg",
+      "end_time": "18:00"
+    },
+    {
+      "start_time": "18:00",
+      "show_name": "Encontro com Patrícia Poeta",
+      "show_category": "Entertainment",
+      "episode_description": "O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jornalistas e convidados especiais, os assuntos são abordados em um formato de bate-papo.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_encontro-com-patricia-poeta_l_m.jpg",
+      "end_time": "19:05"
+    },
+    {
+      "start_time": "19:05",
+      "show_name": "Mais Você",
+      "show_category": "Talk",
+      "episode_description": "Com ótimo humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mais-voce-1_l_m.jpg",
+      "end_time": "20:15"
+    },
+    {
+      "start_time": "20:15",
+      "show_name": "JPB1",
+      "show_category": "News",
+      "episode_description": "Acompanhe os acontecimentos do dia a dia e os debates entre a população e as autoridades.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jpb1_l_m.jpg",
+      "end_time": "20:15"
+    },
+    {
+      "start_time": "20:15",
+      "show_name": "JPB1",
+      "show_category": "News",
+      "episode_description": "Acompanhe os acontecimentos do dia a dia e os debates entre a população e as autoridades.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jpb1_l_m.jpg",
+      "end_time": "21:30"
+    },
+    {
+      "start_time": "21:30",
+      "show_name": "Globo Esporte PB",
+      "show_category": "",
+      "episode_description": "Os principais acontecimentos esportivos notícia na Paraíba, no Brasil e no mundo.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_news-globo-esporte-pb_l_m.jpg",
+      "end_time": "21:30"
+    },
+    {
+      "start_time": "21:30",
+      "show_name": "Globo Esporte PB",
+      "show_category": "",
+      "episode_description": "Os principais acontecimentos esportivos notícia na Paraíba, no Brasil e no mundo.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_news-globo-esporte-pb_l_m.jpg",
+      "end_time": "21:55"
+    },
+    {
+      "start_time": "21:55",
+      "show_name": "Jornal Hoje",
+      "show_category": "News",
+      "episode_description": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-hoje-1_l_m.jpg",
+      "end_time": "21:55"
+    },
+    {
+      "start_time": "21:55",
+      "show_name": "Jornal Hoje",
+      "show_category": "News",
+      "episode_description": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-hoje-1_l_m.jpg",
+      "end_time": "22:40"
+    },
+    {
+      "start_time": "22:40",
+      "show_name": "Terra Nostra - Edição Especial",
+      "show_category": "Soap",
+      "episode_description": "Uma parte da história da formação da sociedade brasileira do início do século XX é contada a partir do romance de dois jovens italianos, Giuliana e Matteo. Eles se conhecem em 1894 a bordo do navio que transporta imigrantes para trabalhar no Brasil.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_terra-nostra-edic-o-especial_l_m.jpg",
+      "end_time": "23:00"
+    },
+    {
+      "start_time": "23:00",
+      "show_name": "Minha Paraíba",
+      "show_category": "Community",
+      "episode_description": "O público envia as histórias reais de paraibanos e paraibanas que fazem a diferença, valorizam suas origens ou simplesmente representam o orgulho de ser da Paraíba.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_minha-paraiba_l_m.jpg",
+      "end_time": "23:15"
+    },
+    {
+      "start_time": "23:15",
+      "show_name": "Terra Nostra - Edição Especial",
+      "show_category": "Soap",
+      "episode_description": "Uma parte da história da formação da sociedade brasileira do início do século XX é contada a partir do romance de dois jovens italianos, Giuliana e Matteo. Eles se conhecem em 1894 a bordo do navio que transporta imigrantes para trabalhar no Brasil.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_terra-nostra-edic-o-especial_l_m.jpg",
+      "end_time": "23:45"
+    },
+    {
+      "start_time": "23:45",
+      "show_name": "Nossa Música",
+      "show_category": "Music",
+      "episode_description": "Uma homenagem à força e diversidade musical do Nordeste. Em uma sequência de shows incríveis, a Rede Paraíba apresenta artistas consagrados e promissores que têm feito história na música brasileira.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_nossa-musica_l_m.jpg",
+      "end_time": "23:59"
     }
   ]
 }

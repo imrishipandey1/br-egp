@@ -3,268 +3,532 @@
   "date": "23/01/2026",
   "schedule": [
     {
-      "show_name": "Predadores Africanos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_predadores-africanos-1_l_m.jpg",
-      "show_category": "Animals",
       "start_time": "00:00",
-      "end_time": "00:45",
-      "episode_description": "A evolução é uma corrida mortal, onde determinadas espécies tornam-se ainda mais mortíferas. Imagens surpreendentes das criaturas mais perigosas do continente em ação."
+      "show_name": "Predadores Africanos",
+      "show_category": "Animals",
+      "episode_description": "A evolução é uma corrida mortal, onde determinadas espécies tornam-se ainda mais mortíferas. Imagens surpreendentes das criaturas mais perigosas do continente em ação.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_predadores-africanos-1_l_m.jpg",
+      "end_time": "00:00"
     },
     {
-      "show_name": "SOS Cobra",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sos-cobra_l_m.jpg",
-      "show_category": "Reality",
+      "start_time": "00:00",
+      "show_name": "Predadores Africanos",
+      "show_category": "Animals",
+      "episode_description": "A evolução é uma corrida mortal, onde determinadas espécies tornam-se ainda mais mortíferas. Imagens surpreendentes das criaturas mais perigosas do continente em ação.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_predadores-africanos-1_l_m.jpg",
+      "end_time": "00:30"
+    },
+    {
       "start_time": "00:45",
-      "end_time": "01:50",
-      "episode_description": "A cidade de Durban, África do Sul, é conhecida por suas praias, clima ameno e cobras. Acompanhe Simon e Nadine que estão sempre prontos para atender chamados desesperados de moradores que encontram serpentes venenosas ao redor de suas casas."
+      "show_name": "SOS Cobra",
+      "show_category": "Reality",
+      "episode_description": "A cidade de Durban, África do Sul, é conhecida por suas praias, clima ameno e cobras. Acompanhe Simon e Nadine que estão sempre prontos para atender chamados desesperados de moradores que encontram serpentes venenosas ao redor de suas casas.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sos-cobra_l_m.jpg",
+      "end_time": "00:45"
     },
     {
-      "show_name": "Mayday! Desastres Aéreos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_mayday-desastres-aereos-1_l_m.jpg",
-      "show_category": "Documentary",
+      "start_time": "00:45",
+      "show_name": "SOS Cobra",
+      "show_category": "Reality",
+      "episode_description": "A cidade de Durban, África do Sul, é conhecida por suas praias, clima ameno e cobras. Acompanhe Simon e Nadine que estão sempre prontos para atender chamados desesperados de moradores que encontram serpentes venenosas ao redor de suas casas.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sos-cobra_l_m.jpg",
+      "end_time": "01:30"
+    },
+    {
       "start_time": "01:50",
-      "end_time": "02:45",
-      "episode_description": "Acidentes catastróficos da história da aviação são meticulosamente encenados, fornecendo informações sobre o que deu errado e se os acidentes poderiam ter sido evitados."
+      "show_name": "Mayday! Desastres Aéreos",
+      "show_category": "Documentary",
+      "episode_description": "Acidentes catastróficos da história da aviação são meticulosamente encenados, fornecendo informações sobre o que deu errado e se os acidentes poderiam ter sido evitados.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mayday-desastres-aereos-1_l_m.jpg",
+      "end_time": "01:50"
     },
     {
-      "show_name": "Brasil Selvagem",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_brasil-selvagem-1_l_m.jpg",
-      "show_category": "Nature",
+      "start_time": "01:50",
+      "show_name": "Mayday! Desastres Aéreos",
+      "show_category": "Documentary",
+      "episode_description": "Acidentes catastróficos da história da aviação são meticulosamente encenados, fornecendo informações sobre o que deu errado e se os acidentes poderiam ter sido evitados.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mayday-desastres-aereos-1_l_m.jpg",
+      "end_time": "02:30"
+    },
+    {
       "start_time": "02:45",
-      "end_time": "03:40",
-      "episode_description": "Aventure-se nos exuberantes limites dos maiores brasileiros, que hospedam uma variedade de criaturas incomuns com hábitos igualmente estranhos."
+      "show_name": "Brasil Selvagem",
+      "show_category": "Nature",
+      "episode_description": "Aventure-se nos exuberantes limites dos maiores brasileiros, que hospedam uma variedade de criaturas incomuns com hábitos igualmente estranhos.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_brasil-selvagem-1_l_m.jpg",
+      "end_time": "02:45"
     },
     {
-      "show_name": "Filme",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_filme-1_l_m.jpg",
-      "show_category": "Variety",
+      "start_time": "02:45",
+      "show_name": "Planeta Selvagem - Argentina",
+      "show_category": "Documentary",
+      "episode_description": "Conheça a Argentina e seu rico ecossistema quase intocado, bem como suas regiões isoladas.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_planeta-selvagem-argentina_l_m.jpg",
+      "end_time": "03:30"
+    },
+    {
       "start_time": "03:40",
-      "end_time": "05:30",
-      "episode_description": "Acompanhe uma produção cinematográfica."
+      "show_name": "Filme",
+      "show_category": "Variety",
+      "episode_description": "Acompanhe uma produção cinematográfica.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_filme-1_l_m.jpg",
+      "end_time": "03:40"
     },
     {
-      "show_name": "Sabores Extremos com Gordon Ramsay",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabores-extremos-com-gordon-ramsay_l_m.jpg",
+      "start_time": "03:40",
+      "show_name": "Aeroporto - Peru",
       "show_category": "Reality",
+      "episode_description": "No Aeroporto Jorge Chávez, situado em Lima, Peru, tudo pode acontecer. A polícia antidrogas deve detectar bagagens alteradas que escondem narcóticos, carregamentos ilegais mascarados e mulas que se arriscam para transportar drogas.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aeroporto-peru_l_m.jpg",
+      "end_time": "04:30"
+    },
+    {
+      "start_time": "04:45",
+      "show_name": "Aeroporto - Peru",
+      "show_category": "Reality",
+      "episode_description": "No Aeroporto Jorge Chávez, situado em Lima, Peru, tudo pode acontecer. A polícia antidrogas deve detectar bagagens alteradas que escondem narcóticos, carregamentos ilegais mascarados e mulas que se arriscam para transportar drogas.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aeroporto-peru_l_m.jpg",
+      "end_time": "05:30"
+    },
+    {
       "start_time": "05:30",
-      "end_time": "06:30",
-      "episode_description": "Gordon faz expedições para explorar os diferentes sabores e lugares que o mundo tem a oferecer."
+      "show_name": "Sabores Extremos com Gordon Ramsay",
+      "show_category": "Reality",
+      "episode_description": "Gordon faz expedições para explorar os diferentes sabores e lugares que o mundo tem a oferecer.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabores-extremos-com-gordon-ramsay_l_m.jpg",
+      "end_time": "05:30"
     },
     {
-      "show_name": "Sabores Extremos com Gordon Ramsay",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabores-extremos-com-gordon-ramsay_l_m.jpg",
+      "start_time": "05:30",
+      "show_name": "Ilhados no Alasca",
       "show_category": "Reality",
+      "episode_description": "Rodeada pelo Pacífico Norte, Port Protection é uma comunidade situada no Alasca. Os poucos habitantes que a chamam de lar, vivem no limite da sobrevivência.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ilhados-no-alasca_l_m.jpg",
+      "end_time": "05:30"
+    },
+    {
       "start_time": "06:30",
-      "end_time": "07:25",
-      "episode_description": "Gordon faz expedições para explorar os diferentes sabores e lugares que o mundo tem a oferecer."
-    },
-    {
-      "show_name": "A Fábrica de Comidas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-fabrica-de-comidas-1_l_m.jpg",
-      "show_category": "Consumer",
-      "start_time": "07:25",
-      "end_time": "07:55",
-      "episode_description": "Dos ingredientes mais básicos ao produto final, conheça a produção de diferentes alimentos."
-    },
-    {
-      "show_name": "A Fábrica de Comidas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-fabrica-de-comidas-1_l_m.jpg",
-      "show_category": "Consumer",
-      "start_time": "07:55",
-      "end_time": "08:20",
-      "episode_description": "Dos ingredientes mais básicos ao produto final, conheça a produção de diferentes alimentos."
-    },
-    {
-      "show_name": "Mulheres da Alemanha Nazista",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_mulheres-da-alemanha-nazista_l_m.jpg",
-      "show_category": "Special",
-      "start_time": "08:20",
-      "end_time": "09:20",
-      "episode_description": "Assista a uma investigação histórica e psicológica sobre as milhões de mulheres leais e fanáticas que eram membros titulares do Partido Nazista e o papel crucial que desempenharam no sistema nazista."
-    },
-    {
-      "show_name": "Mulheres da Alemanha Nazista",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_mulheres-da-alemanha-nazista_l_m.jpg",
-      "show_category": "Special",
-      "start_time": "09:20",
-      "end_time": "10:20",
-      "episode_description": "Assista a uma investigação histórica e psicológica sobre as milhões de mulheres leais e fanáticas que eram membros titulares do Partido Nazista e o papel crucial que desempenharam no sistema nazista."
-    },
-    {
-      "show_name": "Mayday! Desastres Aéreos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_mayday-desastres-aereos-1_l_m.jpg",
+      "show_name": "Especial de Mayday! Desastres Aéreos",
       "show_category": "Documentary",
-      "start_time": "10:20",
-      "end_time": "11:10",
-      "episode_description": "Acidentes catastróficos da história da aviação são meticulosamente encenados, fornecendo informações sobre o que deu errado e se os acidentes poderiam ter sido evitados."
+      "episode_description": "Acidentes catastróficos da história da aviação são meticulosamente encenados, fornecendo informações sobre o que deu errado e se os acidentes poderiam ter sido evitados.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_especial-de-mayday-desastres-aereos_l_m.jpg",
+      "end_time": "06:30"
     },
     {
-      "show_name": "Cidades Desvendadas com Albert Lin",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidades-desvendadas-com-albert-lin_l_m.jpg",
-      "show_category": "Documentary",
-      "start_time": "11:10",
-      "end_time": "11:55",
-      "episode_description": "Albert Lin parte em uma jornada até os confins da Terra. Ele desvenda as camadas do tempo e revela antigas cidades perdidas usando tecnologia."
-    },
-    {
-      "show_name": "Sobrevivente Primitivo com Hazen Audel",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sobrevivente-primitivo-com-hazen-audel_l_m.jpg",
-      "show_category": "Documentary",
-      "start_time": "11:55",
-      "end_time": "12:40",
-      "episode_description": "Hazen Audel viaja por alguns dos locais mais extremos do planeta em desafios solitários que o levam ao limite de seu conhecimento, resistência e habilidades. Para ter sucesso, ele conta com as antigas técnicas de povos indígenas."
-    },
-    {
-      "show_name": "Aeroporto - Madri",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_aeroporto-madri_l_m.jpg",
-      "show_category": "Reality",
-      "start_time": "12:40",
-      "end_time": "13:25",
-      "episode_description": "Saiba mais sobre os crimes no aeroporto Madrid-Barajas, com 40 voos por hora e 129 mil passageiros por dia. Uma equipe especializada da Polícia Nacional protege o aeroporto de imigração ilegal, tráfico de pessoas e tráfico de narcóticos."
-    },
-    {
-      "show_name": "Aeroporto - Madri",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_aeroporto-madri_l_m.jpg",
-      "show_category": "Reality",
-      "start_time": "13:25",
-      "end_time": "14:05",
-      "episode_description": "Saiba mais sobre os crimes no aeroporto Madrid-Barajas, com 40 voos por hora e 129 mil passageiros por dia. Uma equipe especializada da Polícia Nacional protege o aeroporto de imigração ilegal, tráfico de pessoas e tráfico de narcóticos."
-    },
-    {
-      "show_name": "A Fábrica de Comidas: Estados Unidos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-fabrica-de-comidas-estados-unidos_l_m.jpg",
-      "show_category": "Documentary",
-      "start_time": "14:05",
-      "end_time": "14:30",
-      "episode_description": "Saiba mais sobre os ingredientes e técnicas usados para produzir alimentos populares em várias fábricas de alimentos nos Estados Unidos da América."
-    },
-    {
-      "show_name": "A Fábrica de Comidas: Estados Unidos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-fabrica-de-comidas-estados-unidos_l_m.jpg",
-      "show_category": "Documentary",
-      "start_time": "14:30",
-      "end_time": "14:50",
-      "episode_description": "Saiba mais sobre os ingredientes e técnicas usados para produzir alimentos populares em várias fábricas de alimentos nos Estados Unidos da América."
-    },
-    {
-      "show_name": "A Fábrica de Comidas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-fabrica-de-comidas-1_l_m.jpg",
-      "show_category": "Consumer",
-      "start_time": "14:50",
-      "end_time": "15:10",
-      "episode_description": "Dos ingredientes mais básicos ao produto final, conheça a produção de diferentes alimentos."
-    },
-    {
-      "show_name": "Eco-Eye - Soluções Sustentáveis",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_eco-eye-soluc-es-sustentaveis_l_m.jpg",
-      "show_category": "Environment",
-      "start_time": "15:10",
-      "end_time": "15:30",
-      "episode_description": "Fique por dentro das questões ambientais críticas que impactam todo o mundo."
-    },
-    {
-      "show_name": "Eco-Eye - Soluções Sustentáveis",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_eco-eye-soluc-es-sustentaveis_l_m.jpg",
-      "show_category": "Environment",
-      "start_time": "15:30",
-      "end_time": "15:55",
-      "episode_description": "Fique por dentro das questões ambientais críticas que impactam todo o mundo."
-    },
-    {
-      "show_name": "Eco-Eye - Soluções Sustentáveis",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_eco-eye-soluc-es-sustentaveis_l_m.jpg",
-      "show_category": "Environment",
-      "start_time": "15:55",
-      "end_time": "16:20",
-      "episode_description": "Fique por dentro das questões ambientais críticas que impactam todo o mundo."
-    },
-    {
-      "show_name": "Eco-Eye - Soluções Sustentáveis",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_eco-eye-soluc-es-sustentaveis_l_m.jpg",
-      "show_category": "Environment",
-      "start_time": "16:20",
-      "end_time": "16:45",
-      "episode_description": "Fique por dentro das questões ambientais críticas que impactam todo o mundo."
-    },
-    {
-      "show_name": "A Fábrica de Comidas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-fabrica-de-comidas-1_l_m.jpg",
-      "show_category": "Consumer",
-      "start_time": "16:45",
-      "end_time": "17:10",
-      "episode_description": "Dos ingredientes mais básicos ao produto final, conheça a produção de diferentes alimentos."
-    },
-    {
-      "show_name": "A Fábrica de Comidas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-fabrica-de-comidas-1_l_m.jpg",
-      "show_category": "Consumer",
-      "start_time": "17:10",
-      "end_time": "17:40",
-      "episode_description": "Dos ingredientes mais básicos ao produto final, conheça a produção de diferentes alimentos."
-    },
-    {
-      "show_name": "A Fábrica de Comidas: Estados Unidos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-fabrica-de-comidas-estados-unidos_l_m.jpg",
-      "show_category": "Documentary",
-      "start_time": "17:40",
-      "end_time": "18:05",
-      "episode_description": "Saiba mais sobre os ingredientes e técnicas usados para produzir alimentos populares em várias fábricas de alimentos nos Estados Unidos da América."
-    },
-    {
-      "show_name": "A Fábrica de Comidas: Estados Unidos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-fabrica-de-comidas-estados-unidos_l_m.jpg",
-      "show_category": "Documentary",
-      "start_time": "18:05",
-      "end_time": "18:30",
-      "episode_description": "Saiba mais sobre os ingredientes e técnicas usados para produzir alimentos populares em várias fábricas de alimentos nos Estados Unidos da América."
-    },
-    {
+      "start_time": "06:30",
       "show_name": "Sabores Extremos com Gordon Ramsay",
+      "show_category": "Reality",
+      "episode_description": "Gordon faz expedições para explorar os diferentes sabores e lugares que o mundo tem a oferecer.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sabores-extremos-com-gordon-ramsay_l_m.jpg",
-      "show_category": "Reality",
-      "start_time": "18:30",
-      "end_time": "19:30",
-      "episode_description": "Gordon faz expedições para explorar os diferentes sabores e lugares que o mundo tem a oferecer."
+      "end_time": "06:30"
     },
     {
+      "start_time": "07:25",
       "show_name": "Mayday! Desastres Aéreos",
+      "show_category": "Documentary",
+      "episode_description": "Acidentes catastróficos da história da aviação são meticulosamente encenados, fornecendo informações sobre o que deu errado e se os acidentes poderiam ter sido evitados.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_mayday-desastres-aereos-1_l_m.jpg",
+      "end_time": "07:25"
+    },
+    {
+      "start_time": "07:25",
+      "show_name": "A Fábrica de Comidas",
+      "show_category": "Consumer",
+      "episode_description": "Dos ingredientes mais básicos ao produto final, conheça a produção de diferentes alimentos.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-fabrica-de-comidas-1_l_m.jpg",
+      "end_time": "07:25"
+    },
+    {
+      "start_time": "07:55",
+      "show_name": "A Fábrica de Comidas",
+      "show_category": "Consumer",
+      "episode_description": "Dos ingredientes mais básicos ao produto final, conheça a produção de diferentes alimentos.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-fabrica-de-comidas-1_l_m.jpg",
+      "end_time": "08:20"
+    },
+    {
+      "start_time": "08:20",
+      "show_name": "Inferno Submerso",
       "show_category": "Documentary",
-      "start_time": "19:30",
-      "end_time": "20:25",
-      "episode_description": "Acidentes catastróficos da história da aviação são meticulosamente encenados, fornecendo informações sobre o que deu errado e se os acidentes poderiam ter sido evitados."
+      "episode_description": "Conheça alguns dos melhores submarinos da 2ª Guerra Mundial e as batalhas que eles travaram.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_inferno-submerso_l_m.jpg",
+      "end_time": "08:20"
     },
     {
-      "show_name": "Aeroporto - Roma",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_aeroporto-roma_l_m.jpg",
+      "start_time": "08:20",
+      "show_name": "Mulheres da Alemanha Nazista",
+      "show_category": "Special",
+      "episode_description": "Assista a uma investigação histórica e psicológica sobre as milhões de mulheres leais e fanáticas que eram membros titulares do Partido Nazista e o papel crucial que desempenharam no sistema nazista.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mulheres-da-alemanha-nazista_l_m.jpg",
+      "end_time": "08:20"
+    },
+    {
+      "start_time": "09:20",
+      "show_name": "Inferno Submerso",
       "show_category": "Documentary",
-      "start_time": "20:25",
-      "end_time": "21:15",
-      "episode_description": "Um registro da luta contra o crime organizado no continente europeu, em um de seus terminais aéreos mais movimentados: o Aeroporto Internacional Leonardo da Vinci, Roma."
+      "episode_description": "Conheça alguns dos melhores submarinos da 2ª Guerra Mundial e as batalhas que eles travaram.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_inferno-submerso_l_m.jpg",
+      "end_time": "09:20"
     },
     {
-      "show_name": "Sobrevivendo Abaixo de Zero - Sabedoria Nativa",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sobrevivendo-abaixo-de-zero-sabedoria-nativa_l_m.jpg",
-      "show_category": "Reality",
-      "start_time": "21:15",
-      "end_time": "22:10",
-      "episode_description": "No Alasca, povos indígenas devem enfrentar o clima e todos os tipos de desafios enquanto lutam para cuidar de suas terras ancestrais."
+      "start_time": "09:20",
+      "show_name": "Mulheres da Alemanha Nazista",
+      "show_category": "Special",
+      "episode_description": "Assista a uma investigação histórica e psicológica sobre as milhões de mulheres leais e fanáticas que eram membros titulares do Partido Nazista e o papel crucial que desempenharam no sistema nazista.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mulheres-da-alemanha-nazista_l_m.jpg",
+      "end_time": "09:20"
     },
     {
-      "show_name": "Celebridades à Prova de Tudo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_celebridades-a-prova-de-tudo_l_m.jpg",
-      "show_category": "Reality",
-      "start_time": "22:10",
-      "end_time": "23:05",
-      "episode_description": "Bear Grylls, o aventureiro global e renomado especialista em sobrevivência, leva uma celebridade para um inesquecível fim de semana de aventura na natureza. Os convidados incluem Ben Stiller, Channing Tatum, Zac Efron, Kate Hudson e Kate Winslet."
+      "start_time": "10:20",
+      "show_name": "Mayday! Desastres Aéreos",
+      "show_category": "Documentary",
+      "episode_description": "Acidentes catastróficos da história da aviação são meticulosamente encenados, fornecendo informações sobre o que deu errado e se os acidentes poderiam ter sido evitados.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mayday-desastres-aereos-1_l_m.jpg",
+      "end_time": "10:20"
     },
     {
+      "start_time": "10:20",
+      "show_name": "Mayday! Desastres Aéreos",
+      "show_category": "Documentary",
+      "episode_description": "Acidentes catastróficos da história da aviação são meticulosamente encenados, fornecendo informações sobre o que deu errado e se os acidentes poderiam ter sido evitados.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mayday-desastres-aereos-1_l_m.jpg",
+      "end_time": "10:20"
+    },
+    {
+      "start_time": "11:10",
+      "show_name": "Cidades Desvendadas com Albert Lin",
+      "show_category": "Documentary",
+      "episode_description": "Albert Lin parte em uma jornada até os confins da Terra. Ele desvenda as camadas do tempo e revela antigas cidades perdidas usando tecnologia.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidades-desvendadas-com-albert-lin_l_m.jpg",
+      "end_time": "11:10"
+    },
+    {
+      "start_time": "11:10",
+      "show_name": "Cidades Desvendadas com Albert Lin",
+      "show_category": "Documentary",
+      "episode_description": "Albert Lin parte em uma jornada até os confins da Terra. Ele desvenda as camadas do tempo e revela antigas cidades perdidas usando tecnologia.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidades-desvendadas-com-albert-lin_l_m.jpg",
+      "end_time": "11:10"
+    },
+    {
+      "start_time": "11:55",
       "show_name": "Sobrevivente Primitivo com Hazen Audel",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sobrevivente-primitivo-com-hazen-audel_l_m.jpg",
       "show_category": "Documentary",
+      "episode_description": "Hazen Audel viaja por alguns dos locais mais extremos do planeta em desafios solitários que o levam ao limite de seu conhecimento, resistência e habilidades. Para ter sucesso, ele conta com as antigas técnicas de povos indígenas.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sobrevivente-primitivo-com-hazen-audel_l_m.jpg",
+      "end_time": "11:55"
+    },
+    {
+      "start_time": "11:55",
+      "show_name": "Sobrevivente Primitivo com Hazen Audel",
+      "show_category": "Documentary",
+      "episode_description": "Hazen Audel viaja por alguns dos locais mais extremos do planeta em desafios solitários que o levam ao limite de seu conhecimento, resistência e habilidades. Para ter sucesso, ele conta com as antigas técnicas de povos indígenas.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sobrevivente-primitivo-com-hazen-audel_l_m.jpg",
+      "end_time": "11:55"
+    },
+    {
+      "start_time": "12:40",
+      "show_name": "Aeroporto - Madri",
+      "show_category": "Reality",
+      "episode_description": "Saiba mais sobre os crimes no aeroporto Madrid-Barajas, com 40 voos por hora e 129 mil passageiros por dia. Uma equipe especializada da Polícia Nacional protege o aeroporto de imigração ilegal, tráfico de pessoas e tráfico de narcóticos.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aeroporto-madri_l_m.jpg",
+      "end_time": "12:40"
+    },
+    {
+      "start_time": "12:40",
+      "show_name": "Aeroporto - Madri",
+      "show_category": "Reality",
+      "episode_description": "Saiba mais sobre os crimes no aeroporto Madrid-Barajas, com 40 voos por hora e 129 mil passageiros por dia. Uma equipe especializada da Polícia Nacional protege o aeroporto de imigração ilegal, tráfico de pessoas e tráfico de narcóticos.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aeroporto-madri_l_m.jpg",
+      "end_time": "12:40"
+    },
+    {
+      "start_time": "13:25",
+      "show_name": "Aeroporto - Madri",
+      "show_category": "Reality",
+      "episode_description": "Saiba mais sobre os crimes no aeroporto Madrid-Barajas, com 40 voos por hora e 129 mil passageiros por dia. Uma equipe especializada da Polícia Nacional protege o aeroporto de imigração ilegal, tráfico de pessoas e tráfico de narcóticos.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aeroporto-madri_l_m.jpg",
+      "end_time": "13:25"
+    },
+    {
+      "start_time": "13:25",
+      "show_name": "Aeroporto - Madri",
+      "show_category": "Reality",
+      "episode_description": "Saiba mais sobre os crimes no aeroporto Madrid-Barajas, com 40 voos por hora e 129 mil passageiros por dia. Uma equipe especializada da Polícia Nacional protege o aeroporto de imigração ilegal, tráfico de pessoas e tráfico de narcóticos.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aeroporto-madri_l_m.jpg",
+      "end_time": "13:25"
+    },
+    {
+      "start_time": "14:05",
+      "show_name": "A Fábrica de Comidas: Estados Unidos",
+      "show_category": "Documentary",
+      "episode_description": "Saiba mais sobre os ingredientes e técnicas usados para produzir alimentos populares em várias fábricas de alimentos nos Estados Unidos da América.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-fabrica-de-comidas-estados-unidos_l_m.jpg",
+      "end_time": "14:05"
+    },
+    {
+      "start_time": "14:05",
+      "show_name": "A Fábrica de Comidas: Estados Unidos",
+      "show_category": "Documentary",
+      "episode_description": "Saiba mais sobre os ingredientes e técnicas usados para produzir alimentos populares em várias fábricas de alimentos nos Estados Unidos da América.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-fabrica-de-comidas-estados-unidos_l_m.jpg",
+      "end_time": "14:05"
+    },
+    {
+      "start_time": "14:30",
+      "show_name": "A Fábrica de Comidas: Estados Unidos",
+      "show_category": "Documentary",
+      "episode_description": "Saiba mais sobre os ingredientes e técnicas usados para produzir alimentos populares em várias fábricas de alimentos nos Estados Unidos da América.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-fabrica-de-comidas-estados-unidos_l_m.jpg",
+      "end_time": "14:30"
+    },
+    {
+      "start_time": "14:30",
+      "show_name": "A Fábrica de Comidas: Estados Unidos",
+      "show_category": "Documentary",
+      "episode_description": "Saiba mais sobre os ingredientes e técnicas usados para produzir alimentos populares em várias fábricas de alimentos nos Estados Unidos da América.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-fabrica-de-comidas-estados-unidos_l_m.jpg",
+      "end_time": "14:30"
+    },
+    {
+      "start_time": "14:50",
+      "show_name": "A Fábrica de Comidas",
+      "show_category": "Consumer",
+      "episode_description": "Dos ingredientes mais básicos ao produto final, conheça a produção de diferentes alimentos.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-fabrica-de-comidas-1_l_m.jpg",
+      "end_time": "14:50"
+    },
+    {
+      "start_time": "14:50",
+      "show_name": "A Fábrica de Comidas",
+      "show_category": "Consumer",
+      "episode_description": "Dos ingredientes mais básicos ao produto final, conheça a produção de diferentes alimentos.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-fabrica-de-comidas-1_l_m.jpg",
+      "end_time": "14:50"
+    },
+    {
+      "start_time": "15:10",
+      "show_name": "Eco-Eye - Soluções Sustentáveis",
+      "show_category": "Environment",
+      "episode_description": "Fique por dentro das questões ambientais críticas que impactam todo o mundo.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_eco-eye-soluc-es-sustentaveis_l_m.jpg",
+      "end_time": "15:10"
+    },
+    {
+      "start_time": "15:10",
+      "show_name": "Eco-Eye - Soluções Sustentáveis",
+      "show_category": "Environment",
+      "episode_description": "Fique por dentro das questões ambientais críticas que impactam todo o mundo.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_eco-eye-soluc-es-sustentaveis_l_m.jpg",
+      "end_time": "15:10"
+    },
+    {
+      "start_time": "15:30",
+      "show_name": "Eco-Eye - Soluções Sustentáveis",
+      "show_category": "Environment",
+      "episode_description": "Fique por dentro das questões ambientais críticas que impactam todo o mundo.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_eco-eye-soluc-es-sustentaveis_l_m.jpg",
+      "end_time": "15:30"
+    },
+    {
+      "start_time": "15:30",
+      "show_name": "Eco-Eye - Soluções Sustentáveis",
+      "show_category": "Environment",
+      "episode_description": "Fique por dentro das questões ambientais críticas que impactam todo o mundo.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_eco-eye-soluc-es-sustentaveis_l_m.jpg",
+      "end_time": "15:30"
+    },
+    {
+      "start_time": "15:55",
+      "show_name": "Eco-Eye - Soluções Sustentáveis",
+      "show_category": "Environment",
+      "episode_description": "Fique por dentro das questões ambientais críticas que impactam todo o mundo.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_eco-eye-soluc-es-sustentaveis_l_m.jpg",
+      "end_time": "15:55"
+    },
+    {
+      "start_time": "15:55",
+      "show_name": "Eco-Eye - Soluções Sustentáveis",
+      "show_category": "Environment",
+      "episode_description": "Fique por dentro das questões ambientais críticas que impactam todo o mundo.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_eco-eye-soluc-es-sustentaveis_l_m.jpg",
+      "end_time": "15:55"
+    },
+    {
+      "start_time": "16:20",
+      "show_name": "Eco-Eye - Soluções Sustentáveis",
+      "show_category": "Environment",
+      "episode_description": "Fique por dentro das questões ambientais críticas que impactam todo o mundo.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_eco-eye-soluc-es-sustentaveis_l_m.jpg",
+      "end_time": "16:20"
+    },
+    {
+      "start_time": "16:20",
+      "show_name": "Eco-Eye - Soluções Sustentáveis",
+      "show_category": "Environment",
+      "episode_description": "Fique por dentro das questões ambientais críticas que impactam todo o mundo.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_eco-eye-soluc-es-sustentaveis_l_m.jpg",
+      "end_time": "16:20"
+    },
+    {
+      "start_time": "16:45",
+      "show_name": "A Fábrica de Comidas",
+      "show_category": "Consumer",
+      "episode_description": "Dos ingredientes mais básicos ao produto final, conheça a produção de diferentes alimentos.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-fabrica-de-comidas-1_l_m.jpg",
+      "end_time": "16:45"
+    },
+    {
+      "start_time": "16:45",
+      "show_name": "A Fábrica de Comidas",
+      "show_category": "Consumer",
+      "episode_description": "Dos ingredientes mais básicos ao produto final, conheça a produção de diferentes alimentos.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-fabrica-de-comidas-1_l_m.jpg",
+      "end_time": "16:45"
+    },
+    {
+      "start_time": "17:10",
+      "show_name": "A Fábrica de Comidas",
+      "show_category": "Consumer",
+      "episode_description": "Dos ingredientes mais básicos ao produto final, conheça a produção de diferentes alimentos.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-fabrica-de-comidas-1_l_m.jpg",
+      "end_time": "17:10"
+    },
+    {
+      "start_time": "17:10",
+      "show_name": "A Fábrica de Comidas",
+      "show_category": "Consumer",
+      "episode_description": "Dos ingredientes mais básicos ao produto final, conheça a produção de diferentes alimentos.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-fabrica-de-comidas-1_l_m.jpg",
+      "end_time": "17:10"
+    },
+    {
+      "start_time": "17:40",
+      "show_name": "A Fábrica de Comidas: Estados Unidos",
+      "show_category": "Documentary",
+      "episode_description": "Saiba mais sobre os ingredientes e técnicas usados para produzir alimentos populares em várias fábricas de alimentos nos Estados Unidos da América.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-fabrica-de-comidas-estados-unidos_l_m.jpg",
+      "end_time": "17:40"
+    },
+    {
+      "start_time": "17:40",
+      "show_name": "A Fábrica de Comidas: Estados Unidos",
+      "show_category": "Documentary",
+      "episode_description": "Saiba mais sobre os ingredientes e técnicas usados para produzir alimentos populares em várias fábricas de alimentos nos Estados Unidos da América.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-fabrica-de-comidas-estados-unidos_l_m.jpg",
+      "end_time": "17:40"
+    },
+    {
+      "start_time": "18:05",
+      "show_name": "A Fábrica de Comidas: Estados Unidos",
+      "show_category": "Documentary",
+      "episode_description": "Saiba mais sobre os ingredientes e técnicas usados para produzir alimentos populares em várias fábricas de alimentos nos Estados Unidos da América.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-fabrica-de-comidas-estados-unidos_l_m.jpg",
+      "end_time": "18:05"
+    },
+    {
+      "start_time": "18:05",
+      "show_name": "A Fábrica de Comidas: Estados Unidos",
+      "show_category": "Documentary",
+      "episode_description": "Saiba mais sobre os ingredientes e técnicas usados para produzir alimentos populares em várias fábricas de alimentos nos Estados Unidos da América.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-fabrica-de-comidas-estados-unidos_l_m.jpg",
+      "end_time": "18:05"
+    },
+    {
+      "start_time": "18:30",
+      "show_name": "Sabores Extremos com Gordon Ramsay",
+      "show_category": "Reality",
+      "episode_description": "Gordon faz expedições para explorar os diferentes sabores e lugares que o mundo tem a oferecer.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabores-extremos-com-gordon-ramsay_l_m.jpg",
+      "end_time": "18:30"
+    },
+    {
+      "start_time": "18:30",
+      "show_name": "Sabores Extremos com Gordon Ramsay",
+      "show_category": "Reality",
+      "episode_description": "Gordon faz expedições para explorar os diferentes sabores e lugares que o mundo tem a oferecer.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabores-extremos-com-gordon-ramsay_l_m.jpg",
+      "end_time": "19:05"
+    },
+    {
+      "start_time": "19:30",
+      "show_name": "Mayday! Desastres Aéreos",
+      "show_category": "Documentary",
+      "episode_description": "Acidentes catastróficos da história da aviação são meticulosamente encenados, fornecendo informações sobre o que deu errado e se os acidentes poderiam ter sido evitados.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mayday-desastres-aereos-1_l_m.jpg",
+      "end_time": "19:30"
+    },
+    {
+      "start_time": "19:30",
+      "show_name": "Mayday! Desastres Aéreos",
+      "show_category": "Documentary",
+      "episode_description": "Acidentes catastróficos da história da aviação são meticulosamente encenados, fornecendo informações sobre o que deu errado e se os acidentes poderiam ter sido evitados.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mayday-desastres-aereos-1_l_m.jpg",
+      "end_time": "20:00"
+    },
+    {
+      "start_time": "20:25",
+      "show_name": "Aeroporto - Roma",
+      "show_category": "Documentary",
+      "episode_description": "Um registro da luta contra o crime organizado no continente europeu, em um de seus terminais aéreos mais movimentados: o Aeroporto Internacional Leonardo da Vinci, Roma.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aeroporto-roma_l_m.jpg",
+      "end_time": "20:25"
+    },
+    {
+      "start_time": "20:25",
+      "show_name": "Aeroporto - Roma",
+      "show_category": "Documentary",
+      "episode_description": "Um registro da luta contra o crime organizado no continente europeu, em um de seus terminais aéreos mais movimentados: o Aeroporto Internacional Leonardo da Vinci, Roma.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aeroporto-roma_l_m.jpg",
+      "end_time": "21:15"
+    },
+    {
+      "start_time": "21:15",
+      "show_name": "Sobrevivendo Abaixo de Zero - Sabedoria Nativa",
+      "show_category": "Reality",
+      "episode_description": "No Alasca, povos indígenas devem enfrentar o clima e todos os tipos de desafios enquanto lutam para cuidar de suas terras ancestrais.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sobrevivendo-abaixo-de-zero-sabedoria-nativa_l_m.jpg",
+      "end_time": "21:15"
+    },
+    {
+      "start_time": "21:15",
+      "show_name": "Sobrevivendo Abaixo de Zero - Sabedoria Nativa",
+      "show_category": "Reality",
+      "episode_description": "No Alasca, povos indígenas devem enfrentar o clima e todos os tipos de desafios enquanto lutam para cuidar de suas terras ancestrais.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sobrevivendo-abaixo-de-zero-sabedoria-nativa_l_m.jpg",
+      "end_time": "21:45"
+    },
+    {
+      "start_time": "22:10",
+      "show_name": "Celebridades à Prova de Tudo",
+      "show_category": "Reality",
+      "episode_description": "Bear Grylls, o aventureiro global e renomado especialista em sobrevivência, leva uma celebridade para um inesquecível fim de semana de aventura na natureza. Os convidados incluem Ben Stiller, Channing Tatum, Zac Efron, Kate Hudson e Kate Winslet.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_celebridades-a-prova-de-tudo_l_m.jpg",
+      "end_time": "22:10"
+    },
+    {
+      "start_time": "22:10",
+      "show_name": "Celebridades à Prova de Tudo",
+      "show_category": "Reality",
+      "episode_description": "Bear Grylls, o aventureiro global e renomado especialista em sobrevivência, leva uma celebridade para um inesquecível fim de semana de aventura na natureza. Os convidados incluem Ben Stiller, Channing Tatum, Zac Efron, Kate Hudson e Kate Winslet.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_celebridades-a-prova-de-tudo_l_m.jpg",
+      "end_time": "22:40"
+    },
+    {
       "start_time": "23:05",
-      "end_time": "23:35",
-      "episode_description": "Hazen Audel viaja por alguns dos locais mais extremos do planeta em desafios solitários que o levam ao limite de seu conhecimento, resistência e habilidades. Para ter sucesso, ele conta com as antigas técnicas de povos indígenas."
+      "show_name": "Sobrevivente Primitivo com Hazen Audel",
+      "show_category": "Documentary",
+      "episode_description": "Hazen Audel viaja por alguns dos locais mais extremos do planeta em desafios solitários que o levam ao limite de seu conhecimento, resistência e habilidades. Para ter sucesso, ele conta com as antigas técnicas de povos indígenas.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sobrevivente-primitivo-com-hazen-audel_l_m.jpg",
+      "end_time": "23:05"
+    },
+    {
+      "start_time": "23:05",
+      "show_name": "Sobrevivente Primitivo com Hazen Audel",
+      "show_category": "Documentary",
+      "episode_description": "Hazen Audel viaja por alguns dos locais mais extremos do planeta em desafios solitários que o levam ao limite de seu conhecimento, resistência e habilidades. Para ter sucesso, ele conta com as antigas técnicas de povos indígenas.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sobrevivente-primitivo-com-hazen-audel_l_m.jpg",
+      "end_time": "23:10"
     }
   ]
 }
