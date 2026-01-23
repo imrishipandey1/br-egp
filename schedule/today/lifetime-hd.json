@@ -3,284 +3,140 @@
   "date": "23/01/2026",
   "schedule": [
     {
-      "start_time": "00:56",
       "show_name": "Justiça Entre Quatro Paredes",
-      "show_category": "Thriller / 2024",
-      "episode_description": "Uma mulher de 30 anos é ferida pelo profissional responsável por seu tratamento de fertilização in vitro e seu mundo desmorona. Devastada, ela decide arquitetar um plano para prendê-lo no porão e fazer justiça com as próprias mãos, mesmo que isso signifique colocar sua própria vida em perigo.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_justica-entre-quatro-paredes-2024_l_m.jpg",
-      "end_time": "01:02"
-    },
-    {
-      "start_time": "01:02",
-      "show_name": "A Menina na Janela",
       "show_category": "Thriller / 2024",
-      "episode_description": "Fotógrafa amadora captura uma imagem intrigante: a palavra \"Socorro\" escrita na janela suja de uma casa antiga. Isso desperta suspeitas sobre o aparentemente tranquilo morador. A descoberta a leva a questionar que segredos podem estar ocultos ali.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-menina-na-janela-2024_l_m.jpg",
-      "end_time": "01:45"
+      "start_time": "00:56",
+      "end_time": "02:30",
+      "episode_description": "Uma mulher de 30 anos é ferida pelo profissional responsável por seu tratamento de fertilização in vitro e seu mundo desmorona. Devastada, ela decide arquitetar um plano para prendê-lo no porão e fazer justiça com as próprias mãos, mesmo que isso signifique colocar sua própria vida em perigo."
     },
     {
-      "start_time": "02:30",
       "show_name": "The Real Estate Brasil",
-      "show_category": "Temporada 1 Episódio 4",
-      "episode_description": "Seleção de três corretores através de provas eliminatórias avaliadas por especialistas do mercado imobiliário para venda de residência.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_the-real-estate-brasil-s01e04_l_m.jpg",
-      "end_time": "02:32"
+      "show_category": "Temporada 1 Episódio 4",
+      "start_time": "02:30",
+      "end_time": "03:37",
+      "episode_description": "Seleção de três corretores através de provas eliminatórias avaliadas por especialistas do mercado imobiliário para venda de residência."
     },
     {
-      "start_time": "02:32",
-      "show_name": "The Real Estate Brasil",
-      "show_category": "Temporada 1 Episódio 5",
-      "episode_description": "Seleção de três designers de interiores para projeto da casa Vernon através de provas avaliadas por especialistas renomados do setor.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-real-estate-brasil-s01e05_l_m.jpg",
-      "end_time": "03:19"
-    },
-    {
-      "start_time": "03:37",
       "show_name": "Perseguição Fatal",
-      "show_category": "Thriller / 2025",
-      "episode_description": "Joanna e Leo têm uma vida ideal até Piper, uma mulher sedutora, se intrometer na família. Joanna investiga o passado dela e descobre dois maridos mortos e uma teia de segredos obscuros. Temendo por sua vida e a de seus filhos, ela faz todo o possível para descobrir a verdade e proteger sua família.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_perseguic-o-fatal-2025_l_m.jpg",
-      "end_time": "03:40"
-    },
-    {
-      "start_time": "03:40",
-      "show_name": "Monstro na Família - A História de Stacey Kananen",
-      "show_category": "Docudrama / 2025",
-      "episode_description": "",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_monstro-na-familia-a-historia-de-stacey-kananen-2025_l_m.jpg",
-      "end_time": "04:54"
-    },
-    {
-      "start_time": "05:11",
-      "show_name": "Crimes do Meu Marido",
       "show_category": "Thriller / 2025",
-      "episode_description": "Quando a polícia mata o assassino Tony Dandridge, sua esposa, Katherine, alega não saber nada sobre os crimes. Quando a mãe de uma vítima sobrevivente decide apoiar Katherine, logo se transforma em um jogo de gato e rato de verdades e mentiras.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_crimes-do-meu-marido-2025_l_m.jpg",
-      "end_time": "05:11"
+      "start_time": "03:37",
+      "end_time": "05:11",
+      "episode_description": "Joanna e Leo têm uma vida ideal até Piper, uma mulher sedutora, se intrometer na família. Joanna investiga o passado dela e descobre dois maridos mortos e uma teia de segredos obscuros. Temendo por sua vida e a de seus filhos, ela faz todo o possível para descobrir a verdade e proteger sua família."
     },
     {
-      "start_time": "05:11",
       "show_name": "Crimes do Meu Marido",
-      "show_category": "Thriller / 2025",
-      "episode_description": "Quando a polícia mata o assassino Tony Dandridge, sua esposa, Katherine, alega não saber nada sobre os crimes. Quando a mãe de uma vítima sobrevivente decide apoiar Katherine, logo se transforma em um jogo de gato e rato de verdades e mentiras.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_crimes-do-meu-marido-2025_l_m.jpg",
-      "end_time": "05:12"
+      "show_category": "Thriller / 2025",
+      "start_time": "05:11",
+      "end_time": "05:11",
+      "episode_description": "Quando a polícia mata o assassino Tony Dandridge, sua esposa, Katherine, alega não saber nada sobre os crimes. Quando a mãe de uma vítima sobrevivente decide apoiar Katherine, logo se transforma em um jogo de gato e rato de verdades e mentiras."
     },
     {
-      "start_time": "05:12",
-      "show_name": "Quem Matou JonBenét?",
-      "show_category": "Docudrama / 2016",
-      "episode_description": "No Natal de 1996, a pequena rainha da beleza, JonBenét, foi encontrada estrangulada no porão de seus pais. Vinte anos após sua morte, o mistério de quem a matou permanece.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-matou-jonbenet-2016_l_m.jpg",
-      "end_time": "05:12"
+      "show_name": "Crimes do Meu Marido",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_crimes-do-meu-marido-2025_l_m.jpg",
+      "show_category": "Thriller / 2025",
+      "start_time": "05:11",
+      "end_time": "06:45",
+      "episode_description": "Quando a polícia mata o assassino Tony Dandridge, sua esposa, Katherine, alega não saber nada sobre os crimes. Quando a mãe de uma vítima sobrevivente decide apoiar Katherine, logo se transforma em um jogo de gato e rato de verdades e mentiras."
     },
     {
-      "start_time": "05:12",
-      "show_name": "Sequestro na Comunidade Amish",
-      "show_category": "Thriller / 2024",
-      "episode_description": "Uma mulher da comunidade religiosa amish percebe que sua filha foi sequestrada. Ela recorre à única pessoa que pode ajudá-la: sua melhor amiga, de quem estava distante, que renunciou ao estilo de vida da comunidade.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sequestro-na-comunidade-amish-2024_l_m.jpg",
-      "end_time": "05:12"
-    },
-    {
-      "start_time": "06:45",
-      "show_name": "Farsa - O Sequestro de Sherri Papini",
-      "show_category": "Docudrama / 2023",
-      "episode_description": "A jovem mãe Sherri Papini desaparece e só reaparece três semanas depois. Ela diz ter sido sequestrada e abusada. Mas quatro anos depois, a investigação revela que seu sequestro foi uma fraude para passar um tempo com um ex-namorado.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_farsa-o-sequestro-de-sherri-papini-2023_l_m.jpg",
-      "end_time": "06:45"
-    },
-    {
-      "start_time": "06:45",
       "show_name": "A Esposa que Sabia Demais",
-      "show_category": "Thriller / 2025",
-      "episode_description": "A vida perfeita de Lisa Clarkson como esposa de um treinador de futebol americano do ensino médio começa a desmoronar quando uma das melhores amigas de sua filha morre em um acidente de atropelamento após o comício de abertura da nova temporada.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_a-esposa-que-sabia-demais-2025_l_m.jpg",
-      "end_time": "06:46"
+      "show_category": "Thriller / 2025",
+      "start_time": "06:45",
+      "end_time": "08:16",
+      "episode_description": "A vida perfeita de Lisa Clarkson como esposa de um treinador de futebol americano do ensino médio começa a desmoronar quando uma das melhores amigas de sua filha morre em um acidente de atropelamento após o comício de abertura da nova temporada."
     },
     {
-      "start_time": "08:15",
-      "show_name": "Lorena Bobbitt - A Mulher que Castrou o Marido",
-      "show_category": "Docudrama / 2020",
-      "episode_description": "Conheça a verdadeira história de assédio físico e mental de uma mulher imigrante e iludida que agora luta para defender as vítimas de abuso.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lorena-bobbitt-a-mulher-que-castrou-o-marido-2020_l_m.jpg",
-      "end_time": "08:16"
-    },
-    {
-      "start_time": "08:16",
       "show_name": "Seu Fã Número Um",
-      "show_category": "Thriller / 2025",
-      "episode_description": "Uma ex-estrela infantil é sequestrada por um fã obsessivo que busca reviver sua infância com seu personagem preferido. Mantida contra sua vontade, ela precisa encontrar meios de escapar dessa perigosa fantasia.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_seu-f-numero-um-2025_l_m.jpg",
-      "end_time": "09:46"
+      "show_category": "Thriller / 2025",
+      "start_time": "08:16",
+      "end_time": "09:52",
+      "episode_description": "Uma ex-estrela infantil é sequestrada por um fã obsessivo que busca reviver sua infância com seu personagem preferido. Mantida contra sua vontade, ela precisa encontrar meios de escapar dessa perigosa fantasia."
     },
     {
-      "start_time": "09:44",
-      "show_name": "Desaparecidos em Montana",
-      "show_category": "Thriller / 2023",
-      "episode_description": "Desesperada para encontrar os pais, que sumiram durante as férias com a família, uma filha luta para descobrir a verdade.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_desaparecidos-em-montana-2023_l_m.jpg",
-      "end_time": "09:52"
-    },
-    {
-      "start_time": "09:52",
       "show_name": "Velhas Chamas Nunca Morrem",
-      "show_category": "Thriller / 2022",
-      "episode_description": "Kira Young retorna à sua cidade natal para fugir do assédio constante da imprensa depois que seu noivo infiel é acusado de assassinato. Lá, ela tem uma noite apaixonada com seu ex-namorado do colégio, mas ele desenvolve uma obsessão doentia por ela.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_velhas-chamas-nunca-morrem-2022_l_m.jpg",
-      "end_time": "11:21"
-    },
-    {
-      "start_time": "11:12",
-      "show_name": "A Menina na Janela",
-      "show_category": "Thriller / 2024",
-      "episode_description": "Fotógrafa amadora captura uma imagem intrigante: a palavra \"Socorro\" escrita na janela suja de uma casa antiga. Isso desperta suspeitas sobre o aparentemente tranquilo morador. A descoberta a leva a questionar que segredos podem estar ocultos ali.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-menina-na-janela-2024_l_m.jpg",
-      "end_time": "11:32"
-    },
-    {
-      "start_time": "11:32",
-      "show_name": "The Killer Inside: The Ruth Finley Story",
-      "show_category": "Docudrama / 2024",
-      "episode_description": "O sequestro e o súbito reaparecimento de Ruth Finley deixam os investigadores atrás de respostas. À medida que as suspeitas aumentam e novas evidências vêm à tona, as autoridades cogitam que o criminoso pode ser alguém intimamente liegado a Ruth.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-killer-inside-the-ruth-finley-story-2024_l_m.jpg",
-      "end_time": "12:56"
-    },
-    {
-      "start_time": "12:39",
-      "show_name": "Sequestradas - A História de Mary Stauffer",
-      "show_category": "Drama / 2019",
-      "episode_description": "Uma professora do ensino médio e sua filha são mantidas em cativeiro por 53 dias por um ex-aluno.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sequestradas-a-historia-de-mary-stauffer-2019_l_m.jpg",
-      "end_time": "13:00"
-    },
-    {
-      "start_time": "13:00",
-      "show_name": "Um Assassino entre Nós",
-      "show_category": "Thriller / 2012",
-      "episode_description": "Após o assassinato da mãe, menina ajuda o detetive de polícia Joseph Moran, procurando em sua casa pistas que possam levar ao assassino. O que ela descobre é muito mais chocante do que poderia imaginar.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_um-assassino-entre-nos-2012_l_m.jpg",
-      "end_time": "14:30"
-    },
-    {
-      "start_time": "14:08",
-      "show_name": "Dance Moms",
-      "show_category": "Temporada 9 Episódio 5 - Competição Épica: O Pandemonio da Pirâmide",
-      "episode_description": "O objetivo de toda dançarina é chegar ao topo da pirâmide e toda Dance Mom lutará para que sua filha ocupe esse lugar. Christi Lukasiak revive as lutas caóticas entre Jessalyn e Abby, Jill e Abby, a infame saída da pirâmide e muito mais.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_dance-moms-s09e05-epic-showdowns-pyramid-pandemonium_l_m.jpg",
-      "end_time": "14:30"
-    },
-    {
-      "start_time": "14:30",
-      "show_name": "Desaparecidos em Montana",
-      "show_category": "Thriller / 2023",
-      "episode_description": "Desesperada para encontrar os pais, que sumiram durante as férias com a família, uma filha luta para descobrir a verdade.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_desaparecidos-em-montana-2023_l_m.jpg",
-      "end_time": "14:30"
-    },
-    {
-      "start_time": "14:30",
-      "show_name": "Caminho sem Volta",
-      "show_category": "Thriller / 2025",
-      "episode_description": "Duas adolescentes chegam à casa de uma enfermeira que as acolhe como se fossem um milagre, já que ela não pode ter filhos. Mas quando os pais aparecem, dispostos a fazer qualquer coisa para tê-las de volta, Shannon se arrisca pelas garotas.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_caminho-sem-volta-2025_l_m.jpg",
-      "end_time": "14:30"
-    },
-    {
-      "start_time": "15:59",
-      "show_name": "Sequestrada nos Everglades",
-      "show_category": "Thriller / 2025",
-      "episode_description": "Uma mãe descobre que sua filha desapareceu durante suas férias em Miami e decide viajar de sua terra natal, Indiana, para tentar encontrá-la. Desesperada, ela pede a ajuda de Ray, um durão condutor de barcos. Juntos, eles se aventuram nos Everglades na esperança de encontrar a garota.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sequestrada-nos-everglades-2025_l_m.jpg",
-      "end_time": "15:59"
-    },
-    {
-      "start_time": "15:59",
-      "show_name": "De Olho em Você",
-      "show_category": "Thriller / 2018",
-      "episode_description": "Após escapar por pouco das garras de um perseguidor mortal, uma jovem foge para uma cidade remota onde reconstrói sua vida e encontra o homem dos seus sonhos, mas seu conto de fadas não dura muito tempo.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_de-olho-em-voce-2018_l_m.jpg",
-      "end_time": "16:28"
-    },
-    {
-      "start_time": "17:28",
-      "show_name": "Os Segredos Obscuros da Minha Mãe",
-      "show_category": "Drama / 2020",
-      "episode_description": "Ashley de 21 anos encontra online sua mãe biológica, Sara Hillman, e fica emocionada.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-segredos-obscuros-da-minha-m-e-2020_l_m.jpg",
-      "end_time": "17:29"
-    },
-    {
-      "start_time": "17:29",
-      "show_name": "The Killer Inside: The Ruth Finley Story",
-      "show_category": "Docudrama / 2024",
-      "episode_description": "O sequestro e o súbito reaparecimento de Ruth Finley deixam os investigadores atrás de respostas. À medida que as suspeitas aumentam e novas evidências vêm à tona, as autoridades cogitam que o criminoso pode ser alguém intimamente liegado a Ruth.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-killer-inside-the-ruth-finley-story-2024_l_m.jpg",
-      "end_time": "18:08"
-    },
-    {
-      "start_time": "18:56",
-      "show_name": "O Assassino da Casa Inteligente",
-      "show_category": "Thriller / 2023",
-      "episode_description": "Imediatamente após sobreviver a um ataque em sua própria casa, uma mãe solteira decide se mudar com a filha para uma casa inteligente. No entanto, à medida que estranhos problemas e eventos começam a acontecer, ela descobre que não é a única que está observando por meio de suas câmeras de segurança.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-assassino-da-casa-inteligente-2023_l_m.jpg",
-      "end_time": "19:00"
-    },
-    {
-      "start_time": "19:00",
-      "show_name": "Vingando a Morte",
       "show_category": "Thriller / 2022",
-      "episode_description": "Mulher busca vingança contra uma mãe depois que seu irmão é morto durante uma tentativa de assalto.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_vingando-a-morte-2022_l_m.jpg",
-      "end_time": "19:39"
+      "start_time": "09:52",
+      "end_time": "11:32",
+      "episode_description": "Kira Young retorna à sua cidade natal para fugir do assédio constante da imprensa depois que seu noivo infiel é acusado de assassinato. Lá, ela tem uma noite apaixonada com seu ex-namorado do colégio, mas ele desenvolve uma obsessão doentia por ela."
     },
     {
-      "start_time": "20:25",
-      "show_name": "Um Pesadelo de Inquilino",
-      "show_category": "Thriller / 2024",
-      "episode_description": "Após vários meses de tentativas frustradas, um jovem casal encontra alguém disposto a alugar a sua garagem convertida em casa. Eles ficam felizes por ter uma fonte adicional de renda, no entanto, rapidamente percebem que o seu inquilino pode não ser o inquilino dos sonhos que tinham imaginado.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_um-pesadelo-de-inquilino-2024_l_m.jpg",
-      "end_time": "20:30"
+      "show_name": "The Killer Inside: The Ruth Finley Story",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-killer-inside-the-ruth-finley-story-2024_l_m.jpg",
+      "show_category": "Docudrama / 2024",
+      "start_time": "11:32",
+      "end_time": "13:00",
+      "episode_description": "O sequestro e o súbito reaparecimento de Ruth Finley deixam os investigadores atrás de respostas. À medida que as suspeitas aumentam e novas evidências vêm à tona, as autoridades cogitam que o criminoso pode ser alguém intimamente liegado a Ruth."
     },
     {
-      "start_time": "20:30",
-      "show_name": "Não Sou Culpada!",
-      "show_category": "Thriller / 2017",
-      "episode_description": "Jenny acredita estar noiva do homem perfeito, um advogado brilhante prestes a se tornar o juiz mais jovem do estado. Porém, ele está disposto a incriminá-la por um acidente para salvar sua carreira, mesmo implicando que ela pegue prisão perpétua.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_n-o-sou-culpada-2017_l_m.jpg",
-      "end_time": "21:10"
+      "show_name": "Um Assassino entre Nós",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_um-assassino-entre-nos-2012_l_m.jpg",
+      "show_category": "Thriller / 2012",
+      "start_time": "13:00",
+      "end_time": "14:30",
+      "episode_description": "Após o assassinato da mãe, menina ajuda o detetive de polícia Joseph Moran, procurando em sua casa pistas que possam levar ao assassino. O que ela descobre é muito mais chocante do que poderia imaginar."
     },
     {
-      "start_time": "21:53",
-      "show_name": "Assassinato no Colégio Interno",
-      "show_category": "Thriller / 2024",
-      "episode_description": "Frankie acredita que ganhou na loteria e é convidado a deixar seu lar adotivo para frequentar um internato suíço exclusivo. No entanto, imediatamente descobre que a oportunidade de uma nova vida tem um preço mortal. E quando um de seus colegas de turma é assassinado, todos rapidamente o culpam.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_assassinato-no-colegio-interno-2024_l_m.jpg",
-      "end_time": "21:58"
-    },
-    {
-      "start_time": "21:58",
-      "show_name": "A Mulher do Batom Vermelho",
-      "show_category": "Thriller / 2024",
-      "episode_description": "Para apimentar seu relacionamento, Lucy assume um nome falso e finge que está conhecendo seu namorado em um bar de hotel. Dias depois, ela descobre que o nome que ela usou pertence a uma mulher que acabou de desaparecer.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-mulher-do-batom-vermelho-2024_l_m.jpg",
-      "end_time": "22:41"
-    },
-    {
-      "start_time": "23:23",
-      "show_name": "Assistente Duas Caras - O Capítulo Final",
+      "show_name": "Caminho sem Volta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_caminho-sem-volta-2025_l_m.jpg",
       "show_category": "Thriller / 2025",
-      "episode_description": "Após ser inocentada de um crime que não cometeu, Monica tenta reconstruir sua vida e limpar seu nome. Mas Simone, a nova suspeita, foge para o México e abandona a filha. Ao retornar, velhos ressentimentos ressurgem e logo se transformam em suspeitas de assassinato.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_assistente-duas-caras-o-capitulo-final-2025_l_m.jpg",
-      "end_time": "23:31"
+      "start_time": "14:30",
+      "end_time": "15:59",
+      "episode_description": "Duas adolescentes chegam à casa de uma enfermeira que as acolhe como se fossem um milagre, já que ela não pode ter filhos. Mas quando os pais aparecem, dispostos a fazer qualquer coisa para tê-las de volta, Shannon se arrisca pelas garotas."
     },
     {
-      "start_time": "23:31",
-      "show_name": "Não Grite, Sou Eu",
+      "show_name": "De Olho em Você",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_de-olho-em-voce-2018_l_m.jpg",
+      "show_category": "Thriller / 2018",
+      "start_time": "15:59",
+      "end_time": "17:29",
+      "episode_description": "Após escapar por pouco das garras de um perseguidor mortal, uma jovem foge para uma cidade remota onde reconstrói sua vida e encontra o homem dos seus sonhos, mas seu conto de fadas não dura muito tempo."
+    },
+    {
+      "show_name": "The Killer Inside: The Ruth Finley Story",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-killer-inside-the-ruth-finley-story-2024_l_m.jpg",
+      "show_category": "Docudrama / 2024",
+      "start_time": "17:29",
+      "end_time": "19:00",
+      "episode_description": "O sequestro e o súbito reaparecimento de Ruth Finley deixam os investigadores atrás de respostas. À medida que as suspeitas aumentam e novas evidências vêm à tona, as autoridades cogitam que o criminoso pode ser alguém intimamente liegado a Ruth."
+    },
+    {
+      "show_name": "Vingando a Morte",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vingando-a-morte-2022_l_m.jpg",
+      "show_category": "Thriller / 2022",
+      "start_time": "19:00",
+      "end_time": "20:30",
+      "episode_description": "Mulher busca vingança contra uma mãe depois que seu irmão é morto durante uma tentativa de assalto."
+    },
+    {
+      "show_name": "Não Sou Culpada!",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_n-o-sou-culpada-2017_l_m.jpg",
+      "show_category": "Thriller / 2017",
+      "start_time": "20:30",
+      "end_time": "21:58",
+      "episode_description": "Jenny acredita estar noiva do homem perfeito, um advogado brilhante prestes a se tornar o juiz mais jovem do estado. Porém, ele está disposto a incriminá-la por um acidente para salvar sua carreira, mesmo implicando que ela pegue prisão perpétua."
+    },
+    {
+      "show_name": "A Mulher do Batom Vermelho",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-mulher-do-batom-vermelho-2024_l_m.jpg",
       "show_category": "Thriller / 2024",
-      "episode_description": "Quinze anos atrás, o ex-namorado de Liz, Drew, é pego roubando um banco. Ele está no quintal dela, pedindo para ela escondê-lo após uma fuga da prisão.",
+      "start_time": "21:58",
+      "end_time": "23:31",
+      "episode_description": "Para apimentar seu relacionamento, Lucy assume um nome falso e finge que está conhecendo seu namorado em um bar de hotel. Dias depois, ela descobre que o nome que ela usou pertence a uma mulher que acabou de desaparecer."
+    },
+    {
+      "show_name": "Não Grite, Sou Eu",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_n-o-grite-sou-eu-2024_l_m.jpg",
-      "end_time": "23:59"
+      "show_category": "Thriller / 2024",
+      "start_time": "23:31",
+      "end_time": "01:02",
+      "episode_description": "Quinze anos atrás, o ex-namorado de Liz, Drew, é pego roubando um banco. Ele está no quintal dela, pedindo para ela escondê-lo após uma fuga da prisão."
     }
   ]
 }

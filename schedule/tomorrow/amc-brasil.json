@@ -3,308 +3,140 @@
   "date": "24/01/2026",
   "schedule": [
     {
-      "start_time": "00:40",
-      "show_name": "Billy Elliot",
-      "show_category": "Drama / 2000 / 7.7",
-      "episode_description": "A vida de um menino, filho de mineiro, muda quando ele assiste a uma aula de balé. O garoto, dono de um talento natural para a dança, fica dividido entre sua inesperada paixão e os problemas de sua família, que é contra sua nova atividade.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_billy-elliot-2000_l_m.jpg",
-      "end_time": "02:00"
-    },
-    {
-      "start_time": "02:00",
       "show_name": "À Beira do Abismo",
-      "show_category": "Thriller / 2012",
-      "episode_description": "Policial honesto é preso por um crime que não cometeu. Consegue fugir da prisão e, ameaçando cometer suicídio do alto de um edifício, envolve uma experiente negociadora da polícia em um plano para provar sua inocência.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_a-beira-do-abismo-2012-1_l_m.jpg",
-      "end_time": "02:45"
+      "show_category": "Thriller / 2012",
+      "start_time": "02:00",
+      "end_time": "04:00",
+      "episode_description": "Policial honesto é preso por um crime que não cometeu. Consegue fugir da prisão e, ameaçando cometer suicídio do alto de um edifício, envolve uma experiente negociadora da polícia em um plano para provar sua inocência."
     },
     {
-      "start_time": "02:45",
-      "show_name": "Gente Grande 2",
-      "show_category": "Comedy / 2013",
-      "episode_description": "Lenny Feder e a família se mudam para a própria cidade natal com o objetivo ficarem perto dos amigos, mas acabam tendo que enfrentar alguns fantasmas do passado, como a covardia diante de valentões e o famigerado bullying na escola.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_gente-grande-2-2013-1_l_m.jpg",
-      "end_time": "04:00"
-    },
-    {
-      "start_time": "04:00",
       "show_name": "Divergente",
-      "show_category": "Science fiction / 2014 / 6.8",
-      "episode_description": "Na futurística cidade de Chicago, ao completar 16 anos, Beatrice precisa escolher entre as diferentes facções em que a cidade está dividida. Cada uma representa um valor diferente e, ao contrário de sua família, a jovem opta pela facção dos destemidos, a Audácia. Ela então se torna Tris e inicia uma jornada para afastar seus medos e descobrir quem realmente é. Durante essa jornada, acaba conhecendo o jovem Quatro, um rapaz experiente que tem o dom de intrigá-la e de encantá-la ao mesmo tempo.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_divergente-2014_l_m.jpg",
-      "end_time": "04:35"
+      "show_category": "Science fiction / 2014 /6.8",
+      "start_time": "04:00",
+      "end_time": "06:30",
+      "episode_description": "Na futurística cidade de Chicago, ao completar 16 anos, Beatrice precisa escolher entre as diferentes facções em que a cidade está dividida. Cada uma representa um valor diferente e, ao contrário de sua família, a jovem opta pela facção dos destemidos, a Audácia. Ela então se torna Tris e inicia uma jornada para afastar seus medos e descobrir quem realmente é. Durante essa jornada, acaba conhecendo o jovem Quatro, um rapaz experiente que tem o dom de intrigá-la e de encantá-la ao mesmo tempo."
     },
     {
-      "start_time": "04:35",
-      "show_name": "O Impossível",
-      "show_category": "Drama / 2012 / 7.6",
-      "episode_description": "O casal Maria e Henry está aproveitando as férias de inverno na Tailândia junto com os três filhos pequenos. Mas em uma manhã, um tsunami de proporções devastadoras atinge o local, arrastando tudo o que encontra pela frente. Separados em dois grupos, a mãe e o filho mais velho vão enfrentar situações desesperadoras para se manterem vivos, enquanto, o pai e as duas crianças menores não sabem se os outros dois ainda estão vivos.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-impossivel-2012_l_m.jpg",
-      "end_time": "06:30"
-    },
-    {
-      "start_time": "06:30",
-      "show_name": "Guerra dos Mundos",
-      "show_category": "Science fiction / 2005 / 6.5",
-      "episode_description": "Ray Ferrier é um estivador divorciado, afastado de seus filhos, que vivem com a mãe. Quando sua ex-esposa deixa as crianças para ele cuidar durante alguns dias, o planeta é atacado por alienígenas que surgem do chão conduzindo tripods e destruindo tudo que encontram pelo caminho. Ray tenta proteger os seus filhos e fugir para Boston para se juntar a sua ex-esposa. Durante o trajeto, enfrenta várias adversidades e ataques.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_guerra-dos-mundos-2005_l_m.jpg",
-      "end_time": "06:30"
-    },
-    {
-      "start_time": "06:30",
       "show_name": "Prece ao Nascer do Dia",
-      "show_category": "Action / 2017",
-      "episode_description": "Um jovem britânico é preso em uma das cadeias mais perigosas da Tailândia. Logo descobre que, para sobreviver, ele precisa explorar seu talento como boxeador, mas encontra um parceiro que o conduz pelo caminho certo.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_prece-ao-nascer-do-dia-2017_l_m.jpg",
-      "end_time": "08:35"
+      "show_category": "Action / 2017",
+      "start_time": "06:30",
+      "end_time": "08:45",
+      "episode_description": "Um jovem britânico é preso em uma das cadeias mais perigosas da Tailândia. Logo descobre que, para sobreviver, ele precisa explorar seu talento como boxeador, mas encontra um parceiro que o conduz pelo caminho certo."
     },
     {
-      "start_time": "08:35",
-      "show_name": "Willy's Wonderland - Parque Maldito",
-      "show_category": "Horror / 2021",
-      "episode_description": "Quando seu carro quebra, um solitário concorda em limpar centro de diversões abandonado em troca de reparos. Logo ele trava guerra contra mascotes animatrônicos possuídos no Willy's Wonderland.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_willy-s-wonderland-parque-maldito-2021_l_m.jpg",
-      "end_time": "08:45"
-    },
-    {
-      "start_time": "08:45",
       "show_name": "Robin Hood - A Origem",
-      "show_category": "Action / 2018",
-      "episode_description": "Um cruzado endurecido pela batalha e um guerreiro mouro criam uma revolta contra a coroa inglesa.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_robin-hood-a-origem-2018_l_m.jpg",
-      "end_time": "10:15"
+      "show_category": "Action / 2018",
+      "start_time": "08:45",
+      "end_time": "10:45",
+      "episode_description": "Um cruzado endurecido pela batalha e um guerreiro mouro criam uma revolta contra a coroa inglesa."
     },
     {
-      "start_time": "10:15",
-      "show_name": "Adrenalina",
-      "show_category": "Action / 2006 / 7.0",
-      "episode_description": "Chev Chelios, um matador de aluguel, acorda pela manhã com um telefonema lhe informando que foi envenenado e tem somente uma hora de vida, a não ser que mantenha um alto nível de adrenalina em seu corpo. Correndo contra o tempo, ele faz de tudo para manter seus batimentos acelerados e decide partir atrás de vingança.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_adrenalina-2006_l_m.jpg",
-      "end_time": "10:45"
-    },
-    {
-      "start_time": "10:45",
       "show_name": "Sem Gravidade...Sem Cérebro",
-      "show_category": "Comedy drama / 2014",
-      "episode_description": "Nesta ficção científica, o futuro se passa nos anos 1970. Desolado, após uma decepção amorosa, o comandante de uma estação espacial, que é um homossexual enrustido, passa a ter uma nova assistente. Os tripulantes atrapalhados precisam lidar uns com os outros e com os asteroides no caminho.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sem-gravidade-sem-cerebro-2014-1_l_m.jpg",
-      "end_time": "11:50"
+      "show_category": "Comedy drama / 2014",
+      "start_time": "10:45",
+      "end_time": "12:30",
+      "episode_description": "Nesta ficção científica, o futuro se passa nos anos 1970. Desolado, após uma decepção amorosa, o comandante de uma estação espacial, que é um homossexual enrustido, passa a ter uma nova assistente. Os tripulantes atrapalhados precisam lidar uns com os outros e com os asteroides no caminho."
     },
     {
-      "start_time": "11:50",
-      "show_name": "O Vingador do Futuro",
-      "show_category": "Science fiction / 1990",
-      "episode_description": "No ano de 2084, o operário Doug Quaid recorre a um implante de memória para poder simular uma viagem a Marte. Mas algo sai errado e ele começa a se lembrar de quem realmente era e de fatos que, até então, desconhecia. Agora, Quaid quer vingança contra aqueles que o enganaram.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-vingador-do-futuro-1990-1_l_m.jpg",
-      "end_time": "12:30"
-    },
-    {
-      "start_time": "12:30",
       "show_name": "Todas as Luas",
-      "show_category": "Horror / 2021",
-      "episode_description": "Uma menina órfã é resgatada por uma mulher misteriosa e ganha o dom da imortalidade.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_todas-as-luas-2021_l_m.jpg",
-      "end_time": "13:50"
+      "show_category": "Horror / 2021",
+      "start_time": "12:30",
+      "end_time": "14:20",
+      "episode_description": "Uma menina órfã é resgatada por uma mulher misteriosa e ganha o dom da imortalidade."
     },
     {
-      "start_time": "13:50",
-      "show_name": "Planet Action",
-      "show_category": "Entertainment",
-      "episode_description": "De tiroteios com caubóis a carros explodindo e monstros rugindo, acompanhe os bastidores dos melhores filmes de ação lançados.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_planet-action_l_m.jpg",
-      "end_time": "14:20"
-    },
-    {
+      "show_name": "Making the Movies",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_making-the-movies_l_m.jpg",
+      "show_category": "Documentary",
       "start_time": "14:20",
-      "show_name": "Planet Action",
-      "show_category": "Entertainment",
-      "episode_description": "De tiroteios com caubóis a carros explodindo e monstros rugindo, acompanhe os bastidores dos melhores filmes de ação lançados.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_planet-action_l_m.jpg",
-      "end_time": "14:20"
+      "end_time": "14:55",
+      "episode_description": "Conheça técnicas e tendências de produção de Hollywood, que fazem os filmes ganharem vida."
     },
     {
-      "start_time": "14:20",
       "show_name": "Making the Movies",
-      "show_category": "Documentary",
-      "episode_description": "Conheça técnicas e tendências de produção de Hollywood, que fazem os filmes ganharem vida.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_making-the-movies_l_m.jpg",
-      "end_time": "14:55"
-    },
-    {
+      "show_category": "Documentary",
       "start_time": "14:55",
-      "show_name": "Planet Action",
-      "show_category": "Entertainment",
-      "episode_description": "De tiroteios com caubóis a carros explodindo e monstros rugindo, acompanhe os bastidores dos melhores filmes de ação lançados.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_planet-action_l_m.jpg",
-      "end_time": "14:55"
+      "end_time": "15:30",
+      "episode_description": "Conheça técnicas e tendências de produção de Hollywood, que fazem os filmes ganharem vida."
     },
     {
-      "start_time": "14:55",
       "show_name": "Making the Movies",
-      "show_category": "Documentary",
-      "episode_description": "Conheça técnicas e tendências de produção de Hollywood, que fazem os filmes ganharem vida.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_making-the-movies_l_m.jpg",
-      "end_time": "15:30"
-    },
-    {
+      "show_category": "Documentary",
       "start_time": "15:30",
-      "show_name": "Planet Action",
-      "show_category": "Entertainment",
-      "episode_description": "De tiroteios com caubóis a carros explodindo e monstros rugindo, acompanhe os bastidores dos melhores filmes de ação lançados.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_planet-action_l_m.jpg",
-      "end_time": "15:30"
+      "end_time": "16:00",
+      "episode_description": "Conheça técnicas e tendências de produção de Hollywood, que fazem os filmes ganharem vida."
     },
     {
-      "start_time": "15:30",
       "show_name": "Making the Movies",
-      "show_category": "Documentary",
-      "episode_description": "Conheça técnicas e tendências de produção de Hollywood, que fazem os filmes ganharem vida.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_making-the-movies_l_m.jpg",
-      "end_time": "16:00"
-    },
-    {
+      "show_category": "Documentary",
       "start_time": "16:00",
-      "show_name": "Planet Action",
-      "show_category": "Entertainment",
-      "episode_description": "De tiroteios com caubóis a carros explodindo e monstros rugindo, acompanhe os bastidores dos melhores filmes de ação lançados.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_planet-action_l_m.jpg",
-      "end_time": "16:00"
+      "end_time": "16:30",
+      "episode_description": "Conheça técnicas e tendências de produção de Hollywood, que fazem os filmes ganharem vida."
     },
     {
-      "start_time": "16:00",
       "show_name": "Making the Movies",
-      "show_category": "Documentary",
-      "episode_description": "Conheça técnicas e tendências de produção de Hollywood, que fazem os filmes ganharem vida.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_making-the-movies_l_m.jpg",
-      "end_time": "16:30"
-    },
-    {
+      "show_category": "Documentary",
       "start_time": "16:30",
-      "show_name": "Planet Action",
-      "show_category": "Entertainment",
-      "episode_description": "De tiroteios com caubóis a carros explodindo e monstros rugindo, acompanhe os bastidores dos melhores filmes de ação lançados.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_planet-action_l_m.jpg",
-      "end_time": "16:30"
+      "end_time": "17:00",
+      "episode_description": "Conheça técnicas e tendências de produção de Hollywood, que fazem os filmes ganharem vida."
     },
     {
-      "start_time": "16:30",
       "show_name": "Making the Movies",
-      "show_category": "Documentary",
-      "episode_description": "Conheça técnicas e tendências de produção de Hollywood, que fazem os filmes ganharem vida.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_making-the-movies_l_m.jpg",
-      "end_time": "17:00"
-    },
-    {
+      "show_category": "Documentary",
       "start_time": "17:00",
-      "show_name": "Planet Action",
-      "show_category": "Entertainment",
-      "episode_description": "De tiroteios com caubóis a carros explodindo e monstros rugindo, acompanhe os bastidores dos melhores filmes de ação lançados.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_planet-action_l_m.jpg",
-      "end_time": "17:00"
+      "end_time": "17:30",
+      "episode_description": "Conheça técnicas e tendências de produção de Hollywood, que fazem os filmes ganharem vida."
     },
     {
-      "start_time": "17:00",
       "show_name": "Making the Movies",
-      "show_category": "Documentary",
-      "episode_description": "Conheça técnicas e tendências de produção de Hollywood, que fazem os filmes ganharem vida.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_making-the-movies_l_m.jpg",
-      "end_time": "17:30"
-    },
-    {
+      "show_category": "Documentary",
       "start_time": "17:30",
-      "show_name": "Planet Action",
-      "show_category": "Entertainment",
-      "episode_description": "De tiroteios com caubóis a carros explodindo e monstros rugindo, acompanhe os bastidores dos melhores filmes de ação lançados.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_planet-action_l_m.jpg",
-      "end_time": "17:30"
+      "end_time": "18:00",
+      "episode_description": "Conheça técnicas e tendências de produção de Hollywood, que fazem os filmes ganharem vida."
     },
     {
-      "start_time": "17:30",
       "show_name": "Making the Movies",
-      "show_category": "Documentary",
-      "episode_description": "Conheça técnicas e tendências de produção de Hollywood, que fazem os filmes ganharem vida.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_making-the-movies_l_m.jpg",
-      "end_time": "18:00"
-    },
-    {
-      "start_time": "18:00",
-      "show_name": "Planet Action",
-      "show_category": "Entertainment",
-      "episode_description": "De tiroteios com caubóis a carros explodindo e monstros rugindo, acompanhe os bastidores dos melhores filmes de ação lançados.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_planet-action_l_m.jpg",
-      "end_time": "18:00"
-    },
-    {
-      "start_time": "18:00",
-      "show_name": "Making the Movies",
       "show_category": "Documentary",
-      "episode_description": "Conheça técnicas e tendências de produção de Hollywood, que fazem os filmes ganharem vida.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_making-the-movies_l_m.jpg",
-      "end_time": "18:30"
+      "start_time": "18:00",
+      "end_time": "18:30",
+      "episode_description": "Conheça técnicas e tendências de produção de Hollywood, que fazem os filmes ganharem vida."
     },
     {
-      "start_time": "18:30",
-      "show_name": "Planet Action",
-      "show_category": "Entertainment",
-      "episode_description": "De tiroteios com caubóis a carros explodindo e monstros rugindo, acompanhe os bastidores dos melhores filmes de ação lançados.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_planet-action_l_m.jpg",
-      "end_time": "18:30"
-    },
-    {
-      "start_time": "18:30",
       "show_name": "Cartas para Julieta",
-      "show_category": "Romantic comedy / 2010 / 6.5",
-      "episode_description": "Em visita à cidade italiana de Verona com seu noivo ocupado, uma jovem chamada Sophie visita um muro onde os desiludidos deixam cartas para a trágica heroína de Shakespeare, Julieta Capuleto. Ao encontrar uma dessas cartas, de 1957, a jovem decide escrever à autora, Claire. Inspirada pela atitude de Sophie, Claire decide procurar por seu antigo amor.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_cartas-para-julieta-2010_l_m.jpg",
-      "end_time": "19:00"
+      "show_category": "Romantic comedy / 2010 /6.5",
+      "start_time": "18:30",
+      "end_time": "20:25",
+      "episode_description": "Em visita à cidade italiana de Verona com seu noivo ocupado, uma jovem chamada Sophie visita um muro onde os desiludidos deixam cartas para a trágica heroína de Shakespeare, Julieta Capuleto. Ao encontrar uma dessas cartas, de 1957, a jovem decide escrever à autora, Claire. Inspirada pela atitude de Sophie, Claire decide procurar por seu antigo amor."
     },
     {
-      "start_time": "19:00",
-      "show_name": "Planet Action",
-      "show_category": "Entertainment",
-      "episode_description": "De tiroteios com caubóis a carros explodindo e monstros rugindo, acompanhe os bastidores dos melhores filmes de ação lançados.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_planet-action_l_m.jpg",
-      "end_time": "19:30"
-    },
-    {
-      "start_time": "19:30",
       "show_name": "Erin Brockovich - Uma Mulher de Talento",
-      "show_category": "Drama / 2000",
-      "episode_description": "Erin Brockovich é a mãe de três filhos que trabalha em um pequeno escritório de advocacia. Ao descobrir que a água de uma cidade no deserto está sendo contaminada e espalhando doenças entre seus habitantes, ela convence seu chefe a deixá-la investigar o caso. Erin usa todas as suas qualidades naturais, desde a fala macia e convincente até seus atributos físicos, para convencer os cidadãos da cidade a cooperarem com ela, fazendo com que tenha em mãos um processo de 333 milhões de dólares.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_erin-brockovich-uma-mulher-de-talento-2000-1_l_m.jpg",
-      "end_time": "20:25"
-    },
-    {
+      "show_category": "Drama / 2000",
       "start_time": "20:25",
-      "show_name": "Erin Brockovich - Uma Mulher de Talento",
-      "show_category": "Drama / 2000",
-      "episode_description": "Erin Brockovich é a mãe de três filhos que trabalha em um pequeno escritório de advocacia. Ao descobrir que a água de uma cidade no deserto está sendo contaminada e espalhando doenças entre seus habitantes, ela convence seu chefe a deixá-la investigar o caso. Erin usa todas as suas qualidades naturais, desde a fala macia e convincente até seus atributos físicos, para convencer os cidadãos da cidade a cooperarem com ela, fazendo com que tenha em mãos um processo de 333 milhões de dólares.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_erin-brockovich-uma-mulher-de-talento-2000-1_l_m.jpg",
-      "end_time": "21:55"
+      "end_time": "22:50",
+      "episode_description": "Erin Brockovich é a mãe de três filhos que trabalha em um pequeno escritório de advocacia. Ao descobrir que a água de uma cidade no deserto está sendo contaminada e espalhando doenças entre seus habitantes, ela convence seu chefe a deixá-la investigar o caso. Erin usa todas as suas qualidades naturais, desde a fala macia e convincente até seus atributos físicos, para convencer os cidadãos da cidade a cooperarem com ela, fazendo com que tenha em mãos um processo de 333 milhões de dólares."
     },
     {
-      "start_time": "21:55",
-      "show_name": "Cartas para Julieta",
-      "show_category": "Romantic comedy / 2010 / 6.5",
-      "episode_description": "Em visita à cidade italiana de Verona com seu noivo ocupado, uma jovem chamada Sophie visita um muro onde os desiludidos deixam cartas para a trágica heroína de Shakespeare, Julieta Capuleto. Ao encontrar uma dessas cartas, de 1957, a jovem decide escrever à autora, Claire. Inspirada pela atitude de Sophie, Claire decide procurar por seu antigo amor.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cartas-para-julieta-2010_l_m.jpg",
-      "end_time": "22:50"
-    },
-    {
-      "start_time": "22:50",
       "show_name": "Um Grande Garoto",
-      "show_category": "Comedy drama / 2002 / 7.1",
-      "episode_description": "Will é um londrino solteirão e irresponsável de cerca de trinta anos de idade. Em busca de mulheres disponíveis, ele inventa um filho imaginário e começa a frequentar reuniões de pais solteiros. Will acaba conhecendo Marcus, um garoto esquisito de 12 anos com problemas na escola. Aos poucos, os dois acabam se tornando amigos e Will ensina a Marcus como ser um garoto popular, ao mesmo tempo que Marcus o ajuda a finalmente crescer.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_um-grande-garoto-2002_l_m.jpg",
-      "end_time": "23:55"
-    },
-    {
-      "start_time": "23:55",
-      "show_name": "Guerra dos Mundos",
-      "show_category": "Science fiction / 2005 / 6.5",
-      "episode_description": "Ray Ferrier é um estivador divorciado, afastado de seus filhos, que vivem com a mãe. Quando sua ex-esposa deixa as crianças para ele cuidar durante alguns dias, o planeta é atacado por alienígenas que surgem do chão conduzindo tripods e destruindo tudo que encontram pelo caminho. Ray tenta proteger os seus filhos e fugir para Boston para se juntar a sua ex-esposa. Durante o trajeto, enfrenta várias adversidades e ataques.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_guerra-dos-mundos-2005_l_m.jpg",
-      "end_time": "23:59"
+      "show_category": "Comedy drama / 2002 /7.1",
+      "start_time": "22:50",
+      "end_time": "",
+      "episode_description": "Will é um londrino solteirão e irresponsável de cerca de trinta anos de idade. Em busca de mulheres disponíveis, ele inventa um filho imaginário e começa a frequentar reuniões de pais solteiros. Will acaba conhecendo Marcus, um garoto esquisito de 12 anos com problemas na escola. Aos poucos, os dois acabam se tornando amigos e Will ensina a Marcus como ser um garoto popular, ao mesmo tempo que Marcus o ajuda a finalmente crescer."
     }
   ]
 }

@@ -3,860 +3,444 @@
   "date": "24/01/2026",
   "schedule": [
     {
-      "start_time": "00:00",
-      "show_name": "Cake Boss",
-      "show_category": "Temporada 15 Episódio 6 - A Dançarina Havaiana e o Bolo do Hamster",
-      "episode_description": "Buddy e sua equipe preparam um bolo gigante em forma de dançarina havaiana para a festa de aniversário de 16 anos de sua sobrinha; o dono de um Pet Shop encomenda um bolo minúsculo para um hamster.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cake-boss-s15e06-a-dancarina-havaiana-e-o-bolo-do-hamster_l_m.jpg",
-      "end_time": "00:23"
-    },
-    {
-      "start_time": "00:23",
       "show_name": "Pequenos Confeiteiros",
-      "show_category": "Temporada 5 Episódio 4 - Sobremesas de Lasanha",
-      "episode_description": "Valerie Bertinelli e Duff Goldman gostam tanto de comida italiana que desafiam os confeiteiros a criar sobremesas com lasanha. Eles preparam lasanhas doces com carne, espinafre com cogumelos e até pesto.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_pequenos-confeiteiros-s05e04-sobremesas-de-lasanha_l_m.jpg",
-      "end_time": "00:24"
+      "show_category": "Temporada 5 Episódio 4 - Sobremesas de Lasanha",
+      "start_time": "00:23",
+      "end_time": "01:10",
+      "episode_description": "Valerie Bertinelli e Duff Goldman gostam tanto de comida italiana que desafiam os confeiteiros a criar sobremesas com lasanha. Eles preparam lasanhas doces com carne, espinafre com cogumelos e até pesto."
     },
     {
-      "start_time": "00:24",
-      "show_name": "Pequenos Confeiteiros",
-      "show_category": "Temporada 5 Episódio 5 - Doces com Pipoca",
-      "episode_description": "Valerie Bertinelli e Duff Goldman, ao lado da jovem ventríloqua Darci Lynne, saboreiam seu petisco favorito em estádios: pipoca. É dada a largada para os jovens confeiteiros criarem sobremesas incríveis com pipoca.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_pequenos-confeiteiros-s05e05-doces-com-pipoca_l_m.jpg",
-      "end_time": "01:10"
-    },
-    {
-      "start_time": "01:10",
       "show_name": "A Guerra dos Bolos",
-      "show_category": "Temporada 2 Episódio 4 - Minecraft",
-      "episode_description": "Os confeiteiros competem para colocar seu bolo em destaque na festa que comemora o sucesso do jogo Minecraft. Lydia Winters, gestora de marcas do jogo, vai ajudar os jurados a determinar o vencedor, que levará dez mil dólares para casa.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_a-guerra-dos-bolos-s02e04-minecraft_l_m.jpg",
-      "end_time": "01:11"
+      "show_category": "Temporada 2 Episódio 4 - Minecraft",
+      "start_time": "01:10",
+      "end_time": "01:57",
+      "episode_description": "Os confeiteiros competem para colocar seu bolo em destaque na festa que comemora o sucesso do jogo Minecraft. Lydia Winters, gestora de marcas do jogo, vai ajudar os jurados a determinar o vencedor, que levará dez mil dólares para casa."
     },
     {
-      "start_time": "01:11",
-      "show_name": "A Guerra dos Bolos",
-      "show_category": "Temporada 2 Episódio 5 - Dia dos Namorados",
-      "episode_description": "Com a ajuda de um mestre chocolateiro, quatro confeiteiros fazem seus bolos com muito amor pela chance de ser o destaque de uma romântica degustação de vinhos em homenagem ao Dia dos Namorados e levar para casa o prêmio de dez mil dólares.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-guerra-dos-bolos-s02e05-dia-dos-namorados_l_m.jpg",
-      "end_time": "01:57"
-    },
-    {
-      "start_time": "01:57",
       "show_name": "A Guerra dos Cupcakes",
-      "show_category": "Temporada 5 Episódio 4 - Rindo Alto",
-      "episode_description": "É hora de dar muitas gargalhadas conforme quatro participantes fazem de tudo para transformar seus cupcakes em grandes sucessos. E tudo isso durante uma festa VIP para o site de vídeos de comédia FunnyOrDie.com.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_a-guerra-dos-cupcakes-s05e04_l_m.jpg",
-      "end_time": "01:58"
+      "show_category": "Temporada 5 Episódio 4 - Rindo Alto",
+      "start_time": "01:57",
+      "end_time": "02:42",
+      "episode_description": "É hora de dar muitas gargalhadas conforme quatro participantes fazem de tudo para transformar seus cupcakes em grandes sucessos. E tudo isso durante uma festa VIP para o site de vídeos de comédia FunnyOrDie.com."
     },
     {
-      "start_time": "01:58",
       "show_name": "A Guerra dos Cupcakes",
-      "show_category": "Temporada 5 Episódio 6 - Yo Gabba Gabba",
-      "episode_description": "Quatro ex-competidores retornam ao programa para competir por um lugar numa festa do famosíssimo show \"Yo Gabba Gabba Live\", que contará com a presença de vários convidados VIPs.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-guerra-dos-cupcakes-s05e06_l_m.jpg",
-      "end_time": "02:42"
-    },
-    {
-      "start_time": "02:42",
-      "show_name": "A Guerra dos Cupcakes",
-      "show_category": "Temporada 5 Episódio 5 - Rock of Ages",
-      "episode_description": "Quatro confeiteiros sobem ao palco na estreia de um grande sucesso da Broadway em Los Angeles, o musical \"Rock of Ages\".",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_a-guerra-dos-cupcakes-s05e05_l_m.jpg",
-      "end_time": "02:46"
+      "show_category": "Temporada 5 Episódio 5 - Rock of Ages",
+      "start_time": "02:42",
+      "end_time": "03:27",
+      "episode_description": "Quatro confeiteiros sobem ao palco na estreia de um grande sucesso da Broadway em Los Angeles, o musical \"Rock of Ages\"."
     },
     {
-      "start_time": "02:46",
-      "show_name": "A Guerra dos Cupcakes",
-      "show_category": "Temporada 5 Episódio 7 - Derby Dolls",
-      "episode_description": "Quatro confeiteiros competem pela chance de preparar seus cupcakes em uma festa das patinadoras do grupo Los Angeles Derby Dolls.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-guerra-dos-cupcakes-s05e07-derby-dolls_l_m.jpg",
-      "end_time": "03:27"
-    },
-    {
+      "show_name": "Locos x el asado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_locos-x-el-asado-s01e13-o-churrasco-perfeito_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 13 - O Churrasco Perfeito",
       "start_time": "03:27",
+      "end_time": "03:51",
+      "episode_description": "Os rapazes decidem organizar um grande churrasco e não economizam esforços para fazer o churrasco perfeito. Laucha e seus amigos vão às ruas para perguntar às pessoas o que seria o churrasco perfeito, o que não pode faltar, quem não pode faltar, qual bebida deve acompanhar, qual é o melhor dia, que música tem que tocar, entre outras coisas."
+    },
+    {
       "show_name": "Locos x el asado",
-      "show_category": "Temporada 1 Episódio 13 - O Churrasco Perfeito",
-      "episode_description": "Os rapazes decidem organizar um grande churrasco e não economizam esforços para fazer o churrasco perfeito. Laucha e seus amigos vão às ruas para perguntar às pessoas o que seria o churrasco perfeito, o que não pode faltar, quem não pode faltar, qual bebida deve acompanhar, qual é o melhor dia, que música tem que tocar, entre outras coisas.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_locos-x-el-asado-s01e13-o-churrasco-perfeito_l_m.jpg",
-      "end_time": "03:34"
-    },
-    {
-      "start_time": "03:34",
-      "show_name": "Food Truck - A Grande Corrida",
-      "show_category": "Temporada 10 Episódio 7 - Disputa em Miami",
-      "episode_description": "Tyler recebe os três times de food trucks finalistas em Miami. Os desafios incluem um prato com carne de porco e uma inovação com café.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_food-truck-a-grande-corrida-s10e07-disputa-em-miami_l_m.jpg",
-      "end_time": "03:51"
-    },
-    {
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_locos-x-el-asado-s02e01-jaime-pesaque-roose_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 1 - Jaime Pesaque Roose",
       "start_time": "03:51",
-      "show_name": "Locos x el asado",
-      "show_category": "Temporada 2 Episódio 1 - Jaime Pesaque Roose",
-      "episode_description": "Laucha se dispõe a fazer um assado para todos os seus amigos, mas antes ele tem que receber seu convidado, com quem vai cozinhar duas receitas incríveis. Cada uma delas traz elementos especiais e temperos incríveis.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_locos-x-el-asado-s02e01-jaime-pesaque-roose_l_m.jpg",
-      "end_time": "04:14"
+      "end_time": "04:14",
+      "episode_description": "Laucha se dispõe a fazer um assado para todos os seus amigos, mas antes ele tem que receber seu convidado, com quem vai cozinhar duas receitas incríveis. Cada uma delas traz elementos especiais e temperos incríveis."
     },
     {
+      "show_name": "Locos x el asado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_locos-x-el-asado-s02e02-juan-diego-vanegas_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 2 - Juan Diego Vanegas",
       "start_time": "04:14",
+      "end_time": "04:37",
+      "episode_description": "Laucha apresenta seu novo convidado, com quem vai cozinhar duas receitas deliciosas. Uma receita original de Juan Diego Vanegas, que desenvolve um prato com os temperos mais saborosos e autênticos de sua terra natal, e é paralelamente complementada com a receita de Laucha, uma carne grelhada repleta de sabor com seu estilo bem rústico na grelha."
+    },
+    {
       "show_name": "Locos x el asado",
-      "show_category": "Temporada 2 Episódio 2 - Juan Diego Vanegas",
-      "episode_description": "Laucha apresenta seu novo convidado, com quem vai cozinhar duas receitas deliciosas. Uma receita original de Juan Diego Vanegas, que desenvolve um prato com os temperos mais saborosos e autênticos de sua terra natal, e é paralelamente complementada com a receita de Laucha, uma carne grelhada repleta de sabor com seu estilo bem rústico na grelha.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_locos-x-el-asado-s02e02-juan-diego-vanegas_l_m.jpg",
-      "end_time": "04:21"
-    },
-    {
-      "start_time": "04:21",
-      "show_name": "Food Truck - A Grande Corrida",
-      "show_category": "Temporada 10 Episódio 8 - Batalha do Limão",
-      "episode_description": "Tyler recebe as duas equipes de food trucks finalistas para uma disputa em Key West, na Flórida. Um desafio com limão e um visitante inesperado fazem os times se dedicarem para ganhar um prêmio de 50 mil dólares.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_food-truck-a-grande-corrida-s10e08-batalha-do-lim-o_l_m.jpg",
-      "end_time": "04:37"
-    },
-    {
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_locos-x-el-asado-s02e03-ricardo-munoz-zurita_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 3 - Ricardo Muñoz Zurita",
       "start_time": "04:37",
-      "show_name": "Locos x el asado",
-      "show_category": "Temporada 2 Episódio 3 - Ricardo Muñoz Zurita",
-      "episode_description": "Laucha convida Ricardo Muñoz Zurita, que leva à mesa um prato típico do México, e compartilha o processo desta receita com ela, que acrescenta sua própria receita de assado argentino para complementar e fundir ambas culturas em um prato final que deleita todos os loucos.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_locos-x-el-asado-s02e03-ricardo-munoz-zurita_l_m.jpg",
-      "end_time": "05:00"
+      "end_time": "05:00",
+      "episode_description": "Laucha convida Ricardo Muñoz Zurita, que leva à mesa um prato típico do México, e compartilha o processo desta receita com ela, que acrescenta sua própria receita de assado argentino para complementar e fundir ambas culturas em um prato final que deleita todos os loucos."
     },
     {
-      "start_time": "05:00",
       "show_name": "Duelo com Bobby Flay",
-      "show_category": "Temporada 36 Episódio 2 - Que Venham os Britânicos!",
-      "episode_description": "O chef Michael Symon e Robert Herjavec, de Shark Tank, recrutam os chefs Poppy O'Toole e Joel Childs para dominarem pratos típicos britânicos e derrotarem Bobby Flay.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_duelo-com-bobby-flay-s36e02-que-venham-os-britanicos_l_m.jpg",
-      "end_time": "05:03"
+      "show_category": "Temporada 36 Episódio 2 - Que Venham os Britânicos!",
+      "start_time": "05:00",
+      "end_time": "05:24",
+      "episode_description": "O chef Michael Symon e Robert Herjavec, de Shark Tank, recrutam os chefs Poppy O'Toole e Joel Childs para dominarem pratos típicos britânicos e derrotarem Bobby Flay."
     },
     {
-      "start_time": "05:03",
       "show_name": "Duelo com Bobby Flay",
-      "show_category": "Temporada 36 Episódio 10 - Prontos para o Tapete Vermelho",
-      "episode_description": "A chef Katie Lee Biegel e o ícone da moda Carson Kressley se vestem com elegância, enquanto os chefs Rob Reinsmith e Manny Barella fazem de tudo para derrotar Bobby Flay.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_duelo-com-bobby-flay-s36e10-prontos-para-o-tapete-vermelho_l_m.jpg",
-      "end_time": "05:24"
-    },
-    {
-      "start_time": "05:24",
-      "show_name": "Duelo com Bobby Flay",
-      "show_category": "Temporada 36 Episódio 3 - Revolução da Dança",
-      "episode_description": "A chef Carla Hall e a dançarina profissional Allison Holker Boss arrasam na coreografia, enquanto as chefs Kimberly Plafke e Tiana Gee tentam impor uma doce derrota a Bobby Flay.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_duelo-com-bobby-flay-s36e03-revoluc-o-da-danca_l_m.jpg",
-      "end_time": "05:27"
+      "show_category": "Temporada 36 Episódio 3 - Revolução da Dança",
+      "start_time": "05:24",
+      "end_time": "05:47",
+      "episode_description": "A chef Carla Hall e a dançarina profissional Allison Holker Boss arrasam na coreografia, enquanto as chefs Kimberly Plafke e Tiana Gee tentam impor uma doce derrota a Bobby Flay."
     },
     {
-      "start_time": "05:27",
-      "show_name": "Duelo com Bobby Flay",
-      "show_category": "Temporada 36 Episódio 5 - Rumo à Broadway!",
-      "episode_description": "O chef Jet Tila e a atriz Sutton Foster criam um novo musical para o Bobby Flay, enquanto as chefs confeiteiras Kaitlin Guerin e Laura Warren tentam conquistar a vitória.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_duelo-com-bobby-flay-s36e05-rumo-a-broadway_l_m.jpg",
-      "end_time": "05:47"
-    },
-    {
-      "start_time": "05:47",
       "show_name": "Até que o Restaurante nos Separe!",
-      "show_category": "Temporada 1 Episódio 4 - Não É Meu Filho",
-      "episode_description": "James contrata um gerente de RP, para desgosto de Jessica; Jeanette volta de férias e descobre que Whispers está atrasado; no dia da inauguração, Nicole e o chef Edwin têm uma discussão acalorada.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_ate-que-o-restaurante-nos-separe-s01e04-n-o-e-meu-filho_l_m.jpg",
-      "end_time": "05:47"
-    },
-    {
+      "show_category": "Temporada 1 Episódio 4 - Não É Meu Filho",
       "start_time": "05:47",
+      "end_time": "05:47",
+      "episode_description": "James contrata um gerente de RP, para desgosto de Jessica; Jeanette volta de férias e descobre que Whispers está atrasado; no dia da inauguração, Nicole e o chef Edwin têm uma discussão acalorada."
+    },
+    {
       "show_name": "Até que o Restaurante nos Separe!",
-      "show_category": "Temporada 1 Episódio 4 - Não É Meu Filho",
-      "episode_description": "James contrata um gerente de RP, para desgosto de Jessica; Jeanette volta de férias e descobre que Whispers está atrasado; no dia da inauguração, Nicole e o chef Edwin têm uma discussão acalorada.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_ate-que-o-restaurante-nos-separe-s01e04-n-o-e-meu-filho_l_m.jpg",
-      "end_time": "05:49"
+      "show_category": "Temporada 1 Episódio 4 - Não É Meu Filho",
+      "start_time": "05:47",
+      "end_time": "06:31",
+      "episode_description": "James contrata um gerente de RP, para desgosto de Jessica; Jeanette volta de férias e descobre que Whispers está atrasado; no dia da inauguração, Nicole e o chef Edwin têm uma discussão acalorada."
     },
     {
-      "start_time": "05:49",
-      "show_name": "Superbolos - A Competição",
-      "show_category": "Temporada 1 Episódio 3 - Maravilhas Arquitetônicas",
-      "episode_description": "Para este desafio, a equipe de Duff Goldman e a equipe de Timbo Sullivan criam bolos com detalhes arquitetônicos deslumbrantes, tanto por dentro quanto por fora. Caberá aos jurados Amaury Guichon, Sherry Yard e Drew Scott decidir.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_superbolos-a-competic-o-s01e03-maravilhas-arquitetonicas_l_m.jpg",
-      "end_time": "05:50"
-    },
-    {
-      "start_time": "05:50",
-      "show_name": "Ciao House - A Competição",
-      "show_category": "Temporada 2 Episódio 6 - Facas e Fogo",
-      "episode_description": "Alex Guarnaschelli e Gabe Bertaccini revelam aos sete chefs que eles serão responsáveis pelo primeiro festival de pizzas da Ciao House. Eles precisam fazer pizzas para alimentar 50 convidados e um pizzaiolo famoso.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_ciao-house-a-competic-o-s02e06-facas-e-fogo_l_m.jpg",
-      "end_time": "05:51"
-    },
-    {
-      "start_time": "05:51",
-      "show_name": "Superbolos - A Competição",
-      "show_category": "Temporada 1 Episódio 3 - Maravilhas Arquitetônicas",
-      "episode_description": "Para este desafio, a equipe de Duff Goldman e a equipe de Timbo Sullivan criam bolos com detalhes arquitetônicos deslumbrantes, tanto por dentro quanto por fora. Caberá aos jurados Amaury Guichon, Sherry Yard e Drew Scott decidir.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_superbolos-a-competic-o-s01e03-maravilhas-arquitetonicas_l_m.jpg",
-      "end_time": "06:31"
-    },
-    {
-      "start_time": "06:31",
       "show_name": "Selena + Restaurante",
-      "show_category": "Temporada 1 Episódio 6 - Selena + Alta Adams",
-      "episode_description": "Selena Gomez sente a pressão no Alta, o restaurante de comida soul de Keith Corbin, na Califórnia, quando é encarregada de preparar ovos. Selena também faz um prato de peixe frito.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_selena-restaurante-s01e06-selena-alta-adams_l_m.jpg",
-      "end_time": "06:34"
+      "show_category": "Temporada 1 Episódio 6 - Selena + Alta Adams",
+      "start_time": "06:31",
+      "end_time": "06:55",
+      "episode_description": "Selena Gomez sente a pressão no Alta, o restaurante de comida soul de Keith Corbin, na Califórnia, quando é encarregada de preparar ovos. Selena também faz um prato de peixe frito."
     },
     {
-      "start_time": "06:34",
-      "show_name": "Fica, Vai Ter Duff!",
-      "show_category": "Temporada 2 Episódio 5 - Bolo Circense",
-      "episode_description": "Duff Goldman e sua equipe criam um bolo de tirar o fôlego para comemorar a milésima apresentação do Cirque du Soleil Volta; a confeitaria ajuda Jamie Lee Curtis a agradecer voluntários merecedores.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_fica-vai-ter-duff-s02e05-bolo-circense_l_m.jpg",
-      "end_time": "06:55"
-    },
-    {
-      "start_time": "06:55",
       "show_name": "Selena + Restaurante",
-      "show_category": "Temporada 1 Episódio 4 - Selena + Moo's Craft Barbecue",
-      "episode_description": "Selena Gomez sente o gostinho de casa quando experimenta o melhor churrasco texano em Los Angeles, no Moo's Craft Barbecue. Depois, Andrew e Michelle Muñoz desafiam Selena a criar um prato exclusivo com linguiça.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_selena-restaurante-s01e04-selena-moo-s-craft-barbecue_l_m.jpg",
-      "end_time": "06:57"
+      "show_category": "Temporada 1 Episódio 4 - Selena + Moo's Craft Barbecue",
+      "start_time": "06:55",
+      "end_time": "07:18",
+      "episode_description": "Selena Gomez sente o gostinho de casa quando experimenta o melhor churrasco texano em Los Angeles, no Moo's Craft Barbecue. Depois, Andrew e Michelle Muñoz desafiam Selena a criar um prato exclusivo com linguiça."
     },
     {
-      "start_time": "06:57",
-      "show_name": "Fica, Vai Ter Duff!",
-      "show_category": "Temporada 2 Episódio 4 - Bola de Futebol e Navio",
-      "episode_description": "Duff Goldman prepara um bolo enorme em formato de bola de futebol para um grupo de crianças no estádio do Los Angeles Galaxy; a equipe entrega uma réplica de 1,5 m do navio Queen Mary para um festival escocês.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_fica-vai-ter-duff-s02e04-bola-de-futebol-e-navio_l_m.jpg",
-      "end_time": "07:18"
-    },
-    {
-      "start_time": "07:18",
       "show_name": "Tudo Fácil",
-      "show_category": "Temporada 1 Episódio 2 - Cardápio em 1h",
-      "episode_description": "Carol Fiorentino mostra que não há o que temer na cozinha. De um jeito fácil, ela ensina a preparar uma refeição deliciosa e completa com salada, estrogonofe e pudim de tapioca, tudo em apenas uma hora.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_tudo-facil-s01e02-cardapio-em-1h_l_m.jpg",
-      "end_time": "07:19"
+      "show_category": "Temporada 1 Episódio 2 - Cardápio em 1h",
+      "start_time": "07:18",
+      "end_time": "07:45",
+      "episode_description": "Carol Fiorentino mostra que não há o que temer na cozinha. De um jeito fácil, ela ensina a preparar uma refeição deliciosa e completa com salada, estrogonofe e pudim de tapioca, tudo em apenas uma hora."
     },
     {
-      "start_time": "07:19",
-      "show_name": "Um Dia de Chef",
-      "show_category": "Temporada 3 Episódio 3 - Café da Manhã Caprichado",
-      "episode_description": "Thiago só faz macarrão instantâneo. Para comer outra coisa, ele depende da mãe e do food truck de um amigo que frequenta todos os dias. Para se virar melhor na cozinha, Thiago quer aprender receitas rápidas e para qualquer hora.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_um-dia-de-chef-s03e03-cafe-da-manh-caprichado_l_m.jpg",
-      "end_time": "07:45"
-    },
-    {
-      "start_time": "07:45",
       "show_name": "Tudo Fácil",
-      "show_category": "Temporada 1 Episódio 9 - O Poder da Gelatina",
-      "episode_description": "O gosto, a textura, as cores e a facilidade do preparo fazem da gelatina um sucesso entre crianças e adultos, mas ela também pode surpreender paladares mais sofisticados: é esse potencial que Carol Fiorentino demonstra com receitas inusitadas.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_tudo-facil-s01e09-o-poder-da-gelatina_l_m.jpg",
-      "end_time": "07:46"
+      "show_category": "Temporada 1 Episódio 9 - O Poder da Gelatina",
+      "start_time": "07:45",
+      "end_time": "08:11",
+      "episode_description": "O gosto, a textura, as cores e a facilidade do preparo fazem da gelatina um sucesso entre crianças e adultos, mas ela também pode surpreender paladares mais sofisticados: é esse potencial que Carol Fiorentino demonstra com receitas inusitadas."
     },
     {
-      "start_time": "07:46",
-      "show_name": "Um Dia de Chef",
-      "show_category": "Temporada 3 Episódio 4 - Ragu de Carne com Polenta Cremosa",
-      "episode_description": "Para Joice, até um ovo frito é um desafio no fogão. Para não viver refém dos PFs e de entrega, ela precisa aprender novas técnicas na cozinha. Emmanuel propõe uma receita italiana que faz Joice se emocionar.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_um-dia-de-chef-s03e04-ragu-de-carne-com-polenta-cremosa_l_m.jpg",
-      "end_time": "08:11"
-    },
-    {
-      "start_time": "08:11",
       "show_name": "Giada em Casa",
-      "show_category": "Temporada 7 Episódio 13 - Dicas de Restaurante",
-      "episode_description": "Aprenda a preparar requintados pratos de restaurante na sua cozinha. Veja dicas para fazer um salmão selado com \"succotash\" de verão, um penne com ragu de carne de porco e um filé New York Strip com manteiga de vinho tinto.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_giada-em-casa-s07e13-dicas-de-restaurante_l_m.jpg",
-      "end_time": "08:12"
+      "show_category": "Temporada 7 Episódio 13 - Dicas de Restaurante",
+      "start_time": "08:11",
+      "end_time": "08:35",
+      "episode_description": "Aprenda a preparar requintados pratos de restaurante na sua cozinha. Veja dicas para fazer um salmão selado com \"succotash\" de verão, um penne com ragu de carne de porco e um filé New York Strip com manteiga de vinho tinto."
     },
     {
-      "start_time": "08:12",
       "show_name": "Giada em Casa",
-      "show_category": "Temporada 7 Episódio 10 - Natal Italiano",
-      "episode_description": "Giada recebe a família para um jantar de Natal para celebrar o \"Banquete dos 7 Peixes\". Ela explica o que é esse evento natalino e prepara branzino com molho de tangerina e ervas, camarão à moda de Nova Orleans e ostras crocantes à Rockefeller.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_giada-em-casa-s07e10-natal-italiano_l_m.jpg",
-      "end_time": "08:35"
-    },
-    {
-      "start_time": "08:35",
-      "show_name": "Giada em Casa",
-      "show_category": "Temporada 7 Episódio 11 - Almoço de Spa",
-      "episode_description": "Giada vai criar um almoço de spa com salada de farro e couve, ervilhas e cenouras, e torrada de manteiga de amêndoas e pêssego. Além disso, ela vai fazer um esfoliante de limão-siciliano e lavanda e uma água de pepino para finalizar o dia.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_giada-em-casa-s07e11-almoco-de-spa_l_m.jpg",
-      "end_time": "08:36"
+      "show_category": "Temporada 7 Episódio 11 - Almoço de Spa",
+      "start_time": "08:35",
+      "end_time": "08:59",
+      "episode_description": "Giada vai criar um almoço de spa com salada de farro e couve, ervilhas e cenouras, e torrada de manteiga de amêndoas e pêssego. Além disso, ela vai fazer um esfoliante de limão-siciliano e lavanda e uma água de pepino para finalizar o dia."
     },
     {
-      "start_time": "08:36",
-      "show_name": "Giada em Casa",
-      "show_category": "Temporada 7 Episódio 12 - Sobremesas Festivas",
-      "episode_description": "Giada de Laurentiis vai preparar sobremesas deliciosas e perfeitas para um dia de festa. Um bolo de café com buttercream de licor toscano e lascas de caramelo e uma torta de alecrim e nozes com chantilly de laranja.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_giada-em-casa-s07e12-sobremesas-festivas_l_m.jpg",
-      "end_time": "08:59"
-    },
-    {
-      "start_time": "08:59",
       "show_name": "Receitas Caseiras da Valerie",
-      "show_category": "Temporada 12 Episódio 1 - Refeição de Agradecimento",
-      "episode_description": "Valerie Bertinelli cozinha para um bombeiro e sua esposa enfermeira como agradecimento pelo trabalho deles para a comunidade. O cardápio inclui sanduíches de peru defumado, pimenta shishito e barras de s'mores.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_receitas-caseiras-da-valerie-s12e01-refeic-o-de-agradecimento_l_m.jpg",
-      "end_time": "09:00"
+      "show_category": "Temporada 12 Episódio 1 - Refeição de Agradecimento",
+      "start_time": "08:59",
+      "end_time": "09:21",
+      "episode_description": "Valerie Bertinelli cozinha para um bombeiro e sua esposa enfermeira como agradecimento pelo trabalho deles para a comunidade. O cardápio inclui sanduíches de peru defumado, pimenta shishito e barras de s'mores."
     },
     {
-      "start_time": "09:00",
       "show_name": "Receitas Caseiras da Valerie",
-      "show_category": "Temporada 11 Episódio 9 - Brunch Sulista",
-      "episode_description": "Valerie recebe sua amiga Faith Ford, da Louisiana, com pratos que a farão se sentir em Nova Orleans, como tomate verde frito e ovo poché com molho holandês cajun, mimosas furacão e banana foster de sobremesa.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_receitas-caseiras-da-valerie-s11e09-brunch-sulista_l_m.jpg",
-      "end_time": "09:21"
-    },
-    {
-      "start_time": "09:21",
-      "show_name": "Receitas Caseiras da Valerie",
-      "show_category": "Temporada 12 Episódio 2 - Sessão de Cinema Estrelada",
-      "episode_description": "Valerie Bertinelli organiza uma sessão de cinema no quintal para seu filho e a namorada dele. O saboroso cardápio inclui salada de anéis de cebola com molho de salada caseiro e uma sobremesa digna de filme.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_receitas-caseiras-da-valerie-s12e02-sess-o-de-cinema-estrelada_l_m.jpg",
-      "end_time": "09:25"
+      "show_category": "Temporada 12 Episódio 2 - Sessão de Cinema Estrelada",
+      "start_time": "09:21",
+      "end_time": "09:44",
+      "episode_description": "Valerie Bertinelli organiza uma sessão de cinema no quintal para seu filho e a namorada dele. O saboroso cardápio inclui salada de anéis de cebola com molho de salada caseiro e uma sobremesa digna de filme."
     },
     {
-      "start_time": "09:25",
-      "show_name": "Receitas Caseiras da Valerie",
-      "show_category": "Temporada 11 Episódio 10 - Luz, Câmera e Comida",
-      "episode_description": "Valerie desenvolve receitas novas e à prova de erros para o seu site. Ela faz uma fornada de muffins salgados, prepara salada caesar com couve crocante de panko e alho, e lombo suíno com molho de mostarda e cidra.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_receitas-caseiras-da-valerie-s11e10-luz-camera-e-comida_l_m.jpg",
-      "end_time": "09:44"
-    },
-    {
-      "start_time": "09:44",
       "show_name": "Refeição em 30 Minutos",
-      "show_category": "Temporada 24 Episódio 1 - Light e Delicioso",
-      "episode_description": "Conheça uma refeição que vai deixá-lo tão satisfeito que você jamais suspeitaria que, além de tudo, ela ainda faz bem para a saúde! São os tacos de peixe ao estilo mediterrâneo e orzo com grão-de-bico.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_refeic-o-em-30-minutos-s24e01-light-e-delicioso_l_m.jpg",
-      "end_time": "09:48"
+      "show_category": "Temporada 24 Episódio 1 - Light e Delicioso",
+      "start_time": "09:44",
+      "end_time": "10:08",
+      "episode_description": "Conheça uma refeição que vai deixá-lo tão satisfeito que você jamais suspeitaria que, além de tudo, ela ainda faz bem para a saúde! São os tacos de peixe ao estilo mediterrâneo e orzo com grão-de-bico."
     },
     {
-      "start_time": "09:48",
       "show_name": "Refeição em 30 Minutos",
-      "show_category": "Temporada 23 Episódio 11 - Delícia Gelada",
-      "episode_description": "Conheça o menu de um jantar italiano finalizado com uma versão italiana de um doce gelado clássico: salada de alface romana ao vinagrete cítrico com tomilho, linguine ao molho de tomate-cereja e vôngoles e sanduíches de sorvete \"spumoni\".",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_refeic-o-em-30-minutos-s23e11-delicia-gelada_l_m.jpg",
-      "end_time": "10:08"
-    },
-    {
-      "start_time": "10:08",
-      "show_name": "Refeição em 30 Minutos",
-      "show_category": "Temporada 23 Episódio 35 - Noite de Ano Novo Informal",
-      "episode_description": "A refeição perfeita para uma reunião informal de Ano-Novo entre amigos. Hambúrguer de bife e mini-fritas; molho de gorgonzola com espinafre e alcachofra; camarão picante com funcho.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_refeic-o-em-30-minutos-s23e35-natal-no-mar_l_m.jpg",
-      "end_time": "10:13"
+      "show_category": "Temporada 23 Episódio 35 - Noite de Ano Novo Informal",
+      "start_time": "10:08",
+      "end_time": "10:29",
+      "episode_description": "A refeição perfeita para uma reunião informal de Ano-Novo entre amigos. Hambúrguer de bife e mini-fritas; molho de gorgonzola com espinafre e alcachofra; camarão picante com funcho."
     },
     {
-      "start_time": "10:13",
-      "show_name": "Refeição em 30 Minutos",
-      "show_category": "Temporada 23 Episódio 34 - Natal no Mar",
-      "episode_description": "Um banquete para as festas de fim de ano feito de frutos do mar que não o fará sentir-se pesado. Salada de atum e verduras, vieiras marinadas em vinagre balsâmico e enroladas em bacon e supercamarão scampi.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_refeic-o-em-30-minutos-s23e34-natal-no-mar_l_m.jpg",
-      "end_time": "10:29"
-    },
-    {
+      "show_name": "Brunch com Bobby",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_brunch-com-bobby-s07e11-brunch-de-qualidade_l_m.jpg",
+      "show_category": "Temporada 7 Episódio 11 - Brunch de Qualidade",
       "start_time": "10:29",
-      "show_name": "Brunch com Bobby",
-      "show_category": "Temporada 7 Episódio 11 - Brunch de Qualidade",
-      "episode_description": "Bobby Flay faz um brunch de sanduíches de caranguejo de casca mole e batatas crocantes.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_brunch-com-bobby-s07e11-brunch-de-qualidade_l_m.jpg",
-      "end_time": "10:33"
+      "end_time": "10:50",
+      "episode_description": "Bobby Flay faz um brunch de sanduíches de caranguejo de casca mole e batatas crocantes."
     },
     {
-      "start_time": "10:33",
       "show_name": "Brunch com Bobby",
-      "show_category": "Temporada 7 Episódio 9 - Acorde Seu Guloso",
-      "episode_description": "Bobby Flay e Sunny Anderson redescobrem o lado mais doce do brunch com panquecas de blueberry.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_brunch-com-bobby-s07e09-acorde-seu-guloso_l_m.jpg",
-      "end_time": "10:50"
-    },
-    {
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_brunch-com-bobby-s07e12-e-o-brunch-depois-do-natal_l_m.jpg",
+      "show_category": "Temporada 7 Episódio 12 - É o Brunch Depois do Natal",
       "start_time": "10:50",
-      "show_name": "Brunch com Bobby",
-      "show_category": "Temporada 7 Episódio 12 - É o Brunch Depois do Natal",
-      "episode_description": "Com uma geladeira cheia de sobras, Bobby Flay prepara um brunch pós-feriado.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_brunch-com-bobby-s07e12-e-o-brunch-depois-do-natal_l_m.jpg",
-      "end_time": "10:54"
+      "end_time": "11:11",
+      "episode_description": "Com uma geladeira cheia de sobras, Bobby Flay prepara um brunch pós-feriado."
     },
     {
-      "start_time": "10:54",
-      "show_name": "Brunch com Bobby",
-      "show_category": "Temporada 7 Episódio 10 - Quase em Casa para Ação de Graças",
-      "episode_description": "Bobby assa pão de abóbora com chocolate enquanto espera a filha chegar após o dia de Ação de Graças.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_brunch-com-bobby-s07e10-quase-em-casa-para-ac-o-de-gracas_l_m.jpg",
-      "end_time": "11:11"
-    },
-    {
+      "show_name": "Sabor na Brasa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabor-na-brasa-s03e10-cozinha-selvagem_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 10 - Cozinha Selvagem",
       "start_time": "11:11",
-      "show_name": "Sabor na Brasa",
-      "show_category": "Temporada 3 Episódio 10 - Cozinha Selvagem",
-      "episode_description": "No Maine, o guia de sobrevivência Tim Smith ensina Roger Mooking a criar uma cozinha rústica ao ar livre, onde assam frangos inteiros e trutas frescas. Em um forno refletor, eles terminam o banquete com deliciosos biscoitos.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabor-na-brasa-s03e10-cozinha-selvagem_l_m.jpg",
-      "end_time": "11:14"
+      "end_time": "11:32",
+      "episode_description": "No Maine, o guia de sobrevivência Tim Smith ensina Roger Mooking a criar uma cozinha rústica ao ar livre, onde assam frangos inteiros e trutas frescas. Em um forno refletor, eles terminam o banquete com deliciosos biscoitos."
     },
     {
-      "start_time": "11:14",
       "show_name": "Sabor na Brasa",
-      "show_category": "Temporada 3 Episódio 7 - Lama e Aço no Novo México",
-      "episode_description": "No Novo México, Roger Mooking visita à fazenda Comida de Campos; em Embudo, uma escola de culinária que prepara banquetes em fornos de barro cônicos; em Bosque, Roger prova dois pratos de porco, a carne adobada e carnitas.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabor-na-brasa-s03e07-lama-e-aco-no-novo-mexico_l_m.jpg",
-      "end_time": "11:32"
-    },
-    {
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabor-na-brasa-s03e11-banquetes-de-lareira_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 11 - Banquetes de Lareira",
       "start_time": "11:32",
-      "show_name": "Sabor na Brasa",
-      "show_category": "Temporada 3 Episódio 11 - Banquetes de Lareira",
-      "episode_description": "Roger Mooking visita dois restaurantes na Nova Inglaterra que oferecem banquetes feitos em lareiras. O Salem Cross Inn assa costelas em uma lareira interna e o Foster's Clambake prepara lagostas e frutos do mar ao ar livre.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabor-na-brasa-s03e11-banquetes-de-lareira_l_m.jpg",
-      "end_time": "11:36"
+      "end_time": "11:55",
+      "episode_description": "Roger Mooking visita dois restaurantes na Nova Inglaterra que oferecem banquetes feitos em lareiras. O Salem Cross Inn assa costelas em uma lareira interna e o Foster's Clambake prepara lagostas e frutos do mar ao ar livre."
     },
     {
-      "start_time": "11:36",
-      "show_name": "Sabor na Brasa",
-      "show_category": "Temporada 3 Episódio 8 - Carne e Vinho na Califórnia",
-      "episode_description": "Na Califórnia, Roger Mooking visita a vinícola Paso de Record, em San Miguel, que serve churrascos feitos em fogo de chão durante as degustações de seus vinhos. Em Santa Barbara, Roger prova um churrasco argentino especial.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabor-na-brasa-s03e08-carne-e-vinho-na-california_l_m.jpg",
-      "end_time": "11:55"
-    },
-    {
+      "show_name": "Lanchonetes Clássicas com Guy Fieri",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s33e04-sabores-distantes_l_m.jpg",
+      "show_category": "Temporada 33 Episódio 4 - Sabores Distantes",
       "start_time": "11:55",
-      "show_name": "Lanchonetes Clássicas com Guy Fieri",
-      "show_category": "Temporada 33 Episódio 4 - Sabores Distantes",
-      "episode_description": "Guy Fieri cai na estrada para provar sabores variados, começando com shawarma e souvlaki de salmão em Santa Fé, no novo México. Ele também encontra especialidades escandinavas em Kansas City, no Missouri.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s33e04-sabores-distantes_l_m.jpg",
-      "end_time": "11:58"
+      "end_time": "12:16",
+      "episode_description": "Guy Fieri cai na estrada para provar sabores variados, começando com shawarma e souvlaki de salmão em Santa Fé, no novo México. Ele também encontra especialidades escandinavas em Kansas City, no Missouri."
     },
     {
-      "start_time": "11:58",
       "show_name": "Lanchonetes Clássicas com Guy Fieri",
-      "show_category": "Temporada 32 Episódio 11 - Girando o Globo",
-      "episode_description": "Guy Fieri visita restaurantes e prova sabores do mundo todo, incluindo um saimin em Kauai, no Havaí, tacos deliciosos em Kansas City, no Missouri, e comida mexicana sem carne em El Paso, no Texas.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s32e11-girando-o-globo_l_m.jpg",
-      "end_time": "12:16"
-    },
-    {
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s33e07-torta-e-pizza_l_m.jpg",
+      "show_category": "Temporada 33 Episódio 7 - Torta e Pizza",
       "start_time": "12:16",
-      "show_name": "Lanchonetes Clássicas com Guy Fieri",
-      "show_category": "Temporada 33 Episódio 7 - Torta e Pizza",
-      "episode_description": "Guy Fieri prova uma torta com crosta de cerveja em Boston. Após isso, conhece uma pizza de carne assada em Santa Fé. Em Reno, ele visita um lugar que dá novo significado à torta de maçã.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s33e07-torta-e-pizza_l_m.jpg",
-      "end_time": "12:18"
+      "end_time": "12:37",
+      "episode_description": "Guy Fieri prova uma torta com crosta de cerveja em Boston. Após isso, conhece uma pizza de carne assada em Santa Fé. Em Reno, ele visita um lugar que dá novo significado à torta de maçã."
     },
     {
-      "start_time": "12:18",
       "show_name": "Lanchonetes Clássicas com Guy Fieri",
-      "show_category": "Temporada 32 Episódio 13 - Australásia",
-      "episode_description": "Guy Fieri prova todo tipo de sabor ao conhecer um restaurante que funde as culinárias japonesa e havaiana, outro que mistura hambúrgueres e burritos, e uma padaria australiana que faz torta de carne e enroladinho de salsicha.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s32e13-australasia_l_m.jpg",
-      "end_time": "12:37"
-    },
-    {
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s33e08-javali-e-p-es_l_m.jpg",
+      "show_category": "Temporada 33 Episódio 8 - Javali e Pães",
       "start_time": "12:37",
-      "show_name": "Lanchonetes Clássicas com Guy Fieri",
-      "show_category": "Temporada 33 Episódio 8 - Javali e Pães",
-      "episode_description": "Guy visita lanchonetes pelos Estados Unidos e conhece sabores variados, como o frango com pão caseiro de um pub em Santa Fe, no estado do Novo México; na cidade de Reno, ele prova \"spätzle\" de javali e, em Cambridge, come sanduíches feitos com bagel.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s33e08-javali-e-p-es_l_m.jpg",
-      "end_time": "12:38"
+      "end_time": "12:58",
+      "episode_description": "Guy visita lanchonetes pelos Estados Unidos e conhece sabores variados, como o frango com pão caseiro de um pub em Santa Fe, no estado do Novo México; na cidade de Reno, ele prova \"spätzle\" de javali e, em Cambridge, come sanduíches feitos com bagel."
     },
     {
-      "start_time": "12:38",
-      "show_name": "Lanchonetes Clássicas com Guy Fieri",
-      "show_category": "Temporada 33 Episódio 1 - Recheado e Frito",
-      "episode_description": "Guy Fieri prova do recheado ao frito, incluindo batata-frita com molho de bisão e sanduíche de carneiro em Santa Fé, ostras deliciosas em Kansas City e batatas recheadas em El Paso.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s33e01-recheado-e-frito_l_m.jpg",
-      "end_time": "12:58"
-    },
-    {
-      "start_time": "12:58",
-      "show_name": "Show de Cozinha",
-      "show_category": "Temporada 17 Episódio 7 - Molhos de Verão",
-      "episode_description": "Os molhos de verão são as estrelas deste episódio. Geoffrey Zakarian prepara vieiras ao molho de mel e alcaparras. Sunny Anderson ensina a fazer um molho de lemon pepper e Jeff Mauro, um de mostarda com pimenta cereja e mel.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_show-de-cozinha-s17e07-molhos-de-ver-o_l_m.jpg",
-      "end_time": "12:58"
-    },
-    {
-      "start_time": "12:58",
       "show_name": "Locos x el asado",
-      "show_category": "Temporada 1 Episódio 13 - O Churrasco Perfeito",
-      "episode_description": "Os rapazes decidem organizar um grande churrasco e não economizam esforços para fazer o churrasco perfeito. Laucha e seus amigos vão às ruas para perguntar às pessoas o que seria o churrasco perfeito, o que não pode faltar, quem não pode faltar, qual bebida deve acompanhar, qual é o melhor dia, que música tem que tocar, entre outras coisas.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_locos-x-el-asado-s01e13-o-churrasco-perfeito_l_m.jpg",
-      "end_time": "13:21"
+      "show_category": "Temporada 1 Episódio 13 - O Churrasco Perfeito",
+      "start_time": "12:58",
+      "end_time": "13:21",
+      "episode_description": "Os rapazes decidem organizar um grande churrasco e não economizam esforços para fazer o churrasco perfeito. Laucha e seus amigos vão às ruas para perguntar às pessoas o que seria o churrasco perfeito, o que não pode faltar, quem não pode faltar, qual bebida deve acompanhar, qual é o melhor dia, que música tem que tocar, entre outras coisas."
     },
     {
+      "show_name": "Locos x el asado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_locos-x-el-asado-s02e01-jaime-pesaque-roose_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 1 - Jaime Pesaque Roose",
       "start_time": "13:21",
-      "show_name": "Locos x el asado",
-      "show_category": "Temporada 2 Episódio 1 - Jaime Pesaque Roose",
-      "episode_description": "Laucha se dispõe a fazer um assado para todos os seus amigos, mas antes ele tem que receber seu convidado, com quem vai cozinhar duas receitas incríveis. Cada uma delas traz elementos especiais e temperos incríveis.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_locos-x-el-asado-s02e01-jaime-pesaque-roose_l_m.jpg",
-      "end_time": "13:44"
+      "end_time": "13:44",
+      "episode_description": "Laucha se dispõe a fazer um assado para todos os seus amigos, mas antes ele tem que receber seu convidado, com quem vai cozinhar duas receitas incríveis. Cada uma delas traz elementos especiais e temperos incríveis."
     },
     {
-      "start_time": "13:44",
-      "show_name": "Show de Cozinha",
-      "show_category": "Temporada 17 Episódio 11 - Fáceis e Saborosos",
-      "episode_description": "No auge do verão, os chefs ensinam receitas fáceis de preparar. Katie Lee faz um frango grelhado com salada grega de repolho. Para a sobremesa, Jeff Mauro mostra como fazer torta fria de chocolate e manteiga de amendoim.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_show-de-cozinha-s17e11-faceis-e-saborosos_l_m.jpg",
-      "end_time": "13:44"
-    },
-    {
-      "start_time": "13:44",
       "show_name": "Locos x el asado",
-      "show_category": "Temporada 2 Episódio 2 - Juan Diego Vanegas",
-      "episode_description": "Laucha apresenta seu novo convidado, com quem vai cozinhar duas receitas deliciosas. Uma receita original de Juan Diego Vanegas, que desenvolve um prato com os temperos mais saborosos e autênticos de sua terra natal, e é paralelamente complementada com a receita de Laucha, uma carne grelhada repleta de sabor com seu estilo bem rústico na grelha.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_locos-x-el-asado-s02e02-juan-diego-vanegas_l_m.jpg",
-      "end_time": "14:07"
+      "show_category": "Temporada 2 Episódio 2 - Juan Diego Vanegas",
+      "start_time": "13:44",
+      "end_time": "14:07",
+      "episode_description": "Laucha apresenta seu novo convidado, com quem vai cozinhar duas receitas deliciosas. Uma receita original de Juan Diego Vanegas, que desenvolve um prato com os temperos mais saborosos e autênticos de sua terra natal, e é paralelamente complementada com a receita de Laucha, uma carne grelhada repleta de sabor com seu estilo bem rústico na grelha."
     },
     {
+      "show_name": "Locos x el asado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_locos-x-el-asado-s02e03-ricardo-munoz-zurita_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 3 - Ricardo Muñoz Zurita",
       "start_time": "14:07",
-      "show_name": "Locos x el asado",
-      "show_category": "Temporada 2 Episódio 3 - Ricardo Muñoz Zurita",
-      "episode_description": "Laucha convida Ricardo Muñoz Zurita, que leva à mesa um prato típico do México, e compartilha o processo desta receita com ela, que acrescenta sua própria receita de assado argentino para complementar e fundir ambas culturas em um prato final que deleita todos os loucos.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_locos-x-el-asado-s02e03-ricardo-munoz-zurita_l_m.jpg",
-      "end_time": "14:30"
+      "end_time": "14:30",
+      "episode_description": "Laucha convida Ricardo Muñoz Zurita, que leva à mesa um prato típico do México, e compartilha o processo desta receita com ela, que acrescenta sua própria receita de assado argentino para complementar e fundir ambas culturas em um prato final que deleita todos os loucos."
     },
     {
-      "start_time": "14:30",
       "show_name": "Duelo com Bobby Flay",
-      "show_category": "Temporada 3 Episódio 9 - O Temperado Falando do Apimentado",
-      "episode_description": "O chef Jonathan Waxman e o jurado do Chopped Aaron Sanchez querem arruinar o dia do Bobby ao convidar dois chefs que são familiarizados com batalhas. O veterano Herb Wilson usa seus 30 anos de experiência contra o chef da Nova Inglaterra Robin King.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_duelo-com-bobby-flay-s03e09-o-temperado-falando-do-apimentado_l_m.jpg",
-      "end_time": "14:30"
-    },
-    {
-      "start_time": "14:30",
-      "show_name": "Duelo com Bobby Flay",
-      "show_category": "Temporada 3 Episódio 11 - Duelo de Titãs Culinários",
-      "episode_description": "Sunny Anderson, do The Kitchen, e Ted Allen, do Chopped, estão aprontando para Bobby Flay e chamaram dois competidores para terminar o serviço. O chef e mestre da grelha Victor Albisu enfrenta o chef viciado em competições Eddie Tancredi.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_duelo-com-bobby-flay-s03e11-duelo-de-tit-s-culinarios_l_m.jpg",
-      "end_time": "14:53"
+      "show_category": "Temporada 3 Episódio 11 - Duelo de Titãs Culinários",
+      "start_time": "14:30",
+      "end_time": "14:54",
+      "episode_description": "Sunny Anderson, do The Kitchen, e Ted Allen, do Chopped, estão aprontando para Bobby Flay e chamaram dois competidores para terminar o serviço. O chef e mestre da grelha Victor Albisu enfrenta o chef viciado em competições Eddie Tancredi."
     },
     {
-      "start_time": "14:53",
       "show_name": "Duelo com Bobby Flay",
-      "show_category": "Temporada 3 Episódio 10 - Carne Fresca no Pedaço",
-      "episode_description": "Dois vencedores do Food Network Star, Jeff Mauro e Justin Warner, ameaçam o Bobby trazendo dois chefs fantásticos para derrotá-lo. Bobby terá que trabalhar duro com a doce e apaixonada chef Daniela D'Ambrosio e o ambicioso chef Malcolm Mitchell.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_duelo-com-bobby-flay-s03e10-carne-fresca-no-pedaco_l_m.jpg",
-      "end_time": "14:54"
-    },
-    {
-      "start_time": "14:54",
-      "show_name": "Duelo com Bobby Flay",
-      "show_category": "Temporada 3 Episódio 12 - Defenda a Casa",
-      "episode_description": "Alex Guarnaschelli e Alton Brown chegaram na arena com os olhos no prêmio: derrotar Bobby Flay em sua casa. Ex-halterofilista, Chef Alina Eisenhauer flexiona seus músculos contra o Chef nova-iorquino Joe Dobias pela batalha do século.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_duelo-com-bobby-flay-s03e12-defenda-a-casa_l_m.jpg",
-      "end_time": "15:14"
+      "show_category": "Temporada 3 Episódio 12 - Defenda a Casa",
+      "start_time": "14:54",
+      "end_time": "15:15",
+      "episode_description": "Alex Guarnaschelli e Alton Brown chegaram na arena com os olhos no prêmio: derrotar Bobby Flay em sua casa. Ex-halterofilista, Chef Alina Eisenhauer flexiona seus músculos contra o Chef nova-iorquino Joe Dobias pela batalha do século."
     },
     {
-      "start_time": "15:14",
       "show_name": "Chopped - Júnior",
-      "show_category": "Temporada 2 Episódio 5 - Grelhando!",
-      "episode_description": "Os minichefs se agitam para uma competição de grelhados. Jerome Bettis, um renomado ex-jogador de futebol americano, a chef Amanda Freitag e Ali Khan atuam como jurados.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_chopped-junior-s02e05-grelhando_l_m.jpg",
-      "end_time": "15:15"
-    },
-    {
-      "start_time": "15:15",
-      "show_name": "Chopped - Júnior",
-      "show_category": "Temporada 2 Episódio 6 - O Amor ao Macarrão",
-      "episode_description": "Os competidores tentam impressionar os jurados com macarrão em formato de coração, mariscos, um limão diferente de tudo o que eles já provaram, e uma abordagem criativa para cookies com leite.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_chopped-junior-s02e06-o-amor-ao-macarr-o_l_m.jpg",
-      "end_time": "16:00"
+      "show_category": "Temporada 2 Episódio 6 - O Amor ao Macarrão",
+      "start_time": "15:15",
+      "end_time": "16:01",
+      "episode_description": "Os competidores tentam impressionar os jurados com macarrão em formato de coração, mariscos, um limão diferente de tudo o que eles já provaram, e uma abordagem criativa para cookies com leite."
     },
     {
-      "start_time": "16:00",
       "show_name": "Food Truck - A Grande Corrida",
-      "show_category": "Temporada 16 Episódio 7 - Davi x Golias - Prova de Velocidade",
-      "episode_description": "Um membro está doente e a equipe é forçada a operar com duas pessoas; Joe Sasto se junta a Tyler Florence para desafiar as equipes em uma disputa de velocidade antes que os competidores trabalhem ao lado dos melhores food trucks de Los Angeles.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_food-truck-a-grande-corrida-s16e07_l_m.jpg",
-      "end_time": "16:01"
-    },
-    {
-      "start_time": "16:01",
-      "show_name": "Food Truck - A Grande Corrida",
-      "show_category": "Temporada 16 Episódio 8 - Davi x Golias - Confronto Final",
-      "episode_description": "As duas equipes finalistas roubam um prato do menu da outra para vender em um festival gastronômico; as equipes são surpreendidas com um desafio rápido, onde só podem vender um prato principal o dia todo na esperança de ganhar o grande prêmio.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_food-truck-a-grande-corrida-s16e08_l_m.jpg",
-      "end_time": "16:43"
+      "show_category": "Temporada 16 Episódio 8 - Davi x Golias - Confronto Final",
+      "start_time": "16:01",
+      "end_time": "16:44",
+      "episode_description": "As duas equipes finalistas roubam um prato do menu da outra para vender em um festival gastronômico; as equipes são surpreendidas com um desafio rápido, onde só podem vender um prato principal o dia todo na esperança de ganhar o grande prêmio."
     },
     {
-      "start_time": "16:43",
       "show_name": "Lanchonetes Clássicas com Guy Fieri",
-      "show_category": "Temporada 33 Episódio 4 - Sabores Distantes",
-      "episode_description": "Guy Fieri cai na estrada para provar sabores variados, começando com shawarma e souvlaki de salmão em Santa Fé, no novo México. Ele também encontra especialidades escandinavas em Kansas City, no Missouri.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s33e04-sabores-distantes_l_m.jpg",
-      "end_time": "16:44"
-    },
-    {
-      "start_time": "16:44",
-      "show_name": "Lanchonetes Clássicas com Guy Fieri",
-      "show_category": "Temporada 33 Episódio 11 - Comendo o Alasca",
-      "episode_description": "Guy Fieri e seu filho Hunter fazem uma jornada culinária até Juneau, no Alasca. A dupla experimenta torta de rena assada na lenha, uma culinária de fusão latina e asiática e um sundae salgado.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s33e11-comendo-o-alasca_l_m.jpg",
-      "end_time": "17:07"
+      "show_category": "Temporada 33 Episódio 11 - Comendo o Alasca",
+      "start_time": "16:44",
+      "end_time": "17:08",
+      "episode_description": "Guy Fieri e seu filho Hunter fazem uma jornada culinária até Juneau, no Alasca. A dupla experimenta torta de rena assada na lenha, uma culinária de fusão latina e asiática e um sundae salgado."
     },
     {
-      "start_time": "17:07",
       "show_name": "Lanchonetes Clássicas com Guy Fieri",
-      "show_category": "Temporada 33 Episódio 7 - Torta e Pizza",
-      "episode_description": "Guy Fieri prova uma torta com crosta de cerveja em Boston. Após isso, conhece uma pizza de carne assada em Santa Fé. Em Reno, ele visita um lugar que dá novo significado à torta de maçã.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s33e07-torta-e-pizza_l_m.jpg",
-      "end_time": "17:08"
-    },
-    {
-      "start_time": "17:08",
-      "show_name": "Lanchonetes Clássicas com Guy Fieri",
-      "show_category": "Temporada 33 Episódio 12 - Sul no Norte",
-      "episode_description": "Guy Fieri experimenta o sabor sulista em todos os Estados Unidos, incluindo frango picante e gumbo em Massachusetts, peito bovino defumado e nachos de asa de frango em Nevada, e costela com molho de bourbon e mel no Alasca.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s33e12-sul-no-norte_l_m.jpg",
-      "end_time": "17:28"
+      "show_category": "Temporada 33 Episódio 12 - Sul no Norte",
+      "start_time": "17:08",
+      "end_time": "17:29",
+      "episode_description": "Guy Fieri experimenta o sabor sulista em todos os Estados Unidos, incluindo frango picante e gumbo em Massachusetts, peito bovino defumado e nachos de asa de frango em Nevada, e costela com molho de bourbon e mel no Alasca."
     },
     {
-      "start_time": "17:28",
       "show_name": "Lanchonetes Clássicas com Guy Fieri",
-      "show_category": "Temporada 33 Episódio 8 - Javali e Pães",
-      "episode_description": "Guy visita lanchonetes pelos Estados Unidos e conhece sabores variados, como o frango com pão caseiro de um pub em Santa Fe, no estado do Novo México; na cidade de Reno, ele prova \"spätzle\" de javali e, em Cambridge, come sanduíches feitos com bagel.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s33e08-javali-e-p-es_l_m.jpg",
-      "end_time": "17:29"
-    },
-    {
-      "start_time": "17:29",
-      "show_name": "Lanchonetes Clássicas com Guy Fieri",
-      "show_category": "Temporada 33 Episódio 14 - Cruzando Capitais",
-      "episode_description": "Guy Fieri visita restaurantes em capitais e prova pappardelle de caranguejo em Juneau, no Alasca, pierogi de pato, em Richmond, e hambúrguer de bisão e rabanada de banana, em Ottawa.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s33e14-cruzando-capitais_l_m.jpg",
-      "end_time": "17:52"
+      "show_category": "Temporada 33 Episódio 14 - Cruzando Capitais",
+      "start_time": "17:29",
+      "end_time": "17:53",
+      "episode_description": "Guy Fieri visita restaurantes em capitais e prova pappardelle de caranguejo em Juneau, no Alasca, pierogi de pato, em Richmond, e hambúrguer de bisão e rabanada de banana, em Ottawa."
     },
     {
-      "start_time": "17:52",
       "show_name": "Lanchonetes Clássicas com Guy Fieri",
-      "show_category": "Temporada 33 Episódio 9 - Petiscos Únicos",
-      "episode_description": "Guy Fieri prova sabores únicos, começando com um curry de carneiro em Santa Fé, no Novo México; na cidade de Reno, ele come \"bánh\" de barriga de porco; em Cambridge, experimenta waffle de macarrão com queijo em uma lanchonete vegetariana.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s33e09-petiscos-unicos_l_m.jpg",
-      "end_time": "17:53"
-    },
-    {
-      "start_time": "17:53",
-      "show_name": "Lanchonetes Clássicas com Guy Fieri",
-      "show_category": "Temporada 33 Episódio 15 - Os Convidados Famosos de Guy",
-      "episode_description": "Guy traz estrelas para a cozinha: o técnico Andy Reid, o roqueiro Sammy Hagar e o chef Ken Oringer.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s33e15-os-convidados-famosos-de-guy_l_m.jpg",
-      "end_time": "18:13"
+      "show_category": "Temporada 33 Episódio 15 - Os Convidados Famosos de Guy",
+      "start_time": "17:53",
+      "end_time": "18:14",
+      "episode_description": "Guy traz estrelas para a cozinha: o técnico Andy Reid, o roqueiro Sammy Hagar e o chef Ken Oringer."
     },
     {
-      "start_time": "18:13",
       "show_name": "Na Rota do Sabor",
-      "show_category": "Temporada 1 Episódio 2 - Paraíso da Pizza 3",
-      "episode_description": "Conheça a pizza favorita dos Estados Unidos, com pedaços de carne de caranguejo e mozzarella.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_na-rota-do-sabor-s01e02-paraiso-da-pizza_l_m.jpg",
-      "end_time": "18:14"
-    },
-    {
-      "start_time": "18:14",
-      "show_name": "Na Rota do Sabor",
-      "show_category": "Temporada 7 Episódio 6 - Lendas Locais",
-      "episode_description": "As lendas dos EUA são: taco de peixe com carne macia e despedaçando coberto com molho de pimenta em San Diego, um chili de Cincinnati com uma pilha de cheddar e um frango frito crocante e suculento acompanhado de macarrão com queijo em Atlanta.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_na-rota-do-sabor-s07e06-lendas-locais_l_m.jpg",
-      "end_time": "19:00"
+      "show_category": "Temporada 7 Episódio 6 - Lendas Locais",
+      "start_time": "18:14",
+      "end_time": "19:01",
+      "episode_description": "As lendas dos EUA são: taco de peixe com carne macia e despedaçando coberto com molho de pimenta em San Diego, um chili de Cincinnati com uma pilha de cheddar e um frango frito crocante e suculento acompanhado de macarrão com queijo em Atlanta."
     },
     {
-      "start_time": "19:00",
       "show_name": "Brunch com Bobby",
-      "show_category": "Temporada 7 Episódio 11 - Brunch de Qualidade",
-      "episode_description": "Bobby Flay faz um brunch de sanduíches de caranguejo de casca mole e batatas crocantes.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_brunch-com-bobby-s07e11-brunch-de-qualidade_l_m.jpg",
-      "end_time": "19:01"
-    },
-    {
-      "start_time": "19:01",
-      "show_name": "Brunch com Bobby",
-      "show_category": "Temporada 7 Episódio 13 - Inspirado na Itália",
-      "episode_description": "Bobby Flay prepara um brunch inspirado na Itália para sua amiga Laura Vitale.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_brunch-com-bobby-s07e13-inspirado-na-italia_l_m.jpg",
-      "end_time": "19:24"
+      "show_category": "Temporada 7 Episódio 13 - Inspirado na Itália",
+      "start_time": "19:01",
+      "end_time": "19:25",
+      "episode_description": "Bobby Flay prepara um brunch inspirado na Itália para sua amiga Laura Vitale."
     },
     {
-      "start_time": "19:24",
-      "show_name": "Brunch com Bobby",
-      "show_category": "Temporada 7 Episódio 12 - É o Brunch Depois do Natal",
-      "episode_description": "Com uma geladeira cheia de sobras, Bobby Flay prepara um brunch pós-feriado.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_brunch-com-bobby-s07e12-e-o-brunch-depois-do-natal_l_m.jpg",
-      "end_time": "19:25"
-    },
-    {
-      "start_time": "19:25",
       "show_name": "Cozinhando com Bobby e Damaris",
-      "show_category": "Temporada 1 Episódio 1 - Churrascos Caprichados",
-      "episode_description": "Ninguém é mais obcecado por carnes grelhadas do que o chef Bobby Flay, e Damaris Phillips adora um bom churrasco no quintal. Depois de dividirem seus segredos, Bobby prepara um frango mediterrâneo.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_cozinhando-com-bobby-e-damaris-s01e01-churrascos-caprichados_l_m.jpg",
-      "end_time": "19:45"
+      "show_category": "Temporada 1 Episódio 1 - Churrascos Caprichados",
+      "start_time": "19:25",
+      "end_time": "19:46",
+      "episode_description": "Ninguém é mais obcecado por carnes grelhadas do que o chef Bobby Flay, e Damaris Phillips adora um bom churrasco no quintal. Depois de dividirem seus segredos, Bobby prepara um frango mediterrâneo."
     },
     {
-      "start_time": "19:45",
       "show_name": "Sabores da América com Michael Symon",
-      "show_category": "Temporada 4 Episódio 15 - Um Hambúrguer Monstruoso",
-      "episode_description": "Um porco defumado inteiro; um hambúrguer é coberto com carne de porco desfiada defumada, bacon e um molho de churrasco robusto.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabores-da-america-com-michael-symon-s04e15_l_m.jpg",
-      "end_time": "19:46"
-    },
-    {
-      "start_time": "19:46",
-      "show_name": "Sabores da América com Michael Symon",
-      "show_category": "Temporada 4 Episódio 17 - Carne Tripla",
-      "episode_description": "Um sanduíche triplo de carne com barriga de porco defumada, mortadela e patê de fígado de galinha; empada frita de caranguejo de casca mole; asas de frango frito picantes com molho szechuan em Seattle.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sabores-da-america-com-michael-symon-s04e17_l_m.jpg",
-      "end_time": "20:08"
+      "show_category": "Temporada 4 Episódio 17 - Carne Tripla",
+      "start_time": "19:46",
+      "end_time": "20:08",
+      "episode_description": "Um sanduíche triplo de carne com barriga de porco defumada, mortadela e patê de fígado de galinha; empada frita de caranguejo de casca mole; asas de frango frito picantes com molho szechuan em Seattle."
     },
     {
-      "start_time": "20:08",
       "show_name": "Sabores da América com Michael Symon",
-      "show_category": "Temporada 4 Episódio 18 - Festa em Família",
-      "episode_description": "Torta de peru defumado e batata-doce frita; um hambúrguer de mais de 30 centímetros de altura com três carnes, palitos de muçarela, pimentas recheadas, anéis de cebola, bacon, presunto e ovos; peito de pato na pimenta.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sabores-da-america-com-michael-symon-s04e18_l_m.jpg",
-      "end_time": "20:09"
+      "show_category": "Temporada 4 Episódio 18 - Festa em Família",
+      "start_time": "20:08",
+      "end_time": "20:29",
+      "episode_description": "Torta de peru defumado e batata-doce frita; um hambúrguer de mais de 30 centímetros de altura com três carnes, palitos de muçarela, pimentas recheadas, anéis de cebola, bacon, presunto e ovos; peito de pato na pimenta."
     },
     {
-      "start_time": "20:09",
-      "show_name": "Sabores da América com Michael Symon",
-      "show_category": "Temporada 4 Episódio 16 - Deliciosamente Delicioso",
-      "episode_description": "Um prato clássico, frango frito com waffles, é reinventado para criar uma nova alternativa: frango frito com tacos de panqueca.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabores-da-america-com-michael-symon-s04e16_l_m.jpg",
-      "end_time": "20:29"
-    },
-    {
-      "start_time": "20:29",
       "show_name": "Sabor na Brasa",
-      "show_category": "Temporada 3 Episódio 12 - Brincando com Fogo na Nova Inglaterra",
-      "episode_description": "Na Nova Inglaterra, Roger Mooking encontra duas pessoas que adoram brincar com fogo; a escritora Paula Marcoux o ensina a cozinhar mexilhões no vapor e o fazendeiro David Adamson mostra seus kits para churrasco de porco.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sabor-na-brasa-s03e12-brincando-com-fogo-na-nova-inglaterra_l_m.jpg",
-      "end_time": "20:30"
+      "show_category": "Temporada 3 Episódio 12 - Brincando com Fogo na Nova Inglaterra",
+      "start_time": "20:29",
+      "end_time": "20:53",
+      "episode_description": "Na Nova Inglaterra, Roger Mooking encontra duas pessoas que adoram brincar com fogo; a escritora Paula Marcoux o ensina a cozinhar mexilhões no vapor e o fazendeiro David Adamson mostra seus kits para churrasco de porco."
     },
     {
-      "start_time": "20:30",
       "show_name": "Sabor na Brasa",
-      "show_category": "Temporada 3 Episódio 10 - Cozinha Selvagem",
-      "episode_description": "No Maine, o guia de sobrevivência Tim Smith ensina Roger Mooking a criar uma cozinha rústica ao ar livre, onde assam frangos inteiros e trutas frescas. Em um forno refletor, eles terminam o banquete com deliciosos biscoitos.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabor-na-brasa-s03e10-cozinha-selvagem_l_m.jpg",
-      "end_time": "20:53"
-    },
-    {
-      "start_time": "20:53",
-      "show_name": "Sabor na Brasa",
-      "show_category": "Temporada 3 Episódio 13 - Celebração de Primavera no Kentucky",
-      "episode_description": "Em Lancaster, Kentucky, Roger Mooking e Richard McCallister preparam frangos temperados em uma base inspirada nas churrasqueiras uruguaias. Roger contribui com milho na espiga, temperado com ervas e óleo de coco.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sabor-na-brasa-s03e13-celebrac-o-de-primavera-no-kentucky_l_m.jpg",
-      "end_time": "20:54"
+      "show_category": "Temporada 3 Episódio 13 - Celebração de Primavera no Kentucky",
+      "start_time": "20:53",
+      "end_time": "21:14",
+      "episode_description": "Em Lancaster, Kentucky, Roger Mooking e Richard McCallister preparam frangos temperados em uma base inspirada nas churrasqueiras uruguaias. Roger contribui com milho na espiga, temperado com ervas e óleo de coco."
     },
     {
-      "start_time": "20:54",
-      "show_name": "Sabor na Brasa",
-      "show_category": "Temporada 3 Episódio 11 - Banquetes de Lareira",
-      "episode_description": "Roger Mooking visita dois restaurantes na Nova Inglaterra que oferecem banquetes feitos em lareiras. O Salem Cross Inn assa costelas em uma lareira interna e o Foster's Clambake prepara lagostas e frutos do mar ao ar livre.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabor-na-brasa-s03e11-banquetes-de-lareira_l_m.jpg",
-      "end_time": "21:14"
-    },
-    {
-      "start_time": "21:14",
       "show_name": "Locos x el asado",
-      "show_category": "Temporada 1 Episódio 13 - O Churrasco Perfeito",
-      "episode_description": "Os rapazes decidem organizar um grande churrasco e não economizam esforços para fazer o churrasco perfeito. Laucha e seus amigos vão às ruas para perguntar às pessoas o que seria o churrasco perfeito, o que não pode faltar, quem não pode faltar, qual bebida deve acompanhar, qual é o melhor dia, que música tem que tocar, entre outras coisas.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_locos-x-el-asado-s01e13-o-churrasco-perfeito_l_m.jpg",
-      "end_time": "21:17"
+      "show_category": "Temporada 1 Episódio 13 - O Churrasco Perfeito",
+      "start_time": "21:14",
+      "end_time": "21:37",
+      "episode_description": "Os rapazes decidem organizar um grande churrasco e não economizam esforços para fazer o churrasco perfeito. Laucha e seus amigos vão às ruas para perguntar às pessoas o que seria o churrasco perfeito, o que não pode faltar, quem não pode faltar, qual bebida deve acompanhar, qual é o melhor dia, que música tem que tocar, entre outras coisas."
     },
     {
-      "start_time": "21:17",
-      "show_name": "Show de Cozinha",
-      "show_category": "Temporada 17 Episódio 7 - Molhos de Verão",
-      "episode_description": "Os molhos de verão são as estrelas deste episódio. Geoffrey Zakarian prepara vieiras ao molho de mel e alcaparras. Sunny Anderson ensina a fazer um molho de lemon pepper e Jeff Mauro, um de mostarda com pimenta cereja e mel.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_show-de-cozinha-s17e07-molhos-de-ver-o_l_m.jpg",
-      "end_time": "21:37"
-    },
-    {
-      "start_time": "21:37",
       "show_name": "Locos x el asado",
-      "show_category": "Temporada 2 Episódio 1 - Jaime Pesaque Roose",
-      "episode_description": "Laucha se dispõe a fazer um assado para todos os seus amigos, mas antes ele tem que receber seu convidado, com quem vai cozinhar duas receitas incríveis. Cada uma delas traz elementos especiais e temperos incríveis.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_locos-x-el-asado-s02e01-jaime-pesaque-roose_l_m.jpg",
-      "end_time": "21:59"
+      "show_category": "Temporada 2 Episódio 1 - Jaime Pesaque Roose",
+      "start_time": "21:37",
+      "end_time": "22:00",
+      "episode_description": "Laucha se dispõe a fazer um assado para todos os seus amigos, mas antes ele tem que receber seu convidado, com quem vai cozinhar duas receitas incríveis. Cada uma delas traz elementos especiais e temperos incríveis."
     },
     {
-      "start_time": "21:59",
-      "show_name": "Show de Cozinha",
-      "show_category": "Temporada 17 Episódio 11 - Fáceis e Saborosos",
-      "episode_description": "No auge do verão, os chefs ensinam receitas fáceis de preparar. Katie Lee faz um frango grelhado com salada grega de repolho. Para a sobremesa, Jeff Mauro mostra como fazer torta fria de chocolate e manteiga de amendoim.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_show-de-cozinha-s17e11-faceis-e-saborosos_l_m.jpg",
-      "end_time": "22:00"
-    },
-    {
-      "start_time": "22:00",
       "show_name": "Locos x el asado",
-      "show_category": "Temporada 2 Episódio 2 - Juan Diego Vanegas",
-      "episode_description": "Laucha apresenta seu novo convidado, com quem vai cozinhar duas receitas deliciosas. Uma receita original de Juan Diego Vanegas, que desenvolve um prato com os temperos mais saborosos e autênticos de sua terra natal, e é paralelamente complementada com a receita de Laucha, uma carne grelhada repleta de sabor com seu estilo bem rústico na grelha.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_locos-x-el-asado-s02e02-juan-diego-vanegas_l_m.jpg",
-      "end_time": "22:23"
+      "show_category": "Temporada 2 Episódio 2 - Juan Diego Vanegas",
+      "start_time": "22:00",
+      "end_time": "22:23",
+      "episode_description": "Laucha apresenta seu novo convidado, com quem vai cozinhar duas receitas deliciosas. Uma receita original de Juan Diego Vanegas, que desenvolve um prato com os temperos mais saborosos e autênticos de sua terra natal, e é paralelamente complementada com a receita de Laucha, uma carne grelhada repleta de sabor com seu estilo bem rústico na grelha."
     },
     {
-      "start_time": "22:23",
       "show_name": "Locos x el asado",
-      "show_category": "Temporada 2 Episódio 3 - Ricardo Muñoz Zurita",
-      "episode_description": "Laucha convida Ricardo Muñoz Zurita, que leva à mesa um prato típico do México, e compartilha o processo desta receita com ela, que acrescenta sua própria receita de assado argentino para complementar e fundir ambas culturas em um prato final que deleita todos os loucos.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_locos-x-el-asado-s02e03-ricardo-munoz-zurita_l_m.jpg",
-      "end_time": "22:45"
+      "show_category": "Temporada 2 Episódio 3 - Ricardo Muñoz Zurita",
+      "start_time": "22:23",
+      "end_time": "22:46",
+      "episode_description": "Laucha convida Ricardo Muñoz Zurita, que leva à mesa um prato típico do México, e compartilha o processo desta receita com ela, que acrescenta sua própria receita de assado argentino para complementar e fundir ambas culturas em um prato final que deleita todos os loucos."
     },
     {
-      "start_time": "22:45",
       "show_name": "Kitchen Boss",
-      "show_category": "Temporada 2 Episódio 6 - Sopa e Sanduíches",
-      "episode_description": "Buddy prepara um festival de sopa e sanduíches. Ele faz minestrone e panini de peru e alcachofra, sopa de cebolas com croque monsieurs e uma sopa clam chowder com sanduíche de bacon, tomate e alface.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_kitchen-boss-s02e06-sopa-e-panini_l_m.jpg",
-      "end_time": "22:46"
-    },
-    {
-      "start_time": "22:46",
-      "show_name": "Kitchen Boss",
-      "show_category": "Temporada 2 Episódio 28 - Jantar de Domingo",
-      "episode_description": "Buddy continua a ensinar receitas de família. Para um jantar tradicional de domingo, ele apresenta rosbife com molho de cebola, batatas gratinadas com alho poró e massa. Os Valastros reúnem-se à mesa para comer o banquete.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_kitchen-boss-s02e28-kitchen-boss_l_m.jpg",
-      "end_time": "23:10"
+      "show_category": "Temporada 2 Episódio 28 - Jantar de Domingo",
+      "start_time": "22:46",
+      "end_time": "23:11",
+      "episode_description": "Buddy continua a ensinar receitas de família. Para um jantar tradicional de domingo, ele apresenta rosbife com molho de cebola, batatas gratinadas com alho poró e massa. Os Valastros reúnem-se à mesa para comer o banquete."
     },
     {
-      "start_time": "23:10",
       "show_name": "Kitchen Boss",
-      "show_category": "Temporada 2 Episódio 12 - Festa Mexicana",
-      "episode_description": "Buddy e suas duas Lisas - a mulher e a irmã - preparam pratos mexicanos. O menu inclui carne frita com molho de tomate, quesadillas e, para a sobremesa, churros com molho picante de chocolate.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_kitchen-boss-s02e12-kitchen-boss_l_m.jpg",
-      "end_time": "23:11"
-    },
-    {
-      "start_time": "23:11",
-      "show_name": "Kitchen Boss",
-      "show_category": "Temporada 2 Episódio 24 - Banquete dos 7 Peixes",
-      "episode_description": "Nina ajuda o sobrinho Buddy a preparar pratos italianos tradicionais de frutos do mar. Sopa de bacalhau, salada de frutos do mar e peixe frito são alguns dos pratos preferidos de Buddy.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_kitchen-boss-s02e24-kitchen-boss_l_m.jpg",
-      "end_time": "23:34"
+      "show_category": "Temporada 2 Episódio 24 - Banquete dos 7 Peixes",
+      "start_time": "23:11",
+      "end_time": "23:35",
+      "episode_description": "Nina ajuda o sobrinho Buddy a preparar pratos italianos tradicionais de frutos do mar. Sopa de bacalhau, salada de frutos do mar e peixe frito são alguns dos pratos preferidos de Buddy."
     },
     {
-      "start_time": "23:34",
       "show_name": "Cake Boss",
-      "show_category": "Temporada 15 Episódio 3 - Ondas e Melancias",
-      "episode_description": "O dono de uma loja de surfe encomenda um bolo de verão para uma competição; Mauro precisa criar um bolo especial para a Festa da Melancia.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cake-boss-s15e03-ondas-e-melancias_l_m.jpg",
-      "end_time": "23:35"
-    },
-    {
-      "start_time": "23:35",
-      "show_name": "Cake Boss",
-      "show_category": "Temporada 15 Episódio 5 - Resgate de Tartaruga e Bolo sobre Patins",
-      "episode_description": "Buddy e a equipe criam um bolo gigante para marcar a libertação de uma tartaruga-marinha resgatada. Enquanto isso, Grace entrega um bolo de patins.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_cake-boss-s15e05-resgate-de-tartaruga-e-bolo-sobre-patins_l_m.jpg",
-      "end_time": "23:59"
-    },
-    {
-      "start_time": "23:59",
-      "show_name": "Cake Boss",
-      "show_category": "Temporada 15 Episódio 4 - Aviões e Borboletas",
-      "episode_description": "Buddy cria um lindo bolo de borboleta para um zoológico; a equipe recebe uma encomenda da Força Aérea norte-americana.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cake-boss-s15e04-avi-es-e-borboletas_l_m.jpg",
-      "end_time": "23:59"
+      "show_category": "Temporada 15 Episódio 5 - Resgate de Tartaruga e Bolo sobre Patins",
+      "start_time": "23:35",
+      "end_time": "",
+      "episode_description": "Buddy e a equipe criam um bolo gigante para marcar a libertação de uma tartaruga-marinha resgatada. Enquanto isso, Grace entrega um bolo de patins."
     }
   ]
 }

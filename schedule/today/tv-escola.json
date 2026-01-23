@@ -3,836 +3,444 @@
   "date": "23/01/2026",
   "schedule": [
     {
-      "start_time": "00:15",
       "show_name": "Histórias do Brasil",
-      "show_category": "History",
-      "episode_description": "Acompanhe a história de figuras importantes e momentos decisivos da história do Brasil.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_historias-do-brasil_l_m.jpg",
-      "end_time": "00:15"
-    },
-    {
+      "show_category": "History",
       "start_time": "00:15",
-      "show_name": "Histórias do Brasil",
-      "show_category": "History",
-      "episode_description": "Acompanhe a história de figuras importantes e momentos decisivos da história do Brasil.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_historias-do-brasil_l_m.jpg",
-      "end_time": "00:15"
+      "end_time": "00:25",
+      "episode_description": "Acompanhe a história de figuras importantes e momentos decisivos da história do Brasil."
     },
     {
-      "start_time": "00:25",
       "show_name": "Preto no Branco",
-      "show_category": "Bus./financial",
-      "episode_description": "Maria Gal comanda o programa que debate pautas raciais, abordando assuntos como a diversidade no mundo corporativo, racismo e finanças, intolerância religiosa, representatividade na publicidade, racismo no esporte e como ser antirracista.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_preto-no-branco-2_l_m.jpg",
-      "end_time": "00:25"
-    },
-    {
+      "show_category": "Bus./financial",
       "start_time": "00:25",
-      "show_name": "Preto no Branco",
-      "show_category": "Bus./financial",
-      "episode_description": "Maria Gal comanda o programa que debate pautas raciais, abordando assuntos como a diversidade no mundo corporativo, racismo e finanças, intolerância religiosa, representatividade na publicidade, racismo no esporte e como ser antirracista.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_preto-no-branco-2_l_m.jpg",
-      "end_time": "00:30"
+      "end_time": "00:30",
+      "episode_description": "Maria Gal comanda o programa que debate pautas raciais, abordando assuntos como a diversidade no mundo corporativo, racismo e finanças, intolerância religiosa, representatividade na publicidade, racismo no esporte e como ser antirracista."
     },
     {
-      "start_time": "00:30",
       "show_name": "Se Liga na Educação - Enem",
-      "show_category": "Educational",
-      "episode_description": "Acompanhe as aulas produzidas pela Secretaria de Estado de Educação de Minas Gerais.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_se-liga-na-educac-o-enem_l_m.jpg",
-      "end_time": "00:30"
-    },
-    {
+      "show_category": "Educational",
       "start_time": "00:30",
-      "show_name": "Se Liga na Educação - Enem",
-      "show_category": "Educational",
-      "episode_description": "Acompanhe as aulas produzidas pela Secretaria de Estado de Educação de Minas Gerais.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_se-liga-na-educac-o-enem_l_m.jpg",
-      "end_time": "00:30"
+      "end_time": "01:45",
+      "episode_description": "Acompanhe as aulas produzidas pela Secretaria de Estado de Educação de Minas Gerais."
     },
     {
-      "start_time": "01:45",
       "show_name": "Entrelinhas",
-      "show_category": "Educational",
-      "episode_description": "O universo dos livros e das diversas formas da leitura no mundo contemporâneo. Obras de diversos gêneros e autores são indicadas. Personalidades da arte literária também são entrevistadas.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_entrelinhas_l_m.jpg",
-      "end_time": "01:45"
-    },
-    {
+      "show_category": "Educational",
       "start_time": "01:45",
-      "show_name": "Trilha de Letras",
-      "show_category": "Interview",
-      "episode_description": "Autores expõem suas opiniões e críticas sobre diversos temas, unindo literatura e informação.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_trilha-de-letras_l_m.jpg",
-      "end_time": "02:00"
+      "end_time": "02:15",
+      "episode_description": "O universo dos livros e das diversas formas da leitura no mundo contemporâneo. Obras de diversos gêneros e autores são indicadas. Personalidades da arte literária também são entrevistadas."
     },
     {
-      "start_time": "02:15",
       "show_name": "Histórias do Brasil",
-      "show_category": "History",
-      "episode_description": "Acompanhe a história de figuras importantes e momentos decisivos da história do Brasil.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_historias-do-brasil_l_m.jpg",
-      "end_time": "02:15"
-    },
-    {
+      "show_category": "History",
       "start_time": "02:15",
-      "show_name": "Histórias do Brasil",
-      "show_category": "History",
-      "episode_description": "Acompanhe a história de figuras importantes e momentos decisivos da história do Brasil.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_historias-do-brasil_l_m.jpg",
-      "end_time": "02:25"
+      "end_time": "02:25",
+      "episode_description": "Acompanhe a história de figuras importantes e momentos decisivos da história do Brasil."
     },
     {
-      "start_time": "02:25",
       "show_name": "Preto no Branco",
-      "show_category": "Bus./financial",
-      "episode_description": "Maria Gal comanda o programa que debate pautas raciais, abordando assuntos como a diversidade no mundo corporativo, racismo e finanças, intolerância religiosa, representatividade na publicidade, racismo no esporte e como ser antirracista.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_preto-no-branco-2_l_m.jpg",
-      "end_time": "02:25"
-    },
-    {
+      "show_category": "Bus./financial",
       "start_time": "02:25",
-      "show_name": "Preto no Branco",
-      "show_category": "Bus./financial",
-      "episode_description": "Maria Gal comanda o programa que debate pautas raciais, abordando assuntos como a diversidade no mundo corporativo, racismo e finanças, intolerância religiosa, representatividade na publicidade, racismo no esporte e como ser antirracista.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_preto-no-branco-2_l_m.jpg",
-      "end_time": "02:30"
+      "end_time": "02:30",
+      "episode_description": "Maria Gal comanda o programa que debate pautas raciais, abordando assuntos como a diversidade no mundo corporativo, racismo e finanças, intolerância religiosa, representatividade na publicidade, racismo no esporte e como ser antirracista."
     },
     {
-      "start_time": "02:30",
       "show_name": "Olha Elas",
-      "show_category": "Bus./financial",
-      "episode_description": "Bate-papos com histórias que visam inspirar outras empreendedoras que atuam em todo o país. Convidadas falam sobre a participação das mulheres em todos os espaços, empreendedorismo feminino e preto, combate à violência contra a mulher e muito mais.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_olha-elas_l_m.jpg",
-      "end_time": "02:30"
-    },
-    {
+      "show_category": "Bus./financial",
       "start_time": "02:30",
-      "show_name": "Conta a Virada",
-      "show_category": "Public affairs",
-      "episode_description": "Programa conta histórias de empreendedores e viradas nos próprios negócios.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_conta-a-virada_l_m.jpg",
-      "end_time": "02:30"
+      "end_time": "03:30",
+      "episode_description": "Bate-papos com histórias que visam inspirar outras empreendedoras que atuam em todo o país. Convidadas falam sobre a participação das mulheres em todos os espaços, empreendedorismo feminino e preto, combate à violência contra a mulher e muito mais."
     },
     {
-      "start_time": "03:00",
-      "show_name": "UniVERciência",
-      "show_category": "Educational",
-      "episode_description": "O programa promove a popularização e difusão da ciência em seus diversos aspectos, para fortalecer a relação entre as universidades públicas e a sociedade.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_univerciencia_l_m.jpg",
-      "end_time": "03:00"
-    },
-    {
-      "start_time": "03:30",
       "show_name": "Caminhos da Reportagem",
-      "show_category": "Documentary",
-      "episode_description": "Um programa que oferece uma visão diferente, instigante e complexa de grandes histórias, por meio de viagens feitas pelo país e pelo mundo.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_caminhos-da-reportagem-1_l_m.jpg",
-      "end_time": "03:30"
-    },
-    {
+      "show_category": "Documentary",
       "start_time": "03:30",
-      "show_name": "Caminhos da Reportagem",
-      "show_category": "Documentary",
-      "episode_description": "Um programa que oferece uma visão diferente, instigante e complexa de grandes histórias, por meio de viagens feitas pelo país e pelo mundo.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_caminhos-da-reportagem-1_l_m.jpg",
-      "end_time": "03:30"
+      "end_time": "04:00",
+      "episode_description": "Um programa que oferece uma visão diferente, instigante e complexa de grandes histórias, por meio de viagens feitas pelo país e pelo mundo."
     },
     {
-      "start_time": "04:00",
       "show_name": "Compromisso Nacional Criança Alfabetizada",
-      "show_category": "Educational",
-      "episode_description": "Programa visa alfabetizar crianças até o 2º ano do Ensino Fundamental, recuperar a aprendizagem nos anos iniciais, e mostrar esforço delas, destacando seus desafios e estratégias.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_compromisso-nacional-crianca-alfabetizada_l_m.jpg",
-      "end_time": "04:00"
-    },
-    {
+      "show_category": "Educational",
       "start_time": "04:00",
-      "show_name": "Na Raiz dos Festejos",
-      "show_category": "Documentary",
-      "episode_description": "As histórias sobre os festejos brasileiros, suas lendas, possíveis origens, curiosidades, simbologias e fatos que marcam a memória, a beleza e a resistência das manifestações populares do Brasil.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_na-raiz-dos-festejos_l_m.jpg",
-      "end_time": "04:00"
+      "end_time": "04:30",
+      "episode_description": "Programa visa alfabetizar crianças até o 2º ano do Ensino Fundamental, recuperar a aprendizagem nos anos iniciais, e mostrar esforço delas, destacando seus desafios e estratégias."
     },
     {
-      "start_time": "04:30",
       "show_name": "Sementes da Educação",
-      "show_category": "Documentary",
-      "episode_description": "Mesmo com recursos escassos, algumas escolas conseguiram inovar os métodos educacionais.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sementes-da-educac-o_l_m.jpg",
-      "end_time": "04:30"
-    },
-    {
+      "show_category": "Documentary",
       "start_time": "04:30",
-      "show_name": "Sementes da Educação",
-      "show_category": "Documentary",
-      "episode_description": "Mesmo com recursos escassos, algumas escolas conseguiram inovar os métodos educacionais.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sementes-da-educac-o_l_m.jpg",
-      "end_time": "04:30"
+      "end_time": "05:00",
+      "episode_description": "Mesmo com recursos escassos, algumas escolas conseguiram inovar os métodos educacionais."
     },
     {
-      "start_time": "05:00",
       "show_name": "Vida de Merendeira",
-      "show_category": "Reality",
-      "episode_description": "Merendeiras de escolas cozinham receitas deliciosas e mostram como alimentam suas comunidades.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_vida-de-merendeira_l_m.jpg",
-      "end_time": "05:00"
-    },
-    {
+      "show_category": "Reality",
       "start_time": "05:00",
-      "show_name": "Compromisso Nacional Criança Alfabetizada",
-      "show_category": "Educational",
-      "episode_description": "Programa visa alfabetizar crianças até o 2º ano do Ensino Fundamental, recuperar a aprendizagem nos anos iniciais, e mostrar esforço delas, destacando seus desafios e estratégias.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_compromisso-nacional-crianca-alfabetizada_l_m.jpg",
-      "end_time": "05:00"
+      "end_time": "06:00",
+      "episode_description": "Merendeiras de escolas cozinham receitas deliciosas e mostram como alimentam suas comunidades."
     },
     {
-      "start_time": "05:30",
-      "show_name": "Meu Pedaço do Brasil",
-      "show_category": "Travel",
-      "episode_description": "Ela é a Princesinha do Agreste, capital do forró e casa da maior festa de São João do mundo. Conheça mais sobre Caruaru, uma das maiores cidades do interior do Nordeste e reconhecida pela expressão de sua cultura popular.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_meu-pedaco-do-brasil_l_m.jpg",
-      "end_time": "05:30"
-    },
-    {
-      "start_time": "06:00",
       "show_name": "Faróis do Brasil",
-      "show_category": "Art",
-      "episode_description": "Conheça o Farol da Ilha Rasa, que fica no Arquipélago das Cagarras, zona sul do Rio de Janeiro. Além de belas paisagens, de lá também se avista muita história sobre esse monumento construído no século 19.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_farois-do-brasil_l_m.jpg",
-      "end_time": "06:00"
-    },
-    {
+      "show_category": "Art",
       "start_time": "06:00",
-      "show_name": "Nossos Biomas",
-      "show_category": "Documentary",
-      "episode_description": "Série documental viaja aos biomas brasileiros e explora lugares como a Mata Atlântica, os Pampas, o Pantanal, a Caatinga, a Amazônia e o Cerrado.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_nossos-biomas_l_m.jpg",
-      "end_time": "06:30"
+      "end_time": "06:30",
+      "episode_description": "Conheça o Farol da Ilha Rasa, que fica no Arquipélago das Cagarras, zona sul do Rio de Janeiro. Além de belas paisagens, de lá também se avista muita história sobre esse monumento construído no século 19."
     },
     {
-      "start_time": "06:30",
-      "show_name": "Nheengatu",
-      "show_category": "Documentary / 2020",
-      "episode_description": "Ao longo de uma viagem no alto Rio Negro, na Amazônia profunda, o diretor busca uma língua imposta aos indígenas pelos antigos colonizadores. Através desta língua misturada, o Nheengatu, e dividindo a filmagem com a população local, o filme se constrói no encontro de dois mundos.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_nheengatu-2020_l_m.jpg",
-      "end_time": "06:30"
-    },
-    {
-      "start_time": "06:30",
       "show_name": "Filhos da Liberdade",
-      "show_category": "Drama",
-      "episode_description": "Amara retorna ao quilombo onde nasceu e perde tragicamente sua filha. A partir deste trauma, ela passa a viajar misteriosamente pelo tempo.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_filhos-da-liberdade-1_l_m.jpg",
-      "end_time": "06:30"
+      "show_category": "Drama",
+      "start_time": "06:30",
+      "end_time": "07:00",
+      "episode_description": "Amara retorna ao quilombo onde nasceu e perde tragicamente sua filha. A partir deste trauma, ela passa a viajar misteriosamente pelo tempo."
     },
     {
+      "show_name": "Olhares do Norte - Pará",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_olhares-do-norte-para_l_m.jpg",
+      "show_category": "Public affairs",
       "start_time": "07:00",
-      "show_name": "Olhares do Norte - Pará",
-      "show_category": "Public affairs",
-      "episode_description": "Treze olhares que definiram e trouxeram destaque nacional e internacional à fotografia paraense. A vida e a obra de fotógrafos de diferentes gerações, que compartilham suas experiências de vida, aprendizados e processos criativos.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_olhares-do-norte-para_l_m.jpg",
-      "end_time": "07:00"
+      "end_time": "07:30",
+      "episode_description": "Treze olhares que definiram e trouxeram destaque nacional e internacional à fotografia paraense. A vida e a obra de fotógrafos de diferentes gerações, que compartilham suas experiências de vida, aprendizados e processos criativos."
     },
     {
+      "show_name": "Sementes da Educação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sementes-da-educac-o_l_m.jpg",
+      "show_category": "Documentary",
       "start_time": "07:30",
-      "show_name": "Sementes da Educação",
-      "show_category": "Documentary",
-      "episode_description": "Mesmo com recursos escassos, algumas escolas conseguiram inovar os métodos educacionais.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sementes-da-educac-o_l_m.jpg",
-      "end_time": "07:30"
+      "end_time": "08:00",
+      "episode_description": "Mesmo com recursos escassos, algumas escolas conseguiram inovar os métodos educacionais."
     },
     {
+      "show_name": "Compromisso Nacional Criança Alfabetizada",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_compromisso-nacional-crianca-alfabetizada_l_m.jpg",
+      "show_category": "Educational",
       "start_time": "08:00",
-      "show_name": "Compromisso Nacional Criança Alfabetizada",
-      "show_category": "Educational",
-      "episode_description": "Programa visa alfabetizar crianças até o 2º ano do Ensino Fundamental, recuperar a aprendizagem nos anos iniciais, e mostrar esforço delas, destacando seus desafios e estratégias.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_compromisso-nacional-crianca-alfabetizada_l_m.jpg",
-      "end_time": "08:00"
+      "end_time": "08:30",
+      "episode_description": "Programa visa alfabetizar crianças até o 2º ano do Ensino Fundamental, recuperar a aprendizagem nos anos iniciais, e mostrar esforço delas, destacando seus desafios e estratégias."
     },
     {
-      "start_time": "08:30",
-      "show_name": "Caminhos da Reportagem",
-      "show_category": "Documentary",
-      "episode_description": "Um programa que oferece uma visão diferente, instigante e complexa de grandes histórias, por meio de viagens feitas pelo país e pelo mundo.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_caminhos-da-reportagem-1_l_m.jpg",
-      "end_time": "08:30"
-    },
-    {
-      "start_time": "08:30",
       "show_name": "Vida de Merendeira",
-      "show_category": "Reality",
-      "episode_description": "Merendeiras de escolas cozinham receitas deliciosas e mostram como alimentam suas comunidades.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_vida-de-merendeira_l_m.jpg",
-      "end_time": "08:30"
+      "show_category": "Reality",
+      "start_time": "08:30",
+      "end_time": "09:30",
+      "episode_description": "Merendeiras de escolas cozinham receitas deliciosas e mostram como alimentam suas comunidades."
     },
     {
-      "start_time": "09:00",
-      "show_name": "Inclusão para Valer",
-      "show_category": "Educational",
-      "episode_description": "Uma visão abrangente e educativa sobre os desafios e avanços na inclusão de pessoas com deficiência, promovendo a construção de uma sociedade mais justa e inclusiva.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_inclus-o-para-valer_l_m.jpg",
-      "end_time": "09:30"
-    },
-    {
-      "start_time": "09:30",
-      "show_name": "Nheengatu",
-      "show_category": "Documentary / 2020",
-      "episode_description": "Ao longo de uma viagem no alto Rio Negro, na Amazônia profunda, o diretor busca uma língua imposta aos indígenas pelos antigos colonizadores. Através desta língua misturada, o Nheengatu, e dividindo a filmagem com a população local, o filme se constrói no encontro de dois mundos.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_nheengatu-2020_l_m.jpg",
-      "end_time": "09:30"
-    },
-    {
-      "start_time": "09:30",
       "show_name": "Filhos da Liberdade",
-      "show_category": "Drama",
-      "episode_description": "Amara retorna ao quilombo onde nasceu e perde tragicamente sua filha. A partir deste trauma, ela passa a viajar misteriosamente pelo tempo.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_filhos-da-liberdade-1_l_m.jpg",
-      "end_time": "09:30"
+      "show_category": "Drama",
+      "start_time": "09:30",
+      "end_time": "10:00",
+      "episode_description": "Amara retorna ao quilombo onde nasceu e perde tragicamente sua filha. A partir deste trauma, ela passa a viajar misteriosamente pelo tempo."
     },
     {
-      "start_time": "10:00",
       "show_name": "Olhares do Norte - Pará",
-      "show_category": "Public affairs",
-      "episode_description": "Treze olhares que definiram e trouxeram destaque nacional e internacional à fotografia paraense. A vida e a obra de fotógrafos de diferentes gerações, que compartilham suas experiências de vida, aprendizados e processos criativos.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_olhares-do-norte-para_l_m.jpg",
-      "end_time": "10:00"
-    },
-    {
-      "start_time": "10:30",
-      "show_name": "Sementes da Educação",
-      "show_category": "Documentary",
-      "episode_description": "Mesmo com recursos escassos, algumas escolas conseguiram inovar os métodos educacionais.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sementes-da-educac-o_l_m.jpg",
-      "end_time": "10:30"
-    },
-    {
-      "start_time": "11:00",
-      "show_name": "Compromisso Nacional Criança Alfabetizada",
-      "show_category": "Educational",
-      "episode_description": "Programa visa alfabetizar crianças até o 2º ano do Ensino Fundamental, recuperar a aprendizagem nos anos iniciais, e mostrar esforço delas, destacando seus desafios e estratégias.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_compromisso-nacional-crianca-alfabetizada_l_m.jpg",
-      "end_time": "11:00"
-    },
-    {
-      "start_time": "11:30",
-      "show_name": "Vida de Merendeira",
-      "show_category": "Reality",
-      "episode_description": "Merendeiras de escolas cozinham receitas deliciosas e mostram como alimentam suas comunidades.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_vida-de-merendeira_l_m.jpg",
-      "end_time": "11:30"
-    },
-    {
-      "start_time": "11:30",
-      "show_name": "Olha Elas",
-      "show_category": "Bus./financial",
-      "episode_description": "Bate-papos com histórias que visam inspirar outras empreendedoras que atuam em todo o país. Convidadas falam sobre a participação das mulheres em todos os espaços, empreendedorismo feminino e preto, combate à violência contra a mulher e muito mais.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_olha-elas_l_m.jpg",
-      "end_time": "11:30"
-    },
-    {
-      "start_time": "12:30",
-      "show_name": "Se Liga na Educação - Enem",
-      "show_category": "Educational",
-      "episode_description": "Acompanhe as aulas produzidas pela Secretaria de Estado de Educação de Minas Gerais.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_se-liga-na-educac-o-enem_l_m.jpg",
-      "end_time": "12:30"
-    },
-    {
-      "start_time": "12:30",
-      "show_name": "Se Liga na Educação - Enem",
-      "show_category": "Educational",
-      "episode_description": "Acompanhe as aulas produzidas pela Secretaria de Estado de Educação de Minas Gerais.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_se-liga-na-educac-o-enem_l_m.jpg",
-      "end_time": "12:30"
-    },
-    {
-      "start_time": "13:45",
-      "show_name": "Trilha de Letras",
-      "show_category": "Interview",
-      "episode_description": "Autores expõem suas opiniões e críticas sobre diversos temas, unindo literatura e informação.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_trilha-de-letras_l_m.jpg",
-      "end_time": "13:45"
-    },
-    {
-      "start_time": "13:45",
-      "show_name": "Entrelinhas",
-      "show_category": "Educational",
-      "episode_description": "O universo dos livros e das diversas formas da leitura no mundo contemporâneo. Obras de diversos gêneros e autores são indicadas. Personalidades da arte literária também são entrevistadas.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_entrelinhas_l_m.jpg",
-      "end_time": "14:15"
-    },
-    {
-      "start_time": "14:15",
-      "show_name": "Histórias do Brasil",
-      "show_category": "History",
-      "episode_description": "Acompanhe a história de figuras importantes e momentos decisivos da história do Brasil.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_historias-do-brasil_l_m.jpg",
-      "end_time": "14:15"
-    },
-    {
-      "start_time": "14:15",
-      "show_name": "Histórias do Brasil",
-      "show_category": "History",
-      "episode_description": "Acompanhe a história de figuras importantes e momentos decisivos da história do Brasil.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_historias-do-brasil_l_m.jpg",
-      "end_time": "14:25"
-    },
-    {
-      "start_time": "14:25",
-      "show_name": "Preto no Branco",
-      "show_category": "Bus./financial",
-      "episode_description": "Maria Gal comanda o programa que debate pautas raciais, abordando assuntos como a diversidade no mundo corporativo, racismo e finanças, intolerância religiosa, representatividade na publicidade, racismo no esporte e como ser antirracista.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_preto-no-branco-2_l_m.jpg",
-      "end_time": "14:25"
-    },
-    {
-      "start_time": "14:25",
-      "show_name": "Preto no Branco",
-      "show_category": "Bus./financial",
-      "episode_description": "Maria Gal comanda o programa que debate pautas raciais, abordando assuntos como a diversidade no mundo corporativo, racismo e finanças, intolerância religiosa, representatividade na publicidade, racismo no esporte e como ser antirracista.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_preto-no-branco-2_l_m.jpg",
-      "end_time": "14:30"
-    },
-    {
-      "start_time": "14:30",
-      "show_name": "Vida de Merendeira",
-      "show_category": "Reality",
-      "episode_description": "Merendeiras de escolas cozinham receitas deliciosas e mostram como alimentam suas comunidades.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_vida-de-merendeira_l_m.jpg",
-      "end_time": "14:30"
-    },
-    {
-      "start_time": "14:30",
-      "show_name": "Compromisso Nacional Criança Alfabetizada",
-      "show_category": "Educational",
-      "episode_description": "Programa visa alfabetizar crianças até o 2º ano do Ensino Fundamental, recuperar a aprendizagem nos anos iniciais, e mostrar esforço delas, destacando seus desafios e estratégias.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_compromisso-nacional-crianca-alfabetizada_l_m.jpg",
-      "end_time": "14:30"
-    },
-    {
-      "start_time": "15:00",
-      "show_name": "Sementes da Educação",
-      "show_category": "Documentary",
-      "episode_description": "Mesmo com recursos escassos, algumas escolas conseguiram inovar os métodos educacionais.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sementes-da-educac-o_l_m.jpg",
-      "end_time": "15:00"
-    },
-    {
-      "start_time": "15:30",
-      "show_name": "Palaloos",
-      "show_category": "Educational",
-      "episode_description": "Kazu, Pico e Bao Bao formam um trio travesso de palaloos, criaturas mágicas que vivem na Palalândia, um mundo geométrico colorido e cheio de surpresas. Todos os dias, o trio se diverte explorando o próprio planeta.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_palaloos_l_m.jpg",
-      "end_time": "15:30"
-    },
-    {
-      "start_time": "15:30",
-      "show_name": "Palaloos",
-      "show_category": "Educational",
-      "episode_description": "Kazu, Pico e Bao Bao formam um trio travesso de palaloos, criaturas mágicas que vivem na Palalândia, um mundo geométrico colorido e cheio de surpresas. Todos os dias, o trio se diverte explorando o próprio planeta.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_palaloos_l_m.jpg",
-      "end_time": "15:45"
-    },
-    {
-      "start_time": "15:45",
-      "show_name": "Planeta Palavra",
-      "show_category": "Children",
-      "episode_description": "No mundo das palavras, um lugar colorido, alegre e cercado pela natureza, as palavras ganham vida e se tornam as melhores amigas das crianças.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_planeta-palavra_l_m.jpg",
-      "end_time": "15:45"
-    },
-    {
-      "start_time": "15:45",
-      "show_name": "Planeta Palavra",
-      "show_category": "Children",
-      "episode_description": "No mundo das palavras, um lugar colorido, alegre e cercado pela natureza, as palavras ganham vida e se tornam as melhores amigas das crianças.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_planeta-palavra_l_m.jpg",
-      "end_time": "15:55"
-    },
-    {
-      "start_time": "15:55",
-      "show_name": "Planeta Palavra",
-      "show_category": "Children",
-      "episode_description": "No mundo das palavras, um lugar colorido, alegre e cercado pela natureza, as palavras ganham vida e se tornam as melhores amigas das crianças.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_planeta-palavra_l_m.jpg",
-      "end_time": "15:55"
-    },
-    {
-      "start_time": "15:55",
-      "show_name": "Planeta Palavra",
-      "show_category": "Children",
-      "episode_description": "No mundo das palavras, um lugar colorido, alegre e cercado pela natureza, as palavras ganham vida e se tornam as melhores amigas das crianças.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_planeta-palavra_l_m.jpg",
-      "end_time": "16:00"
-    },
-    {
-      "start_time": "16:05",
-      "show_name": "Gildo",
-      "show_category": "Children",
-      "episode_description": "A turminha está jogando vôlei na praça, mas a bola vai parar em um buraco que parece ser uma caverna de dragão. Socorro toma coragem para entrar na caverna e acaba descobrindo que a corujinha Vanessa também está explorando o local.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_gildo_l_m.jpg",
-      "end_time": "16:05"
-    },
-    {
-      "start_time": "16:05",
-      "show_name": "Gildo",
-      "show_category": "Children",
-      "episode_description": "A turminha está jogando vôlei na praça, mas a bola vai parar em um buraco que parece ser uma caverna de dragão. Socorro toma coragem para entrar na caverna e acaba descobrindo que a corujinha Vanessa também está explorando o local.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_gildo_l_m.jpg",
-      "end_time": "16:20"
-    },
-    {
-      "start_time": "16:20",
-      "show_name": "Aninha - A Infância de Cora Coralina",
-      "show_category": "Children",
-      "episode_description": "A infância de uma das maiores escritoras brasileiras, Cora Coralina, pseudônimo de Anna Lins dos Guimarães Peixoto Bretas. As vivências da autora e poetisa em Goiás Velho e sua amizade com seres imaginários, que suavizavam um cotidiano difícil.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_aninha-a-infancia-de-cora-coralina_l_m.jpg",
-      "end_time": "16:20"
-    },
-    {
-      "start_time": "16:20",
-      "show_name": "Aninha - A Infância de Cora Coralina",
-      "show_category": "Children",
-      "episode_description": "A infância de uma das maiores escritoras brasileiras, Cora Coralina, pseudônimo de Anna Lins dos Guimarães Peixoto Bretas. As vivências da autora e poetisa em Goiás Velho e sua amizade com seres imaginários, que suavizavam um cotidiano difícil.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_aninha-a-infancia-de-cora-coralina_l_m.jpg",
-      "end_time": "16:30"
-    },
-    {
-      "start_time": "16:30",
-      "show_name": "Igarapé Mágico",
-      "show_category": "Children",
-      "episode_description": "As aventuras giram em torno de uma turminha formada por quatro filhotes da fauna brasileira: um pirarucu, um peixe-boi, uma sucuri e uma piranha. Aprenda sobre sustentabilidade, lixo, poluição, importância da água e a preservação das espécies.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_igarape-magico-1_l_m.jpg",
-      "end_time": "16:30"
-    },
-    {
-      "start_time": "16:30",
-      "show_name": "Igarapé Mágico",
-      "show_category": "Children",
-      "episode_description": "As aventuras giram em torno de uma turminha formada por quatro filhotes da fauna brasileira: um pirarucu, um peixe-boi, uma sucuri e uma piranha. Aprenda sobre sustentabilidade, lixo, poluição, importância da água e a preservação das espécies.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_igarape-magico-1_l_m.jpg",
-      "end_time": "16:30"
-    },
-    {
-      "start_time": "16:50",
-      "show_name": "Passado da Hora",
-      "show_category": "Children",
-      "episode_description": "Uma história de uma época distante, próxima de 1500. Descubra como os povos antigos viviam.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_passado-da-hora_l_m.jpg",
-      "end_time": "16:50"
-    },
-    {
-      "start_time": "16:50",
-      "show_name": "Passado da Hora",
-      "show_category": "Children",
-      "episode_description": "Uma história de uma época distante, próxima de 1500. Descubra como os povos antigos viviam.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_passado-da-hora_l_m.jpg",
-      "end_time": "17:00"
-    },
-    {
-      "start_time": "17:00",
-      "show_name": "Minha Casa, Nosso Mundo",
-      "show_category": "Documentary",
-      "episode_description": "Uma aldeia pataxó, um circo paulista ou uma fazenda baiana são alguns dos destinos de 13 crianças que vivem experiências únicas quando partem para conhecer a casa, os hábitos e a cultura umas das outras.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_minha-casa-nosso-mundo_l_m.jpg",
-      "end_time": "17:00"
-    },
-    {
-      "start_time": "17:00",
-      "show_name": "Minha Casa, Nosso Mundo",
-      "show_category": "Documentary",
-      "episode_description": "Uma aldeia pataxó, um circo paulista ou uma fazenda baiana são alguns dos destinos de 13 crianças que vivem experiências únicas quando partem para conhecer a casa, os hábitos e a cultura umas das outras.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_minha-casa-nosso-mundo_l_m.jpg",
-      "end_time": "17:15"
-    },
-    {
-      "start_time": "17:15",
-      "show_name": "O Teco-Teco",
-      "show_category": "Children",
-      "episode_description": "O Teco-Teco tem como público-alvo crianças entre 7 e 10 anos e, a partir da curiosidade própria desta faixa etária, o programa apresenta histórias, jogos e desafios e se propõe a colaborar de forma lúdica no processo de construção do conhecimento.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-teco-teco-1_l_m.jpg",
-      "end_time": "17:15"
-    },
-    {
-      "start_time": "17:15",
-      "show_name": "O Teco-Teco",
-      "show_category": "Children",
-      "episode_description": "O Teco-Teco tem como público-alvo crianças entre 7 e 10 anos e, a partir da curiosidade própria desta faixa etária, o programa apresenta histórias, jogos e desafios e se propõe a colaborar de forma lúdica no processo de construção do conhecimento.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-teco-teco-1_l_m.jpg",
-      "end_time": "17:30"
-    },
-    {
-      "start_time": "17:30",
-      "show_name": "Manual de Sobrevivência da Literatura Brasileira",
-      "show_category": "Children",
-      "episode_description": "Os primos Gabriela e Rodrigo embarcam em aventuras mágicas a partir de uma biblioteca secreta, enfrentando uma vilã que quer alterar os destinos dos clássicos da literatura brasileira.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_manual-de-sobrevivencia-da-literatura-brasileira_l_m.jpg",
-      "end_time": "17:30"
-    },
-    {
-      "start_time": "17:30",
-      "show_name": "Manual de Sobrevivência da Literatura Brasileira",
-      "show_category": "Children",
-      "episode_description": "Os primos Gabriela e Rodrigo embarcam em aventuras mágicas a partir de uma biblioteca secreta, enfrentando uma vilã que quer alterar os destinos dos clássicos da literatura brasileira.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_manual-de-sobrevivencia-da-literatura-brasileira_l_m.jpg",
-      "end_time": "17:30"
-    },
-    {
-      "start_time": "18:00",
-      "show_name": "Se Liga na Educação - Enem",
-      "show_category": "Educational",
-      "episode_description": "Acompanhe as aulas produzidas pela Secretaria de Estado de Educação de Minas Gerais.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_se-liga-na-educac-o-enem_l_m.jpg",
-      "end_time": "18:00"
-    },
-    {
-      "start_time": "18:00",
-      "show_name": "Se Liga na Educação - Enem",
-      "show_category": "Educational",
-      "episode_description": "Acompanhe as aulas produzidas pela Secretaria de Estado de Educação de Minas Gerais.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_se-liga-na-educac-o-enem_l_m.jpg",
-      "end_time": "18:00"
-    },
-    {
-      "start_time": "19:15",
-      "show_name": "Entrelinhas",
-      "show_category": "Educational",
-      "episode_description": "O universo dos livros e das diversas formas da leitura no mundo contemporâneo. Obras de diversos gêneros e autores são indicadas. Personalidades da arte literária também são entrevistadas.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_entrelinhas_l_m.jpg",
-      "end_time": "19:15"
-    },
-    {
-      "start_time": "19:15",
-      "show_name": "Trilha de Letras",
-      "show_category": "Interview",
-      "episode_description": "Autores expõem suas opiniões e críticas sobre diversos temas, unindo literatura e informação.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_trilha-de-letras_l_m.jpg",
-      "end_time": "19:30"
-    },
-    {
-      "start_time": "19:45",
-      "show_name": "Histórias do Brasil",
-      "show_category": "History",
-      "episode_description": "Acompanhe a história de figuras importantes e momentos decisivos da história do Brasil.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_historias-do-brasil_l_m.jpg",
-      "end_time": "19:45"
-    },
-    {
-      "start_time": "19:45",
-      "show_name": "Histórias do Brasil",
-      "show_category": "History",
-      "episode_description": "Acompanhe a história de figuras importantes e momentos decisivos da história do Brasil.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_historias-do-brasil_l_m.jpg",
-      "end_time": "19:55"
-    },
-    {
-      "start_time": "19:55",
-      "show_name": "Preto no Branco",
-      "show_category": "Bus./financial",
-      "episode_description": "Maria Gal comanda o programa que debate pautas raciais, abordando assuntos como a diversidade no mundo corporativo, racismo e finanças, intolerância religiosa, representatividade na publicidade, racismo no esporte e como ser antirracista.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_preto-no-branco-2_l_m.jpg",
-      "end_time": "19:55"
-    },
-    {
-      "start_time": "19:55",
-      "show_name": "Preto no Branco",
-      "show_category": "Bus./financial",
-      "episode_description": "Maria Gal comanda o programa que debate pautas raciais, abordando assuntos como a diversidade no mundo corporativo, racismo e finanças, intolerância religiosa, representatividade na publicidade, racismo no esporte e como ser antirracista.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_preto-no-branco-2_l_m.jpg",
-      "end_time": "20:00"
-    },
-    {
-      "start_time": "20:00",
-      "show_name": "Olha Elas",
-      "show_category": "Bus./financial",
-      "episode_description": "Bate-papos com histórias que visam inspirar outras empreendedoras que atuam em todo o país. Convidadas falam sobre a participação das mulheres em todos os espaços, empreendedorismo feminino e preto, combate à violência contra a mulher e muito mais.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_olha-elas_l_m.jpg",
-      "end_time": "20:00"
-    },
-    {
-      "start_time": "20:00",
-      "show_name": "Conta a Virada",
       "show_category": "Public affairs",
-      "episode_description": "Programa conta histórias de empreendedores e viradas nos próprios negócios.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_conta-a-virada_l_m.jpg",
-      "end_time": "20:00"
+      "start_time": "10:00",
+      "end_time": "10:30",
+      "episode_description": "Treze olhares que definiram e trouxeram destaque nacional e internacional à fotografia paraense. A vida e a obra de fotógrafos de diferentes gerações, que compartilham suas experiências de vida, aprendizados e processos criativos."
     },
     {
-      "start_time": "20:30",
-      "show_name": "UniVERciência",
-      "show_category": "Educational",
-      "episode_description": "O programa promove a popularização e difusão da ciência em seus diversos aspectos, para fortalecer a relação entre as universidades públicas e a sociedade.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_univerciencia_l_m.jpg",
-      "end_time": "21:00"
-    },
-    {
-      "start_time": "21:00",
-      "show_name": "Vida de Merendeira",
-      "show_category": "Reality",
-      "episode_description": "Merendeiras de escolas cozinham receitas deliciosas e mostram como alimentam suas comunidades.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_vida-de-merendeira_l_m.jpg",
-      "end_time": "21:00"
-    },
-    {
-      "start_time": "21:00",
       "show_name": "Sementes da Educação",
-      "show_category": "Documentary",
-      "episode_description": "Mesmo com recursos escassos, algumas escolas conseguiram inovar os métodos educacionais.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sementes-da-educac-o_l_m.jpg",
-      "end_time": "21:00"
+      "show_category": "Documentary",
+      "start_time": "10:30",
+      "end_time": "11:00",
+      "episode_description": "Mesmo com recursos escassos, algumas escolas conseguiram inovar os métodos educacionais."
     },
     {
-      "start_time": "21:30",
       "show_name": "Compromisso Nacional Criança Alfabetizada",
-      "show_category": "Educational",
-      "episode_description": "Programa visa alfabetizar crianças até o 2º ano do Ensino Fundamental, recuperar a aprendizagem nos anos iniciais, e mostrar esforço delas, destacando seus desafios e estratégias.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_compromisso-nacional-crianca-alfabetizada_l_m.jpg",
-      "end_time": "21:30"
-    },
-    {
-      "start_time": "22:00",
-      "show_name": "Palaloos",
       "show_category": "Educational",
-      "episode_description": "Kazu, Pico e Bao Bao formam um trio travesso de palaloos, criaturas mágicas que vivem na Palalândia, um mundo geométrico colorido e cheio de surpresas. Todos os dias, o trio se diverte explorando o próprio planeta.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_palaloos_l_m.jpg",
-      "end_time": "22:00"
+      "start_time": "11:00",
+      "end_time": "11:30",
+      "episode_description": "Programa visa alfabetizar crianças até o 2º ano do Ensino Fundamental, recuperar a aprendizagem nos anos iniciais, e mostrar esforço delas, destacando seus desafios e estratégias."
     },
     {
-      "start_time": "22:00",
-      "show_name": "Palaloos",
+      "show_name": "Olha Elas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_olha-elas_l_m.jpg",
+      "show_category": "Bus./financial",
+      "start_time": "11:30",
+      "end_time": "12:30",
+      "episode_description": "Bate-papos com histórias que visam inspirar outras empreendedoras que atuam em todo o país. Convidadas falam sobre a participação das mulheres em todos os espaços, empreendedorismo feminino e preto, combate à violência contra a mulher e muito mais."
+    },
+    {
+      "show_name": "Se Liga na Educação - Enem",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_se-liga-na-educac-o-enem_l_m.jpg",
       "show_category": "Educational",
-      "episode_description": "Kazu, Pico e Bao Bao formam um trio travesso de palaloos, criaturas mágicas que vivem na Palalândia, um mundo geométrico colorido e cheio de surpresas. Todos os dias, o trio se diverte explorando o próprio planeta.",
+      "start_time": "12:30",
+      "end_time": "13:45",
+      "episode_description": "Acompanhe as aulas produzidas pela Secretaria de Estado de Educação de Minas Gerais."
+    },
+    {
+      "show_name": "Entrelinhas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_entrelinhas_l_m.jpg",
+      "show_category": "Educational",
+      "start_time": "13:45",
+      "end_time": "14:15",
+      "episode_description": "O universo dos livros e das diversas formas da leitura no mundo contemporâneo. Obras de diversos gêneros e autores são indicadas. Personalidades da arte literária também são entrevistadas."
+    },
+    {
+      "show_name": "Histórias do Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_historias-do-brasil_l_m.jpg",
+      "show_category": "History",
+      "start_time": "14:15",
+      "end_time": "14:25",
+      "episode_description": "Acompanhe a história de figuras importantes e momentos decisivos da história do Brasil."
+    },
+    {
+      "show_name": "Preto no Branco",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_preto-no-branco-2_l_m.jpg",
+      "show_category": "Bus./financial",
+      "start_time": "14:25",
+      "end_time": "14:30",
+      "episode_description": "Maria Gal comanda o programa que debate pautas raciais, abordando assuntos como a diversidade no mundo corporativo, racismo e finanças, intolerância religiosa, representatividade na publicidade, racismo no esporte e como ser antirracista."
+    },
+    {
+      "show_name": "Compromisso Nacional Criança Alfabetizada",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_compromisso-nacional-crianca-alfabetizada_l_m.jpg",
+      "show_category": "Educational",
+      "start_time": "14:30",
+      "end_time": "15:00",
+      "episode_description": "Programa visa alfabetizar crianças até o 2º ano do Ensino Fundamental, recuperar a aprendizagem nos anos iniciais, e mostrar esforço delas, destacando seus desafios e estratégias."
+    },
+    {
+      "show_name": "Sementes da Educação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sementes-da-educac-o_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "15:00",
+      "end_time": "15:30",
+      "episode_description": "Mesmo com recursos escassos, algumas escolas conseguiram inovar os métodos educacionais."
+    },
+    {
+      "show_name": "Palaloos",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_palaloos_l_m.jpg",
-      "end_time": "22:00"
+      "show_category": "Educational",
+      "start_time": "15:30",
+      "end_time": "15:45",
+      "episode_description": "Kazu, Pico e Bao Bao formam um trio travesso de palaloos, criaturas mágicas que vivem na Palalândia, um mundo geométrico colorido e cheio de surpresas. Todos os dias, o trio se diverte explorando o próprio planeta."
     },
     {
-      "start_time": "22:15",
       "show_name": "Planeta Palavra",
-      "show_category": "Children",
-      "episode_description": "No mundo das palavras, um lugar colorido, alegre e cercado pela natureza, as palavras ganham vida e se tornam as melhores amigas das crianças.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_planeta-palavra_l_m.jpg",
-      "end_time": "22:15"
+      "show_category": "Children",
+      "start_time": "15:45",
+      "end_time": "15:55",
+      "episode_description": "No mundo das palavras, um lugar colorido, alegre e cercado pela natureza, as palavras ganham vida e se tornam as melhores amigas das crianças."
     },
     {
-      "start_time": "22:15",
       "show_name": "Planeta Palavra",
-      "show_category": "Children",
-      "episode_description": "No mundo das palavras, um lugar colorido, alegre e cercado pela natureza, as palavras ganham vida e se tornam as melhores amigas das crianças.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_planeta-palavra_l_m.jpg",
-      "end_time": "22:15"
+      "show_category": "Children",
+      "start_time": "15:55",
+      "end_time": "16:05",
+      "episode_description": "No mundo das palavras, um lugar colorido, alegre e cercado pela natureza, as palavras ganham vida e se tornam as melhores amigas das crianças."
     },
     {
-      "start_time": "22:25",
       "show_name": "Gildo",
-      "show_category": "Children",
-      "episode_description": "A turminha está jogando vôlei na praça, mas a bola vai parar em um buraco que parece ser uma caverna de dragão. Socorro toma coragem para entrar na caverna e acaba descobrindo que a corujinha Vanessa também está explorando o local.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_gildo_l_m.jpg",
-      "end_time": "22:25"
+      "show_category": "Children",
+      "start_time": "16:05",
+      "end_time": "16:20",
+      "episode_description": "A turminha está jogando vôlei na praça, mas a bola vai parar em um buraco que parece ser uma caverna de dragão. Socorro toma coragem para entrar na caverna e acaba descobrindo que a corujinha Vanessa também está explorando o local."
     },
     {
-      "start_time": "22:25",
+      "show_name": "Aninha - A Infância de Cora Coralina",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aninha-a-infancia-de-cora-coralina_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "16:20",
+      "end_time": "16:30",
+      "episode_description": "A infância de uma das maiores escritoras brasileiras, Cora Coralina, pseudônimo de Anna Lins dos Guimarães Peixoto Bretas. As vivências da autora e poetisa em Goiás Velho e sua amizade com seres imaginários, que suavizavam um cotidiano difícil."
+    },
+    {
+      "show_name": "Igarapé Mágico",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_igarape-magico-1_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "16:30",
+      "end_time": "16:50",
+      "episode_description": "As aventuras giram em torno de uma turminha formada por quatro filhotes da fauna brasileira: um pirarucu, um peixe-boi, uma sucuri e uma piranha. Aprenda sobre sustentabilidade, lixo, poluição, importância da água e a preservação das espécies."
+    },
+    {
+      "show_name": "Passado da Hora",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_passado-da-hora_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "16:50",
+      "end_time": "17:00",
+      "episode_description": "Uma história de uma época distante, próxima de 1500. Descubra como os povos antigos viviam."
+    },
+    {
+      "show_name": "Minha Casa, Nosso Mundo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_minha-casa-nosso-mundo_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "17:00",
+      "end_time": "17:15",
+      "episode_description": "Uma aldeia pataxó, um circo paulista ou uma fazenda baiana são alguns dos destinos de 13 crianças que vivem experiências únicas quando partem para conhecer a casa, os hábitos e a cultura umas das outras."
+    },
+    {
+      "show_name": "O Teco-Teco",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-teco-teco-1_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "17:15",
+      "end_time": "17:30",
+      "episode_description": "O Teco-Teco tem como público-alvo crianças entre 7 e 10 anos e, a partir da curiosidade própria desta faixa etária, o programa apresenta histórias, jogos e desafios e se propõe a colaborar de forma lúdica no processo de construção do conhecimento."
+    },
+    {
+      "show_name": "Manual de Sobrevivência da Literatura Brasileira",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_manual-de-sobrevivencia-da-literatura-brasileira_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "17:30",
+      "end_time": "18:00",
+      "episode_description": "Os primos Gabriela e Rodrigo embarcam em aventuras mágicas a partir de uma biblioteca secreta, enfrentando uma vilã que quer alterar os destinos dos clássicos da literatura brasileira."
+    },
+    {
+      "show_name": "Se Liga na Educação - Enem",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_se-liga-na-educac-o-enem_l_m.jpg",
+      "show_category": "Educational",
+      "start_time": "18:00",
+      "end_time": "19:15",
+      "episode_description": "Acompanhe as aulas produzidas pela Secretaria de Estado de Educação de Minas Gerais."
+    },
+    {
+      "show_name": "Trilha de Letras",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_trilha-de-letras_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "19:15",
+      "end_time": "19:45",
+      "episode_description": "Autores expõem suas opiniões e críticas sobre diversos temas, unindo literatura e informação."
+    },
+    {
+      "show_name": "Histórias do Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_historias-do-brasil_l_m.jpg",
+      "show_category": "History",
+      "start_time": "19:45",
+      "end_time": "19:55",
+      "episode_description": "Acompanhe a história de figuras importantes e momentos decisivos da história do Brasil."
+    },
+    {
+      "show_name": "Preto no Branco",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_preto-no-branco-2_l_m.jpg",
+      "show_category": "Bus./financial",
+      "start_time": "19:55",
+      "end_time": "20:00",
+      "episode_description": "Maria Gal comanda o programa que debate pautas raciais, abordando assuntos como a diversidade no mundo corporativo, racismo e finanças, intolerância religiosa, representatividade na publicidade, racismo no esporte e como ser antirracista."
+    },
+    {
+      "show_name": "Conta a Virada",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_conta-a-virada_l_m.jpg",
+      "show_category": "Public affairs",
+      "start_time": "20:00",
+      "end_time": "20:30",
+      "episode_description": "Programa conta histórias de empreendedores e viradas nos próprios negócios."
+    },
+    {
+      "show_name": "UniVERciência",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_univerciencia_l_m.jpg",
+      "show_category": "Educational",
+      "start_time": "20:30",
+      "end_time": "21:00",
+      "episode_description": "O programa promove a popularização e difusão da ciência em seus diversos aspectos, para fortalecer a relação entre as universidades públicas e a sociedade."
+    },
+    {
+      "show_name": "Sementes da Educação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sementes-da-educac-o_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "21:00",
+      "end_time": "21:30",
+      "episode_description": "Mesmo com recursos escassos, algumas escolas conseguiram inovar os métodos educacionais."
+    },
+    {
+      "show_name": "Compromisso Nacional Criança Alfabetizada",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_compromisso-nacional-crianca-alfabetizada_l_m.jpg",
+      "show_category": "Educational",
+      "start_time": "21:30",
+      "end_time": "22:00",
+      "episode_description": "Programa visa alfabetizar crianças até o 2º ano do Ensino Fundamental, recuperar a aprendizagem nos anos iniciais, e mostrar esforço delas, destacando seus desafios e estratégias."
+    },
+    {
+      "show_name": "Palaloos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palaloos_l_m.jpg",
+      "show_category": "Educational",
+      "start_time": "22:00",
+      "end_time": "22:15",
+      "episode_description": "Kazu, Pico e Bao Bao formam um trio travesso de palaloos, criaturas mágicas que vivem na Palalândia, um mundo geométrico colorido e cheio de surpresas. Todos os dias, o trio se diverte explorando o próprio planeta."
+    },
+    {
+      "show_name": "Planeta Palavra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_planeta-palavra_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "22:15",
+      "end_time": "22:25",
+      "episode_description": "No mundo das palavras, um lugar colorido, alegre e cercado pela natureza, as palavras ganham vida e se tornam as melhores amigas das crianças."
+    },
+    {
       "show_name": "Gildo",
-      "show_category": "Children",
-      "episode_description": "A turminha está jogando vôlei na praça, mas a bola vai parar em um buraco que parece ser uma caverna de dragão. Socorro toma coragem para entrar na caverna e acaba descobrindo que a corujinha Vanessa também está explorando o local.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_gildo_l_m.jpg",
-      "end_time": "22:25"
+      "show_category": "Children",
+      "start_time": "22:25",
+      "end_time": "22:40",
+      "episode_description": "A turminha está jogando vôlei na praça, mas a bola vai parar em um buraco que parece ser uma caverna de dragão. Socorro toma coragem para entrar na caverna e acaba descobrindo que a corujinha Vanessa também está explorando o local."
     },
     {
-      "start_time": "22:40",
       "show_name": "Aninha - A Infância de Cora Coralina",
-      "show_category": "Children",
-      "episode_description": "A infância de uma das maiores escritoras brasileiras, Cora Coralina, pseudônimo de Anna Lins dos Guimarães Peixoto Bretas. As vivências da autora e poetisa em Goiás Velho e sua amizade com seres imaginários, que suavizavam um cotidiano difícil.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_aninha-a-infancia-de-cora-coralina_l_m.jpg",
-      "end_time": "22:40"
-    },
-    {
+      "show_category": "Children",
       "start_time": "22:40",
-      "show_name": "Aninha - A Infância de Cora Coralina",
-      "show_category": "Children",
-      "episode_description": "A infância de uma das maiores escritoras brasileiras, Cora Coralina, pseudônimo de Anna Lins dos Guimarães Peixoto Bretas. As vivências da autora e poetisa em Goiás Velho e sua amizade com seres imaginários, que suavizavam um cotidiano difícil.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_aninha-a-infancia-de-cora-coralina_l_m.jpg",
-      "end_time": "22:45"
+      "end_time": "22:50",
+      "episode_description": "A infância de uma das maiores escritoras brasileiras, Cora Coralina, pseudônimo de Anna Lins dos Guimarães Peixoto Bretas. As vivências da autora e poetisa em Goiás Velho e sua amizade com seres imaginários, que suavizavam um cotidiano difícil."
     },
     {
-      "start_time": "22:50",
       "show_name": "Igarapé Mágico",
-      "show_category": "Children",
-      "episode_description": "As aventuras giram em torno de uma turminha formada por quatro filhotes da fauna brasileira: um pirarucu, um peixe-boi, uma sucuri e uma piranha. Aprenda sobre sustentabilidade, lixo, poluição, importância da água e a preservação das espécies.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_igarape-magico-1_l_m.jpg",
-      "end_time": "22:50"
-    },
-    {
+      "show_category": "Children",
       "start_time": "22:50",
-      "show_name": "Igarapé Mágico",
-      "show_category": "Children",
-      "episode_description": "As aventuras giram em torno de uma turminha formada por quatro filhotes da fauna brasileira: um pirarucu, um peixe-boi, uma sucuri e uma piranha. Aprenda sobre sustentabilidade, lixo, poluição, importância da água e a preservação das espécies.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_igarape-magico-1_l_m.jpg",
-      "end_time": "23:00"
+      "end_time": "23:05",
+      "episode_description": "As aventuras giram em torno de uma turminha formada por quatro filhotes da fauna brasileira: um pirarucu, um peixe-boi, uma sucuri e uma piranha. Aprenda sobre sustentabilidade, lixo, poluição, importância da água e a preservação das espécies."
     },
     {
-      "start_time": "23:05",
       "show_name": "Passado da Hora",
-      "show_category": "Children",
-      "episode_description": "Uma história de uma época distante, próxima de 1500. Descubra como os povos antigos viviam.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_passado-da-hora_l_m.jpg",
-      "end_time": "23:05"
-    },
-    {
+      "show_category": "Children",
       "start_time": "23:05",
-      "show_name": "Passado da Hora",
-      "show_category": "Children",
-      "episode_description": "Uma história de uma época distante, próxima de 1500. Descubra como os povos antigos viviam.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_passado-da-hora_l_m.jpg",
-      "end_time": "23:10"
+      "end_time": "23:15",
+      "episode_description": "Uma história de uma época distante, próxima de 1500. Descubra como os povos antigos viviam."
     },
     {
-      "start_time": "23:15",
       "show_name": "Minha Casa, Nosso Mundo",
-      "show_category": "Documentary",
-      "episode_description": "Uma aldeia pataxó, um circo paulista ou uma fazenda baiana são alguns dos destinos de 13 crianças que vivem experiências únicas quando partem para conhecer a casa, os hábitos e a cultura umas das outras.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_minha-casa-nosso-mundo_l_m.jpg",
-      "end_time": "23:15"
-    },
-    {
+      "show_category": "Documentary",
       "start_time": "23:15",
-      "show_name": "Minha Casa, Nosso Mundo",
-      "show_category": "Documentary",
-      "episode_description": "Uma aldeia pataxó, um circo paulista ou uma fazenda baiana são alguns dos destinos de 13 crianças que vivem experiências únicas quando partem para conhecer a casa, os hábitos e a cultura umas das outras.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_minha-casa-nosso-mundo_l_m.jpg",
-      "end_time": "23:20"
+      "end_time": "23:30",
+      "episode_description": "Uma aldeia pataxó, um circo paulista ou uma fazenda baiana são alguns dos destinos de 13 crianças que vivem experiências únicas quando partem para conhecer a casa, os hábitos e a cultura umas das outras."
     },
     {
-      "start_time": "23:30",
       "show_name": "O Teco-Teco",
-      "show_category": "Children",
-      "episode_description": "O Teco-Teco tem como público-alvo crianças entre 7 e 10 anos e, a partir da curiosidade própria desta faixa etária, o programa apresenta histórias, jogos e desafios e se propõe a colaborar de forma lúdica no processo de construção do conhecimento.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_o-teco-teco-1_l_m.jpg",
-      "end_time": "23:30"
-    },
-    {
+      "show_category": "Children",
       "start_time": "23:30",
-      "show_name": "O Teco-Teco",
-      "show_category": "Children",
-      "episode_description": "O Teco-Teco tem como público-alvo crianças entre 7 e 10 anos e, a partir da curiosidade própria desta faixa etária, o programa apresenta histórias, jogos e desafios e se propõe a colaborar de forma lúdica no processo de construção do conhecimento.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-teco-teco-1_l_m.jpg",
-      "end_time": "23:30"
+      "end_time": "23:45",
+      "episode_description": "O Teco-Teco tem como público-alvo crianças entre 7 e 10 anos e, a partir da curiosidade própria desta faixa etária, o programa apresenta histórias, jogos e desafios e se propõe a colaborar de forma lúdica no processo de construção do conhecimento."
     },
     {
-      "start_time": "23:45",
       "show_name": "Manual de Sobrevivência da Literatura Brasileira",
-      "show_category": "Children",
-      "episode_description": "Os primos Gabriela e Rodrigo embarcam em aventuras mágicas a partir de uma biblioteca secreta, enfrentando uma vilã que quer alterar os destinos dos clássicos da literatura brasileira.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_manual-de-sobrevivencia-da-literatura-brasileira_l_m.jpg",
-      "end_time": "23:45"
-    },
-    {
+      "show_category": "Children",
       "start_time": "23:45",
-      "show_name": "Manual de Sobrevivência da Literatura Brasileira",
-      "show_category": "Children",
-      "episode_description": "Os primos Gabriela e Rodrigo embarcam em aventuras mágicas a partir de uma biblioteca secreta, enfrentando uma vilã que quer alterar os destinos dos clássicos da literatura brasileira.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_manual-de-sobrevivencia-da-literatura-brasileira_l_m.jpg",
-      "end_time": "23:50"
+      "end_time": "00:15",
+      "episode_description": "Os primos Gabriela e Rodrigo embarcam em aventuras mágicas a partir de uma biblioteca secreta, enfrentando uma vilã que quer alterar os destinos dos clássicos da literatura brasileira."
     }
   ]
 }

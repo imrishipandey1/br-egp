@@ -3,516 +3,284 @@
   "date": "24/01/2026",
   "schedule": [
     {
-      "start_time": "00:30",
-      "show_name": "Espaço Cultural",
-      "show_category": "Music",
-      "episode_description": "O programa apresenta diversos eventos culturais como teatro, música e outras formas de expressão do povo brasileiro.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_espaco-cultural-1_l_m.jpg",
-      "end_time": "00:55"
-    },
-    {
+      "show_name": "Sessão Plenária",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sess-o-plenaria-1_l_m.jpg",
+      "show_category": "Politics",
       "start_time": "00:55",
-      "show_name": "Sessão Plenária",
-      "show_category": "Politics",
-      "episode_description": "Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sess-o-plenaria-1_l_m.jpg",
-      "end_time": "01:30"
+      "end_time": "04:00",
+      "episode_description": "Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade."
     },
     {
-      "start_time": "01:30",
-      "show_name": "EcoSenado",
-      "show_category": "Environment",
-      "episode_description": "Assuntos relevantes e impactam o meio ambiente com participação de especialistas, políticos, biólogos e lideranças comunitárias.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_ecosenado-1_l_m.jpg",
-      "end_time": "02:00"
-    },
-    {
-      "start_time": "02:00",
-      "show_name": "Coleções",
-      "show_category": "Entertainment",
-      "episode_description": "O programa apresenta os principais e mais marcantes elementos da cultura brasileira por meio de viagens pelo país. A série de linguagem documental para a televisão tem como foco os principais elementos da cultura regional brasileira.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_colec-es_l_m.jpg",
-      "end_time": "02:30"
-    },
-    {
-      "start_time": "02:30",
-      "show_name": "Concertos em Geral",
-      "show_category": "Music",
-      "episode_description": "Interpretações de grandes obras da música clássica universal, com informações e curiosidades sobre os instrumentos, a vida e a obra dos compositores.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_concertos-em-geral_l_m.jpg",
-      "end_time": "03:30"
-    },
-    {
-      "start_time": "03:30",
-      "show_name": "Leituras",
-      "show_category": "Art",
-      "episode_description": "Análise e divulgação da literatura brasileira. Entrevistas com escritores e análises de obras literárias, com espaço para todas as correntes criativas.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_leituras_l_m.jpg",
-      "end_time": "04:00"
-    },
-    {
-      "start_time": "04:00",
       "show_name": "Assunto de Estado",
-      "show_category": "Politics",
-      "episode_description": "Espaço para que senadores comentem questões regionais e locais e preste contas aos eleitores.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_assunto-de-estado_l_m.jpg",
-      "end_time": "04:00"
-    },
-    {
-      "start_time": "04:00",
-      "show_name": "Coleções",
-      "show_category": "Entertainment",
-      "episode_description": "O programa apresenta os principais e mais marcantes elementos da cultura brasileira por meio de viagens pelo país. A série de linguagem documental para a televisão tem como foco os principais elementos da cultura regional brasileira.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_colec-es_l_m.jpg",
-      "end_time": "04:30"
-    },
-    {
-      "start_time": "04:30",
-      "show_name": "Parlamento Brasil",
       "show_category": "Politics",
-      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros.",
+      "start_time": "04:00",
+      "end_time": "04:30",
+      "episode_description": "Espaço para que senadores comentem questões regionais e locais e preste contas aos eleitores."
+    },
+    {
+      "show_name": "Parlamento Brasil",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
-      "end_time": "04:30"
-    },
-    {
+      "show_category": "Politics",
       "start_time": "04:30",
-      "show_name": "Estúdio A",
-      "show_category": "Music",
-      "episode_description": "Programa apresenta música popular brasileira mesclando entrevista e músicas gravadas em estúdio.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_estudio-a_l_m.jpg",
-      "end_time": "05:00"
+      "end_time": "05:00",
+      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
     },
     {
+      "show_name": "TV Senado Live",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tv-senado-live_l_m.jpg",
+      "show_category": "Politics",
       "start_time": "05:00",
-      "show_name": "TV Senado Live",
-      "show_category": "Politics",
-      "episode_description": "Veja entrevistas com a participação do público sobre os grandes temas em pauta no país.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_tv-senado-live_l_m.jpg",
-      "end_time": "05:30"
+      "end_time": "05:30",
+      "episode_description": "Veja entrevistas com a participação do público sobre os grandes temas em pauta no país."
     },
     {
-      "start_time": "05:30",
-      "show_name": "Maria Luiza",
-      "show_category": "Documentary / 2020 / 9.0",
-      "episode_description": "Maria Luiza da Silva é a primeira transexual na história das Forças Armadas brasileiras. Após 22 anos de trabalho como militar, foi aposentada por invalidez. Conheça as motivações para impedi-la de vestir a farda feminina e a sua trajetória de afirmação como mulher trans, militar e católica.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_maria-luiza-2020_l_m.jpg",
-      "end_time": "05:30"
-    },
-    {
-      "start_time": "05:30",
       "show_name": "Tempo de Luta",
-      "show_category": "Temporada 1 Episódio 1 - Amor, Identidade e Maternidade",
-      "episode_description": "Como a revolução feminista vem transformando a América Latina, desafiando normas e criando outras formas de pensar, sentir e viver.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_tempo-de-luta-s01e01-amor-identidade-e-maternidade_l_m.jpg",
-      "end_time": "05:30"
-    },
-    {
+      "show_category": "Temporada 1 Episódio 1 - Amor, Identidade e Maternidade",
       "start_time": "05:30",
-      "show_name": "Lavra",
-      "show_category": "Drama / 2021",
-      "episode_description": "Camila retorna para sua terra natal depois que o rio de sua cidade foi contaminado pelo maior crime ambiental do Brasil, provocado pelo rompimento da barragem de uma mineradora. Ela segue o caminho da lama tóxica que varreu povoados do mapa, encontra paisagens, comunidades e pessoas devastadas. Outra barragem se rompe e mata cerca de 300 pessoas.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lavra-2021_l_m.jpg",
-      "end_time": "06:03"
+      "end_time": "06:03",
+      "episode_description": "Como a revolução feminista vem transformando a América Latina, desafiando normas e criando outras formas de pensar, sentir e viver."
     },
     {
-      "start_time": "06:03",
       "show_name": "Tempo de Luta",
-      "show_category": "Temporada 1 Episódio 2 - Trabalho, Capitalismo e Educação",
-      "episode_description": "Abordagem da construção de novos vínculos entre as mulheres em um momento em que novos coletivos surgem todos os dias para enfrentar as mesmas velhas lutas.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_tempo-de-luta-s01e02-trabalho-capitalismo-e-educac-o_l_m.jpg",
-      "end_time": "06:03"
-    },
-    {
-      "start_time": "06:03",
-      "show_name": "Tempo de Luta",
       "show_category": "Temporada 1 Episódio 2 - Trabalho, Capitalismo e Educação",
-      "episode_description": "Abordagem da construção de novos vínculos entre as mulheres em um momento em que novos coletivos surgem todos os dias para enfrentar as mesmas velhas lutas.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_tempo-de-luta-s01e02-trabalho-capitalismo-e-educac-o_l_m.jpg",
-      "end_time": "06:33"
+      "start_time": "06:03",
+      "end_time": "06:03",
+      "episode_description": "Abordagem da construção de novos vínculos entre as mulheres em um momento em que novos coletivos surgem todos os dias para enfrentar as mesmas velhas lutas."
     },
     {
-      "start_time": "06:33",
       "show_name": "Tempo de Luta",
-      "show_category": "Temporada 1 Episódio 3 - Mídia, Cultura e Representações",
-      "episode_description": "Para transformar a si mesmas e ao mundo, as mulheres usaram a arte e a criatividade.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tempo-de-luta-s01e02-trabalho-capitalismo-e-educac-o_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Trabalho, Capitalismo e Educação",
+      "start_time": "06:03",
+      "end_time": "06:33",
+      "episode_description": "Abordagem da construção de novos vínculos entre as mulheres em um momento em que novos coletivos surgem todos os dias para enfrentar as mesmas velhas lutas."
+    },
+    {
+      "show_name": "Tempo de Luta",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_tempo-de-luta-s01e03-midia-cultura-e-representac-es_l_m.jpg",
-      "end_time": "06:52"
+      "show_category": "Temporada 1 Episódio 3 - Mídia, Cultura e Representações",
+      "start_time": "06:33",
+      "end_time": "07:03",
+      "episode_description": "Para transformar a si mesmas e ao mundo, as mulheres usaram a arte e a criatividade."
     },
     {
-      "start_time": "06:52",
-      "show_name": "Lampião da Esquina",
-      "show_category": "Documentary / 2016",
-      "episode_description": "Nos anos 1960, surgiu nos EUA o jornal Gay Sunshine, uma publicação voltada para o público homossexual. Em 1978, no Brasil, uma iniciativa similar foi criada: o polêmico Lampião da Esquina.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lampi-o-da-esquina-2016_l_m.jpg",
-      "end_time": "07:03"
-    },
-    {
-      "start_time": "07:03",
       "show_name": "Tempo de Luta",
-      "show_category": "Temporada 1 Episódio 4 - Violência, Feminicídio e Vínculos Entre Mulheres",
-      "episode_description": "Espaço que oferece ferramentas para pensar vínculos e lutar contra a violência feminina.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_tempo-de-luta-s01e04_l_m.jpg",
-      "end_time": "07:33"
+      "show_category": "Temporada 1 Episódio 4 - Violência, Feminicídio e Vínculos Entre Mulheres",
+      "start_time": "07:03",
+      "end_time": "07:33",
+      "episode_description": "Espaço que oferece ferramentas para pensar vínculos e lutar contra a violência feminina."
     },
     {
-      "start_time": "07:33",
       "show_name": "Habitar/Habitat",
-      "show_category": "Documentary",
-      "episode_description": "Conheça as diversas formas de habitação da população brasileira. A abordagem liga aspectos arquitetônicos com formas de organização familiar, saberes locais, valores estéticos e motivos práticos de suas construções.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_habitar-habitat_l_m.jpg",
-      "end_time": "08:15"
+      "show_category": "Documentary",
+      "start_time": "07:33",
+      "end_time": "08:30",
+      "episode_description": "Conheça as diversas formas de habitação da população brasileira. A abordagem liga aspectos arquitetônicos com formas de organização familiar, saberes locais, valores estéticos e motivos práticos de suas construções."
     },
     {
-      "start_time": "08:15",
-      "show_name": "O Presidente Improvável",
-      "show_category": "Documentary / 2022",
-      "episode_description": "Fernando Henrique Cardoso, ex-presidente da república, se reúne com amigos e colegas de longa data para refletir sobre a sua trajetória e a do próprio país. Entre os seus interlocutores, figuram personagens ilustres como Bill Clinton.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-presidente-improvavel-2022_l_m.jpg",
-      "end_time": "08:30"
-    },
-    {
-      "start_time": "08:30",
       "show_name": "Vocação do Poder",
-      "show_category": "Documentary / 2005",
-      "episode_description": "O documentário retrata a campanha eleitoral de seis candidatos a vereador e traz as ações de cada um, desde as convenções partidárias até a apuração dos votos, passando pelos programas de TV e as vidas social e familiar.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_vocac-o-do-poder-2005_l_m.jpg",
-      "end_time": "10:00"
+      "show_category": "Documentary / 2005",
+      "start_time": "08:30",
+      "end_time": "10:18",
+      "episode_description": "O documentário retrata a campanha eleitoral de seis candidatos a vereador e traz as ações de cada um, desde as convenções partidárias até a apuração dos votos, passando pelos programas de TV e as vidas social e familiar."
     },
     {
-      "start_time": "10:00",
-      "show_name": "Marco Maciel - Bastidores de um País em Transe",
-      "show_category": "Special",
-      "episode_description": "Por mais de 15 anos, a TV Senado guardou entrevista com o político pernambucano Marco Maciel. Agora em formato de documentário, o ex-presidente da república revela bastidores da ditadura militar e da redemocratização.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_marco-maciel-bastidores-de-um-pais-em-transe_l_m.jpg",
-      "end_time": "10:18"
-    },
-    {
-      "start_time": "10:18",
       "show_name": "Ulysses, Cidadão",
-      "show_category": "Special",
-      "episode_description": "A vida e a obra do deputado Ulysses Guimarães a partir de noticiários, entrevistas e depoimentos.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_ulysses-cidad-o_l_m.jpg",
-      "end_time": "10:30"
-    },
-    {
-      "start_time": "10:30",
-      "show_name": "1930 - Tempo de Revolução",
       "show_category": "Special",
-      "episode_description": "Movimentos políticos ocorridos antes da Revolução de 1930, por meio de imagens de arquivos inéditas e depoimentos de historiadores, tentam esclarecer esse momento crucial e ainda mal compreendido da história brasileira.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_1930-tempo-de-revoluc-o_l_m.jpg",
-      "end_time": "11:30"
+      "start_time": "10:18",
+      "end_time": "11:30",
+      "episode_description": "A vida e a obra do deputado Ulysses Guimarães a partir de noticiários, entrevistas e depoimentos."
     },
     {
-      "start_time": "11:30",
-      "show_name": "Em Discussão",
-      "show_category": "Educational",
-      "episode_description": "As principais discussões realizadas nas audiências públicas promovidas pelo Senado.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_em-discuss-o-2_l_m.jpg",
-      "end_time": "11:30"
-    },
-    {
-      "start_time": "11:30",
       "show_name": "TV Senado Live",
-      "show_category": "Politics",
-      "episode_description": "Veja entrevistas com a participação do público sobre os grandes temas em pauta no país.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_tv-senado-live_l_m.jpg",
-      "end_time": "12:00"
-    },
-    {
-      "start_time": "12:00",
-      "show_name": "TV Senado Live",
       "show_category": "Politics",
-      "episode_description": "Veja entrevistas com a participação do público sobre os grandes temas em pauta no país.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_tv-senado-live_l_m.jpg",
-      "end_time": "12:00"
+      "start_time": "11:30",
+      "end_time": "12:00",
+      "episode_description": "Veja entrevistas com a participação do público sobre os grandes temas em pauta no país."
     },
     {
-      "start_time": "12:00",
       "show_name": "Parlamento Brasil",
-      "show_category": "Politics",
-      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
-      "end_time": "12:30"
-    },
-    {
-      "start_time": "12:30",
-      "show_name": "Parlamento Brasil",
       "show_category": "Politics",
-      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
-      "end_time": "12:30"
+      "start_time": "12:00",
+      "end_time": "12:30",
+      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
     },
     {
-      "start_time": "12:30",
       "show_name": "Assunto de Estado",
-      "show_category": "Politics",
-      "episode_description": "Espaço para que senadores comentem questões regionais e locais e preste contas aos eleitores.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_assunto-de-estado_l_m.jpg",
-      "end_time": "13:00"
-    },
-    {
-      "start_time": "13:00",
-      "show_name": "Assunto de Estado",
       "show_category": "Politics",
-      "episode_description": "Espaço para que senadores comentem questões regionais e locais e preste contas aos eleitores.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_assunto-de-estado_l_m.jpg",
-      "end_time": "13:00"
+      "start_time": "12:30",
+      "end_time": "13:00",
+      "episode_description": "Espaço para que senadores comentem questões regionais e locais e preste contas aos eleitores."
     },
     {
-      "start_time": "13:00",
       "show_name": "Agenda Econômica",
-      "show_category": "Bus./financial",
-      "episode_description": "Economistas, formuladores de políticas públicas, acadêmicos, intelectuais e parlamentares analisam questões da economia nacional e internacional.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_agenda-economica-1_l_m.jpg",
-      "end_time": "13:30"
-    },
-    {
-      "start_time": "13:30",
-      "show_name": "Agenda Econômica",
       "show_category": "Bus./financial",
-      "episode_description": "Economistas, formuladores de políticas públicas, acadêmicos, intelectuais e parlamentares analisam questões da economia nacional e internacional.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_agenda-economica-1_l_m.jpg",
-      "end_time": "13:30"
+      "start_time": "13:00",
+      "end_time": "13:30",
+      "episode_description": "Economistas, formuladores de políticas públicas, acadêmicos, intelectuais e parlamentares analisam questões da economia nacional e internacional."
     },
     {
+      "show_name": "Salão Nobre",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sal-o-nobre_l_m.jpg",
+      "show_category": "Politics",
       "start_time": "13:30",
-      "show_name": "Salão Nobre",
-      "show_category": "Politics",
-      "episode_description": "Assista a temas de relevância nacional com líderes partidários, presidentes das comissões e autores.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sal-o-nobre_l_m.jpg",
-      "end_time": "14:00"
+      "end_time": "14:00",
+      "episode_description": "Assista a temas de relevância nacional com líderes partidários, presidentes das comissões e autores."
     },
     {
-      "start_time": "14:00",
-      "show_name": "Salão Nobre",
-      "show_category": "Politics",
-      "episode_description": "Assista a temas de relevância nacional com líderes partidários, presidentes das comissões e autores.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sal-o-nobre_l_m.jpg",
-      "end_time": "14:00"
-    },
-    {
-      "start_time": "14:00",
       "show_name": "Em Discussão",
-      "show_category": "Educational",
-      "episode_description": "As principais discussões realizadas nas audiências públicas promovidas pelo Senado.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_em-discuss-o-2_l_m.jpg",
-      "end_time": "14:30"
+      "show_category": "Educational",
+      "start_time": "14:00",
+      "end_time": "14:30",
+      "episode_description": "As principais discussões realizadas nas audiências públicas promovidas pelo Senado."
     },
     {
-      "start_time": "14:30",
-      "show_name": "Estúdio A",
-      "show_category": "Music",
-      "episode_description": "Programa apresenta música popular brasileira mesclando entrevista e músicas gravadas em estúdio.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_estudio-a_l_m.jpg",
-      "end_time": "14:30"
-    },
-    {
-      "start_time": "14:30",
       "show_name": "Concertos em Geral",
-      "show_category": "Music",
-      "episode_description": "Interpretações de grandes obras da música clássica universal, com informações e curiosidades sobre os instrumentos, a vida e a obra dos compositores.",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_concertos-em-geral_l_m.jpg",
-      "end_time": "15:30"
-    },
-    {
-      "start_time": "15:30",
-      "show_name": "Guerras do Brasil.Doc",
-      "show_category": "Documentary",
-      "episode_description": "Os acontecimentos que puseram fim a velha república. Entenda a disputa eleitoral que levaria ao poder, no voto, o paulista Júlio Prestes e a ascensão do gaúcho Getúlio Vargas.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_guerras-do-brasil-doc_l_m.jpg",
-      "end_time": "15:30"
-    },
-    {
-      "start_time": "15:30",
-      "show_name": "Envelhecer",
-      "show_category": "Health",
-      "episode_description": "Acompanhe reflexões sobre o envelhecimento no século XXI e como as pessoas podem ter o controle dele, evitando reduzir essa fase da vida a incertezas, tensões e exclusões, permitindo que ela seja um tempo de bem-estar e realizações.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_envelhecer_l_m.jpg",
-      "end_time": "16:00"
-    },
-    {
-      "start_time": "16:00",
-      "show_name": "Salão Nobre",
-      "show_category": "Politics",
-      "episode_description": "Assista a temas de relevância nacional com líderes partidários, presidentes das comissões e autores.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sal-o-nobre_l_m.jpg",
-      "end_time": "16:30"
-    },
-    {
-      "start_time": "16:30",
-      "show_name": "Cidadania",
-      "show_category": "Interview",
-      "episode_description": "Entrevistas semanais sobre assuntos da atualidade, com a participação de parlamentares, especialistas e representantes de organizações sociais.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidadania_l_m.jpg",
-      "end_time": "16:30"
-    },
-    {
-      "start_time": "16:30",
-      "show_name": "Em Discussão",
-      "show_category": "Educational",
-      "episode_description": "As principais discussões realizadas nas audiências públicas promovidas pelo Senado.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_em-discuss-o-2_l_m.jpg",
-      "end_time": "17:00"
-    },
-    {
-      "start_time": "17:00",
-      "show_name": "Parlamento Brasil",
-      "show_category": "Politics",
-      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
-      "end_time": "17:00"
-    },
-    {
-      "start_time": "17:00",
-      "show_name": "Parlamento Brasil",
-      "show_category": "Politics",
-      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
-      "end_time": "17:30"
-    },
-    {
-      "start_time": "17:30",
-      "show_name": "TV Senado Live",
-      "show_category": "Politics",
-      "episode_description": "Veja entrevistas com a participação do público sobre os grandes temas em pauta no país.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_tv-senado-live_l_m.jpg",
-      "end_time": "17:30"
-    },
-    {
-      "start_time": "17:30",
-      "show_name": "EcoSenado",
-      "show_category": "Environment",
-      "episode_description": "Assuntos relevantes e impactam o meio ambiente com participação de especialistas, políticos, biólogos e lideranças comunitárias.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_ecosenado-1_l_m.jpg",
-      "end_time": "18:00"
-    },
-    {
-      "start_time": "18:00",
-      "show_name": "Subcomissão Temporária para Acompanhar os Embargos de Terras por Parte do Ibama",
-      "show_category": "",
-      "episode_description": "",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_subcomiss-o-temporaria-para-acompanhar-os-embargos-de-terras-por-parte-do-ibama_l_m.jpg",
-      "end_time": "18:00"
-    },
-    {
-      "start_time": "18:00",
-      "show_name": "Cidadania",
-      "show_category": "Interview",
-      "episode_description": "Entrevistas semanais sobre assuntos da atualidade, com a participação de parlamentares, especialistas e representantes de organizações sociais.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidadania_l_m.jpg",
-      "end_time": "18:30"
-    },
-    {
-      "start_time": "18:30",
-      "show_name": "Salão Nobre",
-      "show_category": "Politics",
-      "episode_description": "Assista a temas de relevância nacional com líderes partidários, presidentes das comissões e autores.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sal-o-nobre_l_m.jpg",
-      "end_time": "18:45"
-    },
-    {
-      "start_time": "18:45",
-      "show_name": "Comissão de Segurança Pública",
-      "show_category": "Politics",
-      "episode_description": "Analisa proposições e assuntos relacionados com a área da segurança pública.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o-de-seguranca-publica_l_m.jpg",
-      "end_time": "19:00"
-    },
-    {
-      "start_time": "19:00",
-      "show_name": "Agenda Econômica",
-      "show_category": "Bus./financial",
-      "episode_description": "Economistas, formuladores de políticas públicas, acadêmicos, intelectuais e parlamentares analisam questões da economia nacional e internacional.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_agenda-economica-1_l_m.jpg",
-      "end_time": "19:30"
-    },
-    {
-      "start_time": "19:30",
-      "show_name": "Assunto de Estado",
-      "show_category": "Politics",
-      "episode_description": "Espaço para que senadores comentem questões regionais e locais e preste contas aos eleitores.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_assunto-de-estado_l_m.jpg",
-      "end_time": "20:00"
-    },
-    {
-      "start_time": "20:00",
-      "show_name": "Cidadania",
-      "show_category": "Interview",
-      "episode_description": "Entrevistas semanais sobre assuntos da atualidade, com a participação de parlamentares, especialistas e representantes de organizações sociais.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidadania_l_m.jpg",
-      "end_time": "20:30"
-    },
-    {
-      "start_time": "20:30",
-      "show_name": "TV Senado Live",
-      "show_category": "Politics",
-      "episode_description": "Veja entrevistas com a participação do público sobre os grandes temas em pauta no país.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_tv-senado-live_l_m.jpg",
-      "end_time": "20:50"
-    },
-    {
-      "start_time": "20:50",
-      "show_name": "Comissão de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor",
-      "show_category": "Politics",
-      "episode_description": "Acompanhe as reuniões da comissão que debatem a defesa do consumidor.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o-de-transparencia-governanca-fiscalizac-o-e-controle-e-defesa-do-consumidor_l_m.jpg",
-      "end_time": "21:00"
-    },
-    {
-      "start_time": "21:00",
-      "show_name": "Parlamento Brasil",
-      "show_category": "Politics",
-      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
-      "end_time": "21:30"
-    },
-    {
-      "start_time": "21:30",
-      "show_name": "EcoSenado",
-      "show_category": "Environment",
-      "episode_description": "Assuntos relevantes e impactam o meio ambiente com participação de especialistas, políticos, biólogos e lideranças comunitárias.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_ecosenado-1_l_m.jpg",
-      "end_time": "22:00"
-    },
-    {
-      "start_time": "22:00",
-      "show_name": "Cidadania",
-      "show_category": "Interview",
-      "episode_description": "Entrevistas semanais sobre assuntos da atualidade, com a participação de parlamentares, especialistas e representantes de organizações sociais.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidadania_l_m.jpg",
-      "end_time": "22:30"
-    },
-    {
-      "start_time": "22:30",
-      "show_name": "100 Anos de Cultura e Conflitos",
-      "show_category": "Documentary",
-      "episode_description": "Veja os eventos que marcaram a história do Brasil desde a Semana de Arte Moderna até os dias atuais.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_100-anos-de-cultura-e-conflitos_l_m.jpg",
-      "end_time": "22:50"
-    },
-    {
-      "start_time": "22:50",
-      "show_name": "Sessão Plenária",
-      "show_category": "Politics",
-      "episode_description": "Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sess-o-plenaria-1_l_m.jpg",
-      "end_time": "23:00"
-    },
-    {
-      "start_time": "23:00",
-      "show_name": "Leituras",
-      "show_category": "Art",
-      "episode_description": "Análise e divulgação da literatura brasileira. Entrevistas com escritores e análises de obras literárias, com espaço para todas as correntes criativas.",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_leituras_l_m.jpg",
-      "end_time": "23:30"
-    },
-    {
-      "start_time": "23:30",
-      "show_name": "Estúdio A",
       "show_category": "Music",
-      "episode_description": "Programa apresenta música popular brasileira mesclando entrevista e músicas gravadas em estúdio.",
+      "start_time": "14:30",
+      "end_time": "15:30",
+      "episode_description": "Interpretações de grandes obras da música clássica universal, com informações e curiosidades sobre os instrumentos, a vida e a obra dos compositores."
+    },
+    {
+      "show_name": "Envelhecer",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_envelhecer_l_m.jpg",
+      "show_category": "Health",
+      "start_time": "15:30",
+      "end_time": "16:30",
+      "episode_description": "Acompanhe reflexões sobre o envelhecimento no século XXI e como as pessoas podem ter o controle dele, evitando reduzir essa fase da vida a incertezas, tensões e exclusões, permitindo que ela seja um tempo de bem-estar e realizações."
+    },
+    {
+      "show_name": "Em Discussão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_em-discuss-o-2_l_m.jpg",
+      "show_category": "Educational",
+      "start_time": "16:30",
+      "end_time": "17:00",
+      "episode_description": "As principais discussões realizadas nas audiências públicas promovidas pelo Senado."
+    },
+    {
+      "show_name": "Parlamento Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "17:00",
+      "end_time": "17:30",
+      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
+    },
+    {
+      "show_name": "EcoSenado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ecosenado-1_l_m.jpg",
+      "show_category": "Environment",
+      "start_time": "17:30",
+      "end_time": "18:00",
+      "episode_description": "Assuntos relevantes e impactam o meio ambiente com participação de especialistas, políticos, biólogos e lideranças comunitárias."
+    },
+    {
+      "show_name": "Cidadania",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidadania_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "18:00",
+      "end_time": "18:30",
+      "episode_description": "Entrevistas semanais sobre assuntos da atualidade, com a participação de parlamentares, especialistas e representantes de organizações sociais."
+    },
+    {
+      "show_name": "Salão Nobre",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sal-o-nobre_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "18:30",
+      "end_time": "19:00",
+      "episode_description": "Assista a temas de relevância nacional com líderes partidários, presidentes das comissões e autores."
+    },
+    {
+      "show_name": "Agenda Econômica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_agenda-economica-1_l_m.jpg",
+      "show_category": "Bus./financial",
+      "start_time": "19:00",
+      "end_time": "19:30",
+      "episode_description": "Economistas, formuladores de políticas públicas, acadêmicos, intelectuais e parlamentares analisam questões da economia nacional e internacional."
+    },
+    {
+      "show_name": "Assunto de Estado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_assunto-de-estado_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "19:30",
+      "end_time": "20:00",
+      "episode_description": "Espaço para que senadores comentem questões regionais e locais e preste contas aos eleitores."
+    },
+    {
+      "show_name": "Cidadania",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidadania_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "20:00",
+      "end_time": "20:30",
+      "episode_description": "Entrevistas semanais sobre assuntos da atualidade, com a participação de parlamentares, especialistas e representantes de organizações sociais."
+    },
+    {
+      "show_name": "TV Senado Live",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tv-senado-live_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "20:30",
+      "end_time": "21:00",
+      "episode_description": "Veja entrevistas com a participação do público sobre os grandes temas em pauta no país."
+    },
+    {
+      "show_name": "Parlamento Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "21:00",
+      "end_time": "21:30",
+      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
+    },
+    {
+      "show_name": "EcoSenado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ecosenado-1_l_m.jpg",
+      "show_category": "Environment",
+      "start_time": "21:30",
+      "end_time": "22:00",
+      "episode_description": "Assuntos relevantes e impactam o meio ambiente com participação de especialistas, políticos, biólogos e lideranças comunitárias."
+    },
+    {
+      "show_name": "Cidadania",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidadania_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "22:00",
+      "end_time": "22:30",
+      "episode_description": "Entrevistas semanais sobre assuntos da atualidade, com a participação de parlamentares, especialistas e representantes de organizações sociais."
+    },
+    {
+      "show_name": "100 Anos de Cultura e Conflitos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_100-anos-de-cultura-e-conflitos_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "22:30",
+      "end_time": "23:00",
+      "episode_description": "Veja os eventos que marcaram a história do Brasil desde a Semana de Arte Moderna até os dias atuais."
+    },
+    {
+      "show_name": "Leituras",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_leituras_l_m.jpg",
+      "show_category": "Art",
+      "start_time": "23:00",
+      "end_time": "23:30",
+      "episode_description": "Análise e divulgação da literatura brasileira. Entrevistas com escritores e análises de obras literárias, com espaço para todas as correntes criativas."
+    },
+    {
+      "show_name": "Estúdio A",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_estudio-a_l_m.jpg",
-      "end_time": "23:59"
+      "show_category": "Music",
+      "start_time": "23:30",
+      "end_time": "",
+      "episode_description": "Programa apresenta música popular brasileira mesclando entrevista e músicas gravadas em estúdio."
     }
   ]
 }
