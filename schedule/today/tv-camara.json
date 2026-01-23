@@ -1,122 +1,90 @@
 {
   "channel": "Tv Camara",
-  "date": "22/01/2026",
+  "date": "23/01/2026",
   "schedule": [
     {
-      "show_name": "Acessível",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/acessível.webp",
-      "show_category": "Documentary",
-      "start_time": "01:00",
-      "end_time": "01:15",
-      "episode_description": "Pessoas com deficiência falam sobre as barreiras que ainda as impedem de exercer plenamente sua cidadania e suas capacidades."
+      "show_name": "Comissão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "00:00",
+      "end_time": "03:00",
+      "episode_description": "O programa transmite as discussões e votações do plenário."
     },
     {
-      "show_name": "Acessível",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/acessível.webp",
+      "show_name": "Lanceiros Negros Apagados da História",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanceiros-negros-apagados-da-historia_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "03:00",
+      "end_time": "03:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "100 Anos de Cultura e Conflitos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_100-anos-de-cultura-e-conflitos_l_m.jpg",
       "show_category": "Documentary",
-      "start_time": "01:15",
-      "end_time": "01:30",
-      "episode_description": "Pessoas com deficiência falam sobre as barreiras que ainda as impedem de exercer plenamente sua cidadania e suas capacidades."
+      "start_time": "03:30",
+      "end_time": "04:00",
+      "episode_description": "Veja os eventos que marcaram a história do Brasil desde a Semana de Arte Moderna até os dias atuais."
     },
     {
       "show_name": "Câmara Debate",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/câmara-debate.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_camara-debate_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "01:30",
-      "end_time": "02:00",
+      "start_time": "04:00",
+      "end_time": "04:30",
       "episode_description": "A cada programa, dois parlamentares discutem os grandes temas que movimentam os trabalhos na Câmara dos Deputados."
     },
     {
       "show_name": "Ciência sem Limites",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/ciência-sem-limites.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ciencia-sem-limites_l_m.jpg",
       "show_category": "Science",
-      "start_time": "02:00",
-      "end_time": "02:30",
+      "start_time": "04:30",
+      "end_time": "05:00",
       "episode_description": "O programa é um espaço de divulgação da ciência em diferentes áreas. Saiba mais sobre as pesquisas, obras e avanços tecnológicos produzidos pelos pesquisadores da Unesp."
     },
     {
-      "show_name": "Ponto de Vista",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/ponto-de-vista.webp",
-      "show_category": "History",
-      "start_time": "02:30",
-      "end_time": "03:00",
-      "episode_description": "Convidados especiais discutem a respeito de temas relevantes da história mundial."
+      "show_name": "Acessível",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_acessivel_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "05:00",
+      "end_time": "05:15",
+      "episode_description": "Pessoas com deficiência falam sobre as barreiras que ainda as impedem de exercer plenamente sua cidadania e suas capacidades."
+    },
+    {
+      "show_name": "Acessível",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_acessivel_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "05:15",
+      "end_time": "05:30",
+      "episode_description": "Pessoas com deficiência falam sobre as barreiras que ainda as impedem de exercer plenamente sua cidadania e suas capacidades."
     },
     {
       "show_name": "Encontro com a Autora",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/encontro-com-a-autora.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_encontro-com-a-autora_l_m.jpg",
       "show_category": "Interview",
-      "start_time": "03:00",
-      "end_time": "04:00",
+      "start_time": "05:30",
+      "end_time": "06:30",
       "episode_description": "Parceria entre o Centro Cultural e o Centro de Documentação e Informação da Câmara dos Deputados. A autora ou o autor convidado fala sobre sua obra e os participantes podem dirigir perguntas a ela ou ele sobre seu estilo e influências."
     },
     {
-      "show_name": "Elas Pautam",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/elas-pautam.webp",
-      "show_category": "Politics",
-      "start_time": "04:00",
-      "end_time": "04:30",
-      "episode_description": "O programa conta com a participação de duas parlamentares, em uma conversa informal sobre temas diversos de interesse da bancada feminina."
-    },
-    {
-      "show_name": "Palavra Aberta",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/palavra-aberta.webp",
-      "show_category": "Interview",
-      "start_time": "04:30",
-      "end_time": "04:45",
-      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
-    },
-    {
-      "show_name": "Palavra Aberta",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/palavra-aberta.webp",
-      "show_category": "Interview",
-      "start_time": "04:45",
-      "end_time": "05:00",
-      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
-    },
-    {
-      "show_name": "Parlamento Brasil",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/parlamento-brasil.webp",
-      "show_category": "Politics",
-      "start_time": "05:00",
-      "end_time": "05:30",
-      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
-    },
-    {
-      "show_name": "Qual a Questão?",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/qual-a-questão.webp",
-      "show_category": "Public affairs",
-      "start_time": "05:30",
-      "end_time": "06:30",
-      "episode_description": "Discussões sobre grandes temas da agenda nacional que mexem com o dia a dia dos brasileiros, como educação, economia, meio ambiente, empregos, tecnologia e saúde. Com participação de especialistas e representantes da sociedade civil."
-    },
-    {
       "show_name": "Participação Popular",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/participação-popular.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_participac-o-popular-1_l_m.jpg",
       "show_category": "Politics",
       "start_time": "06:30",
-      "end_time": "07:30",
+      "end_time": "07:00",
       "episode_description": "O programa reúne deputados, analistas e o público ao vivo para saber o que o cidadão comum acha dos temas discutidos no Congresso."
     },
     {
-      "show_name": "Qual a Questão?",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/qual-a-questão.webp",
-      "show_category": "Public affairs",
-      "start_time": "07:30",
-      "end_time": "08:00",
-      "episode_description": "Discussões sobre grandes temas da agenda nacional que mexem com o dia a dia dos brasileiros, como educação, economia, meio ambiente, empregos, tecnologia e saúde. Com participação de especialistas e representantes da sociedade civil."
-    },
-    {
       "show_name": "Palavra Aberta",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/palavra-aberta.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
       "show_category": "Interview",
-      "start_time": "08:00",
+      "start_time": "07:00",
       "end_time": "08:15",
       "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
     },
     {
       "show_name": "Palavra Aberta",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/palavra-aberta.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
       "show_category": "Interview",
       "start_time": "08:15",
       "end_time": "08:30",
@@ -124,7 +92,7 @@
     },
     {
       "show_name": "Comissão",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/comissão.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o_l_m.jpg",
       "show_category": "Politics",
       "start_time": "08:30",
       "end_time": "15:00",
@@ -132,7 +100,7 @@
     },
     {
       "show_name": "Palavra Aberta",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/palavra-aberta.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
       "show_category": "Interview",
       "start_time": "15:00",
       "end_time": "15:15",
@@ -140,23 +108,23 @@
     },
     {
       "show_name": "Palavra Aberta",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/palavra-aberta.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
       "show_category": "Interview",
       "start_time": "15:15",
       "end_time": "15:30",
       "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
     },
     {
-      "show_name": "Lanceiros Negros Apagados da História",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/lanceiros-negros-apagados-da-história.webp",
-      "show_category": "Special",
+      "show_name": "100 Anos de Cultura e Conflitos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_100-anos-de-cultura-e-conflitos_l_m.jpg",
+      "show_category": "Documentary",
       "start_time": "15:30",
       "end_time": "16:00",
-      "episode_description": ""
+      "episode_description": "Veja os eventos que marcaram a história do Brasil desde a Semana de Arte Moderna até os dias atuais."
     },
     {
       "show_name": "Palavra Aberta",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/palavra-aberta.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
       "show_category": "Interview",
       "start_time": "16:00",
       "end_time": "16:15",
@@ -164,7 +132,7 @@
     },
     {
       "show_name": "Palavra Aberta",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/palavra-aberta.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
       "show_category": "Interview",
       "start_time": "16:15",
       "end_time": "16:30",
@@ -172,67 +140,51 @@
     },
     {
       "show_name": "Participação Popular",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/participação-popular.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_participac-o-popular-1_l_m.jpg",
       "show_category": "Politics",
       "start_time": "16:30",
       "end_time": "17:30",
       "episode_description": "O programa reúne deputados, analistas e o público ao vivo para saber o que o cidadão comum acha dos temas discutidos no Congresso."
     },
     {
-      "show_name": "Potência N",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/potência-n.webp",
-      "show_category": "Special",
-      "start_time": "17:30",
-      "end_time": "18:00",
-      "episode_description": "Conheça a luta de mulheres negras no campo da pesquisa acadêmica no Brasil."
-    },
-    {
       "show_name": "Comissão",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/comissão.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "18:00",
+      "start_time": "17:30",
       "end_time": "20:30",
       "episode_description": "O programa transmite as discussões e votações do plenário."
     },
     {
       "show_name": "Participação Popular",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/participação-popular.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_participac-o-popular-1_l_m.jpg",
       "show_category": "Politics",
       "start_time": "20:30",
       "end_time": "21:30",
       "episode_description": "O programa reúne deputados, analistas e o público ao vivo para saber o que o cidadão comum acha dos temas discutidos no Congresso."
     },
     {
-      "show_name": "Lanceiros Negros Apagados da História",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/lanceiros-negros-apagados-da-história.webp",
-      "show_category": "Special",
+      "show_name": "Elas Pautam",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_elas-pautam_l_m.jpg",
+      "show_category": "Politics",
       "start_time": "21:30",
       "end_time": "22:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Expressão Nacional",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/expressão-nacional.webp",
-      "show_category": "Politics",
-      "start_time": "22:00",
-      "end_time": "23:00",
-      "episode_description": "Confira os debates sobre grandes temas da agenda nacional, com deputados e representantes do Governo e da sociedade civil."
-    },
-    {
-      "show_name": "Elas Pautam",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/elas-pautam.webp",
-      "show_category": "Politics",
-      "start_time": "23:00",
-      "end_time": "23:30",
       "episode_description": "O programa conta com a participação de duas parlamentares, em uma conversa informal sobre temas diversos de interesse da bancada feminina."
     },
     {
-      "show_name": "Qual a Questão?",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/tv-camara/today/qual-a-questão.webp",
-      "show_category": "Public affairs",
-      "start_time": "23:30",
-      "end_time": "24:00",
-      "episode_description": "Discussões sobre grandes temas da agenda nacional que mexem com o dia a dia dos brasileiros, como educação, economia, meio ambiente, empregos, tecnologia e saúde. Com participação de especialistas e representantes da sociedade civil."
+      "show_name": "Potência N",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_potencia-n_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "22:00",
+      "end_time": "23:00",
+      "episode_description": "Conheça a luta de mulheres negras no campo da pesquisa acadêmica no Brasil."
+    },
+    {
+      "show_name": "Comissão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "23:00",
+      "end_time": "23:30",
+      "episode_description": "O programa transmite as discussões e votações do plenário."
     }
   ]
 }

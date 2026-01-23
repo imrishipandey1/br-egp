@@ -1,158 +1,134 @@
 {
   "channel": "Fox Sports",
-  "date": "22/01/2026",
+  "date": "23/01/2026",
   "schedule": [
     {
-      "show_name": "Sporting x Casa Pia",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/sporting-x-casa-pia.webp",
-      "show_category": "Campeonato Português",
-      "start_time": "01:30",
-      "end_time": "03:30",
-      "episode_description": "Todas as emoções da principal competição de futebol masculino entre clubes de Portugal."
-    },
-    {
-      "show_name": "F1: The Inside Line",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/f1-the-inside-line.webp",
-      "show_category": "",
-      "start_time": "03:30",
-      "end_time": "04:00",
-      "episode_description": "Veja a cobertura completa da Fórmula 1, a maior e mais badalada categoria do automobilismo mundial. Acompanhe as principais notícias da semana, os bastidores, entrevistas exclusivas e reportagens especiais."
-    },
-    {
-      "show_name": "Show da Rodada do Italiano",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/show-da-rodada-do-italiano.webp",
-      "show_category": "",
-      "start_time": "04:00",
-      "end_time": "04:30",
-      "episode_description": "Os principais destaques das partidas da Lega Serie A, primeira divisão do Campeonato Italiano de futebol masculino, com os gols, melhores lances e situação da tabela de classificação após cada rodada disputada."
-    },
-    {
-      "show_name": "Show da Rodada da EFL",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/show-da-rodada-da-efl.webp",
-      "show_category": "",
-      "start_time": "04:30",
-      "end_time": "05:00",
-      "episode_description": "Os destaques das partidas da EFL Championship, segunda divisão de futebol masculino da Inglaterra."
-    },
-    {
-      "show_name": "Show da Rodada de La Liga",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/show-da-rodada-de-la-liga.webp",
-      "show_category": "",
-      "start_time": "05:00",
-      "end_time": "05:30",
-      "episode_description": ".Todos os gols e os principais lances da rodada de La Liga, primeira divisão do Campeonato Espanhol."
-    },
-    {
-      "show_name": "NBA Courtside",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/nba-courtside.webp",
-      "show_category": "",
-      "start_time": "05:30",
-      "end_time": "05:42",
-      "episode_description": "O aquecimento final das equipes e últimos preparativos para o duelo entre New York Knicks e Cleveland Cavaliers, pela rodada de abertura da temporada regular 2025-2026 da NBA, direto do Madison Square Garden, em Nova York, EUA."
-    },
-    {
       "show_name": "Charlotte Hornets x Cleveland Cavaliers",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/charlotte-hornets-x-cleveland-cavaliers.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_basketball-charlotte-hornets-x-cleveland-cavaliers_l_m.jpg",
       "show_category": "NBA",
       "start_time": "05:42",
-      "end_time": "08:05",
+      "end_time": "01:30",
       "episode_description": "Trinta equipes dos Estados Unidos e Canadá se enfrentam na principal liga de basquete do mundo."
     },
     {
-      "show_name": "Milwaukee Bucks x Oklahoma City Thunder",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/milwaukee-bucks-x-oklahoma-city-thunder.webp",
-      "show_category": "NBA",
-      "start_time": "08:05",
-      "end_time": "10:35",
-      "episode_description": "Trinta equipes dos Estados Unidos e Canadá se enfrentam na principal liga de basquete do mundo."
+      "show_name": "Udinese x Internazionale",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-udinese-x-internazionale_l_m.jpg",
+      "show_category": "Campeonato Italiano",
+      "start_time": "01:30",
+      "end_time": "03:30",
+      "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
     },
     {
-      "show_name": "Show da Rodada do Italiano",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/show-da-rodada-do-italiano.webp",
+      "show_name": "Milan x Lecce",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-milan-x-lecce_l_m.jpg",
+      "show_category": "Campeonato Italiano",
+      "start_time": "03:30",
+      "end_time": "05:30",
+      "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
+    },
+    {
+      "show_name": "Real Sociedad x Barcelona",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-real-sociedad-x-barcelona_l_m.jpg",
+      "show_category": "Campeonato Espanhol",
+      "start_time": "05:30",
+      "end_time": "07:30",
+      "episode_description": "Pela rodada 11, a Real Sociedad recebe o Barcelona na Reale Arena, em San Sebastián, Espanha. O clube basco tenta alcançar a parte de cima da tabela de La Liga, enquanto os Culés vão em busca da oitava vitória consecutiva por todas as competições."
+    },
+    {
+      "show_name": "Tottenham Hotspur x West Ham",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-tottenham-hotspur-x-west-ham_l_m.jpg",
+      "show_category": "Campeonato Inglês",
+      "start_time": "07:30",
+      "end_time": "09:30",
+      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
+    },
+    {
+      "show_name": "Aquece Moto GP",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_special-aquece-moto-gp_l_m.jpg",
       "show_category": "",
-      "start_time": "10:35",
-      "end_time": "11:05",
-      "episode_description": "Os principais destaques das partidas da Lega Serie A, primeira divisão do Campeonato Italiano de futebol masculino, com os gols, melhores lances e situação da tabela de classificação após cada rodada disputada."
+      "start_time": "09:30",
+      "end_time": "10:30",
+      "episode_description": "Uma prévia da temporada 2026 da Moto GP, com estreia do brasileiro Diogo Moreira, que vai competir pela equipe LCR Honda após conquistar o título da Moto 2 em 2025. O País também volta a sediar uma prova da categoria, em Goiânia, após 12 anos."
     },
     {
-      "show_name": "Show da Rodada de La Liga",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/show-da-rodada-de-la-liga.webp",
-      "show_category": "",
-      "start_time": "11:05",
-      "end_time": "11:35",
-      "episode_description": ".Todos os gols e os principais lances da rodada de La Liga, primeira divisão do Campeonato Espanhol."
-    },
-    {
-      "show_name": "Peñarol x River Plate",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/peñarol-x-river-plate.webp",
+      "show_name": "Peñarol x Colo-Colo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-penarol-x-colo-colo-1_l_m.jpg",
       "show_category": "Serie Río de la Plata",
-      "start_time": "11:35",
-      "end_time": "13:30",
-      "episode_description": "Amistoso de pré-temporada disputado no Estádio Domingo Burgueño Miguel, em Maldonado, Uruguai."
+      "start_time": "10:30",
+      "end_time": "12:30",
+      "episode_description": "Amistoso de pré-temporada disputado no Estádio Centenário, em Montevidéu, Uruguai."
     },
     {
-      "show_name": "Especial Libertadores - Campanha do Campeão",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/especial-libertadores---campanha-do-campeão.webp",
-      "show_category": "",
-      "start_time": "13:30",
+      "show_name": "Al Gharafa x Sharjah",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-al-gharafa-x-sharjah_l_m.jpg",
+      "show_category": "Supercopa Qatar-Emirados Árabes Unidos de Futebol",
+      "start_time": "12:30",
       "end_time": "14:30",
-      "episode_description": "Destaques da trajetória da equipe campeã da Libertadores 2025 até a conquista da \"Glória Eterna\"."
+      "episode_description": "As melhores equipes do Qatar e Emirados Árabes Unidos disputam torneio exclusivo da região."
     },
     {
-      "show_name": "Show da Rodada da EFL",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/show-da-rodada-da-efl.webp",
+      "show_name": "Show da Rodada do Inglês",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-do-ingles_l_m.jpg",
       "show_category": "",
       "start_time": "14:30",
       "end_time": "15:00",
-      "episode_description": "Os destaques das partidas da EFL Championship, segunda divisão de futebol masculino da Inglaterra."
+      "episode_description": "O programa traz todos os pormenores da rodada do campeonato inglês com as pontuações dos clubes, gols e lances mais bonitos."
     },
     {
-      "show_name": "Show da Rodada de La Liga",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/show-da-rodada-de-la-liga.webp",
+      "show_name": "Show da Rodada da EFL",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-da-efl_l_m.jpg",
       "show_category": "",
       "start_time": "15:00",
       "end_time": "15:30",
-      "episode_description": ".Todos os gols e os principais lances da rodada de La Liga, primeira divisão do Campeonato Espanhol."
+      "episode_description": "Os destaques das partidas da EFL Championship, segunda divisão de futebol masculino da Inglaterra."
     },
     {
-      "show_name": "Milwaukee Bucks x Oklahoma City Thunder",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/milwaukee-bucks-x-oklahoma-city-thunder.webp",
+      "show_name": "Charlotte Hornets x Cleveland Cavaliers",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_basketball-charlotte-hornets-x-cleveland-cavaliers_l_m.jpg",
       "show_category": "NBA",
       "start_time": "15:30",
       "end_time": "17:30",
       "episode_description": "Trinta equipes dos Estados Unidos e Canadá se enfrentam na principal liga de basquete do mundo."
     },
     {
-      "show_name": "Brighton & Hove Albion x Bournemouth",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/brighton--hove-albion-x-bournemouth.webp",
-      "show_category": "Campeonato Inglês",
+      "show_name": "Sporting x Casa Pia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-sporting-x-casa-pia-1_l_m.jpg",
+      "show_category": "Campeonato Português",
       "start_time": "17:30",
       "end_time": "19:30",
-      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
+      "episode_description": "Todas as emoções da principal competição de futebol masculino entre clubes de Portugal."
     },
     {
-      "show_name": "Elche CF x Sevilla",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/elche-cf-x-sevilla.webp",
-      "show_category": "Campeonato Espanhol",
+      "show_name": "Abel, o Grande",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_abel-o-grande_l_m.jpg",
+      "show_category": "Documentary",
       "start_time": "19:30",
-      "end_time": "21:25",
-      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
+      "end_time": "20:30",
+      "episode_description": "De volta ao Brasil, Abel faz história nos quatro grandes clubes do Rio de Janeiro; entre vitórias e derrotas, ele encara o maior desafio de sua vida: a partida do filho João Pedro."
     },
     {
-      "show_name": "Al Gharafa x Sharjah",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/al-gharafa-x-sharjah.webp",
-      "show_category": "Supercopa Qatar-Emirados Árabes Unidos de Futebol",
-      "start_time": "21:25",
+      "show_name": "Abel, o Grande",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_abel-o-grande_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "20:30",
+      "end_time": "21:30",
+      "episode_description": "De volta ao Brasil, Abel faz história nos quatro grandes clubes do Rio de Janeiro; entre vitórias e derrotas, ele encara o maior desafio de sua vida: a partida do filho João Pedro."
+    },
+    {
+      "show_name": "Real Sociedad x Barcelona",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-real-sociedad-x-barcelona_l_m.jpg",
+      "show_category": "Campeonato Espanhol",
+      "start_time": "21:30",
       "end_time": "23:30",
-      "episode_description": "As melhores equipes do Qatar e Emirados Árabes Unidos disputam torneio exclusivo da região."
+      "episode_description": "Pela rodada 11, a Real Sociedad recebe o Barcelona na Reale Arena, em San Sebastián, Espanha. O clube basco tenta alcançar a parte de cima da tabela de La Liga, enquanto os Culés vão em busca da oitava vitória consecutiva por todas as competições."
     },
     {
-      "show_name": "Boca Juniors x Olimpia",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/fox-sports/today/boca-juniors-x-olimpia.webp",
-      "show_category": "Serie Río de la Plata",
+      "show_name": "Aquece Moto GP",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_special-aquece-moto-gp_l_m.jpg",
+      "show_category": "",
       "start_time": "23:30",
       "end_time": "24:00",
-      "episode_description": "Amistoso disputado no Estádio Único de San Nicolás, em San Nicolás de los Arroyos, Argentina."
+      "episode_description": "Uma prévia da temporada 2026 da Moto GP, com estreia do brasileiro Diogo Moreira, que vai competir pela equipe LCR Honda após conquistar o título da Moto 2 em 2025. O País também volta a sediar uma prova da categoria, em Goiânia, após 12 anos."
     }
   ]
 }

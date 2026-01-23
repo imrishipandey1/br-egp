@@ -1,102 +1,110 @@
 {
   "channel": "Telecine Premium",
-  "date": "22/01/2026",
+  "date": "23/01/2026",
   "schedule": [
     {
-      "show_name": "Virgínia e Adelaide",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-premium/today/virgínia-e-adelaide.webp",
-      "show_category": "Drama / 2024",
-      "start_time": "02:05",
-      "end_time": "03:50",
-      "episode_description": "O encontro de duas mulheres que inauguraram a psicanálise no Brasil. Virgínia, uma mulher negra, a primeira psicanalista brasileira, e Adelaide, psicanalista judia que fugiu do regime nazista da Alemanha."
-    },
-    {
-      "show_name": "Jogos Vorazes - A Cantiga dos Pássaros e das Serpentes",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-premium/today/jogos-vorazes---a-cantiga-dos-pássaros-e-das-serpentes.webp",
+      "show_name": "Missão: Impossível - Acerto de Contas Parte 1",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_miss-o-impossivel-acerto-de-contas-parte-1-2023_l_m.jpg",
       "show_category": "Action / 2023",
-      "start_time": "03:50",
-      "end_time": "06:30",
-      "episode_description": "Anos antes de se tornar o presidente tirânico de Panem, Coriolanus Snow, de 18 anos, vê uma chance de mudar sua sorte quando se torna o mentor de Lucy Gray Baird, o tributo feminino do Distrito 12."
+      "start_time": "00:05",
+      "end_time": "02:50",
+      "episode_description": "Ethan Hunt e sua equipe devem rastrear uma nova arma que pode ameaçar toda a humanidade se cair em mãos erradas. Com o destino do mundo em jogo, se inicia uma corrida mortal ao redor do globo. Confrontado por um inimigo misterioso e poderoso, Ethan é forçado a considerar que talvez nada importe mais do que a missão, nem mesmo as vidas daqueles com quem ele mais se importa."
     },
     {
-      "show_name": "Ingresso para o Paraíso",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-premium/today/ingresso-para-o-paraíso.webp",
-      "show_category": "Romantic comedy / 2022",
-      "start_time": "06:30",
-      "end_time": "08:20",
-      "episode_description": "Um homem e sua ex-esposa correm para Bali para impedir que sua filha se case. Enquanto tentam desesperadamente sabotar o casamento, a dupla brigona logo se vê reacendendo velhos sentimentos que um dia os fizeram felizes juntos."
-    },
-    {
-      "show_name": "Missão Resgate",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-premium/today/missão-resgate.webp",
-      "show_category": "Action / 2021",
-      "start_time": "08:20",
-      "end_time": "10:15",
-      "episode_description": "Após o desmoronamento de uma mina de diamantes, Mike McCann, um experiente motorista de caminhão, é recrutado por Jim Goldenrod para liderar uma missão de resgate. Ele e sua equipe têm apenas 30 horas para transportar uma enorme carga sobre rios congelados e tentar salvar a vida dos mineradores soterrados."
-    },
-    {
-      "show_name": "Tim Maia",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-premium/today/tim-maia.webp",
-      "show_category": "Drama / 2014 / 7.3",
-      "start_time": "10:15",
-      "end_time": "12:40",
-      "episode_description": "A vida problemática e a trajetória musical do cantor e compositor Tim Maia, da infância no Rio de Janeiro até a morte prematura, aos 55 anos."
-    },
-    {
-      "show_name": "Mar em Chamas",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-premium/today/mar-em-chamas.webp",
-      "show_category": "Action / 2021",
-      "start_time": "12:40",
-      "end_time": "14:30",
-      "episode_description": "A exploração de petróleo começa a trazer consequências ambientais causando o colapso de uma plataforma. Uma piloto de submarino e pesquisadora faz de tudo para salvar o local de uma catástrofe iminente."
-    },
-    {
-      "show_name": "Monstro",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-premium/today/monstro.webp",
-      "show_category": "Drama / 2023",
-      "start_time": "14:30",
-      "end_time": "16:45",
-      "episode_description": "Mãe percebe que o filho está se comportando de maneira diferente e vai até a escola atrás de respostas. Três pontos de vista diferentes revelam a verdade sobre o menino."
-    },
-    {
-      "show_name": "O Jovem Messias",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-premium/today/o-jovem-messias.webp",
-      "show_category": "Historical drama / 2016",
-      "start_time": "16:45",
-      "end_time": "18:40",
-      "episode_description": "Jesus vive com sua família em Alexandria, onde eles fugiram do massacre de crianças. Com a morte do Rei eles voltam para Nazaré, sem saber que o herdeiro é como o pai e está determinado a matar Jesus."
-    },
-    {
-      "show_name": "Minha Fama de Mau",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-premium/today/minha-fama-de-mau.webp",
-      "show_category": "Drama / 2019 / 6.6",
-      "start_time": "18:40",
-      "end_time": "20:45",
-      "episode_description": "Na Tijuca da década de 1960, o jovem Erasmo Carlos alimenta uma paixão: o rock and roll. Fã de Elvis Presley, Bill Haley e Chuck Berry, ele aprende a tocar violão enquanto vive de sonhos, bicos e pequenas delinquências. Sua fama de roqueiro atrai Roberto Carlos, e logo se tornam parceiros e amigos."
-    },
-    {
-      "show_name": "O Convento",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-premium/today/o-convento.webp",
+      "show_name": "Hora do Massacre",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hora-do-massacre-2023_l_m.jpg",
       "show_category": "Horror / 2023",
-      "start_time": "20:45",
-      "end_time": "22:20",
-      "episode_description": "Após a morte suspeita do irmão, um padre, Grace viaja até o Convento Mount Saviour, na Escócia, para descobrir o que realmente aconteceu. Uma vez lá, ela descobre assassinato, sacrilégio e uma verdade perturbadora sobre seu próprio passado."
+      "start_time": "02:50",
+      "end_time": "04:15",
+      "episode_description": "Grupo de jovens ativistas decide fazer uma declaração ambiental ao vandalizar uma superloja de móveis. Mas o plano deles dá errado quando ficam presos lá dentro e precisam enfrentar um guarda de segurança enlouquecido com uma terrível fixação pela caça primitiva. À medida que a noite se enche de violência e terror, os adolescentes enfrentam uma luta desesperada pelas suas vidas contra um assassino implacável e perturbador."
     },
     {
-      "show_name": "Danificado",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-premium/today/danificado.webp",
-      "show_category": "Thriller / 2024",
-      "start_time": "22:20",
-      "end_time": "06:25",
-      "episode_description": "Assassino sádico surge na Escócia e um detetive da polícia de Chicago se junta à perseguição na esperança de detê-lo antes que faça sua próxima vítima."
+      "show_name": "Mussum, o Filmis",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mussum-o-filmis-2023_l_m.jpg",
+      "show_category": "Biography / 2023",
+      "start_time": "04:15",
+      "end_time": "06:30",
+      "episode_description": "A trajetória de Antônio Carlos Bernardes Gomes, o Mussum, dos Trapalhões. A infância pobre, a carreira militar, a relação com a Mangueira e o sucesso com o grupo Originais do Samba, além dos bastidores como integrante dos Trapalhões."
     },
     {
-      "show_name": "Preview",
-      "show_logo": "https://programacaotvhoje.com/wp-content/uploads/downloaded-images/telecine-premium/today/preview.webp",
-      "show_category": "Entertainment",
-      "start_time": "06:25",
-      "end_time": "06:55",
-      "episode_description": "Acompanhe matérias especiais sobre o mundo da sétima arte, o cinema."
+      "show_name": "Missão Suicida",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_miss-o-suicida-2024_l_m.jpg",
+      "show_category": "Action / 2024",
+      "start_time": "06:30",
+      "end_time": "08:10",
+      "episode_description": "Após descobrir que a morte de sua esposa não foi um acidente, um ex-chefe de estação da CIA é forçado a voltar ao submundo da espionagem, aliando-se a um adversário para desvendar uma conspiração que desafia tudo o que ele acreditava saber."
+    },
+    {
+      "show_name": "Meninas Malvadas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_meninas-malvadas-2024_l_m.jpg",
+      "show_category": "Musical comedy / 2024",
+      "start_time": "08:10",
+      "end_time": "10:10",
+      "episode_description": "Uma nova estudante é recebida no topo da cadeia social por um grupo de elite de garotas populares chamadas as Plásticas. No entanto, quando ela comete o erro de se apaixonar pelo ex-namorado da rainha do grupo, ela se vê na mira delas."
+    },
+    {
+      "show_name": "Chernobyl: O Filme",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_chernobyl-o-filme-2021_l_m.jpg",
+      "show_category": "Thriller / 2021",
+      "start_time": "10:10",
+      "end_time": "12:30",
+      "episode_description": "Após o terrível acidente nuclear na usina de Chernobyl, um bombeiro arrisca sua vida para evitar um desastre ainda maior. Ao lado de um engenheiro e um mergulhador militar, eles partem na perigosa missão de drenar a água de um reator em chamas."
+    },
+    {
+      "show_name": "Águas Profundas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aguas-profundas-2022_l_m.jpg",
+      "show_category": "Thriller / 2022",
+      "start_time": "12:30",
+      "end_time": "14:30",
+      "episode_description": "Um homem permite que sua esposa tenha relações com outras pessoas para tentar salvar seu casamento. Porém, quando os amantes dela começam a desaparecer, o marido se torna o principal suspeito."
+    },
+    {
+      "show_name": "Distrito 666",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_distrito-666-2022_l_m.jpg",
+      "show_category": "Action / 2022",
+      "start_time": "14:30",
+      "end_time": "16:00",
+      "episode_description": "Em um mundo distópico no ano de 2042, jovens descobrem segredos do governo sobre a pandemia. Lutando contra a opressão, eles tentam sobreviver em confinamento absoluto."
+    },
+    {
+      "show_name": "Minha Irmã e Eu",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_minha-irm-e-eu-2023_l_m.jpg",
+      "show_category": "Comedy / 2023",
+      "start_time": "16:00",
+      "end_time": "18:00",
+      "episode_description": "As irmãs Mirian e Mirelly nasceram em Rio Verde, no interior de Goiás. Elas não realizaram o sonho da mãe, Dona Márcia, de se tornarem uma dupla sertaneja. Além das irmãs terem seguido caminhos opostos, elas vivem às turras. A mãe delas desaparece e as duas deixam de lado as diferenças e se unem para procurá-la em uma viagem que pode mudar suas vidas."
+    },
+    {
+      "show_name": "O Sobrevivente",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-sobrevivente-2021_l_m.jpg",
+      "show_category": "Action / 2021",
+      "start_time": "18:00",
+      "end_time": "19:35",
+      "episode_description": "Um ano após a queda da civilização por uma epidemia viral, ex-agente do FBI precisa proteger uma jovem imune à doença de um perigoso criminoso."
+    },
+    {
+      "show_name": "Perto de Você",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_perto-de-voce-2025_l_m.jpg",
+      "show_category": "Drama / 2025",
+      "start_time": "19:35",
+      "end_time": "21:20",
+      "episode_description": "No começo da pandemia, um jovem trans acaba isolado em um pequeno apartamento junto a seu pai idoso. Dia após dia, ele tenta estar cada vez mais perto do pai."
+    },
+    {
+      "show_name": "211 - O Grande Assalto",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_211-o-grande-assalto-2018_l_m.jpg",
+      "show_category": "Action / 2018",
+      "start_time": "21:20",
+      "end_time": "22:55",
+      "episode_description": "O oficial Mike Chandler e um jovem civil encontram-se despreparados e desarmados quando o destino os coloca diretamente na mira de um ousado roubo a banco em andamento por uma equipe destemida de homens altamente treinados e fortemente armados."
+    },
+    {
+      "show_name": "No Lugar Errado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_no-lugar-errado-2022_l_m.jpg",
+      "show_category": "Action / 2022",
+      "start_time": "22:55",
+      "end_time": "23:25",
+      "episode_description": "Depois de testemunhar um assassinato, o ex-chefe de polícia de uma pequena cidade faz de tudo para salvar sua filha das mãos de um mafioso que tenta silenciá-lo."
     }
   ]
 }
