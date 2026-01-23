@@ -1,0 +1,81 @@
+name: Deploy Content and Run WP Import
+
+on:
+  push:
+    branches:
+      - main  # Change this if your default branch is master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      # 1 & 2. Compress the directories locally to save bandwidth
+      - name: Compress Directories
+        run: |
+          # Compress 'schedule' folder to schedule.tar.gz
+          if [ -d "schedule" ]; then
+            tar -czf schedule.tar.gz schedule
+          fi
+
+          # Compress 'downloaded-images' folder to downloaded-images.tar.gz
+          if [ -d "downloaded-images" ]; then
+            tar -czf downloaded-images.tar.gz downloaded-images
+          fi
+
+      # 3. Upload the compressed files to the server
+      - name: Copy Files via SCP
+        uses: appleboy/scp-action@master
+        with:
+          host: ${{ secrets.HOST }}
+          username: ${{ secrets.USERNAME }}
+          password: ${{ secrets.PASSWORD }}
+          port: 22
+          # We upload only the archives, not the loose files
+          source: "schedule.tar.gz,downloaded-images.tar.gz"
+          target: "/home/programacaotvhoje/htdocs/programacaotvhoje.com/wp-content/uploads/"
+
+      # 4. SSH into server to Extract, Run Command, and Cleanup
+      - name: Extract and Import
+        uses: appleboy/ssh-action@master
+        with:
+          host: ${{ secrets.HOST }}
+          username: ${{ secrets.USERNAME }}
+          password: ${{ secrets.PASSWORD }}
+          port: 22
+          script: |
+            # Define paths for clarity
+            UPLOADS_DIR="/home/programacaotvhoje/htdocs/programacaotvhoje.com/wp-content/uploads"
+            WP_ROOT="/home/programacaotvhoje/htdocs/programacaotvhoje.com"
+
+            # Navigate to uploads directory
+            cd $UPLOADS_DIR
+
+            # 1. Unarchive schedule (forces overwrite if exists)
+            if [ -f "schedule.tar.gz" ]; then
+              tar -xzf schedule.tar.gz
+              # Delete the archive immediately after extraction
+              rm schedule.tar.gz
+              echo "Schedule extracted and archive deleted."
+            fi
+
+            # 2. Unarchive downloaded-images
+            if [ -f "downloaded-images.tar.gz" ]; then
+              tar -xzf downloaded-images.tar.gz
+              # Delete the archive immediately after extraction
+              rm downloaded-images.tar.gz
+              echo "Images extracted and archive deleted."
+            fi
+
+            # 3. Navigate to WP root and run the import command
+            cd $WP_ROOT
+            
+            # Check if WP-CLI works, otherwise you might need full path (e.g., /usr/local/bin/wp)
+            if command -v wp &> /dev/null; then
+                wp tv-schedule import --allow-root
+            else
+                echo "WP-CLI not found in PATH, trying local php execution or skipping..."
+                # Optional: /usr/local/bin/wp tv-schedule import --allow-root
+            fi
