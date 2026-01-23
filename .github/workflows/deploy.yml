@@ -1,35 +1,34 @@
 name: Deploy Content and Run WP Import
 
 on:
-  # Trigger on push to main
   push:
     branches:
       - main
-  
-  # This enables the manual "Run workflow" button
-  workflow_dispatch: 
+  workflow_dispatch:
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      # ... (rest of the file remains the same)      - name: Checkout Code
+      - name: Checkout Code
         uses: actions/checkout@v4
 
-      # 1 & 2. Compress the directories locally to save bandwidth
       - name: Compress Directories
         run: |
-          # Compress 'schedule' folder to schedule.tar.gz
+          # Compress 'schedule' folder if it exists
           if [ -d "schedule" ]; then
             tar -czf schedule.tar.gz schedule
+          else
+            echo "Warning: schedule folder not found"
           fi
 
-          # Compress 'downloaded-images' folder to downloaded-images.tar.gz
+          # Compress 'downloaded-images' folder if it exists
           if [ -d "downloaded-images" ]; then
             tar -czf downloaded-images.tar.gz downloaded-images
+          else
+            echo "Warning: downloaded-images folder not found"
           fi
 
-      # 3. Upload the compressed files to the server
       - name: Copy Files via SCP
         uses: appleboy/scp-action@master
         with:
@@ -37,12 +36,11 @@ jobs:
           username: ${{ secrets.USERNAME }}
           password: ${{ secrets.PASSWORD }}
           port: 22
-          # We upload only the archives, not the loose files
+          # Upload the tar.gz files we just created
           source: "schedule.tar.gz,downloaded-images.tar.gz"
           target: "/home/programacaotvhoje/htdocs/programacaotvhoje.com/wp-content/uploads/"
 
-      # 4. SSH into server to Extract, Run Command, and Cleanup
-      - name: Extract and Import
+      - name: Extract, Import and Cleanup
         uses: appleboy/ssh-action@master
         with:
           host: ${{ secrets.HOST }}
@@ -50,36 +48,33 @@ jobs:
           password: ${{ secrets.PASSWORD }}
           port: 22
           script: |
-            # Define paths for clarity
+            # Define paths
             UPLOADS_DIR="/home/programacaotvhoje/htdocs/programacaotvhoje.com/wp-content/uploads"
             WP_ROOT="/home/programacaotvhoje/htdocs/programacaotvhoje.com"
 
-            # Navigate to uploads directory
             cd $UPLOADS_DIR
 
-            # 1. Unarchive schedule (forces overwrite if exists)
+            # 1. Unarchive schedule and delete zip
             if [ -f "schedule.tar.gz" ]; then
               tar -xzf schedule.tar.gz
-              # Delete the archive immediately after extraction
               rm schedule.tar.gz
-              echo "Schedule extracted and archive deleted."
+              echo "Schedule extracted and cleaned up."
             fi
 
-            # 2. Unarchive downloaded-images
+            # 2. Unarchive images and delete zip
             if [ -f "downloaded-images.tar.gz" ]; then
               tar -xzf downloaded-images.tar.gz
-              # Delete the archive immediately after extraction
               rm downloaded-images.tar.gz
-              echo "Images extracted and archive deleted."
+              echo "Images extracted and cleaned up."
             fi
 
-            # 3. Navigate to WP root and run the import command
+            # 3. Run WP Import Command
             cd $WP_ROOT
             
-            # Check if WP-CLI works, otherwise you might need full path (e.g., /usr/local/bin/wp)
+            # Check for WP-CLI
             if command -v wp &> /dev/null; then
                 wp tv-schedule import --allow-root
+                echo "WP Import command finished."
             else
-                echo "WP-CLI not found in PATH, trying local php execution or skipping..."
-                # Optional: /usr/local/bin/wp tv-schedule import --allow-root
+                echo "Error: WP-CLI (wp) command not found on server."
             fi
