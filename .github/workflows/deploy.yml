@@ -1,15 +1,19 @@
 name: Deploy Content and Run WP Import
 
 on:
+  # Trigger on push to main
   push:
     branches:
-      - main  # Change this if your default branch is master
+      - main
+  
+  # This enables the manual "Run workflow" button
+  workflow_dispatch: 
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Code
+      # ... (rest of the file remains the same)      - name: Checkout Code
         uses: actions/checkout@v4
 
       # 1 & 2. Compress the directories locally to save bandwidth
