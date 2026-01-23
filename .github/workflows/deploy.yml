@@ -13,20 +13,39 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v4
 
-      - name: Compress Directories
+      - name: Rename and Compress Directories
         run: |
-          # Compress 'schedule' folder if it exists
-          if [ -d "schedule" ]; then
-            tar -czf schedule.tar.gz schedule
-          else
-            echo "Warning: schedule folder not found"
-          fi
-
-          # Compress 'downloaded-images' folder if it exists
+          # 1. Logic for downloaded-images (Simple compression)
           if [ -d "downloaded-images" ]; then
             tar -czf downloaded-images.tar.gz downloaded-images
           else
             echo "Warning: downloaded-images folder not found"
+          fi
+
+          # 2. Logic for Schedule (Renaming based on Sao Paulo Date)
+          if [ -d "schedule" ]; then
+            
+            # Set Timezone to Sao Paulo and get day of month
+            export TZ='America/Sao_Paulo'
+            DAY=$(date +%-d)
+            echo "Current Sao Paulo Day: $DAY"
+
+            # Check if Day is Even or Odd
+            if [ $((DAY % 2)) -eq 0 ]; then
+              echo "Date is EVEN. Renaming today->even, tomorrow->odd"
+              mv schedule/today schedule/even
+              mv schedule/tomorrow schedule/odd
+            else
+              echo "Date is ODD. Renaming today->odd, tomorrow->even"
+              mv schedule/today schedule/odd
+              mv schedule/tomorrow schedule/even
+            fi
+
+            # Compress the whole 'schedule' folder
+            # This ensures that when extracted in 'uploads', it goes into 'uploads/schedule'
+            tar -czf schedule.tar.gz schedule
+          else
+             echo "Warning: schedule folder not found"
           fi
 
       - name: Copy Files via SCP
@@ -36,7 +55,7 @@ jobs:
           username: ${{ secrets.USERNAME }}
           password: ${{ secrets.PASSWORD }}
           port: 22
-          # Upload the tar.gz files we just created
+          # Upload archives to the uploads root
           source: "schedule.tar.gz,downloaded-images.tar.gz"
           target: "/home/programacaotvhoje/htdocs/programacaotvhoje.com/wp-content/uploads/"
 
@@ -54,27 +73,27 @@ jobs:
 
             cd $UPLOADS_DIR
 
-            # 1. Unarchive schedule and delete zip
+            # 1. Unarchive schedule
+            # Because we compressed the 'schedule' folder itself, this will extract into ./schedule/even and ./schedule/odd
             if [ -f "schedule.tar.gz" ]; then
               tar -xzf schedule.tar.gz
               rm schedule.tar.gz
-              echo "Schedule extracted and cleaned up."
+              echo "Schedule extracted and archive cleaned up."
             fi
 
-            # 2. Unarchive images and delete zip
+            # 2. Unarchive images
             if [ -f "downloaded-images.tar.gz" ]; then
               tar -xzf downloaded-images.tar.gz
               rm downloaded-images.tar.gz
-              echo "Images extracted and cleaned up."
+              echo "Images extracted and archive cleaned up."
             fi
 
             # 3. Run WP Import Command
             cd $WP_ROOT
             
-            # Check for WP-CLI
             if command -v wp &> /dev/null; then
                 wp tv-schedule import --allow-root
                 echo "WP Import command finished."
             else
-                echo "Error: WP-CLI (wp) command not found on server."
+                echo "Error: WP-CLI (wp) command not found."
             fi
