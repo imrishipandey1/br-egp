@@ -3,236 +3,244 @@
   "date": "25/01/2026",
   "schedule": [
     {
-      "show_name": "Clube da Aventura",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-theater-hd/tomorrow/clube-da-aventura.webp",
-      "show_category": "Temporada 1 Episódio 3 - Corrida Espacial",
+      "show_name": "Rota Perigosa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rota-perigosa-s01e03-madagascar_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3 - Madagascar",
       "start_time": "00:00",
       "end_time": "00:48",
+      "episode_description": "Todd viaja para Madagascar, que também é conhecida por ser a fonte da 'Robusta' de alta qualidade, uma planta de café amplamente rejeitada pelos aficcionados em café."
+    },
+    {
+      "show_name": "Nos Trilhos do Alasca",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_nos-trilhos-do-alasca-s01e02-o-trator-1_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - O Trator",
+      "start_time": "00:48",
+      "end_time": "01:36",
+      "episode_description": "Jim, Nancy e John ficam presos, sem itens de necessidade básica, quando uma avalanche atinge e bloqueia os trilhos; o chefe Hugh Evans luta contra temperaturas congelantes para conseguir propano."
+    },
+    {
+      "show_name": "Mistérios da História",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_misterios-da-historia-s02e03-fausto-rainha-pirata-e-versailles_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 3 - Fausto, Rainha Pirata e Versailles",
+      "start_time": "01:36",
+      "end_time": "02:24",
+      "episode_description": "Um pacto com o diabo se desenrola em um castelo sinistro nos Países Baixos; uma fortaleza estratégica na Irlanda é disputada por uma rainha pirata; a construção de um castelo francês termina em desastre."
+    },
+    {
+      "show_name": "Mistérios no Museu",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_misterios-no-museu-s15e04-resistencia-na-corrida-manobra-aerea-e-invenc-o-do-bondinho_l_m.jpg",
+      "show_category": "Temporada 15 Episódio 4 - Resistência na Corrida, Manobra Aérea e Invenção do Bondinho",
+      "start_time": "02:24",
+      "end_time": "03:12",
+      "episode_description": "Don Wildman investiga uma mula em uma corrida de cavalos; uma manobra aérea; a invenção do bondinho."
+    },
+    {
+      "show_name": "Rumo ao Desconhecido",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rumo-ao-desconhecido-s06e06-o-navio-fantasma-dos-grandes-lagos_l_m.jpg",
+      "show_category": "Temporada 6 Episódio 6 - O Navio Fantasma dos Grandes Lagos",
+      "start_time": "03:12",
+      "end_time": "04:00",
+      "episode_description": "Josh investiga o mistério marítimo do Griffon, o primeiro navio a ser perdido nos Grandes Lagos. Ele usa um submersível de última geração na pesquisa."
+    },
+    {
+      "show_name": "Rumo ao Desconhecido",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rumo-ao-desconhecido-s06e08-a-heroina-perdida_l_m.jpg",
+      "show_category": "Temporada 6 Episódio 8 - A Heroína Perdida",
+      "start_time": "04:00",
+      "end_time": "04:48",
+      "episode_description": "Josh explora o caso da heroína da Segunda Guerra Mundial, Gertrude Tommy Tompkins, da Força Aérea feminina, que desapareceu quando seu Mustang P-51 caiu."
+    },
+    {
+      "show_name": "Clube da Aventura",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_clube-da-aventura-s01e03-corrida-espacial_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3 - Corrida Espacial",
+      "start_time": "04:48",
+      "end_time": "05:36",
       "episode_description": "Josh Gates explora as jornadas mais emocionantes ao espaço. Os astronautas da Apollo 13 lutam para trazer sua espaçonave de volta à Terra e a futurística SpaceShipOne pode dar ao resto da humanidade a chance de viajar para o espaço."
     },
     {
       "show_name": "Museu Mal-Assombrado",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-theater-hd/tomorrow/museu-mal-assombrado.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_museu-mal-assombrado-s01e04-estac-o-helter-skelter_l_m.jpg",
       "show_category": "Temporada 1 Episódio 4 - Estação Helter Skelter",
-      "start_time": "00:48",
-      "end_time": "01:36",
+      "start_time": "05:36",
+      "end_time": "05:36",
+      "episode_description": "Depois de receber uma televisão amaldiçoada de Charles Manson, um estudante de criminologia perde lentamente a noção da realidade."
+    },
+    {
+      "show_name": "Museu Mal-Assombrado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_museu-mal-assombrado-s01e04-estac-o-helter-skelter_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - Estação Helter Skelter",
+      "start_time": "05:36",
+      "end_time": "06:24",
       "episode_description": "Depois de receber uma televisão amaldiçoada de Charles Manson, um estudante de criminologia perde lentamente a noção da realidade."
     },
     {
       "show_name": "Nos Trilhos do Alasca",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-theater-hd/tomorrow/nos-trilhos-do-alasca.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_nos-trilhos-do-alasca-s01e02-o-trator-1_l_m.jpg",
       "show_category": "Temporada 1 Episódio 2 - O Trator",
-      "start_time": "01:36",
-      "end_time": "02:24",
+      "start_time": "06:24",
+      "end_time": "07:12",
       "episode_description": "Jim, Nancy e John ficam presos, sem itens de necessidade básica, quando uma avalanche atinge e bloqueia os trilhos; o chefe Hugh Evans luta contra temperaturas congelantes para conseguir propano."
     },
     {
       "show_name": "Criadores de Sonhos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-theater-hd/tomorrow/criadores-de-sonhos.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_criadores-de-sonhos-s01e03-moinho-de-ouro_l_m.jpg",
       "show_category": "Temporada 1 Episódio 3 - Moinho de Ouro",
-      "start_time": "02:24",
-      "end_time": "03:12",
+      "start_time": "07:12",
+      "end_time": "08:00",
+      "episode_description": "Um fazendeiro quer criar uma atração na beira da estrada para os viajantes. Com o prazo apertado, a equipe cria um moinho autêntico que homenageia a corrida do ouro. E os irmãos constroem um abrigo para patos resgatados."
+    },
+    {
+      "show_name": "Rumo ao Desconhecido",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rumo-ao-desconhecido-s06e06-o-navio-fantasma-dos-grandes-lagos_l_m.jpg",
+      "show_category": "Temporada 6 Episódio 6 - O Navio Fantasma dos Grandes Lagos",
+      "start_time": "08:00",
+      "end_time": "08:48",
+      "episode_description": "Josh investiga o mistério marítimo do Griffon, o primeiro navio a ser perdido nos Grandes Lagos. Ele usa um submersível de última geração na pesquisa."
+    },
+    {
+      "show_name": "Rumo ao Desconhecido",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rumo-ao-desconhecido-s06e08-a-heroina-perdida_l_m.jpg",
+      "show_category": "Temporada 6 Episódio 8 - A Heroína Perdida",
+      "start_time": "08:48",
+      "end_time": "09:36",
+      "episode_description": "Josh explora o caso da heroína da Segunda Guerra Mundial, Gertrude Tommy Tompkins, da Força Aérea feminina, que desapareceu quando seu Mustang P-51 caiu."
+    },
+    {
+      "show_name": "Clube da Aventura",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_clube-da-aventura-s01e03-corrida-espacial_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3 - Corrida Espacial",
+      "start_time": "09:36",
+      "end_time": "10:24",
+      "episode_description": "Josh Gates explora as jornadas mais emocionantes ao espaço. Os astronautas da Apollo 13 lutam para trazer sua espaçonave de volta à Terra e a futurística SpaceShipOne pode dar ao resto da humanidade a chance de viajar para o espaço."
+    },
+    {
+      "show_name": "Museu Mal-Assombrado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_museu-mal-assombrado-s01e04-estac-o-helter-skelter_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - Estação Helter Skelter",
+      "start_time": "10:24",
+      "end_time": "11:12",
+      "episode_description": "Depois de receber uma televisão amaldiçoada de Charles Manson, um estudante de criminologia perde lentamente a noção da realidade."
+    },
+    {
+      "show_name": "Nos Trilhos do Alasca",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_nos-trilhos-do-alasca-s01e02-o-trator-1_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - O Trator",
+      "start_time": "11:12",
+      "end_time": "12:00",
+      "episode_description": "Jim, Nancy e John ficam presos, sem itens de necessidade básica, quando uma avalanche atinge e bloqueia os trilhos; o chefe Hugh Evans luta contra temperaturas congelantes para conseguir propano."
+    },
+    {
+      "show_name": "Criadores de Sonhos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_criadores-de-sonhos-s01e03-moinho-de-ouro_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3 - Moinho de Ouro",
+      "start_time": "12:00",
+      "end_time": "12:48",
       "episode_description": "Um fazendeiro quer criar uma atração na beira da estrada para os viajantes. Com o prazo apertado, a equipe cria um moinho autêntico que homenageia a corrida do ouro. E os irmãos constroem um abrigo para patos resgatados."
     },
     {
       "show_name": "Destiladores",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-theater-hd/tomorrow/destiladores.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_destiladores-s10e04-tradic-o-em-alta_l_m.jpg",
       "show_category": "Temporada 10 Episódio 4 - Tradição em Alta",
-      "start_time": "03:12",
-      "end_time": "04:00",
+      "start_time": "12:48",
+      "end_time": "13:36",
       "episode_description": "Mark e Digger usam uma inovação das antigas para levar ao mercado suas reservas envelhecidas em barris; Tim tenta produzir o moonshine de Tickle em escala comercial; Josh se arrisca com um destilador clandestino novato."
     },
     {
       "show_name": "Destiladores",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-theater-hd/tomorrow/destiladores.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_destiladores-s10e05-produc-o-nada-ordinaria_l_m.jpg",
       "show_category": "Temporada 10 Episódio 5 - Produção Nada Ordinária",
-      "start_time": "04:00",
-      "end_time": "04:48",
+      "start_time": "13:36",
+      "end_time": "14:24",
       "episode_description": "Tickle e os Law começam uma produção de 700 galões; Mark e Huck atravessam os terrenos mais acidentados dos Apalaches com a lenda do moonshine Jim Tom; Mike e Jerry arrumam uma solução tecnológica para um problema."
     },
     {
       "show_name": "Califórnia em Chamas",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-theater-hd/tomorrow/califórnia-em-chamas.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_california-em-chamas-s01e03-montanha-de-chamas_l_m.jpg",
       "show_category": "Temporada 1 Episódio 3 - Montanha de Chamas",
-      "start_time": "04:48",
-      "end_time": "05:36",
+      "start_time": "14:24",
+      "end_time": "15:12",
       "episode_description": "O Creek Fire, com potencial para se tornar o incêndio mais destrutivo da Califórnia, força o resgate de campistas. O chefe Walker e sua equipe combatem o Valley Fire, que ameaça centenas de casas."
     },
     {
       "show_name": "Garimpeiros de Ruínas - Melhores Negócios",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-theater-hd/tomorrow/garimpeiros-de-ruínas---melhores-negócios.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_garimpeiros-de-ruinas-melhores-negocios-s01e01_l_m.jpg",
       "show_category": "Temporada 1 Episódio 1",
-      "start_time": "05:36",
-      "end_time": "05:36",
-      "episode_description": "Drew Pritchard recorda seus melhores projetos de restauração e revela porque compra certas antiguidades que precisam de restauro enquanto deixa outras na prateleira."
-    },
-    {
-      "show_name": "Garimpeiros de Ruínas - Melhores Negócios",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-theater-hd/tomorrow/garimpeiros-de-ruínas---melhores-negócios.webp",
-      "show_category": "Temporada 1 Episódio 1",
-      "start_time": "05:36",
-      "end_time": "06:24",
+      "start_time": "15:12",
+      "end_time": "16:00",
       "episode_description": "Drew Pritchard recorda seus melhores projetos de restauração e revela porque compra certas antiguidades que precisam de restauro enquanto deixa outras na prateleira."
     },
     {
       "show_name": "Alasca ao Extremo",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-theater-hd/tomorrow/alasca-ao-extremo.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alasca-ao-extremo-s03e03_l_m.jpg",
       "show_category": "Temporada 3 Episódio 3 - O Estranho",
-      "start_time": "06:24",
-      "end_time": "07:12",
+      "start_time": "16:00",
+      "end_time": "16:48",
       "episode_description": "O projeto do novo hotel de Neil estoura o orçamento e seu sócio-investidor o pressiona a abandonar seu negócio mais antigo. Jenny Rosenbaum faz uma descoberta que transforma sua vida."
-    },
-    {
-      "show_name": "Polônia - A Última Fronteira",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-theater-hd/tomorrow/polônia---a-última-fronteira.webp",
-      "show_category": "Temporada 3 Episódio 3",
-      "start_time": "07:12",
-      "end_time": "08:00",
-      "episode_description": "Um olhar sobre as histórias extraordinárias de madeireiros, engenheiros florestais e outros habitantes que vivem na região mais inóspita e selvagem da Polônia: as montanhas de Bieszczady."
-    },
-    {
-      "show_name": "Destiladores",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-theater-hd/tomorrow/destiladores.webp",
-      "show_category": "Temporada 10 Episódio 4 - Tradição em Alta",
-      "start_time": "08:00",
-      "end_time": "08:48",
-      "episode_description": "Mark e Digger usam uma inovação das antigas para levar ao mercado suas reservas envelhecidas em barris; Tim tenta produzir o moonshine de Tickle em escala comercial; Josh se arrisca com um destilador clandestino novato."
-    },
-    {
-      "show_name": "Destiladores",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-theater-hd/tomorrow/destiladores.webp",
-      "show_category": "Temporada 10 Episódio 5 - Produção Nada Ordinária",
-      "start_time": "08:48",
-      "end_time": "09:36",
-      "episode_description": "Tickle e os Law começam uma produção de 700 galões; Mark e Huck atravessam os terrenos mais acidentados dos Apalaches com a lenda do moonshine Jim Tom; Mike e Jerry arrumam uma solução tecnológica para um problema."
-    },
-    {
-      "show_name": "Califórnia em Chamas",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-theater-hd/tomorrow/califórnia-em-chamas.webp",
-      "show_category": "Temporada 1 Episódio 3 - Montanha de Chamas",
-      "start_time": "09:36",
-      "end_time": "10:24",
-      "episode_description": "O Creek Fire, com potencial para se tornar o incêndio mais destrutivo da Califórnia, força o resgate de campistas. O chefe Walker e sua equipe combatem o Valley Fire, que ameaça centenas de casas."
-    },
-    {
-      "show_name": "Garimpeiros de Ruínas - Melhores Negócios",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-theater-hd/tomorrow/garimpeiros-de-ruínas---melhores-negócios.webp",
-      "show_category": "Temporada 1 Episódio 1",
-      "start_time": "10:24",
-      "end_time": "11:12",
-      "episode_description": "Drew Pritchard recorda seus melhores projetos de restauração e revela porque compra certas antiguidades que precisam de restauro enquanto deixa outras na prateleira."
-    },
-    {
-      "show_name": "Alasca ao Extremo",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-theater-hd/tomorrow/alasca-ao-extremo.webp",
-      "show_category": "Temporada 3 Episódio 3 - O Estranho",
-      "start_time": "11:12",
-      "end_time": "12:00",
-      "episode_description": "O projeto do novo hotel de Neil estoura o orçamento e seu sócio-investidor o pressiona a abandonar seu negócio mais antigo. Jenny Rosenbaum faz uma descoberta que transforma sua vida."
-    },
-    {
-      "show_name": "Polônia - A Última Fronteira",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-theater-hd/tomorrow/polônia---a-última-fronteira.webp",
-      "show_category": "Temporada 3 Episódio 3",
-      "start_time": "12:00",
-      "end_time": "12:48",
-      "episode_description": "Um olhar sobre as histórias extraordinárias de madeireiros, engenheiros florestais e outros habitantes que vivem na região mais inóspita e selvagem da Polônia: as montanhas de Bieszczady."
     },
     {
       "show_name": "Alasca - A Última Fronteira",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-theater-hd/tomorrow/alasca---a-última-fronteira.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alasca-a-ultima-fronteira-s10e03-emergencia_l_m.jpg",
       "show_category": "Temporada 10 Episódio 3 - Emergência",
-      "start_time": "12:48",
-      "end_time": "14:24",
+      "start_time": "16:48",
+      "end_time": "18:24",
       "episode_description": "As cadeias de fornecimento do Alasca são interrompidas, e Jane e Eva precisam maximizar o estoque de alimentos. O transporte do gado é ameaçado, Eivin se machuca em sua oficina e Atz Sr. precisa de uma cirurgia de emergência."
     },
     {
+      "show_name": "Histórias Animais",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_historias-animais-s01e02_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Os Segredos das Aves Dançarinas",
+      "start_time": "18:24",
+      "end_time": "19:12",
+      "episode_description": "João Paulo Krajewski embarca em uma jornada repleta de aventuras pelas florestas do Brasil e da Austrália em busca de algumas das criaturas mais impressionantes e encantadoras da natureza: as aves dançarinas."
+    },
+    {
       "show_name": "Alasca: Perigo no Ar",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-theater-hd/tomorrow/alasca-perigo-no-ar.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alasca-perigo-no-ar-s02e01-ventos-articos_l_m.jpg",
       "show_category": "Temporada 2 Episódio 1 - Ventos Árticos",
-      "start_time": "14:24",
-      "end_time": "15:12",
+      "start_time": "19:12",
+      "end_time": "20:00",
       "episode_description": "Sobrevoando Nulato Hills, John Ponts enfrenta uma turbulência e a raiva dos passageiros; Jim e Ferno entregam o terminal aos pilotos; para resgatar uma pessoa perdida em uma tempestade, o voo de Sarah transforma-se em uma batalha pela sobrevivência."
     },
     {
       "show_name": "Rota Perigosa",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-theater-hd/tomorrow/rota-perigosa.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rota-perigosa-s01e03-madagascar_l_m.jpg",
       "show_category": "Temporada 1 Episódio 3 - Madagascar",
-      "start_time": "15:12",
-      "end_time": "16:00",
+      "start_time": "20:00",
+      "end_time": "20:48",
       "episode_description": "Todd viaja para Madagascar, que também é conhecida por ser a fonte da 'Robusta' de alta qualidade, uma planta de café amplamente rejeitada pelos aficcionados em café."
     },
     {
-      "show_name": "Ouro Selvagem",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-theater-hd/tomorrow/ouro-selvagem.webp",
-      "show_category": "Temporada 1 Episódio 3 - Vizinhos Armados",
-      "start_time": "16:00",
-      "end_time": "16:48",
-      "episode_description": "George e Scott precisam superar enchentes, falhas de máquinas e vizinhos armados enquanto começam a minerar seu terreno."
-    },
-    {
-      "show_name": "A Maldição do Ouro Perdido",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-theater-hd/tomorrow/a-maldição-do-ouro-perdido.webp",
-      "show_category": "Temporada 1 Episódio 3 - Fantasmas do Passado",
-      "start_time": "16:48",
-      "end_time": "17:36",
-      "episode_description": "Os fantasmas de antigos exploradores assombram a equipe. Pistas misteriosas dividem opiniões enquanto o grupo tenta encontrar a localização exata do ouro de Slumach."
-    },
-    {
-      "show_name": "No Rastro do Pé-Grande",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-theater-hd/tomorrow/no-rastro-do-pé-grande.webp",
-      "show_category": "Temporada 2 Episódio 5 - Tempo Curto",
-      "start_time": "17:36",
-      "end_time": "18:24",
-      "episode_description": "Restando somente três dias para o fim da expedição no Kentucky, a equipe investiga uma estrutura estranha que pode ser vital para provar a existência do Pé-Grande; um farejador os leva até a entrada de uma caverna misteriosa."
-    },
-    {
-      "show_name": "Histórias Animais",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-theater-hd/tomorrow/histórias-animais.webp",
-      "show_category": "Temporada 1 Episódio 1 - A História dos Felinos",
-      "start_time": "18:24",
-      "end_time": "19:12",
-      "episode_description": "Uma jornada fascinante ao lado do biólogo e cinegrafista da natureza, João Paulo Krajewski, para desvendar os segredos e a origem dos majestosos felinos."
-    },
-    {
-      "show_name": "Caçadores de Pítons",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-theater-hd/tomorrow/caçadores-de-pítons.webp",
-      "show_category": "Temporada 1 Episódio 3 - Um Punhado de Cobras",
-      "start_time": "19:12",
-      "end_time": "20:00",
-      "episode_description": "Dusty Crum e sua equipe montam um posto avançado no pântano, onde a concorrência é menor, mas o risco de ataques de aligatores e panteras é maior. Quando seu barco quebra, eles caçam em terra usando um buggy."
-    },
-    {
-      "show_name": "Monstros da Montanha",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-theater-hd/tomorrow/monstros-da-montanha.webp",
-      "show_category": "Temporada 6 Episódio 3 - O Segredo da Casa Azul",
-      "start_time": "20:00",
-      "end_time": "20:48",
-      "episode_description": "Após várias descobertas chocantes nos milharais do condado de Jackson, a equipe continua em busca da verdade por trás da mulher de uma casa azul abandonada com uma história apavorante."
-    },
-    {
-      "show_name": "Pesca Mortal",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-theater-hd/tomorrow/pesca-mortal.webp",
-      "show_category": "Temporada 14 Episódio 2 - Perigo em Alto-Mar",
+      "show_name": "Rumo ao Desconhecido",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rumo-ao-desconhecido-s06e06-o-navio-fantasma-dos-grandes-lagos_l_m.jpg",
+      "show_category": "Temporada 6 Episódio 6 - O Navio Fantasma dos Grandes Lagos",
       "start_time": "20:48",
       "end_time": "21:36",
-      "episode_description": "O Mar de Bering faz sua primeira vítima durante um resgate ousado da Guarda Costeira; Keith se oferece para orientar Jake como aprendiz de capitão; Suspeitas e acusações marcam um início brutal."
+      "episode_description": "Josh investiga o mistério marítimo do Griffon, o primeiro navio a ser perdido nos Grandes Lagos. Ele usa um submersível de última geração na pesquisa."
     },
     {
-      "show_name": "Pesca Mortal",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-theater-hd/tomorrow/pesca-mortal.webp",
-      "show_category": "Temporada 14 Episódio 3 - Tempestade em Alto-Mar",
+      "show_name": "Rumo ao Desconhecido",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rumo-ao-desconhecido-s06e08-a-heroina-perdida_l_m.jpg",
+      "show_category": "Temporada 6 Episódio 8 - A Heroína Perdida",
       "start_time": "21:36",
       "end_time": "22:24",
-      "episode_description": "Wild Bill espera ganhar uma fortuna com uma nova estratégia de pesca; Sean e Casey forjam uma aliança, mas ela dura só até um deles encontrar uma área promissora; o Cornelia Marie é atingido pelo mau tempo."
+      "episode_description": "Josh explora o caso da heroína da Segunda Guerra Mundial, Gertrude Tommy Tompkins, da Força Aérea feminina, que desapareceu quando seu Mustang P-51 caiu."
     },
     {
-      "show_name": "Alasca - A Última Fronteira",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-theater-hd/tomorrow/alasca---a-última-fronteira.webp",
-      "show_category": "Temporada 10 Episódio 3 - Emergência",
+      "show_name": "Mistérios no Museu",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_misterios-no-museu-s10e05-o-pai-da-cavalaria-rosa-parks-e-o-ovni-cavaleiro-negro_l_m.jpg",
+      "show_category": "Temporada 10 Episódio 5 - O Pai da Cavalaria, Rosa Parks e o Óvni Cavaleiro Negro",
       "start_time": "22:24",
+      "end_time": "23:12",
+      "episode_description": "Don Wildman recorda a história do homem que salvou George Washington, a pioneira da luta pelos direitos civis nos EUA e o bizarro avistamento de um objeto voador não identificado."
+    },
+    {
+      "show_name": "Mistérios no Museu",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_misterios-no-museu-s10e06-o-maior-golpe-do-mundo-urina-da-sorte-e-o-rato-branco_l_m.jpg",
+      "show_category": "Temporada 10 Episódio 6 - O Maior Golpe do Mundo, Urina da Sorte e o Rato Branco",
+      "start_time": "23:12",
       "end_time": "",
-      "episode_description": "As cadeias de fornecimento do Alasca são interrompidas, e Jane e Eva precisam maximizar o estoque de alimentos. O transporte do gado é ameaçado, Eivin se machuca em sua oficina e Atz Sr. precisa de uma cirurgia de emergência."
+      "episode_description": "Don Wildman analisa o golpe de um apostador que enganou cassinos em Las Vegas, a história de um alquimista que realizou um experimento excêntrico e uma jornada terrível pelo território nazista."
     }
   ]
 }

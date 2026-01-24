@@ -3,168 +3,144 @@
   "date": "25/01/2026",
   "schedule": [
     {
-      "show_name": "Vocação do Poder",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/vocação-do-poder.webp",
-      "show_category": "Documentary / 2005",
+      "show_name": "Coleções",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_colec-es_l_m.jpg",
+      "show_category": "Entertainment",
       "start_time": "00:00",
-      "end_time": "01:48",
-      "episode_description": "O documentário retrata a campanha eleitoral de seis candidatos a vereador e traz as ações de cada um, desde as convenções partidárias até a apuração dos votos, passando pelos programas de TV e as vidas social e familiar."
+      "end_time": "00:30",
+      "episode_description": "O programa apresenta os principais e mais marcantes elementos da cultura brasileira por meio de viagens pelo país. A série de linguagem documental para a televisão tem como foco os principais elementos da cultura regional brasileira."
     },
     {
-      "show_name": "Ulysses, Cidadão",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/ulysses-cidadão.webp",
-      "show_category": "Special",
-      "start_time": "01:48",
-      "end_time": "03:00",
-      "episode_description": "A vida e a obra do deputado Ulysses Guimarães a partir de noticiários, entrevistas e depoimentos."
-    },
-    {
-      "show_name": "TV Senado Live",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/tv-senado-live.webp",
-      "show_category": "Politics",
-      "start_time": "03:00",
-      "end_time": "03:30",
-      "episode_description": "Veja entrevistas com a participação do público sobre os grandes temas em pauta no país."
-    },
-    {
-      "show_name": "Parlamento Brasil",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/parlamento-brasil.webp",
-      "show_category": "Politics",
-      "start_time": "03:30",
-      "end_time": "04:00",
-      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
-    },
-    {
-      "show_name": "Assunto de Estado",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/assunto-de-estado.webp",
-      "show_category": "Politics",
-      "start_time": "04:00",
-      "end_time": "04:30",
-      "episode_description": "Espaço para que senadores comentem questões regionais e locais e preste contas aos eleitores."
-    },
-    {
-      "show_name": "Agenda Econômica",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/agenda-econômica.webp",
-      "show_category": "Bus./financial",
-      "start_time": "04:30",
-      "end_time": "05:00",
-      "episode_description": "Economistas, formuladores de políticas públicas, acadêmicos, intelectuais e parlamentares analisam questões da economia nacional e internacional."
-    },
-    {
-      "show_name": "Salão Nobre",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/salão-nobre.webp",
-      "show_category": "Politics",
-      "start_time": "05:00",
-      "end_time": "05:30",
-      "episode_description": "Assista a temas de relevância nacional com líderes partidários, presidentes das comissões e autores."
-    },
-    {
-      "show_name": "Em Discussão",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/em-discussão.webp",
-      "show_category": "Educational",
-      "start_time": "05:30",
-      "end_time": "06:00",
-      "episode_description": "As principais discussões realizadas nas audiências públicas promovidas pelo Senado."
-    },
-    {
-      "show_name": "Concertos em Geral",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/concertos-em-geral.webp",
+      "show_name": "Estúdio A",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_estudio-a_l_m.jpg",
       "show_category": "Music",
-      "start_time": "06:00",
+      "start_time": "00:30",
+      "end_time": "01:20",
+      "episode_description": "O duo Aiune e Gabriel Strauss apresenta a fusão entre o lirismo goiano e o modernismo brasiliense, eternizado no recém-lançado disco \"Verde\"."
+    },
+    {
+      "show_name": "Lavra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lavra-2021_l_m.jpg",
+      "show_category": "Drama / 2021",
+      "start_time": "01:20",
+      "end_time": "03:02",
+      "episode_description": "Camila retorna para sua terra natal depois que o rio de sua cidade foi contaminado pelo maior crime ambiental do Brasil, provocado pelo rompimento da barragem de uma mineradora. Ela segue o caminho da lama tóxica que varreu povoados do mapa, encontra paisagens, comunidades e pessoas devastadas. Outra barragem se rompe e mata cerca de 300 pessoas."
+    },
+    {
+      "show_name": "Carioca Era um Rio",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_carioca-era-um-rio-2013_l_m.jpg",
+      "show_category": "Documentary / 2013",
+      "start_time": "03:02",
+      "end_time": "04:16",
+      "episode_description": "Este documentário é sobre o rio que deu nome aos habitantes da cidade do Rio de Janeiro. O Rio Carioca orientou o crescimento dessa capital, mas hoje é um grande canal de esgoto submerso que deságua na Baía da Guanabara."
+    },
+    {
+      "show_name": "A Grande Nuvem Cinza",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "",
+      "start_time": "04:16",
+      "end_time": "05:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Senado, a História que Transformou o Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_senado-a-historia-que-transformou-o-brasil_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "05:30",
+      "end_time": "05:30",
+      "episode_description": "Os debates e avanços para estabelecer a educação como prioridade legal no país, garantindo que todas as crianças tenham acesso igualitário, sem distinção."
+    },
+    {
+      "show_name": "Senado, a História que Transformou o Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_senado-a-historia-que-transformou-o-brasil_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "05:30",
+      "end_time": "06:30",
+      "episode_description": "Os debates e avanços para estabelecer a educação como prioridade legal no país, garantindo que todas as crianças tenham acesso igualitário, sem distinção."
+    },
+    {
+      "show_name": "Coleções",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_colec-es_l_m.jpg",
+      "show_category": "Entertainment",
+      "start_time": "06:30",
       "end_time": "07:00",
-      "episode_description": "Interpretações de grandes obras da música clássica universal, com informações e curiosidades sobre os instrumentos, a vida e a obra dos compositores."
+      "episode_description": "O programa apresenta os principais e mais marcantes elementos da cultura brasileira por meio de viagens pelo país. A série de linguagem documental para a televisão tem como foco os principais elementos da cultura regional brasileira."
     },
     {
       "show_name": "Envelhecer",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/envelhecer.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_envelhecer_l_m.jpg",
       "show_category": "Health",
       "start_time": "07:00",
       "end_time": "08:00",
-      "episode_description": "Acompanhe reflexões sobre o envelhecimento no século XXI e como as pessoas podem ter o controle dele, evitando reduzir essa fase da vida a incertezas, tensões e exclusões, permitindo que ela seja um tempo de bem-estar e realizações."
+      "episode_description": "Guilherme Gargantini, criador do Grupo Divertidosos, aposentado, 79 anos, Santos, admite que o grande desafio da velhice é a solidão, porque ela traz muitas lembranças."
     },
     {
       "show_name": "Em Discussão",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/em-discussão.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_em-discuss-o-2_l_m.jpg",
       "show_category": "Educational",
       "start_time": "08:00",
       "end_time": "08:30",
       "episode_description": "As principais discussões realizadas nas audiências públicas promovidas pelo Senado."
     },
     {
-      "show_name": "Parlamento Brasil",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/parlamento-brasil.webp",
+      "show_name": "TV Senado Live",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tv-senado-live_l_m.jpg",
       "show_category": "Politics",
       "start_time": "08:30",
       "end_time": "09:00",
-      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
+      "episode_description": "Veja entrevistas com a participação do público sobre os grandes temas em pauta no país."
     },
     {
       "show_name": "EcoSenado",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/ecosenado.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ecosenado-1_l_m.jpg",
       "show_category": "Environment",
       "start_time": "09:00",
       "end_time": "09:30",
       "episode_description": "Assuntos relevantes e impactam o meio ambiente com participação de especialistas, políticos, biólogos e lideranças comunitárias."
     },
     {
-      "show_name": "Cidadania",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/cidadania.webp",
-      "show_category": "Interview",
+      "show_name": "Salão Nobre",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sal-o-nobre_l_m.jpg",
+      "show_category": "Politics",
       "start_time": "09:30",
       "end_time": "10:00",
-      "episode_description": "Entrevistas semanais sobre assuntos da atualidade, com a participação de parlamentares, especialistas e representantes de organizações sociais."
-    },
-    {
-      "show_name": "Salão Nobre",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/salão-nobre.webp",
-      "show_category": "Politics",
-      "start_time": "10:00",
-      "end_time": "10:30",
       "episode_description": "Assista a temas de relevância nacional com líderes partidários, presidentes das comissões e autores."
     },
     {
-      "show_name": "Agenda Econômica",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/agenda-econômica.webp",
-      "show_category": "Bus./financial",
-      "start_time": "10:30",
+      "show_name": "Concertos em Geral",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_concertos-em-geral_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "10:00",
       "end_time": "11:00",
-      "episode_description": "Economistas, formuladores de políticas públicas, acadêmicos, intelectuais e parlamentares analisam questões da economia nacional e internacional."
+      "episode_description": "A música de Astor Piazzolla em foco. No repertório as Quatro Estações Portenhas e Oblivion. A regência é de Luís Gorelik e os solos de Luciana Arraes."
     },
     {
-      "show_name": "Assunto de Estado",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/assunto-de-estado.webp",
-      "show_category": "Politics",
+      "show_name": "Estúdio A",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_estudio-a_l_m.jpg",
+      "show_category": "Music",
       "start_time": "11:00",
-      "end_time": "11:30",
-      "episode_description": "Espaço para que senadores comentem questões regionais e locais e preste contas aos eleitores."
-    },
-    {
-      "show_name": "Cidadania",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/cidadania.webp",
-      "show_category": "Interview",
-      "start_time": "11:30",
       "end_time": "12:00",
-      "episode_description": "Entrevistas semanais sobre assuntos da atualidade, com a participação de parlamentares, especialistas e representantes de organizações sociais."
-    },
-    {
-      "show_name": "TV Senado Live",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/tv-senado-live.webp",
-      "show_category": "Politics",
-      "start_time": "12:00",
-      "end_time": "12:30",
-      "episode_description": "Veja entrevistas com a participação do público sobre os grandes temas em pauta no país."
+      "episode_description": "O duo Aiune e Gabriel Strauss apresenta a fusão entre o lirismo goiano e o modernismo brasiliense, eternizado no recém-lançado disco \"Verde\"."
     },
     {
       "show_name": "Parlamento Brasil",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/parlamento-brasil.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "12:30",
-      "end_time": "13:00",
+      "start_time": "12:00",
+      "end_time": "12:30",
       "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
     },
     {
+      "show_name": "Agenda Econômica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_agenda-economica-1_l_m.jpg",
+      "show_category": "Bus./financial",
+      "start_time": "12:30",
+      "end_time": "13:00",
+      "episode_description": "Economistas, formuladores de políticas públicas, acadêmicos, intelectuais e parlamentares analisam questões da economia nacional e internacional."
+    },
+    {
       "show_name": "EcoSenado",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/ecosenado.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ecosenado-1_l_m.jpg",
       "show_category": "Environment",
       "start_time": "13:00",
       "end_time": "13:30",
@@ -172,7 +148,7 @@
     },
     {
       "show_name": "Cidadania",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/cidadania.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidadania_l_m.jpg",
       "show_category": "Interview",
       "start_time": "13:30",
       "end_time": "14:00",
@@ -180,7 +156,7 @@
     },
     {
       "show_name": "100 Anos de Cultura e Conflitos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/100-anos-de-cultura-e-conflitos.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_100-anos-de-cultura-e-conflitos_l_m.jpg",
       "show_category": "Documentary",
       "start_time": "14:00",
       "end_time": "14:30",
@@ -188,7 +164,7 @@
     },
     {
       "show_name": "Leituras",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/leituras.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_leituras_l_m.jpg",
       "show_category": "Art",
       "start_time": "14:30",
       "end_time": "15:00",
@@ -196,23 +172,23 @@
     },
     {
       "show_name": "Estúdio A",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/estúdio-a.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_estudio-a_l_m.jpg",
       "show_category": "Music",
       "start_time": "15:00",
       "end_time": "16:00",
-      "episode_description": "Programa apresenta música popular brasileira mesclando entrevista e músicas gravadas em estúdio."
+      "episode_description": "O duo Aiune e Gabriel Strauss apresenta a fusão entre o lirismo goiano e o modernismo brasiliense, eternizado no recém-lançado disco \"Verde\"."
     },
     {
       "show_name": "Espaço Cultural",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/espaço-cultural.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_espaco-cultural-1_l_m.jpg",
       "show_category": "Music",
       "start_time": "16:00",
       "end_time": "17:00",
-      "episode_description": "O programa apresenta diversos eventos culturais como teatro, música e outras formas de expressão do povo brasileiro."
+      "episode_description": "O palco do CCBB Brasília recebe espetáculo de encerramento da turnê Obatalá: uma conexão Salvador-África-Brasil, do Grupo Ofá, com participação especial da cantora Irma Ferreira."
     },
     {
       "show_name": "EcoSenado",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/ecosenado.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ecosenado-1_l_m.jpg",
       "show_category": "Environment",
       "start_time": "17:00",
       "end_time": "17:30",
@@ -220,7 +196,7 @@
     },
     {
       "show_name": "Coleções",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/coleções.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_colec-es_l_m.jpg",
       "show_category": "Entertainment",
       "start_time": "17:30",
       "end_time": "18:00",
@@ -228,15 +204,15 @@
     },
     {
       "show_name": "Concertos em Geral",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/concertos-em-geral.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_concertos-em-geral_l_m.jpg",
       "show_category": "Music",
       "start_time": "18:00",
       "end_time": "19:00",
-      "episode_description": "Interpretações de grandes obras da música clássica universal, com informações e curiosidades sobre os instrumentos, a vida e a obra dos compositores."
+      "episode_description": "A música de Astor Piazzolla em foco. No repertório as Quatro Estações Portenhas e Oblivion. A regência é de Luís Gorelik e os solos de Luciana Arraes."
     },
     {
       "show_name": "Leituras",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/leituras.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_leituras_l_m.jpg",
       "show_category": "Art",
       "start_time": "19:00",
       "end_time": "19:30",
@@ -244,7 +220,7 @@
     },
     {
       "show_name": "Coleções",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/coleções.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_colec-es_l_m.jpg",
       "show_category": "Entertainment",
       "start_time": "19:30",
       "end_time": "20:00",
@@ -252,27 +228,35 @@
     },
     {
       "show_name": "Estúdio A",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/estúdio-a.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_estudio-a_l_m.jpg",
       "show_category": "Music",
       "start_time": "20:00",
       "end_time": "21:00",
-      "episode_description": "Programa apresenta música popular brasileira mesclando entrevista e músicas gravadas em estúdio."
+      "episode_description": "O duo Aiune e Gabriel Strauss apresenta a fusão entre o lirismo goiano e o modernismo brasiliense, eternizado no recém-lançado disco \"Verde\"."
     },
     {
-      "show_name": "Lavra",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/lavra.webp",
-      "show_category": "Drama / 2021",
+      "show_name": "A Grande Nuvem Cinza",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg",
+      "show_category": "",
       "start_time": "21:00",
-      "end_time": "22:43",
-      "episode_description": "Camila retorna para sua terra natal depois que o rio de sua cidade foi contaminado pelo maior crime ambiental do Brasil, provocado pelo rompimento da barragem de uma mineradora. Ela segue o caminho da lama tóxica que varreu povoados do mapa, encontra paisagens, comunidades e pessoas devastadas. Outra barragem se rompe e mata cerca de 300 pessoas."
+      "end_time": "22:12",
+      "episode_description": ""
     },
     {
-      "show_name": "Carioca Era um Rio",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/carioca-era-um-rio.webp",
-      "show_category": "Documentary / 2013",
-      "start_time": "22:43",
+      "show_name": "Senado, a História que Transformou o Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_senado-a-historia-que-transformou-o-brasil_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "22:12",
+      "end_time": "23:05",
+      "episode_description": "Os debates e avanços para estabelecer a educação como prioridade legal no país, garantindo que todas as crianças tenham acesso igualitário, sem distinção."
+    },
+    {
+      "show_name": "Habitar/Habitat",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_habitar-habitat_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "23:05",
       "end_time": "",
-      "episode_description": "Este documentário é sobre o rio que deu nome aos habitantes da cidade do Rio de Janeiro. O Rio Carioca orientou o crescimento dessa capital, mas hoje é um grande canal de esgoto submerso que deságua na Baía da Guanabara."
+      "episode_description": "Conheça as diversas formas de habitação da população brasileira. A abordagem liga aspectos arquitetônicos com formas de organização familiar, saberes locais, valores estéticos e motivos práticos de suas construções."
     }
   ]
 }
