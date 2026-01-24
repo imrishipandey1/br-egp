@@ -16,9 +16,9 @@ TIMEZONE = pytz.timezone('America/Sao_Paulo')
 # NOTE: The ID '330' might be specific to Food Network. 
 # If other channels fail, you might need to include IDs in channel.txt (e.g., "food-network/330")
 URL_TEMPLATES = {
-    "yesterday": "https://mi.tv/br/async/channel/{slug}/ontem/330",
-    "today":     "https://mi.tv/br/async/channel/{slug}/330",
-    "tomorrow":  "https://mi.tv/br/async/channel/{slug}/amanha/330"
+    "yesterday": "https://mi.tv/br/async/channel/{slug}/ontem/-180",
+    "today":     "https://mi.tv/br/async/channel/{slug}/-180",
+    "tomorrow":  "https://mi.tv/br/async/channel/{slug}/amanha/-180"
 }
 
 # HTTP Headers to mimic a browser (avoids some bot blocking)
