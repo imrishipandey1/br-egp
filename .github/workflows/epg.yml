@@ -2,8 +2,8 @@ name: EPG Scraper (Brazil)
 
 on:
   schedule:
-    # Runs at 12:30 AM Sao Paulo time (03:30 UTC)
-    - cron: '30 3 * * *'
+    # Runs at 06:00 AM Sao Paulo time (09:00 UTC)
+    - cron: '0 9 * * *'
   workflow_dispatch:
 
 jobs:
