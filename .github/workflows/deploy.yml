@@ -5,8 +5,8 @@ on:
     branches:
       - main
   workflow_dispatch:
-    schedule:
-    # Runs daily at 06:15 AM Sao Paulo time (09:15 UTC)
+  # Schedule at 06:15 AM Sao Paulo time (which is 09:15 UTC)
+  schedule:
     - cron: '15 9 * * *'
 
 jobs:
@@ -18,7 +18,7 @@ jobs:
 
       - name: Rename and Compress Directories
         run: |
-          # 1. Logic for downloaded-images (Simple compression)
+          # 1. Logic for downloaded-images
           if [ -d "downloaded-images" ]; then
             tar -czf downloaded-images.tar.gz downloaded-images
           else
@@ -45,7 +45,6 @@ jobs:
             fi
 
             # Compress the whole 'schedule' folder
-            # This ensures that when extracted in 'uploads', it goes into 'uploads/schedule'
             tar -czf schedule.tar.gz schedule
           else
              echo "Warning: schedule folder not found"
@@ -58,7 +57,6 @@ jobs:
           username: ${{ secrets.USERNAME }}
           password: ${{ secrets.PASSWORD }}
           port: 22
-          # Upload archives to the uploads root
           source: "schedule.tar.gz,downloaded-images.tar.gz"
           target: "/home/programacaotvhoje/htdocs/programacaotvhoje.com/wp-content/uploads/"
 
@@ -70,25 +68,23 @@ jobs:
           password: ${{ secrets.PASSWORD }}
           port: 22
           script: |
-            # Define paths
             UPLOADS_DIR="/home/programacaotvhoje/htdocs/programacaotvhoje.com/wp-content/uploads"
             WP_ROOT="/home/programacaotvhoje/htdocs/programacaotvhoje.com"
 
             cd $UPLOADS_DIR
 
             # 1. Unarchive schedule
-            # Because we compressed the 'schedule' folder itself, this will extract into ./schedule/even and ./schedule/odd
             if [ -f "schedule.tar.gz" ]; then
               tar -xzf schedule.tar.gz
               rm schedule.tar.gz
-              echo "Schedule extracted and archive cleaned up."
+              echo "Schedule extracted and cleaned up."
             fi
 
             # 2. Unarchive images
             if [ -f "downloaded-images.tar.gz" ]; then
               tar -xzf downloaded-images.tar.gz
               rm downloaded-images.tar.gz
-              echo "Images extracted and archive cleaned up."
+              echo "Images extracted and cleaned up."
             fi
 
             # 3. Run WP Import Command
