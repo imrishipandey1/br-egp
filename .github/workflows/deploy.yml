@@ -5,6 +5,9 @@ on:
     branches:
       - main
   workflow_dispatch:
+    schedule:
+    # Runs daily at 06:15 AM Sao Paulo time (09:15 UTC)
+    - cron: '15 9 * * *'
 
 jobs:
   deploy:
