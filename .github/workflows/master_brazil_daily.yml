@@ -1,0 +1,136 @@
+name: Master Daily Workflow (Brazil)
+
+on:
+  schedule:
+    # 05:20 AM Sao Paulo Time (UTC-3) = 08:20 AM UTC
+    - cron: '20 8 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  master-process:
+    runs-on: ubuntu-latest
+
+    steps:
+      # --- SETUP ---
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install all dependencies
+        run: |
+          pip install requests beautifulsoup4 pytz pillow
+
+      # --- STEP 1: SCRAPER ---
+      - name: Run EPG scraper
+        run: |
+          python epg_scraper.py
+
+      - name: Commit and push updated schedules
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add schedule/ epg.log
+          git commit -m "Auto update Brazil EPG schedules" || exit 0
+          git push
+
+      # --- STEP 2: DOWNLOAD IMAGES ---
+      - name: Run image downloader
+        run: |
+          python download_show_images.py
+
+      - name: Commit image changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add downloaded-images schedule
+          git commit -m "Download images, deduplicate URLs, convert to WebP" || exit 0
+          git push
+
+      # --- STEP 3: DEPLOY ---
+      - name: Rename and Compress Directories
+        run: |
+          # 1. Logic for downloaded-images
+          if [ -d "downloaded-images" ]; then
+            tar -czf downloaded-images.tar.gz downloaded-images
+          else
+            echo "Warning: downloaded-images folder not found"
+          fi
+
+          # 2. Logic for Schedule (Renaming based on Sao Paulo Date)
+          if [ -d "schedule" ]; then
+            
+            # Set Timezone to Sao Paulo and get day of month
+            export TZ='America/Sao_Paulo'
+            DAY=$(date +%-d)
+            echo "Current Sao Paulo Day: $DAY"
+
+            # Check if Day is Even or Odd
+            if [ $((DAY % 2)) -eq 0 ]; then
+              echo "Date is EVEN. Renaming today->even, tomorrow->odd"
+              mv schedule/today schedule/even
+              mv schedule/tomorrow schedule/odd
+            else
+              echo "Date is ODD. Renaming today->odd, tomorrow->even"
+              mv schedule/today schedule/odd
+              mv schedule/tomorrow schedule/even
+            fi
+
+            # Compress the whole 'schedule' folder
+            tar -czf schedule.tar.gz schedule
+          else
+             echo "Warning: schedule folder not found"
+          fi
+
+      - name: Copy Files via SCP
+        uses: appleboy/scp-action@master
+        with:
+          host: ${{ secrets.HOST }}
+          username: ${{ secrets.USERNAME }}
+          password: ${{ secrets.PASSWORD }}
+          port: 22
+          source: "schedule.tar.gz,downloaded-images.tar.gz"
+          target: "/home/programacaotvhoje/htdocs/programacaotvhoje.com/wp-content/uploads/"
+
+      - name: Extract, Import and Cleanup
+        uses: appleboy/ssh-action@master
+        with:
+          host: ${{ secrets.HOST }}
+          username: ${{ secrets.USERNAME }}
+          password: ${{ secrets.PASSWORD }}
+          port: 22
+          script: |
+            UPLOADS_DIR="/home/programacaotvhoje/htdocs/programacaotvhoje.com/wp-content/uploads"
+            WP_ROOT="/home/programacaotvhoje/htdocs/programacaotvhoje.com"
+
+            cd $UPLOADS_DIR
+
+            # 1. Unarchive schedule
+            if [ -f "schedule.tar.gz" ]; then
+              tar -xzf schedule.tar.gz
+              rm schedule.tar.gz
+              echo "Schedule extracted and cleaned up."
+            fi
+
+            # 2. Unarchive images
+            if [ -f "downloaded-images.tar.gz" ]; then
+              tar -xzf downloaded-images.tar.gz
+              rm downloaded-images.tar.gz
+              echo "Images extracted and cleaned up."
+            fi
+
+            # 3. Run WP Import Command
+            cd $WP_ROOT
+            
+            if command -v wp &> /dev/null; then
+                wp tv-schedule import --allow-root
+                echo "WP Import command finished."
+            else
+                echo "Error: WP-CLI (wp) command not found."
+            fi
