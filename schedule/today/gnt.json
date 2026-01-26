@@ -1,262 +1,286 @@
 {
   "channel": "GNT",
-  "date": "25/01/2026",
+  "date": "26/01/2026",
   "schedule": [
     {
+      "show_name": "Bem Juntinhos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bem-juntinhos-s02e16-comida-boa_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 16 - Tô Sem Tempo",
+      "start_time": "01:21",
+      "end_time": "02:14",
+      "episode_description": "Fernanda e Rodrigo recebem a jornalista especializada em economia Flávia Oliveira, o professor Eduardo Moreira e o psicanalista Henrique Vicentini para falar de tempo, mas não qualquer tempo: o tempo livre."
+    },
+    {
       "show_name": "Admiráveis Conselheiras",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gnt/today/br_admiraveis-conselheiras-s02e01_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_admiraveis-conselheiras-s02e01_l_m.jpg",
       "show_category": "Temporada 2 Episódio 1 - Cissa Guimarães",
-      "start_time": "00:41",
-      "end_time": "01:32",
+      "start_time": "02:14",
+      "end_time": "03:04",
       "episode_description": "Intensa, visceral, poética. Astrid encontra Cissa Guimarães, uma mulher que, com vitórias e tragédias, se joga na vida de um jeito vibrante e espontâneo."
     },
     {
-      "show_name": "Carnaval da Sabrina",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gnt/today/br_carnaval-da-sabrina-s05e01_l_m.webp",
-      "show_category": "Temporada 5 Episódio 1 - Entre Ensaios e Incertezas",
-      "start_time": "01:32",
-      "end_time": "02:02",
-      "episode_description": "A intimidade e os desafios de Sabrina Sato durante o Carnaval, com bastidores da rotina da rainha da bateria de duas grandes escolas de samba de Rio de Janeiro e São Paulo. Ensaios, provas de roupa, estresse, correria e muita emoção."
-    },
-    {
-      "show_name": "Que História É Essa, Porchat?",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gnt/today/br_que-historia-e-essa-porchat-s07e11_l_m.webp",
-      "show_category": "Temporada 7 Episódio 11 - Jade Picon, Lucinha Lins e Pedro Scooby",
-      "start_time": "02:02",
-      "end_time": "03:16",
-      "episode_description": "Porchat recebe Jade Picon, Lucinha Lins e Pedro Scooby em seu programa; Na plateia, Daniela compartilha sobre sua fama no prédio; O programa também traz uma curiosa história da Paraíba que tem potencial para virar música."
-    },
-    {
       "show_name": "Geladeiras em Ação",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gnt/today/br_geladeiras-em-ac-o-s01e01-pratica_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_geladeiras-em-ac-o-s01e01-pratica_l_m.jpg",
       "show_category": "Temporada 1 Episódio 1 - Prática",
-      "start_time": "03:16",
-      "end_time": "03:54",
+      "start_time": "03:04",
+      "end_time": "03:50",
       "episode_description": "Três cozinheiros amadores terão que competir para fazer café da manhã, almoço e jantar com os ingredientes de uma geladeira prática montada pelo chef Claude Troisgros."
     },
     {
-      "show_name": "Pedro pelo Mundo",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gnt/today/br_pedro-pelo-mundo-s04e04-croacia_l_m.webp",
-      "show_category": "Temporada 4 Episódio 4 - Croácia",
-      "start_time": "03:54",
-      "end_time": "04:54",
-      "episode_description": "Pedro visita um dos destinos de verão mais populares da Europa: a costa recortada da Croácia, no Mar Adriático, com suas águas de tons lindos de azul e verde, além de suas cidades medievais de pedra."
-    },
-    {
-      "show_name": "Que História É Essa, Porchat?",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gnt/today/br_que-historia-e-essa-porchat-s07e16-drica-moraes-cassio-scapin-e-thardelly-lima_l_m.webp",
-      "show_category": "Temporada 7 Episódio 16 - Drica Moraes, Cassio Scapin e Thardelly Lima",
-      "start_time": "04:54",
-      "end_time": "05:04",
-      "episode_description": "Porchat recebe Drica Moraes, Cássio Scapin e Thardelly Lima. Na plateia, a saga da carteira de motorista e como levar uma linguiça para viajar."
+      "show_name": "Cozinha Prática com Rita Lobo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cozinha-pratica-com-rita-lobo-s10e25-picadinho-de-lombo-com-abacaxi-e-couve-servido-com-arroz-japones_l_m.jpg",
+      "show_category": "Temporada 10 Episódio 25 - Picadinho de Lombo com Abacaxi e Couve Servido com Arroz Japonês",
+      "start_time": "03:50",
+      "end_time": "04:15",
+      "episode_description": "Rita Lobo mostra que é possível preparar um jantar especial, mesmo quando aquela visita que já é de casa chega sem avisar. É possível preparar o jantar com ela, em tempo real."
     },
     {
       "show_name": "Mais Cor, por Favor",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gnt/today/br_mais-cor-por-favor-s03e24-jubiracy-e-penha-varanda-para-festas_l_m.webp",
-      "show_category": "Temporada 3 Episódio 24 - Varanda para Festas",
-      "start_time": "05:04",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mais-cor-por-favor-s03e18-flavia-e-renato-sala-adulta-e-infantil_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 18 - Sala Adulta e Infantil",
+      "start_time": "04:15",
+      "end_time": "05:08",
+      "episode_description": "Flávia e Renato pedem ideias para a sala que precisa ser um espaço para receberem os amigos e para a filha Luísa brincar. A sala é estreada com uma festa infantil."
+    },
+    {
+      "show_name": "Mais Cor, por Favor",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mais-cor-por-favor-s03e20-carol-e-nicolas-sala-de-familia-antigo-albergue_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 20 - Antigo Albergue",
+      "start_time": "05:08",
       "end_time": "06:00",
-      "episode_description": "Jubiracy e Penha amam reunir a família na varanda, mas o espaço está sem cor. Thalita leva muita alegria ao local e o inaugura com uma festa de aniversário."
+      "episode_description": "Carol e Nicolas moram hoje na casa onde antes administravam um albergue. A sala precisa ser renovada e Thalita chega para ajudar. Na inauguração, há degustação de cerveja artesanal."
     },
     {
-      "show_name": "Decora",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gnt/today/br_decora-s10e12-o-pedido-dos-sonhos_l_m.webp",
-      "show_category": "Temporada 10 Episódio 12 - Mamãe, Eu Cresci",
+      "show_name": "Desapegue se For Capaz",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_desapegue-se-for-capaz-s01e10-familia-takano_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 10 - Família Takano",
       "start_time": "06:00",
-      "end_time": "06:53",
-      "episode_description": "Há quase 20 anos que o quarto da Marília está parado no tempo, com referências infantis por todo lado, como se ela ainda fosse criança. Suas amigas chamam a equipe do Mauricio Arruda pra emancipar de vez esse lugar."
+      "end_time": "06:43",
+      "episode_description": "O casal Takano vive em casas separadas para preservar o relacionamento. Olívia não suporta a bagunça da casa que Rafael herdou e que continua cheia de objetos da mãe dele."
     },
     {
-      "show_name": "Decora",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gnt/today/br_decora-s10e14_l_m.webp",
-      "show_category": "Temporada 10 Episódio 14 - A Cozinha das Cinco Mulheres",
-      "start_time": "06:53",
-      "end_time": "07:47",
-      "episode_description": "Shirlei não sai da cozinha. De segunda a sexta, ela prepara as refeições para as quatro filhas e no fim de semana ainda faz feijoada pros amigos. Sua cozinha com móveis velhos, gambiarras e manchas precisa de uma reforma urgente."
-    },
-    {
-      "show_name": "Que História É Essa, Porchat?",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gnt/today/br_que-historia-e-essa-porchat-s07e31-especial-crianca-esperanca-com-ana-maria-braga-ronnie-von-e-giovana-cordeiro_l_m.webp",
-      "show_category": "Temporada 7 Episódio 31 - Especial Criança Esperança com Ana Maria Braga, Ronnie Von e Giovana Cordeiro",
-      "start_time": "07:47",
-      "end_time": "07:58",
-      "episode_description": "Porchat recebe Ana Maria Braga, Ronnie Von e Giovana Cordeiro para celebrar os 40 anos do Criança Esperança. Na plateia, um ex-defunto e um perrengue."
-    },
-    {
-      "show_name": "Olho Mágico - Reforma de Vizinhos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gnt/today/br_olho-magico-reforma-de-vizinhos-s01e05-unidos-pelo-rock_l_m.webp",
-      "show_category": "Temporada 1 Episódio 5 - Unidos pelo Rock",
-      "start_time": "07:58",
-      "end_time": "08:56",
-      "episode_description": "Jodi é músico amador e já era fã da banda em que Pablo é guitarrista, antes mesmo de saber que eles eram vizinhos. Eles tornaram-se amigos e agora vão mudar o segundo quarto de seus apartamentos."
-    },
-    {
-      "show_name": "Olho Mágico - Reforma de Vizinhos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gnt/today/br_olho-magico-reforma-de-vizinhos-s01e07-amigas-por-um-vazamento_l_m.webp",
-      "show_category": "Temporada 1 Episódio 7 - Amigas por um Vazamento",
-      "start_time": "08:56",
-      "end_time": "09:53",
-      "episode_description": "Duas vizinhas de estilos completamente diferentes acabaram se conhecendo a partir de um vazamento entre os dois apartamentos e, posteriormente, se tornaram amigas. A advogada Paula busca uma sala mais elegante e a tradutora Aline se interessa por cultura pop e videogames."
+      "show_name": "Desapegue se For Capaz",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_desapegue-se-for-capaz-s02e06-familia-cataldo-fernandes_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 6 - Família Cataldo Fernandes",
+      "start_time": "06:43",
+      "end_time": "07:27",
+      "episode_description": "A família Cataldo se uniu à família Fernandes em uma casa gigantesca, cheia de acúmulos, e não encontrava espaço para abrigar o trabalho e os filhos de forma adequada."
     },
     {
       "show_name": "Pode Entrar",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gnt/today/br_pode-entrar-s02e10-casa-do-ary-fontoura_l_m.webp",
-      "show_category": "Temporada 2 Episódio 10 - Casa do Ary Fontoura",
-      "start_time": "09:53",
-      "end_time": "10:05",
-      "episode_description": "Ary Fontoura abre as portas da sua casa, no Rio de Janeiro, para mostrar sua varanda, sala com sua coleção de DVDs e CDs e biblioteca e escritório, onde guarda seus livros, troféus e decora textos."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pode-entrar-s04e04-casa-do-milton-cunha_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 4 - Casa do Milton Cunha",
+      "start_time": "07:27",
+      "end_time": "07:42",
+      "episode_description": "O cenógrafo e carnavalesco Milton Cunha abre as portas de sua casa coloridíssimo, no Rio de Janeiro, para mostrar a sala com esculturas do mundo todo, cozinha, escritório e a varanda com teto de sapê."
     },
     {
-      "show_name": "Infiltrado na Cozinha",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gnt/today/br_infiltrado-na-cozinha-s01e02-o-misterio-dos-ovos_l_m.webp",
-      "show_category": "Temporada 1 Episódio 2 - O Mistério dos Ovos",
-      "start_time": "10:05",
-      "end_time": "10:47",
-      "episode_description": "Os participantes tentam provar que não são o ovo podre do cesto, mas um deles é uma farsa, apenas fingindo ser um cozinheiro profissional para conquistar o prêmio."
+      "show_name": "Casa Brasileira",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_casa-brasileira-s04e01-jorge-jauregui-e-caio-blat_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 1 - Jorge Jáuregui e Caio Blat",
+      "start_time": "07:42",
+      "end_time": "08:09",
+      "episode_description": "Jorge Jáuregui, argentino radicado no Brasil, mostra seus projetos para as comunidades da Rocinha e do Complexo do Alemão. Caio Blat fala do sonho que levou mais de 10 anos para ficar pronto: uma casa criada por Jorge Jáuregui."
+    },
+    {
+      "show_name": "Chegadas e Partidas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_chegadas-e-partidas-s12e10_l_m.jpg",
+      "show_category": "Temporada 12 Episódio 10 - Cheiro de Filho É para Sempre!",
+      "start_time": "08:09",
+      "end_time": "08:38",
+      "episode_description": "Com um casaquinho na mão, José Aparecido espera a filha, a neta e o genro sírio, que chegam ao Brasil. No desembarque, Amanda é recebida pela irmã fantasiada de borboleta."
+    },
+    {
+      "show_name": "Pedro pelo Mundo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pedro-pelo-mundo-s04e02-reino-unido-londres_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 2 - Londres",
+      "start_time": "08:38",
+      "end_time": "09:38",
+      "episode_description": "Pedro confere em Londres o clima para o Brexit, a saída do Reino Unido da União Europeia. Ele visita os quatro cantos da cidade, que está em uma fase de muita prosperidade e inovação."
     },
     {
       "show_name": "Que História É Essa, Porchat?",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gnt/today/br_que-historia-e-essa-porchat-s07e05_l_m.webp",
-      "show_category": "Temporada 7 Episódio 5 - Bela Gil, Leonardo Brício e Bia Guedes",
-      "start_time": "10:47",
-      "end_time": "11:51",
-      "episode_description": "Os convidados contam suas histórias e, na plateia, Carla e um objeto inusitado dentro de um corpo humano, e Paulo e um encontro aprisionado."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_que-historia-e-essa-porchat-s07e27-olivia-torres-flavio-tolezani-juliana-martins_l_m.jpg",
+      "show_category": "Temporada 7 Episódio 27 - Natuza Nery, Guta Stresser e Daniel Boaventura",
+      "start_time": "09:38",
+      "end_time": "09:47",
+      "episode_description": "Porchat reúne Daniel Boaventura, Guta Stresser e Natuza Nery. Na plateia, uma crise de sonambulismo vergonhosa e confusão na prova de autoescola."
     },
     {
-      "show_name": "Carnaval da Sabrina",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gnt/today/br_carnaval-da-sabrina-s05e01_l_m.webp",
-      "show_category": "Temporada 5 Episódio 1 - Entre Ensaios e Incertezas",
-      "start_time": "11:51",
-      "end_time": "12:22",
-      "episode_description": "A intimidade e os desafios de Sabrina Sato durante o Carnaval, com bastidores da rotina da rainha da bateria de duas grandes escolas de samba de Rio de Janeiro e São Paulo. Ensaios, provas de roupa, estresse, correria e muita emoção."
+      "show_name": "Bem Juntinhos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bem-juntinhos-s02e15-to-sem-tempo_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 15 - Futebol",
+      "start_time": "09:47",
+      "end_time": "10:40",
+      "episode_description": "Fernanda e Rodrigo recebem o humorista botafoguense Marcelo Adnet e os jornalistas Aydano André Motta e Rafaelle Seraphim, para um papo divertido sobre futebol."
     },
     {
       "show_name": "Geladeiras em Ação",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gnt/today/br_geladeiras-em-ac-o-s01e01-pratica_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_geladeiras-em-ac-o-s01e01-pratica_l_m.jpg",
       "show_category": "Temporada 1 Episódio 1 - Prática",
-      "start_time": "12:22",
-      "end_time": "13:07",
+      "start_time": "10:40",
+      "end_time": "11:24",
       "episode_description": "Três cozinheiros amadores terão que competir para fazer café da manhã, almoço e jantar com os ingredientes de uma geladeira prática montada pelo chef Claude Troisgros."
     },
     {
-      "show_name": "Angélica ao Vivo",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gnt/today/br_angelica-ao-vivo-s01e06_l_m.webp",
-      "show_category": "Temporada 1 Episódio 6 - Paolla Olveira, Rômulo Estrela, Tia Má e Convidado Surpresa",
-      "start_time": "13:07",
-      "end_time": "14:31",
-      "episode_description": "Convidados refletem sobre os avanços da liberdade feminina, como acreditar mais em si e revelam se fazem sexo tântrico."
+      "show_name": "Que Marravilha! Chato pra Comer",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_que-marravilha-chato-pra-comer-s26e03-eu-como-com-os-olhos_l_m.jpg",
+      "show_category": "Temporada 26 Episódio 3 - Eu Como com os Olhos?",
+      "start_time": "11:24",
+      "end_time": "12:07",
+      "episode_description": "Yan Jordan, o chato para comer da vez, foi criado pelo pai, Jair. Para mudar seu paladar, Claude e Batista preparam um risoto de camarão com funghi e berinjela."
     },
     {
-      "show_name": "Que História É Essa, Porchat?",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gnt/today/br_que-historia-e-essa-porchat-s04e30-clayton-conservani-duda-brack-e-leopoldo-pacheco_l_m.webp",
-      "show_category": "Temporada 4 Episódio 30 - Clayton Conservani, Duda Brack e Leopoldo Pacheco",
-      "start_time": "14:31",
-      "end_time": "15:31",
-      "episode_description": "Fábio Porchat recebe o jornalista Clayton Conservani, a cantora Duda Brack e o ator Leopoldo Pacheco; integrantes da plateia contam histórias envolvendo uma viagem atrás da aurora boreal e um acidente com um cachorro."
+      "show_name": "Que Marravilha! Chato pra Comer",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_que-marravilha-chato-pra-comer-s13e03-torta-moqueca-de-bacalhau_l_m.jpg",
+      "show_category": "Temporada 13 Episódio 3 - Torta Moqueca de Bacalhau",
+      "start_time": "12:07",
+      "end_time": "12:53",
+      "episode_description": "A família de Gustavo tem um grande problema na Semana Santa: o chato não come peixe e nenhum tipo de frutos do mar. Ele pede licença, quebra a tradição e pede para mãe preparar um bife. A mãe assume que mima o filho, mas está disposta a mudar."
     },
     {
-      "show_name": "Que História É Essa, Porchat?",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gnt/today/br_que-historia-e-essa-porchat-s07e11_l_m.webp",
-      "show_category": "Temporada 7 Episódio 11 - Jade Picon, Lucinha Lins e Pedro Scooby",
-      "start_time": "15:31",
-      "end_time": "16:37",
-      "episode_description": "Porchat recebe Jade Picon, Lucinha Lins e Pedro Scooby em seu programa; Na plateia, Daniela compartilha sobre sua fama no prédio; O programa também traz uma curiosa história da Paraíba que tem potencial para virar música."
-    },
-    {
-      "show_name": "Avisa Lá que Eu Vou",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gnt/today/br_avisa-la-que-eu-vou-s04e02_l_m.webp",
-      "show_category": "Temporada 4 Episódio 2 - Cametá",
-      "start_time": "16:37",
-      "end_time": "17:29",
-      "episode_description": "Paulo conhece o dono de um bar que larga o bar aberto para ir beber em outros bares, uma drag queen restauradora de arte sacra, e ainda vai morar com uma família ribeirinha."
+      "show_name": "Cozinha Prática com Rita Lobo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cozinha-pratica-com-rita-lobo-s14e22-brocolis_l_m.jpg",
+      "show_category": "Temporada 14 Episódio 22 - Brócolis",
+      "start_time": "12:53",
+      "end_time": "13:17",
+      "episode_description": "Rita Lobo mostra como transformar brócolis na atração da mesa: assado e servido com missô, grelhado com bisteca de porco ou ainda gratinado com crocante de castanha."
     },
     {
       "show_name": "Tempero de Família",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gnt/today/br_tempero-de-familia-s12e11-oliveiras_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tempero-de-familia-s12e11-oliveiras_l_m.jpg",
       "show_category": "Temporada 12 Episódio 11 - Oliveiras",
-      "start_time": "17:29",
-      "end_time": "18:01",
+      "start_time": "13:17",
+      "end_time": "13:49",
       "episode_description": "Rodrigo vai a Campo Alegre conversar com Carlos e Oswaldo sobre a produção de azeite. Ele faz tapenade de azeitonas verdes, mil folhas de batata e truta a la bacalhau, além de mousse de chocolate com azeite."
     },
     {
       "show_name": "Tempero de Família - Verão",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gnt/today/br_tempero-de-familia-ver-o-s11e01_l_m.webp",
-      "show_category": "Temporada 11 Episódio 1 - Postas, Cubos e Filés",
-      "start_time": "18:01",
-      "end_time": "18:31",
-      "episode_description": "Rodrigo apresenta a cozinha montada na areia da praia. Ele compra e limpa peixes para preparar espetinho de alecrim com peixe e bacon, peixe caramelizado com cúrcuma e filé de peixe com avocado."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tempero-de-familia-ver-o-s11e03-petiscos_l_m.jpg",
+      "show_category": "Temporada 11 Episódio 3 - Petiscos",
+      "start_time": "13:49",
+      "end_time": "14:19",
+      "episode_description": "Rodrigo compra peixes e camarões para preparar petiscos. Ele faz trouxinha de camarão picante, bolinho de peixe com ervas e mostarda e um taco de peixe."
     },
     {
-      "show_name": "Cozinha Prática com Rita Lobo",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gnt/today/br_cozinha-pratica-com-rita-lobo-s17e04-arroz-de-cogumelo-com-tomate-em-uma-panela_l_m.webp",
-      "show_category": "Temporada 17 Episódio 4 - Arroz de Cogumelo com Tomate em uma Panela",
-      "start_time": "18:31",
-      "end_time": "19:17",
-      "episode_description": "Rita Lobo prepara um arroz de cogumelo com tomate, salada de pepino ao murro e, pra quem quer um grelhado, filé de frango na airfryer. E ainda tem torta de castanha e damasco."
+      "show_name": "Chegadas e Partidas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_chegadas-e-partidas-s12e10_l_m.jpg",
+      "show_category": "Temporada 12 Episódio 10 - Cheiro de Filho É para Sempre!",
+      "start_time": "14:19",
+      "end_time": "14:49",
+      "episode_description": "Com um casaquinho na mão, José Aparecido espera a filha, a neta e o genro sírio, que chegam ao Brasil. No desembarque, Amanda é recebida pela irmã fantasiada de borboleta."
     },
     {
-      "show_name": "Diogo na Cozinha",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gnt/today/br_diogo-na-cozinha-s02e01_l_m.webp",
-      "show_category": "Temporada 2 Episódio 1 - Marcelo D2 e Mart'nália",
-      "start_time": "19:17",
-      "end_time": "19:48",
-      "episode_description": "O cantor e compositor Diogo Nogueira abre as portas de sua casa no Rio de Janeiro e recebe dois convidados especiais. Diogo prepara suas receitas preferidas, compartilha histórias contagiantes e entoa sucessos do samba."
-    },
-    {
-      "show_name": "Que Marravilha! Minha Primeira Vez na Cozinha",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gnt/today/br_que-marravilha-minha-primeira-vez-na-cozinha-s16e03-a-genia-do-pastel_l_m.webp",
-      "show_category": "Temporada 16 Episódio 3 - A Gênia do Pastel",
-      "start_time": "19:48",
-      "end_time": "20:32",
-      "episode_description": "Sabrina nunca entrou na cozinha e nem aprendeu a cozinhar. Sua maior invenção foi jogar o recheio de um pastel de carne sobre um macarrão gelado. Agora, Claude tenta ensiná-la a fazer uma polenta a bolonhesa."
-    },
-    {
-      "show_name": "Que Marravilha!",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gnt/today/br_que-marravilha-s25e06-meu-carro-chefe_l_m.webp",
-      "show_category": "Temporada 25 Episódio 6 - Meu Carro-Chefe",
-      "start_time": "20:32",
-      "end_time": "21:15",
-      "episode_description": "Claude e Carola preparam suas receitas mais famosas. Claude e Batista fazem um penne com vôngole e camarões e Carola produz seu bolo branco para a sobremesa."
-    },
-    {
-      "show_name": "Infiltrado na Cozinha",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gnt/today/br_infiltrado-na-cozinha-s01e02-o-misterio-dos-ovos_l_m.webp",
-      "show_category": "Temporada 1 Episódio 2 - O Mistério dos Ovos",
-      "start_time": "21:15",
-      "end_time": "22:00",
-      "episode_description": "Os participantes tentam provar que não são o ovo podre do cesto, mas um deles é uma farsa, apenas fingindo ser um cozinheiro profissional para conquistar o prêmio."
+      "show_name": "Que História É Essa, Porchat?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_que-historia-e-essa-porchat-s07e20-luciana-braga-lucas-gutierrez-e-carol-marra_l_m.jpg",
+      "show_category": "Temporada 7 Episódio 20 - Luciana Braga, Lucas Gutierrez e Carol Marra",
+      "start_time": "14:49",
+      "end_time": "15:00",
+      "episode_description": "Porchat recebe Luciana Braga, Carol Marra e Lucas Gutierrez. Na plateia, uma história de confiança excessiva e outra de vingança perfeita."
     },
     {
       "show_name": "Avisa Lá que Eu Vou",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gnt/today/br_avisa-la-que-eu-vou-s04e02_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_avisa-la-que-eu-vou-s04e02_l_m.jpg",
       "show_category": "Temporada 4 Episódio 2 - Cametá",
-      "start_time": "22:00",
-      "end_time": "22:52",
+      "start_time": "15:00",
+      "end_time": "15:51",
       "episode_description": "Paulo conhece o dono de um bar que larga o bar aberto para ir beber em outros bares, uma drag queen restauradora de arte sacra, e ainda vai morar com uma família ribeirinha."
     },
     {
       "show_name": "Carnaval da Sabrina",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gnt/today/br_carnaval-da-sabrina-s05e01_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_carnaval-da-sabrina-s05e01_l_m.jpg",
       "show_category": "Temporada 5 Episódio 1 - Entre Ensaios e Incertezas",
-      "start_time": "22:52",
-      "end_time": "23:24",
+      "start_time": "15:51",
+      "end_time": "16:23",
       "episode_description": "A intimidade e os desafios de Sabrina Sato durante o Carnaval, com bastidores da rotina da rainha da bateria de duas grandes escolas de samba de Rio de Janeiro e São Paulo. Ensaios, provas de roupa, estresse, correria e muita emoção."
     },
     {
-      "show_name": "Chegadas e Partidas",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gnt/today/br_chegadas-e-partidas-s12e10_l_m.webp",
-      "show_category": "Temporada 12 Episódio 10 - Cheiro de Filho É para Sempre!",
-      "start_time": "23:24",
-      "end_time": "23:55",
-      "episode_description": "Com um casaquinho na mão, José Aparecido espera a filha, a neta e o genro sírio, que chegam ao Brasil. No desembarque, Amanda é recebida pela irmã fantasiada de borboleta."
+      "show_name": "Infiltrado na Cozinha",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_infiltrado-na-cozinha-s01e02-o-misterio-dos-ovos_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - O Mistério dos Ovos",
+      "start_time": "16:23",
+      "end_time": "17:04",
+      "episode_description": "Os participantes tentam provar que não são o ovo podre do cesto, mas um deles é uma farsa, apenas fingindo ser um cozinheiro profissional para conquistar o prêmio."
+    },
+    {
+      "show_name": "Cozinha Prática com Rita Lobo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cozinha-pratica-com-rita-lobo-s13e17-ensopadinho-de-camar-o_l_m.jpg",
+      "show_category": "Temporada 13 Episódio 17 - Ensopadinho de Camarão",
+      "start_time": "17:04",
+      "end_time": "17:36",
+      "episode_description": "Rita Lobo resgata duas receitas supertradicionais que andam meio sumidas das cozinhas brasileiras: o ensopadinho de camarão com chuchu e o acaçá, um delicioso pudim de arroz que é servido frio."
+    },
+    {
+      "show_name": "Cozinha Prática com Rita Lobo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cozinha-pratica-com-rita-lobo-s08e05-abobrinha_l_m.jpg",
+      "show_category": "Temporada 8 Episódio 5 - Abobrinha",
+      "start_time": "17:36",
+      "end_time": "18:03",
+      "episode_description": "Você vai aprender a preparar uma salada de abobrinha crua com salsinha e parmesão, uma versão do legume assado com alecrim, cebola e pimenta e a clássica abobrinha recheada com carne. E tem ainda limão no arroz e salsão no feijão, pra variar."
+    },
+    {
+      "show_name": "Tempero de Família",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tempero-de-familia-s05e11-borscht-suppe-szegediner-goulasch-e-rote-gruetze_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 11 - Borscht Suppe, Szegediner Goulasch e Rote Gruetze",
+      "start_time": "18:03",
+      "end_time": "18:32",
+      "episode_description": "Tatiana, uma descendente de ucranianos e alemães, é a personagem de hoje do Tempero de Família. Ela e Rodrigo vão preparar Borschtsuppe, o Szegediner Gulache e, para a sobremesa, o Rote Grütze."
+    },
+    {
+      "show_name": "Uma Senhora Panela",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_uma-senhora-panela-s01e07-vatapa-de-peixe-larissa-luz_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 7 - Vatapá de Peixe - Larissa Luz",
+      "start_time": "18:32",
+      "end_time": "19:02",
+      "episode_description": "O vatapá, que chegou ao Brasil durante o século 16 nos porões dos navios negreiros, ganha sua versão de peixe pelas mãos de Carmem Virginia, acompanhada por Larissa Luz."
+    },
+    {
+      "show_name": "Geladeiras em Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_geladeiras-em-ac-o-s01e02-comfort-food_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Comfort Food",
+      "start_time": "19:02",
+      "end_time": "19:50",
+      "episode_description": "Os cozinheiros preparam café da manhã, almoço e jantar apenas com ingredientes comfort food."
+    },
+    {
+      "show_name": "Que História É Essa, Porchat?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_que-historia-e-essa-porchat-s07e06_l_m.jpg",
+      "show_category": "Temporada 7 Episódio 6 - Rodrigo Faro, Kyra Gracie e Nattan",
+      "start_time": "19:50",
+      "end_time": "20:45",
+      "episode_description": "Porchat reúne Nattan, Rodrigo Faro e Kyra Gracie. Na plateia, Nely e a brincadeira que deu errado; Fabio sai do estúdio para conhecer Gisele e a história."
+    },
+    {
+      "show_name": "Avisa Lá que Eu Vou",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_avisa-la-que-eu-vou-s04e02_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 2 - Cametá",
+      "start_time": "20:45",
+      "end_time": "21:36",
+      "episode_description": "Paulo conhece o dono de um bar que larga o bar aberto para ir beber em outros bares, uma drag queen restauradora de arte sacra, e ainda vai morar com uma família ribeirinha."
     },
     {
       "show_name": "Angélica ao Vivo",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gnt/today/br_angelica-ao-vivo-s01e06_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_angelica-ao-vivo-s01e06_l_m.jpg",
       "show_category": "Temporada 1 Episódio 6 - Paolla Olveira, Rômulo Estrela, Tia Má e Convidado Surpresa",
-      "start_time": "23:55",
-      "end_time": "01:21",
+      "start_time": "21:36",
+      "end_time": "23:01",
       "episode_description": "Convidados refletem sobre os avanços da liberdade feminina, como acreditar mais em si e revelam se fazem sexo tântrico."
+    },
+    {
+      "show_name": "Admiráveis Conselheiras",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_admiraveis-conselheiras-s02e01_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 1 - Cissa Guimarães",
+      "start_time": "23:01",
+      "end_time": "23:51",
+      "episode_description": "Intensa, visceral, poética. Astrid encontra Cissa Guimarães, uma mulher que, com vitórias e tragédias, se joga na vida de um jeito vibrante e espontâneo."
+    },
+    {
+      "show_name": "Diogo na Cozinha",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_diogo-na-cozinha-s02e01_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 1 - Marcelo D2 e Mart'nália",
+      "start_time": "23:51",
+      "end_time": "00:21",
+      "episode_description": "O cantor e compositor Diogo Nogueira abre as portas de sua casa no Rio de Janeiro e recebe dois convidados especiais. Diogo prepara suas receitas preferidas, compartilha histórias contagiantes e entoa sucessos do samba."
     }
   ]
 }

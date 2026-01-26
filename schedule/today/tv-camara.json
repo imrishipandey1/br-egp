@@ -1,154 +1,122 @@
 {
   "channel": "TV Câmara",
-  "date": "25/01/2026",
+  "date": "26/01/2026",
   "schedule": [
     {
-      "show_name": "Acessível",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/today/br_acessivel_l_m.webp",
-      "show_category": "Documentary",
-      "start_time": "00:00",
-      "end_time": "00:15",
-      "episode_description": "A inspiradora história de Zilah, uma menina de 11 anos com síndrome de Down, enquanto ela frequenta a escola, pratica natação e descobre o mundo com o apoio de seus pais."
-    },
-    {
-      "show_name": "Acessível",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/today/br_acessivel_l_m.webp",
-      "show_category": "Documentary",
-      "start_time": "00:15",
-      "end_time": "00:30",
-      "episode_description": "A inspiradora história de Zilah, uma menina de 11 anos com síndrome de Down, enquanto ela frequenta a escola, pratica natação e descobre o mundo com o apoio de seus pais."
-    },
-    {
-      "show_name": "Parlamento Brasil",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/today/br_parlamento-brasil_l_m.webp",
-      "show_category": "Politics",
+      "show_name": "Interesse Público",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_interesse-publico-1_l_m.jpg",
+      "show_category": "Law",
       "start_time": "00:30",
       "end_time": "01:00",
-      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
+      "episode_description": "O programa divulga as ações do Ministério Público Federal em benefício do cidadão e da sociedade."
     },
     {
-      "show_name": "Bora Entender?",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/today/br_bora-entender_l_m.webp",
-      "show_category": "Documentary",
+      "show_name": "Ponto de Vista",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ponto-de-vista-2009_l_m.jpg",
+      "show_category": "History",
       "start_time": "01:00",
+      "end_time": "01:30",
+      "episode_description": "Convidados especiais discutem a respeito de temas relevantes da história mundial."
+    },
+    {
+      "show_name": "Lanceiros Negros Apagados da História",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanceiros-negros-apagados-da-historia_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "01:30",
       "end_time": "02:00",
-      "episode_description": "Explicação didática de temas que estão presentes no debate político, de forma imparcial, apresentando todas as visões envolvidas, para que o público entenda a questão e tire suas próprias conclusões."
+      "episode_description": ""
     },
     {
       "show_name": "Comissão",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/today/br_comiss-o_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o_l_m.jpg",
       "show_category": "Politics",
       "start_time": "02:00",
-      "end_time": "02:00",
+      "end_time": "06:00",
       "episode_description": "O programa transmite as discussões e votações do plenário."
     },
     {
-      "show_name": "Comissão",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/today/br_comiss-o_l_m.webp",
+      "show_name": "Ocupação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ocupac-o_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "02:00",
+      "start_time": "06:00",
       "end_time": "07:00",
-      "episode_description": "O programa transmite as discussões e votações do plenário."
+      "episode_description": "Cinquenta jovens de todos os estados do país participam de um debate informal e dinâmico - mas sem perder a seriedade - e abordam assuntos importantes para o país. Esses jovens são integrantes de um programa de estágio da Câmara dos Deputados."
     },
     {
       "show_name": "Participação Popular",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/today/br_participac-o-popular-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_participac-o-popular-1_l_m.jpg",
       "show_category": "Politics",
       "start_time": "07:00",
       "end_time": "08:00",
       "episode_description": "O programa reúne deputados, analistas e o público ao vivo para saber o que o cidadão comum acha dos temas discutidos no Congresso."
     },
     {
-      "show_name": "Expressão Nacional",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/today/br_express-o-nacional-1_l_m.webp",
-      "show_category": "Politics",
+      "show_name": "SUS",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Documentary",
       "start_time": "08:00",
       "end_time": "09:00",
-      "episode_description": "Confira os debates sobre grandes temas da agenda nacional, com deputados e representantes do Governo e da sociedade civil."
+      "episode_description": "A trajetória e os desafios do Sistema Público de Saúde no Brasil, o SUS, destacando sua importância, lutas sociais e acesso universal."
     },
     {
-      "show_name": "Acessível",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/today/br_acessivel_l_m.webp",
+      "show_name": "Retrospectiva",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_retrospectiva_l_m.jpg",
       "show_category": "Documentary",
       "start_time": "09:00",
-      "end_time": "09:15",
-      "episode_description": "A inspiradora história de Zilah, uma menina de 11 anos com síndrome de Down, enquanto ela frequenta a escola, pratica natação e descobre o mundo com o apoio de seus pais."
-    },
-    {
-      "show_name": "Acessível",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/today/br_acessivel_l_m.webp",
-      "show_category": "Documentary",
-      "start_time": "09:15",
-      "end_time": "09:30",
-      "episode_description": "A inspiradora história de Zilah, uma menina de 11 anos com síndrome de Down, enquanto ela frequenta a escola, pratica natação e descobre o mundo com o apoio de seus pais."
-    },
-    {
-      "show_name": "Interesse Público",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/today/br_interesse-publico-1_l_m.webp",
-      "show_category": "Law",
-      "start_time": "09:30",
       "end_time": "10:00",
-      "episode_description": "O programa divulga as ações do Ministério Público Federal em benefício do cidadão e da sociedade."
+      "episode_description": "Os principais fatos que foram destaque na Câmara dos Deputados durante o ano."
     },
     {
       "show_name": "Comissão",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/today/br_comiss-o_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o_l_m.jpg",
       "show_category": "Politics",
       "start_time": "10:00",
       "end_time": "13:00",
       "episode_description": "O programa transmite as discussões e votações do plenário."
     },
     {
-      "show_name": "Retrospectiva",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/today/br_retrospectiva_l_m.webp",
+      "show_name": "Bora Entender?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bora-entender_l_m.jpg",
       "show_category": "Documentary",
       "start_time": "13:00",
       "end_time": "14:00",
-      "episode_description": "Os principais fatos que foram destaque na Câmara dos Deputados durante o ano."
+      "episode_description": "Explicação didática de temas que estão presentes no debate político, de forma imparcial, apresentando todas as visões envolvidas, para que o público entenda a questão e tire suas próprias conclusões."
     },
     {
       "show_name": "Câmara Debate",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/today/br_camara-debate_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_camara-debate_l_m.jpg",
       "show_category": "Politics",
       "start_time": "14:00",
       "end_time": "14:30",
       "episode_description": "A cada programa, dois parlamentares discutem os grandes temas que movimentam os trabalhos na Câmara dos Deputados."
     },
     {
-      "show_name": "Elas Pautam",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/today/br_elas-pautam_l_m.webp",
+      "show_name": "Participação Popular",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_participac-o-popular-1_l_m.jpg",
       "show_category": "Politics",
       "start_time": "14:30",
-      "end_time": "15:00",
+      "end_time": "16:00",
+      "episode_description": "O programa reúne deputados, analistas e o público ao vivo para saber o que o cidadão comum acha dos temas discutidos no Congresso."
+    },
+    {
+      "show_name": "Elas Pautam",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_elas-pautam_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "16:00",
+      "end_time": "16:30",
       "episode_description": "O programa conta com a participação de duas parlamentares, em uma conversa informal sobre temas diversos de interesse da bancada feminina."
     },
     {
-      "show_name": "SUS",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/today/fallback_other_l_m.webp",
-      "show_category": "Documentary",
-      "start_time": "15:00",
-      "end_time": "16:00",
-      "episode_description": "A trajetória e os desafios do Sistema Público de Saúde no Brasil, o SUS, destacando sua importância, lutas sociais e acesso universal."
-    },
-    {
-      "show_name": "100 Anos de Cultura e Conflitos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/today/br_100-anos-de-cultura-e-conflitos_l_m.webp",
-      "show_category": "Documentary",
-      "start_time": "16:00",
-      "end_time": "16:30",
-      "episode_description": "Veja os eventos que marcaram a história do Brasil desde a Semana de Arte Moderna até os dias atuais."
-    },
-    {
-      "show_name": "Ponto de Vista",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/today/br_ponto-de-vista-2009_l_m.webp",
-      "show_category": "History",
+      "show_name": "Potência N",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_potencia-n_l_m.jpg",
+      "show_category": "Special",
       "start_time": "16:30",
       "end_time": "17:00",
-      "episode_description": "Convidados especiais discutem a respeito de temas relevantes da história mundial."
+      "episode_description": "Conheça a luta de mulheres negras no campo da pesquisa acadêmica no Brasil."
     },
     {
       "show_name": "Palavra Aberta",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/today/br_palavra-aberta-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
       "show_category": "Interview",
       "start_time": "17:00",
       "end_time": "17:15",
@@ -156,83 +124,99 @@
     },
     {
       "show_name": "Palavra Aberta",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/today/br_palavra-aberta-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
       "show_category": "Interview",
       "start_time": "17:15",
       "end_time": "17:30",
       "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
     },
     {
-      "show_name": "Participação Popular",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/today/br_participac-o-popular-1_l_m.webp",
-      "show_category": "Politics",
+      "show_name": "Lanceiros Negros Apagados da História",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanceiros-negros-apagados-da-historia_l_m.jpg",
+      "show_category": "Special",
       "start_time": "17:30",
-      "end_time": "18:30",
-      "episode_description": "O programa reúne deputados, analistas e o público ao vivo para saber o que o cidadão comum acha dos temas discutidos no Congresso."
-    },
-    {
-      "show_name": "Parlamento Brasil",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/today/br_parlamento-brasil_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "18:30",
-      "end_time": "19:00",
-      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
-    },
-    {
-      "show_name": "Encontro com a Autora",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/today/br_encontro-com-a-autora_l_m.webp",
-      "show_category": "Interview",
-      "start_time": "19:00",
-      "end_time": "20:00",
-      "episode_description": "Parceria entre o Centro Cultural e o Centro de Documentação e Informação da Câmara dos Deputados. A autora ou o autor convidado fala sobre sua obra e os participantes podem dirigir perguntas a ela ou ele sobre seu estilo e influências."
-    },
-    {
-      "show_name": "Ciência sem Limites",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/today/br_ciencia-sem-limites_l_m.webp",
-      "show_category": "Science",
-      "start_time": "20:00",
-      "end_time": "20:30",
-      "episode_description": "O programa é um espaço de divulgação da ciência em diferentes áreas. Saiba mais sobre as pesquisas, obras e avanços tecnológicos produzidos pelos pesquisadores da Unesp."
+      "end_time": "18:00",
+      "episode_description": ""
     },
     {
       "show_name": "SUS",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/today/fallback_other_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Documentary",
-      "start_time": "20:30",
-      "end_time": "21:30",
+      "start_time": "18:00",
+      "end_time": "19:00",
       "episode_description": "A trajetória e os desafios do Sistema Público de Saúde no Brasil, o SUS, destacando sua importância, lutas sociais e acesso universal."
     },
     {
-      "show_name": "Elas Pautam",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/today/br_elas-pautam_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "21:30",
-      "end_time": "22:00",
-      "episode_description": "O programa conta com a participação de duas parlamentares, em uma conversa informal sobre temas diversos de interesse da bancada feminina."
+      "show_name": "Ciência sem Limites",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ciencia-sem-limites_l_m.jpg",
+      "show_category": "Science",
+      "start_time": "19:00",
+      "end_time": "19:30",
+      "episode_description": "O programa é um espaço de divulgação da ciência em diferentes áreas. Saiba mais sobre as pesquisas, obras e avanços tecnológicos produzidos pelos pesquisadores da Unesp."
     },
     {
-      "show_name": "Bora Entender?",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/today/br_bora-entender_l_m.webp",
-      "show_category": "Documentary",
-      "start_time": "22:00",
-      "end_time": "23:00",
-      "episode_description": "Explicação didática de temas que estão presentes no debate político, de forma imparcial, apresentando todas as visões envolvidas, para que o público entenda a questão e tire suas próprias conclusões."
+      "show_name": "Participação Popular",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_participac-o-popular-1_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "19:30",
+      "end_time": "20:30",
+      "episode_description": "O programa reúne deputados, analistas e o público ao vivo para saber o que o cidadão comum acha dos temas discutidos no Congresso."
     },
     {
       "show_name": "Qual a Questão?",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/today/br_qual-a-quest-o_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_qual-a-quest-o_l_m.jpg",
       "show_category": "Public affairs",
-      "start_time": "23:00",
-      "end_time": "23:30",
+      "start_time": "20:30",
+      "end_time": "21:00",
       "episode_description": "Discussões sobre grandes temas da agenda nacional que mexem com o dia a dia dos brasileiros, como educação, economia, meio ambiente, empregos, tecnologia e saúde. Com participação de especialistas e representantes da sociedade civil."
     },
     {
-      "show_name": "Expressão Nacional",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/today/br_express-o-nacional-1_l_m.webp",
+      "show_name": "Encontro com a Autora",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_encontro-com-a-autora_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "21:00",
+      "end_time": "22:00",
+      "episode_description": "Parceria entre o Centro Cultural e o Centro de Documentação e Informação da Câmara dos Deputados. A autora ou o autor convidado fala sobre sua obra e os participantes podem dirigir perguntas a ela ou ele sobre seu estilo e influências."
+    },
+    {
+      "show_name": "Ponto de Vista",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ponto-de-vista-2009_l_m.jpg",
+      "show_category": "History",
+      "start_time": "22:00",
+      "end_time": "22:30",
+      "episode_description": "Convidados especiais discutem a respeito de temas relevantes da história mundial."
+    },
+    {
+      "show_name": "Acessível",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_acessivel_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "22:30",
+      "end_time": "22:45",
+      "episode_description": "A inspiradora história de Zilah, uma menina de 11 anos com síndrome de Down, enquanto ela frequenta a escola, pratica natação e descobre o mundo com o apoio de seus pais."
+    },
+    {
+      "show_name": "Acessível",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_acessivel_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "22:45",
+      "end_time": "23:00",
+      "episode_description": "A inspiradora história de Zilah, uma menina de 11 anos com síndrome de Down, enquanto ela frequenta a escola, pratica natação e descobre o mundo com o apoio de seus pais."
+    },
+    {
+      "show_name": "Elas Pautam",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_elas-pautam_l_m.jpg",
       "show_category": "Politics",
+      "start_time": "23:00",
+      "end_time": "23:30",
+      "episode_description": "O programa conta com a participação de duas parlamentares, em uma conversa informal sobre temas diversos de interesse da bancada feminina."
+    },
+    {
+      "show_name": "Qual a Questão?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_qual-a-quest-o_l_m.jpg",
+      "show_category": "Public affairs",
       "start_time": "23:30",
-      "end_time": "00:30",
-      "episode_description": "Confira os debates sobre grandes temas da agenda nacional, com deputados e representantes do Governo e da sociedade civil."
+      "end_time": "00:00",
+      "episode_description": "Discussões sobre grandes temas da agenda nacional que mexem com o dia a dia dos brasileiros, como educação, economia, meio ambiente, empregos, tecnologia e saúde. Com participação de especialistas e representantes da sociedade civil."
     }
   ]
 }
