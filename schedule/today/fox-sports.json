@@ -1,126 +1,118 @@
 {
   "channel": "FOX Sports",
-  "date": "26/01/2026",
+  "date": "29/01/2026",
   "schedule": [
     {
-      "show_name": "Roma x Milan",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-roma-x-milan_l_m.webp",
-      "show_category": "Campeonato Italiano",
+      "show_name": "Momento ESPN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_documentary-momento-espn_l_m.jpg",
+      "show_category": "",
+      "start_time": "00:15",
+      "end_time": "00:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Barcelona x Oviedo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-barcelona-x-oviedo_l_m.jpg",
+      "show_category": "Campeonato Espanhol",
       "start_time": "00:30",
       "end_time": "02:30",
-      "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
+      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
     },
     {
       "show_name": "Linha de Passe: Mesa-Redonda",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_sports-talk-linha-de-passe-mesa-redonda_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sports-talk-linha-de-passe-mesa-redonda_l_m.jpg",
       "show_category": "",
       "start_time": "02:30",
       "end_time": "04:00",
       "episode_description": "Comentaristas esportivos conceituados entram em campo para uma análise completa da rodada do futebol ao estilo \"mesa redonda\", com debates acalorados e comentários de qualidade, sempre a partir de um olhar crítico e da imparcialidade."
     },
     {
-      "show_name": "Boca Juniors x Deportivo Riestra",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-boca-juniors-x-deportivo-riestra_l_m.webp",
-      "show_category": "Campeonato Argentino",
+      "show_name": "Sporting x Casa Pia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-sporting-x-casa-pia-1_l_m.jpg",
+      "show_category": "Campeonato Português",
       "start_time": "04:00",
       "end_time": "06:00",
-      "episode_description": "Acompanhe as grandes partidas do torneio de elite do futebol argentino."
+      "episode_description": "Todas as emoções da principal competição de futebol masculino entre clubes de Portugal."
     },
     {
-      "show_name": "Bola da Vez",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_bola-da-vez_l_m.webp",
+      "show_name": "Resenha ESPN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_resenha-espn_l_m.jpg",
       "show_category": "Sports talk",
       "start_time": "06:00",
       "end_time": "07:00",
-      "episode_description": "Grandes personalidades do esporte nacional e internacional são colocadas no \"paredão\" e respondem às perguntas de uma bancada de entrevistadores formada por jornalistas, ex-atletas ou especialistas em geral."
+      "episode_description": "Atletas da atualidade e do passado participam de bate-papo descontraído e cheio de boas histórias."
     },
     {
-      "show_name": "Dallas Mavericks x Los Angeles Lakers",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_basketball-dallas-mavericks-x-los-angeles-lakers_l_m.webp",
-      "show_category": "NBA",
+      "show_name": "Vanderbilt x Kentucky",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_basketball-vanderbilt-x-kentucky_l_m.jpg",
+      "show_category": "Basquete Universitário",
       "start_time": "07:00",
       "end_time": "09:00",
-      "episode_description": "Trinta equipes dos Estados Unidos e Canadá se enfrentam na principal liga de basquete do mundo."
+      "episode_description": "Futuros astros do basquete profissional se enfrentam no torneio organizado pela NCAA e disputado por equipes das universidades dos Estados Unidos."
     },
     {
-      "show_name": "Burnley x Tottenham Hotspur",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-burnley-x-tottenham-hotspur_l_m.webp",
-      "show_category": "Campeonato Inglês",
+      "show_name": "Racing x Rosario Central",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-racing-x-rosario-central-3_l_m.jpg",
+      "show_category": "Campeonato Argentino",
       "start_time": "09:00",
       "end_time": "11:00",
-      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
+      "episode_description": "Acompanhe as grandes partidas do torneio de elite do futebol argentino."
     },
     {
-      "show_name": "Barcelona x Oviedo",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-barcelona-x-oviedo_l_m.webp",
-      "show_category": "Campeonato Espanhol",
+      "show_name": "Estudiantes x Boca Juniors",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-estudiantes-x-boca-juniors_l_m.jpg",
+      "show_category": "Campeonato Argentino",
       "start_time": "11:00",
       "end_time": "13:00",
-      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
+      "episode_description": "Acompanhe as grandes partidas do torneio de elite do futebol argentino."
     },
     {
-      "show_name": "Crystal Palace x Chelsea",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-crystal-palace-x-chelsea_l_m.webp",
-      "show_category": "Campeonato Inglês",
+      "show_name": "River Plate x Gimnasia y Esgrima La Plata",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-river-plate-x-gimnasia-y-esgrima-la-plata_l_m.jpg",
+      "show_category": "Campeonato Argentino",
       "start_time": "13:00",
       "end_time": "15:00",
-      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
+      "episode_description": "Acompanhe as grandes partidas do torneio de elite do futebol argentino."
     },
     {
-      "show_name": "Juventus x Napoli",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-juventus-x-napoli_l_m.webp",
-      "show_category": "Campeonato Italiano",
+      "show_name": "Fenerbahçe x Goztepe",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-fenerbahce-x-goztepe_l_m.jpg",
+      "show_category": "Campeonato Turco de Futebol",
       "start_time": "15:00",
-      "end_time": "16:55",
-      "episode_description": "Em partida válida pela rodada 22 da Serie A temporada 2025-2026, a Juventus recebe o Napoli no Allianz Stadium, em Turim, Itália."
+      "end_time": "17:00",
+      "episode_description": "Todas as emoções da Süper Lig, a principal competição de futebol masculino entre clubes da Turquia."
+    },
+    {
+      "show_name": "Arsenal x Manchester United",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-arsenal-x-manchester-united_l_m.jpg",
+      "show_category": "Campeonato Inglês",
+      "start_time": "17:00",
+      "end_time": "19:00",
+      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
     },
     {
       "show_name": "Norwich x Coventry City",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-norwich-x-coventry-city_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-norwich-x-coventry-city_l_m.jpg",
       "show_category": "Campeonato Inglês - Segunda Divisão",
-      "start_time": "16:55",
-      "end_time": "19:00",
+      "start_time": "19:00",
+      "end_time": "21:00",
       "episode_description": "Do Estádio de Carrow Road, em Norwich, Inglaterra."
     },
     {
-      "show_name": "Inside Serie A",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-inside-serie-a_l_m.webp",
-      "show_category": "",
-      "start_time": "19:00",
-      "end_time": "19:30",
-      "episode_description": "Uma previsão sobre os próximos jogos do Campeonato Italiano."
-    },
-    {
-      "show_name": "Aquece Moto GP",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_special-aquece-moto-gp_l_m.webp",
-      "show_category": "",
-      "start_time": "19:30",
-      "end_time": "20:30",
-      "episode_description": "Uma prévia da temporada 2026 da Moto GP, com estreia do brasileiro Diogo Moreira, que vai competir pela equipe LCR Honda após conquistar o título da Moto 2 em 2025. O País também volta a sediar uma prova da categoria, em Goiânia, após 12 anos."
-    },
-    {
-      "show_name": "NBA Action",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_basketball-nba-action_l_m.webp",
-      "show_category": "",
-      "start_time": "20:30",
-      "end_time": "21:00",
-      "episode_description": "Acompanhe as melhores jogadas da semana e últimas notícias sobre a maior liga de basquete do mundo."
-    },
-    {
-      "show_name": "Cleveland Cavaliers x Orlando Magic",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_basketball-cleveland-cavaliers-x-orlando-magic_l_m.webp",
-      "show_category": "NBA",
+      "show_name": "Alanyaspor x Fenerbahçe",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-alanyaspor-x-fenerbahce_l_m.jpg",
+      "show_category": "Campeonato Turco de Futebol",
       "start_time": "21:00",
-      "end_time": "23:30",
-      "episode_description": "Trinta equipes dos Estados Unidos e Canadá se enfrentam na principal liga de basquete do mundo."
+      "end_time": "23:00",
+      "episode_description": "Todas as emoções da Süper Lig, a principal competição de futebol masculino entre clubes da Turquia."
     },
     {
-      "show_name": "Minnesota Timberwolves x Golden State Warriors",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_basketball-minnesota-timberwolves-x-golden-state-warriors_l_m.webp",
-      "show_category": "NBA",
-      "start_time": "23:30",
-      "end_time": "02:00",
-      "episode_description": "Trinta equipes dos Estados Unidos e Canadá se enfrentam na principal liga de basquete do mundo."
+      "show_name": "Barcelona x Oviedo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-barcelona-x-oviedo_l_m.jpg",
+      "show_category": "Campeonato Espanhol",
+      "start_time": "23:00",
+      "end_time": "01:00",
+      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
     }
   ]
 }

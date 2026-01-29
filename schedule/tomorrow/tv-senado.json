@@ -1,198 +1,214 @@
 {
   "channel": "TV SENADO",
-  "date": "27/01/2026",
+  "date": "30/01/2026",
   "schedule": [
     {
-      "show_name": "Lavra",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_lavra-2021_l_m.webp",
-      "show_category": "Drama / 2021",
+      "show_name": "O Dia que Durou 21 Anos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-dia-que-durou-21-anos-2013_l_m.jpg",
+      "show_category": "Special",
       "start_time": "00:00",
-      "end_time": "01:45",
-      "episode_description": "Camila retorna para sua terra natal depois que o rio de sua cidade foi contaminado pelo maior crime ambiental do Brasil, provocado pelo rompimento da barragem de uma mineradora. Ela segue o caminho da lama tóxica que varreu povoados do mapa, encontra paisagens, comunidades e pessoas devastadas. Outra barragem se rompe e mata cerca de 300 pessoas."
+      "end_time": "01:20",
+      "episode_description": "Em clima de suspense e ação, o documentário apresenta, em três episódios, os bastidores da participação do governo dos Estados Unidos no golpe militar de 1964, que durou até 1985 e instaurou a ditadura no Brasil."
     },
     {
-      "show_name": "Carioca Era um Rio",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_carioca-era-um-rio-2013_l_m.webp",
-      "show_category": "Documentary / 2013",
-      "start_time": "01:45",
+      "show_name": "35 - O Assalto ao Poder",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_35-o-assalto-ao-poder-2002_l_m.jpg",
+      "show_category": "Documentary / 2002 /7.2",
+      "start_time": "01:20",
       "end_time": "03:00",
-      "episode_description": "Este documentário é sobre o rio que deu nome aos habitantes da cidade do Rio de Janeiro. O Rio Carioca orientou o crescimento dessa capital, mas hoje é um grande canal de esgoto submerso que deságua na Baía da Guanabara."
-    },
-    {
-      "show_name": "Assunto de Estado",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_assunto-de-estado_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "03:00",
-      "end_time": "03:30",
-      "episode_description": "Espaço para que senadores comentem questões regionais e locais e preste contas aos eleitores."
-    },
-    {
-      "show_name": "Agenda Econômica",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_agenda-economica-1_l_m.webp",
-      "show_category": "Bus./financial",
-      "start_time": "03:30",
-      "end_time": "04:00",
-      "episode_description": "Economistas, formuladores de políticas públicas, acadêmicos, intelectuais e parlamentares analisam questões da economia nacional e internacional."
-    },
-    {
-      "show_name": "Salão Nobre",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_sal-o-nobre_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "04:00",
-      "end_time": "04:30",
-      "episode_description": "Assista a temas de relevância nacional com líderes partidários, presidentes das comissões e autores."
+      "episode_description": "O ano de 1935 estava chegando ao fim quando três levantes militares, em três diferentes capitais brasileiras, tentaram derrubar o governo de Getúlio Vargas."
     },
     {
       "show_name": "Em Discussão",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_em-discuss-o-2_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_em-discuss-o-2_l_m.jpg",
       "show_category": "Educational",
-      "start_time": "04:30",
-      "end_time": "05:00",
+      "start_time": "03:00",
+      "end_time": "03:30",
       "episode_description": "As principais discussões realizadas nas audiências públicas promovidas pelo Senado."
     },
     {
       "show_name": "TV Senado Live",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_tv-senado-live_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tv-senado-live_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "05:00",
-      "end_time": "05:30",
+      "start_time": "03:30",
+      "end_time": "04:00",
       "episode_description": "Veja entrevistas com a participação do público sobre os grandes temas em pauta no país."
     },
     {
       "show_name": "Parlamento Brasil",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_parlamento-brasil_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "05:30",
-      "end_time": "06:00",
+      "start_time": "04:00",
+      "end_time": "04:30",
       "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
     },
     {
+      "show_name": "Assunto de Estado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_assunto-de-estado_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "04:30",
+      "end_time": "05:00",
+      "episode_description": "Espaço para que senadores comentem questões regionais e locais e preste contas aos eleitores."
+    },
+    {
+      "show_name": "Agenda Econômica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_agenda-economica-1_l_m.jpg",
+      "show_category": "Bus./financial",
+      "start_time": "05:00",
+      "end_time": "05:30",
+      "episode_description": "Economistas, formuladores de políticas públicas, acadêmicos, intelectuais e parlamentares analisam questões da economia nacional e internacional."
+    },
+    {
+      "show_name": "Salão Nobre",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sal-o-nobre_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "05:30",
+      "end_time": "06:00",
+      "episode_description": "Assista a temas de relevância nacional com líderes partidários, presidentes das comissões e autores."
+    },
+    {
       "show_name": "Estúdio A",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_estudio-a_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_estudio-a_l_m.jpg",
       "show_category": "Music",
       "start_time": "06:00",
       "end_time": "07:00",
-      "episode_description": "O duo Aiune e Gabriel Strauss apresenta a fusão entre o lirismo goiano e o modernismo brasiliense, eternizado no recém-lançado disco \"Verde\"."
+      "episode_description": "Programa apresenta música popular brasileira mesclando entrevista e músicas gravadas em estúdio."
     },
     {
-      "show_name": "Coleções",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_colec-es_l_m.webp",
-      "show_category": "Entertainment",
+      "show_name": "Guerras do Brasil.Doc",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_guerras-do-brasil-doc_l_m.jpg",
+      "show_category": "Documentary",
       "start_time": "07:00",
       "end_time": "07:30",
-      "episode_description": "Explore a cidade maravilhosa do Rio de Janeiro. Conheça seus aspectos históricos, suas belezas naturais e suas principais manifestações culturais. Tudo contado por personagens que são apaixonados pela bela cidade."
+      "episode_description": "Os acontecimentos que puseram fim a velha república. Entenda a disputa eleitoral que levaria ao poder, no voto, o paulista Júlio Prestes e a ascensão do gaúcho Getúlio Vargas."
     },
     {
-      "show_name": "Em Discussão",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_em-discuss-o-2_l_m.webp",
-      "show_category": "Educational",
+      "show_name": "Salão Nobre",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sal-o-nobre_l_m.jpg",
+      "show_category": "Politics",
       "start_time": "07:30",
       "end_time": "08:00",
-      "episode_description": "As principais discussões realizadas nas audiências públicas promovidas pelo Senado."
+      "episode_description": "Assista a temas de relevância nacional com líderes partidários, presidentes das comissões e autores."
     },
     {
       "show_name": "Cidadania",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_cidadania_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidadania_l_m.jpg",
       "show_category": "Interview",
       "start_time": "08:00",
       "end_time": "08:30",
       "episode_description": "Entrevistas semanais sobre assuntos da atualidade, com a participação de parlamentares, especialistas e representantes de organizações sociais."
     },
     {
-      "show_name": "Assunto de Estado",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_assunto-de-estado_l_m.webp",
+      "show_name": "Parlamento Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
       "show_category": "Politics",
       "start_time": "08:30",
       "end_time": "09:00",
-      "episode_description": "Espaço para que senadores comentem questões regionais e locais e preste contas aos eleitores."
+      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
+    },
+    {
+      "show_name": "TV Senado Live",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tv-senado-live_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "09:00",
+      "end_time": "09:30",
+      "episode_description": "Veja entrevistas com a participação do público sobre os grandes temas em pauta no país."
     },
     {
       "show_name": "Comissão de Educação, Cultura e Esporte",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_comiss-o-de-educac-o-cultura-e-esporte_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o-de-educac-o-cultura-e-esporte_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "09:00",
-      "end_time": "11:15",
+      "start_time": "09:30",
+      "end_time": "11:30",
       "episode_description": "Acompanhe a atividade legislativa da comissão permanente do Senado Federal que debate normas gerais sobre educação, cultura, ensino e esportes, instituições educacionais e culturais, diretrizes e bases da educação nacional."
     },
     {
-      "show_name": "Comissão de Agricultura e Reforma Agrária",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_comiss-o-de-agricultura-e-reforma-agraria_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "11:15",
-      "end_time": "13:45",
-      "episode_description": "Compete opinar sobre proposições pertinentes aos seguintes temas: direito agrário e planejamento, acompanhamento e execução da política agrícola e fundiária."
+      "show_name": "Comissão de Esporte",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o-de-esporte_l_m.jpg",
+      "show_category": "Event",
+      "start_time": "11:30",
+      "end_time": "13:55",
+      "episode_description": "Reuniões, audiências e debates da Comissão de Esporte."
     },
     {
       "show_name": "Sessão Plenária",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_sess-o-plenaria-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sess-o-plenaria-1_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "13:45",
-      "end_time": "16:23",
+      "start_time": "13:55",
+      "end_time": "16:26",
       "episode_description": "Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade."
     },
     {
       "show_name": "Sessão Plenária",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_sess-o-plenaria-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sess-o-plenaria-1_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "16:23",
-      "end_time": "17:10",
+      "start_time": "16:26",
+      "end_time": "17:52",
       "episode_description": "Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade."
     },
     {
       "show_name": "Sessão Plenária",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_sess-o-plenaria-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sess-o-plenaria-1_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "17:10",
+      "start_time": "17:52",
+      "end_time": "19:00",
+      "episode_description": "Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade."
+    },
+    {
+      "show_name": "EcoSenado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ecosenado-1_l_m.jpg",
+      "show_category": "Environment",
+      "start_time": "19:00",
       "end_time": "19:30",
-      "episode_description": "Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade."
-    },
-    {
-      "show_name": "Salão Nobre",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_sal-o-nobre_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "19:30",
-      "end_time": "20:00",
-      "episode_description": "Assista a temas de relevância nacional com líderes partidários, presidentes das comissões e autores."
-    },
-    {
-      "show_name": "Agenda Econômica",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_agenda-economica-1_l_m.webp",
-      "show_category": "Bus./financial",
-      "start_time": "20:00",
-      "end_time": "20:30",
-      "episode_description": "Economistas, formuladores de políticas públicas, acadêmicos, intelectuais e parlamentares analisam questões da economia nacional e internacional."
+      "episode_description": "Assuntos relevantes e impactam o meio ambiente com participação de especialistas, políticos, biólogos e lideranças comunitárias."
     },
     {
       "show_name": "Assunto de Estado",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_assunto-de-estado_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_assunto-de-estado_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "20:30",
-      "end_time": "21:00",
+      "start_time": "19:30",
+      "end_time": "20:00",
       "episode_description": "Espaço para que senadores comentem questões regionais e locais e preste contas aos eleitores."
     },
     {
+      "show_name": "Parlamento Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "20:00",
+      "end_time": "20:30",
+      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
+    },
+    {
+      "show_name": "TV Senado Live",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tv-senado-live_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "20:30",
+      "end_time": "21:00",
+      "episode_description": "Veja entrevistas com a participação do público sobre os grandes temas em pauta no país."
+    },
+    {
       "show_name": "Paulo Freire, um Homem do Mundo",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_paulo-freire-um-homem-do-mundo_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_paulo-freire-um-homem-do-mundo_l_m.jpg",
       "show_category": "Documentary",
       "start_time": "21:00",
       "end_time": "21:55",
-      "episode_description": "Conheça as bases da formação de Paulo Freire e suas percepções de mundo, como sua influência na criação da Cia do Tijolo, que expressa seus conceitos primordiais através dos dramaturgos."
+      "episode_description": "Descubra a experiência de alfabetização liderada por Paulo Freire em Angicos, no sertão do Rio Grande do Norte. Conheça a cidade, os ex-alunos e professores e veja, ainda, depoimentos de Freire."
     },
     {
-      "show_name": "O Caldeirão da Santa Cruz do Deserto",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_o-caldeir-o-da-santa-cruz-do-deserto_l_m.webp",
-      "show_category": "Special",
+      "show_name": "Libertárixs",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_libertarixs_l_m.jpg",
+      "show_category": "Documentary",
       "start_time": "21:55",
-      "end_time": "23:15",
-      "episode_description": "Um resgate, a partir do imaginário popular, da história da comunidade do Caldeirão - movimento religioso liderado pelo influente beato José Lourenço."
+      "end_time": "22:30",
+      "episode_description": "Uma escola contemporânea criada dentro de um terreiro de candomblé e outra que funcionava 150 anos atrás no centro do Rio de Janeiro. Em comum, professores negros e uma prática pedagógica que favorece a autoestima das crianças afrodescendentes."
     },
     {
-      "show_name": "Nas Beiras do Ribeira",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_nas-beiras-do-ribeira_l_m.webp",
-      "show_category": "Special",
-      "start_time": "23:15",
+      "show_name": "A Última Abolição",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-ultima-abolic-o-2018_l_m.jpg",
+      "show_category": "Documentary / 2018",
+      "start_time": "22:30",
       "end_time": "",
-      "episode_description": "As histórias e modos de vida ancestrais e tradicionais contados e cantados pelos povos que vivem às margens do rio Ribeira."
+      "episode_description": "O documentário aborda a escravidão no Brasil com especial enfoque no período da abolição, destacando os movimentos abolicionistas, seus aliados e inimigos."
     }
   ]
 }

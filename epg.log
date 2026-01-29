@@ -1,92 +1,95 @@
-Starting Scraper run at 2026-01-26 11:35:53.905213-03:00
-[2026-01-26 11:35:53] Processing channel: tv-senado
-[2026-01-26 11:35:54] Saved: schedule/today/tv-senado.json
-[2026-01-26 11:35:54] Saved: schedule/tomorrow/tv-senado.json
-[2026-01-26 11:35:54] Processing channel: tv-camara
-[2026-01-26 11:35:54] Saved: schedule/today/tv-camara.json
-[2026-01-26 11:35:54] Saved: schedule/tomorrow/tv-camara.json
-[2026-01-26 11:35:54] Processing channel: tv-escola
-[2026-01-26 11:35:55] Saved: schedule/today/tv-escola.json
-[2026-01-26 11:35:55] Saved: schedule/tomorrow/tv-escola.json
-[2026-01-26 11:35:55] Processing channel: history-channel
-[2026-01-26 11:35:55] Saved: schedule/today/history-channel.json
-[2026-01-26 11:35:55] Saved: schedule/tomorrow/history-channel.json
-[2026-01-26 11:35:55] Processing channel: rit
-[2026-01-26 11:35:56] Saved: schedule/today/rit.json
-[2026-01-26 11:35:56] Saved: schedule/tomorrow/rit.json
-[2026-01-26 11:35:56] Processing channel: multishow
-[2026-01-26 11:35:56] Saved: schedule/today/multishow.json
-[2026-01-26 11:35:56] Saved: schedule/tomorrow/multishow.json
-[2026-01-26 11:35:56] Processing channel: fox-sports
-[2026-01-26 11:35:57] Saved: schedule/today/fox-sports.json
-[2026-01-26 11:35:57] Saved: schedule/tomorrow/fox-sports.json
-[2026-01-26 11:35:57] Processing channel: h2
-[2026-01-26 11:35:57] Saved: schedule/today/h2.json
-[2026-01-26 11:35:57] Saved: schedule/tomorrow/h2.json
-[2026-01-26 11:35:57] Processing channel: food-network
-[2026-01-26 11:35:57] Saved: schedule/today/food-network.json
-[2026-01-26 11:35:57] Saved: schedule/tomorrow/food-network.json
-[2026-01-26 11:35:57] Processing channel: discovery-kids
-[2026-01-26 11:35:58] Saved: schedule/today/discovery-kids.json
-[2026-01-26 11:35:58] Saved: schedule/tomorrow/discovery-kids.json
-[2026-01-26 11:35:58] Processing channel: national-geographic
-[2026-01-26 11:35:58] Saved: schedule/today/national-geographic.json
-[2026-01-26 11:35:58] Saved: schedule/tomorrow/national-geographic.json
-[2026-01-26 11:35:58] Processing channel: discovery-turbo
-[2026-01-26 11:35:58] Saved: schedule/today/discovery-turbo.json
-[2026-01-26 11:35:58] Saved: schedule/tomorrow/discovery-turbo.json
-[2026-01-26 11:35:58] Processing channel: tv-cabo-branco
-[2026-01-26 11:35:59] Saved: schedule/today/tv-cabo-branco.json
-[2026-01-26 11:35:59] Saved: schedule/tomorrow/tv-cabo-branco.json
-[2026-01-26 11:35:59] Processing channel: hgtv
-[2026-01-26 11:35:59] Saved: schedule/today/hgtv.json
-[2026-01-26 11:35:59] Saved: schedule/tomorrow/hgtv.json
-[2026-01-26 11:35:59] Processing channel: tv-aratu
-[2026-01-26 11:36:00] Saved: schedule/today/tv-aratu.json
-[2026-01-26 11:36:00] Saved: schedule/tomorrow/tv-aratu.json
-[2026-01-26 11:36:00] Processing channel: gloob
-[2026-01-26 11:36:00] Saved: schedule/today/gloob.json
-[2026-01-26 11:36:00] Saved: schedule/tomorrow/gloob.json
-[2026-01-26 11:36:00] Processing channel: gnt
-[2026-01-26 11:36:00] Saved: schedule/today/gnt.json
-[2026-01-26 11:36:00] Saved: schedule/tomorrow/gnt.json
-[2026-01-26 11:36:00] Processing channel: cartoonito
-[2026-01-26 11:36:01] Warning: No schedule found for cartoonito (Today)
-[2026-01-26 11:36:01] Warning: No schedule found for cartoonito (Tomorrow)
-[2026-01-26 11:36:01] Processing channel: tv-jangadeiro
-[2026-01-26 11:36:01] Saved: schedule/today/tv-jangadeiro.json
-[2026-01-26 11:36:01] Saved: schedule/tomorrow/tv-jangadeiro.json
-[2026-01-26 11:36:01] Processing channel: tooncast
-[2026-01-26 11:36:01] Saved: schedule/today/tooncast.json
-[2026-01-26 11:36:01] Saved: schedule/tomorrow/tooncast.json
-[2026-01-26 11:36:01] Processing channel: amc-brasil
-[2026-01-26 11:36:02] Saved: schedule/today/amc-brasil.json
-[2026-01-26 11:36:02] Saved: schedule/tomorrow/amc-brasil.json
-[2026-01-26 11:36:02] Processing channel: telecine-action
-[2026-01-26 11:36:02] Saved: schedule/today/telecine-action.json
-[2026-01-26 11:36:02] Saved: schedule/tomorrow/telecine-action.json
-[2026-01-26 11:36:02] Processing channel: telecine-premium
-[2026-01-26 11:36:02] Saved: schedule/today/telecine-premium.json
-[2026-01-26 11:36:02] Saved: schedule/tomorrow/telecine-premium.json
-[2026-01-26 11:36:02] Processing channel: hbo-family
-[2026-01-26 11:36:03] Saved: schedule/today/hbo-family.json
-[2026-01-26 11:36:03] Saved: schedule/tomorrow/hbo-family.json
-[2026-01-26 11:36:03] Processing channel: a-e
-[2026-01-26 11:36:03] Saved: schedule/today/a-e.json
-[2026-01-26 11:36:03] Saved: schedule/tomorrow/a-e.json
-[2026-01-26 11:36:03] Processing channel: tcm
-[2026-01-26 11:36:04] Saved: schedule/today/tcm.json
-[2026-01-26 11:36:04] Saved: schedule/tomorrow/tcm.json
-[2026-01-26 11:36:04] Processing channel: discovery-theater-hd
-[2026-01-26 11:36:04] Saved: schedule/today/discovery-theater-hd.json
-[2026-01-26 11:36:04] Saved: schedule/tomorrow/discovery-theater-hd.json
-[2026-01-26 11:36:04] Processing channel: telecine-pipoca
-[2026-01-26 11:36:04] Saved: schedule/today/telecine-pipoca.json
-[2026-01-26 11:36:04] Saved: schedule/tomorrow/telecine-pipoca.json
-[2026-01-26 11:36:04] Processing channel: discovery-home-health
-[2026-01-26 11:36:04] Saved: schedule/today/discovery-home-health.json
-[2026-01-26 11:36:04] Saved: schedule/tomorrow/discovery-home-health.json
-[2026-01-26 11:36:04] Processing channel: lifetime-hd
-[2026-01-26 11:36:05] Saved: schedule/today/lifetime-hd.json
-[2026-01-26 11:36:05] Saved: schedule/tomorrow/lifetime-hd.json
-[2026-01-26 11:36:05] Scraper finished.
+Starting Scraper run at 2026-01-29 17:37:47.363769-03:00
+[2026-01-29 17:37:47] Processing channel: tv-senado
+[2026-01-29 17:37:47] Saved: schedule/today/tv-senado.json
+[2026-01-29 17:37:47] Saved: schedule/tomorrow/tv-senado.json
+[2026-01-29 17:37:47] Processing channel: tv-camara
+[2026-01-29 17:37:48] Saved: schedule/today/tv-camara.json
+[2026-01-29 17:37:48] Saved: schedule/tomorrow/tv-camara.json
+[2026-01-29 17:37:48] Processing channel: tv-escola
+[2026-01-29 17:37:49] Saved: schedule/today/tv-escola.json
+[2026-01-29 17:37:49] Saved: schedule/tomorrow/tv-escola.json
+[2026-01-29 17:37:49] Processing channel: history-channel
+[2026-01-29 17:37:50] Saved: schedule/today/history-channel.json
+[2026-01-29 17:37:50] Saved: schedule/tomorrow/history-channel.json
+[2026-01-29 17:37:50] Processing channel: rit
+[2026-01-29 17:37:50] Saved: schedule/today/rit.json
+[2026-01-29 17:37:50] Saved: schedule/tomorrow/rit.json
+[2026-01-29 17:37:50] Processing channel: multishow
+[2026-01-29 17:37:51] Saved: schedule/today/multishow.json
+[2026-01-29 17:37:51] Saved: schedule/tomorrow/multishow.json
+[2026-01-29 17:37:51] Processing channel: fox-sports
+[2026-01-29 17:37:51] Saved: schedule/today/fox-sports.json
+[2026-01-29 17:37:51] Saved: schedule/tomorrow/fox-sports.json
+[2026-01-29 17:37:51] Processing channel: h2
+[2026-01-29 17:37:52] Saved: schedule/today/h2.json
+[2026-01-29 17:37:52] Saved: schedule/tomorrow/h2.json
+[2026-01-29 17:37:52] Processing channel: food-network
+[2026-01-29 17:37:53] Saved: schedule/today/food-network.json
+[2026-01-29 17:37:53] Saved: schedule/tomorrow/food-network.json
+[2026-01-29 17:37:53] Processing channel: discovery-kids
+[2026-01-29 17:37:53] Saved: schedule/today/discovery-kids.json
+[2026-01-29 17:37:53] Saved: schedule/tomorrow/discovery-kids.json
+[2026-01-29 17:37:53] Processing channel: national-geographic
+[2026-01-29 17:37:54] Saved: schedule/today/national-geographic.json
+[2026-01-29 17:37:54] Saved: schedule/tomorrow/national-geographic.json
+[2026-01-29 17:37:54] Processing channel: discovery-turbo
+[2026-01-29 17:37:54] Saved: schedule/today/discovery-turbo.json
+[2026-01-29 17:37:54] Saved: schedule/tomorrow/discovery-turbo.json
+[2026-01-29 17:37:54] Processing channel: tv-cabo-branco
+[2026-01-29 17:37:55] Saved: schedule/today/tv-cabo-branco.json
+[2026-01-29 17:37:55] Saved: schedule/tomorrow/tv-cabo-branco.json
+[2026-01-29 17:37:55] Processing channel: hgtv
+[2026-01-29 17:37:56] Saved: schedule/today/hgtv.json
+[2026-01-29 17:37:56] Saved: schedule/tomorrow/hgtv.json
+[2026-01-29 17:37:56] Processing channel: tv-aratu
+[2026-01-29 17:37:56] Saved: schedule/today/tv-aratu.json
+[2026-01-29 17:37:56] Saved: schedule/tomorrow/tv-aratu.json
+[2026-01-29 17:37:56] Processing channel: gloob
+[2026-01-29 17:37:57] Saved: schedule/today/gloob.json
+[2026-01-29 17:37:57] Saved: schedule/tomorrow/gloob.json
+[2026-01-29 17:37:57] Processing channel: gnt
+[2026-01-29 17:37:58] Saved: schedule/today/gnt.json
+[2026-01-29 17:37:58] Saved: schedule/tomorrow/gnt.json
+[2026-01-29 17:37:58] Processing channel: cartoonito
+[2026-01-29 17:37:58] Warning: No schedule found for cartoonito (Today)
+[2026-01-29 17:37:58] Warning: No schedule found for cartoonito (Tomorrow)
+[2026-01-29 17:37:58] Processing channel: tv-jangadeiro
+[2026-01-29 17:37:59] Saved: schedule/today/tv-jangadeiro.json
+[2026-01-29 17:37:59] Saved: schedule/tomorrow/tv-jangadeiro.json
+[2026-01-29 17:37:59] Processing channel: tooncast
+[2026-01-29 17:37:59] Saved: schedule/today/tooncast.json
+[2026-01-29 17:37:59] Saved: schedule/tomorrow/tooncast.json
+[2026-01-29 17:37:59] Processing channel: amc-brasil
+[2026-01-29 17:38:00] Saved: schedule/today/amc-brasil.json
+[2026-01-29 17:38:00] Saved: schedule/tomorrow/amc-brasil.json
+[2026-01-29 17:38:00] Processing channel: telecine-action
+[2026-01-29 17:38:01] Saved: schedule/today/telecine-action.json
+[2026-01-29 17:38:01] Saved: schedule/tomorrow/telecine-action.json
+[2026-01-29 17:38:01] Processing channel: telecine-premium
+[2026-01-29 17:38:01] Saved: schedule/today/telecine-premium.json
+[2026-01-29 17:38:01] Saved: schedule/tomorrow/telecine-premium.json
+[2026-01-29 17:38:01] Processing channel: hbo-family
+[2026-01-29 17:38:02] Saved: schedule/today/hbo-family.json
+[2026-01-29 17:38:02] Saved: schedule/tomorrow/hbo-family.json
+[2026-01-29 17:38:02] Processing channel: a-e
+[2026-01-29 17:38:03] Saved: schedule/today/a-e.json
+[2026-01-29 17:38:03] Saved: schedule/tomorrow/a-e.json
+[2026-01-29 17:38:03] Processing channel: tcm
+[2026-01-29 17:38:03] Saved: schedule/today/tcm.json
+[2026-01-29 17:38:03] Saved: schedule/tomorrow/tcm.json
+[2026-01-29 17:38:03] Processing channel: discovery-theater-hd
+[2026-01-29 17:38:04] Saved: schedule/today/discovery-theater-hd.json
+[2026-01-29 17:38:04] Saved: schedule/tomorrow/discovery-theater-hd.json
+[2026-01-29 17:38:04] Processing channel: telecine-pipoca
+[2026-01-29 17:38:04] Saved: schedule/today/telecine-pipoca.json
+[2026-01-29 17:38:04] Saved: schedule/tomorrow/telecine-pipoca.json
+[2026-01-29 17:38:04] Processing channel: discovery-home-health
+[2026-01-29 17:38:05] Saved: schedule/today/discovery-home-health.json
+[2026-01-29 17:38:05] Saved: schedule/tomorrow/discovery-home-health.json
+[2026-01-29 17:38:05] Processing channel: lifetime-hd
+[2026-01-29 17:38:05] Saved: schedule/today/lifetime-hd.json
+[2026-01-29 17:38:05] Saved: schedule/tomorrow/lifetime-hd.json
+[2026-01-29 17:38:05] Processing channel: play-tv
+[2026-01-29 17:38:06] Saved: schedule/today/play-tv.json
+[2026-01-29 17:38:06] Saved: schedule/tomorrow/play-tv.json
+[2026-01-29 17:38:06] Scraper finished.

@@ -1,50 +1,42 @@
 {
   "channel": "TV Cabo Branco",
-  "date": "27/01/2026",
+  "date": "30/01/2026",
   "schedule": [
     {
-      "show_name": "Jornal da Globo",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_jornal-da-globo_l_m.webp",
-      "show_category": "News",
-      "start_time": "00:10",
-      "end_time": "01:00",
-      "episode_description": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura."
-    },
-    {
       "show_name": "Coração Acelerado",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_corac-o-acelerado_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_corac-o-acelerado_l_m.jpg",
       "show_category": "Soap",
-      "start_time": "01:00",
-      "end_time": "01:45",
+      "start_time": "00:15",
+      "end_time": "01:00",
       "episode_description": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\"."
     },
     {
       "show_name": "Vai que Cola",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_vai-que-cola-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-1_l_m.jpg",
       "show_category": "Comedy",
-      "start_time": "01:45",
-      "end_time": "02:30",
+      "start_time": "01:00",
+      "end_time": "01:30",
       "episode_description": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede."
     },
     {
-      "show_name": "Vai que Cola",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_vai-que-cola-1_l_m.webp",
-      "show_category": "Comedy",
-      "start_time": "02:30",
-      "end_time": "03:15",
-      "episode_description": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede."
+      "show_name": "Sai de Baixo - O Filme",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sai-de-baixo-o-filme-2019_l_m.jpg",
+      "show_category": "Comedy / 2019 /4.8",
+      "start_time": "01:30",
+      "end_time": "02:35",
+      "episode_description": "Caco Antibes sai da prisão e planeja golpe ao lado de Vavá, Cassandra, Ribamar e Magda, a família mais famosa do Largo do Arouche."
     },
     {
-      "show_name": "Vai que Cola",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_vai-que-cola-1_l_m.webp",
-      "show_category": "Comedy",
-      "start_time": "03:15",
+      "show_name": "Cano Serrado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cano-serrado-2018_l_m.jpg",
+      "show_category": "Western / 2018 /5.6",
+      "start_time": "02:35",
       "end_time": "04:00",
-      "episode_description": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede."
+      "episode_description": "Sargento Sebastião está em busca de vingar morte de seu irmão, um caminhoneiro assassinado brutalmente. Ainda abalado, está disposto a tudo para fazer justiça, nem que seja com as próprias mãos. Em sua jornada, porém, dois policiais da cidade acabam sendo confundidos com os suspeitos, se tornando o alvo principal de Sebastião e causando rebuliço na região."
     },
     {
       "show_name": "Hora 1",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_hora-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hora-1_l_m.jpg",
       "show_category": "News",
       "start_time": "04:00",
       "end_time": "06:00",
@@ -52,7 +44,7 @@
     },
     {
       "show_name": "Bom Dia PB",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_bom-dia-pb_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bom-dia-pb_l_m.jpg",
       "show_category": "News",
       "start_time": "06:00",
       "end_time": "08:30",
@@ -60,7 +52,7 @@
     },
     {
       "show_name": "Bom Dia Brasil",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_bom-dia-brasil-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bom-dia-brasil-1_l_m.jpg",
       "show_category": "News",
       "start_time": "08:30",
       "end_time": "09:30",
@@ -68,7 +60,7 @@
     },
     {
       "show_name": "Encontro com Patrícia Poeta",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_encontro-com-patricia-poeta_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_encontro-com-patricia-poeta_l_m.jpg",
       "show_category": "Entertainment",
       "start_time": "09:30",
       "end_time": "10:35",
@@ -76,7 +68,7 @@
     },
     {
       "show_name": "Mais Você",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_mais-voce-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mais-voce-1_l_m.jpg",
       "show_category": "Talk",
       "start_time": "10:35",
       "end_time": "11:45",
@@ -84,7 +76,7 @@
     },
     {
       "show_name": "JPB1",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_jpb1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jpb1_l_m.jpg",
       "show_category": "News",
       "start_time": "11:45",
       "end_time": "13:00",
@@ -92,7 +84,7 @@
     },
     {
       "show_name": "Globo Esporte PB",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_news-globo-esporte-pb_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_news-globo-esporte-pb_l_m.jpg",
       "show_category": "",
       "start_time": "13:00",
       "end_time": "13:25",
@@ -100,7 +92,7 @@
     },
     {
       "show_name": "Jornal Hoje",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_jornal-hoje-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-hoje-1_l_m.jpg",
       "show_category": "News",
       "start_time": "13:25",
       "end_time": "14:45",
@@ -108,23 +100,23 @@
     },
     {
       "show_name": "Terra Nostra - Edição Especial",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_terra-nostra-edic-o-especial_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_terra-nostra-edic-o-especial_l_m.jpg",
       "show_category": "Soap",
       "start_time": "14:45",
       "end_time": "15:25",
       "episode_description": "Uma parte da história da formação da sociedade brasileira do início do século XX é contada a partir do romance de dois jovens italianos, Giuliana e Matteo. Eles se conhecem em 1894 a bordo do navio que transporta imigrantes para trabalhar no Brasil."
     },
     {
-      "show_name": "Peter Pan",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_peter-pan-2015_l_m.webp",
-      "show_category": "Children / 2015 /6.0",
+      "show_name": "Descendentes 3",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_descendentes-3-2019_l_m.jpg",
+      "show_category": "Children / 2019",
       "start_time": "15:25",
       "end_time": "17:05",
-      "episode_description": "Peter é um menino travesso de 12 anos que vive em sombrio orfanato em Londres. Em noite inacreditável, é levado do orfanato a mundo fantástico de piratas, guerreiros e fadas, chamado Terra do Nunca. Lá, vive aventuras incríveis enquanto tenta descobrir segredo de sua mãe, que deixou-o no orfanato há muito tempo. Na companhia da guerreira Princesa Tigrinha e do novo amigo Capitão Gancho, deve derrotar cruel pirata Barba Negra e tornar-se herói da Terra do Nunca."
+      "episode_description": "Mal e seus amigos voltam à Ilha dos Perdidos para recrutarem um novo grupo de descendentes malvados para se unirem a eles na escola Auradon. Quando saem da Ilha, a barreira se rompe, colocando em perigo a segurança de Auradon."
     },
     {
       "show_name": "Vale a Pena Ver de Novo - Rainha da Sucata",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_vale-a-pena-ver-de-novo-rainha-da-sucata_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vale-a-pena-ver-de-novo-rainha-da-sucata_l_m.jpg",
       "show_category": "Soap",
       "start_time": "17:05",
       "end_time": "18:25",
@@ -132,7 +124,7 @@
     },
     {
       "show_name": "Êta Mundo Melhor!",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_eta-mundo-melhor_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_eta-mundo-melhor_l_m.jpg",
       "show_category": "Drama",
       "start_time": "18:25",
       "end_time": "19:10",
@@ -140,7 +132,7 @@
     },
     {
       "show_name": "JPB2",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_jpb2_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jpb2_l_m.jpg",
       "show_category": "News",
       "start_time": "19:10",
       "end_time": "19:40",
@@ -148,7 +140,7 @@
     },
     {
       "show_name": "Coração Acelerado",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_corac-o-acelerado_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_corac-o-acelerado_l_m.jpg",
       "show_category": "Soap",
       "start_time": "19:40",
       "end_time": "20:30",
@@ -156,7 +148,7 @@
     },
     {
       "show_name": "Jornal Nacional",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_jornal-nacional-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-nacional-1_l_m.jpg",
       "show_category": "News",
       "start_time": "20:30",
       "end_time": "21:20",
@@ -164,7 +156,7 @@
     },
     {
       "show_name": "Três Graças",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_tres-gracas_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tres-gracas_l_m.jpg",
       "show_category": "Drama",
       "start_time": "21:20",
       "end_time": "22:25",
@@ -172,17 +164,25 @@
     },
     {
       "show_name": "Big Brother Brasil",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_big-brother-brasil-s26e16_l_m.webp",
-      "show_category": "Temporada 26 Episódio 16",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_big-brother-brasil-s26e19_l_m.jpg",
+      "show_category": "Temporada 26 Episódio 19",
       "start_time": "22:25",
-      "end_time": "23:35",
+      "end_time": "23:00",
       "episode_description": "Um grupo de pessoas topa ficar confinado em uma espaçosa casa cenográfica, sendo vigiado por câmeras 24 horas por dia. Sem receber informações do mundo exterior, eles disputam uma série de provas e dinâmicas em busca de um prêmio milionário."
     },
     {
+      "show_name": "The Castaways - Isolados",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-castaways-isolados_l_m.jpg",
+      "show_category": "Drama",
+      "start_time": "23:00",
+      "end_time": "23:45",
+      "episode_description": "Erin vai para as Ilhas Fiji em busca de respostas quando o cartão de crédito de sua irmã desaparecida é usado em uma ilha remota no Pacífico."
+    },
+    {
       "show_name": "Jornal da Globo",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_jornal-da-globo_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-da-globo_l_m.jpg",
       "show_category": "News",
-      "start_time": "23:35",
+      "start_time": "23:45",
       "end_time": "",
       "episode_description": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura."
     }
