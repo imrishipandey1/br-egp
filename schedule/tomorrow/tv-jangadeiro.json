@@ -3,184 +3,168 @@
   "date": "31/01/2026",
   "schedule": [
     {
-      "show_name": "The Noite com Danilo Gentili",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_the-noite-com-danilo-gentili_l_m.webp",
-      "show_category": "Talk",
-      "start_time": "00:15",
-      "end_time": "01:15",
-      "episode_description": "Talk show com alto índice de piadas por minuto, que, com muita irreverência, aborda os fatos relevantes do dia."
-    },
-    {
       "show_name": "Operação Mesquita",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_operac-o-mesquita_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_operac-o-mesquita_l_m.jpg",
       "show_category": "Entertainment",
-      "start_time": "01:15",
-      "end_time": "01:45",
+      "start_time": "00:30",
+      "end_time": "01:00",
       "episode_description": "Descubra o lado B dos famosos, que mostram o seu cotidiano de forma curiosa e divertida por meio de entrevistas. Acompanhe ainda pessoas comuns que estão prestes a protagonizar um grande momento que pode mudar para sempre as suas vidas."
     },
     {
       "show_name": "SBT PodNight",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_sbt-podnight_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-podnight_l_m.jpg",
       "show_category": "Talk",
-      "start_time": "01:45",
-      "end_time": "02:30",
+      "start_time": "01:00",
+      "end_time": "01:45",
       "episode_description": "Exibição de podcasts brasileiros líderes de audiência nas plataformas digitais, que abordam temas variados, de cultura e entretenimento a questões sociais."
     },
     {
       "show_name": "SBT Notícias",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_sbt-noticias_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-noticias_l_m.jpg",
       "show_category": "News",
-      "start_time": "02:30",
+      "start_time": "01:45",
       "end_time": "04:45",
       "episode_description": "Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia."
     },
     {
       "show_name": "SBT Manhã",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_sbt-manh_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-manh_l_m.jpg",
       "show_category": "News",
       "start_time": "04:45",
       "end_time": "05:00",
       "episode_description": "O jornal traz os primeiros assuntos do dia e faz uma abordagem sobre os últimos acontecimentos."
     },
     {
-      "show_name": "SBT Manhã",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_sbt-manh_l_m.webp",
+      "show_name": "SBT Notícias",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-noticias_l_m.jpg",
       "show_category": "News",
       "start_time": "05:00",
-      "end_time": "05:00",
-      "episode_description": "O jornal traz os primeiros assuntos do dia e faz uma abordagem sobre os últimos acontecimentos."
+      "end_time": "06:00",
+      "episode_description": "Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia."
     },
     {
-      "show_name": "SBT Manhã",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_sbt-manh_l_m.webp",
-      "show_category": "News",
-      "start_time": "05:00",
-      "end_time": "06:45",
-      "episode_description": "O jornal traz os primeiros assuntos do dia e faz uma abordagem sobre os últimos acontecimentos."
-    },
-    {
-      "show_name": "Quem Como Deus?",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_quem-como-deus_l_m.webp",
-      "show_category": "Religious",
-      "start_time": "06:45",
-      "end_time": "07:00",
-      "episode_description": "Acompanhe mensagens de fé e estudos da palavra de nosso Senhor."
-    },
-    {
-      "show_name": "Terço das Santas Chagas",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_terco-das-santas-chagas_l_m.webp",
-      "show_category": "Religious",
-      "start_time": "07:00",
-      "end_time": "07:30",
-      "episode_description": "Acompanhe o programa religioso que apresenta uma oração poderosa contra todo o mal."
-    },
-    {
-      "show_name": "SBT Manhã",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_sbt-manh_l_m.webp",
-      "show_category": "News",
-      "start_time": "07:30",
+      "show_name": "Sábado Animado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabado-animado-1_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "06:00",
       "end_time": "08:30",
-      "episode_description": "O jornal traz os primeiros assuntos do dia e faz uma abordagem sobre os últimos acontecimentos."
+      "episode_description": "O programa apresenta desenhos animados, atrações e jogos divertidos que contam com a participação do público de casa."
     },
     {
-      "show_name": "Primeiro Impacto",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_primeiro-impacto-1997_l_m.webp",
-      "show_category": "News",
+      "show_name": "Vozes do Cooperativismo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vozes-do-cooperativismo_l_m.jpg",
+      "show_category": "Bus./financial",
       "start_time": "08:30",
+      "end_time": "09:00",
+      "episode_description": "Programa divulga histórias do cooperativismo do Estado do Ceará, com entrevistas, debates e casos de sucesso do setor que movimenta sete bilhões de reais por ano."
+    },
+    {
+      "show_name": "Inovação e Negócios",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_inovac-o-e-negocios_l_m.jpg",
+      "show_category": "Bus./financial",
+      "start_time": "09:00",
+      "end_time": "09:30",
+      "episode_description": "O economista Daniel Demétrio recebe convidados e discute tudo sobre inovação e negócios."
+    },
+    {
+      "show_name": "Sábado Animado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabado-animado-1_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "09:30",
       "end_time": "11:00",
-      "episode_description": "Acompanhe as reportagens que trazem informações do dia a dia. Saiba o que é relevante para o cenário cotidiano por meio de análises e opiniões de colunistas."
+      "episode_description": "O programa apresenta desenhos animados, atrações e jogos divertidos que contam com a participação do público de casa."
+    },
+    {
+      "show_name": "SBT Notícias - 1ª Edição",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-noticias-1-edic-o_l_m.jpg",
+      "show_category": "News",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "episode_description": "Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia."
     },
     {
       "show_name": "Loteria dos Sonhos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_loteria-dos-sonhos_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_loteria-dos-sonhos_l_m.jpg",
       "show_category": "Gaming",
-      "start_time": "11:00",
-      "end_time": "11:05",
+      "start_time": "12:00",
+      "end_time": "12:05",
       "episode_description": "Acompanhe os resultados da Loteria Estadual do Ceará."
     },
     {
       "show_name": "Futebolês",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_sports-talk-futeboles_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sports-talk-futeboles_l_m.jpg",
       "show_category": "",
-      "start_time": "11:05",
-      "end_time": "11:30",
+      "start_time": "12:05",
+      "end_time": "12:35",
       "episode_description": "Acompanhe a melhor cobertura sobre a Copa do Nordeste e a Copa do Mundo de futebol de 2018."
     },
     {
-      "show_name": "Barra",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_barra_l_m.webp",
-      "show_category": "Crime",
-      "start_time": "11:30",
-      "end_time": "13:00",
-      "episode_description": "Programa jornalístico-policial que tem como proposta divulgar os acontecimentos da comunidade. Além de notícias policiais, o programa oferece serviços de utilidade pública e repercute as queixas da população."
+      "show_name": "Alto Astral",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alto-astral-1_l_m.jpg",
+      "show_category": "Entertainment",
+      "start_time": "12:35",
+      "end_time": "13:05",
+      "episode_description": "A apresentadora Teresa D'Ávila conversa sobre diferentes temas no programa."
     },
     {
       "show_name": "Todo Mundo Ama",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_todo-mundo-ama_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_todo-mundo-ama_l_m.jpg",
       "show_category": "Variety",
-      "start_time": "13:00",
+      "start_time": "13:05",
       "end_time": "13:55",
       "episode_description": "O programa traz personagens curiosos, dicas de saúde e beleza, comunidade, famosos e boas histórias."
     },
     {
       "show_name": "Loteria dos Sonhos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_loteria-dos-sonhos_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_loteria-dos-sonhos_l_m.jpg",
       "show_category": "Gaming",
       "start_time": "13:55",
       "end_time": "14:00",
       "episode_description": "Acompanhe os resultados da Loteria Estadual do Ceará."
     },
     {
-      "show_name": "Esmeralda - Edição Especial",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_esmeralda-edic-o-especial_l_m.webp",
-      "show_category": "Soap",
-      "start_time": "14:00",
-      "end_time": "14:30",
-      "episode_description": "Uma tragédia obriga uma parteira a trocar dois bebês no dia de seu nascimento. Esmeralda é uma jovem cega que cresceu no campo, enquanto José se tornou um rapaz culto de uma família rica. O destino faz com que os dois se apaixonem."
-    },
-    {
-      "show_name": "Rubi",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_rubi_l_m.webp",
-      "show_category": "Soap",
-      "start_time": "14:30",
-      "end_time": "15:30",
-      "episode_description": "Rubi é uma jovem universitária que vive na pobreza com mãe e irmã. Obcecada por dinheiro desde a morte do pai, decide usar sua beleza para conquistar um homem rico e mudar de vida."
-    },
-    {
-      "show_name": "Fofocalizando",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_fofocalizando_l_m.webp",
-      "show_category": "Newsmagazine",
-      "start_time": "15:30",
-      "end_time": "16:45",
-      "episode_description": "Revista eletrônica com informação, humor e as principais fofocas do mundo dos famosos."
-    },
-    {
-      "show_name": "Casos de Família",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_casos-de-familia-1_l_m.webp",
-      "show_category": "Talk",
-      "start_time": "16:45",
-      "end_time": "17:45",
-      "episode_description": "Conflitos que acontecem entre parentes, vizinhos e até no ambiente de trabalho são abordados e resolvidos diante de uma plateia, com uma psicóloga como supervisora."
-    },
-    {
-      "show_name": "Coração Indomável",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_corac-o-indomavel-1_l_m.webp",
-      "show_category": "Soap",
-      "start_time": "17:45",
-      "end_time": "18:30",
-      "episode_description": "A novela conta a história da pobre Maricruz que, após ter sido abandonada pelo marido, decide se vingar daqueles que a humilharam. Ela descobre ser filha de um homem rico, tornando-se uma mulher da alta sociedade."
-    },
-    {
-      "show_name": "Jornal Jangadeiro - 2ª Edição",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_jornal-jangadeiro-2-edic-o_l_m.webp",
+      "show_name": "SBT Notícias - 1ª Edição",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-noticias-1-edic-o_l_m.jpg",
       "show_category": "News",
-      "start_time": "18:30",
+      "start_time": "14:00",
+      "end_time": "15:00",
+      "episode_description": "Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia."
+    },
+    {
+      "show_name": "Eita Lucas!",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_eita-lucas_l_m.jpg",
+      "show_category": "Travel",
+      "start_time": "15:00",
+      "end_time": "16:00",
+      "episode_description": "Lucas Guimarães viaja por todo o Brasil conhecendo pessoas e contando suas histórias de vida e distribuindo prêmios por onde passa. Ele também bate um papo com celebridades em uma grande e divertida mistura."
+    },
+    {
+      "show_name": "Enviado do Céu",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_enviado-do-ceu-2016_l_m.jpg",
+      "show_category": "Comedy / 2016",
+      "start_time": "16:00",
+      "end_time": "18:00",
+      "episode_description": "O pastor Randy Michaels é enviado para uma missão em uma pequena cidade rural do Arizona. Lá, ele e sua família precisam se adaptar à mudança de ares e aos costumes de sua nova vizinhança."
+    },
+    {
+      "show_name": "SBT Notícias - 2ª Edição",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-noticias-2-edic-o_l_m.jpg",
+      "show_category": "News",
+      "start_time": "18:00",
+      "end_time": "19:20",
+      "episode_description": "Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia."
+    },
+    {
+      "show_name": "Entretantos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_entretantos_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "19:20",
       "end_time": "19:40",
-      "episode_description": "Acompanhe os principais fatos do dia com matérias, reportagens especiais e denúncias."
+      "episode_description": "Entretantos apresenta entrevistas, opiniões e informação sobre política e cultura no Ceará. O programa conta com apresentadores alternados: Nonato Albuquerque e Iury Costa abordam política e atualidades, enquanto Bosco Barroso recebe personalidades."
     },
     {
       "show_name": "Loteria dos Sonhos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_loteria-dos-sonhos_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_loteria-dos-sonhos_l_m.jpg",
       "show_category": "Gaming",
       "start_time": "19:40",
       "end_time": "19:45",
@@ -188,35 +172,35 @@
     },
     {
       "show_name": "SBT Brasil",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_sbt-brasil_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-brasil_l_m.jpg",
       "show_category": "News",
       "start_time": "19:45",
-      "end_time": "21:00",
+      "end_time": "20:45",
       "episode_description": "As principais notícias do Brasil e do mundo com análise profunda dos fatos."
     },
     {
       "show_name": "Presente de Amor",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_presente-de-amor_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_presente-de-amor_l_m.jpg",
       "show_category": "Soap",
-      "start_time": "21:00",
-      "end_time": "22:00",
+      "start_time": "20:45",
+      "end_time": "21:30",
       "episode_description": "Isabella é uma mulher cujo maior sonho é ser mãe. Após a morte repentina do marido, ela conhece Eugenio, um homem generoso. Suas vidas tomam um rumo dramático quando um ser angelical aparece, dando-lhes a oportunidade de se tornarem pais."
     },
     {
-      "show_name": "Verão Maior Paraná 2026",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_ver-o-maior-parana-2026_l_m.webp",
-      "show_category": "Entertainment",
-      "start_time": "22:00",
-      "end_time": "23:30",
-      "episode_description": "O governo do Paraná promove diversos shows gratuitos nas praias de Matinhos e Pontal do Paraná. Acompanhe de perto tudo o que acontece nos palcos e nos bastidores, com muita informação e alto astral."
+      "show_name": "Esquadrão da Moda",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_esquadr-o-da-moda_l_m.jpg",
+      "show_category": "Fashion",
+      "start_time": "21:30",
+      "end_time": "22:30",
+      "episode_description": "Mulheres consideradas sem estilo são indicadas por amigos e familiares para participar do programa. Uma equipe de especialistas ensina como se vestir bem e, principalmente, o que não usar."
     },
     {
-      "show_name": "The Noite com Danilo Gentili",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-jangadeiro/tomorrow/br_the-noite-com-danilo-gentili_l_m.webp",
-      "show_category": "Talk",
-      "start_time": "23:30",
+      "show_name": "Sabadou com Virginia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabadou-com-virginia_l_m.jpg",
+      "show_category": "Variety",
+      "start_time": "22:30",
       "end_time": "",
-      "episode_description": "Talk show com alto índice de piadas por minuto, que, com muita irreverência, aborda os fatos relevantes do dia."
+      "episode_description": "Convidados das mais diversas áreas chegam para encontro repletos de games, musicais, boas histórias e muita interação com a plateia e o público de casa."
     }
   ]
 }

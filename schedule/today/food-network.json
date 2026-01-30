@@ -4,443 +4,411 @@
   "schedule": [
     {
       "show_name": "Giada em Casa",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_giada-em-casa-s08e57-steak-house-em-casa_l_m.webp",
-      "show_category": "Temporada 8 Episódio 57 - Steak House em Casa",
-      "start_time": "00:05",
-      "end_time": "00:30",
-      "episode_description": "Giada vai ao Belcampo Meat Company, no Grand Central Market de Los Angeles, para aprender sobre cortes de carne. Após a visita, ela faz três pratos: filé com salmoriglio, filé de raquete com pesto de pimentão e fraldinha com bruschetta asiática."
-    },
-    {
-      "show_name": "Receitas Caseiras da Valerie",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_receitas-caseiras-da-valerie-s12e11-gratid-o-diaria_l_m.webp",
-      "show_category": "Temporada 12 Episódio 11 - Gratidão Diária",
-      "start_time": "00:30",
-      "end_time": "00:55",
-      "episode_description": "Valerie Bertinelli mostra como preparar uma refeição de verão para sua amiga e âncora do \"Today Show\", Hoda Kotb. O cardápio inclui fraldinha com limão, molho de ervas com lima-da-pérsia, e berinjela defumada com tomate."
-    },
-    {
-      "show_name": "Receitas Caseiras da Valerie",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_receitas-caseiras-da-valerie-s12e12-confortos-do-lar_l_m.webp",
-      "show_category": "Temporada 12 Episódio 12 - Confortos do Lar",
-      "start_time": "00:55",
-      "end_time": "01:17",
-      "episode_description": "Valerie Bertinelli recorda suas receitas favoritas para se lembrar de todos os lugares onde morou. Ela faz camarões grelhados com tempero cajun, siris-azuis com manteiga picante e sanduíches com avelã, aveia e passas."
-    },
-    {
-      "show_name": "Refeição em 30 Minutos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_refeic-o-em-30-minutos-s26e01-o-melhor-do-bistro_l_m.webp",
-      "show_category": "Temporada 26 Episódio 1 - O Melhor do Bistrô",
-      "start_time": "01:17",
-      "end_time": "01:43",
-      "episode_description": "Rachael prepara croûtons que na verdade são sanduíches croque monsieur no estilo do sanduíche Monte Cristo, além de uma salada de alface frisée e vinagrete de chalotas, e o coquetel favorito de sua mãe."
-    },
-    {
-      "show_name": "Refeição em 30 Minutos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_refeic-o-em-30-minutos-s26e24-empad-o-vegetariano_l_m.webp",
-      "show_category": "Temporada 26 Episódio 24 - Empadão Vegetariano",
-      "start_time": "01:43",
-      "end_time": "02:04",
-      "episode_description": "Rachael Ray prepara uma refeição vegetariana: uma versão do prato de carne com batatas usando apenas hortaliças e batatas. Empadão sem carne; batatas com cobertura de queijo e raiz-forte."
-    },
-    {
-      "show_name": "Cozinhando com Bobby e Damaris",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_cozinhando-com-bobby-e-damaris-s01e08-sempre-e-hora-de-tacos_l_m.webp",
-      "show_category": "Temporada 1 Episódio 8 - Sempre É Hora de Tacos",
-      "start_time": "02:04",
-      "end_time": "02:24",
-      "episode_description": "Para Bobby Flay e Damaris Phillips, todo dia é dia de tacos. Depois de preparar as próprias tortilhas, Bobby cria deliciosos tacos com ovos à mexicana, mel e chipotle. Já Damaris mostra todo seu talento com seu taco de feijão apimentado."
-    },
-    {
-      "show_name": "Cozinhando com Bobby e Damaris",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_cozinhando-com-bobby-e-damaris-s01e09_l_m.webp",
-      "show_category": "Temporada 1 Episódio 9 - Alimentação Saudável",
-      "start_time": "02:24",
-      "end_time": "02:45",
-      "episode_description": "Bobby e Damaris compartilham suas dicas para comer bem enquanto saboreiam um refrigerante de nectarina com alecrim caseiro; farinha de aveia com chocolate escuro; garoupa no vapor com molho de martíni; molho agridoce e cuscuz crocante."
-    },
-    {
-      "show_name": "Sabor na Brasa",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_sabor-na-brasa-s04e06_l_m.webp",
-      "show_category": "Temporada 4 Episódio 6 - Banquetes no Quintal",
-      "start_time": "02:45",
-      "end_time": "03:07",
-      "episode_description": "Roger visita o sul da Califórnia para participar de dois banquetes incríveis ao ar livre."
-    },
-    {
-      "show_name": "Sabor na Brasa",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_sabor-na-brasa-s04e07_l_m.webp",
-      "show_category": "Temporada 4 Episódio 7 - Perto do Fogo",
-      "start_time": "03:07",
-      "end_time": "03:30",
-      "episode_description": "Nada chama mais a atenção de Roger que uma grande fogueira acesa."
-    },
-    {
-      "show_name": "Lanchonetes Clássicas com Guy Fieri",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_lanchonetes-classicas-com-guy-fieri-s34e04-criac-es-originais_l_m.webp",
-      "show_category": "Temporada 34 Episódio 4 - Criações Originais",
-      "start_time": "03:30",
-      "end_time": "03:50",
-      "episode_description": "Em Burlington, Vermont, Guy Fieri visita um local que serve panquecas de macarrão com queijo; em Richmond, Virgínia, um restaurante caseiro capricha nos biscoitos, e outro em Ottawa, Canadá, serve pizza de espaguete."
-    },
-    {
-      "show_name": "Lanchonetes Clássicas com Guy Fieri",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_lanchonetes-classicas-com-guy-fieri-s35e08-sabores-caseiros_l_m.webp",
-      "show_category": "Temporada 35 Episódio 8 - Sabores Caseiros",
-      "start_time": "03:50",
-      "end_time": "04:11",
-      "episode_description": "Quatro chefs enviam a Guy os ingredientes de seus novos pratos. Para o cardápio, Guy prepara tamales de frango do Arizona, panquecas de paella do Alabama, almôndegas de Las Vegas e o famoso sanduíche Philly Cheesesteak."
-    },
-    {
-      "show_name": "Lanchonetes Clássicas com Guy Fieri",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_lanchonetes-classicas-com-guy-fieri-s35e09-entrega-residencial_l_m.webp",
-      "show_category": "Temporada 35 Episódio 9 - Entrega Residencial",
-      "start_time": "04:11",
-      "end_time": "04:31",
-      "episode_description": "Quatro chefs se comunicam com Guy Fieri por videochamada e mostram como preparar seus pratos mais vendidos. O cardápio inclui porco de Nova Hampshire, frango à parmegiana da Califórnia, pizza de Minneapolis e atum do Havaí."
-    },
-    {
-      "show_name": "Comidas de Praia com Katie Lee",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_comidas-de-praia-com-katie-lee-s02e04-prazeres-doces_l_m.webp",
-      "show_category": "Temporada 2 Episódio 4 - Prazeres Doces",
-      "start_time": "04:31",
-      "end_time": "04:55",
-      "episode_description": "Katie prova donuts no Arizona e pães doces na Carolina do Sul."
-    },
-    {
-      "show_name": "Comidas de Praia com Katie Lee",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_comidas-de-praia-com-katie-lee-s02e07-fugindo-do-tradicional_l_m.webp",
-      "show_category": "Temporada 2 Episódio 7 - Fugindo do Tradicional",
-      "start_time": "04:55",
-      "end_time": "05:19",
-      "episode_description": "Katie procura por pratos e restaurantes na Carolina do Sul que estão fora dos caminhos conhecidos."
-    },
-    {
-      "show_name": "Comidas de Praia com Katie Lee",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_comidas-de-praia-com-katie-lee-s02e08-queijo_l_m.webp",
-      "show_category": "Temporada 2 Episódio 8 - Queijo!",
-      "start_time": "05:19",
-      "end_time": "05:39",
-      "episode_description": "Katie Lee está comemorando as comidas de queijo mais derretidas. Katie se encontra com a amiga e apresentadora Marcela Valladolid para comer tacos em San Diego. Mas não tem tortilhas, só pedaços de queijo. San Diego também tem o Chorizo Fundido, uma comida épica e picante."
-    },
-    {
-      "show_name": "Comidas de Praia com Katie Lee",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_comidas-de-praia-com-katie-lee-s03e01_l_m.webp",
-      "show_category": "Temporada 3 Episódio 1 - Mississipi - Sabores da Costa do Golfo",
-      "start_time": "05:39",
-      "end_time": "06:00",
-      "episode_description": "Katie Lee está em uma missão para encontrar a melhor comida de praia ao longo da costa do Golfo do Mississippi; a Biloxi Bay Bridge conecta a cidade histórica de praia de Biloxi a Ocean Springs, uma comunidade artística que está se tornando um ponto badalado de restaurantes diversificados e ecléticos."
-    },
-    {
-      "show_name": "Duelo com Bobby Flay",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_duelo-com-bobby-flay-s04e09-duelo-de-tit-s_l_m.webp",
-      "show_category": "Temporada 4 Episódio 9 - Duelo de Titãs",
-      "start_time": "06:00",
-      "end_time": "06:24",
-      "episode_description": "Tamron Hall e Ted Allen querem derrotar Bobby Flay com ajuda de dois chefs talentosos. A superdotada Katherine Humphus entra em uma disputa culinária com o pé no chão John Wassil."
-    },
-    {
-      "show_name": "Duelo com Bobby Flay",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_duelo-com-bobby-flay-s04e10-um-domingo-qualquer_l_m.webp",
-      "show_category": "Temporada 4 Episódio 10 - Um Domingo Qualquer",
-      "start_time": "06:24",
-      "end_time": "06:45",
-      "episode_description": "Os chefs Geoffrey Zakarian e Chris Santos têm um só objetivo: dar orgulho às suas mães. A veterana dos temperos Kathy Cary batalha com a aclamada chef Shanna O'Hea. Elas querem ver quem pode representar todas as mães na luta contra Bobby Flay."
-    },
-    {
-      "show_name": "Chopped - Júnior",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_chopped-junior-s02e11-o-chiado-do-ver-o_l_m.webp",
-      "show_category": "Temporada 2 Episódio 11 - O Chiado do Verão",
-      "start_time": "06:45",
-      "end_time": "07:30",
-      "episode_description": "Não é hora de escola, mas é hora de tirar boas notas ao cozinhar para o jurados do dia, que são o chef Roble Ali, a atriz Jennie Garth e o chef Marc Murphy. Cookies engraçados e uma carne magra fazem parte do enigma da cesta de aperitivos. Bacon queimado se torna um problema na rodada dos pratos principais. Depois, bolos no espeto habilmente decorados não são os ingredientes mais difíceis numa cesta de sobremesas, que também conta com um lanchinho crocante e chocante."
-    },
-    {
-      "show_name": "Food Truck - A Grande Corrida",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_food-truck-a-grande-corrida-s05e05-vendas-expressivas-em-st-louis_l_m.webp",
-      "show_category": "Temporada 5 Episódio 5 - Vendas Expressivas em St. Louis",
-      "start_time": "07:30",
-      "end_time": "08:12",
-      "episode_description": "As quatro equipes restantes chegam a St. Louis e Tyler mostra a eles que o melhor investimento é um produto de qualidade. Na Parada nos Food Trucks, a equipe vencedora dobrará o valor das vendas."
-    },
-    {
-      "show_name": "Lanchonetes Clássicas com Guy Fieri",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_lanchonetes-classicas-com-guy-fieri-s35e11-jantar-e-sobremesa_l_m.webp",
-      "show_category": "Temporada 35 Episódio 11 - Jantar e Sobremesa",
-      "start_time": "08:12",
-      "end_time": "08:36",
-      "episode_description": "Guy Fieri e seu filho, Hunter, conversam por vídeo com quatro chefs para preparar algumas receitas. No cardápio estão massa de Boston, torta napolitana de Nova York, enchilladas de Cleveland e um bolo de funil de sobremesa."
-    },
-    {
-      "show_name": "Lanchonetes Clássicas com Guy Fieri",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_lanchonetes-classicas-com-guy-fieri-s35e12-receitas-incriveis_l_m.webp",
-      "show_category": "Temporada 35 Episódio 12 - Receitas Incríveis",
-      "start_time": "08:36",
-      "end_time": "08:57",
-      "episode_description": "Guy Fieri conversa com quatro ex-participantes. Suas receitas incluem um waffle excêntrico de Siracusa, macarrão com queijo gourmet de Cleveland e carne de porco de Charlotte, Carolina do Norte."
-    },
-    {
-      "show_name": "Lanchonetes Clássicas com Guy Fieri",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_lanchonetes-classicas-com-guy-fieri-s35e13-fus-o-de-delicias_l_m.webp",
-      "show_category": "Temporada 35 Episódio 13 - Fusão de Delícias",
-      "start_time": "08:57",
-      "end_time": "09:20",
-      "episode_description": "Guy Fieri conversa com quatro chefs que enviam ingredientes para receitas incríveis. O menu inclui cachorro-quente da Virgínia Ocidental e um churrasco que funde ingredientes da Ásia e de Miami."
-    },
-    {
-      "show_name": "Lanchonetes Clássicas com Guy Fieri",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_lanchonetes-classicas-com-guy-fieri-s36e01-receitas-ousadas_l_m.webp",
-      "show_category": "Temporada 36 Episódio 1 - Receitas Ousadas",
-      "start_time": "09:20",
-      "end_time": "09:41",
-      "episode_description": "Quatro chefs enviam a Guy Fieri os ingredientes de suas receitas mais explosivas, incluindo uma mistura sino-mexicana de Phoenix, uma fritada de jacaré da Flórida, e um bolo de carne de uma praia da Califórnia."
-    },
-    {
-      "show_name": "Na Rota do Sabor",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_na-rota-do-sabor-s09e01-tacolanche_l_m.webp",
-      "show_category": "Temporada 9 Episódio 1 - Tacolanche!",
-      "start_time": "09:41",
-      "end_time": "10:27",
-      "episode_description": "Os tacos tomam seu lugar de direito ao lado dos sanduíches como o modo mais conveniente e saboroso de levar uma comida excepcional à uma barriga faminta. O Food Paradise viaja pelos 50 estados dos EUA para levar as melhores tortilhas."
-    },
-    {
-      "show_name": "Cozinhando com Bobby e Damaris",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_cozinhando-com-bobby-e-damaris-s01e10_l_m.webp",
-      "show_category": "Temporada 1 Episódio 10 - Ação de Graças para Dois",
-      "start_time": "10:27",
-      "end_time": "10:49",
-      "episode_description": "Bobby e Damaris preparam alguns coquetéis de mirtilo e relembram suas histórias favoritas do Dia de Ação de Graças. Eles fazem também peito de peru frito e colcannon ao estilo Yukon com repolho refogado e manteiga de bacon."
-    },
-    {
-      "show_name": "Cozinhando com Bobby e Damaris",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_cozinhando-com-bobby-e-damaris-s01e11-coqueteis_l_m.webp",
-      "show_category": "Temporada 1 Episódio 11 - Coquetéis",
-      "start_time": "10:49",
-      "end_time": "11:09",
-      "episode_description": "Bobby e Damaris brindam com coquetéis feitos com ingredientes variados."
-    },
-    {
-      "show_name": "Sabores da América com Michael Symon",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_sabores-da-america-com-michael-symon_l_m.webp",
-      "show_category": "Cooking",
-      "start_time": "11:09",
-      "end_time": "11:31",
-      "episode_description": "Michael Symon começa em sua cidade natal, Cleveland, onde um lugar que ele frequentava na infância combina diversos tipos de doces para criar um sanduíche de sobremesa incrível. Depois, no Brooklyn, ele conhece um amante de churrasco que mistura comida tradicional judaica com batatas fritas tradicionais do Canadá. Por fim, uma churrascaria em Nashville está incrementando o cremoso macarrão com queijo com um suculento porco desfiado para o jantar."
-    },
-    {
-      "show_name": "Sabores da América com Michael Symon",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_sabores-da-america-com-michael-symon-s06e01-carne-suina_l_m.webp",
-      "show_category": "Temporada 6 Episódio 1 - Carne Suína",
-      "start_time": "11:31",
-      "end_time": "11:53",
-      "episode_description": "Em Las Vegas, Michael Symon encara uma torre de costelas suculentas e um trio composto por peito bovino, carne de porco e linguiça. No Kansas, ele prova um hambúrguer com barriga de porco, bacon e prosciutto."
-    },
-    {
-      "show_name": "Sabor na Brasa",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_sabor-na-brasa-s04e09_l_m.webp",
-      "show_category": "Temporada 4 Episódio 9 - Vinhos e Comida Boa",
-      "start_time": "11:53",
-      "end_time": "12:15",
-      "episode_description": "Veja o preparo de um assado de porco na grelha com cebola e batata doce."
-    },
-    {
-      "show_name": "Sabor na Brasa",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_sabor-na-brasa-s04e08-celebrac-o-sagrada_l_m.webp",
-      "show_category": "Temporada 4 Episódio 8 - Celebração Sagrada",
-      "start_time": "12:15",
-      "end_time": "12:36",
-      "episode_description": "Roger participa da comemoração do centenário de um piquenique organizado por uma igreja no Kentucky."
-    },
-    {
-      "show_name": "Comidas de Praia com Katie Lee",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_comidas-de-praia-com-katie-lee-s02e04-prazeres-doces_l_m.webp",
-      "show_category": "Temporada 2 Episódio 4 - Prazeres Doces",
-      "start_time": "12:36",
-      "end_time": "12:56",
-      "episode_description": "Katie prova donuts no Arizona e pães doces na Carolina do Sul."
-    },
-    {
-      "show_name": "Comidas de Praia com Katie Lee",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_comidas-de-praia-com-katie-lee-s02e07-fugindo-do-tradicional_l_m.webp",
-      "show_category": "Temporada 2 Episódio 7 - Fugindo do Tradicional",
-      "start_time": "12:56",
-      "end_time": "13:16",
-      "episode_description": "Katie procura por pratos e restaurantes na Carolina do Sul que estão fora dos caminhos conhecidos."
-    },
-    {
-      "show_name": "Comidas de Praia com Katie Lee",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_comidas-de-praia-com-katie-lee-s02e08-queijo_l_m.webp",
-      "show_category": "Temporada 2 Episódio 8 - Queijo!",
-      "start_time": "13:16",
-      "end_time": "13:39",
-      "episode_description": "Katie Lee está comemorando as comidas de queijo mais derretidas. Katie se encontra com a amiga e apresentadora Marcela Valladolid para comer tacos em San Diego. Mas não tem tortilhas, só pedaços de queijo. San Diego também tem o Chorizo Fundido, uma comida épica e picante."
-    },
-    {
-      "show_name": "Comidas de Praia com Katie Lee",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_comidas-de-praia-com-katie-lee-s03e01_l_m.webp",
-      "show_category": "Temporada 3 Episódio 1 - Mississipi - Sabores da Costa do Golfo",
-      "start_time": "13:39",
-      "end_time": "14:01",
-      "episode_description": "Katie Lee está em uma missão para encontrar a melhor comida de praia ao longo da costa do Golfo do Mississippi; a Biloxi Bay Bridge conecta a cidade histórica de praia de Biloxi a Ocean Springs, uma comunidade artística que está se tornando um ponto badalado de restaurantes diversificados e ecléticos."
-    },
-    {
-      "show_name": "Kitchen Boss",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_kitchen-boss-s02e16-kitchen-boss_l_m.webp",
-      "show_category": "Temporada 2 Episódio 16 - Cozinhando para uma Multidão",
-      "start_time": "14:01",
-      "end_time": "14:26",
-      "episode_description": "Buddy recebe o primo Vinny e a cunhada Daniella para um jantar que inclui salada de massa, grão-de-bico e azeitonas, ensopado de linguiça com pão de alho e pudim de chocolate amargo."
-    },
-    {
-      "show_name": "Kitchen Boss",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_kitchen-boss-s02e09-kitchen-boss_l_m.webp",
-      "show_category": "Temporada 2 Episódio 9 - Fresquinho para a Entrega",
-      "start_time": "14:26",
-      "end_time": "14:50",
-      "episode_description": "Buddy prepara uma deliciosa refeição de pratos chineses que normalmente pedimos para entregar em casa: camarões com sal e pimenta, guioza de porco com molho, carne com bok choi - uma espécie de couve chinesa - e arroz frito ao estilo de Buddy."
-    },
-    {
-      "show_name": "Cake Boss",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_cake-boss-1_l_m.webp",
-      "show_category": "Reality",
-      "start_time": "14:50",
-      "end_time": "15:14",
-      "episode_description": "Para comemorar o Natal, Buddy cria um bolo inspirado em \"O Quebra-Nozes\" para uma companhia de balé que está apresentando a clássica história natalina."
-    },
-    {
-      "show_name": "Cake Boss",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_cake-boss-1_l_m.webp",
-      "show_category": "Reality",
-      "start_time": "15:14",
-      "end_time": "15:38",
-      "episode_description": "Para comemorar o Natal, Buddy cria um bolo inspirado em \"O Quebra-Nozes\" para uma companhia de balé que está apresentando a clássica história natalina."
-    },
-    {
-      "show_name": "Pequenos Confeiteiros",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_pequenos-confeiteiros-s06e03_l_m.webp",
-      "show_category": "Temporada 6 Episódio 3 - Brownies Contra Blondies",
-      "start_time": "15:38",
-      "end_time": "16:24",
-      "episode_description": "Os 10 jovens padeiros são divididos em equipes para o desafio \"brownies versus blondies\"."
-    },
-    {
-      "show_name": "A Guerra dos Bolos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_a-guerra-dos-bolos-s02e10-willy-wonka_l_m.webp",
-      "show_category": "Temporada 2 Episódio 10 - Willy Wonka",
-      "start_time": "16:24",
-      "end_time": "17:10",
-      "episode_description": "É o aniversário do clássico do cinema \"A Fantástica Fábrica de Chocolate\" e os confeiteiros disputam para quem vai levar o bolo da grande festa. Além disso, o ator Paris Themmen é o jurado convidado do dia."
-    },
-    {
-      "show_name": "A Guerra dos Cupcakes - Campeões dos Cupcakes",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_a-guerra-dos-cupcakes-campe-es-dos-cupcakes-s01e03-glee_l_m.webp",
-      "show_category": "Temporada 1 Episódio 3 - Glee",
-      "start_time": "17:10",
-      "end_time": "17:55",
-      "episode_description": "Os participantes vão ter que se superar. Isso porque o que está em jogo é a chance de servir seus cupcakes especiais em uma festa para toda a equipe de produção e o elenco de Glee, um dos programas mais famosos da TV americana."
-    },
-    {
-      "show_name": "A Guerra dos Cupcakes - Campeões dos Cupcakes",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_a-guerra-dos-cupcakes-campe-es-dos-cupcakes-s01e05-a-grande-final_l_m.webp",
-      "show_category": "Temporada 1 Episódio 5 - A Grande Final",
-      "start_time": "17:55",
-      "end_time": "18:39",
-      "episode_description": "Quatro talentosos confeiteiros fazem de tudo para ganhar o título de campeão e um prêmio de 50 mil dólares. O vencedor irá servir deliciosos cupcakes na festa de lançamento de um aplicativo em Nova York."
-    },
-    {
-      "show_name": "Show de Cozinha",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_show-de-cozinha-s17e13-frutos-do-mar_l_m.webp",
-      "show_category": "Temporada 17 Episódio 13 - Frutos do Mar",
-      "start_time": "18:39",
-      "end_time": "19:21",
-      "episode_description": "Aprenda a fazer os melhores pratos de verão com frutos do mar; Sunny Anderson prepara mexilhões com cinco ingredientes e fritas com alho e salsa; Geoffrey Zakarian faz um espaguete de caranguejo com abobrinha e manjericão."
-    },
-    {
-      "show_name": "Show de Cozinha",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_show-de-cozinha-s18e01-jantar-de-ver-o-dos-sonhos_l_m.webp",
-      "show_category": "Temporada 18 Episódio 1 - Jantar de Verão dos Sonhos",
-      "start_time": "19:21",
-      "end_time": "20:02",
-      "episode_description": "Saiba como preparar um prato perfeito de sabores do verão, como panzanella de pão de milho e torta de lima-da-pérsia. Justin Chapple também prepara purê de batata com ervas e azeite."
-    },
-    {
-      "show_name": "Duelo com Bobby Flay",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_duelo-com-bobby-flay-s02e01-duelo-de-gigantes_l_m.webp",
-      "show_category": "Temporada 2 Episódio 1 - Batalha de Gigantes",
-      "start_time": "20:02",
-      "end_time": "20:25",
-      "episode_description": "O rei da garra de caranguejo, Andy Saint-Ange, enfrenta o açougueiro tatuado Bruce Kalman na batalha de gigantes. Os juízes do Chopped Scott Conant e Geoffrey Zakarian decidirão qual chef terá a chance de derrotar Bobby."
-    },
-    {
-      "show_name": "Duelo com Bobby Flay",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_duelo-com-bobby-flay-s02e03-tudo-ou-nada_l_m.webp",
-      "show_category": "Temporada 2 Episódio 3 - Tragam o Bacon",
-      "start_time": "20:25",
-      "end_time": "20:48",
-      "episode_description": "Sunny Anderson, do Food Network, e o chef jurado do Cutthroat Kitchen Jet Tila provocam barulho enquanto conspiram para derrotar Bobby Flay. Eles trazem dois chefs da Nova Inglaterra: o chef fusion Matthew Britt e o rebelde Tyler Anderson."
-    },
-    {
-      "show_name": "Superbolos - A Competição",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_superbolos-a-competic-o-s01e04-predadores-do-oceano_l_m.webp",
-      "show_category": "Temporada 1 Episódio 4 - Predadores do Oceano",
-      "start_time": "20:48",
-      "end_time": "21:32",
-      "episode_description": "Duff Goldman e sua equipe enfrentam o time de Henderson Gonzalez para criar bolos de predadores marinhos com um elemento flutuante; os jurados Amaury Guichon, Sherry Yard e o convidado especial Paul de Gelder ficam todos impressionados."
-    },
-    {
-      "show_name": "Fica, Vai Ter Duff!",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_fica-vai-ter-duff-s02e01-bolo-jurassico_l_m.webp",
-      "show_category": "Temporada 2 Episódio 1 - Bolo Jurássico",
-      "start_time": "21:32",
-      "end_time": "21:54",
-      "episode_description": "Duff se une a uma ONG para criar um bolo com tema de mundo jurássico, incluindo um vulcão com lava e fumaça para duas crianças e suas famílias na Universal Studios."
-    },
-    {
-      "show_name": "Fica, Vai Ter Duff!",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_fica-vai-ter-duff-s02e03-que-o-bolo-esteja-com-voce_l_m.webp",
-      "show_category": "Temporada 2 Episódio 3 - Que o Bolo Esteja com Você",
-      "start_time": "21:54",
-      "end_time": "22:16",
-      "episode_description": "Duff e seus confeiteiros criam um bolo robótico para uma competição com o tema Star Wars. Enquanto isso, a confeitaria prepara mais um bolo para uma batalha de churrasco entre os bombeiros e a polícia de Los Angeles."
-    },
-    {
-      "show_name": "Um Dia de Chef",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_um-dia-de-chef-s03e05-polvo-com-batatas-ao-murro_l_m.webp",
-      "show_category": "Temporada 3 Episódio 5 - Polvo com Batatas ao Murro",
-      "start_time": "22:16",
-      "end_time": "22:44",
-      "episode_description": "Babi odeia e não tem nenhuma habilidade para trabalhos manuais, o que inclui cozinhar. Ela só faz pipoca, mas aceita o desafio de preparar uma receita que ela adora com a ajuda do chef Emmanuel."
-    },
-    {
-      "show_name": "Um Dia de Chef",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_um-dia-de-chef-s03e06-curry-de-legumes-com-arroz-basmati-e-salada-de-mac-verde_l_m.webp",
-      "show_category": "Temporada 3 Episódio 6 - Curry de Legumes com Arroz Basmati e Salada de Maçã Verde",
-      "start_time": "22:44",
-      "end_time": "23:11",
-      "episode_description": "Janete diz fazer pratos do mundo inteiro, mas não agrada o paladar do genro, que é chef de cozinha. Ela fica na dúvida se ele tem motivos para implicar com a comida dela. Para responder essa questão, Janete aprende uma receita cheia de sabor."
-    },
-    {
-      "show_name": "Giada em Casa",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_giada-em-casa-s08e08-almoco-das-meninas_l_m.webp",
-      "show_category": "Temporada 8 Episódio 8 - Almoço das Meninas",
-      "start_time": "23:11",
-      "end_time": "23:34",
-      "episode_description": "Giada de Laurentiis oferece aos amigos de sua filha Jade uma salada cremosa de pepinos como entrada, seguida de um sanduíche de frango com parmesão. Na sobremesa, as crianças provam um sundae de chocolate com pasta de amendoim."
-    },
-    {
-      "show_name": "Giada em Casa",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_giada-em-casa-s08e09-massas-prontas-em-15-minutos_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_giada-em-casa-s08e09-massas-prontas-em-15-minutos_l_m.jpg",
       "show_category": "Temporada 8 Episódio 9 - Massas Prontas em 15 Minutos",
-      "start_time": "23:34",
-      "end_time": "23:57",
+      "start_time": "00:05",
+      "end_time": "00:29",
       "episode_description": "Giada mostra como preparar 4 receitas de massa que podem ficar prontas em 15 minutos: gemelli com pesto de couve e azeitonas, penne com milho e linguiça apimentada, orecchiette com brócolis e pecorino e orzo com tomates-cereja."
     },
     {
       "show_name": "Receitas Caseiras da Valerie",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/food-network/today/br_receitas-caseiras-da-valerie-s12e13-presentes-comestiveis_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_receitas-caseiras-da-valerie-s12e13-presentes-comestiveis_l_m.jpg",
       "show_category": "Temporada 12 Episódio 13 - Presentes Comestíveis",
-      "start_time": "23:57",
-      "end_time": "00:21",
+      "start_time": "00:29",
+      "end_time": "00:53",
       "episode_description": "Valerie Bertinelli ensina a uma amiga a arte de embrulhar presentes comestíveis. Ela prepara camarões com molho de abacate e sanduíches caprese defumados, e de sobremesa, pudim de arroz com baunilha e coco."
+    },
+    {
+      "show_name": "Receitas Caseiras da Valerie",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_receitas-caseiras-da-valerie-s12e14-uma-refeic-o-para-todos-os-sentidos_l_m.jpg",
+      "show_category": "Temporada 12 Episódio 14 - Uma Refeição para Todos os Sentidos",
+      "start_time": "00:53",
+      "end_time": "01:18",
+      "episode_description": "Depois de receber uma carta de uma fã com deficiência visual que precisa de ajuda na cozinha, Valerie Bertinelli aprende receitas que usam todos os sentidos com Christine Há, uma chef que também é deficiente visual."
+    },
+    {
+      "show_name": "Refeição em 30 Minutos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_refeic-o-em-30-minutos-s26e14-segredos-de-familia_l_m.jpg",
+      "show_category": "Temporada 26 Episódio 14 - Segredos de Família",
+      "start_time": "01:18",
+      "end_time": "01:43",
+      "episode_description": "Rachael compartilha seus segredos de família: pedaços de frango empanados com queijo, acompanhados de molho cru e pilaf de arroz ao estilo milanês."
+    },
+    {
+      "show_name": "Refeição em 30 Minutos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_refeic-o-em-30-minutos-s27e01-frango-para-o-jantar_l_m.jpg",
+      "show_category": "Temporada 27 Episódio 1 - Frango para o Jantar",
+      "start_time": "01:43",
+      "end_time": "02:04",
+      "episode_description": "Para a Rachael Ray, nada é mais fácil que um jantar com frango. Frango assado apimentado, salada de repolho e cebola roxa."
+    },
+    {
+      "show_name": "Cozinhando com Bobby e Damaris",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cozinhando-com-bobby-e-damaris-s01e10_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 10 - Ação de Graças para Dois",
+      "start_time": "02:04",
+      "end_time": "02:24",
+      "episode_description": "Bobby e Damaris preparam alguns coquetéis de mirtilo e relembram suas histórias favoritas do Dia de Ação de Graças. Eles fazem também peito de peru frito e colcannon ao estilo Yukon com repolho refogado e manteiga de bacon."
+    },
+    {
+      "show_name": "Cozinhando com Bobby e Damaris",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cozinhando-com-bobby-e-damaris-s01e11-coqueteis_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 11 - Coquetéis",
+      "start_time": "02:24",
+      "end_time": "02:44",
+      "episode_description": "Bobby e Damaris brindam com coquetéis feitos com ingredientes variados."
+    },
+    {
+      "show_name": "Sabor na Brasa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabor-na-brasa-s04e09_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 9 - Vinhos e Comida Boa",
+      "start_time": "02:44",
+      "end_time": "03:05",
+      "episode_description": "Veja o preparo de um assado de porco na grelha com cebola e batata doce."
+    },
+    {
+      "show_name": "Sabor na Brasa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabor-na-brasa-s04e08-celebrac-o-sagrada_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 8 - Celebração Sagrada",
+      "start_time": "03:05",
+      "end_time": "03:27",
+      "episode_description": "Roger participa da comemoração do centenário de um piquenique organizado por uma igreja no Kentucky."
+    },
+    {
+      "show_name": "Lanchonetes Clássicas com Guy Fieri",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s35e11-jantar-e-sobremesa_l_m.jpg",
+      "show_category": "Temporada 35 Episódio 11 - Jantar e Sobremesa",
+      "start_time": "03:27",
+      "end_time": "03:48",
+      "episode_description": "Guy Fieri e seu filho, Hunter, conversam por vídeo com quatro chefs para preparar algumas receitas. No cardápio estão massa de Boston, torta napolitana de Nova York, enchilladas de Cleveland e um bolo de funil de sobremesa."
+    },
+    {
+      "show_name": "Lanchonetes Clássicas com Guy Fieri",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s35e12-receitas-incriveis_l_m.jpg",
+      "show_category": "Temporada 35 Episódio 12 - Receitas Incríveis",
+      "start_time": "03:48",
+      "end_time": "04:09",
+      "episode_description": "Guy Fieri conversa com quatro ex-participantes. Suas receitas incluem um waffle excêntrico de Siracusa, macarrão com queijo gourmet de Cleveland e carne de porco de Charlotte, Carolina do Norte."
+    },
+    {
+      "show_name": "Lanchonetes Clássicas com Guy Fieri",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s35e13-fus-o-de-delicias_l_m.jpg",
+      "show_category": "Temporada 35 Episódio 13 - Fusão de Delícias",
+      "start_time": "04:09",
+      "end_time": "04:29",
+      "episode_description": "Guy Fieri conversa com quatro chefs que enviam ingredientes para receitas incríveis. O menu inclui cachorro-quente da Virgínia Ocidental e um churrasco que funde ingredientes da Ásia e de Miami."
+    },
+    {
+      "show_name": "Show de Cozinha",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_show-de-cozinha-s17e13-frutos-do-mar_l_m.jpg",
+      "show_category": "Temporada 17 Episódio 13 - Frutos do Mar",
+      "start_time": "04:29",
+      "end_time": "05:14",
+      "episode_description": "Aprenda a fazer os melhores pratos de verão com frutos do mar; Sunny Anderson prepara mexilhões com cinco ingredientes e fritas com alho e salsa; Geoffrey Zakarian faz um espaguete de caranguejo com abobrinha e manjericão."
+    },
+    {
+      "show_name": "Show de Cozinha",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_show-de-cozinha-s18e01-jantar-de-ver-o-dos-sonhos_l_m.jpg",
+      "show_category": "Temporada 18 Episódio 1 - Jantar de Verão dos Sonhos",
+      "start_time": "05:14",
+      "end_time": "06:00",
+      "episode_description": "Saiba como preparar um prato perfeito de sabores do verão, como panzanella de pão de milho e torta de lima-da-pérsia. Justin Chapple também prepara purê de batata com ervas e azeite."
+    },
+    {
+      "show_name": "Duelo com Bobby Flay",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_duelo-com-bobby-flay-s04e11-terra-natal_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 11 - Terra Natal",
+      "start_time": "06:00",
+      "end_time": "06:23",
+      "episode_description": "Cebolas são picadas e dentes de alho são amassados quando a vietnamita Thoa Nguyen batalha com o sofisticado chef Jason Hippen. Chefs Anne Burrell e Scott Conant vão decidir quem faz a melhor comida."
+    },
+    {
+      "show_name": "Duelo com Bobby Flay",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_duelo-com-bobby-flay-s04e12-comeco-humilde_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 12 - Começo Humilde",
+      "start_time": "06:23",
+      "end_time": "06:45",
+      "episode_description": "O chef e músico Eugene Jones entra em uma batalha culinária com o ambicioso chef Christopher Wall para tentar derrotar Bobby. Simon Majumdar, jurado no Cutthroat Kitchen, e Sunny Anderson, do The Kitchen, estão ansiosos para ver o amigo perder."
+    },
+    {
+      "show_name": "Chopped - Júnior",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_chopped-junior-s02e12-operac-o-cabrito_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 12 - Operação Cabrito",
+      "start_time": "06:45",
+      "end_time": "07:30",
+      "episode_description": "Quatro minichefs novos precisam se dedicar ao máximo para impressionar os jurados do dia: o modelo Jourdan Dunn e os chefs Carla Hall e Chris Santos. Na primeira rodada, os competidores têm que encarar um refrigerante com um sabor maluco. O prato principal deve levar carne de cabrito, uvas e um lanchinho saudável e crocante, mas com formato um tanto esquisito."
+    },
+    {
+      "show_name": "Food Truck - A Grande Corrida",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_food-truck-a-grande-corrida-s05e06-camar-o-n-o-e-moleza-n-o_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 6 - Camarão Não é Moleza, Não!",
+      "start_time": "07:30",
+      "end_time": "08:12",
+      "episode_description": "As três equipes na disputa vão para Mobile, no Alabama, onde Tyler irá desafiá-las a preparar pratos locais. Depois de enfrentarem temperaturas abaixo de zero, uma equipe ganhará quase cinquenta quilos de camarão fresco de um atacadista local."
+    },
+    {
+      "show_name": "Lanchonetes Clássicas com Guy Fieri",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s36e10-sabores-da-filadelfia_l_m.jpg",
+      "show_category": "Temporada 36 Episódio 10 - Sabores da Filadélfia",
+      "start_time": "08:12",
+      "end_time": "08:35",
+      "episode_description": "Guy Fieri se delicia com os sabores da Filadélfia. Ele visita um pub que serve asinhas de frango apimentadas e um cheesesteak diferente, e um restaurante que serve especialidades da Tailândia."
+    },
+    {
+      "show_name": "Lanchonetes Clássicas com Guy Fieri",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s36e14-frango-e-torta_l_m.jpg",
+      "show_category": "Temporada 36 Episódio 14 - Frango e Torta",
+      "start_time": "08:35",
+      "end_time": "08:56",
+      "episode_description": "Guy Fieri experimenta pratos com frango e tortas neste trecho da viagem. Em Portland, Oregon, ele prova um incrível sanduíche de frango, e em Oklahoma City, uma pizza com um toque especial feita por três irmãs."
+    },
+    {
+      "show_name": "Lanchonetes Clássicas com Guy Fieri",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s37e03-da-noruega-ao-ir_l_m.jpg",
+      "show_category": "Temporada 37 Episódio 3 - Da Noruega ao Irã",
+      "start_time": "08:56",
+      "end_time": "09:18",
+      "episode_description": "Guy Fieri explora alguns sabores internacionais, começando com um food truck em Portland, Oregon, que lançou wraps especiais noruegueses. Ele também prova a autêntica culinária iraniana em Sunrise, Flórida."
+    },
+    {
+      "show_name": "Lanchonetes Clássicas com Guy Fieri",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s37e05-do-autentico-ao-inventivo_l_m.jpg",
+      "show_category": "Temporada 37 Episódio 5 - Do Autêntico ao Inventivo",
+      "start_time": "09:18",
+      "end_time": "09:40",
+      "episode_description": "Em Portland, Oregon, um ícone de 70 anos serve receitas autênticas da cidade natal de seu chef chinês; em Oklahoma City, uma lanchonete se destaca pelos pratos com frango e pães."
+    },
+    {
+      "show_name": "Na Rota do Sabor",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_na-rota-do-sabor-s09e02-brunch-nado_l_m.jpg",
+      "show_category": "Temporada 9 Episódio 2 - Brunch-Nado",
+      "start_time": "09:40",
+      "end_time": "10:26",
+      "episode_description": "Aprenda os melhores pratos e drinks da refeição mais descontraída da semana - o brunch."
+    },
+    {
+      "show_name": "Cozinhando com Bobby e Damaris",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cozinhando-com-bobby-e-damaris-s01e12-festas-de-fim-de-ano_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 12 - Festas de Fim de Ano",
+      "start_time": "10:26",
+      "end_time": "10:49",
+      "episode_description": "Baclava e ponche deixam Bobby e Damaris em clima de Natal."
+    },
+    {
+      "show_name": "Cozinhando com Bobby e Damaris",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cozinhando-com-bobby-e-damaris-s01e13-brunch_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 13 - Brunch",
+      "start_time": "10:49",
+      "end_time": "11:09",
+      "episode_description": "Bobby e Damaris fazem um brunch regado a drinques feitos com tequila e toranja."
+    },
+    {
+      "show_name": "Sabores da América com Michael Symon",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabores-da-america-com-michael-symon-s06e02-sabores-do-mexico_l_m.jpg",
+      "show_category": "Temporada 6 Episódio 2 - Sabores do México",
+      "start_time": "11:09",
+      "end_time": "11:31",
+      "episode_description": "Em San Diego, Michael Symon prova tacos de peixe com tortilhas de milho azul caseiras e uma pizza mexicana. Em Denver, ele conhece um sanduíche de carneiro que o faz lembrar do loco moco havaiano."
+    },
+    {
+      "show_name": "Sabores da América com Michael Symon",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabores-da-america-com-michael-symon-s06e03-rei-dos-sanduiches_l_m.jpg",
+      "show_category": "Temporada 6 Episódio 3 - Rei dos Sanduíches",
+      "start_time": "11:31",
+      "end_time": "11:53",
+      "episode_description": "Em Palm Springs, Michael ataca um sanduíche que mais parece uma torre e um cachorro-quente carnudo. Em Oklahoma City, ele vai a um posto de gasolina transformado em hamburgueria que serve maçã frita e cheeseburguer de brie."
+    },
+    {
+      "show_name": "Sabor na Brasa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabor-na-brasa-s04e11_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 11 - Três Versões",
+      "start_time": "11:53",
+      "end_time": "12:14",
+      "episode_description": "Roger visita uma fazenda em Illinois onde se prepara um banquete, incluindo um cordeiro inteiro assado lentamente, bifes de javali grelhados e peles de porco fritas com uma cobertura de chocolate mexicano defumado."
+    },
+    {
+      "show_name": "Sabor na Brasa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabor-na-brasa-s04e12_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 12 - Grelhados e Defumados",
+      "start_time": "12:14",
+      "end_time": "12:35",
+      "episode_description": "Roger grelhar bifes e frango na Califórnia, defuma frutos do mar, faz um churrasco ao estilo de Santa Maria e prepara bifes e frango da maneira cajun."
+    },
+    {
+      "show_name": "Show de Cozinha",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_show-de-cozinha-s17e13-frutos-do-mar_l_m.jpg",
+      "show_category": "Temporada 17 Episódio 13 - Frutos do Mar",
+      "start_time": "12:35",
+      "end_time": "13:18",
+      "episode_description": "Aprenda a fazer os melhores pratos de verão com frutos do mar; Sunny Anderson prepara mexilhões com cinco ingredientes e fritas com alho e salsa; Geoffrey Zakarian faz um espaguete de caranguejo com abobrinha e manjericão."
+    },
+    {
+      "show_name": "Show de Cozinha",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_show-de-cozinha-s18e01-jantar-de-ver-o-dos-sonhos_l_m.jpg",
+      "show_category": "Temporada 18 Episódio 1 - Jantar de Verão dos Sonhos",
+      "start_time": "13:18",
+      "end_time": "14:02",
+      "episode_description": "Saiba como preparar um prato perfeito de sabores do verão, como panzanella de pão de milho e torta de lima-da-pérsia. Justin Chapple também prepara purê de batata com ervas e azeite."
+    },
+    {
+      "show_name": "Kitchen Boss",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_kitchen-boss-s02e18-kitchen-boss_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 18 - Exigentes",
+      "start_time": "14:02",
+      "end_time": "14:27",
+      "episode_description": "Quando as crianças não querem comer o que é saudável, é hora de usar a criatividade. Buddy e seus três filhos incrementam alguns pratos favoritos como iscas de frango com batatas, brócolis com alho da mama e massinhas com queijo cremoso."
+    },
+    {
+      "show_name": "Kitchen Boss",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_kitchen-boss-s02e20-kitchen-boss_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 20 - Noite de Cinema",
+      "start_time": "14:27",
+      "end_time": "14:51",
+      "episode_description": "Buddy vai compartilhar seus pratos favoritos. Em primeiro lugar, uma massa leve com grão-de-bico seguida de chuleta de porco recheada. E, para a sobremesa, a mulher de Buddy, Lisa, prepara um pudim rápido e delicioso."
+    },
+    {
+      "show_name": "Cake Boss",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cake-boss-1_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "14:51",
+      "end_time": "15:15",
+      "episode_description": "Para comemorar o Natal, Buddy cria um bolo inspirado em \"O Quebra-Nozes\" para uma companhia de balé que está apresentando a clássica história natalina."
+    },
+    {
+      "show_name": "Cake Boss",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cake-boss-1_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "15:15",
+      "end_time": "15:39",
+      "episode_description": "Para comemorar o Natal, Buddy cria um bolo inspirado em \"O Quebra-Nozes\" para uma companhia de balé que está apresentando a clássica história natalina."
+    },
+    {
+      "show_name": "Pequenos Confeiteiros",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pequenos-confeiteiros-s06e04_l_m.jpg",
+      "show_category": "Temporada 6 Episódio 4 - O Desafio dos Macarons",
+      "start_time": "15:39",
+      "end_time": "16:25",
+      "episode_description": "Os macarons são sobremesas muito populares, e os decorados com carinhas são uma tendência que chegou para ficar. Os confeiteiros são desafiados a criar macarons com carinhas tristes e felizes."
+    },
+    {
+      "show_name": "A Guerra dos Bolos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-guerra-dos-bolos-s02e11-archie_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 11 - Archie",
+      "start_time": "16:25",
+      "end_time": "17:11",
+      "episode_description": "Quatro fantásticos confeiteiros disputam quem vai levar seu bolo para ser destaque de uma festa. O jurado convidado, John Goldwater, ajuda a escolher qual bolo melhor ilustra a essência dos quadrinhos e merece os dez mil dólares."
+    },
+    {
+      "show_name": "A Guerra dos Cupcakes",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-guerra-dos-cupcakes-s06e01_l_m.jpg",
+      "show_category": "Temporada 6 Episódio 1 - Kate Walsh",
+      "start_time": "17:11",
+      "end_time": "17:57",
+      "episode_description": "Quatro confeiteiros competem pela chance de servir cupcakes na festa de lançamento do perfume \"Billionaire Boyfriend\". A jurada convidada é quem lança a fragrância, Kate Walsh, estrela da série \"Private Practice\"."
+    },
+    {
+      "show_name": "A Guerra dos Cupcakes",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-guerra-dos-cupcakes-s06e02_l_m.jpg",
+      "show_category": "Temporada 6 Episódio 2 - Angry Birds",
+      "start_time": "17:57",
+      "end_time": "18:42",
+      "episode_description": "A festa de lançamento do aplicativo Angry Birds Space promete agitar a cidade de Seattle. E os participantes vão fazer de tudo para que os seus cupcakes especiais sejam servidos nesse importante evento."
+    },
+    {
+      "show_name": "Locos x el asado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_locos-x-el-asado-s02e04-moises-dagui_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 4 - Moises Dagüi",
+      "start_time": "18:42",
+      "end_time": "19:08",
+      "episode_description": "Laucha convida Moisés Dagui, originalmente da Venezuela e atualmente morando na Argentina. Ambos fazem uma receita diferente e discutem sobre o estilo e as formas de cocção. Laucha cozinha uma costela e Moises três acompanhamentos de luxo com cevada, cana, vagens e outros."
+    },
+    {
+      "show_name": "Locos x el asado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_locos-x-el-asado-s02e05-virginia-demaria_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 5 - Virginia Demaria",
+      "start_time": "19:08",
+      "end_time": "19:30",
+      "episode_description": "O assado é feito para compartilhar. É por isto que Laucha recebe sua convidada, desta vez vinda do Chile, que divide os segredos de uma receita com todo o sabor pessoal e seu toque especial autêntico. Paralelamente, Laucha prepara uma receita bem típica de churrasqueiro, que combina perfeitamente com aquilo que sua convidada propõe."
+    },
+    {
+      "show_name": "Locos x el asado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_locos-x-el-asado-s02e06-osvaldo-vilas_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 6 - Osvaldo Vilas",
+      "start_time": "19:30",
+      "end_time": "19:53",
+      "episode_description": "Osvaldo Vilas une-se ao programa e transborda simpatia. Laucha prepara uma sobrepaleta na brasa, imperdível para os apreciadores desta carne, enquanto Osvaldo faz uma torta de milho, cenouras ao Roquefort e purê de ervilhas."
+    },
+    {
+      "show_name": "Locos x el asado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_locos-x-el-asado-s02e07-victor-moreno_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 7 - Víctor Moreno",
+      "start_time": "19:53",
+      "end_time": "20:16",
+      "episode_description": "Uma combinação dos sabores autênticos da Venezuela com Victor, que prepara uns tostones com um Vuelve a La Vida que Laucha acompanha com um filé mignon marinado no uísque e enrolado com uma abóbora recheada. Entre contos e camaradagem, chega ao \"momento aperitivo\", no qual, acompanhados por petiscos, Laucha oferece um Amargo Obrero (licor característico argentino) e Victor se deleita com um Cocuy Pecayero (bebida típica conhecida como licor venezuelano)."
+    },
+    {
+      "show_name": "Duelo com Bobby Flay",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_duelo-com-bobby-flay-s02e04-batalha-no-brooklyn_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 4 - Batalha no Brooklyn",
+      "start_time": "20:16",
+      "end_time": "20:39",
+      "episode_description": "Na batalha entre os melhores do Brooklyn, o jovem Jordan Andino e a profissional da área Jennifer Cole-Ruiz lutam por uma chance de entrar no ringue com Bobby Flay."
+    },
+    {
+      "show_name": "Duelo com Bobby Flay",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_duelo-com-bobby-flay-s02e07-negocio-arriscado_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 7 - Negócio Arriscado",
+      "start_time": "20:39",
+      "end_time": "21:03",
+      "episode_description": "O rei da comida de rua, chef Jeremiah Bullfrog, e um chef do Meio-Oeste dos EUA, Kyle Williams, travam uma batalha acirrada na cozinha."
+    },
+    {
+      "show_name": "Até que o Restaurante nos Separe!",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ate-que-o-restaurante-nos-separe-s01e05-noivos-e-confusos_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 5 - Noivos e Confusos",
+      "start_time": "21:03",
+      "end_time": "21:46",
+      "episode_description": "Nicole abandona Alan pouco antes da inauguração; o forno novo de Kathleen quebra antes da chegada dos convidados; James e Jessica fazem uma sessão de fotos para aumentar a presença nas redes sociais."
+    },
+    {
+      "show_name": "Show de Cozinha",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_show-de-cozinha-s20e01-opostos-se-atraem_l_m.jpg",
+      "show_category": "Temporada 20 Episódio 1 - Opostos se Atraem",
+      "start_time": "21:46",
+      "end_time": "22:30",
+      "episode_description": "O amor está no ar para um Dia dos Namorados recheado com combinações de sabores criativas. Dois finalistas de um concurso de confeitaria vêm dividir receitas de doces."
+    },
+    {
+      "show_name": "Tudo Fácil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tudo-facil-s01e10-e-massa_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 10 - É Massa!",
+      "start_time": "22:30",
+      "end_time": "22:58",
+      "episode_description": "A variedade de massas não é novidade. Mas o que nem todo mundo sabe é que elas vêm praticamente de uma só receita. Neste episódio, Carol Fiorentino ensina esse preparo, dois pratos e um petisco delicioso."
+    },
+    {
+      "show_name": "Tudo Fácil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tudo-facil-s01e06-trivial-cheio-de-graca_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 6 - Trivial Cheio de Graça",
+      "start_time": "22:58",
+      "end_time": "23:26",
+      "episode_description": "A cozinha trivial é boa demais para cair na mesmice. Carol Fiorentino ensina a variar o tradicionalíssimo arroz, feijão e bife a cavalo e ainda mostra uma receita de bolo de sorvete para ganhar espaço regular no seu cardápio."
+    },
+    {
+      "show_name": "Giada em Casa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_giada-em-casa-s08e10-tia-raffy-esta-na-area_l_m.jpg",
+      "show_category": "Temporada 8 Episódio 10 - Tia Raffy está na Área",
+      "start_time": "23:26",
+      "end_time": "23:49",
+      "episode_description": "Tia Raffy se junta a Giada De LaurentIis na cozinha para um dia de diversão e muitas risadas. Veja receitas da família, incluindo o polpetone com duas finalizações diferentes, o pilaf de quinoa e o crumble de pêssego e blueberry."
+    },
+    {
+      "show_name": "Giada em Casa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_giada-em-casa-s09e02-pizza-e-massa-para-iniciantes_l_m.jpg",
+      "show_category": "Temporada 9 Episódio 2 - Pizza e Massa para Iniciantes",
+      "start_time": "23:49",
+      "end_time": "00:12",
+      "episode_description": "Giada De Laurentiis e sua filha, Jade, adoram passar o dia em casa fazendo pizza e massas. Elas preparam Pizza de Muçarela à moda de Chicago, Espaguete com Abobrinha ao Limão Siciliano e, como sobremesa, Sundaes de Morango e Limão Siciliano."
     }
   ]
 }

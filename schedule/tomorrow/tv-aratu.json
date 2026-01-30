@@ -3,172 +3,124 @@
   "date": "31/01/2026",
   "schedule": [
     {
-      "show_name": "The Noite com Danilo Gentili",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/tomorrow/br_the-noite-com-danilo-gentili_l_m.webp",
-      "show_category": "Talk",
-      "start_time": "00:15",
-      "end_time": "01:15",
-      "episode_description": "Talk show com alto índice de piadas por minuto, que, com muita irreverência, aborda os fatos relevantes do dia."
-    },
-    {
       "show_name": "Operação Mesquita",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/tomorrow/br_operac-o-mesquita_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_operac-o-mesquita_l_m.jpg",
       "show_category": "Entertainment",
-      "start_time": "01:15",
-      "end_time": "01:45",
+      "start_time": "00:30",
+      "end_time": "01:00",
       "episode_description": "Descubra o lado B dos famosos, que mostram o seu cotidiano de forma curiosa e divertida por meio de entrevistas. Acompanhe ainda pessoas comuns que estão prestes a protagonizar um grande momento que pode mudar para sempre as suas vidas."
     },
     {
       "show_name": "SBT PodNight",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/tomorrow/br_sbt-podnight_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-podnight_l_m.jpg",
       "show_category": "Talk",
-      "start_time": "01:45",
-      "end_time": "02:30",
+      "start_time": "01:00",
+      "end_time": "01:45",
       "episode_description": "Exibição de podcasts brasileiros líderes de audiência nas plataformas digitais, que abordam temas variados, de cultura e entretenimento a questões sociais."
     },
     {
       "show_name": "SBT Notícias",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/tomorrow/br_sbt-noticias_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-noticias_l_m.jpg",
       "show_category": "News",
-      "start_time": "02:30",
-      "end_time": "04:30",
+      "start_time": "01:45",
+      "end_time": "06:00",
       "episode_description": "Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia."
     },
     {
-      "show_name": "Igreja da Graça",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/tomorrow/br_igreja-da-graca_l_m.webp",
-      "show_category": "Religious",
-      "start_time": "04:30",
-      "end_time": "05:30",
-      "episode_description": "Acompanhe a programação da Igreja Universal da Graça de Deus."
-    },
-    {
-      "show_name": "Encontro com Deus",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/tomorrow/br_encontro-com-deus_l_m.webp",
-      "show_category": "Religious",
-      "start_time": "05:30",
-      "end_time": "06:00",
-      "episode_description": "O programa da Igreja Evangélica Assembleia de Deus realiza trabalhos para evitar novas gerações de crianças de rua, fazendo ações de atendimento às mães e filhos com problemas sociais."
-    },
-    {
-      "show_name": "Aratu 24 Horas",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/tomorrow/br_aratu-24-horas_l_m.webp",
-      "show_category": "News",
+      "show_name": "Sábado Animado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabado-animado-1_l_m.jpg",
+      "show_category": "Children",
       "start_time": "06:00",
-      "end_time": "07:30",
-      "episode_description": "Programa matinal traz notícias da madrugada, reportagens e serviços. Em três blocos, aborda segurança, cultura, lazer e informações práticas."
-    },
-    {
-      "show_name": "SBT Manhã",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/tomorrow/br_sbt-manh_l_m.webp",
-      "show_category": "News",
-      "start_time": "07:30",
-      "end_time": "08:30",
-      "episode_description": "O jornal traz os primeiros assuntos do dia e faz uma abordagem sobre os últimos acontecimentos."
-    },
-    {
-      "show_name": "Primeiro Impacto",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/tomorrow/br_primeiro-impacto-1997_l_m.webp",
-      "show_category": "News",
-      "start_time": "08:30",
       "end_time": "11:00",
-      "episode_description": "Acompanhe as reportagens que trazem informações do dia a dia. Saiba o que é relevante para o cenário cotidiano por meio de análises e opiniões de colunistas."
+      "episode_description": "O programa apresenta desenhos animados, atrações e jogos divertidos que contam com a participação do público de casa."
     },
     {
-      "show_name": "Alô Juca",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/tomorrow/br_alo-juca_l_m.webp",
+      "show_name": "SBT Notícias - 1ª Edição",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-noticias-1-edic-o_l_m.jpg",
       "show_category": "News",
       "start_time": "11:00",
-      "end_time": "13:45",
-      "episode_description": "Cobertura das principais notícias da Bahia, prestação de serviços, entrevistas exclusivas com especialistas e autoridades, além de reportagens especiais."
+      "end_time": "12:00",
+      "episode_description": "Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia."
     },
     {
-      "show_name": "Esmeralda - Edição Especial",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/tomorrow/br_esmeralda-edic-o-especial_l_m.webp",
-      "show_category": "Soap",
-      "start_time": "13:45",
-      "end_time": "14:30",
-      "episode_description": "Uma tragédia obriga uma parteira a trocar dois bebês no dia de seu nascimento. Esmeralda é uma jovem cega que cresceu no campo, enquanto José se tornou um rapaz culto de uma família rica. O destino faz com que os dois se apaixonem."
+      "show_name": "Universo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_universo_l_m.jpg",
+      "show_category": "Entertainment",
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "episode_description": "É nos bairros populares que o programa encontra as melhores figuras para dar visibilidade ao público, que quer se ver de alguma forma. Desse modo as gravações nos bairros proporciona liberdade aos seus participantes."
     },
     {
-      "show_name": "Rubi",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/tomorrow/br_rubi_l_m.webp",
-      "show_category": "Soap",
-      "start_time": "14:30",
-      "end_time": "15:30",
-      "episode_description": "Rubi é uma jovem universitária que vive na pobreza com mãe e irmã. Obcecada por dinheiro desde a morte do pai, decide usar sua beleza para conquistar um homem rico e mudar de vida."
+      "show_name": "SBT Notícias - 1ª Edição",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-noticias-1-edic-o_l_m.jpg",
+      "show_category": "News",
+      "start_time": "13:00",
+      "end_time": "15:00",
+      "episode_description": "Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia."
     },
     {
-      "show_name": "Fofocalizando",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/tomorrow/br_fofocalizando_l_m.webp",
-      "show_category": "Newsmagazine",
-      "start_time": "15:30",
-      "end_time": "16:45",
-      "episode_description": "Revista eletrônica com informação, humor e as principais fofocas do mundo dos famosos."
+      "show_name": "Eita Lucas!",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_eita-lucas_l_m.jpg",
+      "show_category": "Travel",
+      "start_time": "15:00",
+      "end_time": "16:00",
+      "episode_description": "Lucas Guimarães viaja por todo o Brasil conhecendo pessoas e contando suas histórias de vida e distribuindo prêmios por onde passa. Ele também bate um papo com celebridades em uma grande e divertida mistura."
     },
     {
-      "show_name": "Casos de Família",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/tomorrow/br_casos-de-familia-1_l_m.webp",
-      "show_category": "Talk",
-      "start_time": "16:45",
-      "end_time": "17:45",
-      "episode_description": "Conflitos que acontecem entre parentes, vizinhos e até no ambiente de trabalho são abordados e resolvidos diante de uma plateia, com uma psicóloga como supervisora."
+      "show_name": "Enviado do Céu",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_enviado-do-ceu-2016_l_m.jpg",
+      "show_category": "Comedy / 2016",
+      "start_time": "16:00",
+      "end_time": "18:00",
+      "episode_description": "O pastor Randy Michaels é enviado para uma missão em uma pequena cidade rural do Arizona. Lá, ele e sua família precisam se adaptar à mudança de ares e aos costumes de sua nova vizinhança."
     },
     {
-      "show_name": "Coração Indomável",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/tomorrow/br_corac-o-indomavel-1_l_m.webp",
-      "show_category": "Soap",
-      "start_time": "17:45",
-      "end_time": "18:30",
-      "episode_description": "A novela conta a história da pobre Maricruz que, após ter sido abandonada pelo marido, decide se vingar daqueles que a humilharam. Ela descobre ser filha de um homem rico, tornando-se uma mulher da alta sociedade."
-    },
-    {
-      "show_name": "Fala, Dani",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/tomorrow/fallback_other_l_m.webp",
-      "show_category": "Special",
-      "start_time": "18:30",
-      "end_time": "19:00",
-      "episode_description": "Os principais acontecimentos do programa \"Alô Juca\", mas com um olhar diferente, com uma linguagem mais leve, mais próxima ao que a gente vê na internet, nas redes sociais. Com bastidores e também os memes que surgem diariamente no Juca."
+      "show_name": "SBT Notícias - 2ª Edição",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-noticias-2-edic-o_l_m.jpg",
+      "show_category": "News",
+      "start_time": "18:00",
+      "end_time": "19:20",
+      "episode_description": "Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia."
     },
     {
       "show_name": "Aratu Notícias",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/tomorrow/br_aratu-noticias_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aratu-noticias_l_m.jpg",
       "show_category": "News",
-      "start_time": "19:00",
+      "start_time": "19:20",
       "end_time": "19:45",
       "episode_description": "As principais notícias do dia são mostradas no Aratu Notícias. Com reportagens ao vivo e muito dinamismo, o telejornal acompanha os principais fatos que acontecem no dia a dia dos baianos."
     },
     {
       "show_name": "SBT Brasil",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/tomorrow/br_sbt-brasil_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-brasil_l_m.jpg",
       "show_category": "News",
       "start_time": "19:45",
-      "end_time": "21:00",
+      "end_time": "20:45",
       "episode_description": "As principais notícias do Brasil e do mundo com análise profunda dos fatos."
     },
     {
       "show_name": "Presente de Amor",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/tomorrow/br_presente-de-amor_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_presente-de-amor_l_m.jpg",
       "show_category": "Soap",
-      "start_time": "21:00",
-      "end_time": "22:00",
+      "start_time": "20:45",
+      "end_time": "21:30",
       "episode_description": "Isabella é uma mulher cujo maior sonho é ser mãe. Após a morte repentina do marido, ela conhece Eugenio, um homem generoso. Suas vidas tomam um rumo dramático quando um ser angelical aparece, dando-lhes a oportunidade de se tornarem pais."
     },
     {
-      "show_name": "Verão Maior Paraná 2026",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/tomorrow/br_ver-o-maior-parana-2026_l_m.webp",
-      "show_category": "Entertainment",
-      "start_time": "22:00",
-      "end_time": "23:30",
-      "episode_description": "O governo do Paraná promove diversos shows gratuitos nas praias de Matinhos e Pontal do Paraná. Acompanhe de perto tudo o que acontece nos palcos e nos bastidores, com muita informação e alto astral."
+      "show_name": "Esquadrão da Moda",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_esquadr-o-da-moda_l_m.jpg",
+      "show_category": "Fashion",
+      "start_time": "21:30",
+      "end_time": "22:30",
+      "episode_description": "Mulheres consideradas sem estilo são indicadas por amigos e familiares para participar do programa. Uma equipe de especialistas ensina como se vestir bem e, principalmente, o que não usar."
     },
     {
-      "show_name": "The Noite com Danilo Gentili",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/tomorrow/br_the-noite-com-danilo-gentili_l_m.webp",
-      "show_category": "Talk",
-      "start_time": "23:30",
+      "show_name": "Sabadou com Virginia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabadou-com-virginia_l_m.jpg",
+      "show_category": "Variety",
+      "start_time": "22:30",
       "end_time": "",
-      "episode_description": "Talk show com alto índice de piadas por minuto, que, com muita irreverência, aborda os fatos relevantes do dia."
+      "episode_description": "Convidados das mais diversas áreas chegam para encontro repletos de games, musicais, boas histórias e muita interação com a plateia e o público de casa."
     }
   ]
 }
