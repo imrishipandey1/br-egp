@@ -1,182 +1,150 @@
 {
   "channel": "TV Cabo Branco",
-  "date": "01/02/2026",
+  "date": "02/02/2026",
   "schedule": [
     {
+      "show_name": "Caminhos da Memória",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_caminhos-da-memoria-2021_l_m.jpg",
+      "show_category": "Science fiction / 2021",
+      "start_time": "00:40",
+      "end_time": "02:10",
+      "episode_description": "Em um mundo em crise, as pessoas se voltam para uma tecnologia capaz de reviver memórias antigas. Um dia, Nick Bannister, um investigador particular da mente, se depara com uma cliente que desperta lembranças que o fascinam e intrigam. Desesperado e em busca de respostas, Nick mergulha em uma trama de mistérios e segredos."
+    },
+    {
       "show_name": "Coração Acelerado",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_corac-o-acelerado_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_corac-o-acelerado_l_m.jpg",
       "show_category": "Soap",
-      "start_time": "00:35",
-      "end_time": "01:20",
+      "start_time": "02:10",
+      "end_time": "02:50",
       "episode_description": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\"."
     },
     {
-      "show_name": "Vai que Cola",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_vai-que-cola-1_l_m.webp",
-      "show_category": "Comedy",
-      "start_time": "01:20",
-      "end_time": "02:05",
-      "episode_description": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede."
+      "show_name": "O Auto da Boa Mentira",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-auto-da-boa-mentira-2021_l_m.jpg",
+      "show_category": "Comedy / 2021",
+      "start_time": "02:50",
+      "end_time": "04:30",
+      "episode_description": "Quatro pequenas esquetes cujo tema central é a mentira, suas motivações e consequências. As histórias são baseadas nos causos contados por Ariano Suassuna em suas aulas mestras."
     },
     {
-      "show_name": "Doutor Gama",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_doutor-gama-2021_l_m.webp",
-      "show_category": "Biography / 2021 /7.9",
-      "start_time": "02:05",
-      "end_time": "03:35",
-      "episode_description": "A biografia de Luiz Gama, homem negro que usou leis e tribunais para libertar mais de 500 escravos. Um abolicionista e republicano que inspirou país."
+      "show_name": "No Ritmo da Fé",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_no-ritmo-da-fe-2023_l_m.jpg",
+      "show_category": "Drama / 2023",
+      "start_time": "04:30",
+      "end_time": "05:50",
+      "episode_description": "Aspirante a guitarrista entra para uma banda religiosa, apesar de não ser cristã, na esperança de conseguir um contrato com uma grande gravadora. Mas a moça se sente deslocada do resto do grupo. Em meio a dúvidas e incertezas, ela trilha um caminho de fé e acaba fazendo novos amigos."
     },
     {
-      "show_name": "O Jardim Secreto de Mariana",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_o-jardim-secreto-de-mariana-2021_l_m.webp",
-      "show_category": "Drama / 2021",
-      "start_time": "03:35",
-      "end_time": "04:45",
-      "episode_description": "João e Mariana são casal apaixonado, mas interrompem relação após crise e uma série de acontecimentos. Cinco anos depois, separação pesa e João decide tentar convencer Mariana que o amor deles ainda vale pena."
+      "show_name": "Santa Missa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_santa-missa_l_m.jpg",
+      "show_category": "Religious",
+      "start_time": "05:50",
+      "end_time": "05:50",
+      "episode_description": "As principais missas realizadas por Vossa Santidade, o Papa."
     },
     {
-      "show_name": "InfiniMundo",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_infinimundo-2024_l_m.webp",
-      "show_category": "Romance / 2024",
-      "start_time": "04:45",
-      "end_time": "06:00",
-      "episode_description": "Um jovem contador de histórias se apaixona pela compositora da banda local. Ele enfrenta desafios quando a cidade é invadida por forasteiros."
+      "show_name": "Santa Missa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_santa-missa_l_m.jpg",
+      "show_category": "Religious",
+      "start_time": "05:50",
+      "end_time": "06:40",
+      "episode_description": "As principais missas realizadas por Vossa Santidade, o Papa."
+    },
+    {
+      "show_name": "Globo Repórter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_globo-reporter-1_l_m.jpg",
+      "show_category": "Newsmagazine",
+      "start_time": "06:40",
+      "end_time": "07:30",
+      "episode_description": "O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo."
+    },
+    {
+      "show_name": "Paraíba Comunidade",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_paraiba-comunidade_l_m.jpg",
+      "show_category": "Community",
+      "start_time": "07:30",
+      "end_time": "08:00",
+      "episode_description": "O programa coloca em pauta os temas de estações como verão, festas populares e Semana Santa, bem como as expressões da cultura popular e a preservação do patrimônio histórico e cultural do estado."
+    },
+    {
+      "show_name": "AutoEsporte",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_auto-autoesporte_l_m.jpg",
+      "show_category": "",
+      "start_time": "08:00",
+      "end_time": "08:30",
+      "episode_description": "A revista eletrônica do setor automotivo apresenta as últimas notícias sobre automóveis, nacionais e importados, além de lançamentos, segredos, curiosidades, comparativos e testes."
     },
     {
       "show_name": "Globo Rural",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_globo-rural-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_globo-rural-1_l_m.jpg",
       "show_category": "Agriculture",
-      "start_time": "06:00",
-      "end_time": "06:50",
+      "start_time": "08:30",
+      "end_time": "10:05",
       "episode_description": "Acompanhe as principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais."
     },
     {
-      "show_name": "Bom Dia Sábado",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_bom-dia-sabado_l_m.webp",
-      "show_category": "News",
-      "start_time": "06:50",
-      "end_time": "07:50",
-      "episode_description": "As principais notícias do Brasil para começar o final de semana bem-informado."
+      "show_name": "Viver Sertanejo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_viver-sertanejo_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "10:05",
+      "end_time": "11:00",
+      "episode_description": "Daniel abre a porteira de sua fazenda para receber grandes astros da música sertaneja. Juntos, eles relembram suas trajetórias, falam sobre suas inspirações e se deixam levar pelas modas de viola."
     },
     {
-      "show_name": "Pequenas Empresas & Grandes Negócios",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_pequenas-empresas-grandes-negocios-2_l_m.webp",
-      "show_category": "Bus./financial",
-      "start_time": "07:50",
-      "end_time": "08:30",
-      "episode_description": "Programa destaca tecnologias que mudam o rumo da gestão e conta histórias de soluções cotidianas que se transformaram em negócios."
-    },
-    {
-      "show_name": "É de Casa",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_e-de-casa-1_l_m.webp",
-      "show_category": "Home improvement",
-      "start_time": "08:30",
-      "end_time": "11:45",
-      "episode_description": "A equipe do programa discute e comenta assuntos que são comuns a todas as famílias. O que está sendo falado na imprensa, o que se fala nas ruas e, é claro, dentro de casa."
-    },
-    {
-      "show_name": "JPB1",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_jpb1_l_m.webp",
-      "show_category": "News",
-      "start_time": "11:45",
-      "end_time": "13:00",
-      "episode_description": "Acompanhe os acontecimentos do dia a dia e os debates entre a população e as autoridades."
-    },
-    {
-      "show_name": "Globo Esporte PB",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_news-globo-esporte-pb_l_m.webp",
+      "show_name": "Esporte Espetacular",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_newsmagazine-esporte-espetacular-2_l_m.jpg",
       "show_category": "",
+      "start_time": "11:00",
+      "end_time": "13:00",
+      "episode_description": "Fique por dentro de tudo o que rolou durante a semana nos esportes e veja os gols pelo mundo afora. Entrevistas, reportagens sobre ciência esportiva e personagens históricos também fazem parte da atração."
+    },
+    {
+      "show_name": "Homem-Aranha - Longe de Casa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_homem-aranha-longe-de-casa-2019_l_m.jpg",
+      "show_category": "Action / 2019",
       "start_time": "13:00",
-      "end_time": "13:25",
-      "episode_description": "Os principais acontecimentos esportivos notícia na Paraíba, no Brasil e no mundo."
+      "end_time": "15:00",
+      "episode_description": "Peter Parker está em uma viagem de duas semanas pela Europa, ao lado de seus amigos de colégio, quando é surpreendido pela visita de Nick Fury. Convocado para mais uma missão heroica, ele precisa enfrentar vários vilões que surgem em cidades símbolo do continente, como Londres, Paris e Veneza, e também a aparição do enigmático Mysterio."
     },
     {
-      "show_name": "Jornal Hoje",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_jornal-hoje-1_l_m.webp",
-      "show_category": "News",
-      "start_time": "13:25",
-      "end_time": "14:10",
-      "episode_description": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais."
+      "show_name": "Bora Pro Jogo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-bora-pro-jogo_l_m.jpg",
+      "show_category": "",
+      "start_time": "15:00",
+      "end_time": "15:45",
+      "episode_description": "Os principais acontecimentos do Brasileirão, com notícias de clubes e atletas antes das partidas."
     },
     {
-      "show_name": "Minha Paraíba",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_minha-paraiba_l_m.webp",
-      "show_category": "Community",
-      "start_time": "14:10",
-      "end_time": "14:45",
-      "episode_description": "O público envia as histórias reais de paraibanos e paraibanas que fazem a diferença, valorizam suas origens ou simplesmente representam o orgulho de ser da Paraíba."
+      "show_name": "Flamengo x Corinthians",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-flamengo-x-corinthians-9_l_m.jpg",
+      "show_category": "Supercopa Rei",
+      "start_time": "15:45",
+      "end_time": "18:30",
+      "episode_description": "Valendo o título da Supercopa Rei, Flamengo e Corinthians duelam na Arena BRB Mané Garrincha, em Brasília, DF. Campeões do Brasileirão e da Copa do Brasil em 2025, respectivamente, o Rubro-Negro e o Timão decidem o primeiro troféu nacional de 2026."
     },
     {
-      "show_name": "Caldeirão com Mion",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_caldeir-o-com-mion_l_m.webp",
-      "show_category": "Entertainment",
-      "start_time": "14:45",
-      "end_time": "16:20",
-      "episode_description": "Marcos Mion traz alegria ao programa de auditório com quadros animados, desafios inéditos e atrações musicais especiais."
-    },
-    {
-      "show_name": "Campinense x Botafogo-PB",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_soccer-campinense-x-botafogo-pb_l_m.webp",
-      "show_category": "Campeonato Paraibano de Futebol",
-      "start_time": "16:20",
-      "end_time": "18:35",
-      "episode_description": "Em Clássico Emoção válido pela quinta rodada da primeira fase do Campeonato Paraibano 2026, o Campinense enfrenta o Botafogo-PB no Estádio Amigão, em Campina Grande, PB."
-    },
-    {
-      "show_name": "Êta Mundo Melhor!",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_eta-mundo-melhor_l_m.webp",
-      "show_category": "Drama",
-      "start_time": "18:35",
-      "end_time": "19:15",
-      "episode_description": "Candinho e seu fiel companheiro, Policarpo, voltaram para novas aventuras na cidade grande. Apesar de toda riqueza que o cerca, Candinho enfrenta uma nova saga: a busca pelo filho perdido."
-    },
-    {
-      "show_name": "JPB2",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_jpb2_l_m.webp",
-      "show_category": "News",
-      "start_time": "19:15",
-      "end_time": "19:40",
-      "episode_description": "Acompanhe os acontecimentos do dia a dia e os debates entre a população e as autoridades."
-    },
-    {
-      "show_name": "Coração Acelerado",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_corac-o-acelerado_l_m.webp",
-      "show_category": "Soap",
-      "start_time": "19:40",
+      "show_name": "Domingão com Huck",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_doming-o-com-huck-s2026e230_l_m.jpg",
+      "show_category": "Temporada 2026 Episódio 230",
+      "start_time": "18:30",
       "end_time": "20:30",
-      "episode_description": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\"."
+      "episode_description": "No Pará, Joelma canta seus sucessos no programa, com participação especial dos bailarinos Thais Sousa e Rolon Ho. Professores do quadro Dança dos Famosos e os campeões Silvero Pereira e Priscila Fantin, respectivamente, se apresentam."
     },
     {
-      "show_name": "Jornal Nacional",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_jornal-nacional-1_l_m.webp",
-      "show_category": "News",
+      "show_name": "Fantástico",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_fantastico_l_m.jpg",
+      "show_category": "Newsmagazine",
       "start_time": "20:30",
-      "end_time": "21:20",
-      "episode_description": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo."
-    },
-    {
-      "show_name": "Três Graças",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_tres-gracas_l_m.webp",
-      "show_category": "Drama",
-      "start_time": "21:20",
-      "end_time": "22:25",
-      "episode_description": "Gerluce Maria das Graças integra uma família de mães solo: é filha de Lígia Maria e mãe de Joélly Maria. Criada pela mãe, que engravidou na adolescência e foi abandonada pelo seu pai, Gerluce enfrenta um destino parecido com a chegada da filha."
+      "end_time": "23:00",
+      "episode_description": "Em forma de revista eletrônica, o programa mistura jornalismo, denúncia, esporte, humor, dramaturgia, música e ciência."
     },
     {
       "show_name": "Big Brother Brasil",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_big-brother-brasil-s26e20_l_m.webp",
-      "show_category": "Temporada 26 Episódio 20",
-      "start_time": "22:25",
-      "end_time": "22:50",
-      "episode_description": "Um grupo de pessoas topa ficar confinado em uma espaçosa casa cenográfica, sendo vigiado por câmeras 24 horas por dia. Sem receber informações do mundo exterior, eles disputam uma série de provas e dinâmicas em busca de um prêmio milionário."
-    },
-    {
-      "show_name": "Altas Horas",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/tomorrow/br_altas-horas-1_l_m.webp",
-      "show_category": "Entertainment",
-      "start_time": "22:50",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_big-brother-brasil-s26e21_l_m.jpg",
+      "show_category": "Temporada 26 Episódio 21",
+      "start_time": "23:00",
       "end_time": "",
-      "episode_description": "Serginho Groisman promove debates sobre temas relevantes com a participação da plateia, artistas e personalidades de diferentes áreas."
+      "episode_description": "Anjo pode trocar vídeo familiar por uma imunidade extra. O Paredão triplo é formado por: um indicado pelos atendentes do Big Fone, o indicado do Líder e dois mais votados pela casa. Dos quatro inicialmente emparedados, um escapa na Prova Bate-Volta."
     }
   ]
 }

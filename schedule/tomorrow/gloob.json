@@ -1,566 +1,182 @@
 {
   "channel": "Gloob",
-  "date": "01/02/2026",
+  "date": "02/02/2026",
   "schedule": [
     {
-      "show_name": "Tara Duncan",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_tara-duncan-s01e51-magister-e-a-fera_l_m.webp",
-      "show_category": "Temporada 1 Episódio 51 - Magister e a Fera",
-      "start_time": "00:20",
-      "end_time": "00:32",
-      "episode_description": "Glória luta para controlar sua transformação, o que a coloca em situações complicadas. Ela aceita um convite de um médico estranho que acaba sendo o Magister."
-    },
-    {
-      "show_name": "Miraculous - As Aventuras de Ladybug",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_miraculous-as-aventuras-de-ladybug-s01e10-cupido-negro_l_m.webp",
-      "show_category": "Temporada 1 Episódio 10 - Cupido Negro",
-      "start_time": "00:32",
-      "end_time": "00:54",
-      "episode_description": "Miss Bustier analisa os contos de fadas e afirma que só o amor é capaz de vencer o ódio. Max, porém, contraria a teoria da professora. Enquanto isso, Adrien se distrai na aula e é questionado, e Ladybug e seu parceiro enfrentam o Cupido Negro."
-    },
-    {
-      "show_name": "Miraculous - As Aventuras de Ladybug",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_miraculous-as-aventuras-de-ladybug-s01e11-horrificador_l_m.webp",
-      "show_category": "Temporada 1 Episódio 11 - Horrificador",
-      "start_time": "00:54",
-      "end_time": "01:17",
-      "episode_description": "A sala de Marinette produz um curta-metragem de horror. A atriz principal, Mylène, é transformada em um monstro que se alimenta de medo e se chama Horrificador. Ladybug e Cat Noir precisam resgatar os alunos e salvar a escola, antes que seja tarde."
-    },
-    {
-      "show_name": "Miraculous - As Aventuras de Ladybug",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_miraculous-as-aventuras-de-ladybug-s01e12-jogador_l_m.webp",
-      "show_category": "Temporada 1 Episódio 12 - Lâmina Negra",
-      "start_time": "01:17",
-      "end_time": "01:39",
-      "episode_description": "O professor D'Argencourt perde uma eleição e é transformado no vilão Lâmina Negra. Possuído, ele decide recrutar os cidadãos de Paris para formar um poderoso exército de cavaleiros do mal para dominar a cidade."
-    },
-    {
-      "show_name": "Miraculous - As Aventuras de Ladybug",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_miraculous-as-aventuras-de-ladybug-s01e13-lamina-negra_l_m.webp",
-      "show_category": "Temporada 1 Episódio 13 - O Mímico",
-      "start_time": "01:39",
-      "end_time": "02:02",
-      "episode_description": "Um ator quer conseguir o papel de mímico em uma peça. No entanto, uma de suas rivais o prende, impedindo-o assim de ir ao teste. Ela consegue o papel, e quando ele finalmente consegue se libertar, vai fazer de tudo para interromper a peça."
-    },
-    {
-      "show_name": "Miraculous - As Aventuras de Ladybug",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_miraculous-as-aventuras-de-ladybug-s01e14-o-mimico_l_m.webp",
-      "show_category": "Temporada 1 Episódio 14 - Kung Food",
-      "start_time": "02:02",
-      "end_time": "02:24",
-      "episode_description": "Chloe modifica o prato de um famoso chef de cozinha e os resultados são assustadores. Agora, o chef tem o poder de transformar as pessoas que provam seus pratos."
-    },
-    {
-      "show_name": "Miraculous - As Aventuras de Ladybug",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_miraculous-as-aventuras-de-ladybug-s01e15-kung-food_l_m.webp",
-      "show_category": "Temporada 1 Episódio 15 - Jogador",
-      "start_time": "02:24",
-      "end_time": "02:47",
-      "episode_description": "Matt Combo fica desapontado por sua pontuação em um jogo ser superada e se torna \"O Jogador\". Ele consegue controlar a realidade como um videogame. Quanto mais pontos ele ganha, mais poderoso ele fica."
-    },
-    {
-      "show_name": "Miraculous - As Aventuras de Ladybug",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_miraculous-as-aventuras-de-ladybug-s01e16-antibug_l_m.webp",
-      "show_category": "Temporada 1 Episódio 16 - Animan",
-      "start_time": "02:47",
-      "end_time": "03:09",
-      "episode_description": "Marinette aguarda por Adrien no zoológico para um encontro e o segurança do local se torna Animan. Ladybug e Cat Noir precisam capturá-lo antes que os animais tomem conta de Paris."
-    },
-    {
-      "show_name": "Tara Duncan",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_tara-duncan-s01e21-a-floresta-elfica_l_m.webp",
-      "show_category": "Temporada 1 Episódio 21 - A Floresta Élfica",
-      "start_time": "03:09",
-      "end_time": "03:21",
-      "episode_description": "Os heróis ficam preocupados com a reação do professor quando Mani Duncan tem uma ideia."
-    },
-    {
-      "show_name": "Tara Duncan",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_tara-duncan-s01e22-a-poc-o_l_m.webp",
-      "show_category": "Temporada 1 Episódio 22 - A Poção",
-      "start_time": "03:21",
-      "end_time": "03:33",
-      "episode_description": "O grupo de heróis se divide para encontrar os ingredientes de uma poção para curar os doentes."
-    },
-    {
-      "show_name": "Tara Duncan",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_tara-duncan-s01e23-o-retrato-das-duas-irm-s_l_m.webp",
-      "show_category": "Temporada 1 Episódio 23 - O Retrato das Duas Irmãs",
-      "start_time": "03:33",
-      "end_time": "03:45",
-      "episode_description": "Tara e seus amigos procuram um Feiticeiro para devolver Mani à sua forma humana."
-    },
-    {
-      "show_name": "Tara Duncan",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_tara-duncan-s01e24-procura-se-aliado_l_m.webp",
-      "show_category": "Temporada 1 Episódio 24 - Procura-se Aliado",
-      "start_time": "03:45",
-      "end_time": "03:57",
-      "episode_description": "Magister, irritado com seus fracassos, procura contratar um novo vilão para auxiliá-lo."
-    },
-    {
-      "show_name": "Tara Duncan",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_tara-duncan-s01e25-imperatriz-por-um-dia_l_m.webp",
-      "show_category": "Temporada 1 Episódio 25 - Imperatriz por um Dia",
-      "start_time": "03:57",
-      "end_time": "04:09",
-      "episode_description": "A Imperatriz de Meme está doente. Tara assume o trono enquanto sua tia se recupera. Ela tem que enfrentar todos os tipos de situações para enfrentar esse novo desafio."
-    },
-    {
-      "show_name": "Tara Duncan",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_tara-duncan-s01e26-cade-as-pedras-preciosas_l_m.webp",
-      "show_category": "Temporada 1 Episódio 26 - Cadê as Pedras Preciosas?",
-      "start_time": "04:09",
-      "end_time": "04:21",
-      "episode_description": "O rei anão enfrenta o desaparecimento inexplicável de seu suprimento de joias. Ele chama os heróis para resolver esse mistério, que pode estar ligado à magia incontrolável de Tara."
-    },
-    {
-      "show_name": "Escola de Gênios",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_escola-de-genios-s02e25-tudo-ou-nada_l_m.webp",
-      "show_category": "Temporada 2 Episódio 25 - Tudo ou Nada",
-      "start_time": "04:21",
-      "end_time": "04:41",
-      "episode_description": "Na véspera do Torneio Regional de Robótica, Isaac prepara uma apresentação teste, mas as coisas não saem como ele imaginava. Mel e Bruno colocam o segredo do Cemitério das Invenções em risco."
-    },
-    {
-      "show_name": "Escola de Gênios",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_escola-de-genios-s02e26-o-grande-torneio_l_m.webp",
-      "show_category": "Temporada 2 Episódio 26 - O Grande Torneio",
-      "start_time": "04:41",
-      "end_time": "05:02",
-      "episode_description": "Chega o dia do Torneio Regional de Robótica e todos deixam a escola em direção ao evento. Isaac está ansioso, mas Tesla o ajuda a se controlar. Maya descobre que Álvaro Coelho pode estar presente."
-    },
-    {
-      "show_name": "Bugados",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_bugados-s02e19-o-bug-do-xadrez_l_m.webp",
-      "show_category": "Temporada 2 Episódio 19 - O Bug do Xadrez",
-      "start_time": "05:02",
-      "end_time": "05:28",
-      "episode_description": "Tyron descobre ser ótimo no xadrez e o diretor Biller traz um supercomputador para enfrentar o robô no que promete ser uma batalha eletrizante."
-    },
-    {
-      "show_name": "Bugados",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_bugados-s02e20-o-bug-da-garota-foguete_l_m.webp",
-      "show_category": "Temporada 2 Episódio 20 - O Bug da Garota Foguete",
-      "start_time": "05:28",
-      "end_time": "05:51",
-      "episode_description": "Um bug em um videogame antigo transforma Carol na Garota Foguete, deixando ela solta pela escola."
+      "show_name": "Alvinnn!!! E os Esquilos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alvinnn-e-os-esquilos-1_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "00:03",
+      "end_time": "00:14",
+      "episode_description": "O técnico Dobkins demite Cheesy e Theodore da equipe de atletismo por serem muito lentos."
     },
     {
       "show_name": "Alvinnn!!! E os Esquilos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_alvinnn-e-os-esquilos-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alvinnn-e-os-esquilos-1_l_m.jpg",
       "show_category": "Children",
-      "start_time": "05:51",
-      "end_time": "05:51",
-      "episode_description": "Os ânimos esquentam entre os esquilos e outros motoristas quando eles ficam presos no trânsito."
-    },
-    {
-      "show_name": "Alvinnn!!! E os Esquilos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_alvinnn-e-os-esquilos-1_l_m.webp",
-      "show_category": "Children",
-      "start_time": "05:51",
-      "end_time": "06:02",
-      "episode_description": "Os ânimos esquentam entre os esquilos e outros motoristas quando eles ficam presos no trânsito."
-    },
-    {
-      "show_name": "Alvinnn!!! E os Esquilos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_alvinnn-e-os-esquilos-1_l_m.webp",
-      "show_category": "Children",
-      "start_time": "06:02",
-      "end_time": "06:14",
-      "episode_description": "Os ânimos esquentam entre os esquilos e outros motoristas quando eles ficam presos no trânsito."
-    },
-    {
-      "show_name": "Alvinnn!!! E os Esquilos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_alvinnn-e-os-esquilos-1_l_m.webp",
-      "show_category": "Children",
-      "start_time": "06:14",
-      "end_time": "06:25",
-      "episode_description": "Os ânimos esquentam entre os esquilos e outros motoristas quando eles ficam presos no trânsito."
-    },
-    {
-      "show_name": "Alvinnn!!! E os Esquilos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_alvinnn-e-os-esquilos-1_l_m.webp",
-      "show_category": "Children",
-      "start_time": "06:25",
-      "end_time": "06:37",
-      "episode_description": "Os ânimos esquentam entre os esquilos e outros motoristas quando eles ficam presos no trânsito."
-    },
-    {
-      "show_name": "Alvinnn!!! E os Esquilos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_alvinnn-e-os-esquilos-1_l_m.webp",
-      "show_category": "Children",
-      "start_time": "06:37",
-      "end_time": "06:48",
-      "episode_description": "Os ânimos esquentam entre os esquilos e outros motoristas quando eles ficam presos no trânsito."
-    },
-    {
-      "show_name": "Alvinnn!!! E os Esquilos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_alvinnn-e-os-esquilos-1_l_m.webp",
-      "show_category": "Children",
-      "start_time": "06:48",
-      "end_time": "07:00",
-      "episode_description": "Os ânimos esquentam entre os esquilos e outros motoristas quando eles ficam presos no trânsito."
-    },
-    {
-      "show_name": "Dragões - Corrida Até o Limite",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_drag-es-corrida-ate-o-limite-s03e09-o-ovo-1_l_m.webp",
-      "show_category": "Temporada 3 Episódio 9 - O Ovo",
-      "start_time": "07:00",
-      "end_time": "07:22",
-      "episode_description": "Soluço e a equipe resgatam um ovo de dragão e, ao chocar, ele revela uma grande surpresa."
-    },
-    {
-      "show_name": "Dragões - Corrida Até o Limite",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_drag-es-corrida-ate-o-limite-s03e10-o-segredo-da-ilha-1_l_m.webp",
-      "show_category": "Temporada 3 Episódio 10 - O Segredo da Ilha",
-      "start_time": "07:22",
-      "end_time": "07:45",
-      "episode_description": "A turma tenta descobrir por que os homens de Viggo estão enviando blocos de mármore de uma pedreira; dois dragões escravizados precisam ser resgatados."
-    },
-    {
-      "show_name": "As Aventuras do Gato de Botas",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_as-aventuras-do-gato-de-botas-s02e03-sereia_l_m.webp",
-      "show_category": "Temporada 2 Episódio 3 - Sereia",
-      "start_time": "07:45",
-      "end_time": "08:08",
-      "episode_description": "Para provar que é um cavalheiro, o Gato salva uma sereia, mas ela se apaixona por ele e acaba se tornando seu pior pesadelo."
-    },
-    {
-      "show_name": "As Aventuras do Gato de Botas",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_as-aventuras-do-gato-de-botas-s02e04-abelhas_l_m.webp",
-      "show_category": "Temporada 2 Episódio 4 - Abelhas",
-      "start_time": "08:08",
-      "end_time": "08:31",
-      "episode_description": "Um enxame de abelhas furiosas invade a cidade e o Gato recebe uma ajuda inusitada para tentar detê-las."
-    },
-    {
-      "show_name": "A Tropa da Roça",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_a-tropa-da-roca-s01e17-deixado-para-tras_l_m.webp",
-      "show_category": "Temporada 1 Episódio 17 - Deixado para Trás",
-      "start_time": "08:31",
-      "end_time": "08:43",
-      "episode_description": "Jo acaba engolida por Cornelius após a Tropa da Roça ajudá-lo com uma dor de dente. Para não preocupar Flo, Billy a distrai enquanto Clive e Maggie voltam à cidade para resgatar Jo."
-    },
-    {
-      "show_name": "A Tropa da Roça",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_a-tropa-da-roca-s01e18-ta-quente-ta-frio_l_m.webp",
-      "show_category": "Temporada 1 Episódio 18 - Tá Quente, Tá Frio",
-      "start_time": "08:43",
-      "end_time": "08:55",
-      "episode_description": "A nova invenção de Flo é tão eficiente que faz a água do aquário de Fred e Frida evaporar; a Tropa da Roça fica presa na fazenda após o fazendeiro insistir em servir um banquete."
-    },
-    {
-      "show_name": "D.P.A. - A Feiticeira Berenice",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_d-p-a-a-feiticeira-berenice_l_m.webp",
-      "show_category": "Children",
-      "start_time": "08:55",
-      "end_time": "10:06",
-      "episode_description": "O Prédio Azul recebe uma nova moradora, Berenice, sobrinha neta de Leocádia. Ela já chega aprontando e os detetives precisam ficar de olho em cada passo dessa feiticeira dentro do prédio."
-    },
-    {
-      "show_name": "Tara Duncan",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_tara-duncan-s01e20-a-coragem-de-sheeba_l_m.webp",
-      "show_category": "Temporada 1 Episódio 20 - A Coragem de Sheeba",
-      "start_time": "10:06",
-      "end_time": "10:18",
-      "episode_description": "Sheeba tem um temperamento medroso, o que preocupa Xandiar e a Imperatriz."
-    },
-    {
-      "show_name": "Habla Mesmo",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_habla-mesmo-s01e03_l_m.webp",
-      "show_category": "Temporada 1 Episódio 3 - Rapha Vicente",
-      "start_time": "10:18",
-      "end_time": "10:41",
-      "episode_description": "Três adolescentes recebem convidados para conversas sinceras sobre amizade, identidade, representatividade e os desafios de crescer. Misturando humor, espontaneidade e reflexão, o programa celebra o poder da voz jovem e a arte de se descobrir."
-    },
-    {
-      "show_name": "Habla Mesmo",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_habla-mesmo-s01e04_l_m.webp",
-      "show_category": "Temporada 1 Episódio 4 - Mih Tanino",
-      "start_time": "10:41",
-      "end_time": "11:05",
-      "episode_description": "Três adolescentes recebem convidados para conversas sinceras sobre amizade, identidade, representatividade e os desafios de crescer. Misturando humor, espontaneidade e reflexão, o programa celebra o poder da voz jovem e a arte de se descobrir."
+      "start_time": "00:14",
+      "end_time": "00:26",
+      "episode_description": "O técnico Dobkins demite Cheesy e Theodore da equipe de atletismo por serem muito lentos."
     },
     {
       "show_name": "Miraculous - As Aventuras de Ladybug",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_miraculous-as-aventuras-de-ladybug-s01e16-antibug_l_m.webp",
-      "show_category": "Temporada 1 Episódio 16 - Animan",
-      "start_time": "11:05",
-      "end_time": "11:27",
-      "episode_description": "Marinette aguarda por Adrien no zoológico para um encontro e o segurança do local se torna Animan. Ladybug e Cat Noir precisam capturá-lo antes que os animais tomem conta de Paris."
-    },
-    {
-      "show_name": "Miraculous - As Aventuras de Ladybug",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_miraculous-as-aventuras-de-ladybug-s01e17-antibug_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_miraculous-as-aventuras-de-ladybug-s01e17-antibug_l_m.jpg",
       "show_category": "Temporada 1 Episódio 17 - Antibug",
-      "start_time": "11:27",
-      "end_time": "11:50",
+      "start_time": "00:26",
+      "end_time": "00:48",
       "episode_description": "LadyBug e Cat Noir lutam contra Chloé, que se transformou em Antibug. Ladybug terá uma difícil missão: confrontar uma oponente com os mesmos poderes que os seus."
     },
     {
       "show_name": "Miraculous - As Aventuras de Ladybug",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_miraculous-as-aventuras-de-ladybug-s02e06-robustus_l_m.webp",
-      "show_category": "Temporada 2 Episódio 6 - Revanche",
-      "start_time": "11:50",
-      "end_time": "12:12",
-      "episode_description": "Uma esgrimista misteriosa é akumatizada e transformada em Revanche. A vilã quer se vingar de Adrien depois de perder para ele em uma luta. Para protegê-lo, Ladybug terá que tirar uma espada da manga."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_miraculous-as-aventuras-de-ladybug-s01e18-a-marionestista_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 18 - A Marionetista",
+      "start_time": "00:48",
+      "end_time": "01:11",
+      "episode_description": "Marinette procura por Manon. Ela fez suas bonecas parecidas com Ladybug e Cat Noir. Devido a um mal entendido, Manon se torna uma boneca e deseja todas as bonecas de Marinette para controlá-las."
     },
     {
       "show_name": "Miraculous - As Aventuras de Ladybug",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_miraculous-as-aventuras-de-ladybug-s02e05-revanche_l_m.webp",
-      "show_category": "Temporada 2 Episódio 5 - Befana",
-      "start_time": "12:12",
-      "end_time": "12:35",
-      "episode_description": "A avó de Marinette vem visitar a família e acaba sendo akumatizada. Transformada em Befana, ela quer dar uma lição em Marinette, que preferiu passar mais tempo com os amigos do que com sua avó."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_miraculous-as-aventuras-de-ladybug-s01e19-reflekta_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 19 - Reflekta",
+      "start_time": "01:11",
+      "end_time": "01:33",
+      "episode_description": "Juleka sempre sofreu da maldição da foto de classe. Neste ano, ela se transforma em Reflekta, determinada a fazer de tudo para ser notada e transformando todos em sua imagem, incluindo Cat Noir. Só resta uma heroína para salvar Paris: Ladybug."
     },
     {
       "show_name": "Miraculous - As Aventuras de Ladybug",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_miraculous-as-aventuras-de-ladybug-s03e20-jogador-2-0_l_m.webp",
-      "show_category": "Temporada 3 Episódio 20 - Jogador 2.0",
-      "start_time": "12:35",
-      "end_time": "12:57",
-      "episode_description": "Max é atacado por Hawk Moth novamente. Agora Jogador 2.0, ele captura todos os ex-vilões akumatizados e desafia Ladybug e Cat Noir para libertá-los jogando contra ele."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_miraculous-as-aventuras-de-ladybug-s01e20-guitarrista-malvado_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 20 - Guitarrista Malvado",
+      "start_time": "01:33",
+      "end_time": "01:56",
+      "episode_description": "Jagged Stone não suporta mais as provocações de uma arrogante cantora, chamada XY. Falcão-Traça transforma Jagged no vilão \"guitarrista malvado\". Ladybug e Cat Noir, fãs de Jagged, terão que seguir o ritmo para salvar XY do vilão."
     },
     {
       "show_name": "Miraculous - As Aventuras de Ladybug",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_miraculous-as-aventuras-de-ladybug-s04e21-familia-querida_l_m.webp",
-      "show_category": "Temporada 4 Episódio 21 - Psicomédia",
-      "start_time": "12:57",
-      "end_time": "13:20",
-      "episode_description": "Um comediante famoso é akumatizado, se tornando o Psicomédia. Agora, capaz de impor qualquer emoção a qualquer um, ele quer tirar o sorriso do rosto de todos, começando com Ladybug e Cat Noir."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_miraculous-as-aventuras-de-ladybug-s01e21-guitarrista-malvado_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 21 - Pixelador",
+      "start_time": "01:56",
+      "end_time": "02:18",
+      "episode_description": "O segurança do ator de cinema Jean Haprèle impede que seu fã Billy tire uma foto com seu ídolo. As confusões começam quando Billy decide se vingar e fazer todo mundo refém. O resgate é uma foto do astro."
     },
     {
       "show_name": "Miraculous - As Aventuras de Ladybug",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_miraculous-as-aventuras-de-ladybug-s05e08-reuni-o_l_m.webp",
-      "show_category": "Temporada 5 Episódio 8 - Ilusão",
-      "start_time": "13:20",
-      "end_time": "13:44",
-      "episode_description": "Mesmo sem seu Miraculous para ajudar os heróis da cidade, Nino quer continuar ajudando Ladybug e Cat Noir. Ele decide criar uma Rede de Resistência na escola."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_miraculous-as-aventuras-de-ladybug-s01e22-simon-mandou_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 22 - Princesa Perfume",
+      "start_time": "02:18",
+      "end_time": "02:41",
+      "episode_description": "Rose é uma estudante bonita e tímida. Mas, o cheiro de óleo de cozinha em seu corpo vem lhe causando alguns problemas e ela acaba se transformando em perfume. Ela pode atrair ou afastar pessoas dependendo do cheiro que ela emana."
     },
     {
       "show_name": "Miraculous - As Aventuras de Ladybug",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_miraculous-as-aventuras-de-ladybug-s05e05-ilus-o_l_m.webp",
-      "show_category": "Temporada 5 Episódio 5 - Determinação",
-      "start_time": "13:44",
-      "end_time": "14:08",
-      "episode_description": "Marinette tenta se convencer a deixar de lado a paixão por Adrien, pois isso desvia seu foco do papel de super-heroína. Durante o processo, ela descobre que tem sentimentos por outra pessoa."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_miraculous-as-aventuras-de-ladybug-s01e23-simon-mandou_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 23 - Simon Mandou",
+      "start_time": "02:41",
+      "end_time": "03:03",
+      "episode_description": "Depois de ser ridicularizado durante um programa de TV, um hipnotizador se torna Simon. Seu objetivo é voltar para os jurados que o humilharam e, em seguida, hipnotizar o maior número de pessoas possível através do programa de TV."
     },
     {
-      "show_name": "D.P.A. - Detetives do Prédio Azul",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_d-p-a-detetives-do-predio-azul-s19e17-o-guizo_l_m.webp",
-      "show_category": "Temporada 19 Episódio 17 - O Guizo",
-      "start_time": "14:08",
-      "end_time": "14:31",
-      "episode_description": "Os detetives começam a ligar os pontos sobre os últimos acontecimentos do prédio. Os fios de lã, os pelos de gato, o creme da síndica e as atitudes de Brisa podem ser acontecimentos interligados."
+      "show_name": "Tara Duncan",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tara-duncan-s01e27-o-elfo-da-capa_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 27 - O Elfo da Capa",
+      "start_time": "03:03",
+      "end_time": "03:15",
+      "episode_description": "Cal, Glória e Fafnir percebem que algo está errado: eles estão dizendo exatamente o oposto do que pensam. Tara e Robin investigam para ajudá-los."
     },
     {
-      "show_name": "D.P.A. - Detetives do Prédio Azul",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_d-p-a-detetives-do-predio-azul-s19e18-cama-de-gato_l_m.webp",
-      "show_category": "Temporada 19 Episódio 18 - Cama de Gato",
-      "start_time": "14:31",
-      "end_time": "14:53",
-      "episode_description": "Theobaldo consegue desenvolver o antídoto para a perda de poderes em Ondion, mas uma ameaça maior ainda chega ao Prédio Azul."
+      "show_name": "Tara Duncan",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tara-duncan-s01e28-poder-das-flores_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 28 - Poder das Flores",
+      "start_time": "03:15",
+      "end_time": "03:27",
+      "episode_description": "Magister sequestra a tia de Robin para que ela faça a reforma da fortaleza cinza. Tara e seus amigos precisam confiar na magia élfica de Robin para libertá-la."
     },
     {
-      "show_name": "D.P.A. - Detetives do Prédio Azul",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_d-p-a-detetives-do-predio-azul-s19e19-acerto-de-contas_l_m.webp",
-      "show_category": "Temporada 19 Episódio 19 - Acerto de Contas",
-      "start_time": "14:53",
-      "end_time": "15:13",
-      "episode_description": "Chega a hora do acerto de contas quando os bruxos do prédio são encurralados pelas armações das vilãs Zelda e Zilda."
+      "show_name": "Tara Duncan",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tara-duncan-s01e29-galla-rabugento_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 29 - Galla Rabugento",
+      "start_time": "03:27",
+      "end_time": "03:39",
+      "episode_description": "Gala está doente e Tara deve levar outro Pégaso aos estábulos imperiais para jogar Celeste Ball. Mas Magister aproveita a situação para preparar uma armadilha para ela."
     },
     {
-      "show_name": "Saúdem Todos o Rei Julien - Exilado!",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_saudem-todos-o-rei-julien-exilado-s01e03-a-provac-o-do-ted_l_m.webp",
-      "show_category": "Temporada 1 Episódio 3 - A Provação do Ted",
-      "start_time": "15:13",
-      "end_time": "15:36",
-      "episode_description": "Mork lidera um plano para derrotar Koto; Julien, Maurice e Pancho correm o risco de serem engolidos por um monstro com tentáculos; o guru não é bem o que Clover imagina."
+      "show_name": "Tara Duncan",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tara-duncan-s01e30-carro-magico_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 30 - Carro Mágico",
+      "start_time": "03:39",
+      "end_time": "03:51",
+      "episode_description": "Cal quer um carro para seu grupo de amigos e implora à Imperatriz para obter permissão. Mas Magister decide sabotar o projeto adulterando o carro."
     },
     {
-      "show_name": "Saúdem Todos o Rei Julien - Exilado!",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_saudem-todos-o-rei-julien-exilado-s01e04-a-ponte-do-rio-mork_l_m.webp",
-      "show_category": "Temporada 1 Episódio 4 - A Ponte do Rio Mork",
-      "start_time": "15:36",
-      "end_time": "16:00",
-      "episode_description": "Enquanto Julien e companhia retornam para Madagascar, o submarino enfrenta problemas; Mork apresenta uma peça de teatro para encobrir a fuga dos prisioneiros."
+      "show_name": "Tara Duncan",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tara-duncan-s01e31-jogando-contra_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 31 - Jogando Contra",
+      "start_time": "03:51",
+      "end_time": "04:03",
+      "episode_description": "É o dia da partida em Tingal. Uma das equipes é vítima de um feitiço misterioso que interrompe o jogo. Os heróis investigam."
     },
     {
-      "show_name": "Miraculous World - Tóquio: Força Estelar",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_miraculous-world-toquio-forca-estelar_l_m.webp",
-      "show_category": "Children",
-      "start_time": "16:00",
-      "end_time": "16:51",
-      "episode_description": "Ladybug viaja para Tóquio e encontra Miki e Kazuno, antigos amigos de Kagami, que são membros da Stellar Force, uma equipe de super-heróis japoneses. Eles unem forças para impedir que um supervilão cause estragos na cidade."
+      "show_name": "Tara Duncan",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tara-duncan-s01e32-fafnir-fora-de-controle_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 32 - Fafnir Fora de Controle",
+      "start_time": "04:03",
+      "end_time": "04:15",
+      "episode_description": "A magia de Fafnir se torna incontrolável, pois nunca é usada. Magister vê uma oportunidade de roubá-lo. Tara e seus amigos não hesitam em ajudar seu amigo."
     },
     {
-      "show_name": "A Volta ao Mundo em 80 Dias",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_a-volta-ao-mundo-em-80-dias-2021_l_m.webp",
-      "show_category": "Children / 2021",
-      "start_time": "16:51",
-      "end_time": "18:10",
-      "episode_description": "Um sagui estudioso sonha em conhecer o mundo. Ao lado de um sapo malandro, eles tentam viajar ao redor da Terra em 80 dias."
+      "show_name": "Escola de Gênios",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_escola-de-genios-s03e01-novos-genios_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 1 - Novos Gênios",
+      "start_time": "04:15",
+      "end_time": "04:44",
+      "episode_description": "A chegada de Margot, Nico e Loma agita a escola; o primeiro desafio relâmpago do ano é enterrar uma cápsula do tempo da Escola de Gênios, que vai ser aberta daqui a 50 anos."
     },
     {
-      "show_name": "Alvinnn!!! E os Esquilos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_alvinnn-e-os-esquilos-1_l_m.webp",
-      "show_category": "Children",
-      "start_time": "18:10",
-      "end_time": "18:22",
-      "episode_description": "Os ânimos esquentam entre os esquilos e outros motoristas quando eles ficam presos no trânsito."
-    },
-    {
-      "show_name": "Alvinnn!!! E os Esquilos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_alvinnn-e-os-esquilos-1_l_m.webp",
-      "show_category": "Children",
-      "start_time": "18:22",
-      "end_time": "18:33",
-      "episode_description": "Os ânimos esquentam entre os esquilos e outros motoristas quando eles ficam presos no trânsito."
-    },
-    {
-      "show_name": "Alvinnn!!! E os Esquilos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_alvinnn-e-os-esquilos-1_l_m.webp",
-      "show_category": "Children",
-      "start_time": "18:33",
-      "end_time": "18:45",
-      "episode_description": "Os ânimos esquentam entre os esquilos e outros motoristas quando eles ficam presos no trânsito."
-    },
-    {
-      "show_name": "Alvinnn!!! E os Esquilos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_alvinnn-e-os-esquilos-1_l_m.webp",
-      "show_category": "Children",
-      "start_time": "18:45",
-      "end_time": "18:56",
-      "episode_description": "Os ânimos esquentam entre os esquilos e outros motoristas quando eles ficam presos no trânsito."
-    },
-    {
-      "show_name": "Alvinnn!!! E os Esquilos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_alvinnn-e-os-esquilos-1_l_m.webp",
-      "show_category": "Children",
-      "start_time": "18:56",
-      "end_time": "19:08",
-      "episode_description": "Os ânimos esquentam entre os esquilos e outros motoristas quando eles ficam presos no trânsito."
-    },
-    {
-      "show_name": "Alvinnn!!! E os Esquilos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_alvinnn-e-os-esquilos-1_l_m.webp",
-      "show_category": "Children",
-      "start_time": "19:08",
-      "end_time": "19:19",
-      "episode_description": "Os ânimos esquentam entre os esquilos e outros motoristas quando eles ficam presos no trânsito."
-    },
-    {
-      "show_name": "Alvinnn!!! E os Esquilos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_alvinnn-e-os-esquilos-1_l_m.webp",
-      "show_category": "Children",
-      "start_time": "19:19",
-      "end_time": "19:32",
-      "episode_description": "Os ânimos esquentam entre os esquilos e outros motoristas quando eles ficam presos no trânsito."
-    },
-    {
-      "show_name": "Gigablaster",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_gigablaster-s05e03-ballet-ou-bullying_l_m.webp",
-      "show_category": "Temporada 5 Episódio 3 - Ballet ou Bullying",
-      "start_time": "19:32",
-      "end_time": "19:44",
-      "episode_description": "Giga melhora no jogo de queimada, mas esconde seu segredo: o ballet. Ele não sabe por quanto tempo conseguirá manter a prática em segredo."
-    },
-    {
-      "show_name": "Gigablaster",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_gigablaster-s05e04-a-responsabilidade-chega-para-todos_l_m.webp",
-      "show_category": "Temporada 5 Episódio 4 - A Responsabilidade Chega para Todos",
-      "start_time": "19:44",
-      "end_time": "19:55",
-      "episode_description": "Giga quer ser representante para descansar em paz, mas descobre que seu parceiro será o Bebê Bolado, arruinando seus planos."
-    },
-    {
-      "show_name": "Gigablaster",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_gigablaster-s05e05-quando-as-supernovas-nascem_l_m.webp",
-      "show_category": "Temporada 5 Episódio 5 - Quando as Supernovas Nascem",
-      "start_time": "19:55",
-      "end_time": "20:07",
-      "episode_description": "Estrelinha enfrenta a despedida da bisavó, que vai se tornar uma Supernova. Giga e a família preparam a festa, mas Estrelinha não se sente pronta para o adeus."
-    },
-    {
-      "show_name": "O Dia em que a Minha Vida Mudou",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_o-dia-em-que-a-minha-vida-mudou-s02e09-porque-eu-descobri-que-eu-sou-tipo-uma-personagem-de-comedia-romantica_l_m.webp",
-      "show_category": "Temporada 2 Episódio 9 - ...Porque Eu Descobri que Eu Sou Tipo uma Personagem de Comédia Romântica",
-      "start_time": "20:07",
-      "end_time": "20:24",
-      "episode_description": "Mia e Bereba discutem, sentam separados e sofrem. Até que o garoto resolve fazer um gesto romântico."
-    },
-    {
-      "show_name": "O Dia em que a Minha Vida Mudou",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_o-dia-em-que-a-minha-vida-mudou-s01e10-por-causa-de-um-chocolate-comprado-nas-ilhas-maldivas_l_m.webp",
-      "show_category": "Temporada 1 Episódio 10 - ... Por Causa de um Chocolate Comprado nas Ilhas Maldivas",
-      "start_time": "20:24",
-      "end_time": "20:41",
-      "episode_description": "Mia precisa enfrentar vários obstáculos para mostrar sua resposta para Bereba."
-    },
-    {
-      "show_name": "O Dia em que a Minha Vida Mudou",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_o-dia-em-que-a-minha-vida-mudou-s02e01-porque-eu-embarquei-em-uma-viagem-muito-assustadora-que-tem-ate-lobisomem_l_m.webp",
-      "show_category": "Temporada 2 Episódio 1 - ... Porque Eu Embarquei em uma Viagem Muito Assustadora que Tem até Lobisomem",
-      "start_time": "20:41",
-      "end_time": "21:00",
-      "episode_description": "Mia tem medo de ir na excursão da escola, mas o ciúme que sente do namorado da mãe faz com que ela encare as surpresas da viagem, incluindo a mudança no visual de Bereba."
-    },
-    {
-      "show_name": "D.P.A. - Detetives do Prédio Azul",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_d-p-a-detetives-do-predio-azul-s13e10-a-piscina-da-sindica_l_m.webp",
-      "show_category": "Temporada 13 Episódio 10 - A Piscina da Síndica",
-      "start_time": "21:00",
-      "end_time": "21:26",
-      "episode_description": "Max ganha um peixe e Pippo e Sol o ajudam a achar um lugar para colocar o bicho. Eles encontram uma piscina no pátio, mas ela parece estar enfeitiçada e transforma o peixe em boia."
-    },
-    {
-      "show_name": "D.P.A. - Detetives do Prédio Azul",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_d-p-a-detetives-do-predio-azul-s13e11-patas-de-barata_l_m.webp",
-      "show_category": "Temporada 13 Episódio 11 - Patas de Barata",
-      "start_time": "21:26",
-      "end_time": "21:56",
-      "episode_description": "Os detetives encontram patas de barata na cantina que acabou de ser dedetizada. Essa é mais uma missão para os DPA."
-    },
-    {
-      "show_name": "D.P.A. - Detetives do Prédio Azul",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_d-p-a-detetives-do-predio-azul-s13e12-o-cappuccino_l_m.webp",
-      "show_category": "Temporada 13 Episódio 12 - O Cappuccino",
-      "start_time": "21:56",
-      "end_time": "22:21",
-      "episode_description": "Um cappuccino estranho aparece no prédio e deixa todos que o tomam muito obedientes. Pippo toma um pouco e fica enfeitiçado. Max e Sol precisam investigar o que está acontecendo."
-    },
-    {
-      "show_name": "D.P.A. - Detetives do Prédio Azul",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_d-p-a-detetives-do-predio-azul-s13e13-a-bolada_l_m.webp",
-      "show_category": "Temporada 13 Episódio 13 - A Bolada",
-      "start_time": "22:21",
-      "end_time": "22:49",
-      "episode_description": "Leocádia resolve confiscar todas as bolas do prédio depois de uma bolada quebrar seu bule. Os detetives precisam descobrir quem foi que quebrou para poderem voltar a jogar bola no pátio."
-    },
-    {
-      "show_name": "D.P.A. - Detetives do Prédio Azul",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_d-p-a-detetives-do-predio-azul-s13e14-sem-bateria_l_m.webp",
-      "show_category": "Temporada 13 Episódio 14 - Sem Bateria",
-      "start_time": "22:49",
-      "end_time": "23:18",
-      "episode_description": "Tomatini organiza uma festa na Cantina, mas Theobaldo proíbe a festa de acontecer enquanto não acharem o carregador do seu magular. Os detetives precisam achar o carregador logo para que a festa aconteça."
+      "show_name": "Escola de Gênios",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_escola-de-genios-s03e02-super-genios_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 2 - Super Gênios",
+      "start_time": "04:44",
+      "end_time": "05:09",
+      "episode_description": "Uma nova tutora chega e propõe aos alunos uma atividade para que eles se conheçam melhor; Margot cria um jogo chamado 'Super Gênios' e anima toda a escola."
     },
     {
       "show_name": "Bugados",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_bugados-s01e09-o-bug-do-doutor-penumbra_l_m.webp",
-      "show_category": "Temporada 1 Episódio 9 - O Bug do Doutor Penumbra",
-      "start_time": "23:18",
-      "end_time": "23:40",
-      "episode_description": "Neo desconfia que o professor substituto é na verdade um grande vilão do Storm Kroll. E com todo seu heroísmo, faz de tudo para provar que está certo."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bugados-s02e21-o-bug-dos-clones_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 21 - O Bug dos Clones",
+      "start_time": "05:09",
+      "end_time": "05:09",
+      "episode_description": "Carol precisa terminar de estudar e Mig quer passar de uma fase no Storm Kroll. No mundo dos Bugados só há uma solução pra isso: clones."
     },
     {
       "show_name": "Bugados",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/tomorrow/br_bugados-s01e10-o-bug-do-controle-remoto_l_m.webp",
-      "show_category": "Temporada 1 Episódio 10 - O Bug do Controle Remoto",
-      "start_time": "23:40",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bugados-s02e21-o-bug-dos-clones_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 21 - O Bug dos Clones",
+      "start_time": "05:09",
+      "end_time": "06:48",
+      "episode_description": "Carol precisa terminar de estudar e Mig quer passar de uma fase no Storm Kroll. No mundo dos Bugados só há uma solução pra isso: clones."
+    },
+    {
+      "show_name": "Alvinnn!!! E os Esquilos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alvinnn-e-os-esquilos-1_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "06:48",
+      "end_time": "14:48",
+      "episode_description": "O técnico Dobkins demite Cheesy e Theodore da equipe de atletismo por serem muito lentos."
+    },
+    {
+      "show_name": "Alvinnn!!! E os Esquilos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alvinnn-e-os-esquilos-1_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "14:48",
+      "end_time": "18:48",
+      "episode_description": "O técnico Dobkins demite Cheesy e Theodore da equipe de atletismo por serem muito lentos."
+    },
+    {
+      "show_name": "Alvinnn!!! E os Esquilos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alvinnn-e-os-esquilos-1_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "18:48",
       "end_time": "",
-      "episode_description": "Carol encontra um controle remoto antigo e descobre que com ele consegue controlar Tyron. Quando Glinda descobre, o robô acaba ficando nas mãos das duas."
+      "episode_description": "O técnico Dobkins demite Cheesy e Theodore da equipe de atletismo por serem muito lentos."
     }
   ]
 }
