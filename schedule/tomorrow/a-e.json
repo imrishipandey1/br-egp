@@ -1,278 +1,206 @@
 {
   "channel": "A&E",
-  "date": "02/02/2026",
+  "date": "03/02/2026",
   "schedule": [
     {
       "show_name": "Filme",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_filme-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_filme-1_l_m.jpg",
       "show_category": "Variety",
-      "start_time": "00:50",
-      "end_time": "02:20",
+      "start_time": "00:49",
+      "end_time": "02:28",
+      "episode_description": "Acompanhe uma produção cinematográfica."
+    },
+    {
+      "show_name": "Acumuladores Compulsivos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "02:28",
+      "end_time": "03:22",
+      "episode_description": "Profissionais tentam ajudar pessoas que acumulam lixo de forma compulsiva. Montanhas de sujeira se aglomeram pela casa e as consequências podem ser despejo, prisão e até mesmo a perda da guarda de seus filhos."
+    },
+    {
+      "show_name": "Acumuladores Compulsivos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "03:22",
+      "end_time": "04:12",
+      "episode_description": "Profissionais tentam ajudar pessoas que acumulam lixo de forma compulsiva. Montanhas de sujeira se aglomeram pela casa e as consequências podem ser despejo, prisão e até mesmo a perda da guarda de seus filhos."
+    },
+    {
+      "show_name": "Mente Criminosa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mente-criminosa_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "04:12",
+      "end_time": "05:02",
+      "episode_description": "O programa faz uma abordagem de crimes famosos sob uma perspectiva diferente. Os telespectadores têm uma visão ampla do caso sob o prisma daqueles que estiveram diretamente ligados ao acontecimento."
+    },
+    {
+      "show_name": "Flagrantes - Câmeras de Segurança",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_flagrantes-cameras-de-seguranca_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "05:02",
+      "end_time": "05:31",
+      "episode_description": "Francisco Zea conta como câmeras de videomonitoramento registram surpreendentes tentativas de fuga, seguem um motorista que foge de um posto policial a toda velocidade, descobrem suspeitos e outras peripécias."
+    },
+    {
+      "show_name": "Flagrantes - Câmeras de Segurança",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_flagrantes-cameras-de-seguranca_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "05:31",
+      "end_time": "06:00",
+      "episode_description": "Francisco Zea conta como câmeras de videomonitoramento registram surpreendentes tentativas de fuga, seguem um motorista que foge de um posto policial a toda velocidade, descobrem suspeitos e outras peripécias."
+    },
+    {
+      "show_name": "Serial Killer - O Começo de Tudo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_serial-killer-o-comeco-de-tudo_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "06:00",
+      "end_time": "06:47",
+      "episode_description": "Veja alguns dos assassinos em série mais notórios dos EUA pelo prisma de suas primeiras mortes conhecidas. A investigação busca revelar o que os levou ao momento em que a fantasia e a curiosidade violentas se tornaram uma realidade devastadora."
+    },
+    {
+      "show_name": "Casos Arquivados",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_casos-arquivados-1_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "06:47",
+      "end_time": "07:34",
+      "episode_description": "Com o surgimento de novas evidências e com os avanços das técnicas forenses, policiais e detetives tentam resolver crimes que estão arquivados e sem respostas."
+    },
+    {
+      "show_name": "As Primeiras 48 Horas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_as-primeiras-48-horas-1_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "07:34",
+      "end_time": "07:37",
+      "episode_description": "A série mostra como os detetives usam provas forenses e depoimentos de testemunhas para identificar suspeitos."
+    },
+    {
+      "show_name": "Acusado: Culpado ou Inocente?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_acusado-culpado-ou-inocente_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "07:37",
+      "end_time": "08:25",
+      "episode_description": "Um relato intimista sobre o que acontece quando um indivíduo é acusado e julgado por um crime, contado pela perspectiva do réu, de seu time de advogados, e seus familiares, passando pelo processo de planejamento legal, até o julgamento."
+    },
+    {
+      "show_name": "Fichados - Primeira Vez na Prisão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_fichados-primeira-vez-na-pris-o_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "08:25",
+      "end_time": "09:12",
+      "episode_description": "Todos os dias, dezenas de milhares de pessoas são presas ou são levadas a prisões dos Estados Unidos inteiro. Descubra como elas passam seus primeiros dias em um presídio a partir de suas próprias perspectivas."
+    },
+    {
+      "show_name": "Fichados - Primeira Vez na Prisão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_fichados-primeira-vez-na-pris-o_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "09:12",
+      "end_time": "09:17",
+      "episode_description": "Todos os dias, dezenas de milhares de pessoas são presas ou são levadas a prisões dos Estados Unidos inteiro. Descubra como elas passam seus primeiros dias em um presídio a partir de suas próprias perspectivas."
+    },
+    {
+      "show_name": "Fichados - Primeira Vez na Prisão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_fichados-primeira-vez-na-pris-o_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "09:17",
+      "end_time": "09:20",
+      "episode_description": "Todos os dias, dezenas de milhares de pessoas são presas ou são levadas a prisões dos Estados Unidos inteiro. Descubra como elas passam seus primeiros dias em um presídio a partir de suas próprias perspectivas."
+    },
+    {
+      "show_name": "Serial Killer - O Começo de Tudo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_serial-killer-o-comeco-de-tudo_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "09:20",
+      "end_time": "10:08",
+      "episode_description": "Veja alguns dos assassinos em série mais notórios dos EUA pelo prisma de suas primeiras mortes conhecidas. A investigação busca revelar o que os levou ao momento em que a fantasia e a curiosidade violentas se tornaram uma realidade devastadora."
+    },
+    {
+      "show_name": "Evidências Digitais de um Assassinato",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_evidencias-digitais-de-um-assassinato_l_m.jpg",
+      "show_category": "Crime",
+      "start_time": "10:08",
+      "end_time": "10:13",
+      "episode_description": "Descubra como a tecnologia de ponta se tornou a nova ferramenta na resolução de homicídios."
+    },
+    {
+      "show_name": "Filme",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_filme-1_l_m.jpg",
+      "show_category": "Variety",
+      "start_time": "10:13",
+      "end_time": "11:59",
       "episode_description": "Acompanhe uma produção cinematográfica."
     },
     {
       "show_name": "Filme",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_filme-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_filme-1_l_m.jpg",
       "show_category": "Variety",
-      "start_time": "02:20",
-      "end_time": "04:11",
+      "start_time": "11:59",
+      "end_time": "13:52",
       "episode_description": "Acompanhe uma produção cinematográfica."
     },
     {
-      "show_name": "Evidências Digitais de um Assassinato",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_evidencias-digitais-de-um-assassinato_l_m.webp",
+      "show_name": "Filme",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_filme-1_l_m.jpg",
+      "show_category": "Variety",
+      "start_time": "13:52",
+      "end_time": "15:56",
+      "episode_description": "Acompanhe uma produção cinematográfica."
+    },
+    {
+      "show_name": "Filme",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_filme-1_l_m.jpg",
+      "show_category": "Variety",
+      "start_time": "15:56",
+      "end_time": "17:32",
+      "episode_description": "Acompanhe uma produção cinematográfica."
+    },
+    {
+      "show_name": "Acusado: Culpado ou Inocente?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_acusado-culpado-ou-inocente_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "17:32",
+      "end_time": "18:20",
+      "episode_description": "Um relato intimista sobre o que acontece quando um indivíduo é acusado e julgado por um crime, contado pela perspectiva do réu, de seu time de advogados, e seus familiares, passando pelo processo de planejamento legal, até o julgamento."
+    },
+    {
+      "show_name": "Operação Policial",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_operac-o-policial-1_l_m.jpg",
       "show_category": "Crime",
-      "start_time": "04:11",
-      "end_time": "04:16",
-      "episode_description": "Descubra como a tecnologia de ponta se tornou a nova ferramenta na resolução de homicídios."
+      "start_time": "18:20",
+      "end_time": "19:13",
+      "episode_description": "Acompanhe perseguições policiais perigosas nas ruas brasileiras."
     },
     {
-      "show_name": "Mente Criminosa",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_mente-criminosa_l_m.webp",
-      "show_category": "Documentary",
-      "start_time": "04:16",
-      "end_time": "05:03",
-      "episode_description": "O programa faz uma abordagem de crimes famosos sob uma perspectiva diferente. Os telespectadores têm uma visão ampla do caso sob o prisma daqueles que estiveram diretamente ligados ao acontecimento."
+      "show_name": "Mulheres Perigosas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mulheres-perigosas_l_m.jpg",
+      "show_category": "Crime",
+      "start_time": "19:13",
+      "end_time": "20:02",
+      "episode_description": "Histórias de mulheres que atraem suas vítimas para mortes por riqueza, luxúria e poder."
     },
     {
-      "show_name": "As Primeiras 48 Horas",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_as-primeiras-48-horas-1_l_m.webp",
-      "show_category": "Reality",
-      "start_time": "05:03",
-      "end_time": "05:08",
-      "episode_description": "A série mostra como os detetives usam provas forenses e depoimentos de testemunhas para identificar suspeitos."
-    },
-    {
-      "show_name": "As Primeiras 48 Horas",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_as-primeiras-48-horas-1_l_m.webp",
-      "show_category": "Reality",
-      "start_time": "05:08",
-      "end_time": "05:13",
-      "episode_description": "A série mostra como os detetives usam provas forenses e depoimentos de testemunhas para identificar suspeitos."
-    },
-    {
-      "show_name": "Mente Criminosa",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_mente-criminosa_l_m.webp",
-      "show_category": "Documentary",
-      "start_time": "05:13",
-      "end_time": "06:00",
-      "episode_description": "O programa faz uma abordagem de crimes famosos sob uma perspectiva diferente. Os telespectadores têm uma visão ampla do caso sob o prisma daqueles que estiveram diretamente ligados ao acontecimento."
-    },
-    {
-      "show_name": "Arquivo Morto: O DNA Não Falha",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_arquivo-morto-o-dna-n-o-falha-s01e07-assassinato-por-dinheiro_l_m.webp",
-      "show_category": "Temporada 1 Episódio 7 - Assassinato por Dinheiro",
-      "start_time": "06:00",
-      "end_time": "06:47",
-      "episode_description": "O dono de um posto de gasolina no Texas é assassinado a tiros dentro de sua cabine de desconto de cheques em 2002, os detetives suspeitam que a sua morte foi executada por alguém que ele conhecia."
-    },
-    {
-      "show_name": "Guerra no Trânsito",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_guerra-no-transito-s02e01-desastre-na-direc-o_l_m.webp",
-      "show_category": "Temporada 2 Episódio 1 - Desastre na Direção",
-      "start_time": "06:47",
-      "end_time": "07:10",
-      "episode_description": "Um motociclista chuta um carro causando uma reação em cadeia; um motorista foge logo após ser atropelado; um ciclista e um motorista discutem em Nova York. Um homem da Flórida parado por excesso de velocidade culpa Vladimir Putin."
-    },
-    {
-      "show_name": "Guerra no Trânsito",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_guerra-no-transito-s02e02-queimando-pneu_l_m.webp",
-      "show_category": "Temporada 2 Episódio 2 - Queimando Pneu",
-      "start_time": "07:10",
-      "end_time": "07:33",
-      "episode_description": "Na Times Square, um motorista quase atropela um policial; um sedã é arrastado de uma rodovia na Califórnia; um oficial da Flórida se segura em um carro em pleno movimento; um avião faz um pouso de emergência em uma rodovia em Washington."
-    },
-    {
-      "show_name": "Guerra no Trânsito",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_guerra-no-transito-s02e03-rapidos-e-destemidos_l_m.webp",
-      "show_category": "Temporada 2 Episódio 3 - Rápidos e Destemidos",
-      "start_time": "07:33",
-      "end_time": "07:56",
-      "episode_description": "Um motorista oriundo do Bronx recebe um carma instantâneo; uma mulher enfrenta um estacionamento lotado para conseguir ter uma vaga; um Maserati roubado leva a um final trágico; um homem segue um motorista até a casa; um cachorro pula na rodovia."
-    },
-    {
-      "show_name": "Clientes em Guerra",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_clientes-em-guerra_l_m.webp",
-      "show_category": "Reality",
-      "start_time": "07:56",
-      "end_time": "08:20",
-      "episode_description": "Clientes insatisfeitos e irracionais entram em choque com funcionários que só estão tentando fazer o seu trabalho da melhor forma."
-    },
-    {
-      "show_name": "Clientes em Guerra",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_clientes-em-guerra_l_m.webp",
-      "show_category": "Reality",
-      "start_time": "08:20",
-      "end_time": "08:45",
-      "episode_description": "Clientes insatisfeitos e irracionais entram em choque com funcionários que só estão tentando fazer o seu trabalho da melhor forma."
-    },
-    {
-      "show_name": "Clientes em Guerra",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_clientes-em-guerra_l_m.webp",
-      "show_category": "Reality",
-      "start_time": "08:45",
-      "end_time": "09:10",
-      "episode_description": "Clientes insatisfeitos e irracionais entram em choque com funcionários que só estão tentando fazer o seu trabalho da melhor forma."
-    },
-    {
-      "show_name": "Clientes em Guerra",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_clientes-em-guerra_l_m.webp",
-      "show_category": "Reality",
-      "start_time": "09:10",
-      "end_time": "09:35",
-      "episode_description": "Clientes insatisfeitos e irracionais entram em choque com funcionários que só estão tentando fazer o seu trabalho da melhor forma."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_quem-da-mais-s11e05-quente-demais_l_m.webp",
-      "show_category": "Temporada 11 Episódio 5 - Quente Demais",
-      "start_time": "09:35",
-      "end_time": "10:00",
-      "episode_description": "O calor excessivo de Riverside tem um efeito adverso em Kenny, que começa a ter ilusões de ótica; Ivy incentiva Mary; Shana e Edwina encontram o seu paraíso na terra."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_quem-da-mais-s11e03-a-temporada-do-kitsch_l_m.webp",
-      "show_category": "Temporada 11 Episódio 3 - A Temporada do Kitsch",
-      "start_time": "10:00",
-      "end_time": "10:25",
-      "episode_description": "Brandi e Jarrod mostram as garras em Victorville; Ivy fica com um armário que ninguém mais aceita pegar e Mary é a encarregada de colocar o novo participante em seu lugar."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_quem-da-mais-s11e04-puro-romantismo_l_m.webp",
-      "show_category": "Temporada 11 Episódio 4 - Puro Romantismo",
-      "start_time": "10:25",
-      "end_time": "10:50",
-      "episode_description": "Ivy obtém uma grande vitória perto de Lancaster e Dave se aproveita de sua boa sorte para conseguir crédito; Justin deixa Rene à flor da pele e sua estratégia funciona com perfeição."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_quem-da-mais-s11e06-kumba-sim_l_m.webp",
-      "show_category": "Temporada 11 Episódio 6 - Kumba-Sim!",
-      "start_time": "10:50",
-      "end_time": "11:15",
-      "episode_description": "Dave se apresenta com tudo diante das garotas de Las Vegas, tirando suas unidades e deixando só migalhas para elas; Kenny e Mary, que já o conhecem, formam uma aliança contra ele e evitam ficar de mãos vazias."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_quem-da-mais-s11e07-lances-estilo-las-vegas_l_m.webp",
-      "show_category": "Temporada 11 Episódio 7 - Lances Estilo Las Vegas",
-      "start_time": "11:15",
-      "end_time": "11:40",
-      "episode_description": "As garotas de Las Vegas experimentam um novo estilo de esforço em Placentia; Brandi e Jarrod, por sua vez, utilizam um recurso pouco comum; Kenny e seu irmão demonstram a todos que a família vem em segundo lugar."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_quem-da-mais-s11e08-a-legi-o-dos-gananciosos_l_m.webp",
-      "show_category": "Temporada 11 Episódio 8 - A Legião dos Gananciosos",
-      "start_time": "11:40",
-      "end_time": "12:05",
-      "episode_description": "Rene rouba as unidades em Rancho Palos Verdes, Califórnia; um pequeno investimento gera um grande retorno para Justin, que se mostra um ótimo negociante; o armário de Mary revela um passado pegajoso."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_quem-da-mais-s11e09-um-punhado-de-dolares_l_m.webp",
-      "show_category": "Temporada 11 Episódio 9 - Um Punhado de Dólares",
-      "start_time": "12:05",
-      "end_time": "12:30",
-      "episode_description": "Em Paramount, Emily é a única mulher do grupo; Justin pede conselhos a Ivy para conseguir ajuda com as peças de um Cadillac antigo; Kenny fala sem pensar em um leilão e pode pagar muito caro por seu erro."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_quem-da-mais-1_l_m.webp",
-      "show_category": "Reality",
-      "start_time": "12:30",
-      "end_time": "12:55",
-      "episode_description": "Veja como comerciantes podem ficar ricos com a compra de depósitos individuais abandonados. Eles são detetives e jogadores ao mesmo tempo, com minutos para olhar dentro das unidades antes de decidir se querem entrar no leilão, um jogo de alto risco."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_quem-da-mais-s11e11-de-arrepiar_l_m.webp",
-      "show_category": "Temporada 11 Episódio 11 - De Arrepiar",
-      "start_time": "12:55",
-      "end_time": "13:20",
-      "episode_description": "Kenny se fixa no passado; Brandi e Jarrod trabalham em uma ferramenta especial; Darrell e sua neta desenterram um achado macabro."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_quem-da-mais-s11e12-vestida-para-o-sucesso_l_m.webp",
-      "show_category": "Temporada 11 Episódio 12 - Vestida para o Sucesso",
-      "start_time": "13:20",
-      "end_time": "13:45",
-      "episode_description": "Em West Covina, Kenny caça pumas, mas só encontra um púlpito portátil; Ivy se dedica a ensinar às mulheres como se vestir para o sucesso."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_quem-da-mais-s11e13-sr-gente-boa_l_m.webp",
-      "show_category": "Temporada 11 Episódio 13 - Sr. Gente Boa",
-      "start_time": "13:45",
-      "end_time": "14:10",
-      "episode_description": "Rene é seduzido pela simpatia de Justin e lhe ajuda a subir de nível; o contêiner cilíndrico de Darrell termina sendo uma grande conquista."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_quem-da-mais-s10e01-compras-e-videogames_l_m.webp",
-      "show_category": "Temporada 10 Episódio 1 - Compras e Videogames",
-      "start_time": "14:10",
-      "end_time": "14:35",
-      "episode_description": "O jardim de Ivy parece mais verde; Darrell recebe móveis elegantes; René não para de jogar; Maria enfrenta uma maré de azar."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_quem-da-mais-s10e02-santo-ceu_l_m.webp",
-      "show_category": "Temporada 10 Episódio 2 - Santo Céu",
-      "start_time": "14:35",
-      "end_time": "15:00",
-      "episode_description": "Darell consegue uma oportunidade na escola de seu amigo em Moreno Valley, Califórnia."
-    },
-    {
-      "show_name": "Perseguidor Noturno",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_perseguidor-noturno-2016_l_m.webp",
-      "show_category": "Crime drama / 2016",
-      "start_time": "15:00",
-      "end_time": "16:40",
-      "episode_description": "Um homem está no corredor da morte e vai ser executado dentro de apenas alguns dias por conta de um assassinato. Como ele se diz inocente, sua única esperança é que seus advogados consigam convencer o serial killer Richard Ramirez a confessar que foi o responsável pelo crime. Em uma última tentativa de persuadir Ramirez a confessar e salvar a vida do condenado, a advogada Kit resolve viajar para a Califórnia e falar pessoalmente com o serial killer na prisão estadual de San Quentin."
-    },
-    {
-      "show_name": "O Assassino Happy Face",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_o-assassino-happy-face-2014_l_m.webp",
-      "show_category": "Docudrama / 2014",
-      "start_time": "16:40",
-      "end_time": "18:15",
-      "episode_description": "Em pouco mais de cinco anos, o assassino em série Keith Jesperson matou pelo menos oito mulheres, ridicularizando as autoridades ao deixar cartas e confissões em forma de rabiscos, assinadas com o símbolo de uma carinha sorridente."
-    },
-    {
-      "show_name": "Promessas de Guerra",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_promessas-de-guerra-2014_l_m.webp",
-      "show_category": "Historical drama / 2014",
-      "start_time": "18:15",
-      "end_time": "20:10",
-      "episode_description": "Um homem australiano embarca numa odisseia até a Turquia para resgatar os corpos de três filhos desaparecidos em uma batalha durante a Primeira Guerra Mundial."
-    },
-    {
-      "show_name": "Agora Estamos Sozinhos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_agora-estamos-sozinhos-2018_l_m.webp",
-      "show_category": "Science fiction / 2018",
-      "start_time": "20:10",
+      "show_name": "Filme",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_filme-1_l_m.jpg",
+      "show_category": "Variety",
+      "start_time": "20:02",
       "end_time": "22:00",
-      "episode_description": "Depois que a raça humana é aniquilada, Del fica sozinho no mundo. Ele vive em uma cidade pequena, indo de casa em casa, coletando coisas úteis e enterrando os mortos, até que uma intrusa aparece para ficar."
+      "episode_description": "Acompanhe uma produção cinematográfica."
     },
     {
-      "show_name": "Morte por Encomenda",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_morte-por-encomenda-2010-1_l_m.webp",
-      "show_category": "Mystery / 2010",
+      "show_name": "Mulheres Perigosas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mulheres-perigosas_l_m.jpg",
+      "show_category": "Crime",
       "start_time": "22:00",
-      "end_time": "23:45",
-      "episode_description": "Um detetive particular é contratado para investigar o desaparecimento de uma dançarina sensual. Porém, o caso começa a ficar complicado quando todas as pessoas interrogadas por ele aparecem mortas, deixando um rastro de violência."
+      "end_time": "22:50",
+      "episode_description": "Histórias de mulheres que atraem suas vítimas para mortes por riqueza, luxúria e poder."
     },
     {
-      "show_name": "Segredos da Playboy",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_segredos-da-playboy-s01e05-o-circo_l_m.webp",
-      "show_category": "Temporada 1 Episódio 5 - O Circo",
-      "start_time": "23:45",
+      "show_name": "Filme",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_filme-1_l_m.jpg",
+      "show_category": "Variety",
+      "start_time": "22:50",
       "end_time": "",
-      "episode_description": "Sondra Theodore compartilha a sua história detalhando como Hefner a preparou para uma vida sexual cada vez mais abusiva. O seu depoimento revela os mecanismos utilizados por ele para controlar e quebrar emocionalmente as mulheres."
+      "episode_description": "Acompanhe uma produção cinematográfica."
     }
   ]
 }
