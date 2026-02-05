@@ -1,0 +1,582 @@
+{
+  "channel": "Futura",
+  "date": "05/02/2026",
+  "schedule": [
+    {
+      "show_name": "Na Trilha da Energia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_na-trilha-da-energia-s03e03-a-energia-sera-verde_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 3 - A Energia Será Verde",
+      "start_time": "00:00",
+      "end_time": "00:30",
+      "episode_description": "Hidrogênio verde japonês olha para o futuro. Tecnologia e pesquisa para desenvolvimento sustentável."
+    },
+    {
+      "show_name": "A Trilha Transcarioca",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-trilha-transcarioca-s01e01-cidade-e-floresta_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - Cidade e Floresta",
+      "start_time": "00:30",
+      "end_time": "01:00",
+      "episode_description": "Os atrativos naturais e as conexões urbanas da Trilha Transcarioca com as áreas verdes que cruzam a maior trilha urbana de longo curso da América Latina."
+    },
+    {
+      "show_name": "A(u)tores",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-u-tores-s04e04-machado-de-assis-por-martinho-da-vila_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 4 - Machado de Assis por Martinho da Vila",
+      "start_time": "01:00",
+      "end_time": "01:30",
+      "episode_description": "Martinho da Vila debutou no samba-enredo com uma canção sobre Machado de Assis e segue admirando sua obra e sendo devoto da Língua Portuguesa."
+    },
+    {
+      "show_name": "Som e Prosa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_som-e-prosa_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "01:30",
+      "end_time": "01:45",
+      "episode_description": "A cada semana, artistas e compositores se apresentam e discutem seus repertórios, tradições e novidades do cenário da música."
+    },
+    {
+      "show_name": "Entrevista - Infâncias",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_entrevista-infancias_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "01:45",
+      "end_time": "02:00",
+      "episode_description": "Segundo a Unicef, crianças com alguma deficiência têm três vezes mais chances de sofrer violência sexual. A psicóloga Laureane Lima explica formas de evitar que esses abusos aconteçam."
+    },
+    {
+      "show_name": "(In)Confidências",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_in-confidencias-s01e03-joel-zito-araujo_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3 - Joel Zito Araújo",
+      "start_time": "02:00",
+      "end_time": "02:15",
+      "episode_description": "A formação de um cineasta ativista: o diretor Joel Zito Araújo conta sobre trajetória no cinema."
+    },
+    {
+      "show_name": "E Aí, Professor?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_e-ai-professor-s03e01-eja-e-um-direito-humano_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 1 - EJA É um Direito Humano!",
+      "start_time": "02:15",
+      "end_time": "02:30",
+      "episode_description": "Os desafios e urgências que envolvem tanto educadores, quanto educandos."
+    },
+    {
+      "show_name": "Na Vanguarda",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_na-vanguarda-s01e02-polaroid-tiktok_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Polaroid & TikTok",
+      "start_time": "02:30",
+      "end_time": "03:30",
+      "episode_description": "Sempre houve obsessão por fazer e compartilhar vídeos. Duas empresas revolucionárias atenderam à necessidade humana de compartilhamento: a Polaroid na década de 1970 e, mais recentemente, o TikTok."
+    },
+    {
+      "show_name": "Natureza Forte",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_natureza-forte-s02e05-gastronomia-no-semiarido_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 5 - Gastronomia no Semiárido",
+      "start_time": "03:30",
+      "end_time": "04:00",
+      "episode_description": "Do sabor exótico do mandacaru à cachaça feita com frutas do bioma, o Semiárido transforma-se em um prato sofisticado. Jucilene e Lídio apostam na riqueza da terra para criar produtos que encantam o paladar."
+    },
+    {
+      "show_name": "Eco Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_eco-brasil-s01e06-na-moda-sem-remorso_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 6 - Na Moda sem Remorso",
+      "start_time": "04:00",
+      "end_time": "04:25",
+      "episode_description": "A indústria da moda cresceu sem se preocupar com a natureza, mas isto está mudando. Brechós e reciclagem nunca estiveram tão na moda."
+    },
+    {
+      "show_name": "Tocando a Real",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tocando-a-real-s02e15-radioatividade_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 15 - Radioatividade",
+      "start_time": "04:25",
+      "end_time": "04:35",
+      "episode_description": "Entenda o que é radioatividade, quais são os usos e os diferentes tipos de radiação."
+    },
+    {
+      "show_name": "Reload",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_reload-s02e06-ser-mulher-no-brasil_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 6 - Ser Mulher no Brasil",
+      "start_time": "04:35",
+      "end_time": "04:45",
+      "episode_description": "Veja um retrato da situação das mulheres no Brasil e as batalhas que ainda são travadas por direitos fundamentais."
+    },
+    {
+      "show_name": "Sou Chorinho",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sou-chorinho-s01e02_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Musicalidade",
+      "start_time": "04:45",
+      "end_time": "05:15",
+      "episode_description": "Conheça os instrumentos musicais, nuances, grupos de choro, características específicas do gênero, choro cantado, além de explicações dos especialistas sobre a sonoridade do ritmo."
+    },
+    {
+      "show_name": "Entrevista - Educação no Centenário de Paulo Freire",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_entrevista-educac-o-no-centenario-de-paulo-freire_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "05:15",
+      "end_time": "05:25",
+      "episode_description": "A professora Selma Rocha e João Luiz Pedrosa conversam sobre a importância da prática freireana da escuta, principalmente para encarar os desafios da educação no contexto pós-pandemia."
+    },
+    {
+      "show_name": "Canal da História",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_canal-da-historia-s01e23-jo-o-saldanha_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 23 - João Saldanha",
+      "start_time": "05:25",
+      "end_time": "05:45",
+      "episode_description": "João Saldanha, responsável pela escalação da base do time da copa de 1970, vem ao programa para falar sobre como o governo ditatorial no Brasil, influiu no esporte símbolo da nação brasileira."
+    },
+    {
+      "show_name": "Ciência para Todos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ciencia-para-todos-s02e03-o-museu-do-ipiranga-revive_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 3 - O Museu do Ipiranga Revive",
+      "start_time": "05:45",
+      "end_time": "06:00",
+      "episode_description": "Após o fechamento do Museu do Ipiranga em 2013, um longo processo de restauração que aliou arte e ciência foi fundamental para a sua reabertura quase uma década depois."
+    },
+    {
+      "show_name": "Novo Telecurso - Ensino Fundamental",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_novo-telecurso-ensino-fundamental_l_m.jpg",
+      "show_category": "Educational",
+      "start_time": "06:00",
+      "end_time": "06:15",
+      "episode_description": "As teleaulas abordam o conteúdo pedagógico e informações referentes ao ensino fundamental para jovens e adultos."
+    },
+    {
+      "show_name": "Novo Telecurso - Ensino Médio",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_novo-telecurso-ensino-medio_l_m.jpg",
+      "show_category": "Educational",
+      "start_time": "06:15",
+      "end_time": "06:30",
+      "episode_description": "As teleaulas abordam o conteúdo pedagógico do Ensino Médio e são destinadas a jovens e adultos. O objetivo é levar educação para aqueles que não possuem acesso formal e presencial."
+    },
+    {
+      "show_name": "Conexão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_conex-o_l_m.jpg",
+      "show_category": "Educational",
+      "start_time": "06:30",
+      "end_time": "07:00",
+      "episode_description": "Entrevistas, depoimentos e participações ao vivo trazem assuntos de grande importância para a construção da cidadania, por meio de uma linguagem simplificada."
+    },
+    {
+      "show_name": "O Dia em que me Tornei Mais Forte",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-dia-em-que-me-tornei-mais-forte_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "07:00",
+      "end_time": "07:05",
+      "episode_description": "Conheça histórias de crianças fortes de todo o mundo."
+    },
+    {
+      "show_name": "Tuiga",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tuiga-s02e26-ultimo-dodo_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 26 - Último Dodô",
+      "start_time": "07:05",
+      "end_time": "07:10",
+      "episode_description": "Todos achavam que os dodôs já estavam extintos, mas parece que o último dodô resolveu dar as caras atrás de fama e fortuna. Ao fazer uma entrega na delegacia do Pinscher Brandon, a equipe investiga a tal celebridade."
+    },
+    {
+      "show_name": "Tuiga",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tuiga-s02e03-t-rex-express_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 3 - T-Rex Express",
+      "start_time": "07:10",
+      "end_time": "07:15",
+      "episode_description": "A turma recebe uma encomenda inusitada. Precisam levar um fóssil de dinossauro até o museu a tempo da Grande Exposição. Contudo, um bando de papagaios piratas vai fazer de tudo para impedir."
+    },
+    {
+      "show_name": "O Diário de Mika",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-diario-de-mika-s02e60-falando-diferente_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 60 - Falando Diferente",
+      "start_time": "07:15",
+      "end_time": "07:25",
+      "episode_description": "Um aluno novo entra na sala de Mika, mas ela não entende o que ele diz porque ele fala uma língua diferente. Com a ajuda de Blablá, a garota tenta encontrar formas de se comunicar com seu novo amigo."
+    },
+    {
+      "show_name": "Contos do Iéti",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_contos-do-ieti-s04e45-o-varal-de-orbie_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 45 - O Varal de Orbie",
+      "start_time": "07:25",
+      "end_time": "07:30",
+      "episode_description": "Iéti conta a história de um menino que puxa um varal com força e voa para o alto."
+    },
+    {
+      "show_name": "Contos do Iéti",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_contos-do-ieti-s01e08-poka-e-mia_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 8 - Poka e Mia",
+      "start_time": "07:30",
+      "end_time": "07:40",
+      "episode_description": "Nina e Leon querem que Yetili leia para eles um dos livros de Poka & Mia, mas eles não conseguem decidir qual; Yetili sugere que eles tirem a sorte e Nina escolha a história."
+    },
+    {
+      "show_name": "Tainá e os Guardiões da Amazônia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_taina-e-os-guardi-es-da-amazonia-s01e13-a-sucuri-comilona_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 13 - Que Fome, Sofia",
+      "start_time": "07:40",
+      "end_time": "07:50",
+      "episode_description": "Tainá não quer comer, só quer brincar, e mal consegue atender o novo chamado do cru-cru. Sofia, a sucuri comilona, fica presa em uma árvore de tão estufada que ela está. Os amigos tentam de todo jeito, mas a sucuri está muito barriguda."
+    },
+    {
+      "show_name": "MYTIKAH - O Livro dos Heróis",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mytikah-o-livro-dos-herois-s02e11-domitila-chungara_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 11 - Domitila Chungara",
+      "start_time": "07:50",
+      "end_time": "08:00",
+      "episode_description": "Manga está brava porque o time feminino não pode participar do campeonato da escola, quando Mytikah as leva à Bolívia, para conhecer Domitila Chungara, uma ativista pelos direitos dos trabalhadores de minas e das mulheres."
+    },
+    {
+      "show_name": "O Mundo que Sei",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-mundo-que-sei-s01e05-terra-a-nossa-casa_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 5 - Terra, a Nossa Casa",
+      "start_time": "08:00",
+      "end_time": "08:15",
+      "episode_description": "Solo diz entender mais sobre as estrelas do que sobre a humanidade. No quinto dia em sua base espacial, ela busca saber o que está acontecendo com a Terra. Solo busca compreender o motivo de ter feito calor no inverno e chover tanto no verão."
+    },
+    {
+      "show_name": "Tuca, o Mestre Cuca",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tuca-o-mestre-cuca-s01e25-que-massa_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 25 - Que Massa",
+      "start_time": "08:15",
+      "end_time": "08:25",
+      "episode_description": "Tuca leva a culinária muito à sério e não gosta quando Pri, Jonas e Olívia brincam com os macarrões que tem formatos engraçados, como o parafuso ou a gravata. Com a ajuda da mãe, ele descobre que a paixão à sério não significa deixar de se divertir."
+    },
+    {
+      "show_name": "Tuca, o Mestre Cuca",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tuca-o-mestre-cuca-s01e03-o-ingrediente-sinistro_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3 - O Ingrediente Sinistro",
+      "start_time": "08:25",
+      "end_time": "08:30",
+      "episode_description": "Tuca e Bruno tiram sarro dos medos de Jonas e Pri, já que não entendem o medo de coisas fantasiosas. Mas quando Tuca faz uma receita com páprica, seus pais passam por uma transformação inesperada e os garotos precisam enfrentar os próprios medos."
+    },
+    {
+      "show_name": "O Dia em que me Tornei Mais Forte",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-dia-em-que-me-tornei-mais-forte_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "08:30",
+      "end_time": "08:35",
+      "episode_description": "Conheça histórias de crianças fortes de todo o mundo."
+    },
+    {
+      "show_name": "Juro que Vi",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_juro-que-vi-1_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "08:35",
+      "end_time": "08:45",
+      "episode_description": "Histórias do folclore brasileiro contadas em lindas animações, abordando temas como preconceito e ecologia. Trabalho feito por animadores da MultiRio com alunos da rede municipal de ensino da cidade do Rio de Janeiro."
+    },
+    {
+      "show_name": "Quintal TV",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quintal-tv-s03e04-inteligencia-artificial_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 4 - Inteligência Artificial",
+      "start_time": "08:45",
+      "end_time": "09:00",
+      "episode_description": "O programa convida crianças a descobrir o que é inteligência artificial, como ela está no dia a dia, seus impactos na escola e nas relações, e a importância de usá-la de forma ética e consciente."
+    },
+    {
+      "show_name": "MYTIKAH - O Livro dos Heróis",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mytikah-o-livro-dos-herois-s02e07-carlos-gardel_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 7 - Carlos Gardel",
+      "start_time": "09:00",
+      "end_time": "09:10",
+      "episode_description": "Manga está tendo dificuldades para tocar sua flauta quando Mytikah os leva para conhecer a história de Carlos Gardel. Ele apresenta o Tango para as crianças, que o apoiam a tornar-se o primeiro cantor de Tango da história."
+    },
+    {
+      "show_name": "O Diário de Mika",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-diario-de-mika-s02e61-hora-da-refeic-o_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 61 - Hora da Refeição",
+      "start_time": "09:10",
+      "end_time": "09:15",
+      "episode_description": "Mika fica brava porque não quer almoçar na hora em que sua mãe mandou. Em vez disso ela prefere brincar com Bobby, o coelhinho que sua amiga Gabi deixou para que ela tomasse conta no fim de semana. Porém, Lilá ajuda a garota a perceber que tem hora para comer e hora para brincar."
+    },
+    {
+      "show_name": "Tuiga",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tuiga-s02e02-pandepre_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 2 - Pandeprê",
+      "start_time": "09:15",
+      "end_time": "09:20",
+      "episode_description": "Tuiga e sua família precisam fazer uma entrega para um panda, o que deixa todo mundo esperançoso por ganhar um abraço de um animal tão fofo. No entanto, eles descobrem que comer só bambu deixa o panda um tanto gasoso."
+    },
+    {
+      "show_name": "Tuiga",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tuiga-s02e05-assistencia-tecnica_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 5 - Assistência Técnica",
+      "start_time": "09:20",
+      "end_time": "09:30",
+      "episode_description": "Em frente a uma grande antena de radiotelescópio, a caixa de correio parece estar muito doente. Sem saber o que fazer, Tuiga pede ajuda ao operador do telescópio, um macaco cientista."
+    },
+    {
+      "show_name": "A Caverna de Petra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-caverna-de-petra-s02e03-lola-calendarius_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 3 - Lola Calendárius",
+      "start_time": "09:30",
+      "end_time": "09:45",
+      "episode_description": "O cometa mágico Carolinium está chegando e Petra não se preparou para receber toda a magia que ele traz. Para dar conta de todas as suas tarefas, a garota mágica precisará da ajuda de Lola Calendárius."
+    },
+    {
+      "show_name": "Queimamufa!",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_queimamufa-s02e01-brincadeira-daqui-brincadeira-de-la_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 1 - Brincadeira Daqui, Brincadeira de Lá",
+      "start_time": "09:45",
+      "end_time": "10:00",
+      "episode_description": "Kauê e Carol descobrem que existem brincadeiras diferentes em cada parte do Brasil. Na M.U.F.A, aprendem com diversos jogos regionais, cheios de diversão. Bem melhor que celular."
+    },
+    {
+      "show_name": "Natureza Forte",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_natureza-forte-s02e05-gastronomia-no-semiarido_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 5 - Gastronomia no Semiárido",
+      "start_time": "10:00",
+      "end_time": "10:30",
+      "episode_description": "Do sabor exótico do mandacaru à cachaça feita com frutas do bioma, o Semiárido transforma-se em um prato sofisticado. Jucilene e Lídio apostam na riqueza da terra para criar produtos que encantam o paladar."
+    },
+    {
+      "show_name": "A(u)tores",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-u-tores-s04e04-machado-de-assis-por-martinho-da-vila_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 4 - Machado de Assis por Martinho da Vila",
+      "start_time": "10:30",
+      "end_time": "11:00",
+      "episode_description": "Martinho da Vila debutou no samba-enredo com uma canção sobre Machado de Assis e segue admirando sua obra e sendo devoto da Língua Portuguesa."
+    },
+    {
+      "show_name": "Giro Universidades",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_giro-universidades_l_m.jpg",
+      "show_category": "Educational",
+      "start_time": "11:00",
+      "end_time": "11:15",
+      "episode_description": "No Diplomata Social, na ESPM-SP, alunos aprendem geopolítica. O Craist, na UFU, oferece serviço de saúde para pessoas trans e travestis. O Uniama, da Unisc, proporciona atividades de lazer para idosos."
+    },
+    {
+      "show_name": "Sou Chorinho",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sou-chorinho-s01e02_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Musicalidade",
+      "start_time": "11:15",
+      "end_time": "11:45",
+      "episode_description": "Conheça os instrumentos musicais, nuances, grupos de choro, características específicas do gênero, choro cantado, além de explicações dos especialistas sobre a sonoridade do ritmo."
+    },
+    {
+      "show_name": "Canal da História",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_canal-da-historia-s01e24-mario-juruna_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 24 - Mário Juruna",
+      "start_time": "11:45",
+      "end_time": "12:00",
+      "episode_description": "Mário Juruna, o primeiro deputado federal indígena da história, fala da luta dos povos indígenas, que continua desde o fim do governo militar e durante a reabertura política."
+    },
+    {
+      "show_name": "Boas Práticas da Rede",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_boas-praticas-da-rede-s01e25-creche-municipal-casa-de-realengo_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 25 - Creche Municipal - Casa de Realengo",
+      "start_time": "12:00",
+      "end_time": "12:15",
+      "episode_description": "Na Creche Municipal Casa de Realengo tanto as crianças como os adultos são estimulados a desenvolverem suas habilidades socioemocionais por meio de afetos, brincadeiras, desenhos e atividades dirigidas."
+    },
+    {
+      "show_name": "Desafio nas Escolas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_desafio-nas-escolas-s03e01-em-presidente-jo-o-goulart_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 1 - EM Presidente João Goulart",
+      "start_time": "12:15",
+      "end_time": "12:30",
+      "episode_description": "A escola Presidente João Goulart tem o basquete como iniciativa. Mas a quadra principal é compartilhada com o futebol. Com isso, os alunos propuseram o desafio de revitalizar a segunda quadra e promover uma partida inaugural."
+    },
+    {
+      "show_name": "E Aí, Professor?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_e-ai-professor-s03e01-eja-e-um-direito-humano_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 1 - EJA É um Direito Humano!",
+      "start_time": "12:30",
+      "end_time": "12:45",
+      "episode_description": "Os desafios e urgências que envolvem tanto educadores, quanto educandos."
+    },
+    {
+      "show_name": "Conversas que Inspiram",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_conversas-que-inspiram-s02e02-diversidade-nas-empresas_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 2 - Diversidade nas Empresas",
+      "start_time": "12:45",
+      "end_time": "13:00",
+      "episode_description": "A importância de dar voz às histórias LGBTQIAPN+ nas periferias e empresas. Conversas sobre como tornar a sociedade um lugar cada vez mais inclusivo."
+    },
+    {
+      "show_name": "Hora de Agir",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hora-de-agir-s05e31-os-povos-indigenas_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 31 - Os Povos Indígenas",
+      "start_time": "13:00",
+      "end_time": "13:30",
+      "episode_description": "Especialistas e estudiosos lusófonos debatem as questões ambientais mais relevantes do momento."
+    },
+    {
+      "show_name": "Sabores da Floresta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabores-da-floresta-s02e03-turu_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 3 - Turu",
+      "start_time": "13:30",
+      "end_time": "14:00",
+      "episode_description": "Direto dos mangues da Ilha do Marajó, o molusco turu é um dos ingredientes mais exóticos da culinária Amazônia. O chef Thiago Castanho acompanha a forma tradicional dessa coleta."
+    },
+    {
+      "show_name": "Da Nascente à Foz",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_da-nascente-a-foz-s02e10-baixo-rio-capibaribe_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 10 - Baixo Rio Capibaribe",
+      "start_time": "14:00",
+      "end_time": "14:30",
+      "episode_description": "Na cidade de Recife, o rio Capibaribe é ao mesmo tempo tradicional e moderno. É fonte de subsistência para alguns e fonte de lucro para outros. O futuro desse rio está em disputa intensa."
+    },
+    {
+      "show_name": "Manual de Sobrevivência para o Século 21",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_manual-de-sobrevivencia-para-o-seculo-21_l_m.jpg",
+      "show_category": "Entertainment",
+      "start_time": "14:30",
+      "end_time": "15:00",
+      "episode_description": "Marcos mostra que o esgoto pode se tornar um fertilizante poderoso e conhece soluções que o transformam em fertilizante e recurso para recuperar áreas degradadas."
+    },
+    {
+      "show_name": "Brasil 2050",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_brasil-2050-s03e05-energia-e-eletricidade_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 5 - Energia e Eletricidade",
+      "start_time": "15:00",
+      "end_time": "15:30",
+      "episode_description": "De toda a energia utilizada no mundo, apenas 14% é renovável. Já no Brasil, quase metade da energia consumida é renovável. Isso mostra que o país tem o privilégio de possuir amplas fontes de energia renovável em seu território."
+    },
+    {
+      "show_name": "Tem Clima pra Isso?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tem-clima-pra-isso_l_m.jpg",
+      "show_category": "Environment",
+      "start_time": "15:30",
+      "end_time": "16:00",
+      "episode_description": "Como o planejamento urbano pode conter a crise climática com transporte, saneamento e políticas para cidades mais justas."
+    },
+    {
+      "show_name": "Eco Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_eco-brasil-s01e07-50-graus-enchentes-e-agora_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 7 - 50 Graus, Enchentes... E Agora?",
+      "start_time": "16:00",
+      "end_time": "16:25",
+      "episode_description": "Você percebeu que no verão tem feito 50 graus? Que os temporais estão cada vez mais fortes? No Brasil e no mundo, uns sofrem mais, mas os efeitos do aquecimento global não deixam ninguém de fora."
+    },
+    {
+      "show_name": "Sou Chorinho",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sou-chorinho-s01e03-expans-o-do-choro_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3 - Expansão do Choro",
+      "start_time": "16:25",
+      "end_time": "16:55",
+      "episode_description": "Conheça a proporção que o choro atingiu, saindo do Rio de Janeiro e ganhando o Brasil e o mundo, através da rádio, TV, universidades, conservatórios, escolas de música, clubes de choro, teatros, parques nas cidades e em lugares inusitados."
+    },
+    {
+      "show_name": "Bicos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bicos-s01e04-hebet-da-silva_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - Hebet da Silva",
+      "start_time": "16:55",
+      "end_time": "17:05",
+      "episode_description": "Hebe da Silva mantém um trabalho administrativo além de ser motorista de aplicativo e vendedor de cosméticos."
+    },
+    {
+      "show_name": "Tocando a Real",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tocando-a-real-s03e20-games_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 20 - Games",
+      "start_time": "17:05",
+      "end_time": "17:15",
+      "episode_description": "O Tocando a Real fala sobre games. Márcia Corrêa e Castro destrincha a linguagem dos videogames e de jogos em geral, abordando questões como a mecânica, as histórias, a estética e a tecnologia dos games."
+    },
+    {
+      "show_name": "Caça Joia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_caca-joia-s03e05-baile-do-mestre-cupijo_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 5 - Baile do Mestre Cupijó",
+      "start_time": "17:15",
+      "end_time": "17:30",
+      "episode_description": "Chinaina vai ao Parque Ecológico ver o rio e entrevistar o baile do Mestre Cupijó, banda que resgata a história da cultura popular paraense."
+    },
+    {
+      "show_name": "Sabores da Floresta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabores-da-floresta-s01e12-maniva_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 12 - Maniva",
+      "start_time": "17:30",
+      "end_time": "18:00",
+      "episode_description": "O chef Thiago Castanho viaja até Santo Antônio do Tauá para conhecer a folha moída da mandioca, conhecida como maniva, o ingrediente protagonista em um prato de origem indígena: a maniçoba."
+    },
+    {
+      "show_name": "Bicos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bicos-s01e11-jose-neto_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 11 - José Neto",
+      "start_time": "18:00",
+      "end_time": "18:15",
+      "episode_description": "José usa suas habilidades técnicas adquiridas desde pequeno para realizar serviços de manutenção."
+    },
+    {
+      "show_name": "Ciência para Todos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ciencia-para-todos-s03e13_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 13",
+      "start_time": "18:15",
+      "end_time": "18:30",
+      "episode_description": "Visando o combate à desigualdade em metrópoles como São Paulo, a FAPESP promove diversas pesquisas multidisciplinares que buscam soluções eficazes em políticas públicas."
+    },
+    {
+      "show_name": "Reconstruindo Nosso Ambiente",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_reconstruindo-nosso-ambiente-s01e03-terracos-verdes_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3 - Terraços Verdes",
+      "start_time": "18:30",
+      "end_time": "19:00",
+      "episode_description": "A utilização de terraços verdes, sua instalação e benefícios que trazem ao utilizador e à cidade."
+    },
+    {
+      "show_name": "Tocando a Real",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tocando-a-real-s03e21-indigenas-na-ciencia_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 21 - Indígenas na Ciência",
+      "start_time": "19:00",
+      "end_time": "19:10",
+      "episode_description": "A participação dos povos indígenas na Ciência, tanto da representação de indígenas nos meios acadêmicos quanto das valiosas contribuições dos saberes tradicionais para as ciências."
+    },
+    {
+      "show_name": "Desafio nas Escolas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_desafio-nas-escolas-s03e01-em-presidente-jo-o-goulart_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 1 - EM Presidente João Goulart",
+      "start_time": "19:10",
+      "end_time": "19:30",
+      "episode_description": "A escola Presidente João Goulart tem o basquete como iniciativa. Mas a quadra principal é compartilhada com o futebol. Com isso, os alunos propuseram o desafio de revitalizar a segunda quadra e promover uma partida inaugural."
+    },
+    {
+      "show_name": "(In)Confidências",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_in-confidencias-s01e04-joel-zito-araujo_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - Joel Zito Araújo",
+      "start_time": "19:30",
+      "end_time": "19:45",
+      "episode_description": "A negação do Brasil: o diretor Joel Zito Araújo fala sobre vida e trajetória cinematográfica."
+    },
+    {
+      "show_name": "A Luta de Nzinga",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-luta-de-nzinga_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "19:45",
+      "end_time": "21:00",
+      "episode_description": "Uma narrativa de conexões entre a história de Maria da Luz Fonseca, natural da Ilha de Príncipe, e a memória ancestral da rainha angolana Nzinga Mbandi."
+    },
+    {
+      "show_name": "Território 4.0",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_territorio-4-0-s01e06-industria-farmaceutica_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 6 - Indústria Farmacêutica",
+      "start_time": "21:00",
+      "end_time": "21:30",
+      "episode_description": "As equipes roxa e rosa vão para o território da indústria farmacêutica. Os times tentar chegar o mais próximo de uma fórmula e participar de um quiz de perguntas e respostas."
+    },
+    {
+      "show_name": "Mutirão Saúde",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mutir-o-saude-s01e12-jo-o-pedro_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 12 - João Pedro",
+      "start_time": "21:30",
+      "end_time": "22:00",
+      "episode_description": "João Pedro, 30 anos, publicitário, luta para equilibrar sua saúde física e mental. Com histórico de compulsão e sobrepeso, enfrenta dificuldades em manter uma rotina saudável e estável."
+    },
+    {
+      "show_name": "Brasil da Paz",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_brasil-da-paz_l_m.jpg",
+      "show_category": "Community",
+      "start_time": "22:00",
+      "end_time": "22:30",
+      "episode_description": "A juventude deve ser ouvida na construção de uma cultura de paz. Uma ativista fomenta o engajamento social juvenil, enquanto outra encontra no slam sua plataforma de mobilização."
+    },
+    {
+      "show_name": "Na Vanguarda",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_na-vanguarda-s01e03-airbnb-lonely-planet_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3 - Airbnb & Lonely Planet",
+      "start_time": "22:30",
+      "end_time": "23:30",
+      "episode_description": "Antes de se poder confiar nas pessoas comuns para conselhos de viagem, só era possível se fiar em especialistas. Conheça a Lonely Planet, com seus guias desde a década de 1970, e a atual Airbnb, com sua proposta de compartilhamento de residências."
+    },
+    {
+      "show_name": "Pequenas Empresas & Grandes Negócios",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pequenas-empresas-grandes-negocios-2_l_m.jpg",
+      "show_category": "Bus./financial",
+      "start_time": "23:30",
+      "end_time": "00:00",
+      "episode_description": "Informações e reportagens de grande interesse para empreendedores, pequenos e médios empresários."
+    }
+  ]
+}

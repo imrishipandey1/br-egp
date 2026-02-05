@@ -1,166 +1,190 @@
 {
-  "channel": "Rede Globo",
-  "date": "21/12/2025",
+  "channel": "Globo",
+  "date": "05/02/2026",
   "schedule": [
     {
-      "show_name": "Caldeirão com Mion",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/caldeirão-com-mion.webp",
-      "show_category": "Entertainment",
-      "start_time": "00:45",
-      "end_time": "03:10",
-      "episode_description": "Marcos Mion traz alegria ao programa de auditório com quadros animados, desafios inéditos e atrações musicais especiais."
-    },
-    {
-      "show_name": "Êta Mundo Melhor!",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/êta-mundo-melhor.webp",
-      "show_category": "Drama",
-      "start_time": "03:10",
-      "end_time": "03:55",
-      "episode_description": "Candinho e seu fiel companheiro, Policarpo, estão de volta para novas aventuras na cidade grande. Apesar de toda riqueza que o cerca, Candinho enfrenta uma nova saga: a busca pelo filho perdido."
-    },
-    {
-      "show_name": "Praça TV - 2ª Edição",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/praça-tv---2ª-edição.webp",
+      "show_name": "Jornal da Globo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-da-globo_l_m.jpg",
       "show_category": "News",
-      "start_time": "03:55",
-      "end_time": "04:15",
+      "start_time": "00:05",
+      "end_time": "00:55",
+      "episode_description": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura."
+    },
+    {
+      "show_name": "Coração Acelerado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_corac-o-acelerado_l_m.jpg",
+      "show_category": "Soap",
+      "start_time": "00:55",
+      "end_time": "01:40",
+      "episode_description": "Janete não gosta de encontrar Agrado na casa de Zilá; Zilá e Janete discutem por conta das terras de Eliomar; Lia alerta Leandro sobre o agravamento do estado de saúde de Júlia."
+    },
+    {
+      "show_name": "Vai que Cola",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-1_l_m.jpg",
+      "show_category": "Comedy",
+      "start_time": "01:40",
+      "end_time": "02:25",
+      "episode_description": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede."
+    },
+    {
+      "show_name": "Vai que Cola",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-1_l_m.jpg",
+      "show_category": "Comedy",
+      "start_time": "02:25",
+      "end_time": "03:10",
+      "episode_description": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede."
+    },
+    {
+      "show_name": "Vai que Cola",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-1_l_m.jpg",
+      "show_category": "Comedy",
+      "start_time": "03:10",
+      "end_time": "04:00",
+      "episode_description": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede."
+    },
+    {
+      "show_name": "Hora 1",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hora-1_l_m.jpg",
+      "show_category": "News",
+      "start_time": "04:00",
+      "end_time": "06:00",
+      "episode_description": "Os assuntos mais importantes do Brasil e do mundo durante as primeiras horas da manhã. Voltado para o público que acorda cedo, o telejornal conta ainda com a participação de correspondentes internacionais."
+    },
+    {
+      "show_name": "Bom Dia Praça",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bom-dia-praca-1_l_m.jpg",
+      "show_category": "News",
+      "start_time": "06:00",
+      "end_time": "08:30",
+      "episode_description": "Programa jornalístico com as primeiras notícias de cada estado."
+    },
+    {
+      "show_name": "Bom Dia Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bom-dia-brasil-1_l_m.jpg",
+      "show_category": "News",
+      "start_time": "08:30",
+      "end_time": "09:30",
+      "episode_description": "Acompanhe as principais notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia."
+    },
+    {
+      "show_name": "Encontro com Patrícia Poeta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_encontro-com-patricia-poeta_l_m.jpg",
+      "show_category": "Entertainment",
+      "start_time": "09:30",
+      "end_time": "10:35",
+      "episode_description": "O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jornalistas e convidados especiais, os assuntos são abordados em um formato de bate-papo."
+    },
+    {
+      "show_name": "Mais Você",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mais-voce-1_l_m.jpg",
+      "show_category": "Talk",
+      "start_time": "10:35",
+      "end_time": "11:45",
+      "episode_description": "Com ótimo humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia."
+    },
+    {
+      "show_name": "Praça TV - 1ª Edição",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_praca-tv-1-edic-o-1_l_m.jpg",
+      "show_category": "News",
+      "start_time": "11:45",
+      "end_time": "13:00",
       "episode_description": "O telejornal apresenta as principais notícias locais e prioriza o jornalismo comunitário."
     },
     {
-      "show_name": "Dona de Mim",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/dona-de-mim.webp",
+      "show_name": "Globo Esporte",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_news-globo-esporte_l_m.jpg",
+      "show_category": "",
+      "start_time": "13:00",
+      "end_time": "13:25",
+      "episode_description": "As principais notícias esportivas do Brasil e do mundo."
+    },
+    {
+      "show_name": "Jornal Hoje",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-hoje-1_l_m.jpg",
+      "show_category": "News",
+      "start_time": "13:25",
+      "end_time": "14:45",
+      "episode_description": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais."
+    },
+    {
+      "show_name": "Terra Nostra - Edição Especial",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_terra-nostra-edic-o-especial_l_m.jpg",
       "show_category": "Soap",
-      "start_time": "04:15",
-      "end_time": "05:00",
-      "episode_description": "Leona, uma jovem que vive no Rio de Janeiro, sofre uma perda gestacional e luta para equilibrar as contas da casa onde mora com a avó e a irmã. Para ajudar financeiramente, ela consegue um emprego como babá na mansão da família Boaz."
+      "start_time": "14:45",
+      "end_time": "15:25",
+      "episode_description": "Uma parte da história da formação da sociedade brasileira do início do século XX é contada a partir do romance de dois jovens italianos, Giuliana e Matteo. Eles se conhecem em 1894 a bordo do navio que transporta imigrantes para trabalhar no Brasil."
+    },
+    {
+      "show_name": "Uma Questão de Fé",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_uma-quest-o-de-fe-2017_l_m.jpg",
+      "show_category": "Drama / 2017",
+      "start_time": "15:25",
+      "end_time": "17:05",
+      "episode_description": "Três famílias de diferentes culturas na mesma comunidade, mas todos completos estranhos. Eles levam vidas muito distintas até que mensagens trágicas e acidentes os unem em um caminho de amor, graça e misericórdia."
+    },
+    {
+      "show_name": "Vale a Pena Ver de Novo - Rainha da Sucata",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vale-a-pena-ver-de-novo-rainha-da-sucata_l_m.jpg",
+      "show_category": "Soap",
+      "start_time": "17:05",
+      "end_time": "18:25",
+      "episode_description": "A rivalidade entre Maria do Carmo, uma empresária que enriqueceu com os negócios do pai, e Laurinha Figueiroa, uma socialite falida, no universo dos novos-ricos da decadente sociedade paulistana."
+    },
+    {
+      "show_name": "Êta Mundo Melhor!",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_eta-mundo-melhor_l_m.jpg",
+      "show_category": "Drama",
+      "start_time": "18:25",
+      "end_time": "19:10",
+      "episode_description": "Candinho e seu fiel companheiro, Policarpo, voltaram para novas aventuras na cidade grande. Apesar de toda riqueza que o cerca, Candinho enfrenta uma nova saga: a busca pelo filho perdido."
+    },
+    {
+      "show_name": "Praça TV - 2ª Edição",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_praca-tv-2-edic-o-1_l_m.jpg",
+      "show_category": "News",
+      "start_time": "19:10",
+      "end_time": "19:40",
+      "episode_description": "O telejornal apresenta as principais notícias locais e prioriza o jornalismo comunitário."
+    },
+    {
+      "show_name": "Coração Acelerado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_corac-o-acelerado_l_m.jpg",
+      "show_category": "Soap",
+      "start_time": "19:40",
+      "end_time": "20:30",
+      "episode_description": "Janete não gosta de encontrar Agrado na casa de Zilá; Zilá e Janete discutem por conta das terras de Eliomar; Lia alerta Leandro sobre o agravamento do estado de saúde de Júlia."
     },
     {
       "show_name": "Jornal Nacional",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/jornal-nacional.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-nacional-1_l_m.jpg",
       "show_category": "News",
-      "start_time": "05:00",
-      "end_time": "05:50",
+      "start_time": "20:30",
+      "end_time": "21:20",
       "episode_description": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo."
     },
     {
       "show_name": "Três Graças",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/três-graças.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tres-gracas_l_m.jpg",
       "show_category": "Drama",
-      "start_time": "05:50",
-      "end_time": "06:55",
+      "start_time": "21:20",
+      "end_time": "22:25",
       "episode_description": "Gerluce Maria das Graças integra uma família de mães solo: é filha de Lígia Maria e mãe de Joélly Maria. Criada pela mãe, que engravidou na adolescência e foi abandonada pelo seu pai, Gerluce enfrenta um destino parecido com a chegada da filha."
     },
     {
-      "show_name": "Altas Horas",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/altas-horas.webp",
-      "show_category": "Entertainment",
-      "start_time": "06:55",
-      "end_time": "08:45",
-      "episode_description": "Serginho Groisman promove debates sobre temas relevantes com a participação da plateia, artistas e personalidades de diferentes áreas."
+      "show_name": "Big Brother Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_big-brother-brasil-s26e25_l_m.jpg",
+      "show_category": "Temporada 26 Episódio 25",
+      "start_time": "22:25",
+      "end_time": "23:25",
+      "episode_description": "Um grupo de pessoas topa ficar confinado em uma espaçosa casa cenográfica, sendo vigiado por câmeras 24 horas por dia. Sem receber informações do mundo exterior, eles disputam uma série de provas e dinâmicas em busca de um prêmio milionário."
     },
     {
-      "show_name": "Alguém Avisa?",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/alguém-avisa.webp",
-      "show_category": "Holiday / 2020",
-      "start_time": "08:45",
-      "end_time": "10:35",
-      "episode_description": "As namoradas Harper e Abby visitam a família de Harper para o jantar anual de Natal. No entanto, logo após chegar, Abby percebe que a moça tem mantido seu relacionamento em segredo de seus pais conservadores."
-    },
-    {
-      "show_name": "Dona de Mim",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/dona-de-mim.webp",
-      "show_category": "Soap",
-      "start_time": "10:35",
-      "end_time": "11:20",
-      "episode_description": "Leona, uma jovem que vive no Rio de Janeiro, sofre uma perda gestacional e luta para equilibrar as contas da casa onde mora com a avó e a irmã. Para ajudar financeiramente, ela consegue um emprego como babá na mansão da família Boaz."
-    },
-    {
-      "show_name": "Luxúria e Poder",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/luxúria-e-poder.webp",
-      "show_category": "Thriller / 2015",
-      "start_time": "11:20",
-      "end_time": "13:05",
-      "episode_description": "Sam Ellis descobre que sua estagiária está apaixonada por ele e precisa tomar uma decisão radical para tentar conter seus desejos. No entanto, quando a situação fica fora de controle, Sam é forçado a tomar medidas cada vez mais perigosas."
-    },
-    {
-      "show_name": "Didi - O Caçador de Tesouros",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/didi---o-caçador-de-tesouros.webp",
-      "show_category": "Adventure / 2006 / 3.8",
-      "start_time": "13:05",
-      "end_time": "14:20",
-      "episode_description": "Didi é o mordomo do pai de Pedrinho, que é o seu grande companheiro de aventuras. Juntos, eles vão para um misterioso hotel abandonado em busca de pistas sobre a história do tenente Lucas, o avô de Pedrinho. Lucas foi considerado desertor da força aérea britânica, pois estava entre os militares que fugiram para o Brasil com um carregamento de ouro roubado. O avião em que viajavam caiu em uma região próxima de São Paulo."
-    },
-    {
-      "show_name": "Santa Missa",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/santa-missa.webp",
-      "show_category": "Religious",
-      "start_time": "14:20",
-      "end_time": "15:10",
-      "episode_description": "Acompanhe a celebração da santa missa em João Pessoa."
-    },
-    {
-      "show_name": "Globo Repórter",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/globo-repórter.webp",
-      "show_category": "Newsmagazine",
-      "start_time": "15:10",
-      "end_time": "16:00",
-      "episode_description": "O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo."
-    },
-    {
-      "show_name": "Globo Comunidade RJ",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/globo-comunidade-rj.webp",
-      "show_category": "Community",
-      "start_time": "16:00",
-      "end_time": "16:30",
-      "episode_description": "O noticiário traz assuntos de interesse da comunidade, como qualidade de vida e urbanismo."
-    },
-    {
-      "show_name": "AutoEsporte",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/autoesporte.webp",
-      "show_category": "",
-      "start_time": "16:30",
-      "end_time": "17:00",
-      "episode_description": "A revista eletrônica do setor automotivo apresenta as últimas notícias sobre automóveis, nacionais e importados, além de lançamentos, segredos, curiosidades, comparativos e testes."
-    },
-    {
-      "show_name": "Globo Rural",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/globo-rural.webp",
-      "show_category": "Agriculture",
-      "start_time": "17:00",
-      "end_time": "18:35",
-      "episode_description": "Acompanhe as principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais."
-    },
-    {
-      "show_name": "Viver Sertanejo",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/viver-sertanejo.webp",
-      "show_category": "Interview",
-      "start_time": "18:35",
-      "end_time": "19:30",
-      "episode_description": "Daniel abre a porteira de sua fazenda para receber grandes astros da música sertaneja. Juntos, eles relembram suas trajetórias, falam sobre suas inspirações e se deixam levar pelas modas de viola."
-    },
-    {
-      "show_name": "Esporte Espetacular",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/esporte-espetacular.webp",
-      "show_category": "",
-      "start_time": "19:30",
-      "end_time": "21:00",
-      "episode_description": "Fique por dentro de tudo o que rolou durante a semana nos esportes e veja os gols mundo afora. Entrevistas, reportagens sobre ciência esportiva e personagens históricos também fazem parte da atração."
-    },
-    {
-      "show_name": "Free Guy - Assumindo o Controle",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/free-guy---assumindo-o-controle.webp",
-      "show_category": "Action / 2021",
-      "start_time": "21:00",
-      "end_time": "22:50",
-      "episode_description": "Um caixa de banco preso a uma entediante rotina tem sua vida virada de cabeça para baixo quando descobre que é um personagem em um jogo interativo. Ele precisa aceitar sua realidade e lidar com o fato de que é o único que pode salvar o mundo."
-    },
-    {
-      "show_name": "Domingão com Huck",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/domingão-com-huck.webp",
-      "show_category": "Temporada 2025 Episódio 224",
-      "start_time": "22:50",
-      "end_time": "01:50",
-      "episode_description": "Todo final de semana, Luciano Huck oferece o melhor do entretenimento, com quadros divertidos e emocionantes, muita música, a presença marcante de famosos e matérias especiais pelo Brasil."
+      "show_name": "Jornal da Globo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-da-globo_l_m.jpg",
+      "show_category": "News",
+      "start_time": "23:25",
+      "end_time": "00:15",
+      "episode_description": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura."
     }
   ]
 }
