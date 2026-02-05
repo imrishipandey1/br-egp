@@ -1,14 +1,598 @@
 {
   "channel": "Gloob",
-  "date": "04/02/2026",
+  "date": "05/02/2026",
   "schedule": [
     {
+      "show_name": "Tara Duncan",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tara-duncan-s01e02-a-arvore-enfeiticada_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - A Árvore Enfeitiçada",
+      "start_time": "00:13",
+      "end_time": "00:25",
+      "episode_description": "Uma das árvores do Parque Imperial Tingal está doente. Tara, Cal e Robin investigam e conhecem uma nova amiga. A árvore parece ter sido amaldiçoada."
+    },
+    {
+      "show_name": "Miraculous - As Aventuras de Ladybug",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_miraculous-as-aventuras-de-ladybug-s02e20-sonhador_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 20 - O Reverso",
+      "start_time": "00:25",
+      "end_time": "00:47",
+      "episode_description": "O aluno Marc é akumatizad e transformado em Reverso. Certo de que Marinette e Nathaniel o fizeram passar vergonha, ele quer se vingar dos dois."
+    },
+    {
+      "show_name": "Miraculous - As Aventuras de Ladybug",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_miraculous-as-aventuras-de-ladybug-s02e18-o-reverso_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 18 - Anansi",
+      "start_time": "00:47",
+      "end_time": "01:10",
+      "episode_description": "Nora, a irmã mais velha de Alya, é transformada em Anansi depois de ser akumatizada. Agora, na forma de uma aranha gigante, ela quer mostrar a Alya o quão perigosa a cidade de Paris pode ser."
+    },
+    {
+      "show_name": "Miraculous - As Aventuras de Ladybug",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_miraculous-as-aventuras-de-ladybug-s02e24-dia-dos-herois_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 24 - O Ditador",
+      "start_time": "01:10",
+      "end_time": "01:32",
+      "episode_description": "Quando Chloé fala que quer sair de Paris, seu pai, Sr. Bourgeois, é akumatizado e transformado no Ditador. Com poder absoluto, ele agora quer fazer de tudo para realizar os sonhos de sua filha e tentar convencê-la de ficar na cidade."
+    },
+    {
+      "show_name": "Miraculous - As Aventuras de Ladybug",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_miraculous-as-aventuras-de-ladybug-s02e19-a-cantora_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 19 - Sonhador",
+      "start_time": "01:32",
+      "end_time": "01:55",
+      "episode_description": "Marinette descobre que um supervilão está transformando os pesadelos das pessoas em realidade - e o pior, Tikki está longe dela. Agora, ela precisa conseguir se transformar a tempo de dar um fim nesta realidade."
+    },
+    {
+      "show_name": "Miraculous - As Aventuras de Ladybug",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_miraculous-as-aventuras-de-ladybug-s02e25-dia-dos-herois_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 25 - Dia dos Heróis",
+      "start_time": "01:55",
+      "end_time": "02:19",
+      "episode_description": "É Dia Nacional dos Heróis em Paris e a tradição diz que todo mundo precisa fazer uma boa ação para comemorar a data. Mas quando Hawk Moth akumatiza Nathalie e a transforma em Catalyst, a celebração pode não sobreviver."
+    },
+    {
+      "show_name": "Miraculous - As Aventuras de Ladybug",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_miraculous-as-aventuras-de-ladybug-s02e26-dia-dos-herois_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 26 - Dia dos Heróis",
+      "start_time": "02:19",
+      "end_time": "02:42",
+      "episode_description": "Hawk Moth conseguiu colocar seu plano maligno em ação e, com a ajuda de Catalyst, reakumatizou todos os seus vilões. Ladybug e seu time de super-heróis precisam descobrir um jeito de derrotar este exército de vilões."
+    },
+    {
+      "show_name": "Miraculous - As Aventuras de Ladybug",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_miraculous-as-aventuras-de-ladybug-s03e03-chris-master_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 3 - Camaleoa",
+      "start_time": "02:42",
+      "end_time": "03:04",
+      "episode_description": "Lila volta para a classe e consegue tudo o que ela quer de seus colegas."
+    },
+    {
+      "show_name": "Tara Duncan",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tara-duncan-s01e51-magister-e-a-fera_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 51 - Magister e a Fera",
+      "start_time": "03:04",
+      "end_time": "03:16",
+      "episode_description": "Glória luta para controlar sua transformação, o que a coloca em situações complicadas. Ela aceita um convite de um médico estranho que acaba sendo o Magister."
+    },
+    {
+      "show_name": "Tara Duncan",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tara-duncan-s01e52-carol-e-uma-estrela_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 52 - Carol É uma Estrela",
+      "start_time": "03:16",
+      "end_time": "03:28",
+      "episode_description": "Carol se torna uma estrela no Outro Mundo quando salva Tara dos Soldados do Medo. Ela gosta da nova fama e ousa zombar de Magister. Ofendido, ele propõe um duelo mágico para a jovem."
+    },
+    {
+      "show_name": "Tara Duncan",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tara-duncan-s01e01-outromundo_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - OutroMundo",
+      "start_time": "03:28",
+      "end_time": "03:40",
+      "episode_description": "Tara chega à OutroMundo e, assustada, ela congela todo o palácio. Cal e Robin a ajudam a reparar os danos que ela causou na sua primeira lição de magia."
+    },
+    {
+      "show_name": "Tara Duncan",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tara-duncan-s01e02-a-arvore-enfeiticada_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - A Árvore Enfeitiçada",
+      "start_time": "03:40",
+      "end_time": "03:52",
+      "episode_description": "Uma das árvores do Parque Imperial Tingal está doente. Tara, Cal e Robin investigam e conhecem uma nova amiga. A árvore parece ter sido amaldiçoada."
+    },
+    {
+      "show_name": "Tara Duncan",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tara-duncan-s01e03-a-fera-de-popuxpresso_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3 - A Fera de Popuxpresso",
+      "start_time": "03:52",
+      "end_time": "04:04",
+      "episode_description": "A gagueira de Gloria a deixa ansiosa durante o Celeste Ball, o esporte favorito no OutroMundo. A garota pede a Tara para lançar um feitiço para lhe dar coragem."
+    },
+    {
+      "show_name": "Tara Duncan",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tara-duncan-s01e04-o-misterio-das-cores_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - O Mistério das Cores",
+      "start_time": "04:04",
+      "end_time": "04:16",
+      "episode_description": "A cidade de Tingal está perdendo suas cores. Tara, Cal e Robin investigam essa emergência em uma loja, mas ficam cara a cara com o Rei que está atrás dos poderes de Tara."
+    },
+    {
+      "show_name": "Escola de Gênios",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_escola-de-genios-s03e09-como-nasce-um-boato_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 9 - Como Nasce um Boato",
+      "start_time": "04:16",
+      "end_time": "04:40",
+      "episode_description": "Margot conta suas experiências arqueológicas e decide mostrar aos amigos como funciona uma verdadeira escavação; Tesla despista todos para conseguir estudar pintura escondida."
+    },
+    {
+      "show_name": "Escola de Gênios",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_escola-de-genios-s03e10-m-o-amiga_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 10 - Mão Amiga",
+      "start_time": "04:40",
+      "end_time": "05:08",
+      "episode_description": "A órtese de Maju para de funcionar na véspera do campeonato de games e Nico, Isaac e Tesla tentam consertar a tempo; Otto busca entender o que está sentindo."
+    },
+    {
+      "show_name": "Bugados",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bugados-s03e03-o-bug-do-letrocon_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 3 - O Bug do Letrocon",
+      "start_time": "05:08",
+      "end_time": "05:35",
+      "episode_description": "Tyron prevê que algo horrível vai acontecer com o Letrocon e Mig acaba quebrando o aparelho; Glinda decide que precisa ter uma frase que é a sua marca registrada."
+    },
+    {
+      "show_name": "Bugados",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bugados-s03e04-o-bug-da-volta-do-dr-penumbra_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 4 - O Bug da Volta do Dr. Penumbra",
+      "start_time": "05:35",
+      "end_time": "05:35",
+      "episode_description": "Na corrida pelas figurinhas de Storm Kroll, Glinda erra um poder e traz o vilão Doutor Penumbra para a vida real; Mig e Tyron criam um sistema de trocas que só gera confusão."
+    },
+    {
+      "show_name": "Bugados",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bugados-s03e04-o-bug-da-volta-do-dr-penumbra_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 4 - O Bug da Volta do Dr. Penumbra",
+      "start_time": "05:35",
+      "end_time": "06:02",
+      "episode_description": "Na corrida pelas figurinhas de Storm Kroll, Glinda erra um poder e traz o vilão Doutor Penumbra para a vida real; Mig e Tyron criam um sistema de trocas que só gera confusão."
+    },
+    {
       "show_name": "Alvinnn!!! E os Esquilos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gloob/today/br_alvinnn-e-os-esquilos-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alvinnn-e-os-esquilos-1_l_m.jpg",
       "show_category": "Children",
-      "start_time": "22:48",
+      "start_time": "06:02",
+      "end_time": "06:14",
+      "episode_description": "Alvin mente para seus amigos e diz que tem um filho. O problema é que essa mentirinha logo se transforma em um enorme desastre e todos passam a fazer parte de uma terrível rede de intrigas e ainda mais mentiras."
+    },
+    {
+      "show_name": "Alvinnn!!! E os Esquilos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alvinnn-e-os-esquilos-1_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "06:14",
+      "end_time": "06:25",
+      "episode_description": "Alvin mente para seus amigos e diz que tem um filho. O problema é que essa mentirinha logo se transforma em um enorme desastre e todos passam a fazer parte de uma terrível rede de intrigas e ainda mais mentiras."
+    },
+    {
+      "show_name": "Alvinnn!!! E os Esquilos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alvinnn-e-os-esquilos-1_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "06:25",
+      "end_time": "06:37",
+      "episode_description": "Alvin mente para seus amigos e diz que tem um filho. O problema é que essa mentirinha logo se transforma em um enorme desastre e todos passam a fazer parte de uma terrível rede de intrigas e ainda mais mentiras."
+    },
+    {
+      "show_name": "Alvinnn!!! E os Esquilos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alvinnn-e-os-esquilos-1_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "06:37",
       "end_time": "06:48",
-      "episode_description": "Simon cria um traje de super-herói para uma convenção que ele está indo. Mas quando Alvin deseja se juntar, os dois lutam para ver quem é o verdadeiro herói."
+      "episode_description": "Alvin mente para seus amigos e diz que tem um filho. O problema é que essa mentirinha logo se transforma em um enorme desastre e todos passam a fazer parte de uma terrível rede de intrigas e ainda mais mentiras."
+    },
+    {
+      "show_name": "Alvinnn!!! E os Esquilos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alvinnn-e-os-esquilos-1_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "06:48",
+      "end_time": "07:00",
+      "episode_description": "Alvin mente para seus amigos e diz que tem um filho. O problema é que essa mentirinha logo se transforma em um enorme desastre e todos passam a fazer parte de uma terrível rede de intrigas e ainda mais mentiras."
+    },
+    {
+      "show_name": "Alvinnn!!! E os Esquilos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alvinnn-e-os-esquilos-1_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "07:00",
+      "end_time": "07:11",
+      "episode_description": "Alvin mente para seus amigos e diz que tem um filho. O problema é que essa mentirinha logo se transforma em um enorme desastre e todos passam a fazer parte de uma terrível rede de intrigas e ainda mais mentiras."
+    },
+    {
+      "show_name": "Alvinnn!!! E os Esquilos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alvinnn-e-os-esquilos-1_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "07:11",
+      "end_time": "07:23",
+      "episode_description": "Alvin mente para seus amigos e diz que tem um filho. O problema é que essa mentirinha logo se transforma em um enorme desastre e todos passam a fazer parte de uma terrível rede de intrigas e ainda mais mentiras."
+    },
+    {
+      "show_name": "Alvinnn!!! E os Esquilos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alvinnn-e-os-esquilos-1_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "07:23",
+      "end_time": "07:34",
+      "episode_description": "Alvin mente para seus amigos e diz que tem um filho. O problema é que essa mentirinha logo se transforma em um enorme desastre e todos passam a fazer parte de uma terrível rede de intrigas e ainda mais mentiras."
+    },
+    {
+      "show_name": "Alvinnn!!! E os Esquilos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alvinnn-e-os-esquilos-s04e03-aventuras-de-baba_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 3 - Aventuras de Babá",
+      "start_time": "07:34",
+      "end_time": "07:46",
+      "episode_description": "Theodore é forçado a fazer o trabalho de Alvin com um menino mimado de quatro anos."
+    },
+    {
+      "show_name": "Alvinnn!!! E os Esquilos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alvinnn-e-os-esquilos-1_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "07:46",
+      "end_time": "07:57",
+      "episode_description": "Alvin mente para seus amigos e diz que tem um filho. O problema é que essa mentirinha logo se transforma em um enorme desastre e todos passam a fazer parte de uma terrível rede de intrigas e ainda mais mentiras."
+    },
+    {
+      "show_name": "Saúdem Todos o Rei Julien - Exilado!",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_saudem-todos-o-rei-julien-exilado-s01e04-a-ponte-do-rio-mork_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - A Ponte do Rio Mork",
+      "start_time": "07:57",
+      "end_time": "08:21",
+      "episode_description": "Enquanto Julien e companhia retornam para Madagascar, o submarino enfrenta problemas; Mork apresenta uma peça de teatro para encobrir a fuga dos prisioneiros."
+    },
+    {
+      "show_name": "Saúdem Todos o Rei Julien - Exilado!",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_saudem-todos-o-rei-julien-exilado-s01e05-cacadores-do-tubar-o-perdido_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 5 - Caçadores do Tubarão Perdido",
+      "start_time": "08:21",
+      "end_time": "08:44",
+      "episode_description": "Julien e o grupo se juntam com tubarões para formar um exército; o mapa de Jarsh-Jarsh põe Clover e Sage em perigo; o plano de fuga de Mork apresenta um obstáculo."
+    },
+    {
+      "show_name": "As Aventuras do Gato de Botas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_as-aventuras-do-gato-de-botas-s02e07-cimitarra_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 7 - Cimitarra",
+      "start_time": "08:44",
+      "end_time": "09:07",
+      "episode_description": "Gato recebe a ajuda de uma cimitarra maligna para tentar encontrar um item desaparecido da casa do tesouro."
+    },
+    {
+      "show_name": "Dragões - Corrida Até o Limite",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_drag-es-corrida-ate-o-limite-s04e02-cabecarude-no-dominio_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 2 - Cabeçarude no Domínio",
+      "start_time": "09:07",
+      "end_time": "09:30",
+      "episode_description": "Cabeçadura está ansioso para impressionar seu primo, que está de visita."
+    },
+    {
+      "show_name": "Dragões - Corrida Até o Limite",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_drag-es-corrida-ate-o-limite-s04e03-formac-o-da-meia-noite_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 3 - Formação da Meia-Noite",
+      "start_time": "09:30",
+      "end_time": "09:52",
+      "episode_description": "Os treinadores participam do aniversário dos 400 anos de Berk, mas o fato de a cabeça de Soluço estar em jogo acaba atrapalhando a comemoração."
+    },
+    {
+      "show_name": "Tara Duncan",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tara-duncan-s01e39_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 39 - A Troca",
+      "start_time": "09:52",
+      "end_time": "10:04",
+      "episode_description": "Tentando um novo feitiço, Tara muda os corpos do mestre Chem e Cal. Apenas uma pena de harpia, um ingrediente muito difícil de obter, pode reverter o feitiço."
+    },
+    {
+      "show_name": "Tara Duncan",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tara-duncan-s01e40_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 40",
+      "start_time": "10:04",
+      "end_time": "10:16",
+      "episode_description": "Um mito diz que o pássaro dourado na sala do trono é o protetor do império. Enquanto Magister se infiltra no palácio, Tara precisa confiar em seus poderes para despertar o pássaro."
+    },
+    {
+      "show_name": "Tara Duncan",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tara-duncan-s01e41-o-ovo-fuj-o_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 41 - O Ovo Fujão",
+      "start_time": "10:16",
+      "end_time": "10:28",
+      "episode_description": "O ovo que o Mestre Chem tem que cuidar some devido aos alunos. Os heróis embarcam em uma aventura para recuperá-lo e compensar seus erros."
+    },
+    {
+      "show_name": "Tara Duncan",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tara-duncan-s01e42-sem-magia_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 42 - Sem Magia",
+      "start_time": "10:28",
+      "end_time": "10:40",
+      "episode_description": "Mestre Chem testa seus alunos sob uma cúpula que tira sua magia. Quando os inimigos chegam, eles precisam usar sua imaginação e espírito de equipe."
+    },
+    {
+      "show_name": "Tara Duncan",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tara-duncan-s01e43-virando-ogro_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 43 - Virando Ogro",
+      "start_time": "10:40",
+      "end_time": "10:52",
+      "episode_description": "Um ogro cria pânico em Tingal. Tara tem a intuição de que essa criatura não é tão perigosa quanto parece e consegue convencer seus amigos a ajudá-la a protegê-la."
+    },
+    {
+      "show_name": "Miraculous - As Aventuras de Ladybug",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_miraculous-as-aventuras-de-ladybug_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "10:52",
+      "end_time": "11:16",
+      "episode_description": "Marinette tenta desesperadamente esconder de Adrien que está resfriada e ajuda Nathaniel a conseguir ilustrar a história em quadrinhos escrita por Marc."
+    },
+    {
+      "show_name": "Miraculous - As Aventuras de Ladybug",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_miraculous-as-aventuras-de-ladybug-s05e18-emoc-o_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 18 - Emoção",
+      "start_time": "11:16",
+      "end_time": "11:40",
+      "episode_description": "Marinette descobre que Adrien não se atreveu a contar a ela sobre o baile e ela decide ir também."
+    },
+    {
+      "show_name": "Miraculous - As Aventuras de Ladybug",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_miraculous-as-aventuras-de-ladybug-s05e19_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 19 - Pretensão",
+      "start_time": "11:40",
+      "end_time": "12:04",
+      "episode_description": "Marinette decide ter uma conversa franca com Gabriel Agreste sobre seu namoro com Adrien; sua coragem é inspiradora para sua amiga Kagami, que tenta se abrir para sua mãe."
+    },
+    {
+      "show_name": "Miraculous - As Aventuras de Ladybug",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_miraculous-as-aventuras-de-ladybug-s05e20_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 20 - Revelação",
+      "start_time": "12:04",
+      "end_time": "12:30",
+      "episode_description": "A aproximação de Marinette e Adrien leva o pai do menino a nomear Kagami como o novo rosto de sua marca, enfurecendo Lila; a garota coloca em prática um plano com resultados inesperados."
+    },
+    {
+      "show_name": "Habla Mesmo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_habla-mesmo-s01e06-ana-hikari_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 6 - Ana Hikari",
+      "start_time": "12:30",
+      "end_time": "12:54",
+      "episode_description": "Ana Hikari fala sobre representatividade asiática, autoestima e quebra de estereótipos."
+    },
+    {
+      "show_name": "D.P.A. - Detetives do Prédio Azul",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_d-p-a-detetives-do-predio-azul-s19e11-a-poc-o-da-brisa_l_m.jpg",
+      "show_category": "Temporada 19 Episódio 11 - A Poção da Brisa",
+      "start_time": "12:54",
+      "end_time": "13:19",
+      "episode_description": "Brisa cria uma poção para tentar curar uma ferida monstruosa de Zeca, mas a substância acaba se perdendo pelo prédio. Os detetives precisam encontrá-la antes que a magia cause alguma confusão."
+    },
+    {
+      "show_name": "Alvinnn!!! E os Esquilos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alvinnn-e-os-esquilos-1_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "13:19",
+      "end_time": "13:30",
+      "episode_description": "Alvin mente para seus amigos e diz que tem um filho. O problema é que essa mentirinha logo se transforma em um enorme desastre e todos passam a fazer parte de uma terrível rede de intrigas e ainda mais mentiras."
+    },
+    {
+      "show_name": "Sonhos S.A.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sonhos-s-a-2020_l_m.jpg",
+      "show_category": "Children / 2020",
+      "start_time": "13:30",
+      "end_time": "14:48",
+      "episode_description": "A jovem Minna odeia sua nova madrasta Helena e sua horrível meia-irmã Jenny. Uma noite, Minna descobre um mundo onde os sonhos são feitos e decide usá-lo para controlar os sonhos de Jenny como vingança."
+    },
+    {
+      "show_name": "Partiu XV",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_partiu-xv-s01e08-partiu-festa_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 8 - Partiu Festa!",
+      "start_time": "14:48",
+      "end_time": "15:15",
+      "episode_description": "Após uma jornada cheia de desafios, é a hora da mágica acontecer. Entre emoções e algumas surpresas, é o momento de conferir a festa dos sonhos da nossa campeã."
+    },
+    {
+      "show_name": "Dragões - Corrida Até o Limite",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_drag-es-corrida-ate-o-limite-s04e04-melequento-n-o_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 4 - Melequento, Não",
+      "start_time": "15:15",
+      "end_time": "15:38",
+      "episode_description": "Após receber péssimos conselhos de seu pai, Melequento tenta se tornar líder dos treinadores e começa a tomar atitudes desesperadas."
+    },
+    {
+      "show_name": "Dragões - Corrida Até o Limite",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_drag-es-corrida-ate-o-limite-s04e05-salvando-o-mestre-estilhaco-1_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 5 - Salvando o Mestre Estilhaço",
+      "start_time": "15:38",
+      "end_time": "16:00",
+      "episode_description": "Soluço e Heather ficam chocados ao ver Dagur em meio aos caçadores de dragões; Melequento participa de uma série de testes para se tornar o rei de Mala."
+    },
+    {
+      "show_name": "Alvinnn!!! E os Esquilos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alvinnn-e-os-esquilos-1_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "16:00",
+      "end_time": "16:12",
+      "episode_description": "Alvin mente para seus amigos e diz que tem um filho. O problema é que essa mentirinha logo se transforma em um enorme desastre e todos passam a fazer parte de uma terrível rede de intrigas e ainda mais mentiras."
+    },
+    {
+      "show_name": "Alvinnn!!! E os Esquilos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alvinnn-e-os-esquilos-1_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "16:12",
+      "end_time": "16:23",
+      "episode_description": "Alvin mente para seus amigos e diz que tem um filho. O problema é que essa mentirinha logo se transforma em um enorme desastre e todos passam a fazer parte de uma terrível rede de intrigas e ainda mais mentiras."
+    },
+    {
+      "show_name": "Alvinnn!!! E os Esquilos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alvinnn-e-os-esquilos-s04e03-aventuras-de-baba_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 3 - Aventuras de Babá",
+      "start_time": "16:23",
+      "end_time": "16:35",
+      "episode_description": "Theodore é forçado a fazer o trabalho de Alvin com um menino mimado de quatro anos."
+    },
+    {
+      "show_name": "Alvinnn!!! E os Esquilos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alvinnn-e-os-esquilos-1_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "16:35",
+      "end_time": "16:46",
+      "episode_description": "Alvin mente para seus amigos e diz que tem um filho. O problema é que essa mentirinha logo se transforma em um enorme desastre e todos passam a fazer parte de uma terrível rede de intrigas e ainda mais mentiras."
+    },
+    {
+      "show_name": "Alvinnn!!! E os Esquilos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alvinnn-e-os-esquilos-1_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "16:46",
+      "end_time": "16:58",
+      "episode_description": "Alvin mente para seus amigos e diz que tem um filho. O problema é que essa mentirinha logo se transforma em um enorme desastre e todos passam a fazer parte de uma terrível rede de intrigas e ainda mais mentiras."
+    },
+    {
+      "show_name": "Tara Duncan",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tara-duncan-s01e39_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 39 - A Troca",
+      "start_time": "16:58",
+      "end_time": "17:10",
+      "episode_description": "Tentando um novo feitiço, Tara muda os corpos do mestre Chem e Cal. Apenas uma pena de harpia, um ingrediente muito difícil de obter, pode reverter o feitiço."
+    },
+    {
+      "show_name": "Tara Duncan",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tara-duncan-s01e40_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 40",
+      "start_time": "17:10",
+      "end_time": "17:22",
+      "episode_description": "Um mito diz que o pássaro dourado na sala do trono é o protetor do império. Enquanto Magister se infiltra no palácio, Tara precisa confiar em seus poderes para despertar o pássaro."
+    },
+    {
+      "show_name": "Miraculous - As Aventuras de Ladybug",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_miraculous-as-aventuras-de-ladybug-s05e16-protec-o_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 16 - Proteção",
+      "start_time": "17:22",
+      "end_time": "17:45",
+      "episode_description": "A turma bola outro plano complicado para reunir Marinette e Adrien; Lila usa seu talento para a manipulação e tenta convencer Kagami de que Marinette é mentirosa."
+    },
+    {
+      "show_name": "Miraculous - As Aventuras de Ladybug",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_miraculous-as-aventuras-de-ladybug_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "17:45",
+      "end_time": "18:09",
+      "episode_description": "Marinette tenta desesperadamente esconder de Adrien que está resfriada e ajuda Nathaniel a conseguir ilustrar a história em quadrinhos escrita por Marc."
+    },
+    {
+      "show_name": "Miraculous - As Aventuras de Ladybug",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_miraculous-as-aventuras-de-ladybug-s05e18-emoc-o_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 18 - Emoção",
+      "start_time": "18:09",
+      "end_time": "18:33",
+      "episode_description": "Marinette descobre que Adrien não se atreveu a contar a ela sobre o baile e ela decide ir também."
+    },
+    {
+      "show_name": "Miraculous - As Aventuras de Ladybug",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_miraculous-as-aventuras-de-ladybug-s06e05-lobiavos_l_m.jpg",
+      "show_category": "Temporada 6 Episódio 5 - Lobiavôs",
+      "start_time": "18:33",
+      "end_time": "19:00",
+      "episode_description": "Adrien fica nervoso em conhecer seus avós e Marinette se voluntaria para acompanhá-lo no almoço e dar apoio sem saber que uma guerra familiar está prestes a explodir."
+    },
+    {
+      "show_name": "D.P.A. - Detetives do Prédio Azul",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_d-p-a-detetives-do-predio-azul-s20e02-uma-sindica-muito-boazinha_l_m.jpg",
+      "show_category": "Temporada 20 Episódio 2 - Uma Síndica Muito Boazinha",
+      "start_time": "19:00",
+      "end_time": "19:23",
+      "episode_description": "Severino perde um documento muito importante, e os detetives precisam encontrá-lo antes que a síndica descubra. O que eles não sabem é que Leocádia também está correndo perigo."
+    },
+    {
+      "show_name": "D.P.A. - Detetives do Prédio Azul",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_d-p-a-detetives-do-predio-azul-s19e12-buzi-buzi_l_m.jpg",
+      "show_category": "Temporada 19 Episódio 12 - Buzi-Buzi",
+      "start_time": "19:23",
+      "end_time": "19:44",
+      "episode_description": "Theobaldo perde a caixa com besouros trazidos por Tobby de Ondion e os detetives tentam encontrá-la."
+    },
+    {
+      "show_name": "Miraculous - As Aventuras de Ladybug",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_miraculous-as-aventuras-de-ladybug-s05e21-confrontac-o_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 21 - Confrontação",
+      "start_time": "19:44",
+      "end_time": "20:08",
+      "episode_description": "Lila e Chloe são as novas representantes de classe, e Marinette e Adrien se preocupam."
+    },
+    {
+      "show_name": "Miraculous - As Aventuras de Ladybug",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_miraculous-as-aventuras-de-ladybug-s05e22-conspirac-o_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 22 - Conspiração",
+      "start_time": "20:08",
+      "end_time": "20:32",
+      "episode_description": "Monarch decide colocar em prática um plano que é perigoso para sua identidade secreta - e para a de Ladybug e Cat Noir também."
+    },
+    {
+      "show_name": "Miraculous - As Aventuras de Ladybug",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_miraculous-as-aventuras-de-ladybug-s05e23-revoluc-o_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 23 - Revolução",
+      "start_time": "20:32",
+      "end_time": "21:00",
+      "episode_description": "Chloe e Monarch estão mais poderosos do que nunca; a vida de Marinette e Adrien está prestes a mudar para sempre."
+    },
+    {
+      "show_name": "Hotel Transilvânia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hotel-transilvania-2012_l_m.jpg",
+      "show_category": "Children / 2012 /7.1",
+      "start_time": "21:00",
+      "end_time": "22:25",
+      "episode_description": "O Hotel Transilvânia é um resort cinco estrelas que serve de refúgio para que os monstros possam descansar do árduo trabalho de perseguir e assustar os humanos. O local é comandado pelo Conde Drácula, que resolve convidar os amigos para comemorar, ao longo de um fim de semana, o 118º aniversário de sua filha Mavis. Ele só não espera a chegada de um humano sem noção chamado Jonathan, que aparece no local justo quando o hotel está repleto de convidados e, ainda por cima, se apaixona por Mavis."
+    },
+    {
+      "show_name": "Buuu",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_buuu-s01e24-retorno-do-farao_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 24 - Retorno do Faraó",
+      "start_time": "22:25",
+      "end_time": "22:46",
+      "episode_description": "O Faraó proíbe a produção do Soro, enfrenta Simi, e leva Casca à força para encontrar Orinde. Carlinhos e os outros precisam de um plano, enquanto Leonardo sai pelo portal em busca de reforços. Hug surge novamente de forma inesperada."
+    },
+    {
+      "show_name": "Alvinnn!!! E os Esquilos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alvinnn-e-os-esquilos-1_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "22:46",
+      "end_time": "22:58",
+      "episode_description": "Alvin mente para seus amigos e diz que tem um filho. O problema é que essa mentirinha logo se transforma em um enorme desastre e todos passam a fazer parte de uma terrível rede de intrigas e ainda mais mentiras."
+    },
+    {
+      "show_name": "Alvinnn!!! E os Esquilos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alvinnn-e-os-esquilos-1_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "22:58",
+      "end_time": "23:09",
+      "episode_description": "Alvin mente para seus amigos e diz que tem um filho. O problema é que essa mentirinha logo se transforma em um enorme desastre e todos passam a fazer parte de uma terrível rede de intrigas e ainda mais mentiras."
+    },
+    {
+      "show_name": "Alvinnn!!! E os Esquilos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alvinnn-e-os-esquilos-1_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "23:09",
+      "end_time": "23:21",
+      "episode_description": "Alvin mente para seus amigos e diz que tem um filho. O problema é que essa mentirinha logo se transforma em um enorme desastre e todos passam a fazer parte de uma terrível rede de intrigas e ainda mais mentiras."
+    },
+    {
+      "show_name": "Alvinnn!!! E os Esquilos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alvinnn-e-os-esquilos-1_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "23:21",
+      "end_time": "23:32",
+      "episode_description": "Alvin mente para seus amigos e diz que tem um filho. O problema é que essa mentirinha logo se transforma em um enorme desastre e todos passam a fazer parte de uma terrível rede de intrigas e ainda mais mentiras."
+    },
+    {
+      "show_name": "Saúdem Todos o Rei Julien - Exilado!",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_saudem-todos-o-rei-julien-exilado-s01e04-a-ponte-do-rio-mork_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - A Ponte do Rio Mork",
+      "start_time": "23:32",
+      "end_time": "23:56",
+      "episode_description": "Enquanto Julien e companhia retornam para Madagascar, o submarino enfrenta problemas; Mork apresenta uma peça de teatro para encobrir a fuga dos prisioneiros."
+    },
+    {
+      "show_name": "Saúdem Todos o Rei Julien - Exilado!",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_saudem-todos-o-rei-julien-exilado-s01e05-cacadores-do-tubar-o-perdido_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 5 - Caçadores do Tubarão Perdido",
+      "start_time": "23:56",
+      "end_time": "00:19",
+      "episode_description": "Julien e o grupo se juntam com tubarões para formar um exército; o mapa de Jarsh-Jarsh põe Clover e Sage em perigo; o plano de fuga de Mork apresenta um obstáculo."
     }
   ]
 }

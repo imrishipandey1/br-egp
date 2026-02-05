@@ -1,134 +1,182 @@
 {
   "channel": "FOX Sports",
-  "date": "05/02/2026",
+  "date": "06/02/2026",
   "schedule": [
     {
-      "show_name": "Manchester City x Newcastle United",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-manchester-city-x-newcastle-united_l_m.webp",
-      "show_category": "Copa da Liga Inglesa",
-      "start_time": "01:00",
-      "end_time": "03:00",
-      "episode_description": "Acompanhe a competição eliminatória anual de futebol na Inglaterra."
-    },
-    {
-      "show_name": "Show da Rodada de La Liga",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-show-da-rodada-de-la-liga_l_m.webp",
-      "show_category": "",
-      "start_time": "03:00",
-      "end_time": "03:30",
-      "episode_description": ".Todos os gols e os principais lances da rodada de La Liga, primeira divisão do Campeonato Espanhol."
-    },
-    {
-      "show_name": "2 de Mayo x Alianza Lima",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-2-de-mayo-x-alianza-lima_l_m.webp",
-      "show_category": "Copa Libertadores da América",
-      "start_time": "03:30",
-      "end_time": "05:30",
-      "episode_description": "Todas as emoções da principal competição de futebol masculino disputada entre clubes da América do Sul, e que garante ao campeão vaga no Mundial de Clubes da FIFA."
-    },
-    {
       "show_name": "Show da Rodada da EFL",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-show-da-rodada-da-efl_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-da-efl_l_m.jpg",
       "show_category": "",
-      "start_time": "05:30",
-      "end_time": "06:00",
+      "start_time": "01:00",
+      "end_time": "01:30",
       "episode_description": "Os destaques das partidas da EFL Championship, segunda divisão de futebol masculino da Inglaterra."
     },
     {
-      "show_name": "Alavés x Real Sociedad",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-alaves-x-real-sociedad-1_l_m.webp",
-      "show_category": "Copa do Rei",
-      "start_time": "06:00",
-      "end_time": "08:00",
-      "episode_description": "Do Estádio de Mendizorroza, em Vitoria-Gasteiz, Espanha."
-    },
-    {
-      "show_name": "Show da Rodada do Inglês",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-show-da-rodada-do-ingles_l_m.webp",
-      "show_category": "",
-      "start_time": "08:00",
-      "end_time": "08:30",
-      "episode_description": "O programa traz todos os pormenores da rodada do campeonato inglês com as pontuações dos clubes, gols e lances mais bonitos."
-    },
-    {
-      "show_name": "Franca x Paulistano",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_basketball-franca-x-paulistano_l_m.webp",
-      "show_category": "NBB",
-      "start_time": "08:30",
-      "end_time": "10:30",
-      "episode_description": "Pela fase de classificação da temporada 2025-2026 do NBB, o Franca (19-4) recebe o Paulistano (13-9) no Ginásio Pedrocão, em Franca, SP."
-    },
-    {
-      "show_name": "Bola da Vez",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_bola-da-vez_l_m.webp",
-      "show_category": "Children",
-      "start_time": "10:30",
-      "end_time": "11:30",
-      "episode_description": "Entre encontros e desencontros, esquecimento e memória, um grupo de crianças passeia pela infância, pelas raízes e por paisagens escondidas da cidade de Goiás."
-    },
-    {
-      "show_name": "Resenha ESPN",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_resenha-espn_l_m.webp",
-      "show_category": "Sports talk",
-      "start_time": "11:30",
-      "end_time": "12:30",
-      "episode_description": "Os principais destaques das edições do programa exibidas originalmente em janeiro de 2026."
-    },
-    {
-      "show_name": "2 de Mayo x Alianza Lima",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-2-de-mayo-x-alianza-lima_l_m.webp",
-      "show_category": "Copa Libertadores da América",
-      "start_time": "12:30",
-      "end_time": "14:30",
-      "episode_description": "Todas as emoções da principal competição de futebol masculino disputada entre clubes da América do Sul, e que garante ao campeão vaga no Mundial de Clubes da FIFA."
-    },
-    {
-      "show_name": "Elche CF x Barcelona",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-elche-cf-x-barcelona_l_m.webp",
-      "show_category": "Campeonato Espanhol",
-      "start_time": "14:30",
-      "end_time": "16:30",
-      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
-    },
-    {
-      "show_name": "Show da Rodada de La Liga",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-show-da-rodada-de-la-liga_l_m.webp",
-      "show_category": "",
-      "start_time": "16:30",
-      "end_time": "16:55",
-      "episode_description": ".Todos os gols e os principais lances da rodada de La Liga, primeira divisão do Campeonato Espanhol."
-    },
-    {
-      "show_name": "Betis x Atlético de Madrid",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-betis-x-atletico-de-madrid-1_l_m.webp",
-      "show_category": "Copa do Rei",
-      "start_time": "16:55",
-      "end_time": "19:00",
-      "episode_description": "Do Estádio de La Cartuja, em Sevilha, Espanha."
+      "show_name": "Etapa de Bowman Gray",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_auto-racing-etapa-de-bowman-gray_l_m.jpg",
+      "show_category": "NASCAR Cup Series",
+      "start_time": "01:30",
+      "end_time": "04:00",
+      "episode_description": "Evento de pré-temporada da NASCAR Cup Series, com disputa de corrida de exibição no Bowman Gray Stadium, em Winston-Salem, EUA."
     },
     {
       "show_name": "Show da Rodada do Italiano",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-show-da-rodada-do-italiano_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-do-italiano_l_m.jpg",
       "show_category": "",
-      "start_time": "19:00",
-      "end_time": "19:30",
+      "start_time": "04:00",
+      "end_time": "04:30",
       "episode_description": "Os principais destaques das partidas da Lega Serie A, primeira divisão do Campeonato Italiano de futebol masculino, com os gols, melhores lances e situação da tabela de classificação após cada rodada disputada."
     },
     {
-      "show_name": "Rosario Central x River Plate",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-rosario-central-x-river-plate_l_m.webp",
+      "show_name": "The Strongest x Deportivo Táchira",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-the-strongest-x-deportivo-tachira_l_m.jpg",
+      "show_category": "Copa Libertadores da América",
+      "start_time": "04:30",
+      "end_time": "04:30",
+      "episode_description": "Todas as emoções da principal competição de futebol masculino disputada entre clubes da América do Sul, e que garante ao campeão vaga no Mundial de Clubes da FIFA."
+    },
+    {
+      "show_name": "The Strongest x Deportivo Táchira",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-the-strongest-x-deportivo-tachira_l_m.jpg",
+      "show_category": "Copa Libertadores da América",
+      "start_time": "04:30",
+      "end_time": "06:30",
+      "episode_description": "Todas as emoções da principal competição de futebol masculino disputada entre clubes da América do Sul, e que garante ao campeão vaga no Mundial de Clubes da FIFA."
+    },
+    {
+      "show_name": "2 de Mayo x Alianza Lima",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-2-de-mayo-x-alianza-lima_l_m.jpg",
+      "show_category": "Copa Libertadores da América",
+      "start_time": "06:30",
+      "end_time": "08:30",
+      "episode_description": "Todas as emoções da principal competição de futebol masculino disputada entre clubes da América do Sul, e que garante ao campeão vaga no Mundial de Clubes da FIFA."
+    },
+    {
+      "show_name": "Arsenal x Chelsea",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-arsenal-x-chelsea-3_l_m.jpg",
+      "show_category": "Copa da Liga Inglesa",
+      "start_time": "08:30",
+      "end_time": "10:30",
+      "episode_description": "Acompanhe a competição eliminatória anual de futebol na Inglaterra."
+    },
+    {
+      "show_name": "Bayer Leverkusen x St. Pauli",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-bayer-leverkusen-x-st-pauli_l_m.jpg",
+      "show_category": "Copa da Alemanha",
+      "start_time": "10:30",
+      "end_time": "12:30",
+      "episode_description": "Da BayArena, em Leverkusen, Alemanha."
+    },
+    {
+      "show_name": "Independiente x Vélez Sarsfield",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-independiente-x-velez-sarsfield_l_m.jpg",
       "show_category": "Campeonato Argentino",
-      "start_time": "19:30",
-      "end_time": "21:30",
+      "start_time": "12:30",
+      "end_time": "14:30",
       "episode_description": "Acompanhe as grandes partidas do torneio de elite do futebol argentino."
     },
     {
-      "show_name": "Albert Ramírez x Lerrone Richards",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_boxing-albert-ramirez-x-lerrone-richards_l_m.webp",
+      "show_name": "Show da Rodada do Italiano",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-do-italiano_l_m.jpg",
+      "show_category": "",
+      "start_time": "14:30",
+      "end_time": "15:00",
+      "episode_description": "Os principais destaques das partidas da Lega Serie A, primeira divisão do Campeonato Italiano de futebol masculino, com os gols, melhores lances e situação da tabela de classificação após cada rodada disputada."
+    },
+    {
+      "show_name": "Show da Rodada de La Liga",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-de-la-liga_l_m.jpg",
+      "show_category": "",
+      "start_time": "15:00",
+      "end_time": "15:30",
+      "episode_description": ".Todos os gols e os principais lances da rodada de La Liga, primeira divisão do Campeonato Espanhol."
+    },
+    {
+      "show_name": "Show da Rodada do Inglês",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-do-ingles_l_m.jpg",
+      "show_category": "",
+      "start_time": "15:30",
+      "end_time": "15:55",
+      "episode_description": "O programa traz todos os pormenores da rodada do campeonato inglês com as pontuações dos clubes, gols e lances mais bonitos."
+    },
+    {
+      "show_name": "F1: The Inside Line",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_auto-racing-f1-the-inside-line_l_m.jpg",
+      "show_category": "",
+      "start_time": "15:55",
+      "end_time": "16:25",
+      "episode_description": "Veja a cobertura completa da Fórmula 1, a maior e mais badalada categoria do automobilismo mundial. Acompanhe as principais notícias da semana, os bastidores, entrevistas exclusivas e reportagens especiais."
+    },
+    {
+      "show_name": "Momento ESPN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_documentary-momento-espn_l_m.jpg",
+      "show_category": "",
+      "start_time": "16:25",
+      "end_time": "16:35",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hellas Verona x Pisa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-hellas-verona-x-pisa_l_m.jpg",
+      "show_category": "Campeonato Italiano",
+      "start_time": "16:35",
+      "end_time": "18:45",
+      "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
+    },
+    {
+      "show_name": "Momento ESPN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_documentary-momento-espn_l_m.jpg",
+      "show_category": "",
+      "start_time": "18:45",
+      "end_time": "19:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Premier League Stories",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-premier-league-stories_l_m.jpg",
+      "show_category": "",
+      "start_time": "19:00",
+      "end_time": "19:30",
+      "episode_description": "Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês."
+    },
+    {
+      "show_name": "Inside Serie A",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-inside-serie-a_l_m.jpg",
+      "show_category": "",
+      "start_time": "19:30",
+      "end_time": "20:00",
+      "episode_description": "Uma previsão sobre os próximos jogos do Campeonato Italiano."
+    },
+    {
+      "show_name": "Arsenal x Chelsea",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-arsenal-x-chelsea-3_l_m.jpg",
+      "show_category": "Copa da Liga Inglesa",
+      "start_time": "20:00",
+      "end_time": "22:00",
+      "episode_description": "Acompanhe a competição eliminatória anual de futebol na Inglaterra."
+    },
+    {
+      "show_name": "Varejão - Made in Brazil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_varej-o-made-in-brazil_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "22:00",
+      "end_time": "22:30",
+      "episode_description": "Ídolo do Cleveland Cavaliers, o ex-jogador brasileiro de basquete Anderson Varejão segue em parceria com sua antiga equipe da NBA na missão de revitalizar quadras e expandir a prática da modalidade em solo nacional."
+    },
+    {
+      "show_name": "F1: The Inside Line",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_auto-racing-f1-the-inside-line_l_m.jpg",
+      "show_category": "",
+      "start_time": "22:30",
+      "end_time": "23:00",
+      "episode_description": "Veja a cobertura completa da Fórmula 1, a maior e mais badalada categoria do automobilismo mundial. Acompanhe as principais notícias da semana, os bastidores, entrevistas exclusivas e reportagens especiais."
+    },
+    {
+      "show_name": "Christian Medina x Adrian Curiel",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_boxing-christian-medina-x-adrian-curiel_l_m.jpg",
       "show_category": "Boxe Internacional",
-      "start_time": "21:30",
+      "start_time": "23:00",
       "end_time": "",
-      "episode_description": "O venezuelano Albert Ramírez (22-0, com 19 nocautes) defende título mundial interino da AMB na categoria meio-pesado contra o desafiante inglês Lerrone Richards (19-1, com quatro nocautes) em evento no Casino de Montréal, em Montreal, Canadá."
+      "episode_description": "Christian \"Chispa\" Medina (26-4) coloca o cinturão peso-galo da Organização Mundial de Boxe frente a Adrián \"Gatito\" Curiel (26-6-1), na luta principal do evento disputado no Domo Alcalde, em Jalisco, México."
     }
   ]
 }
