@@ -1,142 +1,166 @@
 {
   "channel": "HBO Signature",
-  "date": "06/02/2026",
+  "date": "07/02/2026",
   "schedule": [
     {
-      "show_name": "Gia - Fama e Destruição",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/hbo-signature/tomorrow/br_gia-fama-e-destruic-o-1998-1_l_m.webp",
-      "show_category": "Docudrama / 1998",
+      "show_name": "Má Educação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ma-educac-o-2019_l_m.jpg",
+      "show_category": "Comedy drama / 2019",
       "start_time": "00:00",
-      "end_time": "02:10",
+      "end_time": "01:57",
+      "episode_description": "O sistema educacional dos Estados Unidos é abalado quando é descoberto o maior escândalo de apropriação indébita de fundos de escolas públicas na história do país."
+    },
+    {
+      "show_name": "Muito Ralph - Vida e Obra de Ralph Lauren",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_muito-ralph-vida-e-obra-de-ralph-lauren_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "01:57",
+      "end_time": "03:53",
+      "episode_description": "Veja entrevistas com personalidades, familiares e amigos. O documentário traz um perfil do icônico estilista Ralph Lauren, que ao longo de uma carreira de mais de cinco décadas tornou-se símbolo do estilo americano no mundo todo."
+    },
+    {
+      "show_name": "Vida de Crime - 1984 - 2020",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vida-de-crime-1984-2020-2021_l_m.jpg",
+      "show_category": "Documentary / 2021",
+      "start_time": "03:53",
+      "end_time": "06:00",
+      "episode_description": "Examinando os altos e baixos dos ciclos viciosos do vício em drogas e do crime de rua em uma das partes mais difíceis de Nova Jersey."
+    },
+    {
+      "show_name": "Não Foi um Acidente - Racismo e Negação em Charlottesville",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_n-o-foi-um-acidente-racismo-e-negac-o-em-charlottesville-2023_l_m.jpg",
+      "show_category": "Documentary / 2023",
+      "start_time": "06:00",
+      "end_time": "07:45",
+      "episode_description": "Após uma manifestação supremacista branca em 2017 em Charlottesville, EUA, as advogadas Roberta \"Robbie\" Kaplan e Karen Dunn abrem uma ação civil contra 17 líderes e organizações nacionalistas."
+    },
+    {
+      "show_name": "Love to Love You, Donna Summer",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_love-to-love-you-donna-summer-2023_l_m.jpg",
+      "show_category": "Documentary / 2023",
+      "start_time": "07:45",
+      "end_time": "09:39",
+      "episode_description": "Donna Summer cria música que a leva da cena de vanguarda na Alemanha para o brilho e as luzes brilhantes das boates de Nova York. O filme ainda mostra vídeos caseiros inéditos da cantora e entrevistas com amigos, familiares e colegas."
+    },
+    {
+      "show_name": "Gia - Fama e Destruição",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_gia-fama-e-destruic-o-1998-1_l_m.jpg",
+      "show_category": "Docudrama / 1998",
+      "start_time": "09:39",
+      "end_time": "11:52",
       "episode_description": "Gia Carangi chega a Nova York com o sonho de se tornar uma supermodelo. Ela conhece a poderosa agente Wilhelmina Cooper e, com a sua ajuda, chega rapidamente ao topo da carreira. Mas, quando Wilhelmina morre de câncer, Gia se volta para as drogas e destrói sua carreira e sua vida."
     },
     {
-      "show_name": "Elizabeth Taylor - As Fitas Perdidas",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/hbo-signature/tomorrow/br_elizabeth-taylor-as-fitas-perdidas-2024_l_m.webp",
-      "show_category": "Documentary / 2024",
-      "start_time": "02:10",
-      "end_time": "03:59",
-      "episode_description": "Uma exploração sem precedentes da vida de Elizabeth Taylor, a estrela por excelência de Hollywood. O documentário apresenta arquivos pessoais de Taylor e horas de entrevistas em áudio íntimas, recém-descobertas, com o jornalista Richard Meryman."
+      "show_name": "True Blood",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_true-blood-s01e01-strange-love_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - Strange Love",
+      "start_time": "11:52",
+      "end_time": "12:53",
+      "episode_description": "Desde a criação de um sangue artificial vindo do Japão, vampiros decidem sair de seus caixões; a garçonete Sookie pode ler a mente de todos, menos a de Bill, um vampiro que tenta se inserir na sociedade."
     },
     {
-      "show_name": "Alex Jones - Uma Guerra Contra a Verdade",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/hbo-signature/tomorrow/br_alex-jones-uma-guerra-contra-a-verdade-2024_l_m.webp",
-      "show_category": "Documentary / 2024",
-      "start_time": "03:59",
-      "end_time": "06:00",
-      "episode_description": "Os históricos processos de difamação iniciados pelos pais das vítimas do tiroteio na escola Sandy Hook contra o teórico da conspiração Alex Jones em uma batalha legal pela verdade."
+      "show_name": "True Blood",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_true-blood-s01e02-the-first-taste_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - The First Taste",
+      "start_time": "12:53",
+      "end_time": "13:52",
+      "episode_description": "Quando Bill resgata Sookie da cruel vingança de Rattray, a avó da jovem o convida para conhecer sua família; aparecem os corpos dos agressores da garçonete e Bill."
     },
     {
-      "show_name": "A Líder do Bling Ring - Os Roubos de Hollywood Hills",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/hbo-signature/tomorrow/br_a-lider-do-bling-ring-os-roubos-de-hollywood-hills_l_m.webp",
-      "show_category": "Special",
-      "start_time": "06:00",
-      "end_time": "07:40",
-      "episode_description": "Conheça a vida de Rachel Lee, que foi líder dos ladrões de Hollywood, conhecidos como Bling Ring."
+      "show_name": "True Blood",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_true-blood-s01e03-mine_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3 - Mine",
+      "start_time": "13:52",
+      "end_time": "14:47",
+      "episode_description": "Frustrados na tentativa de seduzir Sookie, os vampiros Malcolm, Liam e Diane saem enfurecidos quando Bill vem ajudá-la; desprezado por Dawn, Jason pede ajuda ao cozinheiro do Merlotte, Lafayette."
     },
     {
-      "show_name": "Escola da Fraude - O Escândalo da Bishop Sycamore",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/hbo-signature/tomorrow/br_escola-da-fraude-o-escandalo-da-bishop-sycamore-2023_l_m.webp",
-      "show_category": "Documentary / 2023",
-      "start_time": "07:40",
-      "end_time": "09:25",
-      "episode_description": "Em 2021, um dos maiores canais esportivos do mundo transmite para todos os Estados Unidos um jogo de futebol americano envolvendo a equipe da Escola Bishop Sycamore. Após a partida, no entanto, é revelado que a instituição jamais existiu de verdade."
+      "show_name": "True Blood",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_true-blood-s01e04-escape-from-dragon-house_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - Escape From Dragon House",
+      "start_time": "14:47",
+      "end_time": "15:39",
+      "episode_description": "Jason fica novamente sob custódia da polícia; a avó de Sookie insiste para que ela use suas habilidades telepáticas para conseguir libertar o irmão; Sookie vai com Bill ao bar Fangtasia, onde encontram vampiros pouco sociáveis."
     },
     {
-      "show_name": "Da Escola à Prisão - Relatos de Campo",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/hbo-signature/tomorrow/br_da-escola-a-pris-o-relatos-de-campo-2018_l_m.webp",
-      "show_category": "Drama / 2018",
-      "start_time": "09:25",
-      "end_time": "11:05",
-      "episode_description": "Em um monólogo, Anna Deavere Smith dramatiza as vozes de 18 pessoas afetadas por um sistema educativo que acaba empurrando jovens desfavorecidos das salas de aula para as prisões."
+      "show_name": "True Blood",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_true-blood-s01e05-sparks-fly-out_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 5 - Sparks Fly Out",
+      "start_time": "15:39",
+      "end_time": "16:35",
+      "episode_description": "Bill vai à igreja contar suas experiências na Guerra Civil e tem lembranças dolorosas. Sam tenta se aproximar de Sookie e Lafayette convence Jason a experimentar o True Blood novamente."
     },
     {
-      "show_name": "Como Ser Warren Buffett",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/hbo-signature/tomorrow/br_como-ser-warren-buffett_l_m.webp",
-      "show_category": "Special",
-      "start_time": "11:05",
-      "end_time": "12:40",
-      "episode_description": "Conheça a vida de Warren Buffet, um multimilionário que apesar de dirigir a quarta maior companhia do mundo, ainda leva uma vida humilde em uma modesta casa em Omaha."
+      "show_name": "True Blood",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_true-blood-s01e06-cold-ground_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 6 - Cold Ground",
+      "start_time": "16:35",
+      "end_time": "17:30",
+      "episode_description": "Depois de uma grande tragédia, Sookie busca conforto com as vozes em sua mente. Jason sofre com a síndrome de abstinência ao sangue sintético. Enquanto isso, Sam e Tara se unem por um objetivo comum."
     },
     {
-      "show_name": "Confirmação",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/hbo-signature/tomorrow/br_confirmac-o-2016_l_m.webp",
-      "show_category": "Docudrama / 2016",
-      "start_time": "12:40",
-      "end_time": "14:35",
-      "episode_description": "Em 1991, o então presidente George H. W. Bush nomeou o juiz Clarence Thomas para substituir o aposentado Thurgood Marshall na Suprema Corte americana. Durante as audiências de confirmação do juiz Thomas, porém, uma ex-colega sua, a advogada Anita Hill, testemunhou que ele a havia assediado sexualmente anos antes. As acusações de Hill provocaram uma tempestade de controvérsias e inspiraram o debate sobre a igualdade de gênero e os problemas enfrentados pelas mulheres em seus locais de trabalho."
+      "show_name": "True Blood",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_true-blood-s01e07-burning-house-of-love_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 7 - Burning House of Love",
+      "start_time": "17:30",
+      "end_time": "18:24",
+      "episode_description": "Bill entra em ação após ficar sabendo que Sookie teve uma infância sofrida; Jason estabelece uma conexão com Amy no Fangtasia; três homens misteriosos procuram por Bill."
     },
     {
-      "show_name": "Cuidado com o Slenderman",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/hbo-signature/tomorrow/br_cuidado-com-o-slenderman-2016_l_m.webp",
-      "show_category": "Documentary / 2016",
-      "start_time": "14:35",
-      "end_time": "16:34",
-      "episode_description": "Um olhar sobre o assustador caso de duas garotas de doze anos em Wisconsin, nos EUA, que esfaquearam 19 vezes uma colega como homenagem a Slenderman, um monstro fictício da internet. Uma análise sobre como o isolamento adolescente, a saúde mental e a natureza conflituosa da internet criaram um perigoso mandato para duas jovens com consequências ao longo da vida para todos os envolvidos."
+      "show_name": "True Blood",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_true-blood-s01e08-the-fourth-man-in-the-fire_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 8 - The Fourth Man in the Fire",
+      "start_time": "18:24",
+      "end_time": "19:22",
+      "episode_description": "Sookie se prepara para mais tragédias; Tara decide enfrentar sua angústia de uma maneira diferente; Amy mostra a Jason seu lado mais obscuro; Bill convence Sookie a ajudar Eric, usando seu poder para emboscar os criminosos."
     },
     {
-      "show_name": "Arte Negra - Na Ausência da Luz",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/hbo-signature/tomorrow/br_arte-negra-na-ausencia-da-luz_l_m.webp",
-      "show_category": "Special",
-      "start_time": "16:34",
-      "end_time": "18:02",
-      "episode_description": "Uma introdução ao trabalho de alguns dos principais artistas visuais afro-americanos, incluindo Theaster Gates, Kerry James Marshall, Faith Ringgold, Amy Sherald e Carrie Mae Weems, inspirada na exposição \"Two Centuries of Black American Art\"."
+      "show_name": "True Blood",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_true-blood-s01e09-plaisir-d-amour_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 9 - Plaisir D'Amour",
+      "start_time": "19:22",
+      "end_time": "20:18",
+      "episode_description": "Bill paga um preço alto por proteger Sookie; Jason e Amy quebram um tabu; Tara conversa com Jeanette sobre exorcizar seu demônio interior."
     },
     {
-      "show_name": "Big Little Lies",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/hbo-signature/tomorrow/br_big-little-lies-s02e01_l_m.webp",
-      "show_category": "Temporada 2 Episódio 1 - What Have They Done?",
-      "start_time": "18:02",
-      "end_time": "18:50",
-      "episode_description": "No primeiro dia de aula, Madeline preocupa-se com o comportamento de Bonnie e fica chocada quando Abigail diz que não querer ir para a faculdade; Mary Louise, sogra de Celeste, oferece sua avaliação sincera sobre o caráter de Madeline."
+      "show_name": "True Blood",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_true-blood-s01e10-i-don-t-wanna-know_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 10 - I Don't Wanna Know",
+      "start_time": "20:18",
+      "end_time": "21:10",
+      "episode_description": "Sam compartilha um segredo com Sookie; Lettie Mae e Tara comemoram; Jason e Amy discutem o que fazer com Eddie; Bill enfrenta um sentença dura."
     },
     {
-      "show_name": "Big Little Lies",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/hbo-signature/tomorrow/br_big-little-lies-s02e02_l_m.webp",
-      "show_category": "Temporada 2 Episódio 2 - Tell-Tale Hearts",
-      "start_time": "18:50",
-      "end_time": "19:47",
-      "episode_description": "Renata precisa lidar com um futuro incerto quando Gordon enfrenta problemas legais; Celeste fala com Mary Louise sobre seu relacionamento com Perry; Ed confronta Madeline."
+      "show_name": "True Blood",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_true-blood-s01e11-to-love-is-to-bury_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 11 - To Love Is to Bury",
+      "start_time": "21:10",
+      "end_time": "22:05",
+      "episode_description": "Bill e Eric descobrem que Jessica não é exatamente o que eles esperavam; Sookie vai com Sam a uma confeitaria e, depois, pressiona um policial mulherengo para obter informações; Jason se mete em problemas com Bud e Andy."
     },
     {
-      "show_name": "Big Little Lies",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/hbo-signature/tomorrow/br_big-little-lies-s02e03-the-end-of-the-world_l_m.webp",
-      "show_category": "Temporada 2 Episódio 3 - The End of the World",
-      "start_time": "19:47",
-      "end_time": "20:35",
-      "episode_description": "Mary Louise tenta se aproximar de Jane; em vez de lidar com os problemas em casa, Renata direciona sua raiva ao diretor Nippal; Madeline confronta seus problemas em uma sessão de terapia de casal."
+      "show_name": "True Blood",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_true-blood-s01e12-you-ll-be-the-death-of-me_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 12 - You'll Be the Death of Me",
+      "start_time": "22:05",
+      "end_time": "23:00",
+      "episode_description": "Sookie descobre a conexão de uma série de assassinatos em Bon Temps; Tara decide apostar tudo na sua segunda chance com Maryann; Jason descobre uma nova vocação depois que um fanático antivampiros o visita na prisão."
     },
     {
-      "show_name": "Big Little Lies",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/hbo-signature/tomorrow/br_big-little-lies-s02e04_l_m.webp",
-      "show_category": "Temporada 2 Episódio 4 - She Knows",
-      "start_time": "20:35",
-      "end_time": "21:24",
-      "episode_description": "Celeste acusa Mary Louise de passar dos limites com Jane; Renata aguenta uma audiência no tribunal junto com Gordon; Jane se abre para Corey na festa de aniversário Disco de Amabella; Madeline continua tentando acertar as coisas com Ed."
+      "show_name": "O Cavaleiro dos Sete Reinos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-cavaleiro-dos-sete-reinos-s01e03_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3 - O Escudeiro",
+      "start_time": "23:00",
+      "end_time": "23:37",
+      "episode_description": "Um século antes dos eventos de Game of Thrones, quando a linhagem Targaryen ainda detém o Trono de Ferro, dois improváveis heróis vagam por Westeros: um jovem cavaleiro, Sor Duncan, o Alto, e seu escudeiro, Egg."
     },
     {
-      "show_name": "Big Little Lies",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/hbo-signature/tomorrow/br_big-little-lies-s02e05-kill-me_l_m.webp",
-      "show_category": "Temporada 2 Episódio 5 - Kill Me",
-      "start_time": "21:24",
-      "end_time": "22:12",
-      "episode_description": "Renata lida com as consequências dos problemas legais de Gordon e tenta ajudar Celeste; Bonnie revive memórias dolorosas de sua mãe."
-    },
-    {
-      "show_name": "Big Little Lies",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/hbo-signature/tomorrow/br_big-little-lies-s02e06-the-bad-mother_l_m.webp",
-      "show_category": "Temporada 2 Episódio 6 - The Bad Mother",
-      "start_time": "22:12",
-      "end_time": "23:04",
-      "episode_description": "Celeste é surpreendida por Mary Louise; Renata descobre que os erros de Gordon são mais que financeiros; Bonnie contempla uma solução para o sofrimento de sua mãe e sua própria culpa; Ed recebe uma proposta incomum de Tori."
-    },
-    {
-      "show_name": "Big Little Lies",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/hbo-signature/tomorrow/br_big-little-lies-s02e07-i-want-to-know_l_m.webp",
-      "show_category": "Temporada 2 Episódio 7 - I Want to Know",
-      "start_time": "23:04",
+      "show_name": "Industry",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_industry-s04e04_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 4 - 1000 Caras, 1 Marilyn",
+      "start_time": "23:37",
       "end_time": "",
-      "episode_description": "Celeste questiona Mary Louise sobre um evento trágico da infância de Perry; Madeline se preocupa que a mentira possa estar separando as Cinco de Monterey."
+      "episode_description": "Um grupo de ambiciosos jovens recém-formados navega o tenso e competitivo ambiente de um importante banco de investimentos em Londres."
     }
   ]
 }

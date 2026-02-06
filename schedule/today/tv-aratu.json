@@ -1,50 +1,58 @@
 {
   "channel": "TV Aratu",
-  "date": "05/02/2026",
+  "date": "06/02/2026",
   "schedule": [
     {
       "show_name": "The Noite com Danilo Gentili",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_the-noite-com-danilo-gentili_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-noite-com-danilo-gentili_l_m.jpg",
       "show_category": "Talk",
-      "start_time": "00:00",
-      "end_time": "01:00",
+      "start_time": "00:15",
+      "end_time": "01:15",
       "episode_description": "Talk show com alto índice de piadas por minuto, que, com muita irreverência, aborda os fatos relevantes do dia."
     },
     {
       "show_name": "Operação Mesquita",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_operac-o-mesquita_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_operac-o-mesquita_l_m.jpg",
       "show_category": "Entertainment",
-      "start_time": "01:00",
-      "end_time": "01:30",
+      "start_time": "01:15",
+      "end_time": "01:45",
       "episode_description": "Descubra o lado B dos famosos, que mostram o seu cotidiano de forma curiosa e divertida por meio de entrevistas. Acompanhe ainda pessoas comuns que estão prestes a protagonizar um grande momento que pode mudar para sempre as suas vidas."
     },
     {
       "show_name": "SBT PodNight",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_sbt-podnight_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-podnight_l_m.jpg",
       "show_category": "Talk",
-      "start_time": "01:30",
-      "end_time": "02:15",
+      "start_time": "01:45",
+      "end_time": "02:30",
       "episode_description": "Exibição de podcasts brasileiros líderes de audiência nas plataformas digitais, que abordam temas variados, de cultura e entretenimento a questões sociais."
     },
     {
       "show_name": "SBT Notícias",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_sbt-noticias_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-noticias_l_m.jpg",
       "show_category": "News",
-      "start_time": "02:15",
-      "end_time": "05:00",
+      "start_time": "02:30",
+      "end_time": "04:30",
       "episode_description": "Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia."
     },
     {
       "show_name": "Igreja da Graça",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_igreja-da-graca_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_igreja-da-graca_l_m.jpg",
       "show_category": "Religious",
-      "start_time": "05:00",
-      "end_time": "06:00",
+      "start_time": "04:30",
+      "end_time": "05:30",
       "episode_description": "Acompanhe a programação da Igreja Universal da Graça de Deus."
     },
     {
+      "show_name": "Encontro com Deus",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_encontro-com-deus_l_m.jpg",
+      "show_category": "Religious",
+      "start_time": "05:30",
+      "end_time": "06:00",
+      "episode_description": "O programa da Igreja Evangélica Assembleia de Deus realiza trabalhos para evitar novas gerações de crianças de rua, fazendo ações de atendimento às mães e filhos com problemas sociais."
+    },
+    {
       "show_name": "Aratu 24 Horas",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_aratu-24-horas_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aratu-24-horas_l_m.jpg",
       "show_category": "News",
       "start_time": "06:00",
       "end_time": "07:30",
@@ -52,7 +60,7 @@
     },
     {
       "show_name": "SBT Manhã",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_sbt-manh_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-manh_l_m.jpg",
       "show_category": "News",
       "start_time": "07:30",
       "end_time": "08:30",
@@ -60,7 +68,7 @@
     },
     {
       "show_name": "Primeiro Impacto",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_primeiro-impacto-1997_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_primeiro-impacto-1997_l_m.jpg",
       "show_category": "News",
       "start_time": "08:30",
       "end_time": "11:00",
@@ -68,7 +76,7 @@
     },
     {
       "show_name": "Alô Juca",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_alo-juca_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alo-juca_l_m.jpg",
       "show_category": "News",
       "start_time": "11:00",
       "end_time": "13:45",
@@ -76,7 +84,7 @@
     },
     {
       "show_name": "Esmeralda - Edição Especial",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_esmeralda-edic-o-especial_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_esmeralda-edic-o-especial_l_m.jpg",
       "show_category": "Soap",
       "start_time": "13:45",
       "end_time": "14:30",
@@ -84,7 +92,7 @@
     },
     {
       "show_name": "Rubi",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_rubi_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rubi_l_m.jpg",
       "show_category": "Soap",
       "start_time": "14:30",
       "end_time": "15:30",
@@ -92,7 +100,7 @@
     },
     {
       "show_name": "Fofocalizando",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_fofocalizando_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_fofocalizando_l_m.jpg",
       "show_category": "Newsmagazine",
       "start_time": "15:30",
       "end_time": "16:45",
@@ -100,7 +108,7 @@
     },
     {
       "show_name": "Casos de Família",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_casos-de-familia-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_casos-de-familia-1_l_m.jpg",
       "show_category": "Talk",
       "start_time": "16:45",
       "end_time": "17:45",
@@ -108,7 +116,7 @@
     },
     {
       "show_name": "Coração Indomável",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_corac-o-indomavel-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_corac-o-indomavel-1_l_m.jpg",
       "show_category": "Soap",
       "start_time": "17:45",
       "end_time": "18:30",
@@ -116,7 +124,7 @@
     },
     {
       "show_name": "Fala, Dani",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_fala-dani_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_fala-dani_l_m.jpg",
       "show_category": "Special",
       "start_time": "18:30",
       "end_time": "19:00",
@@ -124,7 +132,7 @@
     },
     {
       "show_name": "Aratu Notícias",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_aratu-noticias_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aratu-noticias_l_m.jpg",
       "show_category": "News",
       "start_time": "19:00",
       "end_time": "19:45",
@@ -132,7 +140,7 @@
     },
     {
       "show_name": "SBT Brasil",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_sbt-brasil_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-brasil_l_m.jpg",
       "show_category": "News",
       "start_time": "19:45",
       "end_time": "21:00",
@@ -140,27 +148,27 @@
     },
     {
       "show_name": "Presente de Amor",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_presente-de-amor_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_presente-de-amor_l_m.jpg",
       "show_category": "Soap",
       "start_time": "21:00",
       "end_time": "22:00",
       "episode_description": "Isabella é uma mulher cujo maior sonho é ser mãe. Após a morte repentina do marido, ela conhece Eugenio, um homem generoso. Suas vidas tomam um rumo dramático quando um ser angelical aparece, dando-lhes a oportunidade de se tornarem pais."
     },
     {
-      "show_name": "Programa do Ratinho",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_programa-do-ratinho_l_m.webp",
-      "show_category": "Variety",
+      "show_name": "Verão Maior Paraná 2026",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ver-o-maior-parana-2026_l_m.jpg",
+      "show_category": "Entertainment",
       "start_time": "22:00",
-      "end_time": "23:00",
-      "episode_description": "O apresentador Carlos Massa leva ao público um programa alegre e repleto de atrações. Ele recebe convidados famosos e games, comédia, participação do público e quadros únicos, como o \"Jornal Racional\", \"Gol Show\" e \"Dez ou Mil\", entre outros."
+      "end_time": "23:30",
+      "episode_description": "O governo do Paraná promove diversos shows gratuitos nas praias de Matinhos e Pontal do Paraná. Acompanhe de perto tudo o que acontece nos palcos e nos bastidores, com muita informação e alto astral."
     },
     {
-      "show_name": "A Praça É Nossa",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_a-praca-e-nossa-2_l_m.webp",
-      "show_category": "Comedy",
-      "start_time": "23:00",
-      "end_time": "00:15",
-      "episode_description": "Carlos Alberto de Nóbrega comanda a praça mais irreverente e, em seu famoso banco, recebe os mais divertidos humoristas."
+      "show_name": "The Noite com Danilo Gentili",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-noite-com-danilo-gentili_l_m.jpg",
+      "show_category": "Talk",
+      "start_time": "23:30",
+      "end_time": "00:30",
+      "episode_description": "Talk show com alto índice de piadas por minuto, que, com muita irreverência, aborda os fatos relevantes do dia."
     }
   ]
 }

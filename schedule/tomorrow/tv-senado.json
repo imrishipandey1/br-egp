@@ -1,190 +1,278 @@
 {
   "channel": "TV SENADO",
-  "date": "06/02/2026",
+  "date": "07/02/2026",
   "schedule": [
     {
-      "show_name": "Jango",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_jango-1984_l_m.webp",
-      "show_category": "Documentary / 1984 /7.7",
-      "start_time": "00:00",
-      "end_time": "01:50",
-      "episode_description": "A trajetória política de João Goulart, o 24º presidente brasileiro, que foi deposto por um golpe militar nas primeiras horas de 1º de abril de 1964."
-    },
-    {
-      "show_name": "Arte no Caos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_arte-no-caos_l_m.webp",
+      "show_name": "O Dia que Durou 21 Anos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-dia-que-durou-21-anos-2013_l_m.jpg",
       "show_category": "Special",
-      "start_time": "01:50",
-      "end_time": "02:32",
-      "episode_description": "O processo criativo do artista Vik Muniz durante a elaboração da obra \"8 de janeiro de 2023\", criada a partir de destroços dos atos ocorridos naquela data. A tela foi doada ao Senado."
+      "start_time": "00:00",
+      "end_time": "01:20",
+      "episode_description": "Em clima de suspense e ação, o documentário apresenta, em três episódios, os bastidores da participação do governo dos Estados Unidos no golpe militar de 1964, que durou até 1985 e instaurou a ditadura no Brasil."
     },
     {
-      "show_name": "100 Anos de Cultura e Conflitos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_100-anos-de-cultura-e-conflitos_l_m.webp",
-      "show_category": "Documentary",
-      "start_time": "02:32",
+      "show_name": "35 - O Assalto ao Poder",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_35-o-assalto-ao-poder-2002_l_m.jpg",
+      "show_category": "Documentary / 2002 /7.2",
+      "start_time": "01:20",
       "end_time": "03:00",
-      "episode_description": "Descubra com especialistas sobre o surgimento da Rádio Nacional e o Cinema Sonoro."
-    },
-    {
-      "show_name": "Em Discussão",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_em-discuss-o-2_l_m.webp",
-      "show_category": "Educational",
-      "start_time": "03:00",
-      "end_time": "03:30",
-      "episode_description": "As principais discussões realizadas nas audiências públicas promovidas pelo Senado."
+      "episode_description": "O ano de 1935 estava chegando ao fim quando três levantes militares, em três diferentes capitais brasileiras, tentaram derrubar o governo de Getúlio Vargas."
     },
     {
       "show_name": "TV Senado Live",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_tv-senado-live_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tv-senado-live_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "03:30",
-      "end_time": "04:00",
+      "start_time": "03:00",
+      "end_time": "03:30",
       "episode_description": "Veja entrevistas com a participação do público sobre os grandes temas em pauta no país."
     },
     {
       "show_name": "Parlamento Brasil",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_parlamento-brasil_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "04:00",
-      "end_time": "04:30",
+      "start_time": "03:30",
+      "end_time": "04:00",
       "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
     },
     {
       "show_name": "Assunto de Estado",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_assunto-de-estado_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_assunto-de-estado_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "04:30",
-      "end_time": "05:00",
+      "start_time": "04:00",
+      "end_time": "04:30",
       "episode_description": "Espaço para que senadores comentem questões regionais e locais e preste contas aos eleitores."
     },
     {
       "show_name": "Agenda Econômica",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_agenda-economica-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_agenda-economica-1_l_m.jpg",
       "show_category": "Bus./financial",
-      "start_time": "05:00",
-      "end_time": "05:30",
+      "start_time": "04:30",
+      "end_time": "05:00",
       "episode_description": "Economistas, formuladores de políticas públicas, acadêmicos, intelectuais e parlamentares analisam questões da economia nacional e internacional."
     },
     {
       "show_name": "Salão Nobre",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_sal-o-nobre_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sal-o-nobre_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "05:30",
-      "end_time": "06:00",
+      "start_time": "05:00",
+      "end_time": "05:30",
       "episode_description": "Assista a temas de relevância nacional com líderes partidários, presidentes das comissões e autores."
     },
     {
+      "show_name": "Em Discussão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_em-discuss-o-2_l_m.jpg",
+      "show_category": "Educational",
+      "start_time": "05:30",
+      "end_time": "06:00",
+      "episode_description": "As principais discussões realizadas nas audiências públicas promovidas pelo Senado."
+    },
+    {
       "show_name": "Habitar/Habitat",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_habitar-habitat_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_habitar-habitat_l_m.jpg",
       "show_category": "Documentary",
       "start_time": "06:00",
       "end_time": "07:00",
       "episode_description": "Conheça os desafios, as aventuras e outras particularidades da vida a bordo dos veleiros. Com depoimentos de Almir Klink, o casal Cecília e Fábio Gandelman, o charter espanhol Nestor Sanchez e o aposentado Ari Jhensch."
     },
     {
-      "show_name": "Guerras do Brasil.Doc",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_guerras-do-brasil-doc_l_m.webp",
-      "show_category": "Documentary",
+      "show_name": "Envelhecer",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_envelhecer_l_m.jpg",
+      "show_category": "Health",
       "start_time": "07:00",
-      "end_time": "07:30",
-      "episode_description": "A Guerra do Tráfico relata a falência do sistema prisional brasileiro e apresenta um pouco da estrutura do crime organizado no país."
-    },
-    {
-      "show_name": "Salão Nobre",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_sal-o-nobre_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "07:30",
       "end_time": "08:00",
-      "episode_description": "Assista a temas de relevância nacional com líderes partidários, presidentes das comissões e autores."
+      "episode_description": "Conheça várias definições da palavra \"autonomia\", retiradas de dicionário, e quase todas atreladas à ideia de liberdade e independência. Confira entrevistas e opiniões de convidados."
     },
     {
-      "show_name": "Cidadania",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_cidadania_l_m.webp",
-      "show_category": "Interview",
+      "show_name": "Em Discussão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_em-discuss-o-2_l_m.jpg",
+      "show_category": "Educational",
       "start_time": "08:00",
       "end_time": "08:30",
-      "episode_description": "Entrevistas semanais sobre assuntos da atualidade, com a participação de parlamentares, especialistas e representantes de organizações sociais."
-    },
-    {
-      "show_name": "Parlamento Brasil",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_parlamento-brasil_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "08:30",
-      "end_time": "09:00",
-      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
-    },
-    {
-      "show_name": "TV Senado Live",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_tv-senado-live_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "09:00",
-      "end_time": "09:30",
-      "episode_description": "Veja entrevistas com a participação do público sobre os grandes temas em pauta no país."
-    },
-    {
-      "show_name": "Sessão Plenária",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_sess-o-plenaria-1_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "09:30",
-      "end_time": "13:30",
-      "episode_description": "Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade."
+      "episode_description": "As principais discussões realizadas nas audiências públicas promovidas pelo Senado."
     },
     {
       "show_name": "Senado Notícias",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_senado-noticias_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_senado-noticias_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "08:30",
+      "end_time": "09:00",
+      "episode_description": "Acompanhe as últimas notícias do Senado, entre as transmissões ao vivo das reuniões das comissões, do plenário e os programas de grade da emissora."
+    },
+    {
+      "show_name": "EcoSenado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ecosenado-1_l_m.jpg",
+      "show_category": "Environment",
+      "start_time": "09:00",
+      "end_time": "09:30",
+      "episode_description": "Assuntos relevantes e impactam o meio ambiente com participação de especialistas, políticos, biólogos e lideranças comunitárias."
+    },
+    {
+      "show_name": "Cidadania",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidadania_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "09:30",
+      "end_time": "10:00",
+      "episode_description": "Entrevistas semanais sobre assuntos da atualidade, com a participação de parlamentares, especialistas e representantes de organizações sociais."
+    },
+    {
+      "show_name": "Salão Nobre",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sal-o-nobre_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "10:00",
+      "end_time": "10:30",
+      "episode_description": "Assista a temas de relevância nacional com líderes partidários, presidentes das comissões e autores."
+    },
+    {
+      "show_name": "Agenda Econômica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_agenda-economica-1_l_m.jpg",
+      "show_category": "Bus./financial",
+      "start_time": "10:30",
+      "end_time": "11:00",
+      "episode_description": "Economistas, formuladores de políticas públicas, acadêmicos, intelectuais e parlamentares analisam questões da economia nacional e internacional."
+    },
+    {
+      "show_name": "Assunto de Estado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_assunto-de-estado_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "11:00",
+      "end_time": "11:30",
+      "episode_description": "Espaço para que senadores comentem questões regionais e locais e preste contas aos eleitores."
+    },
+    {
+      "show_name": "Cidadania",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidadania_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "11:30",
+      "end_time": "12:00",
+      "episode_description": "Entrevistas semanais sobre assuntos da atualidade, com a participação de parlamentares, especialistas e representantes de organizações sociais."
+    },
+    {
+      "show_name": "TV Senado Live",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tv-senado-live_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "12:00",
+      "end_time": "12:30",
+      "episode_description": "Veja entrevistas com a participação do público sobre os grandes temas em pauta no país."
+    },
+    {
+      "show_name": "Parlamento Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "12:30",
+      "end_time": "13:00",
+      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
+    },
+    {
+      "show_name": "EcoSenado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ecosenado-1_l_m.jpg",
+      "show_category": "Environment",
+      "start_time": "13:00",
+      "end_time": "13:30",
+      "episode_description": "Assuntos relevantes e impactam o meio ambiente com participação de especialistas, políticos, biólogos e lideranças comunitárias."
+    },
+    {
+      "show_name": "Senado Notícias",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_senado-noticias_l_m.jpg",
       "show_category": "Politics",
       "start_time": "13:30",
       "end_time": "14:00",
       "episode_description": "Acompanhe as últimas notícias do Senado, entre as transmissões ao vivo das reuniões das comissões, do plenário e os programas de grade da emissora."
     },
     {
-      "show_name": "Reunião de Comissão",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_reuni-o-de-comiss-o_l_m.webp",
-      "show_category": "Politics",
+      "show_name": "100 Anos de Cultura e Conflitos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_100-anos-de-cultura-e-conflitos_l_m.jpg",
+      "show_category": "Documentary",
       "start_time": "14:00",
-      "end_time": "19:30",
-      "episode_description": "Acompanhe as comissões do Senado Federal no Congresso Nacional do Brasil."
+      "end_time": "14:30",
+      "episode_description": "Descubra com especialistas sobre o surgimento da Rádio Nacional e o Cinema Sonoro."
     },
     {
-      "show_name": "Senado Notícias",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_senado-noticias_l_m.webp",
-      "show_category": "Politics",
+      "show_name": "Leituras",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_leituras_l_m.jpg",
+      "show_category": "Art",
+      "start_time": "14:30",
+      "end_time": "15:00",
+      "episode_description": "Análise e divulgação da literatura brasileira. Entrevistas com escritores e análises de obras literárias, com espaço para todas as correntes criativas."
+    },
+    {
+      "show_name": "Estúdio A",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_estudio-a_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "15:00",
+      "end_time": "16:00",
+      "episode_description": "Programa apresenta música popular brasileira mesclando entrevista e músicas gravadas em estúdio."
+    },
+    {
+      "show_name": "Espaço Cultural",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_espaco-cultural-1_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "episode_description": "O programa apresenta diversos eventos culturais como teatro, música e outras formas de expressão do povo brasileiro."
+    },
+    {
+      "show_name": "EcoSenado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ecosenado-1_l_m.jpg",
+      "show_category": "Environment",
+      "start_time": "17:00",
+      "end_time": "17:30",
+      "episode_description": "Assuntos relevantes e impactam o meio ambiente com participação de especialistas, políticos, biólogos e lideranças comunitárias."
+    },
+    {
+      "show_name": "Coleções",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_colec-es_l_m.jpg",
+      "show_category": "Entertainment",
+      "start_time": "17:30",
+      "end_time": "18:00",
+      "episode_description": "Conheça a arquitetura e a cultura da cidade de Redenção da Serra, no interior paulista."
+    },
+    {
+      "show_name": "Concertos em Geral",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_concertos-em-geral_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "episode_description": "Interpretações de grandes obras da música clássica universal, com informações e curiosidades sobre os instrumentos, a vida e a obra dos compositores."
+    },
+    {
+      "show_name": "Leituras",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_leituras_l_m.jpg",
+      "show_category": "Art",
+      "start_time": "19:00",
+      "end_time": "19:30",
+      "episode_description": "Análise e divulgação da literatura brasileira. Entrevistas com escritores e análises de obras literárias, com espaço para todas as correntes criativas."
+    },
+    {
+      "show_name": "Coleções",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_colec-es_l_m.jpg",
+      "show_category": "Entertainment",
       "start_time": "19:30",
       "end_time": "20:00",
-      "episode_description": "Acompanhe as últimas notícias do Senado, entre as transmissões ao vivo das reuniões das comissões, do plenário e os programas de grade da emissora."
+      "episode_description": "Conheça a arquitetura e a cultura da cidade de Redenção da Serra, no interior paulista."
     },
     {
-      "show_name": "Parlamento Brasil",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_parlamento-brasil_l_m.webp",
-      "show_category": "Politics",
+      "show_name": "Estúdio A",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_estudio-a_l_m.jpg",
+      "show_category": "Music",
       "start_time": "20:00",
-      "end_time": "20:30",
-      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
-    },
-    {
-      "show_name": "TV Senado Live",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_tv-senado-live_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "20:30",
       "end_time": "21:00",
-      "episode_description": "Veja entrevistas com a participação do público sobre os grandes temas em pauta no país."
+      "episode_description": "Programa apresenta música popular brasileira mesclando entrevista e músicas gravadas em estúdio."
     },
     {
-      "show_name": "Senadoc",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_senadoc_l_m.webp",
-      "show_category": "Politics",
+      "show_name": "A Voz de Ruy",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-voz-de-ruy-2024_l_m.jpg",
+      "show_category": "Documentary / 2024",
       "start_time": "21:00",
-      "end_time": "22:30",
-      "episode_description": "Espaço da TV Senado dedicado a documentários."
+      "end_time": "22:20",
+      "episode_description": "Reconhecido por suas propostas políticas e educacionais, Ruy Barbosa se tornou uma referência na defesa das liberdades individuais e de imprensa."
     },
     {
-      "show_name": "Senadoc",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_senadoc_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "22:30",
+      "show_name": "35 - O Assalto ao Poder",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_35-o-assalto-ao-poder-2002_l_m.jpg",
+      "show_category": "Documentary / 2002 /7.2",
+      "start_time": "22:20",
       "end_time": "",
-      "episode_description": "Espaço da TV Senado dedicado a documentários."
+      "episode_description": "O ano de 1935 estava chegando ao fim quando três levantes militares, em três diferentes capitais brasileiras, tentaram derrubar o governo de Getúlio Vargas."
     }
   ]
 }

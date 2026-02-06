@@ -1,50 +1,34 @@
 {
   "channel": "Globo",
-  "date": "05/02/2026",
+  "date": "06/02/2026",
   "schedule": [
     {
-      "show_name": "Jornal da Globo",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_jornal-da-globo_l_m.webp",
-      "show_category": "News",
-      "start_time": "00:05",
-      "end_time": "00:55",
-      "episode_description": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura."
-    },
-    {
       "show_name": "Coração Acelerado",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_corac-o-acelerado_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_corac-o-acelerado_l_m.jpg",
       "show_category": "Soap",
-      "start_time": "00:55",
-      "end_time": "01:40",
+      "start_time": "00:15",
+      "end_time": "01:00",
       "episode_description": "Janete não gosta de encontrar Agrado na casa de Zilá; Zilá e Janete discutem por conta das terras de Eliomar; Lia alerta Leandro sobre o agravamento do estado de saúde de Júlia."
     },
     {
       "show_name": "Vai que Cola",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_vai-que-cola-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-1_l_m.jpg",
       "show_category": "Comedy",
-      "start_time": "01:40",
-      "end_time": "02:25",
+      "start_time": "01:00",
+      "end_time": "01:55",
       "episode_description": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede."
     },
     {
-      "show_name": "Vai que Cola",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_vai-que-cola-1_l_m.webp",
-      "show_category": "Comedy",
-      "start_time": "02:25",
-      "end_time": "03:10",
-      "episode_description": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede."
-    },
-    {
-      "show_name": "Vai que Cola",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_vai-que-cola-1_l_m.webp",
-      "show_category": "Comedy",
-      "start_time": "03:10",
+      "show_name": "A Divisão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-divis-o-2020_l_m.jpg",
+      "show_category": "Crime drama / 2020",
+      "start_time": "01:55",
       "end_time": "04:00",
-      "episode_description": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede."
+      "episode_description": "O Rio de Janeiro se encontra acuado por uma onda de sequestros na década de 1990. As forças de segurança convocam agentes corruptos e um delegado com fama de genocida para salvar a cidade dos bandidos e até da polícia."
     },
     {
       "show_name": "Hora 1",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_hora-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hora-1_l_m.jpg",
       "show_category": "News",
       "start_time": "04:00",
       "end_time": "06:00",
@@ -52,7 +36,7 @@
     },
     {
       "show_name": "Bom Dia Praça",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_bom-dia-praca-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bom-dia-praca-1_l_m.jpg",
       "show_category": "News",
       "start_time": "06:00",
       "end_time": "08:30",
@@ -60,7 +44,7 @@
     },
     {
       "show_name": "Bom Dia Brasil",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_bom-dia-brasil-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bom-dia-brasil-1_l_m.jpg",
       "show_category": "News",
       "start_time": "08:30",
       "end_time": "09:30",
@@ -68,7 +52,7 @@
     },
     {
       "show_name": "Encontro com Patrícia Poeta",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_encontro-com-patricia-poeta_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_encontro-com-patricia-poeta_l_m.jpg",
       "show_category": "Entertainment",
       "start_time": "09:30",
       "end_time": "10:35",
@@ -76,7 +60,7 @@
     },
     {
       "show_name": "Mais Você",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_mais-voce-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mais-voce-1_l_m.jpg",
       "show_category": "Talk",
       "start_time": "10:35",
       "end_time": "11:45",
@@ -84,7 +68,7 @@
     },
     {
       "show_name": "Praça TV - 1ª Edição",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_praca-tv-1-edic-o-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_praca-tv-1-edic-o-1_l_m.jpg",
       "show_category": "News",
       "start_time": "11:45",
       "end_time": "13:00",
@@ -92,7 +76,7 @@
     },
     {
       "show_name": "Globo Esporte",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_news-globo-esporte_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_news-globo-esporte_l_m.jpg",
       "show_category": "",
       "start_time": "13:00",
       "end_time": "13:25",
@@ -100,7 +84,7 @@
     },
     {
       "show_name": "Jornal Hoje",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_jornal-hoje-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-hoje-1_l_m.jpg",
       "show_category": "News",
       "start_time": "13:25",
       "end_time": "14:45",
@@ -108,55 +92,47 @@
     },
     {
       "show_name": "Terra Nostra - Edição Especial",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_terra-nostra-edic-o-especial_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_terra-nostra-edic-o-especial_l_m.jpg",
       "show_category": "Soap",
       "start_time": "14:45",
-      "end_time": "15:25",
+      "end_time": "15:45",
       "episode_description": "Uma parte da história da formação da sociedade brasileira do início do século XX é contada a partir do romance de dois jovens italianos, Giuliana e Matteo. Eles se conhecem em 1894 a bordo do navio que transporta imigrantes para trabalhar no Brasil."
     },
     {
-      "show_name": "Uma Questão de Fé",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_uma-quest-o-de-fe-2017_l_m.webp",
-      "show_category": "Drama / 2017",
-      "start_time": "15:25",
-      "end_time": "17:05",
-      "episode_description": "Três famílias de diferentes culturas na mesma comunidade, mas todos completos estranhos. Eles levam vidas muito distintas até que mensagens trágicas e acidentes os unem em um caminho de amor, graça e misericórdia."
-    },
-    {
-      "show_name": "Vale a Pena Ver de Novo - Rainha da Sucata",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_vale-a-pena-ver-de-novo-rainha-da-sucata_l_m.webp",
-      "show_category": "Soap",
-      "start_time": "17:05",
-      "end_time": "18:25",
-      "episode_description": "A rivalidade entre Maria do Carmo, uma empresária que enriqueceu com os negócios do pai, e Laurinha Figueiroa, uma socialite falida, no universo dos novos-ricos da decadente sociedade paulistana."
+      "show_name": "Cerimônia de Abertura",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_olympics-cerimonia-de-abertura-16_l_m.jpg",
+      "show_category": "Jogos Olímpicos de Inverno Milão-Cortina 2026",
+      "start_time": "15:45",
+      "end_time": "19:05",
+      "episode_description": "Vigésima quinta edição dos Jogos Olímpicos de Inverno, com 116 eventos competitivos distribuídos entre oito esportes diferentes e participação de atletas de todo o planeta. Milão e Cortina d'Ampezzo, na Itália, são as sedes principais das disputas."
     },
     {
       "show_name": "Êta Mundo Melhor!",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_eta-mundo-melhor_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_eta-mundo-melhor_l_m.jpg",
       "show_category": "Drama",
-      "start_time": "18:25",
-      "end_time": "19:10",
+      "start_time": "19:05",
+      "end_time": "19:45",
       "episode_description": "Candinho e seu fiel companheiro, Policarpo, voltaram para novas aventuras na cidade grande. Apesar de toda riqueza que o cerca, Candinho enfrenta uma nova saga: a busca pelo filho perdido."
     },
     {
       "show_name": "Praça TV - 2ª Edição",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_praca-tv-2-edic-o-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_praca-tv-2-edic-o-1_l_m.jpg",
       "show_category": "News",
-      "start_time": "19:10",
-      "end_time": "19:40",
+      "start_time": "19:45",
+      "end_time": "20:00",
       "episode_description": "O telejornal apresenta as principais notícias locais e prioriza o jornalismo comunitário."
     },
     {
       "show_name": "Coração Acelerado",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_corac-o-acelerado_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_corac-o-acelerado_l_m.jpg",
       "show_category": "Soap",
-      "start_time": "19:40",
+      "start_time": "20:00",
       "end_time": "20:30",
-      "episode_description": "Janete não gosta de encontrar Agrado na casa de Zilá; Zilá e Janete discutem por conta das terras de Eliomar; Lia alerta Leandro sobre o agravamento do estado de saúde de Júlia."
+      "episode_description": "O plano de Naiane dá certo; Janete sugere criar uma cooperativa com Nora, e Cinara ouve; Leandro assiste ao show de Agrado."
     },
     {
       "show_name": "Jornal Nacional",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_jornal-nacional-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-nacional-1_l_m.jpg",
       "show_category": "News",
       "start_time": "20:30",
       "end_time": "21:20",
@@ -164,7 +140,7 @@
     },
     {
       "show_name": "Três Graças",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_tres-gracas_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tres-gracas_l_m.jpg",
       "show_category": "Drama",
       "start_time": "21:20",
       "end_time": "22:25",
@@ -172,18 +148,26 @@
     },
     {
       "show_name": "Big Brother Brasil",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_big-brother-brasil-s26e25_l_m.webp",
-      "show_category": "Temporada 26 Episódio 25",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_big-brother-brasil-s26e26_l_m.jpg",
+      "show_category": "Temporada 26 Episódio 26",
       "start_time": "22:25",
-      "end_time": "23:25",
+      "end_time": "23:00",
       "episode_description": "Um grupo de pessoas topa ficar confinado em uma espaçosa casa cenográfica, sendo vigiado por câmeras 24 horas por dia. Sem receber informações do mundo exterior, eles disputam uma série de provas e dinâmicas em busca de um prêmio milionário."
     },
     {
+      "show_name": "The Castaways - Isolados",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-castaways-isolados_l_m.jpg",
+      "show_category": "Drama",
+      "start_time": "23:00",
+      "end_time": "23:45",
+      "episode_description": "Erin vai para as Ilhas Fiji em busca de respostas quando o cartão de crédito de sua irmã desaparecida é usado em uma ilha remota no Pacífico."
+    },
+    {
       "show_name": "Jornal da Globo",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_jornal-da-globo_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-da-globo_l_m.jpg",
       "show_category": "News",
-      "start_time": "23:25",
-      "end_time": "00:15",
+      "start_time": "23:45",
+      "end_time": "00:35",
       "episode_description": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura."
     }
   ]
