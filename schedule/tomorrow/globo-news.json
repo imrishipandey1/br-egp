@@ -1,10 +1,10 @@
 {
   "channel": "Globo News",
-  "date": "07/02/2026",
+  "date": "08/02/2026",
   "schedule": [
     {
       "show_name": "Jornal GloboNews - Edição da Meia-Noite",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/globo-news/tomorrow/br_jornal-globonews-edic-o-da-meia-noite-2_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-globonews-edic-o-da-meia-noite-2_l_m.jpg",
       "show_category": "News",
       "start_time": "00:00",
       "end_time": "01:00",
@@ -12,7 +12,7 @@
     },
     {
       "show_name": "Em Pauta",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/globo-news/tomorrow/br_em-pauta-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_em-pauta-1_l_m.jpg",
       "show_category": "News",
       "start_time": "01:00",
       "end_time": "03:00",
@@ -20,7 +20,7 @@
     },
     {
       "show_name": "Jornal GloboNews - Edição das 3 Horas",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/globo-news/tomorrow/br_jornal-globonews-edic-o-das-3-horas-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-globonews-edic-o-das-3-horas-1_l_m.jpg",
       "show_category": "News",
       "start_time": "03:00",
       "end_time": "04:00",
@@ -28,7 +28,7 @@
     },
     {
       "show_name": "Diálogos com Mario Sergio Conti",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/globo-news/tomorrow/br_dialogos-com-mario-sergio-conti_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_dialogos-com-mario-sergio-conti_l_m.jpg",
       "show_category": "Talk",
       "start_time": "04:00",
       "end_time": "04:30",
@@ -36,7 +36,7 @@
     },
     {
       "show_name": "Jornal das Dez",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/globo-news/tomorrow/br_jornal-das-dez-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-das-dez-1_l_m.jpg",
       "show_category": "News",
       "start_time": "04:30",
       "end_time": "06:00",
@@ -44,7 +44,7 @@
     },
     {
       "show_name": "Jornal GloboNews - Edição das 6 Horas",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/globo-news/tomorrow/br_jornal-globonews-edic-o-das-6-horas-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-globonews-edic-o-das-6-horas-1_l_m.jpg",
       "show_category": "News",
       "start_time": "06:00",
       "end_time": "07:00",
@@ -52,15 +52,23 @@
     },
     {
       "show_name": "Jornal GloboNews - Edição das 7 Horas",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/globo-news/tomorrow/br_jornal-globonews-edic-o-das-7-horas-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-globonews-edic-o-das-7-horas-1_l_m.jpg",
       "show_category": "News",
       "start_time": "07:00",
-      "end_time": "08:00",
+      "end_time": "07:30",
       "episode_description": "Acompanhe os principais fatos que acontecem no Brasil e no Mundo."
     },
     {
+      "show_name": "GloboNews Especial",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_globonews-especial_l_m.jpg",
+      "show_category": "Public affairs",
+      "start_time": "07:30",
+      "end_time": "08:00",
+      "episode_description": "O programa analisa questões que em um primeiro momento podem parecer desconexas, mas que têm em comum o fato de ajudar a entender melhor o mundo atual e a formar opinião."
+    },
+    {
       "show_name": "Jornal GloboNews - Edição das 8 Horas",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/globo-news/tomorrow/br_jornal-globonews-edic-o-das-8-horas-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-globonews-edic-o-das-8-horas-1_l_m.jpg",
       "show_category": "News",
       "start_time": "08:00",
       "end_time": "09:00",
@@ -68,7 +76,7 @@
     },
     {
       "show_name": "Globo Repórter",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/globo-news/tomorrow/br_globo-reporter-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_globo-reporter-1_l_m.jpg",
       "show_category": "Newsmagazine",
       "start_time": "09:00",
       "end_time": "10:00",
@@ -76,7 +84,7 @@
     },
     {
       "show_name": "Jornal GloboNews - Edição das 10 Horas",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/globo-news/tomorrow/br_jornal-globonews-edic-o-das-10-horas-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-globonews-edic-o-das-10-horas-1_l_m.jpg",
       "show_category": "News",
       "start_time": "10:00",
       "end_time": "12:00",
@@ -84,23 +92,15 @@
     },
     {
       "show_name": "Jornal GloboNews - Edição do Meio-Dia",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/globo-news/tomorrow/br_jornal-globonews-edic-o-do-meio-dia_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-globonews-edic-o-do-meio-dia_l_m.jpg",
       "show_category": "News",
       "start_time": "12:00",
-      "end_time": "14:30",
+      "end_time": "15:00",
       "episode_description": "Acompanhe os principais fatos que acontecem no Brasil e no mundo."
     },
     {
-      "show_name": "Cidades e Soluções",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/globo-news/tomorrow/br_cidades-e-soluc-es-1_l_m.webp",
-      "show_category": "Public affairs",
-      "start_time": "14:30",
-      "end_time": "15:00",
-      "episode_description": "André Trigueiro abre espaço para as experiências que transformam para melhor a vida das pessoas e das cidades, com uso inteligente e sustentável dos recursos naturais."
-    },
-    {
       "show_name": "Jornal GloboNews - Edição das 15 Horas",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/globo-news/tomorrow/br_jornal-globonews-edic-o-das-15-horas-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-globonews-edic-o-das-15-horas-1_l_m.jpg",
       "show_category": "News",
       "start_time": "15:00",
       "end_time": "17:30",
@@ -108,7 +108,7 @@
     },
     {
       "show_name": "Liderança S/A",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/globo-news/tomorrow/br_lideranca-s-a-s01e45_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lideranca-s-a-s01e45_l_m.jpg",
       "show_category": "Temporada 1 Episódio 45",
       "start_time": "17:30",
       "end_time": "18:00",
@@ -116,7 +116,7 @@
     },
     {
       "show_name": "Jornal GloboNews - Edição das 18 Horas",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/globo-news/tomorrow/br_jornal-globonews-edic-o-das-18-horas-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-globonews-edic-o-das-18-horas-1_l_m.jpg",
       "show_category": "News",
       "start_time": "18:00",
       "end_time": "20:00",
@@ -124,7 +124,7 @@
     },
     {
       "show_name": "Jornal GloboNews - Edição das 20 Horas",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/globo-news/tomorrow/br_jornal-globonews-edic-o-das-20-horas-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-globonews-edic-o-das-20-horas-1_l_m.jpg",
       "show_category": "News",
       "start_time": "20:00",
       "end_time": "21:30",
@@ -132,7 +132,7 @@
     },
     {
       "show_name": "Cidades e Soluções",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/globo-news/tomorrow/br_cidades-e-soluc-es-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidades-e-soluc-es-1_l_m.jpg",
       "show_category": "Public affairs",
       "start_time": "21:30",
       "end_time": "22:00",
@@ -140,7 +140,7 @@
     },
     {
       "show_name": "Jornal das Dez",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/globo-news/tomorrow/br_jornal-das-dez-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-das-dez-1_l_m.jpg",
       "show_category": "News",
       "start_time": "22:00",
       "end_time": "23:00",
@@ -148,7 +148,7 @@
     },
     {
       "show_name": "GloboNews Documentário",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/globo-news/tomorrow/br_globonews-documentario_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_globonews-documentario_l_m.jpg",
       "show_category": "Documentary",
       "start_time": "23:00",
       "end_time": "",
