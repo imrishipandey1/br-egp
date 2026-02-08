@@ -1,126 +1,110 @@
 {
   "channel": "Telecine Pipoca",
-  "date": "08/02/2026",
+  "date": "09/02/2026",
   "schedule": [
     {
+      "show_name": "Cinquenta Tons Mais Escuros",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cinquenta-tons-mais-escuros-2017_l_m.jpg",
+      "show_category": "Romance / 2017",
+      "start_time": "02:00",
+      "end_time": "04:10",
+      "episode_description": "Incomodada com os hábitos e atitudes de Christian Grey, Anastasia decide terminar o relacionamento e focar no desenvolvimento de sua carreira. O desejo, porém, fala mais alto e ela volta aos jogos sexuais do conturbado ex-namorado."
+    },
+    {
+      "show_name": "Blindado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_blindado-2024_l_m.jpg",
+      "show_category": "Action / 2024",
+      "start_time": "04:10",
+      "end_time": "05:55",
+      "episode_description": "Encarregados de entregar um pacote suspeito, uma dupla formada por pai e filho motoristas de carro-forte precisa superar em astúcia e força um grupo de ladrões enquanto todos estão presos em uma ponte."
+    },
+    {
+      "show_name": "Um Lugar Chamado Notting Hill",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_um-lugar-chamado-notting-hill-1999_l_m.jpg",
+      "show_category": "Romantic comedy / 1999 /7.0",
+      "start_time": "05:55",
+      "end_time": "05:55",
+      "episode_description": "William Thacker é dono de uma livraria em Londres. A monotonia de sua existência é tumultuada romanticamente quando a famosa atriz estadunidense Anna Scott aparece em sua loja. Um encontro fortuito sobre um suco de laranja derramado leva a um beijo que dá início a um caso de amor. Conforme ele e a glamorosa estrela de cinema se aproximam cada vez mais, eles lutam para conciliar seus estilos de vida radicalmente diferentes em nome do amor."
+    },
+    {
+      "show_name": "Um Lugar Chamado Notting Hill",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_um-lugar-chamado-notting-hill-1999_l_m.jpg",
+      "show_category": "Romantic comedy / 1999 /7.0",
+      "start_time": "05:55",
+      "end_time": "08:05",
+      "episode_description": "William Thacker é dono de uma livraria em Londres. A monotonia de sua existência é tumultuada romanticamente quando a famosa atriz estadunidense Anna Scott aparece em sua loja. Um encontro fortuito sobre um suco de laranja derramado leva a um beijo que dá início a um caso de amor. Conforme ele e a glamorosa estrela de cinema se aproximam cada vez mais, eles lutam para conciliar seus estilos de vida radicalmente diferentes em nome do amor."
+    },
+    {
+      "show_name": "Encontro Explosivo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_encontro-explosivo-2010-1_l_m.jpg",
+      "show_category": "Action / 2010",
+      "start_time": "08:05",
+      "end_time": "10:05",
+      "episode_description": "June Havens paquera um encantador passageiro durante um voo de Kansas, mas ela não sabe que logo estará no meio de uma aventura internacional. O passageiro, Roy Miller, é um agente disfarçado que afirma ter sido enganado. Agora, como parceira relutante de Roy, June faz parte de suas aventuras."
+    },
+    {
+      "show_name": "Minha Fama de Mau",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_minha-fama-de-mau-2019_l_m.jpg",
+      "show_category": "Drama / 2019 /6.6",
+      "start_time": "10:05",
+      "end_time": "12:10",
+      "episode_description": "Na Tijuca da década de 1960, o jovem Erasmo Carlos alimenta uma paixão: o rock and roll. Fã de Elvis Presley, Bill Haley e Chuck Berry, ele aprende a tocar violão enquanto vive de sonhos, bicos e pequenas delinquências. Sua fama de roqueiro atrai Roberto Carlos, e logo se tornam parceiros e amigos."
+    },
+    {
+      "show_name": "Matrix Revolutions",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_matrix-revolutions-2003_l_m.jpg",
+      "show_category": "Science fiction / 2003 /6.7",
+      "start_time": "12:10",
+      "end_time": "14:20",
+      "episode_description": "Após enfrentar os sentinelas no mundo real, Neo, a maior esperança da humanidade, está preso entre a Matriz e a realidade. A maioria da população do planeta permanece em um estado de suspensão da realidade virtual. Os poucos humanos que estão cientes das duras realidades tentam afastar desesperadamente as máquinas a tempo de Neo escapar e salvar o dia. Mas as coisas pioram quando o poderoso software, Agente Smith, aparece na forma humana."
+    },
+    {
+      "show_name": "Abá e Sua Banda",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aba-e-sua-banda-2025_l_m.jpg",
+      "show_category": "Children / 2025",
+      "start_time": "14:20",
+      "end_time": "15:50",
+      "episode_description": "Abá, um príncipe jovem e músico, sonha em tocar no Festival da Primavera. Ele consegue deixar o castelo e encontra Ana, uma garota talentosa na bateria, e seu amigo de infância, Juca, que também é um instrumentista. Juntos, os amigos enfrentam Don Coco, que deseja eliminar a diversidade da região."
+    },
+    {
+      "show_name": "Os Farofeiros 2",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-farofeiros-2-2024_l_m.jpg",
+      "show_category": "Comedy / 2024",
+      "start_time": "15:50",
+      "end_time": "17:45",
+      "episode_description": "Os colegas de trabalho Alexandre, Lima, Rocha, Diguinho e suas famílias são presenteados pela empresa com uma viagem para a Bahia. No entanto, problemas e imprevistos podem levar por água abaixo essa viagem dos sonhos."
+    },
+    {
       "show_name": "O Guarda-Costas",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/telecine-pipoca/tomorrow/br_o-guarda-costas-1992-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-guarda-costas-1992-1_l_m.jpg",
       "show_category": "Drama / 1992",
-      "start_time": "00:50",
-      "end_time": "03:05",
+      "start_time": "17:45",
+      "end_time": "20:00",
       "episode_description": "Frank Farmer, um guarda-costas altamente eficiente e caro, é contratado para proteger Rachel Marron, uma grande cantora e atriz que está recebendo cartas anônimas e ameaçadoras. Frank é um ex-agente do Serviço Secreto que ainda não se perdoou do sentimento de culpa em relação à sua inabilidade de proteger o presidente Reagan, que quase foi assassinado. Com o tempo, Frank e Rachel se apaixonam e logo ele se torna parte integrante do círculo íntimo dela. Paralelamente, novos atentados acontecem."
     },
     {
+      "show_name": "Bob Marley: One Love",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bob-marley-one-love-2024_l_m.jpg",
+      "show_category": "Biography / 2024 /6.2",
+      "start_time": "20:00",
+      "end_time": "21:55",
+      "episode_description": "Das raízes em Trenchtown até a fama mundial, o filme delineia a revolução musical de Bob Marley e sua importância como ativista político. A trama se desenvolve através dos altos e baixos de sua carreira."
+    },
+    {
+      "show_name": "Diablo - Caçada Mortal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_diablo-cacada-mortal-2025_l_m.jpg",
+      "show_category": "Action / 2025",
+      "start_time": "21:55",
+      "end_time": "23:30",
+      "episode_description": "Um ex-presidiário sequestra a filha de um poderoso gângster. Ele não imagina que está entrando no caminho de um serial killer psicopata."
+    },
+    {
       "show_name": "Reféns na Ponte",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/telecine-pipoca/tomorrow/br_refens-na-ponte-2024_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_refens-na-ponte-2024_l_m.jpg",
       "show_category": "Action / 2024",
-      "start_time": "03:05",
-      "end_time": "04:45",
-      "episode_description": "Eric é um veterano de guerra que estava indo para um passeio com sua irmã, quando um grupo de ex-militares faz todos na ponte de reféns. Agora, ele terá que usar suas habilidades para salvar a todos."
-    },
-    {
-      "show_name": "Cinquenta Tons Mais Escuros",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/telecine-pipoca/tomorrow/br_cinquenta-tons-mais-escuros-2017_l_m.webp",
-      "show_category": "Romance / 2017",
-      "start_time": "04:45",
-      "end_time": "04:45",
-      "episode_description": "Incomodada com os hábitos e atitudes de Christian Grey, Anastasia decide terminar o relacionamento e focar no desenvolvimento de sua carreira. O desejo, porém, fala mais alto e ela volta aos jogos sexuais do conturbado ex-namorado."
-    },
-    {
-      "show_name": "Cinquenta Tons Mais Escuros",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/telecine-pipoca/tomorrow/br_cinquenta-tons-mais-escuros-2017_l_m.webp",
-      "show_category": "Romance / 2017",
-      "start_time": "04:45",
-      "end_time": "06:50",
-      "episode_description": "Incomodada com os hábitos e atitudes de Christian Grey, Anastasia decide terminar o relacionamento e focar no desenvolvimento de sua carreira. O desejo, porém, fala mais alto e ela volta aos jogos sexuais do conturbado ex-namorado."
-    },
-    {
-      "show_name": "Uma Aventura LEGO 2",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/telecine-pipoca/tomorrow/br_uma-aventura-lego-2-2019_l_m.webp",
-      "show_category": "Children / 2019",
-      "start_time": "06:50",
-      "end_time": "08:40",
-      "episode_description": "Cinco anos depois, os heróis de Bricópolis estão de volta em uma aventura épica para salvar sua amada cidade. Emmet, Lucy e Batman precisam impedir que os invasores do espaço sideral de LEGO DUPLO destruam seu lar, mais rápido do que é possível reconstruir. A batalha leva os amigos a mundos distantes e inexplorados que testam sua coragem e criatividade."
-    },
-    {
-      "show_name": "Minha Mãe É uma Peça 2",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/telecine-pipoca/tomorrow/br_minha-m-e-e-uma-peca-2-2016_l_m.webp",
-      "show_category": "Comedy / 2016",
-      "start_time": "08:40",
-      "end_time": "10:15",
-      "episode_description": "Dona Hermínia passa a apresentar um bem-sucedido programa de TV e fica rica. No entanto, ela precisa lidar com um lar vazio, pois Juliano e Marcelina resolveram sair de casa. Para balancear, Garib, o primogênito, chega com o neto. Além disso, ela também recebe uma longa visita da irmã Lucia Helena, a ovelha negra da família, que mora há anos em Nova York."
-    },
-    {
-      "show_name": "Red Rooms: Obsessão Doentia",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/telecine-pipoca/tomorrow/br_red-rooms-obsess-o-doentia-2023_l_m.webp",
-      "show_category": "Thriller / 2023",
-      "start_time": "10:15",
-      "end_time": "12:20",
-      "episode_description": "Kelly-Anne é uma modelo que fica obcecada pelo caso do serial killer Ludovic Chevalier. Ela busca o vídeo de uma das vítimas que se parece com ela, mas essa obsessão vai levá-la para um caminho sombrio."
-    },
-    {
-      "show_name": "A Sogra Perfeita 2",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/telecine-pipoca/tomorrow/br_a-sogra-perfeita-2-2025_l_m.webp",
-      "show_category": "Comedy / 2025",
-      "start_time": "12:20",
-      "end_time": "13:55",
-      "episode_description": "Após conhecer o poder da liberdade, Neide acaba negando o inesperado pedido de casamento do seu namorado, Oliveira, por medo de perder sua independência. No entanto, o surgimento de sua sogra portuguesa com malas prontas para o casório instiga a curiosidade de toda a vizinhança e cada um deles começa a se preparar para a suposta cerimônia. Agora, Neide precisa resolver a situação sozinha enquanto dá continuidade a sua renomada carreira de cabeleireira."
-    },
-    {
-      "show_name": "Preview",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/telecine-pipoca/tomorrow/br_preview_l_m.webp",
-      "show_category": "Entertainment",
-      "start_time": "13:55",
-      "end_time": "14:00",
-      "episode_description": "Acompanhe matérias especiais sobre o mundo da sétima arte, o cinema."
-    },
-    {
-      "show_name": "Vovó... Zona 2",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/telecine-pipoca/tomorrow/br_vovo-zona-2-2006-1_l_m.webp",
-      "show_category": "Comedy / 2006",
-      "start_time": "14:00",
-      "end_time": "15:45",
-      "episode_description": "Após seu mentor ser morto, um agente do FBI se disfarça, novamente, como uma senhora gorda e aceita um emprego como babá na casa de um suspeito do crime. Enquanto trabalha no caso, o agente representa uma ameaça à segurança interna do país e consegue ajudar uma família desunida a se reaproximar."
-    },
-    {
-      "show_name": "Bridget Jones - Louca pelo Garoto",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/telecine-pipoca/tomorrow/br_bridget-jones-louca-pelo-garoto-2025_l_m.webp",
-      "show_category": "Romantic comedy / 2025",
-      "start_time": "15:45",
-      "end_time": "18:00",
-      "episode_description": "Agora mãe solteira, Bridget Jones mergulha novamente no mundo dos encontros. Ela se vê dividida entre um homem mais jovem e o professor de ciências de seu filho."
-    },
-    {
-      "show_name": "Os Três Mosqueteiros - D'Artagnan",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/telecine-pipoca/tomorrow/br_os-tres-mosqueteiros-d-artagnan-2023_l_m.webp",
-      "show_category": "Adventure / 2023",
-      "start_time": "18:00",
-      "end_time": "20:05",
-      "episode_description": "Charles D'Artagnan se junta aos cadetes do rei da França na esperança de se tornar um mosqueteiro um dia. Durante seu treinamento, ele se depara com uma conspiração e se une aos espadachins Athos, Aramis e Porthos para salvar o reino."
-    },
-    {
-      "show_name": "Freaky Tales",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/telecine-pipoca/tomorrow/br_freaky-tales-2024_l_m.webp",
-      "show_category": "Action / 2024 /6.3",
-      "start_time": "20:05",
-      "end_time": "22:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Dolittle",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/telecine-pipoca/tomorrow/br_dolittle-2020_l_m.webp",
-      "show_category": "Children / 2020 /5.6",
-      "start_time": "22:00",
-      "end_time": "23:45",
-      "episode_description": "Dr. John Dolittle lives in solitude behind the high walls of his lush manor in 19th-century England. His only companionship comes from an array of exotic animals that he speaks to on a daily basis. But when young Queen Victoria becomes gravely ill, the eccentric doctor and his furry friends embark on an epic adventure to a mythical island to find the cure."
-    },
-    {
-      "show_name": "Velozes e Furiosos 8",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/telecine-pipoca/tomorrow/br_velozes-e-furiosos-8-2017_l_m.webp",
-      "show_category": "Action / 2017",
-      "start_time": "23:45",
+      "start_time": "23:30",
       "end_time": "",
-      "episode_description": "Depois da aposentadoria de Brian e Mia, Dom e Letty aproveitam a lua de mel e levam uma vida pacata e normal. Mas a adrenalina do passado volta com tudo quando uma mulher misteriosa obriga Dom a retornar ao mundo do crime e da velocidade."
+      "episode_description": "Eric é um veterano de guerra que estava indo para um passeio com sua irmã, quando um grupo de ex-militares faz todos na ponte de reféns. Agora, ele terá que usar suas habilidades para salvar a todos."
     }
   ]
 }

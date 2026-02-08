@@ -1,350 +1,310 @@
 {
   "channel": "A&E",
-  "date": "07/02/2026",
+  "date": "08/02/2026",
   "schedule": [
     {
-      "show_name": "Rota - A Polícia de Elite",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/today/br_rota-a-policia-de-elite-s01e10_l_m.webp",
-      "show_category": "Temporada 1 Episódio 10",
-      "start_time": "00:15",
-      "end_time": "00:38",
-      "episode_description": "O cotidiano do Batalhão de Rondas Ostensivas Tobias de Aguiar, uma unidade de policiamento especial da Polícia Militar de São Paulo, destacada pelo seu trabalho de combate ao crime e pela sua atuação em operações de alto risco."
-    },
-    {
-      "show_name": "Linha de Combate",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/today/br_linha-de-combate-s01e18_l_m.webp",
-      "show_category": "Temporada 1 Episódio 18",
-      "start_time": "00:38",
-      "end_time": "01:40",
-      "episode_description": "Acompanhe a rotina dos homens e mulheres que escolheram dedicar e arriscar suas vidas para defender os direitos da população, lutando contra incêndios, combatendo crimes e salvando vidas."
-    },
-    {
-      "show_name": "Operação Policial",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/today/br_operac-o-policial-s03e07_l_m.webp",
-      "show_category": "Temporada 3 Episódio 7 - São Paulo x Santos",
-      "start_time": "01:40",
-      "end_time": "02:31",
-      "episode_description": "Em São Paulo, enquanto alguns policiais trabalham para manter a ordem pública e atendem denúncias de tráfico de drogas, agentes do batalhão de choque mostram os procedimentos de segurança em eventos esportivos."
-    },
-    {
-      "show_name": "Operação Policial",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/today/br_operac-o-policial-s03e08_l_m.webp",
-      "show_category": "Temporada 3 Episódio 8 - Briga entre Vizinhos",
-      "start_time": "02:31",
-      "end_time": "03:23",
-      "episode_description": "A ronda noturna da polícia de São Paulo enfrenta uma briga entre vizinhos e investiga uma suspeita de furto de veículos."
-    },
-    {
-      "show_name": "Casos Arquivados - Mortes no Velho Oeste",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/today/br_casos-arquivados-mortes-no-velho-oeste-s01e06-a-morte-de-lavender-doe_l_m.webp",
-      "show_category": "Temporada 1 Episódio 6 - A Morte de Lavender Doe",
-      "start_time": "03:23",
-      "end_time": "04:14",
-      "episode_description": "Investigação de 13 anos sobre mulher não identificada, encontrada morta e queimada em campo de petróleo do Texas, é solucionada pela persistência de policial local."
-    },
-    {
-      "show_name": "Acumuladores Compulsivos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/today/br_acumuladores-compulsivos_l_m.webp",
-      "show_category": "Reality",
-      "start_time": "04:14",
-      "end_time": "05:10",
-      "episode_description": "Dolores é uma sobrevivente do câncer e cuidou de sua falecida mãe. Como fuga, Dolores passou a fazer compras excessivas, o que desencadeou sua desordem de acumulação."
-    },
-    {
-      "show_name": "Clientes em Guerra",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/today/br_clientes-em-guerra-s01e07-show-na-loja-de-frios_l_m.webp",
-      "show_category": "Temporada 1 Episódio 7 - Show na Loja de Frios",
-      "start_time": "05:10",
-      "end_time": "05:35",
-      "episode_description": "Uma mulher revoltada com o tempo de espera de uma loja faz um protesto obsceno; um casal começa uma briga em um resort de luxo no Rio de Janeiro; uma mulher ciumenta bate no marido em um avião."
-    },
-    {
-      "show_name": "Clientes em Guerra",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/today/br_clientes-em-guerra-s01e08-furto-em-lojas_l_m.webp",
-      "show_category": "Temporada 1 Episódio 8 - Furto em Lojas",
-      "start_time": "05:35",
-      "end_time": "06:00",
-      "episode_description": "Um ladrão confronta um segurança; um médico de emergência fica envergonhado diante das câmeras; um casal lida com percevejos em seu quarto de hotel."
-    },
-    {
-      "show_name": "Casos Arquivados",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/today/br_casos-arquivados-s02e07-amor-e-odio_l_m.webp",
-      "show_category": "Temporada 2 Episódio 7 - Amor e Ódio",
-      "start_time": "06:00",
-      "end_time": "06:45",
-      "episode_description": "Existem cerca de 120 mil casos de assassinato nos Estados Unidos e apenas 1% são resolvidos."
-    },
-    {
       "show_name": "Polícia em Ação",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/today/br_policia-em-ac-o-s02e19_l_m.webp",
-      "show_category": "Temporada 2 Episódio 19",
-      "start_time": "06:45",
-      "end_time": "07:05",
-      "episode_description": "Atropelamento e fuga na Flórida, perseguição de carro e a pé na Flórida e tiroteio no Kentucky."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/today/br_policia-em-ac-o-s02e20_l_m.webp",
-      "show_category": "Temporada 2 Episódio 20",
-      "start_time": "07:05",
-      "end_time": "07:25",
-      "episode_description": "Uma pessoa extremamente embriagada na Carolina do Sul, um homem não identificado no Arizona e um caminhão roubado na Carolina do Sul."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/today/br_policia-em-ac-o-s02e07_l_m.webp",
-      "show_category": "Temporada 2 Episódio 7",
-      "start_time": "07:25",
-      "end_time": "07:45",
-      "episode_description": "Um ladrão de lojas na Carolina do Sul, um tiroteio no Texas e uma apreensão de drogas no Arizona."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/today/br_policia-em-ac-o-s02e08_l_m.webp",
-      "show_category": "Temporada 2 Episódio 8",
-      "start_time": "07:45",
-      "end_time": "08:05",
-      "episode_description": "Perseguição de carro em Indiana, operação antidrogas em Utah e um acidente na contramão no Arizona."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/today/br_policia-em-ac-o-s02e09_l_m.webp",
-      "show_category": "Temporada 2 Episódio 9",
-      "start_time": "08:05",
-      "end_time": "08:25",
-      "episode_description": "Um motorista bêbado no Arizona, uma arma roubada na Louisiana e um atropelamento em Oklahoma."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/today/br_policia-em-ac-o-s02e10_l_m.webp",
-      "show_category": "Temporada 2 Episódio 10",
-      "start_time": "08:25",
-      "end_time": "08:45",
-      "episode_description": "Um homem foge da polícia na Carolina do Sul, de um motorista bêbado no Arizona e de um carro em chamas na Flórida."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/today/br_policia-em-ac-o-s04e01_l_m.webp",
-      "show_category": "Temporada 4 Episódio 1",
-      "start_time": "08:45",
-      "end_time": "09:05",
-      "episode_description": "Um olhar sem filtros sobre departamentos de polícia em ação. Drogas são testadas em campo em Washington. As calças de um velho caem em Nevada. Um homem com tatuagens terríveis é preso no Texas."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/today/br_policia-em-ac-o-s04e02_l_m.webp",
-      "show_category": "Temporada 4 Episódio 2",
-      "start_time": "09:05",
-      "end_time": "09:25",
-      "episode_description": "Jantar e correria na Carolina do Sul, um intruso no Missouri e um homem preso por maconha no Texas."
-    },
-    {
-      "show_name": "Casos Arquivados",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/today/br_casos-arquivados-s01e07-um-segredo-de-familia_l_m.webp",
-      "show_category": "Temporada 1 Episódio 7 - Um Segredo de Família",
-      "start_time": "09:25",
-      "end_time": "10:10",
-      "episode_description": "Uma mãe encontrou o carro de sua filha abandonado e seu telefone celular com uma tentativa de chamado ao 911. Todas as evidências apontam para uma pessoa, mas o FBI não é capaz de prendê-lo."
-    },
-    {
-      "show_name": "Arquivo Morto: O DNA Não Falha",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/today/br_arquivo-morto-o-dna-n-o-falha-s01e04-justica-para-mary_l_m.webp",
-      "show_category": "Temporada 1 Episódio 4 - Justiça para Mary",
-      "start_time": "10:10",
-      "end_time": "11:00",
-      "episode_description": "Em 1969, uma jovem de 23 anos é encontrada assassinada em sua casa em San Diego e o caso perde força por falta de pistas. No entanto, vários anos depois, as filhas de Mary estão determinadas a encontrar respostas sobre a mãe que mal conheciam."
-    },
-    {
-      "show_name": "Acumuladores Compulsivos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/today/br_acumuladores-compulsivos_l_m.webp",
-      "show_category": "Reality",
-      "start_time": "11:00",
-      "end_time": "11:50",
-      "episode_description": "Dolores é uma sobrevivente do câncer e cuidou de sua falecida mãe. Como fuga, Dolores passou a fazer compras excessivas, o que desencadeou sua desordem de acumulação."
-    },
-    {
-      "show_name": "Acumuladores Compulsivos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/today/br_acumuladores-compulsivos_l_m.webp",
-      "show_category": "Reality",
-      "start_time": "11:50",
-      "end_time": "12:35",
-      "episode_description": "Dolores é uma sobrevivente do câncer e cuidou de sua falecida mãe. Como fuga, Dolores passou a fazer compras excessivas, o que desencadeou sua desordem de acumulação."
-    },
-    {
-      "show_name": "Acumuladores Compulsivos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/today/br_acumuladores-compulsivos-s16e05-mary-lynn_l_m.webp",
-      "show_category": "Temporada 16 Episódio 5 - Mary Lynn",
-      "start_time": "12:35",
-      "end_time": "14:05",
-      "episode_description": "Depois de perder o emprego e os pais, Mary ficou aprisionada em seu transtorno compulsivo. Agora, ela enfrenta uma cirurgia no joelho, porém sua casa não é segura o suficiente para sua reabilitação. Com a ajuda da equipe, ela precisa limpar sua casa."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/today/br_policia-em-ac-o-s04e17_l_m.webp",
-      "show_category": "Temporada 4 Episódio 17",
-      "start_time": "14:05",
-      "end_time": "14:30",
-      "episode_description": "Na Carolina do Sul, a polícia é vítima de uma brincadeira. No Texas, eles enfrentam um incêndio em casa e um homem precisa de ajuda na estrada."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/today/br_policia-em-ac-o-s04e18_l_m.webp",
-      "show_category": "Temporada 4 Episódio 18",
-      "start_time": "14:30",
-      "end_time": "14:55",
-      "episode_description": "Uma perseguição de moto em Nevada, um atropelamento na Flórida e um carro problemático em Indiana."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/today/br_policia-em-ac-o-s04e19_l_m.webp",
-      "show_category": "Temporada 4 Episódio 19",
-      "start_time": "14:55",
-      "end_time": "15:20",
-      "episode_description": "Policiais brutalizam homem no Texas, um membro marginalizado do proletariado é preso em Utah e policiais prendem um viciado em drogas em Indiana."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/today/br_policia-em-ac-o-s04e20_l_m.webp",
-      "show_category": "Temporada 4 Episódio 20",
-      "start_time": "15:20",
-      "end_time": "15:45",
-      "episode_description": "Perseguição em rodovia em Nevada, vapers presos em Indiana e amantes abandonadas na Geórgia."
-    },
-    {
-      "show_name": "Casos Arquivados - Mortes no Velho Oeste",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/today/br_casos-arquivados-mortes-no-velho-oeste-s01e01-misterio-em-cuero-texas_l_m.webp",
-      "show_category": "Temporada 1 Episódio 1 - Mistério em Cuero, Texas",
-      "start_time": "15:45",
-      "end_time": "16:30",
-      "episode_description": "Pam Shelly, de 31 anos, é encontrada em seu banheiro em Cuero, Texas, com um ferimento fatal de bala na cabeça. A sua morte é inicialmente considerada suicídio. No entanto, um investigador suspeita de crime e acaba desvendando o caso."
-    },
-    {
-      "show_name": "Falco",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/today/br_falco-s01e04-bocanada_l_m.webp",
-      "show_category": "Temporada 1 Episódio 4 - Encontros com Assassinos",
-      "start_time": "16:30",
-      "end_time": "17:25",
-      "episode_description": "Os investigadores estão nervosos; três mulheres são envenenadas em questão de horas, e o medo de um serial killer aumenta; outra dificuldade: o método operacional."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/today/br_policia-em-ac-o-s02e08_l_m.webp",
-      "show_category": "Temporada 2 Episódio 8",
-      "start_time": "17:25",
-      "end_time": "17:50",
-      "episode_description": "Perseguição de carro em Indiana, operação antidrogas em Utah e um acidente na contramão no Arizona."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/today/br_policia-em-ac-o-s02e09_l_m.webp",
-      "show_category": "Temporada 2 Episódio 9",
-      "start_time": "17:50",
-      "end_time": "18:15",
-      "episode_description": "Um motorista bêbado no Arizona, uma arma roubada na Louisiana e um atropelamento em Oklahoma."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/today/br_policia-em-ac-o-s02e10_l_m.webp",
-      "show_category": "Temporada 2 Episódio 10",
-      "start_time": "18:15",
-      "end_time": "18:40",
-      "episode_description": "Um homem foge da polícia na Carolina do Sul, de um motorista bêbado no Arizona e de um carro em chamas na Flórida."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/today/br_policia-em-ac-o-s02e11_l_m.webp",
-      "show_category": "Temporada 2 Episódio 11",
-      "start_time": "18:40",
-      "end_time": "19:05",
-      "episode_description": "Uma perseguição em alta velocidade em Indiana, uma apreensão de armas e maconha em Oklahoma e uma invasão de domicílio na Carolina do Sul."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/today/br_policia-em-ac-o-s02e12_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s02e12_l_m.jpg",
       "show_category": "Temporada 2 Episódio 12",
-      "start_time": "19:05",
-      "end_time": "19:30",
+      "start_time": "00:07",
+      "end_time": "00:32",
       "episode_description": "Um veículo roubado no Arizona, uma invasão de domicílio na Carolina do Sul e uma perseguição de motocicleta em Maryland."
     },
     {
       "show_name": "Polícia em Ação",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/today/br_policia-em-ac-o-s02e13_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s02e13_l_m.jpg",
       "show_category": "Temporada 2 Episódio 13",
-      "start_time": "19:30",
-      "end_time": "19:55",
+      "start_time": "00:32",
+      "end_time": "00:57",
       "episode_description": "Uma perseguição em alta velocidade em Washington, fuga de prisão no Texas e direção sob influência de álcool na Carolina do Sul."
     },
     {
       "show_name": "Polícia em Ação",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/today/br_policia-em-ac-o-s02e14_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s02e14_l_m.jpg",
       "show_category": "Temporada 2 Episódio 14",
-      "start_time": "19:55",
-      "end_time": "20:20",
+      "start_time": "00:57",
+      "end_time": "01:22",
       "episode_description": "Uma operação antidrogas em Oklahoma, uma overdose em Indiana e crianças em perigo no Texas."
     },
     {
       "show_name": "Polícia em Ação",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/today/br_policia-em-ac-o-s04e05_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s04e05_l_m.jpg",
       "show_category": "Temporada 4 Episódio 5",
-      "start_time": "20:20",
-      "end_time": "20:45",
+      "start_time": "01:22",
+      "end_time": "01:47",
       "episode_description": "Um olhar sem filtros sobre os departamentos de polícia em ação. A polícia do Texas aponta armas para um carro cheio de homens negros. Um porco resgatado na Flórida. Um grave acidente de carro na Carolina do Sul."
     },
     {
       "show_name": "Polícia em Ação",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/today/br_policia-em-ac-o-s04e06_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s04e06_l_m.jpg",
       "show_category": "Temporada 4 Episódio 6",
-      "start_time": "20:45",
-      "end_time": "21:10",
+      "start_time": "01:47",
+      "end_time": "02:12",
       "episode_description": "Pessoas presas por porte de maconha na Carolina do Sul, um homem preso por porte de maconha durante seu intervalo de trabalho na Carolina do Sul e um carro bate em uma cerca na Louisiana."
     },
     {
       "show_name": "Polícia em Ação",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/today/br_policia-em-ac-o-s04e07_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s04e07_l_m.jpg",
       "show_category": "Temporada 4 Episódio 7",
-      "start_time": "21:10",
-      "end_time": "21:35",
+      "start_time": "02:12",
+      "end_time": "02:37",
       "episode_description": "Um olhar sem filtros sobre os departamentos de polícia em ação. Policiais aterrorizam um adolescente de um lar desfeito em Indiana, um homem cospe na Carolina do Sul e um cordeiro mordido no Texas."
     },
     {
       "show_name": "Polícia em Ação",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/today/br_policia-em-ac-o-s04e08_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s04e08_l_m.jpg",
       "show_category": "Temporada 4 Episódio 8",
-      "start_time": "21:35",
-      "end_time": "22:00",
+      "start_time": "02:37",
+      "end_time": "03:02",
       "episode_description": "Uma família briga em Maryland. Um homem é assediado pela polícia em Utah."
     },
     {
-      "show_name": "Falco",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/today/br_falco-s01e05-lobo-feroz_l_m.webp",
-      "show_category": "Temporada 1 Episódio 5 - Chapeuzinho Vermelho",
+      "show_name": "Casos Arquivados - Mortes no Velho Oeste",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_casos-arquivados-mortes-no-velho-oeste-s01e01-misterio-em-cuero-texas_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - Mistério em Cuero, Texas",
+      "start_time": "03:02",
+      "end_time": "03:47",
+      "episode_description": "Pam Shelly, de 31 anos, é encontrada em seu banheiro em Cuero, Texas, com um ferimento fatal de bala na cabeça. A sua morte é inicialmente considerada suicídio. No entanto, um investigador suspeita de crime e acaba desvendando o caso."
+    },
+    {
+      "show_name": "Acumuladores Compulsivos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "03:47",
+      "end_time": "04:29",
+      "episode_description": "Dolores é uma sobrevivente do câncer e cuidou de sua falecida mãe. Como fuga, Dolores passou a fazer compras excessivas, o que desencadeou sua desordem de acumulação."
+    },
+    {
+      "show_name": "Acumuladores Compulsivos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "04:29",
+      "end_time": "05:16",
+      "episode_description": "Dolores é uma sobrevivente do câncer e cuidou de sua falecida mãe. Como fuga, Dolores passou a fazer compras excessivas, o que desencadeou sua desordem de acumulação."
+    },
+    {
+      "show_name": "Clientes em Guerra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_clientes-em-guerra-s01e09-a-corrida-da-cerveja_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 9 - A Corrida da Cerveja",
+      "start_time": "05:16",
+      "end_time": "05:38",
+      "episode_description": "Uma mulher em Idaho tenta roubar uma motosserra escondendo-a nas calças; os clientes ficam muito furiosos com uma mulher sem educação em um bufê; um adolescente tenta conseguir álcool e luta para escapar na Califórnia."
+    },
+    {
+      "show_name": "Clientes em Guerra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_clientes-em-guerra-s01e10-policia-chamada-por-corte-de-cabelo_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 10 - Polícia Chamada por Corte de Cabelo",
+      "start_time": "05:38",
+      "end_time": "06:00",
+      "episode_description": "Um cliente combate um incêndio em um supermercado de Nova Jersey; uma mãe liga para o 911 sobre o corte de cabelo de seu filho; mãe adolescente deixa seu bebê recém-nascido com um cliente em um restaurante."
+    },
+    {
+      "show_name": "Casos Arquivados",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_casos-arquivados-s01e08-oficial-caido_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 8 - Oficial caído",
+      "start_time": "06:00",
+      "end_time": "06:47",
+      "episode_description": "Um xerife famoso por perseguir traficantes de drogas é morto por um franco-atirador. Um amigo detetive pretende prender o culpado, mas depois de várias tentativas o caso fica sem solução. Agora, ele teme sofrer as consequências."
+    },
+    {
+      "show_name": "Casos Arquivados",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_casos-arquivados-s01e09-circulo-de-amigos_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 9 - Círculo de Amigos",
+      "start_time": "06:47",
+      "end_time": "07:35",
+      "episode_description": "Em 1989, um pai solteiro chega em casa após o trabalho e descobre que sua filha de 18 anos está desaparecida. A polícia deixa passar horas cruciais sem procurar pela menina, cujo corpo é encontrado dois meses depois por um caçador na floresta."
+    },
+    {
+      "show_name": "Acumuladores Compulsivos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "07:35",
+      "end_time": "08:30",
+      "episode_description": "Dolores é uma sobrevivente do câncer e cuidou de sua falecida mãe. Como fuga, Dolores passou a fazer compras excessivas, o que desencadeou sua desordem de acumulação."
+    },
+    {
+      "show_name": "Clientes em Guerra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_clientes-em-guerra-s02e01-furia-contra-motorista-de-carona_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 1 - Fúria Contra Motorista de Carona",
+      "start_time": "08:30",
+      "end_time": "08:55",
+      "episode_description": "Fanático por cinema interrompe filme; mulher é expulsa de voo por não cumprir política para animais de estimação; motorista é atacado; funcionário assusta ladrões mascarados com narguilé; cliente quebra garrafa na cabeça de funcionário."
+    },
+    {
+      "show_name": "Clientes em Guerra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_clientes-em-guerra-s02e02-susto-no-ar_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 2 - Susto no Ar",
+      "start_time": "08:55",
+      "end_time": "09:20",
+      "episode_description": "Um prato quebra no rosto de uma mulher durante briga; homem causa estragos em uma loja; entregador cai em uma fossa séptica enquanto entrega pacote; passageiro age de forma irregular em voo para Boston; um trabalhador joga tesoura em cliente."
+    },
+    {
+      "show_name": "Clientes em Guerra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_clientes-em-guerra-s02e03-e-preciso-coragem_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 3 - É Preciso Coragem",
+      "start_time": "09:20",
+      "end_time": "09:45",
+      "episode_description": "Cliente causa caos com extintor de incêndio; homem encontra seu carro desmontado; cliente de bar permanece calmo diante de um ladrão armado e outro discute por causa de um erro de dois dólares; cliente sem calças cai do telhado de restaurante."
+    },
+    {
+      "show_name": "Clientes em Guerra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_clientes-em-guerra-s02e04-enfrentando-a-manicure_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 4 - Enfrentando a Manicure",
+      "start_time": "09:45",
+      "end_time": "10:10",
+      "episode_description": "Mulher discute com especialista por causa de manicure; briga violenta começa em rede de restaurantes; homem ataca motorista no Arizona; funcionário quebra garrafa na cabeça de cliente; trabalhador destrói lobby de hotel, pois não lhe pagaram."
+    },
+    {
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s11e05-quente-demais_l_m.jpg",
+      "show_category": "Temporada 11 Episódio 5 - Quente Demais",
+      "start_time": "10:10",
+      "end_time": "10:35",
+      "episode_description": "O calor excessivo de Riverside tem um efeito adverso em Kenny, que começa a ter ilusões de ótica; Ivy incentiva Mary; Shana e Edwina encontram o seu paraíso na terra."
+    },
+    {
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s11e03-a-temporada-do-kitsch_l_m.jpg",
+      "show_category": "Temporada 11 Episódio 3 - A Temporada do Kitsch",
+      "start_time": "10:35",
+      "end_time": "11:00",
+      "episode_description": "Brandi e Jarrod mostram as garras em Victorville; Ivy fica com um armário que ninguém mais aceita pegar e Mary é a encarregada de colocar o novo participante em seu lugar."
+    },
+    {
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s11e04-puro-romantismo_l_m.jpg",
+      "show_category": "Temporada 11 Episódio 4 - Puro Romantismo",
+      "start_time": "11:00",
+      "end_time": "11:25",
+      "episode_description": "Ivy obtém uma grande vitória perto de Lancaster e Dave se aproveita de sua boa sorte para conseguir crédito; Justin deixa Rene à flor da pele e sua estratégia funciona com perfeição."
+    },
+    {
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s11e06-kumba-sim_l_m.jpg",
+      "show_category": "Temporada 11 Episódio 6 - Kumba-Sim!",
+      "start_time": "11:25",
+      "end_time": "11:50",
+      "episode_description": "Dave se apresenta com tudo diante das garotas de Las Vegas, tirando suas roupas e deixando só migalhas para elas; Kenny e Mary, que já o conhecem, formam uma aliança contra ele e evitam ficar de mãos vazias."
+    },
+    {
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s11e07-lances-estilo-las-vegas_l_m.jpg",
+      "show_category": "Temporada 11 Episódio 7 - Lances Estilo Las Vegas",
+      "start_time": "11:50",
+      "end_time": "12:15",
+      "episode_description": "As garotas de Las Vegas experimentam um novo estilo de esforço em Placentia; Brandi e Jarrod, por sua vez, utilizam um recurso pouco comum; Kenny e seu irmão demonstram a todos que a família vem em segundo lugar."
+    },
+    {
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s11e08-a-legi-o-dos-gananciosos_l_m.jpg",
+      "show_category": "Temporada 11 Episódio 8 - A Legião dos Gananciosos",
+      "start_time": "12:15",
+      "end_time": "12:40",
+      "episode_description": "Rene rouba as unidades em Rancho Palos Verdes, Califórnia; um pequeno investimento gera um grande retorno para Justin, que se mostra um ótimo negociante; o armário de Mary revela um passado pegajoso."
+    },
+    {
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s11e09-um-punhado-de-dolares_l_m.jpg",
+      "show_category": "Temporada 11 Episódio 9 - Um Punhado de Dólares",
+      "start_time": "12:40",
+      "end_time": "13:05",
+      "episode_description": "Em Paramount, Emily é a única mulher do grupo; Justin pede conselhos a Ivy para conseguir ajuda com as peças de um Cadillac antigo; Kenny fala sem pensar em um leilão e pode pagar muito caro por seu erro."
+    },
+    {
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s11e10-ponto-para-as-meninas_l_m.jpg",
+      "show_category": "Temporada 11 Episódio 10 - Ponto para as Meninas",
+      "start_time": "13:05",
+      "end_time": "13:30",
+      "episode_description": "Ivy faz um achado importante; Brandi e Jarrod obtêm um lucro considerável; Mary experimenta a sensação do sucesso."
+    },
+    {
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s11e11-de-arrepiar_l_m.jpg",
+      "show_category": "Temporada 11 Episódio 11 - De Arrepiar",
+      "start_time": "13:30",
+      "end_time": "13:55",
+      "episode_description": "Kenny se fixa no passado; Brandi e Jarrod trabalham em uma ferramenta especial; Darrell e sua neta desenterram um achado macabro."
+    },
+    {
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s11e12-vestida-para-o-sucesso_l_m.jpg",
+      "show_category": "Temporada 11 Episódio 12 - Vestida para o Sucesso",
+      "start_time": "13:55",
+      "end_time": "14:15",
+      "episode_description": "Em West Covina, Kenny caça pumas, mas só encontra um púlpito portátil; Ivy se dedica a ensinar às mulheres como se vestir para o sucesso."
+    },
+    {
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s11e13-sr-gente-boa_l_m.jpg",
+      "show_category": "Temporada 11 Episódio 13 - Sr. Gente Boa",
+      "start_time": "14:15",
+      "end_time": "14:40",
+      "episode_description": "Rene é seduzido pela simpatia de Justin e lhe ajuda a subir de nível; o contêiner cilíndrico de Darrell termina sendo uma grande conquista."
+    },
+    {
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s10e01-compras-e-videogames_l_m.jpg",
+      "show_category": "Temporada 10 Episódio 1 - Compras e Videogames",
+      "start_time": "14:40",
+      "end_time": "15:00",
+      "episode_description": "O jardim de Ivy parece mais verde; Darrell recebe móveis elegantes; René não para de jogar; Maria enfrenta uma maré de azar."
+    },
+    {
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s10e02-santo-ceu_l_m.jpg",
+      "show_category": "Temporada 10 Episódio 2 - Santo Céu",
+      "start_time": "15:00",
+      "end_time": "15:25",
+      "episode_description": "Darell consegue uma oportunidade na escola de seu amigo em Moreno Valley, Califórnia."
+    },
+    {
+      "show_name": "Lila & Eve - Unidas pela Vingança",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lila-eve-unidas-pela-vinganca-2015_l_m.jpg",
+      "show_category": "Thriller / 2015",
+      "start_time": "15:25",
+      "end_time": "17:00",
+      "episode_description": "Depois da morte sem sentido de seu filho, uma mãe desesperada conhece outra mãe na mesma situação em um grupo de apoio. Elas decidem unir forças para investigar e fazer justiça com as próprias mãos."
+    },
+    {
+      "show_name": "Promessas de Guerra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_promessas-de-guerra-2014_l_m.jpg",
+      "show_category": "Historical drama / 2014",
+      "start_time": "17:00",
+      "end_time": "18:55",
+      "episode_description": "Um homem australiano embarca numa odisseia até a Turquia para resgatar os corpos de três filhos desaparecidos em uma batalha durante a Primeira Guerra Mundial."
+    },
+    {
+      "show_name": "A Vingança Perfeita",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-vinganca-perfeita-2018_l_m.jpg",
+      "show_category": "Thriller / 2018",
+      "start_time": "18:55",
+      "end_time": "20:35",
+      "episode_description": "Na calada da noite, as vidas de dois assassinos de aluguel, um professor, um faxineiro e uma garçonete se entrelaçam a partir de uma mulher perigosa e misteriosa que está em busca de vingança."
+    },
+    {
+      "show_name": "Cloverfield - Monstro",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cloverfield-monstro-2008_l_m.jpg",
+      "show_category": "Science fiction / 2008 /7.1",
+      "start_time": "20:35",
+      "end_time": "22:00",
+      "episode_description": "Rob Hawkins mora em Nova York e está prestes a se mudar para o Japão. Ele reúne os amigos para uma festa de despedida, na qual pretende revelar sentimentos mal resolvidos. Todos são surpreendidos quando um monstro imenso aterrissa na cidade e traz como consequência muitas mortes e destruição. Usando uma câmera de vídeo, amigos gravam a dificuldade para sobreviver enquanto toda a cidade é destruída."
+    },
+    {
+      "show_name": "10 Cloverfield Lane",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_10-cloverfield-lane-2016_l_m.jpg",
+      "show_category": "Thriller / 2016 /7.2",
       "start_time": "22:00",
-      "end_time": "22:52",
-      "episode_description": "O tenente Alexandre Falco começa a se adaptar ao seu retorno à vida, e se vê envolvido em uma investigação delicada: uma jovem, vestida de Chapeuzinho Vermelho, é encontrada inconsciente em um parque."
+      "end_time": "23:41",
+      "episode_description": "Uma jovem acorda presa em um porão subterrâneo e teme ser vítima de um sequestro. Um homem explica que salvou a sua vida, mas não sabendo se pode confiar nele, ela tenta se libertar o quanto antes."
     },
     {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/today/br_policia-em-ac-o-s02e09_l_m.webp",
-      "show_category": "Temporada 2 Episódio 9",
-      "start_time": "22:52",
-      "end_time": "23:17",
-      "episode_description": "Um motorista bêbado no Arizona, uma arma roubada na Louisiana e um atropelamento em Oklahoma."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/today/br_policia-em-ac-o-s02e10_l_m.webp",
-      "show_category": "Temporada 2 Episódio 10",
-      "start_time": "23:17",
-      "end_time": "23:42",
-      "episode_description": "Um homem foge da polícia na Carolina do Sul, de um motorista bêbado no Arizona e de um carro em chamas na Flórida."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/today/br_policia-em-ac-o-s02e11_l_m.webp",
-      "show_category": "Temporada 2 Episódio 11",
-      "start_time": "23:42",
-      "end_time": "00:07",
-      "episode_description": "Uma perseguição em alta velocidade em Indiana, uma apreensão de armas e maconha em Oklahoma e uma invasão de domicílio na Carolina do Sul."
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s11e05-quente-demais_l_m.jpg",
+      "show_category": "Temporada 11 Episódio 5 - Quente Demais",
+      "start_time": "23:41",
+      "end_time": "00:06",
+      "episode_description": "O calor excessivo de Riverside tem um efeito adverso em Kenny, que começa a ter ilusões de ótica; Ivy incentiva Mary; Shana e Edwina encontram o seu paraíso na terra."
     }
   ]
 }

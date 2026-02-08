@@ -1,118 +1,102 @@
 {
   "channel": "HBO",
-  "date": "08/02/2026",
+  "date": "09/02/2026",
   "schedule": [
     {
-      "show_name": "Mortal Kombat",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/hbo/tomorrow/br_mortal-kombat-2021_l_m.webp",
-      "show_category": "Action / 2021 /6.1",
-      "start_time": "01:20",
-      "end_time": "03:15",
-      "episode_description": "O lutador de MMA Cole Young não conhece sua herança, nem sabe o motivo do Imperador da Exoterra ter enviado seu melhor guerreiro, Sub-Zero, para ir atrás dele. Temendo pela segurança de sua família, ele se une a outros heróis para proteger a Terra."
+      "show_name": "Maligno",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_maligno-2021_l_m.jpg",
+      "show_category": "Horror / 2021",
+      "start_time": "01:40",
+      "end_time": "03:35",
+      "episode_description": "Madison começa a ter sonhos aterrorizantes de pessoas sendo brutalmente assassinadas e acaba descobrindo que, na verdade, são visões dos crimes enquanto acontecem. Aos poucos, ela percebe que esses assassinatos estão conectados a uma entidade do seu passado chamada Gabriel e, para impedir a criatura, Madison precisa investigar de onde ela surgiu e enfrentar seus traumas de infância."
     },
     {
-      "show_name": "O Custo da Liberdade",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/hbo/tomorrow/br_o-custo-da-liberdade-2023_l_m.webp",
-      "show_category": "Documentary / 2023",
-      "start_time": "03:15",
-      "end_time": "03:50",
-      "episode_description": "Acompanhe a ativista Elisabeth Epps em sua luta para acabar com a criminalização da pobreza e o injusto sistema de fianças no Colorado, EUA, enquanto enfrenta outro desafio: o pedido de sua comunidade para se candidatar a deputada estadual."
-    },
-    {
-      "show_name": "Atração Perigosa",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/hbo/tomorrow/br_atrac-o-perigosa-2010-1_l_m.webp",
-      "show_category": "Crime drama / 2010",
-      "start_time": "03:50",
-      "end_time": "06:00",
-      "episode_description": "Doug MacRay é o líder de um grupo de ladrões. Um dia, ao realizar um assalto, seu parceiro James faz Claire Keesey refém para facilitar a fuga do grupo, libertando-a logo em seguida. Sabendo que a jovem está traumatizada, Doug se aproxima dela e os dois se apaixonam. Doug tenta abandonar a vida de crimes, mas é forçado a continuar cometendo assaltos."
-    },
-    {
-      "show_name": "Magic Mike - A Última Dança",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/hbo/tomorrow/br_magic-mike-a-ultima-danca-2023_l_m.webp",
-      "show_category": "Comedy drama / 2023",
-      "start_time": "06:00",
-      "end_time": "07:55",
-      "episode_description": "Magic Mike Lane, falido e trabalhando como bartender na Flórida, decide voltar aos palcos. Ao conhecer uma socialite em Londres, ele recebe uma proposta irrecusável. Com tudo em risco, Mike e seu grupo de dançarinos precisam se esforçar para dar conta do trabalho."
-    },
-    {
-      "show_name": "Shazam!",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/hbo/tomorrow/br_shazam-2019_l_m.webp",
-      "show_category": "Action / 2019 /7.1",
-      "start_time": "07:55",
-      "end_time": "10:10",
-      "episode_description": "Billy Batson tem apenas 14 anos de idade, mas recebeu de um antigo mago o dom de se transformar em um super-herói adulto chamado Shazam. Ao gritar a palavra \"Shazam!\", o adolescente se transforma nessa sua poderosa versão adulta para se divertir e testar suas habilidades. Contudo, ele precisa aprender a controlar seus poderes para enfrentar o malvado Dr. Thaddeus Sivana."
-    },
-    {
-      "show_name": "Kung Fu Panda",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/hbo/tomorrow/br_kung-fu-panda-2008_l_m.webp",
-      "show_category": "Children / 2008 /7.6",
-      "start_time": "10:10",
-      "end_time": "11:45",
-      "episode_description": "Po é um panda que trabalha na loja de macarrão da sua família e sonha em transformar-se em um mestre de kung fu. Seu sonho se torna realidade quando, inesperadamente, ele deve cumprir uma profecia antiga e estudar a arte marcial com seus ídolos, os Cinco Furiosos. Po precisa de toda a sabedoria, força e habilidade que conseguir reunir para proteger seu povo de um leopardo da neve malvado."
-    },
-    {
-      "show_name": "Assassino por Acaso",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/hbo/tomorrow/br_assassino-por-acaso-2023_l_m.webp",
-      "show_category": "Romantic comedy / 2023",
-      "start_time": "11:45",
-      "end_time": "13:45",
-      "episode_description": "Um assassino quebra o protocolo para ajudar uma mulher desesperada que tenta fugir de seu marido."
-    },
-    {
-      "show_name": "O Cavaleiro dos Sete Reinos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/hbo/tomorrow/br_o-cavaleiro-dos-sete-reinos-s01e03_l_m.webp",
-      "show_category": "Temporada 1 Episódio 3 - O Escudeiro",
-      "start_time": "13:45",
-      "end_time": "14:20",
-      "episode_description": "Um século antes dos eventos de Game of Thrones, quando a linhagem Targaryen ainda detém o Trono de Ferro, dois improváveis heróis vagam por Westeros: um jovem cavaleiro, Sor Duncan, o Alto, e seu escudeiro, Egg."
-    },
-    {
-      "show_name": "Megatubarão",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/hbo/tomorrow/br_megatubar-o-2018_l_m.webp",
-      "show_category": "Science fiction / 2018",
-      "start_time": "14:20",
-      "end_time": "16:20",
-      "episode_description": "Na fossa mais profunda do oceano Pacífico, a tripulação de um submarino fica presa dentro do local após ser atacada por uma criatura pré-histórica que acreditavam estar extinta: um tubarão de mais de 20 metros de comprimento, o Megalodon. Para salvá-los, um oceanógrafo chinês contrata Jonas Taylor, um mergulhador especializado em resgates em água profundas que já encontrou a criatura anteriormente."
-    },
-    {
-      "show_name": "Imaculada",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/hbo/tomorrow/br_imaculada-2024_l_m.webp",
-      "show_category": "Horror / 2024",
-      "start_time": "16:20",
-      "end_time": "17:55",
-      "episode_description": "Cecilia, uma jovem religiosa, se torna freira em um convento isolado na região rural italiana. Após uma gravidez misteriosa, Cecilia é atormentada por forças perversas, enquanto confronta segredos sombrios e horrores do convento."
-    },
-    {
-      "show_name": "Tempestade - Planeta em Fúria",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/hbo/tomorrow/br_tempestade-planeta-em-furia-2017_l_m.webp",
+      "show_name": "Mulher-Maravilha",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mulher-maravilha-2017_l_m.jpg",
       "show_category": "Action / 2017",
-      "start_time": "17:55",
-      "end_time": "19:50",
-      "episode_description": "A ocorrência cada vez mais frequente de eventos climáticos capazes de ameaçar a existência da humanidade faz com que seja criada uma extensa rede de satélites, ao redor de todo o planeta, para controlar o próprio clima."
+      "start_time": "03:35",
+      "end_time": "06:00",
+      "episode_description": "Treinada desde cedo para ser uma guerreira imbatível, Diana Prince nunca saiu da paradisíaca ilha em que é reconhecida como princesa das Amazonas. Quando o piloto Steve Trevor sofre um acidente e cai em uma praia do local, ela descobre que uma guerra sem precedentes está se espalhando pelo mundo e decide deixar seu lar certa de que pode parar o conflito. Lutando para acabar com a guerra, Diana percebe o alcance de seus poderes e sua verdadeira missão na Terra."
     },
     {
-      "show_name": "Aquaman 2 - O Reino Perdido",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/hbo/tomorrow/br_aquaman-2-o-reino-perdido-2023_l_m.webp",
-      "show_category": "Action / 2023",
-      "start_time": "19:50",
-      "end_time": "22:00",
-      "episode_description": "Um antigo poder é liberto e o herói Aquaman precisa fazer um perigoso acordo com um aliado improvável para proteger Atlântida e o mundo de uma devastação irreversível."
+      "show_name": "After - Para Sempre",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_after-para-sempre-2023_l_m.jpg",
+      "show_category": "Drama / 2023",
+      "start_time": "06:00",
+      "end_time": "07:34",
+      "episode_description": "Hardin precisa terminar seu livro, mas sofre com um bloqueio criativo total. Ainda ligado ao passado, ele descobre que Tessa está em Portugal e parte para encontrá-la. Mas ele logo percebe que deve mudar de atitude se quiser recuperá-la."
     },
     {
-      "show_name": "A Garota da Vez",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/hbo/tomorrow/br_a-garota-da-vez-2023_l_m.webp",
-      "show_category": "Crime drama / 2023",
-      "start_time": "22:00",
-      "end_time": "23:40",
-      "episode_description": "Na década de 1970, em Los Angeles, onda de assassinatos ganha manchetes. Uma jovem que deseja se tornar atriz e um assassino em série se cruzam durante episódio de programa de namoro na TV."
+      "show_name": "Aves de Rapina - Arlequina e Sua Emancipação Fantabulosa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aves-de-rapina-arlequina-e-sua-emancipac-o-fantabulosa-2020_l_m.jpg",
+      "show_category": "Action / 2020",
+      "start_time": "07:34",
+      "end_time": "09:25",
+      "episode_description": "Depois de se aventurar com o Coringa, Arlequina se junta a Canário Negro, Caçadora e Renee Montoya para salvar a vida de uma garotinha do criminoso Máscara Negra em Gotham City."
     },
     {
-      "show_name": "Assassino por Acaso",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/hbo/tomorrow/br_assassino-por-acaso-2023_l_m.webp",
-      "show_category": "Romantic comedy / 2023",
-      "start_time": "23:40",
+      "show_name": "Um Verão Infernal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_um-ver-o-infernal-2023_l_m.jpg",
+      "show_category": "Horror / 2023",
+      "start_time": "09:25",
+      "end_time": "11:00",
+      "episode_description": "O conselheiro de acampamento de 24 anos, Jason Hochberg, chega a Camp Pineway achando que seu maior problema era estar afastado de seus colegas adolescentes. O que ele não sabe é que um assassino mascarado está rondando o acampamento, matando brutalmente os conselheiros um por um."
+    },
+    {
+      "show_name": "Parque dos Dinossauros",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_parque-dos-dinossauros-1993_l_m.jpg",
+      "show_category": "Adventure / 1993",
+      "start_time": "11:00",
+      "end_time": "13:10",
+      "episode_description": "Os paleontólogos Alan Grant, Ellie Sattler e o matemático Ian Malcolm fazem parte de um seleto grupo escolhido para visitar uma ilha habitada por dinossauros criados a partir de DNA pré-histórico. O idealizador do projeto e bilionário John Hammond garante a todos que a instalação é completamente segura. Mas após uma queda de energia, os visitantes descobrem, aos poucos, que vários predadores ferozes estão soltos e à caça."
+    },
+    {
+      "show_name": "Megatubarão 2",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_megatubar-o-2-2023_l_m.jpg",
+      "show_category": "Science fiction / 2023",
+      "start_time": "13:10",
+      "end_time": "15:10",
+      "episode_description": "Jonas Taylor lidera uma equipe de pesquisa em um mergulho exploratório nas profundezas do oceano. Enfrentando tubarões pré-históricos colossais e saqueadores ambientais implacáveis, eles devem fugir e nadar mais que seus impiedosos predadores."
+    },
+    {
+      "show_name": "Velozes e Furiosos 5",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_velozes-e-furiosos-5-2011_l_m.jpg",
+      "show_category": "Action / 2011",
+      "start_time": "15:10",
+      "end_time": "17:25",
+      "episode_description": "Desde que o ex-policial Brian O'Conner e Mia Toretto libertaram Dom da prisão, eles viajam pelo mundo para fugir das autoridades. No Rio de Janeiro, são obrigados a fazer um último trabalho antes de ganhar sua liberdade definitiva. Brian e Dom montam uma equipe de elite de pilotos de carro para executar a tarefa, mas precisam enfrentar um empresário corrupto e também um obstinado agente federal norte-americano."
+    },
+    {
+      "show_name": "Órfã 2 - A Origem",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_orf-2-a-origem-2022_l_m.jpg",
+      "show_category": "Horror / 2022",
+      "start_time": "17:25",
+      "end_time": "19:10",
+      "episode_description": "Esther consegue escapar de um centro psiquiátrico onde está confinada e viaja para os Estados Unidos se passando por filha desaparecida de uma família rica. No entanto, uma mãe superprotetora fará de tudo por sua família, não importando os meios."
+    },
+    {
+      "show_name": "Venom - A Última Rodada",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_venom-a-ultima-rodada-2024_l_m.jpg",
+      "show_category": "Action / 2024",
+      "start_time": "19:10",
+      "end_time": "21:05",
+      "episode_description": "Eddie Brock e Venom precisam tomar uma decisão enquanto são perseguidos por um militar misterioso e monstros alienígenas do planeta natal de Venom."
+    },
+    {
+      "show_name": "Eu Sei o que Vocês Fizeram no Verão Passado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_eu-sei-o-que-voces-fizeram-no-ver-o-passado-2025_l_m.jpg",
+      "show_category": "Horror / 2025",
+      "start_time": "21:05",
+      "end_time": "23:02",
+      "episode_description": "Cinco amigos causam um acidente de carro fatal e encobrem seu envolvimento mantendo segredo em vez de enfrentar as consequências. Um ano depois, eles se veem perseguidos por um assassino misterioso que sabe o que eles fizeram no verão passado."
+    },
+    {
+      "show_name": "Industry",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_industry-s04e05_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 5",
+      "start_time": "23:02",
       "end_time": "",
-      "episode_description": "Um assassino quebra o protocolo para ajudar uma mulher desesperada que tenta fugir de seu marido."
+      "episode_description": "Um grupo de ambiciosos jovens recém-formados navega o tenso e competitivo ambiente de um importante banco de investimentos em Londres."
     }
   ]
 }

@@ -1,182 +1,262 @@
 {
   "channel": "Discovery",
-  "date": "08/02/2026",
+  "date": "09/02/2026",
   "schedule": [
     {
-      "show_name": "Vida Remota - O Refúgio de Marty",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery/tomorrow/br_vida-remota-o-refugio-de-marty-s01e03-os-dias-de-raney-est-o-chegando_l_m.webp",
-      "show_category": "Temporada 1 Episódio 3 - Os Dias de Raney Estão Chegando",
-      "start_time": "00:37",
-      "end_time": "01:25",
-      "episode_description": "Com apenas duas semanas restantes para concluírem seu autorresgate, Maty corre para terminar as paredes de sua cabine; Misty aumenta o jardim e faz um abrigo para cabras; Matt leva a nova geração em uma caça ao ouro."
+      "show_name": "Aeroporto - Área Restrita",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aeroporto-area-restrita-s02e06-tiro-ao-alvo_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 6 - Tiro ao Alvo",
+      "start_time": "00:29",
+      "end_time": "00:56",
+      "episode_description": "Agentes da Receita Federal apreendem cargas falsificadas a as enviam para destruição. Na Polícia Federal, alunos estrangeiros do InterCops acompanham uma aula prática de combate ao tráfico que apresenta ótimo resultado."
     },
     {
-      "show_name": "No Olho da Tempestade",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery/tomorrow/br_no-olho-da-tempestade-s02e04-supertempestade-mortal-em-nebraska_l_m.webp",
-      "show_category": "Temporada 2 Episódio 4 - Supertempestade Mortal em Nebraska",
-      "start_time": "01:25",
-      "end_time": "02:10",
-      "episode_description": "Dezenas de tornados nas Planícies Centrais causaram devastação em abril de 2024. Testemunhas relatam destruição de bairros, estruturas comerciais e veículos pesados."
+      "show_name": "Aeroporto - Área Restrita",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aeroporto-area-restrita-s02e07-caca-niquel_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 7 - Caça Níquel",
+      "start_time": "00:56",
+      "end_time": "01:24",
+      "episode_description": "Receita e Polícia Federal lidam com um grande desafio: se comunicarem com uma passageira chinesa que tenta sair do país com milhares de dólares. A equipe de pista da Receita Federal fiscaliza vários voos nacionais."
     },
     {
-      "show_name": "América do Norte",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery/tomorrow/br_america-do-norte-s01e06-america-do-norte-revelada_l_m.webp",
-      "show_category": "Temporada 1 Episódio 6 - América do Norte Revelada",
-      "start_time": "02:10",
-      "end_time": "02:58",
-      "episode_description": "Para fazer o programa América do Norte, equipes de filmagem exploraram o continente durante três anos. Com mais de 2.800 dias em campo cobrindo vários países e 29 estados dos EUA, a série revela as maravilhas do continente como nunca vistas antes."
+      "show_name": "Aeroporto - Área Restrita",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aeroporto-area-restrita-s02e08-o-preco-que-se-paga_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 8 - O Preço que se Paga",
+      "start_time": "01:24",
+      "end_time": "01:50",
+      "episode_description": "Agentes da Receita Federal lidam com passageiros transportando produtos falsificados e praticando tráfico internacional de drogas."
+    },
+    {
+      "show_name": "Aeroporto - Área Restrita",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aeroporto-area-restrita-s02e09-caso-de-emergencia_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 9 - Caso de Emergência",
+      "start_time": "01:50",
+      "end_time": "02:17",
+      "episode_description": "Agentes da Polícia Federal prendem uma passageira prestes a embarcar com drogas nos botões de suas roupas e dentro do corpo. A mulher revela que engoliu seis cápsulas de cocaína e a preocupação vira outra: a preservação de sua vida."
+    },
+    {
+      "show_name": "Aeroporto - Área Restrita",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aeroporto-area-restrita-s02e10-confiss-o_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 10 - Confissão",
+      "start_time": "02:17",
+      "end_time": "02:40",
+      "episode_description": "Agentes da Receita Federal abordam uma passageira com diversas mercadorias falsificadas. Depois de um grande trabalho de entrevista investigativa, os agentes conseguem aperfeiçoar o perfil dos viajantes que trabalham para o tráfico internacional."
+    },
+    {
+      "show_name": "Aeroporto - Área Restrita",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aeroporto-area-restrita-s02e11-a-uni-o-faz-a-forca_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 11 - A União Faz a Força",
+      "start_time": "02:40",
+      "end_time": "03:06",
+      "episode_description": "Agentes da Imigração e aula prática do InterCops, com participação de vários policiais do mundo, se deparam com suspeitos de terrorismo e trabalho escravo."
+    },
+    {
+      "show_name": "Aeroporto - Área Restrita",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aeroporto-area-restrita-s02e12-patria-amada_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 12 - Pátria Amada",
+      "start_time": "03:06",
+      "end_time": "03:30",
+      "episode_description": "Polícia Federal e Receita Federal se unem para prender um traficante de drogas saindo do país. Na alfândega, agentes aduaneiros se deparam com um novo esquema para entrada ilegal de produtos e joias."
+    },
+    {
+      "show_name": "Aeroporto - Área Restrita",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aeroporto-area-restrita-s03e01_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 1 - Fechado para Pousos",
+      "start_time": "03:30",
+      "end_time": "03:56",
+      "episode_description": "Uma passageira paga um preço alto por desconhecer as leis alfandegárias, enquanto outra demora a revelar a verdade sobre as substâncias ilícitas encontradas em sua mala."
+    },
+    {
+      "show_name": "Aeroporto - Área Restrita",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aeroporto-area-restrita-s03e02-melhor-falar-agora_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 2 - Melhor Falar Agora!",
+      "start_time": "03:56",
+      "end_time": "04:23",
+      "episode_description": "Uma mala com cocaína é deixada para trás no aeroporto, mas, para surpresa geral, o dono resolve voltar para buscá-la. Os agentes da Receita Federal e da Vigilância Agropecuária agem em conjunto em um dia cheio de apreensões."
+    },
+    {
+      "show_name": "Aeroporto - Área Restrita",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aeroporto-area-restrita-s03e03-excesso-de-bagagem_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 3 - Excesso de Bagagem",
+      "start_time": "04:23",
+      "end_time": "04:48",
+      "episode_description": "Uma passageira vinda de Miami tenta enganar os agentes da Receita de forma inusitada. Funcionárias do aeroporto correm para ajudar um passageiro a embarcar com seu cachorro para o Canadá."
+    },
+    {
+      "show_name": "Aeroporto - Área Restrita",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aeroporto-area-restrita-s03e04-impedidos-de-embarcar_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 4 - Impedidos de Embarcar",
+      "start_time": "04:48",
+      "end_time": "05:14",
+      "episode_description": "Uma passageira leva um pacote suspeito na bagagem e é retirada do avião momentos antes de decolar. Um suposto caso de racismo mobiliza os funcionários do aeroporto. Uma brasileira volta da Europa carregando um segredo."
+    },
+    {
+      "show_name": "Os Quebradores da Banca",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-quebradores-da-banca-s01e06-o-mestre-dos-disfarces_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 6 - O Mestre dos Disfarces",
+      "start_time": "05:14",
+      "end_time": "06:00",
+      "episode_description": "Um golpista famoso por usar disfarces é perseguido; um gênio da tecnologia concorda em resolver uma disputa judicial multimilionária com uma partida de pôquer; o guru de um programa de TV revela o segredo de seu sucesso."
+    },
+    {
+      "show_name": "Rumo ao Desconhecido",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rumo-ao-desconhecido-s13e01-em-busca-de-alexandre-o-grande_l_m.jpg",
+      "show_category": "Temporada 13 Episódio 1 - Em Busca de Alexandre, o Grande",
+      "start_time": "06:00",
+      "end_time": "06:44",
+      "episode_description": "Em busca das maiores lendas da arqueologia, o túmulo perdido e o tesouro de Alexandre, o Grande, Josh mergulha no litoral do Egito. Um defeito na bomba d'água coloca a expedição em risco."
+    },
+    {
+      "show_name": "Rumo ao Desconhecido",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rumo-ao-desconhecido-s13e02-o-tumulo-perdido-de-alexandre_l_m.jpg",
+      "show_category": "Temporada 13 Episódio 2 - O Túmulo Perdido de Alexandre",
+      "start_time": "06:44",
+      "end_time": "07:34",
+      "episode_description": "Josh procura pistas sobre o paradeiro do túmulo e da fortuna de Alexandre, o Grande, na Europa e a África. Mais tarde, Josh encontra indícios de que o corpo de Alexandre pode estar na Catedral de São Marcos, em Veneza."
+    },
+    {
+      "show_name": "Rumo ao Desconhecido",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rumo-ao-desconhecido-s14e03-a-busca-pelo-clipper-endeavor_l_m.jpg",
+      "show_category": "Temporada 14 Episódio 3 - A Busca pelo Clipper Endeavor",
+      "start_time": "07:34",
+      "end_time": "08:18",
+      "episode_description": "Em Porto Rico, Josh busca um lendário avião desaparecido. A queda do Clipper Endeavour, da Pan Am, muda para sempre a aviação comercial. Josh e sua equipe mergulham a 600 metros de profundidade para tentar encontrá-lo."
+    },
+    {
+      "show_name": "Monstros do Rio",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_monstros-do-rio-s01e03-devorador-de-homens_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3 - Boca-de-jacaré",
+      "start_time": "08:18",
+      "end_time": "09:08",
+      "episode_description": "O monstro chamado Atractosteus Spatula, um jacaré assassino que já cometeu vários ataques contra humanos, está situado no estado americano do Texas e Jeremy Wade vai procurar sua trilha para tentar desvendar os fatos por detrás das histórias."
+    },
+    {
+      "show_name": "Monstros do Rio",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_monstros-do-rio-s01e04-assassinos-do-amazonas_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - Devorador de Homens",
+      "start_time": "09:08",
+      "end_time": "09:59",
+      "episode_description": "Em sua viagem para a Alemanha, Wade encontra as vítimas de uma fera que habita os rios da Europa há 700 anos. Conheça o peixe siluro, um predador agressivo em proporções alarmantes."
+    },
+    {
+      "show_name": "Ed Stafford - Contra Todos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ed-stafford-contra-todos-s01e01-borneu_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - Bornéu",
+      "start_time": "09:59",
+      "end_time": "10:50",
+      "episode_description": "Ed Stafford desafia o ex-fuzileiro naval e especialista em cordas, Aldo Kane, em uma corrida pelos pântanos infestados de crocodilos de Bornéu."
+    },
+    {
+      "show_name": "Ed Stafford - Contra Todos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ed-stafford-contra-todos-s01e02-cazaquist-o_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Cazaquistão",
+      "start_time": "10:50",
+      "end_time": "11:41",
+      "episode_description": "Ed Stafford vai parar em um labirinto natural no Cazaquistão, onde enfrenta o ex-soldado das Forças Especiais sul-coreano Ken Rhee. Ele enfrenta lobos, erros de navegação e distâncias extremas para chegar ao ponto de resgate."
+    },
+    {
+      "show_name": "Sete Mundos, um Planeta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sete-mundos-um-planeta-s01e06-america-do-norte-1_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 6 - América do Norte",
+      "start_time": "11:41",
+      "end_time": "12:36",
+      "episode_description": "Um continente em transformação. No inverno, um lince espreita uma lebre e peixes-boi procuram fontes quentes para escapar do frio. No verão, peixes constroem pirâmides espetaculares e ursos polares caçam belugas."
+    },
+    {
+      "show_name": "Instintos da Vida Selvagem",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_instintos-da-vida-selvagem-s01e02-oceanos_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Oceanos",
+      "start_time": "12:36",
+      "end_time": "13:27",
+      "episode_description": "A criação de filhos no oceano exige dedicação e inteligência. Da navegação nos recifes à educação dos filhotes para caçar gigantes, esses pais possuem as estratégias mais extraordinárias da Terra."
     },
     {
       "show_name": "Planeta Azul II",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery/tomorrow/br_planeta-azul-ii-s02e07-nosso-planeta-azul_l_m.webp",
-      "show_category": "Temporada 2 Episódio 7 - Nosso Planeta Azul",
-      "start_time": "02:58",
-      "end_time": "03:52",
-      "episode_description": "O oceano está se transformando rapidamente e já existe a dúvida sobre se conseguiremos salvá-lo. Neste episódio, cientistas de todo o mundo compartilham suas descobertas mais recentes e revelam o que o futuro reserva."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_planeta-azul-ii-s02e06-litorais_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 6 - Litorais",
+      "start_time": "13:27",
+      "end_time": "14:20",
+      "episode_description": "Um campo de batalha na fronteira entre dois mundos totalmente distintos. Para sobreviver nestes litorais selvagens, é preciso superar os desafios da terra e do mar com resistência e criatividade."
     },
     {
-      "show_name": "Predadores",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery/tomorrow/br_predadores-s01e06-corrida-contra-o-tempo_l_m.webp",
-      "show_category": "Temporada 1 Episódio 6 - Corrida contra o Tempo",
-      "start_time": "03:52",
-      "end_time": "04:45",
-      "episode_description": "Os litorais são um habitat em contínua transformação - o único em que predadores do ar, da terra e do mar se encontram. Golfinhos saem do mar para pescar, polvos caminham e baleias-corcundas se reúnem para se alimentar."
+      "show_name": "Gladiadores da Natureza",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_gladiadores-da-natureza-s01e02-costa-selvagem_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Costa Selvagem",
+      "start_time": "14:20",
+      "end_time": "15:11",
+      "episode_description": "Os gladiadores da Austrália: cangurus boxeadores e aranhas venenosas lutam para sobreviver às mudanças climáticas."
     },
     {
-      "show_name": "África",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery/tomorrow/br_africa-s01e05-o-saara_l_m.webp",
-      "show_category": "Temporada 1 Episódio 5 - O Saara",
-      "start_time": "04:45",
-      "end_time": "05:33",
-      "episode_description": "O Norte da África abriga o maior deserto da Terra, o Saara. O vasto deserto do tamanho dos EUA é a região mais inóspita do território africano. Aqui, o sol reina impiedoso, e apenas um punhado de espécies consegue sobreviver."
+      "show_name": "Largados e Pelados - Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_largados-e-pelados-brasil-s02e04-o-desespero-da-fome_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 4 - O Desespero da Fome",
+      "start_time": "15:11",
+      "end_time": "16:12",
+      "episode_description": "A fome começa a ser desesperadora. As diferenças nas estratégias de sobrevivência levam os relacionamentos ao limite. Uma tormenta tropical põe à prova os abrigos e a saúde dos participantes."
     },
     {
-      "show_name": "Encontro Selvagem com Coyote Peterson",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery/tomorrow/br_encontro-selvagem-com-coyote-peterson-s01e08-a-noite-dos-monstros-do-rio_l_m.webp",
-      "show_category": "Temporada 1 Episódio 8 - A Noite dos Monstros do Rio",
-      "start_time": "05:33",
-      "end_time": "06:00",
-      "episode_description": "Coyote Peterson enfrenta os rios sinuosos de Maleny, na Austrália, em busca de um verdadeiro monstro do rio: a enguia esquiva e maciça de barbatanas longas. Ele também encontra uma sorridente tartaruga com casca de serra e recebe um beijo doloroso e sangrento de uma píton-carpete."
-    },
-    {
-      "show_name": "Largados e Pelados - A Tribo",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery/tomorrow/br_largados-e-pelados-a-tribo-s07e02-cacada-radical_l_m.webp",
-      "show_category": "Temporada 7 Episódio 2 - Caçada Radical",
-      "start_time": "06:00",
-      "end_time": "07:43",
-      "episode_description": "Matt corre o risco de se machucar na tentativa de caçar um jacaré. Tempestades violentas lançam Steven em uma busca desesperada por recursos. O pântano leva sua primeira vítima a desistir da competição."
+      "show_name": "Largados e Pelados - Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_largados-e-pelados-brasil-s02e05_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 5 - Partir para Não Desistir",
+      "start_time": "16:12",
+      "end_time": "17:12",
+      "episode_description": "Um participante abandona o acampamento e se lança ao desconhecido. Outro participante consegue uma fonte de calorias enorme. Um jacaré de mais de dois metros de comprimento rodeia o acampamento de uma dupla e eles são obrigados a mudar de estratégia."
     },
     {
       "show_name": "Largados e Pelados - A Tribo",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery/tomorrow/br_largados-e-pelados-a-tribo-s07e03-merecida-recompensa_l_m.webp",
-      "show_category": "Temporada 7 Episódio 3 - Merecida Recompensa",
-      "start_time": "07:43",
-      "end_time": "09:26",
-      "episode_description": "Matt, Rylie e Ryan enfrentam um jacaré para garantir uma importante fonte de proteína; a descoberta de uma carcaça leva Gras a um confronto com sua equipe; Sarah obtém uma vitória na busca por alimento."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_largados-e-pelados-a-tribo-s08e06-falha-lendaria_l_m.jpg",
+      "show_category": "Temporada 8 Episódio 6 - Falha Lendária",
+      "start_time": "17:12",
+      "end_time": "18:55",
+      "episode_description": "Jeff tem dificuldade para manter o que come; Trish e Amber chegam ao limite; Matt, Dan e Waz entram na água cheia de piranhas e conseguem uma presa grande; uma onça-pintada espreita o novo acampamento de EJ e Steven."
     },
     {
-      "show_name": "Largados e Pelados - A Tribo",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery/tomorrow/br_largados-e-pelados-a-tribo-s07e04-gary-come-tudo_l_m.webp",
-      "show_category": "Temporada 7 Episódio 4 - Gary Come Tudo",
-      "start_time": "09:26",
-      "end_time": "11:09",
-      "episode_description": "Depois de caçar um jacaré de 2,5 metros, Gary come partes que são pesadas demais para seu estômago e o da equipe; Matt sofre uma grave complicação por uma infecção parasitária; um sobrevivencialista é obrigado a partir."
+      "show_name": "Largados e Pelados",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_largados-e-pelados-s18e04-dezessete-pontos_l_m.jpg",
+      "show_category": "Temporada 18 Episódio 4 - Dezessete Pontos",
+      "start_time": "18:55",
+      "end_time": "19:47",
+      "episode_description": "Um aventureiro ferido e uma cautelosa recém-casada tentam sobreviver por 21 dias em uma remota floresta filipina. Torturados por formigas-lava-pés e pela fome extrema, sua resiliência é posta à prova."
     },
     {
-      "show_name": "Largados e Pelados - A Tribo",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery/tomorrow/br_largados-e-pelados-a-tribo-s07e05-em-busca-de-vinganca_l_m.webp",
-      "show_category": "Temporada 7 Episódio 5 - Em Busca de Vingança",
-      "start_time": "11:09",
-      "end_time": "12:52",
-      "episode_description": "Matt encontra rastros de uma lontra e decide garantir sua vingança e a próxima refeição. Jeff usa a criatividade para construir um defumador. Amber pesca para a equipe, mas uma lesão antiga ameaça sua permanência."
+      "show_name": "Largados e Pelados",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_largados-e-pelados-s17e11-controle-de-venenos_l_m.jpg",
+      "show_category": "Temporada 17 Episódio 11 - Controle de Venenos",
+      "start_time": "19:47",
+      "end_time": "20:39",
+      "episode_description": "Aleijado por ferimentos e sapos tóxicos, um viciado em adrenalina e um autoproclamado caipira renascentista devem cavar fundo para tentar suportar 21 dias na Colômbia."
     },
     {
-      "show_name": "Largados e Pelados - A Tribo",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery/tomorrow/br_largados-e-pelados-a-tribo-s07e06-les-o-delicada_l_m.webp",
-      "show_category": "Temporada 7 Episódio 6 - Lesão Delicada",
-      "start_time": "12:52",
-      "end_time": "14:35",
-      "episode_description": "Uma lesão grave nas partes íntimas ameaça a permanência de EJ na competição; Jeff e Steven são perseguidos por um urso-negro territorial; Max e Gary tramam um plano arriscado para colher o mel de uma colmeia ativa."
+      "show_name": "Gladiadores da Natureza",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_gladiadores-da-natureza-s01e04-zona-costeira_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - Zona Costeira",
+      "start_time": "20:39",
+      "end_time": "21:28",
+      "episode_description": ""
     },
     {
-      "show_name": "Largados e Pelados - A Tribo",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery/tomorrow/br_largados-e-pelados-a-tribo-s07e07-uma-ponte-sobre-o-pantano_l_m.webp",
-      "show_category": "Temporada 7 Episódio 7 - Uma Ponte sobre o Pântano",
-      "start_time": "14:35",
-      "end_time": "16:16",
-      "episode_description": "Para atravessar um pântano cheio de jacarés, Rylie, Matt e Ryan projetam uma ponte épica. Acossados por um urso-negro, Jeff e Steven são obrigados a deixar o acampamento. EJ vigia um jacaré que anda roubando seus peixes."
+      "show_name": "Largados e Pelados",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_largados-e-pelados-s15e07-desafio-da-equipe_l_m.jpg",
+      "show_category": "Temporada 15 Episódio 7 - Desafio da Equipe",
+      "start_time": "21:28",
+      "end_time": "22:17",
+      "episode_description": "Pela primeira vez, dois membros da equipe de \"Largados e Pelados\" tentam sobreviver durante 21 dias na frente das câmeras. Eles enfrentam enxames de insetos implacáveis e a falta constante de comida."
     },
     {
-      "show_name": "Largados e Pelados - A Tribo",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery/tomorrow/br_largados-e-pelados-a-tribo-s07e08-um-banquete-para-os-olhos_l_m.webp",
-      "show_category": "Temporada 7 Episódio 8 - Um Banquete para os Olhos",
-      "start_time": "16:16",
-      "end_time": "17:59",
-      "episode_description": "Uma decisão arriscada ameaça a permanência de um sobrevivencialista; os dois acampamentos entram em conflito quando um deles sabota a caçada do outro; uma das equipes começa a escavar uma canoa em um tronco."
+      "show_name": "Largados e Pelados",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_largados-e-pelados-s16e01-sangue-e-dinheiro_l_m.jpg",
+      "show_category": "Temporada 16 Episódio 1 - Sangue e Dinheiro",
+      "start_time": "22:17",
+      "end_time": "23:07",
+      "episode_description": "Uma enfermeira e um banqueiro enfrentam um desafio de 14 dias em uma inóspita floresta mexicana. À medida que a comida se torna escassa, eles questionam sua capacidade de chegar até o fim."
     },
     {
-      "show_name": "Largados e Pelados - A Tribo",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery/tomorrow/br_largados-e-pelados-a-tribo-s07e09-e-dificil-perdoar_l_m.webp",
-      "show_category": "Temporada 7 Episódio 9 - É Difícil Perdoar",
-      "start_time": "17:59",
-      "end_time": "19:42",
-      "episode_description": "Temperaturas congelantes testam os limites de dois sobrevivencialistas. Rylie finalmente supera uma mágoa de um desafio passado. Desesperados por víveres, Max e EJ procuram novas áreas de caça com a canoa."
-    },
-    {
-      "show_name": "Largados e Pelados - A Tribo",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery/tomorrow/br_largados-e-pelados-a-tribo-s07e10-a-uni-o-faz-a-forca_l_m.webp",
-      "show_category": "Temporada 7 Episódio 10 - A União Faz a Força",
-      "start_time": "19:42",
-      "end_time": "21:25",
-      "episode_description": "A poucos dias de terminar o desafio de 60 dias, os sobrevivencialistas restantes unem esforços para enfrentar o pântano gelado. Para abater um animal grande, os sete competidores saem em uma caçada épica."
-    },
-    {
-      "show_name": "Operação Fronteira - Brasil",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery/tomorrow/br_operac-o-fronteira-brasil-s05e14-operac-o-aerea_l_m.webp",
-      "show_category": "Temporada 5 Episódio 14 - Operação Aérea",
-      "start_time": "21:25",
-      "end_time": "21:51",
-      "episode_description": "Helicóptero da PRF busca carreta suspeita no Mato Grosso do Sul; PRF apreende veículo no Mato Grosso; no sul do país, revista revela possível ilícito em ônibus."
-    },
-    {
-      "show_name": "Operação Fronteira - Brasil",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery/tomorrow/br_operac-o-fronteira-brasil-s05e08-apertado-no-crime_l_m.webp",
-      "show_category": "Temporada 5 Episódio 8 - Apertado no Crime",
-      "start_time": "21:51",
-      "end_time": "22:19",
-      "episode_description": "O trabalho incansável da Polícia Rodoviária Federal no combate ao contrabando e ao crime organizado. Em um país de dimensão continental, os desafios dos agentes em defesa das fronteiras, de norte a sul."
-    },
-    {
-      "show_name": "Aeroporto - Área Restrita",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery/tomorrow/br_aeroporto-area-restrita-s07e10-embarque-negado_l_m.webp",
-      "show_category": "Temporada 7 Episódio 10 - Embarque Negado",
-      "start_time": "22:19",
-      "end_time": "22:46",
-      "episode_description": "Rapaz se complica ao mentir durante a fiscalização; no embarque internacional, outro passageiro é impedido de viajar por conta da sua bagagem e uma viajante atrasada acaba revelando conteúdo ilícito durante entrevista de rotina."
-    },
-    {
-      "show_name": "Aeroporto - Área Restrita",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery/tomorrow/br_aeroporto-area-restrita-s07e11-revezes_l_m.webp",
-      "show_category": "Temporada 7 Episódio 11 - Revezes",
-      "start_time": "22:46",
-      "end_time": "23:14",
-      "episode_description": "Um estrangeiro levanta suspeita de tráfico e quando os agentes abrem sua mala, ele não embarca; no desembarque, passageira com excesso de mercadorias precisa se explicar; um pacote suspeito é achado pelo K9 e Polícia acompanha a entrega."
-    },
-    {
-      "show_name": "Aeroporto - Área Restrita",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery/tomorrow/br_aeroporto-area-restrita-s07e12-na-hora-da-chegada_l_m.webp",
-      "show_category": "Temporada 7 Episódio 12 - Na Hora da Chegada",
-      "start_time": "23:14",
-      "end_time": "23:41",
-      "episode_description": "Em Guarulhos, uma passageira suspeita é abordada na saída do aeroporto; no Galeão, um viajante tenta sair com caixas cheias de um mesmo produto; vindo de Portugal, estudante enfrenta entrevista por produto suspeito."
-    },
-    {
-      "show_name": "Aeroporto - Área Restrita: Estados Unidos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery/tomorrow/br_aeroporto-area-restrita-estados-unidos-s01e04-vai-com-calma_l_m.webp",
-      "show_category": "Temporada 1 Episódio 4 - Vai com Calma",
-      "start_time": "23:41",
+      "show_name": "Largados e Pelados",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_largados-e-pelados-s14e05-animais-a-espreita_l_m.jpg",
+      "show_category": "Temporada 14 Episódio 5 - Animais à Espreita",
+      "start_time": "23:07",
       "end_time": "",
-      "episode_description": "Um homem que estava foragido há 15 anos é preso; uma viajante é questionada sobre suas conexões com o líder de uma gangue de roubo de carros."
+      "episode_description": "Um guia selvagem e uma engenheira de software tentam resistir a 21 dias no deserto de Botsuana. À noite, a segurança da dupla é ameaçada por leões e elefantes agressivos."
     }
   ]
 }
