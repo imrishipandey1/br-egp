@@ -1,302 +1,270 @@
 {
   "channel": "A&E",
-  "date": "10/02/2026",
+  "date": "11/02/2026",
   "schedule": [
     {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_quem-da-mais-s14e14-um-bom-dia-para-estar-seguro_l_m.webp",
-      "show_category": "Temporada 14 Episódio 14 - Um Bom Dia para Estar Seguro",
-      "start_time": "00:04",
-      "end_time": "00:27",
-      "episode_description": "Lisa desfruta de um dia na praia; Darrell passa um tempo revirando um depósito e Kenny aproveita uma recente maré de sorte em sua unidade; René decide colocar todos os seus ovos em uma cesta cheia de cofres."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_quem-da-mais-s14e05-rene-o-rei-de-orange_l_m.webp",
-      "show_category": "Temporada 14 Episódio 5 - Rene, o Rei de Orange",
-      "start_time": "00:27",
-      "end_time": "00:50",
-      "episode_description": "Rene aparece repentinamente no leilão de Orange e se autoproclama \"o Rei\", mas Dusty discorda totalmente do título; Kenny acidentalmente \"reinventa a roda\"; Lisa vê as coisas de uma perspectiva um pouco diferente e não aguenta ficar calada."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_quem-da-mais-s09e04-depositos-no-centro-de-l-a_l_m.webp",
-      "show_category": "Temporada 9 Episódio 4 - Depósitos no Centro de L.A.",
-      "start_time": "00:50",
-      "end_time": "01:13",
-      "episode_description": "Durante um leilão, os compradores são desafiados a encontrar tesouros em uma torre de depósitos no centro de Los Angeles; Darrell e Brandon trabalham obstinadamente para conseguir mais mercadorias para sua loja."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_quem-da-mais-s08e09-a-escola-da-vida_l_m.webp",
-      "show_category": "Temporada 8 Episódio 9 - A Escola da Vida",
-      "start_time": "01:13",
-      "end_time": "01:36",
-      "episode_description": "Darrell e Brandon invadem a comunidade de Rancho Dominguez; Jarrod e Brandi expandem a equipe ao incluir um novo integrante."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_quem-da-mais-s09e02-uma-poeira-do-inferno_l_m.webp",
-      "show_category": "Temporada 9 Episódio 2 - Uma Poeira do Inferno",
-      "start_time": "01:36",
-      "end_time": "01:58",
-      "episode_description": "Em um leilão rústico na área do deserto de Mojave, os compradores têm de escavar fundo para encontrar um tesouro. Apesar de não gostar da região, Dave decide dar tudo de si. Enquanto isso, Mary luta por um depósito e se mantém esperançosa."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_quem-da-mais-s09e01-grande-compra-mexicana_l_m.webp",
-      "show_category": "Temporada 9 Episódio 1 - Grande Compra Mexicana",
-      "start_time": "01:58",
-      "end_time": "02:20",
-      "episode_description": "Os compradores vão a San Diego em busca de tesouros do sul da fronteira; Rene e Casey se esforçam para defender seu território contra Darrell e Brandon; Mary espera um bom lucro com um depósito de alta qualidade."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_quem-da-mais-s09e03-tartaruga-ninjga-na-meia-idade_l_m.webp",
-      "show_category": "Temporada 9 Episódio 3 - Tartaruga Ninja na Meia-Idade",
-      "start_time": "02:20",
-      "end_time": "02:42",
-      "episode_description": "Jarrod e Brandi querem lucro fácil e rápido, mas os preços altos fazem com que assumam riscos nada fáceis; Ivy entra em uma farra de compras; Rene fica empolgadíssimo com o depósito de um colecionador."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_quem-da-mais-s09e05-sonhando-com-leite-e-biscoitos_l_m.webp",
-      "show_category": "Temporada 9 Episódio 5 - Sonhando com Leite e Biscoitos",
-      "start_time": "02:42",
-      "end_time": "03:03",
-      "episode_description": "Os compradores vão aos leilões num local conhecido por grandes negócios. Mary espera seguir os outros até um bom depósito, enquanto Ivy e Rene conseguem depósitos enormes recheados de mercadorias, mas apenas um deles vai valer muito a pena."
-    },
-    {
-      "show_name": "Casos Arquivados - Mortes no Velho Oeste",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_casos-arquivados-mortes-no-velho-oeste-s01e05-mentiras-amantes-e-um-crime-no-canyon_l_m.webp",
-      "show_category": "Temporada 1 Episódio 5 - Mentiras, Amantes e um Crime no Canyon",
-      "start_time": "03:03",
-      "end_time": "03:47",
-      "episode_description": "Assassinato de Carol Murphy em floresta do Colorado em 1987 envolve triângulo amoroso e múltiplos suspeitos. Caso só é solucionado 20 anos depois com avanço tecnológico."
-    },
-    {
-      "show_name": "Acumuladores Compulsivos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_acumuladores-compulsivos_l_m.webp",
-      "show_category": "Reality",
-      "start_time": "03:47",
-      "end_time": "04:34",
-      "episode_description": "Dolores é uma sobrevivente do câncer e cuidou de sua falecida mãe. Como fuga, Dolores passou a fazer compras excessivas, o que desencadeou sua desordem de acumulação."
-    },
-    {
-      "show_name": "Acumuladores Compulsivos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_acumuladores-compulsivos_l_m.webp",
-      "show_category": "Reality",
-      "start_time": "04:34",
-      "end_time": "05:16",
-      "episode_description": "Dolores é uma sobrevivente do câncer e cuidou de sua falecida mãe. Como fuga, Dolores passou a fazer compras excessivas, o que desencadeou sua desordem de acumulação."
-    },
-    {
-      "show_name": "Clientes em Guerra",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_clientes-em-guerra-s01e11-panico-no-fast-food_l_m.webp",
-      "show_category": "Temporada 1 Episódio 11 - Pânico no Fast-Food",
-      "start_time": "05:16",
-      "end_time": "05:38",
-      "episode_description": "Cliente perde controle por falta de higiene de funcionário de um fast-food; dono de joalheria na China luta contra ladrão com faca gigante; cliente irritado puxa arma em drive-thru em Utah; esquilo confronta cliente intrometido na Geórgia."
-    },
-    {
-      "show_name": "Clientes em Guerra",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_clientes-em-guerra-s01e12-briga-no-baseball_l_m.webp",
-      "show_category": "Temporada 1 Episódio 12 - Briga no Baseball",
-      "start_time": "05:38",
-      "end_time": "06:00",
-      "episode_description": "Homem causa caos no Arkansas; torcedor começa briga em jogo de beisebol, na Filadélfia; CEO no Arizona faz comentários racistas ao seu motorista; esquilo selvagem interrompe reunião de negócios; homem encontra surpresa na lata de comida."
-    },
-    {
-      "show_name": "Casos Arquivados",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_casos-arquivados-s02e07-amor-e-odio_l_m.webp",
-      "show_category": "Temporada 2 Episódio 7 - Amor e Ódio",
-      "start_time": "06:00",
-      "end_time": "06:46",
-      "episode_description": "Existem cerca de 120 mil casos de assassinato nos Estados Unidos e apenas 1% são resolvidos."
-    },
-    {
-      "show_name": "Condenadas à Morte",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_condenadas-a-morte-s01e04-kerry-lynn-dalton_l_m.webp",
-      "show_category": "Temporada 1 Episódio 4 - Kerry Lynn Dalton",
-      "start_time": "06:46",
-      "end_time": "07:32",
-      "episode_description": "Em maio de 1995, Kerry Lyn Dalton foi condenada à morte por ter torturado e assassinado Irene Melanie May. A polícia prendeu Kerry e mais duas pessoas após algumas testemunhas relatarem às autoridades que as ouviram dizer abertamente que a mataram."
-    },
-    {
-      "show_name": "Investigação Criminal",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_investigac-o-criminal-s10e05-crime-do-tunel_l_m.webp",
-      "show_category": "Temporada 10 Episódio 5 - Crime do Túnel",
-      "start_time": "07:32",
-      "end_time": "08:18",
-      "episode_description": "O delegado Fábio Pinheiro Lopes recebe um aviso: um túnel estaria sendo cavado em São Paulo para roubarem um bilhão de reais. Imediatamente, Dr. Fábio e sua equipe começam a investigar em sigilo onde poderia ser esse assalto, e todo o esquema é descoberto."
-    },
-    {
-      "show_name": "Fama e Fentanil",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_fama-e-fentanil_l_m.webp",
-      "show_category": "Special",
-      "start_time": "08:18",
-      "end_time": "09:49",
-      "episode_description": "Obra expõe o grande drama do fentanil. Mais de 70 mil pessoas morrem a cada ano nos EUA, de celebridades a vítimas anônimas."
-    },
-    {
-      "show_name": "Casos Arquivados",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_casos-arquivados-s01e09-circulo-de-amigos_l_m.webp",
-      "show_category": "Temporada 1 Episódio 9 - Círculo de Amigos",
-      "start_time": "09:49",
-      "end_time": "10:37",
-      "episode_description": "Em 1989, um pai solteiro chega em casa após o trabalho e descobre que sua filha de 18 anos está desaparecida. A polícia deixa passar horas cruciais sem procurar pela menina, cujo corpo é encontrado dois meses depois por um caçador na floresta."
-    },
-    {
-      "show_name": "Arquivo Morto: O DNA Não Falha",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_arquivo-morto-o-dna-n-o-falha-s01e09-morte-rio-abaixo_l_m.webp",
-      "show_category": "Temporada 1 Episódio 9 - Morte Rio Abaixo",
-      "start_time": "10:37",
-      "end_time": "11:25",
-      "episode_description": "Em 1993, o corpo espancado de uma garota de 16 anos é encontrado flutuando no Rio Yakima, em Washington. A princípio, os detetives suspeitam das pessoas mais próximas dela, até que a nova tecnologia de DNA revela um assassino insensível."
-    },
-    {
-      "show_name": "Acumuladores Compulsivos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_acumuladores-compulsivos_l_m.webp",
-      "show_category": "Reality",
-      "start_time": "11:25",
-      "end_time": "12:17",
-      "episode_description": "Dolores é uma sobrevivente do câncer e cuidou de sua falecida mãe. Como fuga, Dolores passou a fazer compras excessivas, o que desencadeou sua desordem de acumulação."
-    },
-    {
-      "show_name": "Acumuladores Compulsivos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_acumuladores-compulsivos_l_m.webp",
-      "show_category": "Reality",
-      "start_time": "12:17",
-      "end_time": "13:02",
-      "episode_description": "Dolores é uma sobrevivente do câncer e cuidou de sua falecida mãe. Como fuga, Dolores passou a fazer compras excessivas, o que desencadeou sua desordem de acumulação."
-    },
-    {
-      "show_name": "Acumuladores Compulsivos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_acumuladores-compulsivos-s13e02-tiffany_l_m.webp",
-      "show_category": "Temporada 13 Episódio 2 - Tiffany",
-      "start_time": "13:02",
-      "end_time": "13:53",
-      "episode_description": "A coleção de milhares de livros com desconto ao longo dos anos danificou a propriedade da família a ponto de poder ruir a qualquer momento. Agora, Tiffany quer construir uma nova casa e viver uma vida melhor."
-    },
-    {
-      "show_name": "Acumuladores Compulsivos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_acumuladores-compulsivos-s13e02-tiffany_l_m.webp",
-      "show_category": "Temporada 13 Episódio 2 - Tiffany",
-      "start_time": "13:53",
-      "end_time": "14:43",
-      "episode_description": "A coleção de milhares de livros com desconto ao longo dos anos danificou a propriedade da família a ponto de poder ruir a qualquer momento. Agora, Tiffany quer construir uma nova casa e viver uma vida melhor."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_policia-em-ac-o-s01e03_l_m.webp",
-      "show_category": "Temporada 1 Episódio 3",
-      "start_time": "14:43",
-      "end_time": "15:08",
-      "episode_description": "Uma criança desaparecida em Connecticut; um ataque com armas em Oklahoma; uma agressão doméstica em Washington."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_policia-em-ac-o-s01e04_l_m.webp",
-      "show_category": "Temporada 1 Episódio 4",
-      "start_time": "15:08",
-      "end_time": "15:31",
-      "episode_description": "Perseguição de carro em Oklahoma; bebê em perigo em Indiana; operação antidrogas na Flórida."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_policia-em-ac-o-s01e05_l_m.webp",
-      "show_category": "Temporada 1 Episódio 5",
-      "start_time": "15:31",
-      "end_time": "15:54",
-      "episode_description": "Touro solto no Texas; acidente de carro na Flórida; perseguição de carro em Oklahoma."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_policia-em-ac-o-s01e06_l_m.webp",
-      "show_category": "Temporada 1 Episódio 6",
-      "start_time": "15:54",
-      "end_time": "16:17",
-      "episode_description": "Uma operação antidrogas em Utah; uma perseguição em alta velocidade em Kentucky; uma perseguição a pé em Connecticut."
-    },
-    {
-      "show_name": "Casos Arquivados - Mortes no Velho Oeste",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_casos-arquivados-mortes-no-velho-oeste-s01e03-assassinato-nas-montanhas-rochosas_l_m.webp",
-      "show_category": "Temporada 1 Episódio 3 - Assassinato nas Montanhas Rochosas",
-      "start_time": "16:17",
-      "end_time": "17:04",
-      "episode_description": "Carolyn Jansen, de 43 anos, é encontrada morta dentro de um contêiner envolto em fita adesiva nas Montanhas Rochosas. Os detetives têm em vista dois suspeitos. No entanto, eles não sabem ao certo quem a assassinou."
-    },
-    {
-      "show_name": "Falco",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_falco-s01e06-juegos-mentales_l_m.webp",
-      "show_category": "Temporada 1 Episódio 6 - Cara a Cara com a Morte",
-      "start_time": "17:04",
-      "end_time": "18:00",
-      "episode_description": "Falco não consegue se lembrar do que aconteceu naquele dia sombrio de 1991, quando entrou em coma, e assim não consegue seguir em frente."
-    },
-    {
-      "show_name": "Condenadas à Morte",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_condenadas-a-morte-s01e06-melissa-lucio_l_m.webp",
-      "show_category": "Temporada 1 Episódio 6 - Melissa Lucio",
-      "start_time": "18:00",
-      "end_time": "18:46",
-      "episode_description": "Em 10 de julho de 2008, Melissa Lucio foi condenada à morte pelo assassinato de sua filha Mariah, de dois anos. O Projeto Inocência investiga seu caso e descobre problemas surpreendentes, mas as autoridades não mostram vontade de intervir."
-    },
-    {
-      "show_name": "Investigação Criminal",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_investigac-o-criminal-s10e14-filho-heroi_l_m.webp",
-      "show_category": "Temporada 10 Episódio 14 - Filho Herói",
-      "start_time": "18:46",
-      "end_time": "19:41",
-      "episode_description": "Em 2010, Elder Alves foi fatalmente acertado por Cícero Manoel Júlio da Silva em uma vingança por um relacionamento com a ex-esposa de Elder. Seu filho, Leandro, descobre que o suspeito abriu uma empresa usando seu nome verdadeiro em Aracaju."
-    },
-    {
       "show_name": "Os Segredos dos Assassinatos de Chippendales",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_os-segredos-dos-assassinatos-de-chippendales-s01e01-o-homem-perfeito_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-segredos-dos-assassinatos-de-chippendales-s01e01-o-homem-perfeito_l_m.jpg",
       "show_category": "Temporada 1 Episódio 1 - O Homem Perfeito",
-      "start_time": "19:41",
-      "end_time": "20:28",
+      "start_time": "00:42",
+      "end_time": "01:29",
       "episode_description": "Nos anos 80, Chippendales era um verdadeiro fenômeno mundial criado por Steve Banerjee, um indiano em busca do sonho americano, e Nick De Noia, um produtor de televisão com talento para transformar homens musculosos em dançarinos."
     },
     {
       "show_name": "Segredos das Celebridades - Sex Tapes",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_segredos-das-celebridades-sex-tapes-s01e01-o-nascimento-da-sex-tape_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_segredos-das-celebridades-sex-tapes-s01e01-o-nascimento-da-sex-tape_l_m.jpg",
       "show_category": "Temporada 1 Episódio 1 - O Nascimento da Sex Tape",
-      "start_time": "20:28",
-      "end_time": "21:14",
+      "start_time": "01:29",
+      "end_time": "02:15",
       "episode_description": ""
     },
     {
       "show_name": "Segredos das Celebridades - Sex Tapes",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_segredos-das-celebridades-sex-tapes-s01e02-pamela-anderson-e-tommy-lee_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_segredos-das-celebridades-sex-tapes-s01e02-pamela-anderson-e-tommy-lee_l_m.jpg",
       "show_category": "Temporada 1 Episódio 2 - Pamela Anderson e Tommy Lee",
-      "start_time": "21:14",
-      "end_time": "22:00",
+      "start_time": "02:15",
+      "end_time": "03:01",
       "episode_description": ""
     },
     {
+      "show_name": "Casos Arquivados - Mortes no Velho Oeste",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_casos-arquivados-mortes-no-velho-oeste-s01e03-assassinato-nas-montanhas-rochosas_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3 - Assassinato nas Montanhas Rochosas",
+      "start_time": "03:01",
+      "end_time": "03:46",
+      "episode_description": "Carolyn Jansen, de 43 anos, é encontrada morta dentro de um contêiner envolto em fita adesiva nas Montanhas Rochosas. Os detetives têm em vista dois suspeitos. No entanto, eles não sabem ao certo quem a assassinou."
+    },
+    {
+      "show_name": "Acumuladores Compulsivos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "03:46",
+      "end_time": "04:28",
+      "episode_description": "Lutando contra a deficiência e com o tempo disponível, Meryl persegue um pico de compras. Isso levou a uma dívida enorme e um desentendimento com o irmão de Meryl e sua família. A cidade de Worchester descobriu sobre a condição de vida extremamente desordenada de Meryl e está ameaçando seriamente com despejo e limpeza forçada. Agora, com a ajuda da equipe de especialistas do Hoarders, ou Meryl limpará a propriedade ou a aplicação do código entrará em ação e Meryl perderá tudo."
+    },
+    {
+      "show_name": "Acumuladores Compulsivos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "04:28",
+      "end_time": "05:16",
+      "episode_description": "Lutando contra a deficiência e com o tempo disponível, Meryl persegue um pico de compras. Isso levou a uma dívida enorme e um desentendimento com o irmão de Meryl e sua família. A cidade de Worchester descobriu sobre a condição de vida extremamente desordenada de Meryl e está ameaçando seriamente com despejo e limpeza forçada. Agora, com a ajuda da equipe de especialistas do Hoarders, ou Meryl limpará a propriedade ou a aplicação do código entrará em ação e Meryl perderá tudo."
+    },
+    {
+      "show_name": "Clientes em Guerra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_clientes-em-guerra-s01e13-servico-de-leitura-labial_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 13 - Serviço de Leitura Labial",
+      "start_time": "05:16",
+      "end_time": "05:38",
+      "episode_description": "Um cliente em Ohio briga com funcionários de fast-food; um escocês tem dificuldade em fazer pedidos em um drive-thru; ladrões tentam roubar loja de armas; garçom coloca cliente em seu lugar; mulher acusa homem de roubar seu telefone em supermercado."
+    },
+    {
+      "show_name": "Clientes em Guerra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_clientes-em-guerra-s01e14-pesadelo-no-sal-o-de-manicure_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 14 - Pesadelo no Salão de Manicure",
+      "start_time": "05:38",
+      "end_time": "06:00",
+      "episode_description": "Casal é expulso de voo após se recusar a seguir instruções; garota fica presa em máquina de chicletes; cliente aterroriza outros clientes com machado em restaurante; cliente vinga-se de seu barbeiro de forma viral; cliente tenta fugir sem pagar."
+    },
+    {
+      "show_name": "Casos Arquivados",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_casos-arquivados-s02e04-o-professor-da-escola_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 4 - O Professor da Escola",
+      "start_time": "06:00",
+      "end_time": "06:46",
+      "episode_description": "A professora Christy Mirack, de 25 anos, é encontrada brutalmente assassinada em seu apartamento em Lancaster, Pensilvânia, em 1992, mas não faltam suspeitos."
+    },
+    {
+      "show_name": "Assassinatos em Motéis",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_assassinatos-em-moteis-s01e05-um-crime-chocante_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 5 - Um Crime Chocante",
+      "start_time": "06:46",
+      "end_time": "07:32",
+      "episode_description": "Em Riverside, os delegados do xerife descobrem um veículo abandonado com os corpos de dois homens brutalmente assassinados escondidos no porta-malas. Os investigadores seguem todas as pistas possíveis tentando encontrar respostas."
+    },
+    {
+      "show_name": "Acusado - Fui Eu que Fiz Isso?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_acusado-fui-eu-que-fiz-isso-s01e02-motorista-assassino-ou-vitima-de-um-acidente_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Motorista Assassino ou Vítima de um Acidente?",
+      "start_time": "07:32",
+      "end_time": "08:18",
+      "episode_description": "Uma jovem mãe volta para casa após ter trabalhado a noite toda e colide frontalmente com outro veículo, matando o motorista. A acusação alega que ela estava sob efeito de álcool. Porém, a defesa tenta apresentar outra versão e procura evidências."
+    },
+    {
+      "show_name": "Cidade Confidencial",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidade-confidencial-s09e03-o-predador-de-kansas_l_m.jpg",
+      "show_category": "Temporada 9 Episódio 3 - O Predador de Kansas",
+      "start_time": "08:18",
+      "end_time": "09:04",
+      "episode_description": "Os mistérios de cidades grandes ou pequenas dos Estados Unidos são descobertos escondidos pelas ruas e na vida cotidiana."
+    },
+    {
+      "show_name": "Cidade Confidencial",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidade-confidencial-s09e04-soldado-caido-em-fort-meade_l_m.jpg",
+      "show_category": "Temporada 9 Episódio 4 - Soldado Caído em Fort Meade",
+      "start_time": "09:04",
+      "end_time": "09:50",
+      "episode_description": "Os mistérios de cidades grandes ou pequenas dos Estados Unidos são descobertos escondidos pelas ruas e na vida cotidiana."
+    },
+    {
+      "show_name": "Casos Arquivados",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_casos-arquivados-s01e02_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Morte na Véspera do Natal",
+      "start_time": "09:50",
+      "end_time": "10:36",
+      "episode_description": "Uma família fica destroçada após o assassinato de seus avós. Duas décadas mais tarde, um detetive decide investigar o caso que o impressiona desde que era adolescente, antes que a família faça justiça com as próprias mãos."
+    },
+    {
+      "show_name": "Arquivo Morto: O DNA Não Falha",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_arquivo-morto-o-dna-n-o-falha-s01e08-rede-de-mentiras-mortal_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 8 - Rede de Mentiras Mortal",
+      "start_time": "10:36",
+      "end_time": "11:22",
+      "episode_description": "O jogador Scott Martinez, 47 anos, é encontrado estripado por uma espada em sua casa em La Mesa, Califórnia, os investigadores não conseguem dizer quem está dizendo a verdade dentro de seu círculo íntimo."
+    },
+    {
+      "show_name": "Acumuladores Compulsivos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "11:22",
+      "end_time": "12:12",
+      "episode_description": "Lutando contra a deficiência e com o tempo disponível, Meryl persegue um pico de compras. Isso levou a uma dívida enorme e um desentendimento com o irmão de Meryl e sua família. A cidade de Worchester descobriu sobre a condição de vida extremamente desordenada de Meryl e está ameaçando seriamente com despejo e limpeza forçada. Agora, com a ajuda da equipe de especialistas do Hoarders, ou Meryl limpará a propriedade ou a aplicação do código entrará em ação e Meryl perderá tudo."
+    },
+    {
+      "show_name": "Acumuladores Compulsivos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "12:12",
+      "end_time": "12:58",
+      "episode_description": "Lutando contra a deficiência e com o tempo disponível, Meryl persegue um pico de compras. Isso levou a uma dívida enorme e um desentendimento com o irmão de Meryl e sua família. A cidade de Worchester descobriu sobre a condição de vida extremamente desordenada de Meryl e está ameaçando seriamente com despejo e limpeza forçada. Agora, com a ajuda da equipe de especialistas do Hoarders, ou Meryl limpará a propriedade ou a aplicação do código entrará em ação e Meryl perderá tudo."
+    },
+    {
+      "show_name": "Acumuladores Compulsivos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos-s13e03-paul_l_m.jpg",
+      "show_category": "Temporada 13 Episódio 3 - Paul",
+      "start_time": "12:58",
+      "end_time": "13:52",
+      "episode_description": "Após a trágica perda de seu parceiro, Paul lidou com a dor coletando itens para usar em seu negócio de design de interiores."
+    },
+    {
+      "show_name": "Acumuladores Compulsivos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "13:52",
+      "end_time": "14:42",
+      "episode_description": "Lutando contra a deficiência e com o tempo disponível, Meryl persegue um pico de compras. Isso levou a uma dívida enorme e um desentendimento com o irmão de Meryl e sua família. A cidade de Worchester descobriu sobre a condição de vida extremamente desordenada de Meryl e está ameaçando seriamente com despejo e limpeza forçada. Agora, com a ajuda da equipe de especialistas do Hoarders, ou Meryl limpará a propriedade ou a aplicação do código entrará em ação e Meryl perderá tudo."
+    },
+    {
+      "show_name": "Polícia em Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s01e05_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 5",
+      "start_time": "14:42",
+      "end_time": "15:07",
+      "episode_description": "Touro solto no Texas; acidente de carro na Flórida; perseguição de carro em Oklahoma."
+    },
+    {
+      "show_name": "Polícia em Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s01e06_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 6",
+      "start_time": "15:07",
+      "end_time": "15:32",
+      "episode_description": "Uma operação antidrogas em Utah; uma perseguição em alta velocidade em Kentucky; uma perseguição a pé em Connecticut."
+    },
+    {
+      "show_name": "Polícia em Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s01e07_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 7",
+      "start_time": "15:32",
+      "end_time": "15:57",
+      "episode_description": "Uma perseguição a pé na Flórida; uma operação antidrogas em Utah; resistência à prisão em Oklahoma."
+    },
+    {
+      "show_name": "Polícia em Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s01e08_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 8",
+      "start_time": "15:57",
+      "end_time": "16:22",
+      "episode_description": "Um motorista bêbado na Flórida; uma agressão na Carolina do Sul; uma operação antidrogas no Texas."
+    },
+    {
+      "show_name": "Casos Arquivados - Mortes no Velho Oeste",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_casos-arquivados-mortes-no-velho-oeste-s01e04-assassinato-em-salt-lake-city_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - Assassinato em Salt Lake City",
+      "start_time": "16:22",
+      "end_time": "17:12",
+      "episode_description": "Uma mulher de 64 anos muito querida é assassinada em sua livraria de livros raros em Salt Lake City. Os investigadores suspeitam que o motivo tenha sido um roubo. O caso esfria, mas sua filha consegue levar o assassino até a justiça."
+    },
+    {
       "show_name": "Falco",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_falco-s02e01-como-irm-os_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_falco-s02e01-como-irm-os_l_m.jpg",
       "show_category": "Temporada 2 Episódio 1 - Como Irmãos",
-      "start_time": "22:00",
-      "end_time": "22:52",
+      "start_time": "17:12",
+      "end_time": "18:05",
       "episode_description": "Uma menina de três anos é encontrada vagando pela floresta. Em seus braços, um ursinho de pelúcia manchado de sangue. A criança, identificada pelos investigadores, está ilesa. No entanto, seu irmão, Matthew, desapareceu."
     },
     {
-      "show_name": "Condenadas à Morte",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_condenadas-a-morte-s01e06-melissa-lucio_l_m.webp",
-      "show_category": "Temporada 1 Episódio 6 - Melissa Lucio",
-      "start_time": "22:52",
-      "end_time": "23:47",
-      "episode_description": "Em 10 de julho de 2008, Melissa Lucio foi condenada à morte pelo assassinato de sua filha Mariah, de dois anos. O Projeto Inocência investiga seu caso e descobre problemas surpreendentes, mas as autoridades não mostram vontade de intervir."
+      "show_name": "Assassinatos em Motéis",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_assassinatos-em-moteis-s01e05-um-crime-chocante_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 5 - Um Crime Chocante",
+      "start_time": "18:05",
+      "end_time": "18:52",
+      "episode_description": "Em Riverside, os delegados do xerife descobrem um veículo abandonado com os corpos de dois homens brutalmente assassinados escondidos no porta-malas. Os investigadores seguem todas as pistas possíveis tentando encontrar respostas."
     },
     {
-      "show_name": "Investigação Criminal",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/a-e/tomorrow/br_investigac-o-criminal-s10e14-filho-heroi_l_m.webp",
-      "show_category": "Temporada 10 Episódio 14 - Filho Herói",
-      "start_time": "23:47",
+      "show_name": "Mulheres Perigosas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mulheres-perigosas-s01e02-josephine-gray_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Josephine Gray",
+      "start_time": "18:52",
+      "end_time": "19:39",
+      "episode_description": "A cena de um crime é manipulada para parecer um negócio de drogas fracassado e os detetives entendem imediatamente que estão lidando com um caso complexo. À medida que investigam, eles descobrem mentiras, rituais de vodu e vários corpos."
+    },
+    {
+      "show_name": "Acusado - Fui Eu que Fiz Isso?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_acusado-fui-eu-que-fiz-isso-s01e09-tiro-na-escada-ou-pai-em-legitima-defesa_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 9 - Atirador da Rodovia ou Pai Inocente?",
+      "start_time": "19:39",
+      "end_time": "20:26",
+      "episode_description": "Um homem atira na perna do namorado de sua ex-companheira. Ao ser acusado, ele alega que fez isso apenas para defendê-la e ao filho deles de um intruso. No entanto, a acusação afirma que o vídeo do incidente mostra que foi um ataque."
+    },
+    {
+      "show_name": "Cidade Confidencial",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidade-confidencial-s09e04-soldado-caido-em-fort-meade_l_m.jpg",
+      "show_category": "Temporada 9 Episódio 4 - Soldado Caído em Fort Meade",
+      "start_time": "20:26",
+      "end_time": "21:13",
+      "episode_description": "Os mistérios de cidades grandes ou pequenas dos Estados Unidos são descobertos escondidos pelas ruas e na vida cotidiana."
+    },
+    {
+      "show_name": "Cidade Confidencial",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidade-confidencial-s09e05-dor-a-meia-noite-na-georgia_l_m.jpg",
+      "show_category": "Temporada 9 Episódio 5 - Dor à Meia-Noite na Geórgia",
+      "start_time": "21:13",
+      "end_time": "22:00",
+      "episode_description": "O espírito natalino se desvanece na cidade de Marietta, Geórgia, quando um de seus moradores mais festivos é encontrado morto dentro de sua própria casa. A polícia depende dos vizinhos para desvendar uma trama muito traiçoeira que revela segredos ocultos e um culpado totalmente inesperado."
+    },
+    {
+      "show_name": "Falco",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_falco-s02e02-morte-na-alma_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 2 - Morte na Alma",
+      "start_time": "22:00",
+      "end_time": "22:56",
+      "episode_description": "O corpo de uma jovem é encontrado em um barco à deriva pela correnteza. A conclusão de Chéron é clara: morte por causas naturais. No entanto, a identidade da jovem é um grande choque para os investigadores: o corpo pertence a Clara Benetti."
+    },
+    {
+      "show_name": "Assassinatos em Motéis",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_assassinatos-em-moteis-s01e05-um-crime-chocante_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 5 - Um Crime Chocante",
+      "start_time": "22:56",
+      "end_time": "23:46",
+      "episode_description": "Em Riverside, os delegados do xerife descobrem um veículo abandonado com os corpos de dois homens brutalmente assassinados escondidos no porta-malas. Os investigadores seguem todas as pistas possíveis tentando encontrar respostas."
+    },
+    {
+      "show_name": "Mulheres Perigosas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mulheres-perigosas-s01e01-melissa-friedrich_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - Melissa Friedrich",
+      "start_time": "23:46",
       "end_time": "",
-      "episode_description": "Em 2010, Elder Alves foi fatalmente acertado por Cícero Manoel Júlio da Silva em uma vingança por um relacionamento com a ex-esposa de Elder. Seu filho, Leandro, descobre que o suspeito abriu uma empresa usando seu nome verdadeiro em Aracaju."
+      "episode_description": "Uma mulher canadense encontra o amor na internet e deixa um rastro de amantes adoecidos."
     }
   ]
 }
