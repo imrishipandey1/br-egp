@@ -1,322 +1,242 @@
 {
   "channel": "Play TV",
-  "date": "11/02/2026",
+  "date": "12/02/2026",
   "schedule": [
     {
       "show_name": "Joias Vip",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_joias-vip-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_joias-vip-1_l_m.jpg",
       "show_category": "Consumer",
       "start_time": "00:00",
       "end_time": "03:00",
       "episode_description": "Encontre lindas joias e relógios e peças em prata, com preços que cabem no seu bolso."
     },
     {
-      "show_name": "Hentai Night",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/fallback_other_l_m.webp",
-      "show_category": "Adults only",
-      "start_time": "03:00",
-      "end_time": "03:15",
-      "episode_description": "Uma faixa exclusiva para exibição de hentais que são pura diversão."
-    },
-    {
-      "show_name": "Caliente",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_caliente_l_m.webp",
-      "show_category": "Music",
-      "start_time": "03:15",
-      "end_time": "03:20",
-      "episode_description": "Verão, calor, balada, pegação e muita música para embalar tudo isso. Sua madrugada fica mais quente com esta seleção dos clipes mais sensuais dos artistas do momento."
-    },
-    {
-      "show_name": "Caliente",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_caliente_l_m.webp",
-      "show_category": "Music",
-      "start_time": "03:20",
-      "end_time": "03:25",
-      "episode_description": "Verão, calor, balada, pegação e muita música para embalar tudo isso. Sua madrugada fica mais quente com esta seleção dos clipes mais sensuais dos artistas do momento."
-    },
-    {
-      "show_name": "Caliente",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_caliente_l_m.webp",
-      "show_category": "Music",
-      "start_time": "03:25",
-      "end_time": "03:30",
-      "episode_description": "Verão, calor, balada, pegação e muita música para embalar tudo isso. Sua madrugada fica mais quente com esta seleção dos clipes mais sensuais dos artistas do momento."
-    },
-    {
-      "show_name": "Interferência 80s",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_interferencia-80s_l_m.webp",
-      "show_category": "Music",
-      "start_time": "03:30",
-      "end_time": "03:35",
-      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 1980."
-    },
-    {
-      "show_name": "Interferência 80s",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_interferencia-80s_l_m.webp",
-      "show_category": "Music",
-      "start_time": "03:35",
-      "end_time": "03:40",
-      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 1980."
-    },
-    {
-      "show_name": "Interferência 80s",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_interferencia-80s_l_m.webp",
-      "show_category": "Music",
-      "start_time": "03:40",
-      "end_time": "03:45",
-      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 1980."
-    },
-    {
-      "show_name": "Interferência 80s",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_interferencia-80s_l_m.webp",
-      "show_category": "Music",
-      "start_time": "03:45",
-      "end_time": "03:50",
-      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 1980."
-    },
-    {
-      "show_name": "Interferência 80s",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_interferencia-80s_l_m.webp",
-      "show_category": "Music",
-      "start_time": "03:50",
-      "end_time": "03:55",
-      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 1980."
-    },
-    {
-      "show_name": "Interferência 80s",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_interferencia-80s_l_m.webp",
-      "show_category": "Music",
-      "start_time": "03:55",
-      "end_time": "04:00",
-      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 1980."
-    },
-    {
-      "show_name": "Interferência 90s",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_interferencia-90s_l_m.webp",
-      "show_category": "Music",
-      "start_time": "04:00",
-      "end_time": "04:05",
-      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 1990."
-    },
-    {
-      "show_name": "Interferência 90s",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_interferencia-90s_l_m.webp",
-      "show_category": "Music",
-      "start_time": "04:05",
-      "end_time": "04:10",
-      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 1990."
-    },
-    {
-      "show_name": "Interferência 90s",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_interferencia-90s_l_m.webp",
-      "show_category": "Music",
-      "start_time": "04:10",
-      "end_time": "04:15",
-      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 1990."
-    },
-    {
-      "show_name": "Interferência 90s",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_interferencia-90s_l_m.webp",
-      "show_category": "Music",
-      "start_time": "04:15",
-      "end_time": "04:20",
-      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 1990."
-    },
-    {
-      "show_name": "Interferência 90s",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_interferencia-90s_l_m.webp",
-      "show_category": "Music",
-      "start_time": "04:20",
-      "end_time": "04:25",
-      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 1990."
-    },
-    {
-      "show_name": "Interferência 90s",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_interferencia-90s_l_m.webp",
-      "show_category": "Music",
-      "start_time": "04:25",
-      "end_time": "04:30",
-      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 1990."
-    },
-    {
-      "show_name": "Interferência 00s",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_interferencia-00s_l_m.webp",
-      "show_category": "Music",
-      "start_time": "04:30",
-      "end_time": "04:35",
-      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 2000."
-    },
-    {
-      "show_name": "Interferência 00s",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_interferencia-00s_l_m.webp",
-      "show_category": "Music",
-      "start_time": "04:35",
-      "end_time": "04:40",
-      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 2000."
-    },
-    {
-      "show_name": "Interferência 00s",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_interferencia-00s_l_m.webp",
-      "show_category": "Music",
-      "start_time": "04:40",
-      "end_time": "04:45",
-      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 2000."
-    },
-    {
-      "show_name": "Interferência 00s",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_interferencia-00s_l_m.webp",
-      "show_category": "Music",
-      "start_time": "04:45",
-      "end_time": "04:50",
-      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 2000."
-    },
-    {
-      "show_name": "Interferência 00s",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_interferencia-00s_l_m.webp",
-      "show_category": "Music",
-      "start_time": "04:50",
-      "end_time": "04:55",
-      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 2000."
-    },
-    {
-      "show_name": "Interferência 00s",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_interferencia-00s_l_m.webp",
-      "show_category": "Music",
-      "start_time": "04:55",
-      "end_time": "05:00",
-      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 2000."
-    },
-    {
-      "show_name": "Clip K",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_clip-k_l_m.webp",
-      "show_category": "Music",
-      "start_time": "05:00",
-      "end_time": "05:05",
-      "episode_description": "Sequência de clipes de música pop coreana, o chamado k-pop. O gênero musical originado na Coreia do Sul se caracteriza pela variedade de elementos audiovisuais em suas exibições, em shows e vídeos."
-    },
-    {
-      "show_name": "Clip K",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_clip-k_l_m.webp",
-      "show_category": "Music",
-      "start_time": "05:05",
-      "end_time": "05:10",
-      "episode_description": "Sequência de clipes de música pop coreana, o chamado k-pop. O gênero musical originado na Coreia do Sul se caracteriza pela variedade de elementos audiovisuais em suas exibições, em shows e vídeos."
-    },
-    {
-      "show_name": "Clip K",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_clip-k_l_m.webp",
-      "show_category": "Music",
-      "start_time": "05:10",
-      "end_time": "05:15",
-      "episode_description": "Sequência de clipes de música pop coreana, o chamado k-pop. O gênero musical originado na Coreia do Sul se caracteriza pela variedade de elementos audiovisuais em suas exibições, em shows e vídeos."
-    },
-    {
-      "show_name": "Clip K",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_clip-k_l_m.webp",
-      "show_category": "Music",
-      "start_time": "05:15",
-      "end_time": "05:20",
-      "episode_description": "Sequência de clipes de música pop coreana, o chamado k-pop. O gênero musical originado na Coreia do Sul se caracteriza pela variedade de elementos audiovisuais em suas exibições, em shows e vídeos."
-    },
-    {
-      "show_name": "Clip K",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_clip-k_l_m.webp",
-      "show_category": "Music",
-      "start_time": "05:20",
-      "end_time": "05:25",
-      "episode_description": "Sequência de clipes de música pop coreana, o chamado k-pop. O gênero musical originado na Coreia do Sul se caracteriza pela variedade de elementos audiovisuais em suas exibições, em shows e vídeos."
-    },
-    {
-      "show_name": "Clip K",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_clip-k_l_m.webp",
-      "show_category": "Music",
-      "start_time": "05:25",
-      "end_time": "05:30",
-      "episode_description": "Sequência de clipes de música pop coreana, o chamado k-pop. O gênero musical originado na Coreia do Sul se caracteriza pela variedade de elementos audiovisuais em suas exibições, em shows e vídeos."
-    },
-    {
-      "show_name": "PlayHit",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_playhit-1_l_m.webp",
-      "show_category": "Gaming",
-      "start_time": "05:30",
-      "end_time": "06:00",
-      "episode_description": "Videoclipes especiais misturam imagens dos games favoritos com sucessos, clássicos e novidades da música pop e do rock."
-    },
-    {
       "show_name": "Ponto Pop",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_ponto-pop_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ponto-pop_l_m.jpg",
       "show_category": "Talk",
-      "start_time": "06:00",
-      "end_time": "06:30",
+      "start_time": "03:00",
+      "end_time": "03:30",
       "episode_description": "Confira as atualidades do universo da música pop e fique em sintonia com os últimos lançamentos, curiosidades e a carreira dos nomes mais tocados nas FMs do mundo todo."
     },
     {
-      "show_name": "100% Brasil",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_100-brasil_l_m.webp",
+      "show_name": "Caliente",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_caliente_l_m.jpg",
       "show_category": "Music",
-      "start_time": "06:30",
-      "end_time": "07:00",
-      "episode_description": "Exibição de sequência de videoclipes de artistas brasileiros."
+      "start_time": "03:30",
+      "end_time": "03:35",
+      "episode_description": "Verão, calor, balada, pegação e muita música para embalar tudo isso. Sua madrugada fica mais quente com esta seleção dos clipes mais sensuais dos artistas do momento."
+    },
+    {
+      "show_name": "Caliente",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_caliente_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "03:35",
+      "end_time": "03:40",
+      "episode_description": "Verão, calor, balada, pegação e muita música para embalar tudo isso. Sua madrugada fica mais quente com esta seleção dos clipes mais sensuais dos artistas do momento."
+    },
+    {
+      "show_name": "Caliente",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_caliente_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "03:40",
+      "end_time": "03:45",
+      "episode_description": "Verão, calor, balada, pegação e muita música para embalar tudo isso. Sua madrugada fica mais quente com esta seleção dos clipes mais sensuais dos artistas do momento."
+    },
+    {
+      "show_name": "Caliente",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_caliente_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "03:45",
+      "end_time": "03:50",
+      "episode_description": "Verão, calor, balada, pegação e muita música para embalar tudo isso. Sua madrugada fica mais quente com esta seleção dos clipes mais sensuais dos artistas do momento."
+    },
+    {
+      "show_name": "Caliente",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_caliente_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "03:50",
+      "end_time": "03:55",
+      "episode_description": "Verão, calor, balada, pegação e muita música para embalar tudo isso. Sua madrugada fica mais quente com esta seleção dos clipes mais sensuais dos artistas do momento."
+    },
+    {
+      "show_name": "Caliente",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_caliente_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "03:55",
+      "end_time": "04:00",
+      "episode_description": "Verão, calor, balada, pegação e muita música para embalar tudo isso. Sua madrugada fica mais quente com esta seleção dos clipes mais sensuais dos artistas do momento."
+    },
+    {
+      "show_name": "Interferência 80s",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_interferencia-80s_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "04:00",
+      "end_time": "04:05",
+      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 1980."
+    },
+    {
+      "show_name": "Interferência 80s",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_interferencia-80s_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "04:05",
+      "end_time": "04:10",
+      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 1980."
+    },
+    {
+      "show_name": "Interferência 80s",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_interferencia-80s_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "04:10",
+      "end_time": "04:15",
+      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 1980."
+    },
+    {
+      "show_name": "Interferência 80s",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_interferencia-80s_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "04:15",
+      "end_time": "04:20",
+      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 1980."
+    },
+    {
+      "show_name": "Interferência 80s",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_interferencia-80s_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "04:20",
+      "end_time": "04:25",
+      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 1980."
+    },
+    {
+      "show_name": "Interferência 80s",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_interferencia-80s_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "04:25",
+      "end_time": "04:30",
+      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 1980."
     },
     {
       "show_name": "Interferência 90s",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_interferencia-90s_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_interferencia-90s_l_m.jpg",
       "show_category": "Music",
-      "start_time": "07:00",
-      "end_time": "07:30",
+      "start_time": "04:30",
+      "end_time": "04:35",
       "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 1990."
     },
     {
-      "show_name": "Nerd Rank",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_nerd-rank_l_m.webp",
-      "show_category": "Variety",
-      "start_time": "07:30",
-      "end_time": "08:00",
-      "episode_description": "Dudu Saad dá sua opinião sobre animes, conta curiosidades e cria listas."
+      "show_name": "Interferência 90s",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_interferencia-90s_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "04:35",
+      "end_time": "04:40",
+      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 1990."
     },
     {
-      "show_name": "Oi! Tonbo",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_oi-tonbo-s01e06-rival-de-okinawa_l_m.webp",
-      "show_category": "Temporada 1 Episódio 6 - Rival de Okinawa?!",
-      "start_time": "08:00",
-      "end_time": "08:30",
-      "episode_description": "Para inspirar Tonbo que se recusa a sair da ilha, Igarashi vai a Kagoshima em busca de um golfista com a mesma idade e habilidades de Tonbo, mas não encontra ninguém. Porém, Igarashi fica animado ao saber da sobrinha de Yoko que ganhou um torneio."
+      "show_name": "Interferência 90s",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_interferencia-90s_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "04:40",
+      "end_time": "04:45",
+      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 1990."
     },
     {
-      "show_name": "Needless",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_needless-s01e01_l_m.webp",
-      "show_category": "Temporada 1 Episódio 1",
-      "start_time": "08:30",
-      "end_time": "09:00",
-      "episode_description": "Após um ataque a uma corporação maligna, a irmã de um jovem rebelde é morta; Cruz é acolhido por um bando de mutantes com poderes estranhos e surpreendentes chamados Needless."
+      "show_name": "Interferência 90s",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_interferencia-90s_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "04:45",
+      "end_time": "04:50",
+      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 1990."
     },
     {
-      "show_name": "Sonic X",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_sonic-x-s02e01-o-comeco-do-desastre_l_m.webp",
-      "show_category": "Temporada 2 Episódio 1 - O Começo do Desastre",
-      "start_time": "09:00",
-      "end_time": "09:30",
-      "episode_description": "Sonic não consegue retornar ao seu mundo. Seis meses depois, um gato e seu amigo, Froggy, encontram uma esmeralda do caos. Em sua base, Eggman está fazendo uma série de robôs que usam a energia dos animais que eles contêm dentro."
+      "show_name": "Interferência 90s",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_interferencia-90s_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "04:50",
+      "end_time": "04:55",
+      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 1990."
+    },
+    {
+      "show_name": "Interferência 90s",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_interferencia-90s_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "04:55",
+      "end_time": "05:00",
+      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 1990."
+    },
+    {
+      "show_name": "Tecla SAP",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tecla-sap_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "05:00",
+      "end_time": "06:00",
+      "episode_description": "Uma seleção especial de videoclipes legendados."
+    },
+    {
+      "show_name": "Play Lo-Fi",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_play-lo-fi_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": "Uma seleção especial de videoclipes com os principais expoentes do lo-fi na atualidade."
+    },
+    {
+      "show_name": "PlayHit",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_playhit-1_l_m.jpg",
+      "show_category": "Gaming",
+      "start_time": "06:30",
+      "end_time": "07:00",
+      "episode_description": "Videoclipes especiais misturam imagens dos games favoritos com sucessos, clássicos e novidades da música pop e do rock."
+    },
+    {
+      "show_name": "Interferência 00s",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_interferencia-00s_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "07:00",
+      "end_time": "07:30",
+      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 2000."
     },
     {
       "show_name": "Game Over",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_game-over_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_game-over_l_m.jpg",
       "show_category": "Gaming",
-      "start_time": "09:30",
-      "end_time": "10:00",
+      "start_time": "07:30",
+      "end_time": "08:00",
       "episode_description": "Acompanhe as melhores análises, entrevistas, matérias, trailers e tudo sobre o mundo dos games."
     },
     {
+      "show_name": "Crossplay",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_crossplay_l_m.jpg",
+      "show_category": "",
+      "start_time": "08:00",
+      "end_time": "09:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Sonic X",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sonic-x-s02e02_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 2",
+      "start_time": "09:00",
+      "end_time": "09:30",
+      "episode_description": "Sonic é acidentalmente transportado para o mundo dos humanos com Tails, Knuckles, Amy e os demais. Lá, Sonic e seus amigos conhecerão humanos pela primeira vez, além do Dr. Robotnik."
+    },
+    {
       "show_name": "Operação Zenkai",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_operac-o-zenkai_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_operac-o-zenkai_l_m.jpg",
       "show_category": "Entertainment",
-      "start_time": "10:00",
-      "end_time": "11:00",
+      "start_time": "09:30",
+      "end_time": "10:45",
       "episode_description": "Debates sobre o universo otaku, analisando clássicos e atualidades da cultura pop."
     },
     {
+      "show_name": "UTC - Não Pode Rir",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_utc-n-o-pode-rir_l_m.jpg",
+      "show_category": "Comedy",
+      "start_time": "10:45",
+      "end_time": "11:00",
+      "episode_description": "Os Castro Brothers apresentam o Ultimate Trocadilho Championship na TV. Quem rir primeiro perde."
+    },
+    {
       "show_name": "Debate Placar",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_soccer-debate-placar_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-debate-placar_l_m.jpg",
       "show_category": "",
       "start_time": "11:00",
       "end_time": "13:00",
@@ -324,87 +244,95 @@
     },
     {
       "show_name": "Placar Aberto",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_placar-aberto_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_placar-aberto_l_m.jpg",
       "show_category": "Sports talk",
       "start_time": "13:00",
-      "end_time": "13:45",
+      "end_time": "14:45",
       "episode_description": "As principais noticias e análises do futebol carioca, comandado pela revista Placar."
     },
     {
-      "show_name": "Play News",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_play-news-s02e29_l_m.webp",
-      "show_category": "Temporada 2 Episódio 29",
-      "start_time": "13:45",
+      "show_name": "História dos Games",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_historia-dos-games-s01e09-phantom_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 9 - Phantom",
+      "start_time": "14:45",
       "end_time": "15:00",
-      "episode_description": "Os filmes mais esperados de 2026. Leo Zalcman comenta as notícias do momento de uma maneira pouco usual."
+      "episode_description": "Os jogos eletrônicos que encantam há décadas têm muitas histórias para contar. Matheus Carvalho descobre curiosidades e aprende sobre diversos games."
     },
     {
       "show_name": "Joias Vip",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_joias-vip-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_joias-vip-1_l_m.jpg",
       "show_category": "Consumer",
       "start_time": "15:00",
       "end_time": "18:00",
       "episode_description": "Encontre lindas joias e relógios e peças em prata, com preços que cabem no seu bolso."
     },
     {
-      "show_name": "Sonic X",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_sonic-x-s02e01-o-comeco-do-desastre_l_m.webp",
-      "show_category": "Temporada 2 Episódio 1 - O Começo do Desastre",
+      "show_name": "W7M TV",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_w7m-tv_l_m.jpg",
+      "show_category": "Entertainment",
       "start_time": "18:00",
       "end_time": "18:30",
-      "episode_description": "Sonic não consegue retornar ao seu mundo. Seis meses depois, um gato e seu amigo, Froggy, encontram uma esmeralda do caos. Em sua base, Eggman está fazendo uma série de robôs que usam a energia dos animais que eles contêm dentro."
+      "episode_description": "Baptista Miranda e influenciadores desafiam todos os limites em um programa repleto de ousadia."
     },
     {
-      "show_name": "Crossplay",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_crossplay_l_m.webp",
-      "show_category": "",
+      "show_name": "UTC - Não Pode Rir",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_utc-n-o-pode-rir_l_m.jpg",
+      "show_category": "Comedy",
       "start_time": "18:30",
-      "end_time": "19:30",
-      "episode_description": ""
+      "end_time": "19:00",
+      "episode_description": "Os Castro Brothers apresentam o Ultimate Trocadilho Championship na TV. Quem rir primeiro perde."
     },
     {
-      "show_name": "Quase Sério",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_quase-serio_l_m.webp",
-      "show_category": "Interview",
+      "show_name": "Sonic X",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sonic-x-s02e02_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 2",
+      "start_time": "19:00",
+      "end_time": "19:30",
+      "episode_description": "Sonic é acidentalmente transportado para o mundo dos humanos com Tails, Knuckles, Amy e os demais. Lá, Sonic e seus amigos conhecerão humanos pela primeira vez, além do Dr. Robotnik."
+    },
+    {
+      "show_name": "Game Over",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_game-over_l_m.jpg",
+      "show_category": "Gaming",
       "start_time": "19:30",
       "end_time": "20:00",
-      "episode_description": "Recebe convidados especiais para entrevistas inusitadas e pegadinhas cheias de zoeira."
+      "episode_description": "Acompanhe as melhores análises, entrevistas, matérias, trailers e tudo sobre o mundo dos games."
     },
     {
-      "show_name": "Na Espreita",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_na-espreita_l_m.webp",
-      "show_category": "Entertainment",
+      "show_name": "Ponto Kpop",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ponto-kpop-s02e15_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 15",
       "start_time": "20:00",
-      "end_time": "20:30",
-      "episode_description": "Onika e Alef exploram sucessos do terror de forma minuciosa, informativa e bem-humorada."
+      "end_time": "21:00",
+      "episode_description": "Novidades e curiosidades do universo da música pop sul-coreana."
     },
     {
-      "show_name": "Operação Zenkai",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_operac-o-zenkai_l_m.webp",
-      "show_category": "Entertainment",
-      "start_time": "20:30",
-      "end_time": "21:45",
-      "episode_description": "Debates sobre o universo otaku, analisando clássicos e atualidades da cultura pop."
+      "show_name": "Clip K",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_clip-k_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "21:00",
+      "end_time": "21:30",
+      "episode_description": "Sequência de clipes de música pop coreana, o chamado k-pop. O gênero musical originado na Coreia do Sul se caracteriza pela variedade de elementos audiovisuais em suas exibições, em shows e vídeos."
     },
     {
       "show_name": "Play News",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_play-news-s02e29_l_m.webp",
-      "show_category": "Temporada 2 Episódio 29",
-      "start_time": "21:45",
-      "end_time": "22:00",
-      "episode_description": "Os filmes mais esperados de 2026. Leo Zalcman comenta as notícias do momento de uma maneira pouco usual."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_play-news-s02e30_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 30",
+      "start_time": "21:30",
+      "end_time": "21:45",
+      "episode_description": "Informações atualizadas sobre a cultura pop, com precisão e bom humor, uma mescla de notícia e entretenimento de maneira única."
     },
     {
-      "show_name": "Anime Onegai",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_anime-onegai_l_m.webp",
-      "show_category": "Variety",
-      "start_time": "22:00",
+      "show_name": "Operação Zenkai",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_operac-o-zenkai_l_m.jpg",
+      "show_category": "Entertainment",
+      "start_time": "21:45",
       "end_time": "23:00",
-      "episode_description": "Todas as novidades do universo otaku e episódios dos animes do momento."
+      "episode_description": "Debates sobre o universo otaku, analisando clássicos e atualidades da cultura pop."
     },
     {
       "show_name": "Joias Vip",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/play-tv/tomorrow/br_joias-vip-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_joias-vip-1_l_m.jpg",
       "show_category": "Consumer",
       "start_time": "23:00",
       "end_time": "",

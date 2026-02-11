@@ -1,74 +1,82 @@
 {
   "channel": "TV SENADO",
-  "date": "10/02/2026",
+  "date": "11/02/2026",
   "schedule": [
     {
-      "show_name": "A Voz de Ruy",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/today/br_a-voz-de-ruy-2024_l_m.webp",
-      "show_category": "Documentary / 2024",
+      "show_name": "Cleo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cleo_l_m.jpg",
+      "show_category": "Special",
       "start_time": "00:00",
-      "end_time": "01:20",
-      "episode_description": "Reconhecido por suas propostas políticas e educacionais, Ruy Barbosa se tornou uma referência na defesa das liberdades individuais e de imprensa."
+      "end_time": "00:59",
+      "episode_description": "Um breve retrato da vida e obra de Cleonice Berardinelli, ou simplesmente Dona Cleo, imortal da Academia Brasileira de Letras e uma das maiores intelectuais brasileiras."
     },
     {
-      "show_name": "35 - O Assalto ao Poder",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/today/br_35-o-assalto-ao-poder-2002_l_m.webp",
-      "show_category": "Documentary / 2002 /7.2",
-      "start_time": "01:20",
+      "show_name": "As Várias Vidas de Tânia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_as-varias-vidas-de-tania_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "00:59",
+      "end_time": "01:40",
+      "episode_description": "A vida e a obra da alagoana Tânia de Maya Pedrosa, artista autodidata e colecionadora de arte popular brasileira."
+    },
+    {
+      "show_name": "Maria Luiza",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_maria-luiza-2020_l_m.jpg",
+      "show_category": "Documentary / 2020 /9.0",
+      "start_time": "01:40",
       "end_time": "03:00",
-      "episode_description": "O ano de 1935 estava chegando ao fim quando três levantes militares, em três diferentes capitais brasileiras, tentaram derrubar o governo de Getúlio Vargas."
-    },
-    {
-      "show_name": "Assunto de Estado",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/today/br_assunto-de-estado_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "03:00",
-      "end_time": "03:30",
-      "episode_description": "Espaço para que senadores comentem questões regionais e locais e preste contas aos eleitores."
+      "episode_description": "Maria Luiza da Silva é a primeira transexual na história das Forças Armadas brasileiras. Após 22 anos de trabalho como militar, foi aposentada por invalidez. Conheça as motivações para impedi-la de vestir a farda feminina e a sua trajetória de afirmação como mulher trans, militar e católica."
     },
     {
       "show_name": "Agenda Econômica",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/today/br_agenda-economica-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_agenda-economica-1_l_m.jpg",
       "show_category": "Bus./financial",
-      "start_time": "03:30",
-      "end_time": "04:00",
+      "start_time": "03:00",
+      "end_time": "03:30",
       "episode_description": "Economistas, formuladores de políticas públicas, acadêmicos, intelectuais e parlamentares analisam questões da economia nacional e internacional."
     },
     {
       "show_name": "Salão Nobre",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/today/br_sal-o-nobre_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sal-o-nobre_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "04:00",
-      "end_time": "04:30",
+      "start_time": "03:30",
+      "end_time": "04:00",
       "episode_description": "Teresa Leitão (PT-PE) relembra a luta feminina pela democracia e defende visibilidade deste legado."
     },
     {
       "show_name": "Em Discussão",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/today/br_em-discuss-o-2_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_em-discuss-o-2_l_m.jpg",
       "show_category": "Educational",
-      "start_time": "04:30",
-      "end_time": "05:00",
+      "start_time": "04:00",
+      "end_time": "04:30",
       "episode_description": "As principais discussões realizadas nas audiências públicas promovidas pelo Senado."
     },
     {
       "show_name": "TV Senado Live",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/today/br_tv-senado-live_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tv-senado-live_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "05:00",
-      "end_time": "05:30",
+      "start_time": "04:30",
+      "end_time": "05:00",
       "episode_description": "Veja entrevistas com a participação do público sobre os grandes temas em pauta no país."
     },
     {
       "show_name": "Parlamento Brasil",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/today/br_parlamento-brasil_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "05:30",
-      "end_time": "06:00",
+      "start_time": "05:00",
+      "end_time": "05:30",
       "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
     },
     {
+      "show_name": "Assunto de Estado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_assunto-de-estado_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "05:30",
+      "end_time": "06:00",
+      "episode_description": "Espaço para que senadores comentem questões regionais e locais e preste contas aos eleitores."
+    },
+    {
       "show_name": "Habitar/Habitat",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/today/br_habitar-habitat_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_habitar-habitat_l_m.jpg",
       "show_category": "Documentary",
       "start_time": "06:00",
       "end_time": "07:00",
@@ -76,23 +84,23 @@
     },
     {
       "show_name": "Coleções",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/today/br_colec-es_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_colec-es_l_m.jpg",
       "show_category": "Entertainment",
       "start_time": "07:00",
       "end_time": "07:30",
       "episode_description": "Conheça a arquitetura e a cultura da cidade de Redenção da Serra, no interior paulista."
     },
     {
-      "show_name": "Em Discussão",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/today/br_em-discuss-o-2_l_m.webp",
-      "show_category": "Educational",
+      "show_name": "Assunto de Estado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_assunto-de-estado_l_m.jpg",
+      "show_category": "Politics",
       "start_time": "07:30",
       "end_time": "08:00",
-      "episode_description": "As principais discussões realizadas nas audiências públicas promovidas pelo Senado."
+      "episode_description": "Espaço para que senadores comentem questões regionais e locais e preste contas aos eleitores."
     },
     {
       "show_name": "Cidadania",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/today/br_cidadania_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidadania_l_m.jpg",
       "show_category": "Interview",
       "start_time": "08:00",
       "end_time": "08:30",
@@ -100,31 +108,23 @@
     },
     {
       "show_name": "Senado Notícias",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/today/br_senado-noticias_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_senado-noticias_l_m.jpg",
       "show_category": "Politics",
       "start_time": "08:30",
       "end_time": "09:00",
       "episode_description": "Acompanhe as últimas notícias do Senado, entre as transmissões ao vivo das reuniões das comissões, do plenário e os programas de grade da emissora."
     },
     {
-      "show_name": "Comissão de Serviços de Infraestrutura",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/today/br_comiss-o-de-servicos-de-infraestrutura_l_m.webp",
+      "show_name": "Comissão de Constituição, Justiça e Cidadania",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o-de-constituic-o-justica-e-cidadania_l_m.jpg",
       "show_category": "Politics",
       "start_time": "09:00",
-      "end_time": "10:00",
-      "episode_description": "Os debates sobre os transportes de terra, mar e ar, obras públicas em geral, minas, recursos geológicos e serviços de telecomunicações."
-    },
-    {
-      "show_name": "Comissão de Assuntos Econômicos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/today/br_comiss-o-de-assuntos-economicos-1_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "10:00",
       "end_time": "13:30",
-      "episode_description": "Os debates e discussões dos projetos de lei que passam pela Comissão de Assuntos Econômicos."
+      "episode_description": "A comissão debate a constitucionalidade, juridicidade e regimentalidade das matérias submetidas por deliberação do Plenário."
     },
     {
       "show_name": "Senado Notícias",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/today/br_senado-noticias_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_senado-noticias_l_m.jpg",
       "show_category": "Politics",
       "start_time": "13:30",
       "end_time": "14:00",
@@ -132,7 +132,7 @@
     },
     {
       "show_name": "Sessão Plenária",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/today/br_sess-o-plenaria-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sess-o-plenaria-1_l_m.jpg",
       "show_category": "Politics",
       "start_time": "14:00",
       "end_time": "19:30",
@@ -140,31 +140,31 @@
     },
     {
       "show_name": "Senado Notícias",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/today/br_senado-noticias_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_senado-noticias_l_m.jpg",
       "show_category": "Politics",
       "start_time": "19:30",
       "end_time": "20:00",
       "episode_description": "Acompanhe as últimas notícias do Senado, entre as transmissões ao vivo das reuniões das comissões, do plenário e os programas de grade da emissora."
     },
     {
-      "show_name": "Agenda Econômica",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/today/br_agenda-economica-1_l_m.webp",
-      "show_category": "Bus./financial",
+      "show_name": "Salão Nobre",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sal-o-nobre_l_m.jpg",
+      "show_category": "Politics",
       "start_time": "20:00",
       "end_time": "20:30",
+      "episode_description": "Teresa Leitão (PT-PE) relembra a luta feminina pela democracia e defende visibilidade deste legado."
+    },
+    {
+      "show_name": "Agenda Econômica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_agenda-economica-1_l_m.jpg",
+      "show_category": "Bus./financial",
+      "start_time": "20:30",
+      "end_time": "21:00",
       "episode_description": "Economistas, formuladores de políticas públicas, acadêmicos, intelectuais e parlamentares analisam questões da economia nacional e internacional."
     },
     {
-      "show_name": "Assunto de Estado",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/today/br_assunto-de-estado_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "20:30",
-      "end_time": "21:00",
-      "episode_description": "Espaço para que senadores comentem questões regionais e locais e preste contas aos eleitores."
-    },
-    {
       "show_name": "Reunião de Comissão",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-senado/today/br_reuni-o-de-comiss-o_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_reuni-o-de-comiss-o_l_m.jpg",
       "show_category": "Politics",
       "start_time": "21:00",
       "end_time": "00:00",

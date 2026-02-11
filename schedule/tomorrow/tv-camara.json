@@ -1,50 +1,26 @@
 {
   "channel": "TV Câmara",
-  "date": "11/02/2026",
+  "date": "12/02/2026",
   "schedule": [
     {
-      "show_name": "Sessão Plenária",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_sess-o-plenaria-1_l_m.webp",
+      "show_name": "Comissão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o_l_m.jpg",
       "show_category": "Politics",
       "start_time": "00:00",
-      "end_time": "06:00",
-      "episode_description": "Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade."
+      "end_time": "00:00",
+      "episode_description": "O programa transmite as discussões e votações do plenário."
     },
     {
-      "show_name": "Câmara Debate",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_camara-debate_l_m.webp",
+      "show_name": "Comissão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "06:00",
-      "end_time": "06:30",
-      "episode_description": "A cada programa, dois parlamentares discutem os grandes temas que movimentam os trabalhos na Câmara dos Deputados."
-    },
-    {
-      "show_name": "Palavra Aberta",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_palavra-aberta-1_l_m.webp",
-      "show_category": "Interview",
-      "start_time": "06:30",
-      "end_time": "06:45",
-      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
-    },
-    {
-      "show_name": "Palavra Aberta",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_palavra-aberta-1_l_m.webp",
-      "show_category": "Interview",
-      "start_time": "06:45",
-      "end_time": "07:00",
-      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
-    },
-    {
-      "show_name": "Qual a Questão?",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_qual-a-quest-o_l_m.webp",
-      "show_category": "Public affairs",
-      "start_time": "07:00",
+      "start_time": "00:00",
       "end_time": "07:30",
-      "episode_description": "Discussões sobre grandes temas da agenda nacional que mexem com o dia a dia dos brasileiros, como educação, economia, meio ambiente, empregos, tecnologia e saúde. Com participação de especialistas e representantes da sociedade civil."
+      "episode_description": "O programa transmite as discussões e votações do plenário."
     },
     {
       "show_name": "Palavra Aberta",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_palavra-aberta-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
       "show_category": "Interview",
       "start_time": "07:30",
       "end_time": "07:45",
@@ -52,103 +28,143 @@
     },
     {
       "show_name": "Palavra Aberta",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_palavra-aberta-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
       "show_category": "Interview",
       "start_time": "07:45",
       "end_time": "08:00",
       "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
     },
     {
-      "show_name": "Painel Eletrônico",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_painel-eletronico_l_m.webp",
-      "show_category": "News",
+      "show_name": "Câmara Informa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_camara-informa-1_l_m.jpg",
+      "show_category": "Politics",
       "start_time": "08:00",
+      "end_time": "08:30",
+      "episode_description": "Reportagens sobre temas diversos."
+    },
+    {
+      "show_name": "Palavra Aberta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "08:30",
+      "end_time": "08:45",
+      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
+    },
+    {
+      "show_name": "Palavra Aberta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "08:45",
       "end_time": "09:00",
-      "episode_description": "Acompanhe as notícias e reportagens da Câmara dos Deputados, debates e votações do parlamentares."
-    },
-    {
-      "show_name": "Expressão Nacional",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_express-o-nacional-1_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "09:00",
-      "end_time": "10:00",
-      "episode_description": "Confira os debates sobre grandes temas da agenda nacional, com deputados e representantes do Governo e da sociedade civil."
-    },
-    {
-      "show_name": "Câmara Agora",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_camara-agora_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "10:00",
-      "end_time": "13:15",
-      "episode_description": "Uma cobertura especial e flashes ao vivo de tudo o que acontece na Câmera dos Deputados."
+      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
     },
     {
       "show_name": "Comissão",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_comiss-o_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "13:15",
-      "end_time": "13:30",
+      "start_time": "09:00",
+      "end_time": "12:00",
       "episode_description": "O programa transmite as discussões e votações do plenário."
     },
     {
-      "show_name": "Direto da Câmara",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_direto-da-camara_l_m.webp",
+      "show_name": "Palavra Aberta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "12:00",
+      "end_time": "12:15",
+      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
+    },
+    {
+      "show_name": "Palavra Aberta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "12:15",
+      "end_time": "12:30",
+      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
+    },
+    {
+      "show_name": "Câmara Informa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_camara-informa-1_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "12:30",
+      "end_time": "13:30",
+      "episode_description": "Reportagens sobre temas diversos."
+    },
+    {
+      "show_name": "Representativas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_representativas_l_m.jpg",
       "show_category": "Politics",
       "start_time": "13:30",
-      "end_time": "13:55",
-      "episode_description": "As atividades dos deputados federais direto de Brasília."
+      "end_time": "14:00",
+      "episode_description": "Confira temas de interesse público a partir do olhar de deputadas e mulheres da sociedade civil."
     },
     {
-      "show_name": "Sessão Deliberativa Extraordinária",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_sess-o-deliberativa-extraordinaria_l_m.webp",
+      "show_name": "Comissão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "13:55",
-      "end_time": "21:00",
-      "episode_description": "As ações no Plenário da Câmara dos Deputados, em Brasília, DF."
+      "start_time": "14:00",
+      "end_time": "20:00",
+      "episode_description": "O programa transmite as discussões e votações do plenário."
     },
     {
-      "show_name": "Palavra Aberta",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_palavra-aberta-1_l_m.webp",
-      "show_category": "Interview",
-      "start_time": "21:00",
-      "end_time": "21:15",
-      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
-    },
-    {
-      "show_name": "Palavra Aberta",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_palavra-aberta-1_l_m.webp",
-      "show_category": "Interview",
-      "start_time": "21:15",
-      "end_time": "21:30",
-      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
-    },
-    {
-      "show_name": "Ponto de Vista",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_ponto-de-vista-2009_l_m.webp",
-      "show_category": "History",
-      "start_time": "21:30",
-      "end_time": "22:00",
-      "episode_description": "Convidados especiais discutem a respeito de temas relevantes da história mundial."
-    },
-    {
-      "show_name": "Bora Entender?",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_bora-entender_l_m.webp",
+      "show_name": "Canal Saúde",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_canal-saude_l_m.jpg",
       "show_category": "Documentary",
-      "start_time": "22:00",
-      "end_time": "23:00",
-      "episode_description": "Explicação didática de temas que estão presentes no debate político, de forma imparcial, apresentando todas as visões envolvidas, para que o público entenda a questão e tire suas próprias conclusões."
+      "start_time": "20:00",
+      "end_time": "20:30",
+      "episode_description": "Acompanhe alguns documentários sobre temas relacionados à saúde."
+    },
+    {
+      "show_name": "Palavra Aberta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "20:30",
+      "end_time": "20:45",
+      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
+    },
+    {
+      "show_name": "Palavra Aberta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "20:45",
+      "end_time": "21:00",
+      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
     },
     {
       "show_name": "Parlamento Brasil",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_parlamento-brasil_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "23:00",
-      "end_time": "23:30",
+      "start_time": "21:00",
+      "end_time": "21:30",
       "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
     },
     {
+      "show_name": "Documentário TV Câmara",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_documentario-tv-camara_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "21:30",
+      "end_time": "22:00",
+      "episode_description": "Veja documentários sobre aspectos importantes da história e da sociedade."
+    },
+    {
+      "show_name": "Expressão Nacional",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_express-o-nacional-1_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "22:00",
+      "end_time": "23:00",
+      "episode_description": "Confira os debates sobre grandes temas da agenda nacional, com deputados e representantes do Governo e da sociedade civil."
+    },
+    {
+      "show_name": "Qual a Questão?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_qual-a-quest-o_l_m.jpg",
+      "show_category": "Public affairs",
+      "start_time": "23:00",
+      "end_time": "23:30",
+      "episode_description": "Discussões sobre grandes temas da agenda nacional que mexem com o dia a dia dos brasileiros, como educação, economia, meio ambiente, empregos, tecnologia e saúde. Com participação de especialistas e representantes da sociedade civil."
+    },
+    {
       "show_name": "Palavra Aberta",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_palavra-aberta-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
       "show_category": "Interview",
       "start_time": "23:30",
       "end_time": "23:45",
@@ -156,7 +172,7 @@
     },
     {
       "show_name": "Palavra Aberta",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_palavra-aberta-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
       "show_category": "Interview",
       "start_time": "23:45",
       "end_time": "",
