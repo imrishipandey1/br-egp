@@ -1,166 +1,142 @@
 {
   "channel": "FOX Sports",
-  "date": "11/02/2026",
+  "date": "12/02/2026",
   "schedule": [
     {
-      "show_name": "Show da Rodada do Inglês",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-show-da-rodada-do-ingles_l_m.webp",
+      "show_name": "Show da Rodada da EFL",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-da-efl_l_m.jpg",
       "show_category": "",
+      "start_time": "00:00",
+      "end_time": "00:30",
+      "episode_description": "Os destaques das partidas da EFL Championship, segunda divisão de futebol masculino da Inglaterra."
+    },
+    {
+      "show_name": "Destaques da Conmebol Libertadores",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-destaques-da-conmebol-libertadores_l_m.jpg",
+      "show_category": "",
+      "start_time": "00:30",
+      "end_time": "01:00",
+      "episode_description": "Acompanhe os destaques, os melhores lances, gols e um resumo completo de tudo o que rolou nas partidas da principal competição de futebol masculino entre clubes da América do Sul: a Conmebol Libertadores."
+    },
+    {
+      "show_name": "Bayern de Munique x RB Leipzig",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-bayern-de-munique-x-rb-leipzig-1_l_m.jpg",
+      "show_category": "Copa da Alemanha",
       "start_time": "01:00",
-      "end_time": "01:30",
-      "episode_description": "O programa traz todos os pormenores da rodada do campeonato inglês com as pontuações dos clubes, gols e lances mais bonitos."
+      "end_time": "03:00",
+      "episode_description": "Da Allianz Arena, em Munique, Alemanha."
     },
     {
-      "show_name": "Miami x North Carolina",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_basketball-miami-x-north-carolina_l_m.webp",
-      "show_category": "Basquete Universitário",
-      "start_time": "01:30",
-      "end_time": "03:30",
-      "episode_description": "Futuros astros do basquete profissional se enfrentam no torneio organizado pela NCAA e disputado por equipes das universidades dos Estados Unidos."
-    },
-    {
-      "show_name": "Chelsea x Leeds United",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-chelsea-x-leeds-united_l_m.webp",
-      "show_category": "Campeonato Inglês",
-      "start_time": "03:30",
-      "end_time": "05:30",
-      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
-    },
-    {
-      "show_name": "NFL",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_football-nfl_l_m.webp",
+      "show_name": "Linha de Passe: Mesa-Redonda",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sports-talk-linha-de-passe-mesa-redonda_l_m.jpg",
       "show_category": "",
-      "start_time": "05:30",
-      "end_time": "05:30",
-      "episode_description": "Reprises, compactos e destaques das partidas da principal liga de futebol americano do planeta."
+      "start_time": "03:00",
+      "end_time": "04:30",
+      "episode_description": "Comentaristas esportivos conceituados entram em campo para uma análise completa da rodada do futebol ao estilo \"mesa redonda\", com debates acalorados e comentários de qualidade, sempre a partir de um olhar crítico e da imparcialidade."
     },
     {
-      "show_name": "NFL",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_football-nfl_l_m.webp",
+      "show_name": "Show da Rodada de La Liga",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-de-la-liga_l_m.jpg",
       "show_category": "",
-      "start_time": "05:30",
-      "end_time": "07:30",
-      "episode_description": "Reprises, compactos e destaques das partidas da principal liga de futebol americano do planeta."
+      "start_time": "04:30",
+      "end_time": "05:00",
+      "episode_description": ".Todos os gols e os principais lances da rodada de La Liga, primeira divisão do Campeonato Espanhol."
     },
     {
-      "show_name": "Deportivo Táchira x The Strongest",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-deportivo-tachira-x-the-strongest_l_m.webp",
+      "show_name": "Alianza Lima x 2 de Mayo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-alianza-lima-x-2-de-mayo_l_m.jpg",
       "show_category": "Copa Libertadores da América",
-      "start_time": "07:30",
-      "end_time": "09:30",
+      "start_time": "05:00",
+      "end_time": "05:00",
       "episode_description": "Todas as emoções da principal competição de futebol masculino disputada entre clubes da América do Sul, e que garante ao campeão vaga no Mundial de Clubes da FIFA."
     },
     {
-      "show_name": "Show da Rodada do Inglês",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-show-da-rodada-do-ingles_l_m.webp",
-      "show_category": "",
-      "start_time": "09:30",
-      "end_time": "10:00",
-      "episode_description": "O programa traz todos os pormenores da rodada do campeonato inglês com as pontuações dos clubes, gols e lances mais bonitos."
+      "show_name": "Alianza Lima x 2 de Mayo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-alianza-lima-x-2-de-mayo_l_m.jpg",
+      "show_category": "Copa Libertadores da América",
+      "start_time": "05:00",
+      "end_time": "07:00",
+      "episode_description": "Todas as emoções da principal competição de futebol masculino disputada entre clubes da América do Sul, e que garante ao campeão vaga no Mundial de Clubes da FIFA."
     },
     {
-      "show_name": "Destaques da Conmebol Libertadores",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-destaques-da-conmebol-libertadores_l_m.webp",
-      "show_category": "",
-      "start_time": "10:00",
-      "end_time": "10:30",
-      "episode_description": "Acompanhe os destaques, os melhores lances, gols e um resumo completo de tudo o que rolou nas partidas da principal competição de futebol masculino entre clubes da América do Sul: a Conmebol Libertadores."
+      "show_name": "Bauru x Minas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_basketball-bauru-x-minas_l_m.jpg",
+      "show_category": "NBB",
+      "start_time": "07:00",
+      "end_time": "09:00",
+      "episode_description": "Todas as emoções da principal competição de basquete masculino profissional entre clubes do Brasil."
     },
     {
-      "show_name": "Momento ESPN",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_documentary-momento-espn_l_m.webp",
-      "show_category": "",
-      "start_time": "10:30",
-      "end_time": "10:40",
-      "episode_description": ""
+      "show_name": "Manchester City x Fulham",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-manchester-city-x-fulham_l_m.jpg",
+      "show_category": "Campeonato Inglês",
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
     },
     {
-      "show_name": "Arkadag x Al Nassr",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-arkadag-x-al-nassr_l_m.webp",
-      "show_category": "AFC Champions League Two",
-      "start_time": "10:40",
-      "end_time": "12:45",
-      "episode_description": "As emoções da segunda principal competição de futebol masculino entre clubes do continente asiático."
+      "show_name": "Resenha ESPN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_resenha-espn_l_m.jpg",
+      "show_category": "Sports talk",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "episode_description": "Atletas da atualidade e do passado participam de bate-papo descontraído e cheio de boas histórias."
     },
     {
-      "show_name": "Momento ESPN",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_documentary-momento-espn_l_m.webp",
-      "show_category": "",
-      "start_time": "12:45",
-      "end_time": "13:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "SVNS",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_rugby-svns_l_m.webp",
-      "show_category": "",
-      "start_time": "13:00",
+      "show_name": "Nottingham Forest x Wolverhampton",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-nottingham-forest-x-wolverhampton-1_l_m.jpg",
+      "show_category": "Campeonato Inglês",
+      "start_time": "12:00",
       "end_time": "14:00",
-      "episode_description": "Os melhores momentos da terceira etapa da temporada 2025-2026 do circuito de rugby sevens, realizada no Estádio Nacional de Singapura, em Kallang, Singapura."
+      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
     },
     {
-      "show_name": "Destaques da Conmebol Libertadores",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-destaques-da-conmebol-libertadores_l_m.webp",
+      "show_name": "Show da Rodada do Italiano",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-do-italiano_l_m.jpg",
       "show_category": "",
       "start_time": "14:00",
       "end_time": "14:30",
-      "episode_description": "Acompanhe os destaques, os melhores lances, gols e um resumo completo de tudo o que rolou nas partidas da principal competição de futebol masculino entre clubes da América do Sul: a Conmebol Libertadores."
+      "episode_description": "Os principais destaques das partidas da Lega Serie A, primeira divisão do Campeonato Italiano de futebol masculino, com os gols, melhores lances e situação da tabela de classificação após cada rodada disputada."
     },
     {
-      "show_name": "OH Leuven x Arsenal",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-oh-leuven-x-arsenal_l_m.webp",
+      "show_name": "Wolfsburg x Juventus",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-wolfsburg-x-juventus_l_m.jpg",
       "show_category": "Liga dos Campeões de Futebol Feminino",
       "start_time": "14:30",
       "end_time": "16:45",
       "episode_description": "Acompanhe as partidas da principal competição de futebol para equipes femininas da Europa."
     },
     {
-      "show_name": "Momento ESPN",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_documentary-momento-espn_l_m.webp",
-      "show_category": "",
+      "show_name": "Manchester United x Atlético de Madrid",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-manchester-united-x-atletico-de-madrid-1_l_m.jpg",
+      "show_category": "Liga dos Campeões de Futebol Feminino",
       "start_time": "16:45",
-      "end_time": "17:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Copa do Rei",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-copa-do-rei-1_l_m.webp",
-      "show_category": "Copa do Rei",
-      "start_time": "17:00",
       "end_time": "19:00",
-      "episode_description": "Disputada desde 1903, envolve os maiores times de Espanha. Entre os anos de 1931 e 1938, o torneio mudou de nome para Copa Presidente da República e, entre 1939 a 1976, se tornou Copa do Generalíssimo. Em 1977, antigo nome retornou para ficar."
+      "episode_description": "Acompanhe as partidas da principal competição de futebol para equipes femininas da Europa."
     },
     {
-      "show_name": "Show da Rodada do Italiano",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-show-da-rodada-do-italiano_l_m.webp",
+      "show_name": "Destaques da Conmebol Libertadores",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-destaques-da-conmebol-libertadores_l_m.jpg",
       "show_category": "",
       "start_time": "19:00",
       "end_time": "19:30",
-      "episode_description": "Os principais destaques das partidas da Lega Serie A, primeira divisão do Campeonato Italiano de futebol masculino, com os gols, melhores lances e situação da tabela de classificação após cada rodada disputada."
+      "episode_description": "Acompanhe os destaques, os melhores lances, gols e um resumo completo de tudo o que rolou nas partidas da principal competição de futebol masculino entre clubes da América do Sul: a Conmebol Libertadores."
     },
     {
-      "show_name": "Show da Rodada de La Liga",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-show-da-rodada-de-la-liga_l_m.webp",
+      "show_name": "SVNS",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rugby-svns_l_m.jpg",
       "show_category": "",
       "start_time": "19:30",
-      "end_time": "20:00",
-      "episode_description": ".Todos os gols e os principais lances da rodada de La Liga, primeira divisão do Campeonato Espanhol."
+      "end_time": "20:30",
+      "episode_description": "Os melhores momentos da terceira etapa da temporada 2025-2026 do circuito de rugby sevens, realizada no Estádio Nacional de Singapura, em Kallang, Singapura."
     },
     {
-      "show_name": "Sunderland x Liverpool",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-sunderland-x-liverpool_l_m.webp",
-      "show_category": "Campeonato Inglês",
-      "start_time": "20:00",
-      "end_time": "22:00",
-      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
-    },
-    {
-      "show_name": "Club América x Olimpia",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-club-america-x-olimpia_l_m.webp",
-      "show_category": "CONCACAF Champions Cup",
-      "start_time": "22:00",
+      "show_name": "Daytona 500 - Duels",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_auto-racing-daytona-500-duels_l_m.jpg",
+      "show_category": "NASCAR Cup Series",
+      "start_time": "20:30",
       "end_time": "00:00",
-      "episode_description": "O principal torneio de futebol masculino entre clubes da América do Norte, América Central e Caribe."
+      "episode_description": "Às vésperas de tradicional prova da Nascar, os Duels são corridas de 60 voltas que definem a ordem dos pilotos que largarão a partir da terceira posição do grid da Daytona 500 em 2026. Do Daytona International Speedway, em Daytona Beach, EUA."
     }
   ]
 }

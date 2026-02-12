@@ -1,10 +1,10 @@
 {
   "channel": "TV Aratu",
-  "date": "11/02/2026",
+  "date": "12/02/2026",
   "schedule": [
     {
       "show_name": "The Noite com Danilo Gentili",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_the-noite-com-danilo-gentili_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-noite-com-danilo-gentili_l_m.jpg",
       "show_category": "Talk",
       "start_time": "00:00",
       "end_time": "01:00",
@@ -12,7 +12,7 @@
     },
     {
       "show_name": "Operação Mesquita",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_operac-o-mesquita_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_operac-o-mesquita_l_m.jpg",
       "show_category": "Entertainment",
       "start_time": "01:00",
       "end_time": "01:30",
@@ -20,7 +20,7 @@
     },
     {
       "show_name": "SBT PodNight",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_sbt-podnight_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-podnight_l_m.jpg",
       "show_category": "Talk",
       "start_time": "01:30",
       "end_time": "02:15",
@@ -28,7 +28,7 @@
     },
     {
       "show_name": "SBT Notícias",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_sbt-noticias_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-noticias_l_m.jpg",
       "show_category": "News",
       "start_time": "02:15",
       "end_time": "05:00",
@@ -36,31 +36,23 @@
     },
     {
       "show_name": "Igreja da Graça",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_igreja-da-graca_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_igreja-da-graca_l_m.jpg",
       "show_category": "Religious",
       "start_time": "05:00",
       "end_time": "06:00",
       "episode_description": "Acompanhe a programação da Igreja Universal da Graça de Deus."
     },
     {
-      "show_name": "Aratu 24 Horas",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_aratu-24-horas_l_m.webp",
+      "show_name": "SBT Manhã",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-manh_l_m.jpg",
       "show_category": "News",
       "start_time": "06:00",
-      "end_time": "07:30",
-      "episode_description": "Programa matinal traz notícias da madrugada, reportagens e serviços. Em três blocos, aborda segurança, cultura, lazer e informações práticas."
-    },
-    {
-      "show_name": "SBT Manhã",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_sbt-manh_l_m.webp",
-      "show_category": "News",
-      "start_time": "07:30",
       "end_time": "08:30",
       "episode_description": "O jornal traz os primeiros assuntos do dia e faz uma abordagem sobre os últimos acontecimentos."
     },
     {
       "show_name": "Primeiro Impacto",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_primeiro-impacto-1997_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_primeiro-impacto-1997_l_m.jpg",
       "show_category": "News",
       "start_time": "08:30",
       "end_time": "11:00",
@@ -68,7 +60,7 @@
     },
     {
       "show_name": "Alô Juca",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_alo-juca_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alo-juca_l_m.jpg",
       "show_category": "News",
       "start_time": "11:00",
       "end_time": "13:45",
@@ -76,7 +68,7 @@
     },
     {
       "show_name": "Esmeralda - Edição Especial",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_esmeralda-edic-o-especial_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_esmeralda-edic-o-especial_l_m.jpg",
       "show_category": "Soap",
       "start_time": "13:45",
       "end_time": "14:30",
@@ -84,15 +76,15 @@
     },
     {
       "show_name": "Meu Coração É Teu",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_meu-corac-o-e-teu-1_l_m.webp",
-      "show_category": "Soap",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_meu-corac-o-e-teu-1_l_m.jpg",
+      "show_category": "",
       "start_time": "14:30",
       "end_time": "15:30",
-      "episode_description": "Ana trabalha como dançarina de pole dance até começar a trabalhar para a família Lascuráin que tem sete filhos. Ela se apaixona pelo pai, mas Fernando já está decido a casar-se com Isabela, pois acredita que terá um bebê com ela."
+      "episode_description": ""
     },
     {
       "show_name": "Fofocalizando",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_fofocalizando_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_fofocalizando_l_m.jpg",
       "show_category": "Newsmagazine",
       "start_time": "15:30",
       "end_time": "17:00",
@@ -100,31 +92,23 @@
     },
     {
       "show_name": "Coração Indomável",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_corac-o-indomavel-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_corac-o-indomavel-1_l_m.jpg",
       "show_category": "Soap",
       "start_time": "17:00",
       "end_time": "18:30",
       "episode_description": "A novela conta a história da pobre Maricruz que, após ter sido abandonada pelo marido, decide se vingar daqueles que a humilharam. Ela descobre ser filha de um homem rico, tornando-se uma mulher da alta sociedade."
     },
     {
-      "show_name": "Fala, Dani",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_fala-dani_l_m.webp",
-      "show_category": "Special",
-      "start_time": "18:30",
-      "end_time": "19:00",
-      "episode_description": "Os principais acontecimentos do programa \"Alô Juca\", mas com um olhar diferente, com uma linguagem mais leve, mais próxima ao que a gente vê na internet, nas redes sociais. Com bastidores e também os memes que surgem diariamente no Juca."
-    },
-    {
       "show_name": "Aratu Notícias",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_aratu-noticias_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aratu-noticias_l_m.jpg",
       "show_category": "News",
-      "start_time": "19:00",
+      "start_time": "18:30",
       "end_time": "19:45",
       "episode_description": "As principais notícias do dia são mostradas no Aratu Notícias. Com reportagens ao vivo e muito dinamismo, o telejornal acompanha os principais fatos que acontecem no dia a dia dos baianos."
     },
     {
       "show_name": "SBT Brasil",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_sbt-brasil_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-brasil_l_m.jpg",
       "show_category": "News",
       "start_time": "19:45",
       "end_time": "21:00",
@@ -132,27 +116,19 @@
     },
     {
       "show_name": "Presente de Amor",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_presente-de-amor_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_presente-de-amor_l_m.jpg",
       "show_category": "Soap",
       "start_time": "21:00",
       "end_time": "22:00",
       "episode_description": "Isabella é uma mulher cujo maior sonho é ser mãe. Após a morte repentina do marido, ela conhece Eugenio, um homem generoso. Suas vidas tomam um rumo dramático quando um ser angelical aparece, dando-lhes a oportunidade de se tornarem pais."
     },
     {
-      "show_name": "Programa do Ratinho",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_programa-do-ratinho_l_m.webp",
-      "show_category": "Variety",
+      "show_name": "Aratu Folia 2026",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aratu-folia-2026_l_m.jpg",
+      "show_category": "Special",
       "start_time": "22:00",
-      "end_time": "23:00",
-      "episode_description": "O apresentador Carlos Massa leva ao público um programa alegre e repleto de atrações. Ele recebe convidados famosos e games, comédia, participação do público e quadros únicos, como o \"Jornal Racional\", \"Gol Show\" e \"Dez ou Mil\", entre outros."
-    },
-    {
-      "show_name": "Love Taste - Receita para o Amor",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_love-taste-receita-para-o-amor-s01e06_l_m.webp",
-      "show_category": "Temporada 1 Episódio 6",
-      "start_time": "23:00",
-      "end_time": "00:00",
-      "episode_description": "Solteiros se aventuram na cozinha para conquistar o coração e o paladar de seus amados. Os chefs apaixonados preparam pratos que representam suas personalidades e atacam com suas armas secretas na cozinha."
+      "end_time": "00:15",
+      "episode_description": ""
     }
   ]
 }

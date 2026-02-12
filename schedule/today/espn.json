@@ -1,74 +1,66 @@
 {
   "channel": "ESPN Brasil",
-  "date": "11/02/2026",
+  "date": "12/02/2026",
   "schedule": [
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/espn/today/br_soccer-sportscenter_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-sportscenter_l_m.jpg",
       "show_category": "",
-      "start_time": "00:30",
-      "end_time": "01:30",
+      "start_time": "01:00",
+      "end_time": "02:00",
       "episode_description": "Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abdicar do bom humor."
     },
     {
-      "show_name": "Bola da Vez",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/espn/today/br_bola-da-vez_l_m.webp",
-      "show_category": "Children",
-      "start_time": "01:30",
-      "end_time": "02:30",
-      "episode_description": "Entre encontros e desencontros, esquecimento e memória, um grupo de crianças passeia pela infância, pelas raízes e por paisagens escondidas da cidade de Goiás."
+      "show_name": "Deportivo Táchira x The Strongest",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-deportivo-tachira-x-the-strongest_l_m.jpg",
+      "show_category": "Copa Libertadores da América",
+      "start_time": "02:00",
+      "end_time": "04:00",
+      "episode_description": "Todas as emoções da principal competição de futebol masculino disputada entre clubes da América do Sul, e que garante ao campeão vaga no Mundial de Clubes da FIFA."
     },
     {
-      "show_name": "Tottenham Hotspur x Newcastle United",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/espn/today/br_soccer-tottenham-hotspur-x-newcastle-united_l_m.webp",
-      "show_category": "Campeonato Inglês",
-      "start_time": "02:30",
-      "end_time": "04:30",
-      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
-    },
-    {
-      "show_name": "Destaques da Conmebol Libertadores",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/espn/today/br_soccer-destaques-da-conmebol-libertadores_l_m.webp",
+      "show_name": "Show da Rodada do Inglês",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-do-ingles_l_m.jpg",
       "show_category": "",
+      "start_time": "04:00",
+      "end_time": "04:30",
+      "episode_description": "O programa traz todos os pormenores da rodada do campeonato inglês com as pontuações dos clubes, gols e lances mais bonitos."
+    },
+    {
+      "show_name": "Athletic Bilbao x Real Sociedad",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-athletic-bilbao-x-real-sociedad-1_l_m.jpg",
+      "show_category": "Copa do Rei",
       "start_time": "04:30",
-      "end_time": "05:00",
-      "episode_description": "Acompanhe os destaques, os melhores lances, gols e um resumo completo de tudo o que rolou nas partidas da principal competição de futebol masculino entre clubes da América do Sul: a Conmebol Libertadores."
+      "end_time": "04:30",
+      "episode_description": "Do Estádio de San Mamés, em Bilbao, Espanha."
     },
     {
-      "show_name": "Vélez Sarsfield x Boca Juniors",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/espn/today/br_soccer-velez-sarsfield-x-boca-juniors_l_m.webp",
-      "show_category": "Campeonato Argentino",
-      "start_time": "05:00",
-      "end_time": "05:00",
-      "episode_description": "Acompanhe as grandes partidas do torneio de elite do futebol argentino."
-    },
-    {
-      "show_name": "Vélez Sarsfield x Boca Juniors",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/espn/today/br_soccer-velez-sarsfield-x-boca-juniors_l_m.webp",
-      "show_category": "Campeonato Argentino",
-      "start_time": "05:00",
-      "end_time": "07:00",
-      "episode_description": "Acompanhe as grandes partidas do torneio de elite do futebol argentino."
+      "show_name": "Athletic Bilbao x Real Sociedad",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-athletic-bilbao-x-real-sociedad-1_l_m.jpg",
+      "show_category": "Copa do Rei",
+      "start_time": "04:30",
+      "end_time": "06:30",
+      "episode_description": "Do Estádio de San Mamés, em Bilbao, Espanha."
     },
     {
       "show_name": "Linha de Passe: Mesa-Redonda",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/espn/today/br_sports-talk-linha-de-passe-mesa-redonda_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sports-talk-linha-de-passe-mesa-redonda_l_m.jpg",
       "show_category": "",
-      "start_time": "07:00",
+      "start_time": "06:30",
       "end_time": "08:00",
       "episode_description": "Comentaristas esportivos conceituados entram em campo para uma análise completa da rodada do futebol ao estilo \"mesa redonda\", com debates acalorados e comentários de qualidade, sempre a partir de um olhar crítico e da imparcialidade."
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/espn/today/br_soccer-sportscenter_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-sportscenter_l_m.jpg",
       "show_category": "",
       "start_time": "08:00",
       "end_time": "09:00",
       "episode_description": "Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abdicar do bom humor."
     },
     {
-      "show_name": "West Ham x Manchester United",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/espn/today/br_soccer-west-ham-x-manchester-united-1_l_m.webp",
+      "show_name": "Sunderland x Liverpool",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-sunderland-x-liverpool_l_m.jpg",
       "show_category": "Campeonato Inglês",
       "start_time": "09:00",
       "end_time": "11:00",
@@ -76,7 +68,7 @@
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/espn/today/br_soccer-sportscenter_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-sportscenter_l_m.jpg",
       "show_category": "",
       "start_time": "11:00",
       "end_time": "13:00",
@@ -84,7 +76,7 @@
     },
     {
       "show_name": "F Show",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/espn/today/br_soccer-f-show_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-f-show_l_m.jpg",
       "show_category": "",
       "start_time": "13:00",
       "end_time": "15:00",
@@ -92,47 +84,63 @@
     },
     {
       "show_name": "Mundo F",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/espn/today/br_soccer-mundo-f_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-mundo-f_l_m.jpg",
       "show_category": "",
       "start_time": "15:00",
-      "end_time": "16:20",
+      "end_time": "16:30",
       "episode_description": "Os principais assuntos que são notícia no futebol internacional abordados com linguagem contemporânea; grandes temas, clubes e personagens são destacados por especialistas que trazem informação e opinião."
     },
     {
-      "show_name": "Manchester City x Fulham",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/espn/today/br_soccer-manchester-city-x-fulham_l_m.webp",
+      "show_name": "SportsCenter Abre o Jogo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sports-talk-sportscenter-abre-o-jogo_l_m.jpg",
+      "show_category": "",
+      "start_time": "16:30",
+      "end_time": "16:50",
+      "episode_description": "Destaques e preparativos da partida válida pela maior liga de basquete profissional do mundo."
+    },
+    {
+      "show_name": "Brentford x Arsenal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-brentford-x-arsenal_l_m.jpg",
       "show_category": "Campeonato Inglês",
-      "start_time": "16:20",
-      "end_time": "18:30",
+      "start_time": "16:50",
+      "end_time": "19:00",
       "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
     },
     {
       "show_name": "Equipe F",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/espn/today/br_soccer-equipe-f_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-equipe-f_l_m.jpg",
       "show_category": "",
-      "start_time": "18:30",
-      "end_time": "20:15",
+      "start_time": "19:00",
+      "end_time": "20:30",
       "episode_description": "Especialistas comentam os principais acontecimentos notícia no futebol brasileiro."
     },
     {
-      "show_name": "SportsCenter",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/espn/today/br_soccer-sportscenter_l_m.webp",
+      "show_name": "Destaques da Conmebol Libertadores",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-destaques-da-conmebol-libertadores_l_m.jpg",
       "show_category": "",
-      "start_time": "20:15",
-      "end_time": "21:15",
+      "start_time": "20:30",
+      "end_time": "21:00",
+      "episode_description": "Acompanhe os destaques, os melhores lances, gols e um resumo completo de tudo o que rolou nas partidas da principal competição de futebol masculino entre clubes da América do Sul: a Conmebol Libertadores."
+    },
+    {
+      "show_name": "Resenha ESPN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_resenha-espn_l_m.jpg",
+      "show_category": "Sports talk",
+      "start_time": "21:00",
+      "end_time": "22:00",
+      "episode_description": "Atletas da atualidade e do passado participam de bate-papo descontraído e cheio de boas histórias."
+    },
+    {
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-sportscenter_l_m.jpg",
+      "show_category": "",
+      "start_time": "22:00",
+      "end_time": "23:30",
       "episode_description": "Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abdicar do bom humor."
     },
     {
-      "show_name": "Alianza Lima x 2 de Mayo",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/espn/today/br_soccer-alianza-lima-x-2-de-mayo_l_m.webp",
-      "show_category": "Copa Libertadores da América",
-      "start_time": "21:15",
-      "end_time": "23:30",
-      "episode_description": "Todas as emoções da principal competição de futebol masculino disputada entre clubes da América do Sul, e que garante ao campeão vaga no Mundial de Clubes da FIFA."
-    },
-    {
       "show_name": "Linha de Passe: Mesa-Redonda",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/espn/today/br_sports-talk-linha-de-passe-mesa-redonda_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sports-talk-linha-de-passe-mesa-redonda_l_m.jpg",
       "show_category": "",
       "start_time": "23:30",
       "end_time": "01:00",
