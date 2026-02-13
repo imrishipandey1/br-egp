@@ -1,50 +1,58 @@
 {
   "channel": "AMC Brasil",
-  "date": "12/02/2026",
+  "date": "13/02/2026",
   "schedule": [
     {
+      "show_name": "Drive",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_drive-2011_l_m.jpg",
+      "show_category": "Crime drama / 2011 /7.8",
+      "start_time": "00:15",
+      "end_time": "02:05",
+      "episode_description": "Um habilidoso motorista, dublê em cenas de perseguição em filmes de Hollywood, também é piloto de fuga em assaltos. Sua vida muda quando ele se apaixona por uma mulher cujo marido está prestes a sair da prisão, enquanto seu chefe planeja uma corrida."
+    },
+    {
+      "show_name": "Loucos e Perigosos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_loucos-e-perigosos-2017_l_m.jpg",
+      "show_category": "Action / 2017",
+      "start_time": "02:05",
+      "end_time": "03:50",
+      "episode_description": "Um detetive de Los Angeles descobre que seu querido cachorro foi sequestrado. Ele não tem outra alternativa a não ser atacar a gangue responsável pelo crime."
+    },
+    {
       "show_name": "Até os Ossos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/amc-brasil/today/br_ate-os-ossos-2022_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ate-os-ossos-2022_l_m.jpg",
       "show_category": "Drama / 2022",
-      "start_time": "01:20",
-      "end_time": "03:40",
+      "start_time": "03:50",
+      "end_time": "03:50",
       "episode_description": "O amor floresce entre uma jovem à margem da sociedade e um vagabundo marginalizado enquanto eles embarcam em uma odisseia pelas estradas secundárias da América."
     },
     {
-      "show_name": "Os Infratores",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/amc-brasil/today/br_os-infratores-2012-1_l_m.webp",
-      "show_category": "Crime drama / 2012",
-      "start_time": "03:40",
-      "end_time": "05:40",
-      "episode_description": "Os irmãos Bondurant produzem e contrabandeiam uísque ilegalmente durante a época da Lei Seca e pagam propinas para que a polícia faça vista grossa. Porém, quando o negócio começa a prosperar, o governo intervém, e uma guerra se instaura na cidade."
-    },
-    {
-      "show_name": "Tales of the Walking Dead",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/amc-brasil/today/br_tales-of-the-walking-dead-s01e05-davon_l_m.webp",
-      "show_category": "Temporada 1 Episódio 5 - Davon",
-      "start_time": "05:40",
-      "end_time": "05:40",
-      "episode_description": "Um jovem estranho acorda de repente em uma cidade perigosa sem memória de como chegou lá. Ele deve juntar fragmentos de sua mente perturbada para descobrir por que as pessoas da cidade o acusam de assassinato."
-    },
-    {
-      "show_name": "Tales of the Walking Dead",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/amc-brasil/today/br_tales-of-the-walking-dead-s01e05-davon_l_m.webp",
-      "show_category": "Temporada 1 Episódio 5 - Davon",
-      "start_time": "05:40",
-      "end_time": "06:30",
-      "episode_description": "Um jovem estranho acorda de repente em uma cidade perigosa sem memória de como chegou lá. Ele deve juntar fragmentos de sua mente perturbada para descobrir por que as pessoas da cidade o acusam de assassinato."
+      "show_name": "Até os Ossos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ate-os-ossos-2022_l_m.jpg",
+      "show_category": "Drama / 2022",
+      "start_time": "03:50",
+      "end_time": "06:10",
+      "episode_description": "O amor floresce entre uma jovem à margem da sociedade e um vagabundo marginalizado enquanto eles embarcam em uma odisseia pelas estradas secundárias da América."
     },
     {
       "show_name": "Planet Action",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/amc-brasil/today/br_planet-action_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_planet-action_l_m.jpg",
       "show_category": "Entertainment",
-      "start_time": "06:30",
+      "start_time": "06:10",
+      "end_time": "06:35",
+      "episode_description": "De tiroteios com caubóis a carros explodindo e monstros rugindo, acompanhe os bastidores dos melhores filmes de ação lançados."
+    },
+    {
+      "show_name": "Planet Action",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_planet-action_l_m.jpg",
+      "show_category": "Entertainment",
+      "start_time": "06:35",
       "end_time": "07:00",
       "episode_description": "De tiroteios com caubóis a carros explodindo e monstros rugindo, acompanhe os bastidores dos melhores filmes de ação lançados."
     },
     {
       "show_name": "Planet Action",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/amc-brasil/today/br_planet-action_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_planet-action_l_m.jpg",
       "show_category": "Entertainment",
       "start_time": "07:00",
       "end_time": "07:30",
@@ -52,7 +60,7 @@
     },
     {
       "show_name": "Planet Action",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/amc-brasil/today/br_planet-action_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_planet-action_l_m.jpg",
       "show_category": "Entertainment",
       "start_time": "07:30",
       "end_time": "08:00",
@@ -60,7 +68,7 @@
     },
     {
       "show_name": "Planet Action",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/amc-brasil/today/br_planet-action_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_planet-action_l_m.jpg",
       "show_category": "Entertainment",
       "start_time": "08:00",
       "end_time": "08:30",
@@ -68,7 +76,7 @@
     },
     {
       "show_name": "Planet Action",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/amc-brasil/today/br_planet-action_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_planet-action_l_m.jpg",
       "show_category": "Entertainment",
       "start_time": "08:30",
       "end_time": "09:00",
@@ -76,7 +84,7 @@
     },
     {
       "show_name": "Planet Action",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/amc-brasil/today/br_planet-action_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_planet-action_l_m.jpg",
       "show_category": "Entertainment",
       "start_time": "09:00",
       "end_time": "09:30",
@@ -84,7 +92,7 @@
     },
     {
       "show_name": "Planet Action",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/amc-brasil/today/br_planet-action_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_planet-action_l_m.jpg",
       "show_category": "Entertainment",
       "start_time": "09:30",
       "end_time": "10:00",
@@ -92,7 +100,7 @@
     },
     {
       "show_name": "Planet Action",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/amc-brasil/today/br_planet-action_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_planet-action_l_m.jpg",
       "show_category": "Entertainment",
       "start_time": "10:00",
       "end_time": "10:30",
@@ -100,7 +108,7 @@
     },
     {
       "show_name": "Planet Action",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/amc-brasil/today/br_planet-action_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_planet-action_l_m.jpg",
       "show_category": "Entertainment",
       "start_time": "10:30",
       "end_time": "11:00",
@@ -108,59 +116,51 @@
     },
     {
       "show_name": "Planet Action",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/amc-brasil/today/br_planet-action_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_planet-action_l_m.jpg",
       "show_category": "Entertainment",
       "start_time": "11:00",
-      "end_time": "11:35",
+      "end_time": "11:25",
       "episode_description": "De tiroteios com caubóis a carros explodindo e monstros rugindo, acompanhe os bastidores dos melhores filmes de ação lançados."
     },
     {
-      "show_name": "Planet Action",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/amc-brasil/today/br_planet-action_l_m.webp",
-      "show_category": "Entertainment",
-      "start_time": "11:35",
-      "end_time": "12:10",
-      "episode_description": "De tiroteios com caubóis a carros explodindo e monstros rugindo, acompanhe os bastidores dos melhores filmes de ação lançados."
+      "show_name": "O Hobbit - Uma Jornada Inesperada",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-hobbit-uma-jornada-inesperada-2012-1_l_m.jpg",
+      "show_category": "Fantasy / 2012",
+      "start_time": "11:25",
+      "end_time": "14:25",
+      "episode_description": "Como a maioria dos hobbits, Bilbo Bolseiro leva uma vida tranquila até o dia em que recebe uma missão do mago Gandalf. Acompanhado por um grupo de anões, ele parte numa jornada até a Montanha Solitária para libertar o Reino de Erebor do dragão Smaug."
     },
     {
-      "show_name": "Bons Companheiros",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/amc-brasil/today/br_bons-companheiros-2023_l_m.webp",
-      "show_category": "Action / 2023",
-      "start_time": "12:10",
-      "end_time": "14:40",
-      "episode_description": "O dublê Luo busca a ajuda de sua filha distante e do namorado dela, advogado, quando seu amado cavalo dublê pode ser leiloado para pagar suas dívidas."
-    },
-    {
-      "show_name": "Lendas da Paixão",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/amc-brasil/today/br_lendas-da-paix-o-1994-1_l_m.webp",
-      "show_category": "Drama / 1994",
-      "start_time": "14:40",
-      "end_time": "17:10",
-      "episode_description": "No estado americano de Montana no início do século XX, o coronel William Ludlow mora em um rancho remoto com seus filhos Tristan, Alfred e Samuel. A família passa por uma tragédia quando Samuel é morto na Primeira Guerra Mundial. Tristan e Alfred sobrevivem à guerra, mas, ao voltarem para casa, se apaixonam pela bela noiva de Samuel, Susannah. A intensa rivalidade entre os irmãos ameaça destruir a família."
-    },
-    {
-      "show_name": "Missão: Impossível - Protocolo Fantasma",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/amc-brasil/today/br_miss-o-impossivel-protocolo-fantasma-2011-1_l_m.webp",
-      "show_category": "Action / 2011",
-      "start_time": "17:10",
-      "end_time": "19:35",
-      "episode_description": "Quando a IMF é fechada depois de ser envolvida em um plano terrorista internacional, o agente Ethan Hunt e sua equipe tentam limpar o nome da organização."
+      "show_name": "O Hobbit - A Desolação de Smaug",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-hobbit-a-desolac-o-de-smaug-2013-1_l_m.jpg",
+      "show_category": "Fantasy / 2013",
+      "start_time": "14:25",
+      "end_time": "17:15",
+      "episode_description": "Bilbo segue em direção à Montanha Solitária ao lado de um grupo de anões e de Gandalf, onde deverá ajudar seus companheiros a retomar a Pedra de Arken. O problema é que o artefato está perdido em meio a um tesouro protegido pelo temido dragão Smaug."
     },
     {
       "show_name": "Missão: Impossível - Nação Secreta",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/amc-brasil/today/br_miss-o-impossivel-nac-o-secreta-2015_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_miss-o-impossivel-nac-o-secreta-2015_l_m.jpg",
       "show_category": "Action / 2015",
-      "start_time": "19:35",
-      "end_time": "22:00",
+      "start_time": "17:15",
+      "end_time": "19:35",
       "episode_description": "O agente do IMF Ethan Hunt e sua equipe enfrentam uma das missões mais difíceis: erradicar o Sindicato, uma organização secreta internacional de assassinos profissionais que está determinada a destruir o IMF."
     },
     {
-      "show_name": "O Pacto",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/amc-brasil/today/br_o-pacto-2023_l_m.webp",
-      "show_category": "War / 2023",
+      "show_name": "Sete Homens e um Destino",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sete-homens-e-um-destino-2016_l_m.jpg",
+      "show_category": "Western / 2016",
+      "start_time": "19:35",
+      "end_time": "22:00",
+      "episode_description": "Moradores desesperados de uma cidadezinha contratam sete mercenários para combater um inescrupuloso empresário e seus capangas, no Velho Oeste norte-americano."
+    },
+    {
+      "show_name": "Bad Boys para Sempre",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bad-boys-para-sempre-2020_l_m.jpg",
+      "show_category": "Action / 2020",
       "start_time": "22:00",
       "end_time": "00:15",
-      "episode_description": "Durante a guerra no Afeganistão, um intérprete arrisca a vida para carregar um sargento ferido por quilômetros de terreno hostil em busca de um local seguro."
+      "episode_description": "Os policiais Mike Lowery e Marcus Burnett se juntam à recém-criada equipe de elite do departamento de polícia de Miami para derrubar o líder de um cartel de drogas da cidade."
     }
   ]
 }

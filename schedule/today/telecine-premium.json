@@ -1,118 +1,102 @@
 {
   "channel": "Telecine Premium",
-  "date": "12/02/2026",
+  "date": "13/02/2026",
   "schedule": [
     {
+      "show_name": "Oito Mulheres e um Segredo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_oito-mulheres-e-um-segredo-2018_l_m.jpg",
+      "show_category": "Comedy / 2018",
+      "start_time": "01:40",
+      "end_time": "03:35",
+      "episode_description": "Recém-saída da prisão, Debbie Ocean logo procura sua ex-parceira Lou para realizar um elaborado assalto: roubar um colar de diamantes no valor de 150 milhões de dólares, que a empresa Cartier mantém em um cofre. O plano é convencer a organização a emprestá-lo para que a estrela Daphne Kluger use a joia no badalado Met Gala, um dos eventos mais chiques e vistosos de Nova York. Para tanto, Debbie e Lou reúnem uma equipe composta apenas por mulheres: Nine Ball, Amita, Constance, Rose e Tammy."
+    },
+    {
+      "show_name": "Eu Não Quero Voltar Sozinho",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_eu-n-o-quero-voltar-sozinho-2010-1_l_m.jpg",
+      "show_category": "Drama / 2010",
+      "start_time": "03:35",
+      "end_time": "04:00",
+      "episode_description": "A vida de Leonardo, um adolescente deficiente visual, muda com a chegada de Gabriel, um novo aluno em sua escola. O jovem vive a inocência da descoberta do amor e da homossexualidade, ao mesmo tempo em que lida com o ciúme da amiga Giovana."
+    },
+    {
+      "show_name": "Marte Um",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_marte-um-2022_l_m.jpg",
+      "show_category": "Drama / 2022",
+      "start_time": "04:00",
+      "end_time": "06:00",
+      "episode_description": "Uma família negra da periferia de Contagem, Minas Gerais, busca seguir seus sonhos em um país que acaba de eleger como presidente um homem de extrema-direita, que representa o contrário de tudo que eles são."
+    },
+    {
+      "show_name": "Anna - O Perigo Tem Nome",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_anna-o-perigo-tem-nome-2019_l_m.jpg",
+      "show_category": "Action / 2019",
+      "start_time": "06:00",
+      "end_time": "08:05",
+      "episode_description": "Anna Poliatova é aparentemente só uma modelo famosa e requisitada pelas marcas de luxo. No entanto, um segredo faz com que ela se torne uma das assassinas mais perigosas e bem treinadas do mundo."
+    },
+    {
+      "show_name": "Resistência",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_resistencia-2023_l_m.jpg",
+      "show_category": "Science fiction / 2023",
+      "start_time": "08:05",
+      "end_time": "10:20",
+      "episode_description": "Em um futuro de guerra entre humanos e inteligência artificial, um ex-agente das forças especiais que sofre pelo desaparecimento de sua esposa é recrutado para matar um arquiteto de IA que desenvolveu uma arma que pode eliminar a raça humana."
+    },
+    {
+      "show_name": "Mais que Especiais",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mais-que-especiais-2019_l_m.jpg",
+      "show_category": "Comedy drama / 2019",
+      "start_time": "10:20",
+      "end_time": "12:20",
+      "episode_description": "Há 20 anos, dois homens dedicam suas vidas a crianças e adolescentes com autismo. Responsáveis por duas organizações sem fins lucrativos, eles têm a função de ensinar jovens vindos de locais carentes a serem cuidadores de casos extremos."
+    },
+    {
       "show_name": "Minha Fera",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/telecine-premium/today/br_minha-fera-2024_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_minha-fera-2024_l_m.jpg",
       "show_category": "Romantic comedy / 2024",
-      "start_time": "00:40",
-      "end_time": "02:30",
+      "start_time": "12:20",
+      "end_time": "14:15",
       "episode_description": "Laura precisa lidar com um câncer e um término de namoro. Ela vê seu mundo ficar ainda mais caótico quando encontra um charmoso monstro dentro de seu armário."
     },
     {
-      "show_name": "Pixinguinha - Um Homem Carinhoso",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/telecine-premium/today/br_pixinguinha-um-homem-carinhoso-2019_l_m.webp",
-      "show_category": "Biography / 2019",
-      "start_time": "02:30",
-      "end_time": "04:20",
-      "episode_description": "A vida de Alfredo da Rocha Vianna Junior, o Pixinguinha, contada desde suas primeiras apresentações na flauta até a composição de suas muitas obras-primas, como \"Carinhoso\". Negro e neto de escravos, ele foi um gênio à frente de seu tempo."
-    },
-    {
-      "show_name": "Desconhecidos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/telecine-premium/today/br_desconhecidos-2023_l_m.webp",
-      "show_category": "Thriller / 2023",
-      "start_time": "04:20",
-      "end_time": "06:00",
-      "episode_description": "Nada é o que parece quando um encontro casual torcido se transforma em uma cruel onda de assassinatos de um serial killer."
-    },
-    {
-      "show_name": "Vingança Fatal",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/telecine-premium/today/br_vinganca-fatal-2014_l_m.webp",
-      "show_category": "Action / 2014",
-      "start_time": "06:00",
-      "end_time": "07:50",
-      "episode_description": "Um mestre das artes marciais e ex-fuzileiro naval vai ao Brasil para caçar os homens que assassinaram sua irmã e chega a uma cidade dominada pela Yakuza."
-    },
-    {
-      "show_name": "Monstro",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/telecine-premium/today/br_monstro-2023_l_m.webp",
-      "show_category": "Drama / 2023",
-      "start_time": "07:50",
-      "end_time": "10:05",
-      "episode_description": "Mãe percebe que o filho está se comportando de maneira diferente e vai até a escola atrás de respostas. Três pontos de vista diferentes revelam a verdade sobre o menino."
-    },
-    {
-      "show_name": "Ainda Há Tempo",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/telecine-premium/today/br_ainda-ha-tempo-2020_l_m.webp",
-      "show_category": "Drama / 2020",
-      "start_time": "10:05",
-      "end_time": "12:00",
-      "episode_description": "John vive feliz com seu marido e filha, longe da vida do interior que deixou para trás. No entanto, ele deve encarar novamente a homofobia e os conflitos de seu passado depois que seu pai adoece."
-    },
-    {
-      "show_name": "Instinto Materno",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/telecine-premium/today/br_instinto-materno-2024_l_m.webp",
-      "show_category": "Thriller / 2024",
-      "start_time": "12:00",
-      "end_time": "13:45",
-      "episode_description": "As donas de casa Alice e Celine são melhores amigas e vizinhas que parecem ter tudo. No entanto, quando um trágico acidente destrói a harmonia de suas vidas, a culpa, a suspeita e a paranoia começam a desfazer seu vínculo."
-    },
-    {
-      "show_name": "Uma Família Feliz",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/telecine-premium/today/br_uma-familia-feliz-2023_l_m.webp",
-      "show_category": "Drama / 2023",
-      "start_time": "13:45",
+      "show_name": "Missão Pet",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_miss-o-pet-2025_l_m.jpg",
+      "show_category": "Children / 2025",
+      "start_time": "14:15",
       "end_time": "15:50",
-      "episode_description": "Eva acabou de dar à luz ao seu terceiro filho e se depara com a angústia de uma depressão pós-parto em meio a uma vida supostamente perfeita. O ar tranquilo de sua família é invadido por acontecimentos estranhos quando suas filhas gêmeas aparecem machucadas. Eva é acusada pela comunidade. Isolada e questionada por seu próprio marido, ela precisa superar sua fragilidade para provar sua inocência e reestruturar sua família."
+      "episode_description": "Uma equipe de bandidos animais embarca em um golpe de rotina e se veem envolvidos em um assalto a trem. Cabe a Falcon, um guaxinim ladrão de pouca monta, e Rex, um cão policial justo, salvar os animais neste trem em alta velocidade."
     },
     {
-      "show_name": "Madre Teresa & Eu",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/telecine-premium/today/br_madre-teresa-eu-2022_l_m.webp",
-      "show_category": "Drama / 2022",
+      "show_name": "Confia - Sonho de Cria",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_confia-sonho-de-cria-2024_l_m.jpg",
+      "show_category": "Drama / 2024",
       "start_time": "15:50",
-      "end_time": "18:00",
-      "episode_description": "Separadas por anos, a jovem Kavita e Madre Teresa compartilham sentimentos conflitantes. Uma decide se segue uma gravidez e a outra luta para manter a fé e servir aos pobres."
+      "end_time": "17:25",
+      "episode_description": "Nando trabalha como entregador em uma lanchonete de Copacabana e sonha em ser uma estrela do trap, mas não tem muitas oportunidades. Até que ele conhece Jaque, uma moça acostumada desde cedo a se virar para sobreviver - nem sempre da forma mais convencional. Jaque acredita no potencial de Nando e decide, à sua maneira, lançá-lo como artista."
     },
     {
-      "show_name": "OTHER - Presença Maligna",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/telecine-premium/today/br_other-presenca-maligna-2025_l_m.webp",
-      "show_category": "Drama / 2025",
-      "start_time": "18:00",
-      "end_time": "19:35",
-      "episode_description": "Após a morte da mãe, Alice retorna à casa, intacta, mas tomada por uma presença sombria. Medos antigos emergem e segredos aterradores vêm à tona."
+      "show_name": "Missão Resgate",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_miss-o-resgate-2021_l_m.jpg",
+      "show_category": "Action / 2021",
+      "start_time": "17:25",
+      "end_time": "19:20",
+      "episode_description": "Após o desmoronamento de uma mina de diamantes, Mike McCann, um experiente motorista de caminhão, é recrutado por Jim Goldenrod para liderar uma missão de resgate. Ele e sua equipe têm apenas 30 horas para transportarem uma enorme carga sobre rios congelados e tentarem salvar a vida dos mineradores soterrados."
     },
     {
-      "show_name": "A Divisão",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/telecine-premium/today/br_a-divis-o-2020_l_m.webp",
-      "show_category": "Crime drama / 2020",
-      "start_time": "19:35",
-      "end_time": "21:55",
-      "episode_description": "O Rio de Janeiro se encontra acuado por uma onda de sequestros na década de 1990. As forças de segurança convocam agentes corruptos e um delegado com fama de genocida para salvar a cidade dos bandidos e até da polícia."
-    },
-    {
-      "show_name": "Preview",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/telecine-premium/today/br_preview_l_m.webp",
-      "show_category": "Entertainment",
-      "start_time": "21:55",
+      "show_name": "Jogos Vorazes - A Cantiga dos Pássaros e das Serpentes",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jogos-vorazes-a-cantiga-dos-passaros-e-das-serpentes-2023_l_m.jpg",
+      "show_category": "Action / 2023",
+      "start_time": "19:20",
       "end_time": "22:00",
-      "episode_description": "Acompanhe matérias especiais sobre o mundo da sétima arte, o cinema."
+      "episode_description": "Anos antes de se tornar o presidente tirânico de Panem, Coriolanus Snow, de 18 anos, vê uma chance de mudar sua sorte quando se torna o mentor de Lucy Gray Baird, o tributo feminino do Distrito 12."
     },
     {
-      "show_name": "Rambo - Até o Fim",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/telecine-premium/today/br_rambo-ate-o-fim-2019_l_m.webp",
-      "show_category": "Action / 2019",
+      "show_name": "John Wick 4: Baba Yaga",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_john-wick-4-baba-yaga-2023_l_m.jpg",
+      "show_category": "Action / 2023",
       "start_time": "22:00",
-      "end_time": "23:45",
-      "episode_description": "O tempo passou para Rambo, que agora vive recluso em um rancho. Sua vida marcada por lutas violentas ficou para trás, mas deixou marcas inesquecíveis. No entanto, quando uma jovem de uma família amiga é sequestrada, Rambo precisa confrontar seu passado e resgatar suas habilidades de combate para enfrentar o mais perigoso cartel mexicano. A busca logo se transforma em uma caçada por justiça, na qual nenhum criminoso é perdoado."
-    },
-    {
-      "show_name": "Bob Marley: One Love",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/telecine-premium/today/br_bob-marley-one-love-2024_l_m.webp",
-      "show_category": "Biography / 2024 /6.2",
-      "start_time": "23:45",
-      "end_time": "01:40",
-      "episode_description": "Das raízes em Trenchtown até a fama mundial, o filme delineia a revolução musical de Bob Marley e sua importância como ativista político. A trama se desenvolve através dos altos e baixos de sua carreira."
+      "end_time": "00:50",
+      "episode_description": "O ex-assassino de aluguel John Wick é procurado pelo mundo todo e a recompensa por sua captura aumenta cada vez mais. Wick descobre um caminho para derrotar a Alta Cúpula, mas antes de conquistar sua liberdade, ele precisa enfrentar um novo inimigo com alianças poderosas e forças que transformam velhos amigos em inimigos."
     }
   ]
 }

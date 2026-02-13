@@ -1,42 +1,34 @@
 {
   "channel": "Globo",
-  "date": "12/02/2026",
+  "date": "13/02/2026",
   "schedule": [
     {
-      "show_name": "Jornal da Globo",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_jornal-da-globo_l_m.webp",
-      "show_category": "News",
-      "start_time": "00:05",
-      "end_time": "00:55",
-      "episode_description": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura."
-    },
-    {
       "show_name": "Coração Acelerado",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_corac-o-acelerado_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_corac-o-acelerado_l_m.jpg",
       "show_category": "Soap",
-      "start_time": "00:55",
-      "end_time": "01:35",
+      "start_time": "00:15",
+      "end_time": "01:00",
       "episode_description": "Xavier conta a Zilá que foi procurado por Leandro; Eduarda se encanta por Leandro; Alaorzinho usa o programa de Talita para pressionar Ronei, que se desespera com maus resultados da empresa."
     },
     {
       "show_name": "Vai que Cola",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_vai-que-cola-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-1_l_m.jpg",
       "show_category": "Comedy",
-      "start_time": "01:35",
-      "end_time": "02:10",
+      "start_time": "01:00",
+      "end_time": "02:05",
       "episode_description": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede."
     },
     {
       "show_name": "Jogos Olímpicos de Inverno Milão-Cortina 2026",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_olympics-jogos-olimpicos-de-inverno-mil-o-cortina-2026-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_olympics-jogos-olimpicos-de-inverno-mil-o-cortina-2026-1_l_m.jpg",
       "show_category": "",
-      "start_time": "02:10",
+      "start_time": "02:05",
       "end_time": "04:00",
       "episode_description": "Os principais destaques da 25ª edição dos Jogos Olímpicos de inverno, realizada na Itália."
     },
     {
       "show_name": "Hora 1",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_hora-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hora-1_l_m.jpg",
       "show_category": "News",
       "start_time": "04:00",
       "end_time": "06:00",
@@ -44,7 +36,7 @@
     },
     {
       "show_name": "Bom Dia Praça",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_bom-dia-praca-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bom-dia-praca-1_l_m.jpg",
       "show_category": "News",
       "start_time": "06:00",
       "end_time": "08:30",
@@ -52,7 +44,7 @@
     },
     {
       "show_name": "Bom Dia Brasil",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_bom-dia-brasil-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bom-dia-brasil-1_l_m.jpg",
       "show_category": "News",
       "start_time": "08:30",
       "end_time": "09:30",
@@ -60,7 +52,7 @@
     },
     {
       "show_name": "Encontro com Patrícia Poeta",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_encontro-com-patricia-poeta_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_encontro-com-patricia-poeta_l_m.jpg",
       "show_category": "Entertainment",
       "start_time": "09:30",
       "end_time": "10:35",
@@ -68,7 +60,7 @@
     },
     {
       "show_name": "Mais Você",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_mais-voce-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mais-voce-1_l_m.jpg",
       "show_category": "Talk",
       "start_time": "10:35",
       "end_time": "11:45",
@@ -76,7 +68,7 @@
     },
     {
       "show_name": "Praça TV - 1ª Edição",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_praca-tv-1-edic-o-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_praca-tv-1-edic-o-1_l_m.jpg",
       "show_category": "News",
       "start_time": "11:45",
       "end_time": "13:00",
@@ -84,7 +76,7 @@
     },
     {
       "show_name": "Globo Esporte",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_news-globo-esporte_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_news-globo-esporte_l_m.jpg",
       "show_category": "",
       "start_time": "13:00",
       "end_time": "13:25",
@@ -92,7 +84,7 @@
     },
     {
       "show_name": "Jornal Hoje",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_jornal-hoje-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-hoje-1_l_m.jpg",
       "show_category": "News",
       "start_time": "13:25",
       "end_time": "14:45",
@@ -100,7 +92,7 @@
     },
     {
       "show_name": "Terra Nostra - Edição Especial",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_terra-nostra-edic-o-especial_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_terra-nostra-edic-o-especial_l_m.jpg",
       "show_category": "Soap",
       "start_time": "14:45",
       "end_time": "15:30",
@@ -108,7 +100,7 @@
     },
     {
       "show_name": "Jogos Olímpicos de Inverno Milão-Cortina 2026",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_olympics-jogos-olimpicos-de-inverno-mil-o-cortina-2026_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_olympics-jogos-olimpicos-de-inverno-mil-o-cortina-2026_l_m.jpg",
       "show_category": "Jogos Olímpicos de Inverno Milão-Cortina 2026",
       "start_time": "15:30",
       "end_time": "17:05",
@@ -116,7 +108,7 @@
     },
     {
       "show_name": "Vale a Pena Ver de Novo - Rainha da Sucata",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_vale-a-pena-ver-de-novo-rainha-da-sucata_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vale-a-pena-ver-de-novo-rainha-da-sucata_l_m.jpg",
       "show_category": "Soap",
       "start_time": "17:05",
       "end_time": "18:25",
@@ -124,7 +116,7 @@
     },
     {
       "show_name": "Êta Mundo Melhor!",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_eta-mundo-melhor_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_eta-mundo-melhor_l_m.jpg",
       "show_category": "Drama",
       "start_time": "18:25",
       "end_time": "19:10",
@@ -132,7 +124,7 @@
     },
     {
       "show_name": "Praça TV - 2ª Edição",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_praca-tv-2-edic-o-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_praca-tv-2-edic-o-1_l_m.jpg",
       "show_category": "News",
       "start_time": "19:10",
       "end_time": "19:40",
@@ -140,7 +132,7 @@
     },
     {
       "show_name": "Coração Acelerado",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_corac-o-acelerado_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_corac-o-acelerado_l_m.jpg",
       "show_category": "Soap",
       "start_time": "19:40",
       "end_time": "20:30",
@@ -148,35 +140,35 @@
     },
     {
       "show_name": "Jornal Nacional",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_jornal-nacional-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-nacional-1_l_m.jpg",
       "show_category": "News",
       "start_time": "20:30",
-      "end_time": "21:20",
+      "end_time": "21:15",
       "episode_description": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo."
     },
     {
       "show_name": "Três Graças",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_tres-gracas_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tres-gracas_l_m.jpg",
       "show_category": "Drama",
-      "start_time": "21:20",
-      "end_time": "22:25",
+      "start_time": "21:15",
+      "end_time": "22:10",
       "episode_description": "Gerluce Maria das Graças integra uma família de mães solo: é filha de Lígia Maria e mãe de Joélly Maria. Criada pela mãe, que engravidou na adolescência e foi abandonada pelo seu pai, Gerluce enfrenta um destino parecido com a chegada da filha."
     },
     {
       "show_name": "Big Brother Brasil",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_big-brother-brasil-s26e32_l_m.webp",
-      "show_category": "Temporada 26 Episódio 32",
-      "start_time": "22:25",
-      "end_time": "23:25",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_big-brother-brasil-s26e33_l_m.jpg",
+      "show_category": "Temporada 26 Episódio 33",
+      "start_time": "22:10",
+      "end_time": "22:55",
       "episode_description": "Um grupo de pessoas topa ficar confinado em uma espaçosa casa cenográfica, sendo vigiado por câmeras 24 horas por dia. Sem receber informações do mundo exterior, eles disputam uma série de provas e dinâmicas em busca de um prêmio milionário."
     },
     {
-      "show_name": "Jornal da Globo",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/rede-globo/today/br_jornal-da-globo_l_m.webp",
-      "show_category": "News",
-      "start_time": "23:25",
-      "end_time": "00:15",
-      "episode_description": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura."
+      "show_name": "Carnaval 2026",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_carnaval-2026_l_m.jpg",
+      "show_category": "Event",
+      "start_time": "22:55",
+      "end_time": "06:00",
+      "episode_description": "Transmissão dos desfiles das escolas de samba do Carnaval de 2026."
     }
   ]
 }

@@ -1,142 +1,134 @@
 {
   "channel": "ESPN Brasil",
-  "date": "13/02/2026",
+  "date": "14/02/2026",
   "schedule": [
     {
-      "show_name": "SportsCenter",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/espn/tomorrow/br_soccer-sportscenter_l_m.webp",
-      "show_category": "",
+      "show_name": "Resenha ESPN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_resenha-espn_l_m.jpg",
+      "show_category": "Sports talk",
+      "start_time": "00:00",
+      "end_time": "01:00",
+      "episode_description": "Atletas da atualidade e do passado participam de bate-papo descontraído e cheio de boas histórias."
+    },
+    {
+      "show_name": "Brentford x Arsenal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-brentford-x-arsenal_l_m.jpg",
+      "show_category": "Campeonato Inglês",
       "start_time": "01:00",
-      "end_time": "02:00",
-      "episode_description": "Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abdicar do bom humor."
-    },
-    {
-      "show_name": "Bayern de Munique x RB Leipzig",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/espn/tomorrow/br_soccer-bayern-de-munique-x-rb-leipzig-1_l_m.webp",
-      "show_category": "Copa da Alemanha",
-      "start_time": "02:00",
-      "end_time": "04:00",
-      "episode_description": "Da Allianz Arena, em Munique, Alemanha."
-    },
-    {
-      "show_name": "Show da Rodada de La Liga",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/espn/tomorrow/br_soccer-show-da-rodada-de-la-liga_l_m.webp",
-      "show_category": "",
-      "start_time": "04:00",
-      "end_time": "04:30",
-      "episode_description": ".Todos os gols e os principais lances da rodada de La Liga, primeira divisão do Campeonato Espanhol."
-    },
-    {
-      "show_name": "Nottingham Forest x Wolverhampton",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/espn/tomorrow/br_soccer-nottingham-forest-x-wolverhampton-1_l_m.webp",
-      "show_category": "Campeonato Inglês",
-      "start_time": "04:30",
-      "end_time": "04:30",
+      "end_time": "03:00",
       "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
     },
     {
-      "show_name": "Nottingham Forest x Wolverhampton",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/espn/tomorrow/br_soccer-nottingham-forest-x-wolverhampton-1_l_m.webp",
-      "show_category": "Campeonato Inglês",
-      "start_time": "04:30",
-      "end_time": "06:30",
-      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
+      "show_name": "Atlético de Madrid x Barcelona",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-atletico-de-madrid-x-barcelona-2_l_m.jpg",
+      "show_category": "Copa do Rei",
+      "start_time": "03:00",
+      "end_time": "05:00",
+      "episode_description": "Do Riyadh Air Metropolitano, em Madri, Espanha."
     },
     {
-      "show_name": "Linha de Passe: Mesa-Redonda",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/espn/tomorrow/br_sports-talk-linha-de-passe-mesa-redonda_l_m.webp",
+      "show_name": "Mina de Passe",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mina-de-passe_l_m.jpg",
+      "show_category": "Sports talk",
+      "start_time": "05:00",
+      "end_time": "06:00",
+      "episode_description": "Acompanhe tudo sobre o futebol feminino."
+    },
+    {
+      "show_name": "Momento ESPN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_documentary-momento-espn_l_m.jpg",
       "show_category": "",
-      "start_time": "06:30",
-      "end_time": "08:00",
-      "episode_description": "Comentaristas esportivos conceituados entram em campo para uma análise completa da rodada do futebol ao estilo \"mesa redonda\", com debates acalorados e comentários de qualidade, sempre a partir de um olhar crítico e da imparcialidade."
+      "start_time": "06:00",
+      "end_time": "06:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Wolfsburg x Juventus",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-wolfsburg-x-juventus_l_m.jpg",
+      "show_category": "Liga dos Campeões de Futebol Feminino",
+      "start_time": "06:15",
+      "end_time": "08:10",
+      "episode_description": "Acompanhe as partidas da principal competição de futebol para equipes femininas da Europa."
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/espn/tomorrow/br_soccer-sportscenter_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-sportscenter_l_m.jpg",
       "show_category": "",
-      "start_time": "08:00",
-      "end_time": "09:00",
+      "start_time": "08:10",
+      "end_time": "09:10",
       "episode_description": "Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abdicar do bom humor."
     },
     {
-      "show_name": "Manchester City x Fulham",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/espn/tomorrow/br_soccer-manchester-city-x-fulham_l_m.webp",
-      "show_category": "Campeonato Inglês",
-      "start_time": "09:00",
-      "end_time": "11:00",
-      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
+      "show_name": "Burton Albion x West Ham United",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-burton-albion-x-west-ham-united_l_m.jpg",
+      "show_category": "Copa da Inglaterra",
+      "start_time": "09:10",
+      "end_time": "11:15",
+      "episode_description": "Criada em 1871, a FA Cup é o torneio de futebol mais antigo do planeta. Reúne os principais times da Inglaterra contra diversos de todo país, em eliminatórias simples. São quase 800 clubes buscando uma vaga na final."
+    },
+    {
+      "show_name": "SportsCenter Abre o Jogo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sports-talk-sportscenter-abre-o-jogo_l_m.jpg",
+      "show_category": "",
+      "start_time": "11:15",
+      "end_time": "11:55",
+      "episode_description": "Destaques e preparativos da partida válida pela maior liga de basquete profissional do mundo."
+    },
+    {
+      "show_name": "Manchester City x Salford City",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-manchester-city-x-salford-city_l_m.jpg",
+      "show_category": "Copa da Inglaterra",
+      "start_time": "11:55",
+      "end_time": "14:00",
+      "episode_description": "Criada em 1871, a FA Cup é o torneio de futebol mais antigo do planeta. Reúne os principais times da Inglaterra contra diversos de todo país, em eliminatórias simples. São quase 800 clubes buscando uma vaga na final."
+    },
+    {
+      "show_name": "SportsCenter Abre o Jogo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sports-talk-sportscenter-abre-o-jogo_l_m.jpg",
+      "show_category": "",
+      "start_time": "14:00",
+      "end_time": "14:40",
+      "episode_description": "Destaques e preparativos da partida válida pela maior liga de basquete profissional do mundo."
+    },
+    {
+      "show_name": "Aston Villa x Newcastle United",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-aston-villa-x-newcastle-united_l_m.jpg",
+      "show_category": "Copa da Inglaterra",
+      "start_time": "14:40",
+      "end_time": "16:45",
+      "episode_description": "Criada em 1871, a FA Cup é o torneio de futebol mais antigo do planeta. Reúne os principais times da Inglaterra contra diversos de todo país, em eliminatórias simples. São quase 800 clubes buscando uma vaga na final."
+    },
+    {
+      "show_name": "Liverpool x Brighton & Hove Albion",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-liverpool-x-brighton-hove-albion-2_l_m.jpg",
+      "show_category": "Copa da Inglaterra",
+      "start_time": "16:45",
+      "end_time": "19:00",
+      "episode_description": "Criada em 1871, a FA Cup é o torneio de futebol mais antigo do planeta. Reúne os principais times da Inglaterra contra diversos de todo país, em eliminatórias simples. São quase 800 clubes buscando uma vaga na final."
     },
     {
       "show_name": "SportsCenter",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/espn/tomorrow/br_soccer-sportscenter_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-sportscenter_l_m.jpg",
       "show_category": "",
-      "start_time": "11:00",
-      "end_time": "13:00",
-      "episode_description": "Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abdicar do bom humor."
-    },
-    {
-      "show_name": "F Show",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/espn/tomorrow/br_soccer-f-show_l_m.webp",
-      "show_category": "",
-      "start_time": "13:00",
-      "end_time": "15:00",
-      "episode_description": "O programa debate os principais acontecimentos do mundo do futebol de forma acalorada porém inteligente, mesclando jornalismo, opinião e entretenimento."
-    },
-    {
-      "show_name": "Mundo F",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/espn/tomorrow/br_soccer-mundo-f_l_m.webp",
-      "show_category": "",
-      "start_time": "15:00",
-      "end_time": "16:35",
-      "episode_description": "Os principais assuntos que são notícia no futebol internacional abordados com linguagem contemporânea; grandes temas, clubes e personagens são destacados por especialistas que trazem informação e opinião."
-    },
-    {
-      "show_name": "Pisa x Milan",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/espn/tomorrow/br_soccer-pisa-x-milan_l_m.webp",
-      "show_category": "Campeonato Italiano",
-      "start_time": "16:35",
-      "end_time": "18:45",
-      "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
-    },
-    {
-      "show_name": "Equipe F",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/espn/tomorrow/br_soccer-equipe-f_l_m.webp",
-      "show_category": "",
-      "start_time": "18:45",
-      "end_time": "20:00",
-      "episode_description": "Especialistas comentam os principais acontecimentos notícia no futebol brasileiro."
-    },
-    {
-      "show_name": "SportsCenter",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/espn/tomorrow/br_soccer-sportscenter_l_m.webp",
-      "show_category": "",
-      "start_time": "20:00",
+      "start_time": "19:00",
       "end_time": "21:00",
       "episode_description": "Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abdicar do bom humor."
     },
     {
-      "show_name": "Mina de Passe",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/espn/tomorrow/br_mina-de-passe_l_m.webp",
-      "show_category": "Sports talk",
+      "show_name": "Bola da Vez",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bola-da-vez_l_m.jpg",
+      "show_category": "Children",
       "start_time": "21:00",
       "end_time": "22:00",
-      "episode_description": "Acompanhe tudo sobre o futebol feminino."
+      "episode_description": "Entre encontros e desencontros, esquecimento e memória, um grupo de crianças passeia pela infância, pelas raízes e por paisagens escondidas da cidade de Goiás."
     },
     {
-      "show_name": "Resenha ESPN",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/espn/tomorrow/br_resenha-espn_l_m.webp",
-      "show_category": "Sports talk",
+      "show_name": "Real Madrid x Real Sociedad",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-real-madrid-x-real-sociedad_l_m.jpg",
+      "show_category": "Campeonato Espanhol",
       "start_time": "22:00",
-      "end_time": "23:00",
-      "episode_description": "Atletas da atualidade e do passado participam de bate-papo descontraído e cheio de boas histórias."
-    },
-    {
-      "show_name": "SportsCenter",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/espn/tomorrow/br_soccer-sportscenter_l_m.webp",
-      "show_category": "",
-      "start_time": "23:00",
       "end_time": "",
-      "episode_description": "Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abdicar do bom humor."
+      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
     }
   ]
 }
