@@ -1,110 +1,102 @@
 {
   "channel": "HBO Mundi",
-  "date": "14/02/2026",
+  "date": "15/02/2026",
   "schedule": [
     {
+      "show_name": "Sexta-Feira 13",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sexta-feira-13-1980-1_l_m.jpg",
+      "show_category": "Horror / 1980",
+      "start_time": "00:50",
+      "end_time": "02:29",
+      "episode_description": "A história de um antigo homicídio em Crystal Lake não impede que alguns jovens montem um acampamento de verão no bosque. Moradores supersticiosos advertem sobre o ocorrido, mas os instrutores Jack, Alice, Bill, Marcie e Ned prestam pouca atenção aos mais velhos e acabam sendo perseguidos por um assassino brutal."
+    },
+    {
+      "show_name": "A Hora do Pesadelo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-hora-do-pesadelo-1984-1_l_m.jpg",
+      "show_category": "Horror / 1984",
+      "start_time": "02:29",
+      "end_time": "04:01",
+      "episode_description": "Um grupo de adolescentes tem pesadelos horríveis, em que são atacados por um homem deformado com garras de aço. Ele apenas aparece durante o sono e, para escapar, é preciso acordar. Os crimes vão ocorrendo seguidamente, até que se descobre que o ser misterioso é, na verdade, Freddy Krueger, um homem que molestou crianças na rua Elm e foi queimado vivo pela vizinhança. Agora, Krueger pode ter retornado para se vingar daqueles que o mataram, através do sono."
+    },
+    {
+      "show_name": "A Cordilheira",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-cordilheira-2017_l_m.jpg",
+      "show_category": "Drama / 2017",
+      "start_time": "04:01",
+      "end_time": "06:00",
+      "episode_description": "Em uma cúpula de presidentes latino-americanos no Chile, onde as estratégias e alianças geopolíticas da região são definidas, Hernán Blanco, o presidente argentino, vive um drama político e familiar que o fará enfrentar seus próprios demônios."
+    },
+    {
+      "show_name": "33 Fotos do Gueto",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_33-fotos-do-gueto_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "06:00",
+      "end_time": "07:24",
+      "episode_description": "A história das únicas fotografias conhecidas do interior do Gueto de Varsóvia durante a revolta de abril de 1943 e sua brutal repressão. Fotografias que não foram tiradas pelas forças alemãs."
+    },
+    {
+      "show_name": "Um Tio Quase Perfeito",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_um-tio-quase-perfeito-2017_l_m.jpg",
+      "show_category": "Comedy / 2017",
+      "start_time": "07:24",
+      "end_time": "09:05",
+      "episode_description": "Tio Tony é um adorável trambiqueiro que vive de bicos como estátua viva, cartomante, pastor e sempre conta com a cobertura da mãe, Cecilia. Quando eles são despejados de onde moram, procuram a irmã de Tony, Angela, com quem não falam há anos. Ela tem três filhos que mal conhecem a avó e o tio. Como Angela tem uma viagem de trabalho marcada e a babá não aparece, ela acaba aceitando o irmão e mãe em casa por uma temporada para ficar com as crianças."
+    },
+    {
+      "show_name": "Saneamento Básico, o Filme",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_saneamento-basico-o-filme-2007-1_l_m.jpg",
+      "show_category": "Comedy / 2007",
+      "start_time": "09:05",
+      "end_time": "11:05",
+      "episode_description": "Uma pequena comunidade de descendentes de imigrantes italianos do interior do estado do Rio Grande do Sul recorre a um vídeo caseiro para tentar resolver os problemas básicos de saneamento que afetam seu povo."
+    },
+    {
+      "show_name": "Feras no Jardim",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_feras-no-jardim-2024_l_m.jpg",
+      "show_category": "Drama / 2024",
+      "start_time": "11:05",
+      "end_time": "12:50",
+      "episode_description": "Bobo, uma menina de oito anos, cresce na fazenda da família no Zimbábue em meio a uma longa guerra pela independência. Confusa com seu amor por pessoas de lados opostos, Bobo tenta encontrar um sentido para sua vida de uma forma mágica."
+    },
+    {
+      "show_name": "Fugitivo por Acidente",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_fugitivo-por-acidente-2023_l_m.jpg",
+      "show_category": "Drama / 2023",
+      "start_time": "12:50",
+      "end_time": "14:40",
+      "episode_description": "Em uma abordagem de rotina, um taxista vietnamita idoso é feito de refém sob a mira de uma arma por três condenados recém-fugitivos do Condado de Orange."
+    },
+    {
       "show_name": "Jerry Maguire - A Grande Virada",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/max/today/br_jerry-maguire-a-grande-virada-1996-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jerry-maguire-a-grande-virada-1996-1_l_m.jpg",
       "show_category": "Romantic comedy / 1996",
-      "start_time": "00:29",
-      "end_time": "02:55",
+      "start_time": "14:40",
+      "end_time": "17:05",
       "episode_description": "Um empresário de atletas que comete o erro de dizer o que pensa se vê abandonado por todos os seus clientes, exceto o jogador de futebol americano Rod Tidwell. A vida pessoal de Maguire também começa a se desintegrar quando ele fica dividido entre amor e dinheiro nesta metáfora sobre a necessidade de dinheiro e poder dos americanos."
     },
     {
-      "show_name": "1978",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/max/today/br_1978-2024_l_m.webp",
-      "show_category": "Thriller / 2024 /6.2",
-      "start_time": "02:55",
-      "end_time": "04:19",
-      "episode_description": "Torturadores da ditadura interrogam prisioneiros durante a final da Copa do Mundo de 1978, mas descobrem que suas vítimas são membros de um culto. O centro de tortura rapidamente se transforma em palco para horrores sobrenaturais incontroláveis."
+      "show_name": "Questão de Honra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quest-o-de-honra-1992-1_l_m.jpg",
+      "show_category": "Drama / 1992",
+      "start_time": "17:05",
+      "end_time": "19:30",
+      "episode_description": "Um jovem advogado tenta descobrir a verdade sobre a morte de um soldado em uma base militar. A suspeita é de que ele tenha sido vítima de um alerta vermelho, uma punição extraoficial ordenada por um oficial superior."
     },
     {
-      "show_name": "Criaturas do Farol",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/max/today/br_criaturas-do-farol-2024_l_m.webp",
-      "show_category": "Thriller / 2024",
-      "start_time": "04:19",
-      "end_time": "06:00",
-      "episode_description": "Uma jovem naufraga em uma ilha e é resgatada pelo único habitante do lugar: o faroleiro."
-    },
-    {
-      "show_name": "Hook - A Volta do Capitão Gancho",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/max/today/br_hook-a-volta-do-capit-o-gancho-1991-1_l_m.webp",
-      "show_category": "Children / 1991",
-      "start_time": "06:00",
-      "end_time": "08:30",
-      "episode_description": "Já adulto, Peter Pan tem seus filhos sequestradas pelo temível Capitão Gancho, seu arqui-inimigo. Agora, ele precisa voltar para a mágica Terra do Nunca e salvar as crianças com a ajuda da fada Sininho, sua fiel companheira de aventuras."
-    },
-    {
-      "show_name": "A Cozinha",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/max/today/br_a-cozinha-2024_l_m.webp",
-      "show_category": "Drama / 2024",
-      "start_time": "08:30",
-      "end_time": "10:55",
-      "episode_description": "A vida em uma cozinha de restaurante de Nova York durante o horário de pico do almoço mostra uma mistura de culturas de todo o mundo."
-    },
-    {
-      "show_name": "Whiplash - Em Busca da Perfeição",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/max/today/br_whiplash-em-busca-da-perfeic-o-2014-1_l_m.webp",
+      "show_name": "O Juiz",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-juiz-2014-1_l_m.jpg",
       "show_category": "Drama / 2014",
-      "start_time": "10:55",
-      "end_time": "12:49",
-      "episode_description": "Andrew sonha em ser o melhor baterista de sua geração. Ele chama a atenção do impiedoso mestre do jazz Terence Fletcher, que ultrapassa os limites e transforma seu sonho em uma obsessão, colocando em risco a saúde física e mental do jovem músico."
-    },
-    {
-      "show_name": "Joika - Uma Americana no Bolshoi",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/max/today/br_joika-uma-americana-no-bolshoi-2023_l_m.webp",
-      "show_category": "Drama / 2023",
-      "start_time": "12:49",
-      "end_time": "14:45",
-      "episode_description": "A história de dedicação e superação de uma das poucas norte-americanas a ser aceita e se formar no prestigioso Ballet Bolshoi, na Rússia."
-    },
-    {
-      "show_name": "Ela",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/max/today/br_ela-2013_l_m.webp",
-      "show_category": "Comedy drama / 2013 /8.0",
-      "start_time": "14:45",
-      "end_time": "16:55",
-      "episode_description": "O solitário escritor Theodore desenvolve uma relação de amor especial com o novo sistema operacional do seu computador. Surpreendentemente, ele acaba se apaixonando pela voz deste programa, uma entidade intuitiva e sensível chamada Samantha."
-    },
-    {
-      "show_name": "A Chegada",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/max/today/br_a-chegada-2016_l_m.webp",
-      "show_category": "Science fiction / 2016",
-      "start_time": "16:55",
-      "end_time": "18:55",
-      "episode_description": "Naves alienígenas chegam nas principais cidades do mundo. Com a intenção de se comunicarem com os visitantes, uma linguista e um militar são chamados para decifrarem as estranhas mensagens dos visitantes."
-    },
-    {
-      "show_name": "Astronauta",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/max/today/br_astronauta-s01e05_l_m.webp",
-      "show_category": "Temporada 1 Episódio 5",
-      "start_time": "18:55",
-      "end_time": "19:24",
-      "episode_description": "Depois de ser abduzido mais uma vez, Pereira enfim encontra algumas respostas. Enquanto uma nova aliada o ajuda a retomar o controle de sua mente, Ritinha e General Alves tentam lidar com uma crise mundial que se agrava cada vez mais."
-    },
-    {
-      "show_name": "Astronauta",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/max/today/br_astronauta-s01e06_l_m.webp",
-      "show_category": "Temporada 1 Episódio 6",
-      "start_time": "19:24",
-      "end_time": "19:55",
-      "episode_description": "General Alvez e Ritinha tentam impedir que Cabral atire na Pirâmide, repleta de astronautas da BRASA. Lá dentro, Pereira fica encara os seres extraterrestres que ameaçam a Terra. Para salvar a todos, ele precisa conquistar a confiança dos colegas."
-    },
-    {
-      "show_name": "A Outra História Americana",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/max/today/br_a-outra-historia-americana-1998_l_m.webp",
-      "show_category": "Drama / 1998",
-      "start_time": "19:55",
+      "start_time": "19:30",
       "end_time": "22:00",
-      "episode_description": "O neonazista Derek Vinyard é preso após assassinar dois jovens negros que tentaram roubar seu carro. Após ser liberto, Derek promete mudar de vida e tenta evitar que seu irmão mais novo, Danny, siga os seus passos."
+      "episode_description": "Hank Palmer, um advogado bem-sucedido e arrogante, retorna à sua pequena cidade natal para o velório da mãe. Ele descobre que seu pai, o respeitado juiz local Joseph Palmer, está sendo acusado de ter assassinado um antigo réu, que acabou de sair da prisão após cumprir 20 anos na cadeia. Apesar de toda a frieza que há entre eles, Hank assume o caso e passa a defender o pai. Os dois precisam curar certas feridas e aceitar a dependência que Joseph, portador de Alzheimer, tem do filho."
     },
     {
-      "show_name": "Uma Batalha Após a Outra",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/max/today/br_uma-batalha-apos-a-outra-2025_l_m.webp",
-      "show_category": "Thriller / 2025",
+      "show_name": "Jurado Nº2",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jurado-n-2-2024_l_m.jpg",
+      "show_category": "Thriller / 2024",
       "start_time": "22:00",
-      "end_time": "00:50",
-      "episode_description": "Um ex-membro de um grupo busca ajuda de outros revolucionários para encontrar sua filha."
+      "end_time": "00:00",
+      "episode_description": "Pai de família serve como jurado em um importante julgamento de assassinato. Ele se depara com um dilema moral significativo que pode influenciar o veredito do júri, potencialmente condenando ou absolvendo o réu acusado de homicídio."
     }
   ]
 }

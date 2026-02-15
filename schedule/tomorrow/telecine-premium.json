@@ -1,110 +1,118 @@
 {
   "channel": "Telecine Premium",
-  "date": "15/02/2026",
+  "date": "16/02/2026",
   "schedule": [
     {
+      "show_name": "O Sequestro de Daniel Rye",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-sequestro-de-daniel-rye-2019_l_m.jpg",
+      "show_category": "Drama / 2019",
+      "start_time": "01:25",
+      "end_time": "03:50",
+      "episode_description": "Um jovem fotógrafo viaja até a Síria para documentar a crise dos refugiados em 2013. Ele acaba sendo sequestrado pelo Estado Islâmico e sua família faz de tudo para libertá-lo."
+    },
+    {
+      "show_name": "Cidade; Campo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidade-campo-2024_l_m.jpg",
+      "show_category": "Drama / 2024",
+      "start_time": "03:50",
+      "end_time": "06:00",
+      "episode_description": "Após o rompimento de uma barragem inundar sua terra natal, a trabalhadora rural Joana se muda para São Paulo para encontrar sua irmã Tânia. Flávia se muda com Mara, sua companheira, para a fazenda que herdou do pai, falecido recentemente. A natureza obriga as duas mulheres a enfrentar frustrações e lidar com memórias e fantasmas."
+    },
+    {
+      "show_name": "Mallandro - O Errado que Deu Certo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mallandro-o-errado-que-deu-certo-2024_l_m.jpg",
+      "show_category": "Comedy drama / 2024",
+      "start_time": "06:00",
+      "end_time": "07:45",
+      "episode_description": "O comediante Sérgio Mallandro passa por uma fase ruim da vida. O dinheiro está cada vez mais curto e ele até tenta trabalhar como motorista de aplicativo, mas não consegue porque, mesmo disfarçado, sempre acaba reconhecido pelos passageiros. Surge então uma oportunidade de voltar à televisão, mas o humorista acaba em uma enrascada e não consegue mais dizer nenhum dos famosos bordões. Mallandro agora precisa se reinventar para conseguir uma última chance na carreira artística."
+    },
+    {
+      "show_name": "Madre Teresa & Eu",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_madre-teresa-eu-2022_l_m.jpg",
+      "show_category": "Drama / 2022",
+      "start_time": "07:45",
+      "end_time": "09:50",
+      "episode_description": "Separadas por anos, a jovem Kavita e Madre Teresa compartilham sentimentos conflitantes. Uma decide se segue uma gravidez e a outra luta para manter a fé e servir aos pobres."
+    },
+    {
+      "show_name": "Largo Winch: O Preço do Dinheiro",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_largo-winch-o-preco-do-dinheiro-2024_l_m.jpg",
+      "show_category": "Action / 2024",
+      "start_time": "09:50",
+      "end_time": "11:35",
+      "episode_description": "Largo Winch fica devastado ao descobrir o sequestro de seu filho. Em busca de justiça e respostas, ele segue uma trilha de traições e segredos."
+    },
+    {
+      "show_name": "A Última Noite",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-ultima-noite-2021_l_m.jpg",
+      "show_category": "Holiday / 2021",
+      "start_time": "11:35",
+      "end_time": "13:10",
+      "episode_description": "Nell, Simon e Art se preparam para receber família e amigos na ceia de Natal perfeita. Descobrem que o fim do mundo é iminente e o governo incita a população ao suicídio para evitar morte dolorosa."
+    },
+    {
+      "show_name": "Missão Pet",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_miss-o-pet-2025_l_m.jpg",
+      "show_category": "Children / 2025",
+      "start_time": "13:10",
+      "end_time": "14:45",
+      "episode_description": "Uma equipe de bandidos animais embarca em um golpe de rotina e se veem envolvidos em um assalto a trem. Cabe a Falcon, um guaxinim ladrão de pouca monta, e Rex, um cão policial justo, salvar os animais neste trem em alta velocidade."
+    },
+    {
+      "show_name": "Preview",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_preview_l_m.jpg",
+      "show_category": "Entertainment",
+      "start_time": "14:45",
+      "end_time": "14:50",
+      "episode_description": "Acompanhe matérias especiais sobre o mundo da sétima arte, o cinema."
+    },
+    {
+      "show_name": "Missão Resgate",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_miss-o-resgate-2021_l_m.jpg",
+      "show_category": "Action / 2021",
+      "start_time": "14:50",
+      "end_time": "16:45",
+      "episode_description": "Após o desmoronamento de uma mina de diamantes, Mike McCann, um experiente motorista de caminhão, é recrutado por Jim Goldenrod para liderar uma missão de resgate. Ele e sua equipe têm apenas 30 horas para transportarem uma enorme carga sobre rios congelados e tentarem salvar a vida dos mineradores soterrados."
+    },
+    {
+      "show_name": "Oito Mulheres e um Segredo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_oito-mulheres-e-um-segredo-2018_l_m.jpg",
+      "show_category": "Comedy / 2018",
+      "start_time": "16:45",
+      "end_time": "18:40",
+      "episode_description": "Recém-saída da prisão, Debbie Ocean logo procura sua ex-parceira Lou para realizar um elaborado assalto: roubar um colar de diamantes no valor de 150 milhões de dólares, que a empresa Cartier mantém em um cofre. O plano é convencer a organização a emprestá-lo para que a estrela Daphne Kluger use a joia no badalado Met Gala, um dos eventos mais chiques e vistosos de Nova York. Para tanto, Debbie e Lou reúnem uma equipe composta apenas por mulheres: Nine Ball, Amita, Constance, Rose e Tammy."
+    },
+    {
       "show_name": "Treinamento Brutal",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/telecine-premium/tomorrow/br_treinamento-brutal-2022_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_treinamento-brutal-2022_l_m.jpg",
       "show_category": "Action / 2022",
-      "start_time": "00:50",
-      "end_time": "02:25",
+      "start_time": "18:40",
+      "end_time": "20:15",
       "episode_description": "Buscando um recomeço, Bryant se muda para uma pequena cidade. Lá, faz amizade com um jovem e se torna seu mentor. Ele só não esperava que seu passado o forçasse a entrar em uma luta de vida ou morte."
     },
     {
-      "show_name": "Coração de Fogo",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/telecine-premium/tomorrow/br_corac-o-de-fogo-2022_l_m.webp",
-      "show_category": "Children / 2022",
-      "start_time": "02:25",
-      "end_time": "04:00",
-      "episode_description": "Na cidade de Nova York em 1932, mulheres não podem ser bombeiras. Quando os bombeiros da cidade desaparecem em incêndios misteriosos, Georgia Nolan vê uma oportunidade. Ela se disfarça como Joe e se junta a uma equipe improvisada de bombeiros."
-    },
-    {
-      "show_name": "A Porta ao Lado",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/telecine-premium/tomorrow/br_a-porta-ao-lado-2022_l_m.webp",
-      "show_category": "Drama / 2022",
-      "start_time": "04:00",
-      "end_time": "06:00",
-      "episode_description": "Rafa e Mari são casados e vivem um matrimônio tradicional e estável. A união segue tranquila até o dia em que o casal Fred e Isis se muda para o apartamento ao lado. Os novos vizinhos são adeptos de um relacionamento aberto, separam sexo de amor e decidiram não ter filhos. Esta forma de se relacionar desafia e provoca Mari, que começa a questionar o seu casamento."
-    },
-    {
-      "show_name": "Call To Duty - Fora de Alcance",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/telecine-premium/tomorrow/br_call-to-duty-fora-de-alcance-2016_l_m.webp",
-      "show_category": "Action / 2016",
-      "start_time": "06:00",
-      "end_time": "07:50",
-      "episode_description": "Soldados descobrem uma onda de experimentos com mortos-vivos, e o que era para ser uma simples missão se transforma em uma guerra pela sobrevivência."
-    },
-    {
-      "show_name": "Hellboy",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/telecine-premium/tomorrow/br_hellboy-2019_l_m.webp",
-      "show_category": "Action / 2019 /5.2",
-      "start_time": "07:50",
-      "end_time": "09:55",
-      "episode_description": "Uma antiga feiticeira volta à vida decidida a vingar-se de uma traição do passado. Dividido entre o mundo sobrenatural e humano, o lendário meio-demônio Hellboy recebe a missão de conter essa ameaça e salvar o mundo."
-    },
-    {
-      "show_name": "A Caminho de Casa",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/telecine-premium/tomorrow/br_a-caminho-de-casa-2019_l_m.webp",
-      "show_category": "Children / 2019",
-      "start_time": "09:55",
-      "end_time": "11:35",
-      "episode_description": "Bella é uma cadelinha especial que vive com Lucas, um estudante de medicina veterinária que trabalha como voluntário em um hospital local. Um dia, ela é encontrada pelo controle de animais na rua e acaba sendo levada para um abrigo distante de seu dono. No entanto, Bella, uma cachorra extremamente leal e corajosa, decide iniciar sozinha uma longa jornada de volta para a casa, emocionando a todos que cruzam o seu caminho."
-    },
-    {
-      "show_name": "Os Caras Malvados",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/telecine-premium/tomorrow/br_os-caras-malvados-2022_l_m.webp",
-      "show_category": "Children / 2022",
-      "start_time": "11:35",
-      "end_time": "13:20",
-      "episode_description": "Depois de uma vida inteira de assaltos lendários, os notórios criminosos Sr. Lobo, Sr. Cobra, Sr. Piranha, Sr. Tubarão e Srta. Tarântula são finalmente capturados. Para evitar uma sentença de prisão, os bandidos animais devem realizar seu golpe mais desafiador até agora - tornando-se cidadãos-modelo. Sob a tutela de seu mentor, Professor Marmelada, a duvidosa gangue se propõe a enganar o mundo e mostrar que está se tornando boa."
-    },
-    {
-      "show_name": "Monstro",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/telecine-premium/tomorrow/br_monstro-2023_l_m.webp",
-      "show_category": "Drama / 2023",
-      "start_time": "13:20",
-      "end_time": "15:35",
-      "episode_description": "Mãe percebe que o filho está se comportando de maneira diferente e vai até a escola atrás de respostas. Três pontos de vista diferentes revelam a verdade sobre o menino."
-    },
-    {
-      "show_name": "A Divisão",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/telecine-premium/tomorrow/br_a-divis-o-2020_l_m.webp",
-      "show_category": "Crime drama / 2020",
-      "start_time": "15:35",
-      "end_time": "18:00",
-      "episode_description": "O Rio de Janeiro se encontra acuado por uma onda de sequestros na década de 1990. As forças de segurança convocam agentes corruptos e um delegado com fama de genocida para salvar a cidade dos bandidos e até da polícia."
-    },
-    {
-      "show_name": "Resistência",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/telecine-premium/tomorrow/br_resistencia-2023_l_m.webp",
-      "show_category": "Science fiction / 2023",
-      "start_time": "18:00",
-      "end_time": "20:15",
-      "episode_description": "Em um futuro de guerra entre humanos e inteligência artificial, um ex-agente das forças especiais que sofre pelo desaparecimento de sua esposa é recrutado para matar um arquiteto de IA que desenvolveu uma arma que pode eliminar a raça humana."
-    },
-    {
-      "show_name": "Os Mercenários 4",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/telecine-premium/tomorrow/br_os-mercenarios-4-2023_l_m.webp",
-      "show_category": "Action / 2023",
+      "show_name": "Rambo - Até o Fim",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rambo-ate-o-fim-2019_l_m.jpg",
+      "show_category": "Action / 2019",
       "start_time": "20:15",
       "end_time": "22:00",
-      "episode_description": "A equipe enfrenta um traficante de armas que comanda um enorme exército privado. Munidos com todas as armas inimagináveis, os Mercenários são a última linha de defesa do mundo."
+      "episode_description": "O tempo passou para Rambo, que agora vive recluso em um rancho. Sua vida marcada por lutas violentas ficou para trás, mas deixou marcas inesquecíveis. No entanto, quando uma jovem de uma família amiga é sequestrada, Rambo precisa confrontar seu passado e resgatar suas habilidades de combate para enfrentar o mais perigoso cartel mexicano. A busca logo se transforma em uma caçada por justiça, na qual nenhum criminoso é perdoado."
     },
     {
-      "show_name": "Quarto do Pânico",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/telecine-premium/tomorrow/br_quarto-do-panico-2025_l_m.webp",
-      "show_category": "Action / 2025",
+      "show_name": "Bob Marley: One Love",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bob-marley-one-love-2024_l_m.jpg",
+      "show_category": "Biography / 2024 /6.2",
       "start_time": "22:00",
-      "end_time": "23:45",
-      "episode_description": "Mãe e filha se trancam em um quarto secreto ao terem a casa invadida por criminosos que procuram algo guardado ali."
+      "end_time": "23:55",
+      "episode_description": "Das raízes em Trenchtown até a fama mundial, o filme delineia a revolução musical de Bob Marley e sua importância como ativista político. A trama se desenvolve através dos altos e baixos de sua carreira."
     },
     {
-      "show_name": "Blindado",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/telecine-premium/tomorrow/br_blindado-2024_l_m.webp",
-      "show_category": "Action / 2024",
-      "start_time": "23:45",
+      "show_name": "A Sogra Perfeita 2",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-sogra-perfeita-2-2025_l_m.jpg",
+      "show_category": "Comedy / 2025",
+      "start_time": "23:55",
       "end_time": "",
-      "episode_description": "Encarregados de entregar um pacote suspeito, uma dupla formada por pai e filho motoristas de carro-forte precisa superar em astúcia e força um grupo de ladrões enquanto todos estão presos em uma ponte."
+      "episode_description": "Após conhecer o poder da liberdade, Neide acaba negando o inesperado pedido de casamento do seu namorado, Oliveira, por medo de perder sua independência. No entanto, o surgimento de sua sogra portuguesa com malas prontas para o casório instiga a curiosidade de toda a vizinhança e cada um deles começa a se preparar para a suposta cerimônia. Agora, Neide precisa resolver a situação sozinha enquanto dá continuidade a sua renomada carreira de cabeleireira."
     }
   ]
 }
