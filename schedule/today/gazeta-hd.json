@@ -1,90 +1,74 @@
 {
   "channel": "Gazeta HD",
-  "date": "15/02/2026",
+  "date": "16/02/2026",
   "schedule": [
     {
       "show_name": "Gazeta Shopping",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gazeta-hd/today/br_gazeta-shopping_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_gazeta-shopping_l_m.jpg",
       "show_category": "Consumer",
-      "start_time": "02:00",
-      "end_time": "04:00",
+      "start_time": "01:00",
+      "end_time": "03:00",
       "episode_description": "Acompanhe ofertas e lançamentos em diversos segmentos do mercado."
     },
     {
       "show_name": "Gazeta Shopping",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gazeta-hd/today/br_gazeta-shopping_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_gazeta-shopping_l_m.jpg",
       "show_category": "Consumer",
-      "start_time": "04:00",
+      "start_time": "03:00",
       "end_time": "06:00",
       "episode_description": "Acompanhe ofertas e lançamentos em diversos segmentos do mercado."
     },
     {
       "show_name": "Igreja Universal do Reino de Deus",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gazeta-hd/today/br_igreja-universal-do-reino-de-deus-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_igreja-universal-do-reino-de-deus-1_l_m.jpg",
       "show_category": "Religious",
       "start_time": "06:00",
-      "end_time": "08:00",
+      "end_time": "13:00",
       "episode_description": "Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus."
     },
     {
-      "show_name": "Gazeta Motors",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gazeta-hd/today/br_gazeta-motors_l_m.webp",
-      "show_category": "Auto",
-      "start_time": "08:00",
-      "end_time": "09:00",
-      "episode_description": "O programa tem o objetivo de criar uma conexão objetiva entre o consumidor e o empreendedor."
-    },
-    {
-      "show_name": "Gazeta Shopping",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gazeta-hd/today/br_gazeta-shopping_l_m.webp",
-      "show_category": "Consumer",
-      "start_time": "09:00",
-      "end_time": "11:00",
-      "episode_description": "Acompanhe ofertas e lançamentos em diversos segmentos do mercado."
-    },
-    {
-      "show_name": "Gazeta Imóveis",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gazeta-hd/today/br_gazeta-imoveis_l_m.webp",
-      "show_category": "Shopping",
-      "start_time": "11:00",
-      "end_time": "12:00",
-      "episode_description": "O programa oferece informações sobre o mercado imobiliário e estabelece uma comunicação entre o empreendedor e o consumidor."
-    },
-    {
-      "show_name": "Gazeta Motors",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gazeta-hd/today/br_gazeta-motors_l_m.webp",
-      "show_category": "Auto",
-      "start_time": "12:00",
-      "end_time": "13:00",
-      "episode_description": "O programa tem o objetivo de criar uma conexão objetiva entre o consumidor e o empreendedor."
-    },
-    {
-      "show_name": "Gazeta Shopping",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gazeta-hd/today/br_gazeta-shopping_l_m.webp",
-      "show_category": "Consumer",
+      "show_name": "Você Bonita",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_voce-bonita_l_m.jpg",
+      "show_category": "Health",
       "start_time": "13:00",
-      "end_time": "17:00",
-      "episode_description": "Acompanhe ofertas e lançamentos em diversos segmentos do mercado."
+      "end_time": "14:00",
+      "episode_description": "Matérias sobre saúde e nutrição, dicas para uma alimentação equilibrada e receitas leves, além das principais novidades nos tratamentos estéticos."
     },
     {
-      "show_name": "Gazeta Motors",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gazeta-hd/today/br_gazeta-motors_l_m.webp",
-      "show_category": "Auto",
-      "start_time": "17:00",
-      "end_time": "17:30",
-      "episode_description": "O programa tem o objetivo de criar uma conexão objetiva entre o consumidor e o empreendedor."
+      "show_name": "Mulheres",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mulheres_l_m.jpg",
+      "show_category": "Variety",
+      "start_time": "14:00",
+      "end_time": "17:45",
+      "episode_description": "O programa traz especialistas nas áreas de culinária, moda, beleza, atualidades, lazer e direito do consumidor, entre outros assuntos de grande interesse da mulher."
     },
     {
-      "show_name": "Gazeta Shopping",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gazeta-hd/today/br_gazeta-shopping_l_m.webp",
-      "show_category": "Consumer",
-      "start_time": "17:30",
+      "show_name": "Gazeta News",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_gazeta-news_l_m.jpg",
+      "show_category": "News",
+      "start_time": "17:45",
+      "end_time": "18:00",
+      "episode_description": "O jornal é um resumo de final de tarde, criado para transmitir os fatos mais importantes ocorridos desde o amanhecer."
+    },
+    {
+      "show_name": "Gazeta Esportiva",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_debate-gazeta-esportiva_l_m.jpg",
+      "show_category": "",
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "episode_description": "Notícias e opiniões de quem mais entende, em conjunto com seu dia a dia, disponibilizando ao telespectador, em primeira mão, as principais novidades do esporte."
+    },
+    {
+      "show_name": "Jornal da Gazeta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-da-gazeta_l_m.jpg",
+      "show_category": "News",
+      "start_time": "19:00",
       "end_time": "20:00",
-      "episode_description": "Acompanhe ofertas e lançamentos em diversos segmentos do mercado."
+      "episode_description": "O programa apresenta as principais notícias do dia, reportagens exclusivas e análises feitas por uma equipe de comentaristas especializados em política, economia, sustentabilidade e cultura."
     },
     {
       "show_name": "Igreja Universal do Reino de Deus",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/gazeta-hd/today/br_igreja-universal-do-reino-de-deus-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_igreja-universal-do-reino-de-deus-1_l_m.jpg",
       "show_category": "Religious",
       "start_time": "20:00",
       "end_time": "02:00",

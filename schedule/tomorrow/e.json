@@ -1,222 +1,214 @@
 {
   "channel": "E!",
-  "date": "16/02/2026",
+  "date": "17/02/2026",
   "schedule": [
     {
-      "show_name": "Love Island",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/e/tomorrow/br_love-island-s04e31_l_m.webp",
-      "show_category": "Temporada 4 Episódio 31",
-      "start_time": "00:05",
-      "end_time": "00:55",
-      "episode_description": "A festa com tema dos anos 80 continua e mais drama se desenrola no triângulo amoroso de Mackenzie, Chad e Phoebe. A tensão aumenta quando os participantes ficam sabendo da repercussão online em torno de seus relacionamentos durante desafio."
+      "show_name": "Million Dollar Listing Los Angeles",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_million-dollar-listing-los-angeles-s13e03-o-que-voce-acha-de-compartilhar-a-sua-venda_l_m.jpg",
+      "show_category": "Temporada 13 Episódio 3 - O que Você Acha de Compartilhar a Sua Venda?",
+      "start_time": "00:50",
+      "end_time": "01:55",
+      "episode_description": "Fredrik se surpreende com uma propriedade em Beverly Park, mas descobre que os vendedores querem que ele compartilhe a venda do imóvel com Altman."
+    },
+    {
+      "show_name": "Million Dollar Listing Los Angeles",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_million-dollar-listing-los-angeles-s13e04-imovel-desafiador_l_m.jpg",
+      "show_category": "Temporada 13 Episódio 4 - Imóvel Desafiador",
+      "start_time": "01:55",
+      "end_time": "03:00",
+      "episode_description": "Ao listar uma casa no estilo Hamptons em Hancock Park, James e David entram em um grande e conturbado conflito."
+    },
+    {
+      "show_name": "Botched - Desastres do Bisturi",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_botched-desastres-do-bisturi-s05e09-2-litros-e-muito-mais_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 9 - 2 Litros e Muito Mais...",
+      "start_time": "03:00",
+      "end_time": "04:00",
+      "episode_description": "Um acidente cirúrgico assustador na Colômbia deixa uma mulher com seios irregulares; os médicos salvam o nariz machucado de um homem; uma mulher australiana tem um caso grave de inveja de seios."
+    },
+    {
+      "show_name": "Keeping Up With the Kardashians",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_keeping-up-with-the-kardashians-s17e02-birthdays-and-bad-news-part-2_l_m.jpg",
+      "show_category": "Temporada 17 Episódio 2 - Aniversário e Más Notícias",
+      "start_time": "04:00",
+      "end_time": "05:00",
+      "episode_description": "Após um confronto desconfortável com seu ex no primeiro aniversário de True, Khloe precisa descobrir como coexistir com ele; Kim acusa Kourtney de copiar seu estilo; Kim procura respostas sobre um diagnóstico médico assustador."
+    },
+    {
+      "show_name": "Keeping Up With the Kardashians",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_keeping-up-with-the-kardashians-s17e03-cruel-and-unusual-punishment_l_m.jpg",
+      "show_category": "Temporada 17 Episódio 3 - Punição Cruel e Incomum",
+      "start_time": "05:00",
+      "end_time": "06:00",
+      "episode_description": "Kourtney e Scott buscam conselhos, mas a contribuição de Corey causa discussão; Khloe planeja uma viagem de degustação de vinhos a Napa para conversar com Kylie; a família está cansada do novo protocolo de segurança intenso de Kim."
+    },
+    {
+      "show_name": "Keeping Up With the Kardashians",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_keeping-up-with-the-kardashians-s17e04-three-s-company_l_m.jpg",
+      "show_category": "Temporada 17 Episódio 4 - Existe Companhia",
+      "start_time": "06:00",
+      "end_time": "07:00",
+      "episode_description": "Scott fica tenso para garantir que Kourtney e sua namorada Sofia permaneçam felizes; North tem a oportunidade de estrelar um vídeo com um de seus ídolos; Khloé planeja uma viagem de aniversário para suas amigas Malika e Khadijah."
+    },
+    {
+      "show_name": "Vocalizando",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vocalizando-s01e04_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4",
+      "start_time": "07:00",
+      "end_time": "08:00",
+      "episode_description": "Cantoras recebem desafio de cantarem em dupla e primeiros desentendimentos surgem. No entanto, dupla destaca-se e inicia amizade sólida."
+    },
+    {
+      "show_name": "Project Runway",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_project-runway-s19e06-a-renovac-o-da-moda_l_m.jpg",
+      "show_category": "Temporada 19 Episódio 6 - A Renovação da Moda",
+      "start_time": "08:00",
+      "end_time": "09:00",
+      "episode_description": "Pela primeira vez, os estilistas irão colaborar com alguns dos designers de acessórios mais talentosos da cidade de Nova York, profissionais que estão trabalhando duro para renovar a indústria da moda."
+    },
+    {
+      "show_name": "Vanderpump Rules",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vanderpump-rules-s05e15-pool-party-cervejas-e-lagrimas_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 15 - Pool Party, Cervejas e Lágrimas",
+      "start_time": "09:00",
+      "end_time": "09:50",
+      "episode_description": "Scheana organiza uma festa na piscina antes da viagem a Nova Orleans, mas quando a briga de Tom e Katie vai de mal a pior, todo mundo se pergunta se eles deveriam mesmo se casar."
+    },
+    {
+      "show_name": "Vanderpump Rules",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vanderpump-rules-s05e16-lagrimas-de-crocodilos_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 16 - Lágrimas de Crocodilos",
+      "start_time": "09:50",
+      "end_time": "10:40",
+      "episode_description": "Ariana e os padrinhos fazem um tour para ver jacarés, mas quando o foco da conversa se volta para os problemas de relacionamento de Schwartz, os meninos não seguram o choro."
+    },
+    {
+      "show_name": "Vanderpump Rules",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vanderpump-rules-s05e17-mais-acusac-es_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 17 - Mais Acusações",
+      "start_time": "10:40",
+      "end_time": "11:30",
+      "episode_description": "A crise épica de Nova Orleans continua, com Schwartz e Sandoval relutando sobre as acusações de traição; Stassi percebe que suas brigas passadas com Katie fizeram com que ela perdesse um momento muito doloroso quando Katie mais precisou dela."
+    },
+    {
+      "show_name": "Keeping Up With the Kardashians",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_keeping-up-with-the-kardashians-s17e05-have-you-met-kim_l_m.jpg",
+      "show_category": "Temporada 17 Episódio 5 - Você Já Conhecia a Kim?",
+      "start_time": "11:30",
+      "end_time": "12:20",
+      "episode_description": "Kim mostra ao mundo uma visão íntima da semana mais movimentada de sua vida, enquanto se prepara para o nascimento de seu quarto bebê."
+    },
+    {
+      "show_name": "Keeping Up With the Kardashians",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_keeping-up-with-the-kardashians-s17e06-psalm-west_l_m.jpg",
+      "show_category": "Temporada 17 Episódio 6 - Psalm West",
+      "start_time": "12:20",
+      "end_time": "13:10",
+      "episode_description": "Após o nascimento de seu filho Salmo, Kim planeja uma cerimônia de renovação do voto surpresa; as amigas de Kourtney não conseguem se dar bem em uma viagem a Turks e Caicos, ela precisa se esforçar para salvar as férias."
+    },
+    {
+      "show_name": "Keeping Up With the Kardashians",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_keeping-up-with-the-kardashians-s17e07-the-ex-factor_l_m.jpg",
+      "show_category": "Temporada 17 Episódio 7 - O Ex-Fator",
+      "start_time": "13:10",
+      "end_time": "14:00",
+      "episode_description": "O ex-marido de Khloe, Lamar, lança um livro de memórias; um velho boato ressurge e Kris teme que isso acenda uma briga entre ela e Khloe; falar em uma conferência de imprensa ao vivo na Casa Branca deixa Kim nervosa."
+    },
+    {
+      "show_name": "Project Runway",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_project-runway-s19e06-a-renovac-o-da-moda_l_m.jpg",
+      "show_category": "Temporada 19 Episódio 6 - A Renovação da Moda",
+      "start_time": "14:00",
+      "end_time": "15:00",
+      "episode_description": "Pela primeira vez, os estilistas irão colaborar com alguns dos designers de acessórios mais talentosos da cidade de Nova York, profissionais que estão trabalhando duro para renovar a indústria da moda."
+    },
+    {
+      "show_name": "Project Runway",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_project-runway-s19e07-essa-pele-e-real_l_m.jpg",
+      "show_category": "Temporada 19 Episódio 7 - Essa Pele É Real?",
+      "start_time": "15:00",
+      "end_time": "15:55",
+      "episode_description": "Hora do desafio de vanguarda. Trabalhando em duplas, os estilistas devem criar looks vanguardistas inovadores, destacando um dos materiais mais modernos e complicados de se usar, as peles artificiais."
+    },
+    {
+      "show_name": "Million Dollar Listing Los Angeles",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_million-dollar-listing-los-angeles-s13e05-a-casa-construida-por-thighmaster_l_m.jpg",
+      "show_category": "Temporada 13 Episódio 5 - A Casa Construída por Thighmaster",
+      "start_time": "15:55",
+      "end_time": "16:55",
+      "episode_description": "Flagg viaja para Palm Springs para vender a casa da colega de quarto favorita da América, Suzanne Somers; Tracy tenta equilibrar o trabalho e a vida familiar enquanto tenta vender a casa de sua irmã, avaliada em 30 milhões de dólares."
+    },
+    {
+      "show_name": "Million Dollar Listing Los Angeles",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_million-dollar-listing-los-angeles-s13e06-companhia-de-dois-tres-e-multid-o_l_m.jpg",
+      "show_category": "Temporada 13 Episódio 6 - Companhia de Dois, Três É Multidão",
+      "start_time": "16:55",
+      "end_time": "17:55",
+      "episode_description": "Após concordarem em compartilhar a venda de um imóvel em Bel Air, James e David fazem de tudo para vender seu peixe durante suas apresentações; Flagg mergulha de cabeça em Palm Springs enquanto tenta vender a casa de Suzanne Somers."
     },
     {
       "show_name": "Love Island",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/e/tomorrow/br_love-island-s04e32_l_m.webp",
-      "show_category": "Temporada 4 Episódio 32",
-      "start_time": "00:55",
-      "end_time": "01:50",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_love-island-s05e03_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 3",
+      "start_time": "17:55",
+      "end_time": "18:45",
+      "episode_description": "Beijos apaixonados rolam enquanto os participantes formam duas equipes e competem em seu primeiro desafio, \"Desistentes do Ensino Médio\". Sarah Hyland surpreende a todos com uma visita inesperada."
+    },
+    {
+      "show_name": "Love Island",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_love-island-s05e04_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 4",
+      "start_time": "18:45",
+      "end_time": "19:40",
+      "episode_description": "Os moradores da ilha questionam suas amizades e seus laços. Todos participam de uma festa à fantasia e jogam um jogo de beijos picantes chamado \"Desvende a Verdade\"."
+    },
+    {
+      "show_name": "Botched - Desastres do Bisturi",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_botched-desastres-do-bisturi-s05e11-seios-magicos-misteriosos_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 11 - Seios Mágicos Misteriosos",
+      "start_time": "19:40",
+      "end_time": "20:30",
+      "episode_description": "Uma mulher com uma doença inflamatória rara precisa da perícia de ambos os médicos; um paciente quer o abdômen dos sonhos; uma paciente do exterior busca o aumento dos seios após uma experiência de quase morte na sala de cirurgia."
+    },
+    {
+      "show_name": "Botched - Desastres do Bisturi",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_botched-desastres-do-bisturi-s05e12-nodulos-nos-seios-e-nariz-vazio_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 12 - Nódulos nos Seios e Nariz Vazio",
+      "start_time": "20:30",
+      "end_time": "21:20",
+      "episode_description": "Mulher que acabou dando uma cabeçada em um cachorro teve dano permanente no nariz e precisa de ajuda; Dr. Dubrow remove um cisto de um seio para que o mamilo da paciente pare de vazar."
+    },
+    {
+      "show_name": "Botched - Desastres do Bisturi",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_botched-desastres-do-bisturi-s05e13-seios-destruidos-e-pesadelos-nasais_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 13 - Seios Destruídos e Pesadelos Nasais",
+      "start_time": "21:20",
+      "end_time": "22:10",
+      "episode_description": "A modelo mexicana Carmen Campuzano visita os médicos na esperança de restaurar seu nariz; uma soldada dispensada do exército quer consertar seus seios destruídos para se encaixar novamente na sociedade; psicóloga procura o Dr. Nassif para consertar o nariz e apagar os sinais de abuso doméstico do seu rosto."
+    },
+    {
+      "show_name": "Botched - Desastres do Bisturi",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_botched-desastres-do-bisturi-s05e14-bem-vindo-a-era-jurassica_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 14 - Bem-vindo à Era Jurássica",
+      "start_time": "22:10",
+      "end_time": "23:00",
+      "episode_description": "Dr. Dubrow ajuda uma sobrevivente de distúrbio alimentar a se sentir bonita em sua própria pele, reduzindo o tamanho dos seus seios; Dr. Nassif manda um \"nariz de dinossauro\" de volta à era jurássica; uma cosplayer procura ajuda para o seu implante no bumbum."
+    },
+    {
+      "show_name": "Love Island",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_love-island-s05e05_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 5",
+      "start_time": "23:00",
+      "end_time": "23:45",
       "episode_description": "Solteiros reúnem-se em uma ilha em busca do amor. O casal vencedor ganhará muito dinheiro."
     },
     {
       "show_name": "Love Island",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/e/tomorrow/br_love-island-s04e33_l_m.webp",
-      "show_category": "Temporada 4 Episódio 33",
-      "start_time": "01:50",
-      "end_time": "02:40",
-      "episode_description": "Os casais caminham até o altar enquanto enfrentam o percurso de obstáculos \"Cake-ing Love\" para o casamento. Uma votação pública elimina alguns moradores da ilha."
-    },
-    {
-      "show_name": "Love Island",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/e/tomorrow/br_love-island-s04e34_l_m.webp",
-      "show_category": "Temporada 4 Episódio 34",
-      "start_time": "02:40",
-      "end_time": "03:35",
-      "episode_description": "Os casais testam suas habilidades parentais ao receberem um bebê de mentira para cuidar."
-    },
-    {
-      "show_name": "Love Island",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/e/tomorrow/br_love-island-s04e35_l_m.webp",
-      "show_category": "Temporada 4 Episódio 35",
-      "start_time": "03:35",
-      "end_time": "04:50",
-      "episode_description": "Os participantes apresentam suas famílias reciprocamente; uma eliminação surpresa manda um casal para casa."
-    },
-    {
-      "show_name": "Million Dollar Listing Los Angeles",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/e/tomorrow/br_million-dollar-listing-los-angeles-s12e12-realeza-de-hollywood_l_m.webp",
-      "show_category": "Temporada 12 Episódio 12 - Realeza de Hollywood",
-      "start_time": "04:50",
-      "end_time": "06:00",
-      "episode_description": "Altman e Tracy se unem para serem parceiros em um imóvel histórico de Hollywood que já foi propriedade da lenda de Hollywood, John Barrymore."
-    },
-    {
-      "show_name": "Vanderpump Rules",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/e/tomorrow/br_vanderpump-rules-s05e05-apreens-o_l_m.webp",
-      "show_category": "Temporada 5 Episódio 5 - Apreensão",
-      "start_time": "06:00",
-      "end_time": "07:00",
-      "episode_description": "Schwartz tem dúvidas e Katie o atinge onde mais dói; Tom convida Ariana para sair; Scheana ouve um boato sobre Lala."
-    },
-    {
-      "show_name": "Vanderpump Rules",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/e/tomorrow/br_vanderpump-rules-s05e06-com-muito-orgulho_l_m.webp",
-      "show_category": "Temporada 5 Episódio 6 - Com Muito Orgulho",
-      "start_time": "07:00",
-      "end_time": "07:50",
-      "episode_description": "Lisa participa da Parada do Orgulho; o ciúme desencadeia a briga mais desagradável do relacionamento de Tom e Ariana."
-    },
-    {
-      "show_name": "Vanderpump Rules",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/e/tomorrow/br_vanderpump-rules-s05e07-o-teste-de-sociopata_l_m.webp",
-      "show_category": "Temporada 5 Episódio 7 - O Teste de Sociopata",
-      "start_time": "07:50",
-      "end_time": "08:40",
-      "episode_description": "Scheana e Kristen dão uma festa surpresa para Shay e Carter, mas Scheana se surpreende quando Stassi e Katie a atacam por simpatizar com Lala; mais tarde, Jax revela ser um sociopata no podcast de Stassi."
-    },
-    {
-      "show_name": "Vanderpump Rules",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/e/tomorrow/br_vanderpump-rules-s05e08-festa-de-aniversario_l_m.webp",
-      "show_category": "Temporada 5 Episódio 8 - Festa de Aniversário",
-      "start_time": "08:40",
-      "end_time": "09:30",
-      "episode_description": "Depois de uma briga feroz com Stassi e Katie, Scheana deve decidir se ela ainda vai na viagem de aniversário de Stassi para Montauk, NY; Lala começa a temer a viagem de aniversário de Ariana quando descobre que vai ficar perto de Jax."
-    },
-    {
-      "show_name": "Vanderpump Rules",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/e/tomorrow/br_vanderpump-rules-s05e09-mais-comemorac-es_l_m.webp",
-      "show_category": "Temporada 5 Episódio 9 - Mais Comemorações",
-      "start_time": "09:30",
-      "end_time": "10:20",
-      "episode_description": "Sandoval, Schwartz e Jax prometem não deixar a ausência de Lala estragar o aniversário de Ariana."
-    },
-    {
-      "show_name": "Vanderpump Rules",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/e/tomorrow/br_vanderpump-rules-s05e10-gafes-com-frutos-do-mar_l_m.webp",
-      "show_category": "Temporada 5 Episódio 10 - Gafes com Frutos do Mar",
-      "start_time": "10:20",
-      "end_time": "11:10",
-      "episode_description": "Stassi continua sua viagem comemorando seu aniversário; Stassi, Scheana e Kristen cometem algumas gafes com frutos do mar; Lala reaparece, mas Lisa não acredita em suas mentiras."
-    },
-    {
-      "show_name": "Vanderpump Rules",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/e/tomorrow/br_vanderpump-rules-s05e11-fotos-indecentes_l_m.webp",
-      "show_category": "Temporada 5 Episódio 11 - Fotos Indecentes",
-      "start_time": "11:10",
-      "end_time": "12:00",
-      "episode_description": "Kristen incomoda Brittany usando uma foto dos genitais de Jax em seu programa de comédia; Lala volta ao SUR para se desculpar por ter perdido o aniversário de Ariana, mas Tom se recusa a perdoá-la."
-    },
-    {
-      "show_name": "Keeping Up With the Kardashians",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/e/tomorrow/br_keeping-up-with-the-kardashians-s16e05_l_m.webp",
-      "show_category": "Temporada 16 Episódio 5 - Legalmente Morena",
-      "start_time": "12:00",
-      "end_time": "12:50",
-      "episode_description": "Kim decide seguir os passos do pai e seguir o seu sonho de se tornar advogada; Kourtney se preocupa que Mason esteja crescendo rápido demais; Scott encoraja Khloe a reviver sua carreira como artista."
-    },
-    {
-      "show_name": "Keeping Up With the Kardashians",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/e/tomorrow/br_keeping-up-with-the-kardashians-s16e06_l_m.webp",
-      "show_category": "Temporada 16 Episódio 6 - Saída de Incêndio",
-      "start_time": "12:50",
-      "end_time": "13:40",
-      "episode_description": "Incêndios florestais se espalham no bairro e as famílias são forçadas a deixar suas casas; Kim e sua equipe esperam que o presidente endosse ou não sua legislação de reforma da prisão; Kris estrela um videoclipe de Ariana Grande."
-    },
-    {
-      "show_name": "Keeping Up With the Kardashians",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/e/tomorrow/br_keeping-up-with-the-kardashians-s16e07_l_m.webp",
-      "show_category": "Temporada 16 Episódio 7 - Presente Inconveniente",
-      "start_time": "13:40",
-      "end_time": "14:30",
-      "episode_description": "A desconfiança de Khloe sobre o namorado de sua mãe ressurge em uma viagem em família, deixando Kris magoada; Kendall precisa encontrar uma maneira de dizer a Kourtney que é hora dela ir embora; Khloe dá um novo animal de estimação a North."
-    },
-    {
-      "show_name": "Keeping Up With the Kardashians",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/e/tomorrow/br_keeping-up-with-the-kardashians-s16e08_l_m.webp",
-      "show_category": "Temporada 16 Episódio 8 - Aventureira Infeliz",
-      "start_time": "14:30",
-      "end_time": "15:20",
-      "episode_description": "Determinada a realizar um dos maiores sonhos da vida da North, Kim coloca suas habilidades de sobrevivência à prova em uma viagem noturna ao deserto. Malika suspeita que Khloé possa estar tendo alguns problemas no relacionamento."
-    },
-    {
-      "show_name": "Keeping Up With the Kardashians",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/e/tomorrow/br_keeping-up-with-the-kardashians-s16e09-christmas-chaos_l_m.webp",
-      "show_category": "Temporada 16 Episódio 9 - Caos no Natal",
-      "start_time": "15:20",
-      "end_time": "16:10",
-      "episode_description": "Kris relutantemente concorda em deixar que Kim fique responsável pela festa anual de natal; Khloe precisa entrar em ação quando o Hamster de North morre; Kris tenta entender a relação pouco convencional entre Kourtney, Scott e a namorada dele."
-    },
-    {
-      "show_name": "Keeping Up With the Kardashians",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/e/tomorrow/br_keeping-up-with-the-kardashians-s16e10_l_m.webp",
-      "show_category": "Temporada 16 Episódio 10 - Intrometidos de Plantão",
-      "start_time": "16:10",
-      "end_time": "17:00",
-      "episode_description": "Khloe tenta mediar uma briga entre Kourtney e Kendall, mas acaba piorando as coisas; Kim continua procurando uma cura para sua psoríase; Kris se sente em casa no novo espaço de escritório de Kylie, então Kylie deve mostrar a sua mãe que é a chefe."
-    },
-    {
-      "show_name": "Keeping Up With the Kardashians",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/e/tomorrow/br_keeping-up-with-the-kardashians-s16e11_l_m.webp",
-      "show_category": "Temporada 16 Episódio 11 - Traição",
-      "start_time": "17:00",
-      "end_time": "17:50",
-      "episode_description": "Khloe tem que lidar com alguns problemas de saúde debilitantes, mas seu mundo fica totalmente de cabeça para baixo quando surgem os rumores que Tristan está a traindo com uma amiga próxima da família, Jordyn Woods."
-    },
-    {
-      "show_name": "Keeping Up With the Kardashians",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/e/tomorrow/br_keeping-up-with-the-kardashians-s16e12-aftershock_l_m.webp",
-      "show_category": "Temporada 16 Episódio 12 - Consequências",
-      "start_time": "17:50",
-      "end_time": "18:40",
-      "episode_description": "Kim e Kourtney ajudam Khloe a lidar com as notícias; Khloe explode de raiva quando descobre que Jordyn está falando publicamente sobre o que aconteceu."
-    },
-    {
-      "show_name": "Botched - Desastres do Bisturi",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/e/tomorrow/br_botched-desastres-do-bisturi-s05e01-batendo-na-porta-do-ceu_l_m.webp",
-      "show_category": "Temporada 5 Episódio 1 - Batendo na Porta do Céu",
-      "start_time": "18:40",
-      "end_time": "19:30",
-      "episode_description": "A \"pequenina\" Tameka Harris e sua melhor amiga com seios de bola de beisebol procuram a ajuda de Dr. Dubrow. Pixee Fox retorna depois de um turbilhão de cirurgias plásticas para se tornar uma personagem de desenho animado. Uma modelo procura ajuda dos médicos depois de ter muita gordura injetada embaixo dos olhos."
-    },
-    {
-      "show_name": "Botched - Desastres do Bisturi",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/e/tomorrow/br_botched-desastres-do-bisturi-s05e02-sacode-o-que-voce-n-o-tem_l_m.webp",
-      "show_category": "Temporada 5 Episódio 2 - Sacode o que Você Não Tem",
-      "start_time": "19:30",
-      "end_time": "20:20",
-      "episode_description": "Dr. Dubrow ajuda uma mulher que passou por medidas desesperadas para consertar os seios. Dr. Nassif enfrenta uma paciente cujo cirurgião abriu um buraco em seu nariz. Uma modelo plus size, na missão de ter o maior bumbum do mundo, quer implantes de seios ainda maiores."
-    },
-    {
-      "show_name": "Botched - Desastres do Bisturi",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/e/tomorrow/br_botched-desastres-do-bisturi-s05e03-maior-n-o-e-melhor_l_m.webp",
-      "show_category": "Temporada 5 Episódio 3 - Maior Não É Melhor",
-      "start_time": "20:20",
-      "end_time": "21:10",
-      "episode_description": "Uma ex-estrela de reality show quer fazer uma redução de seios depois que os mesmos ficaram enormes no Snapchat. Uma jovem espera aumentar os seios e começar a namorar novamente. Dr. Nassif ajuda a dona de um salão de beleza com um queixo mutilado."
-    },
-    {
-      "show_name": "Botched Presents: Plastic Surgery Rewind",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/e/tomorrow/br_botched-presents-plastic-surgery-rewind-s01e05-caminhos-separados_l_m.webp",
-      "show_category": "Temporada 1 Episódio 5 - Caminhos Separados",
-      "start_time": "21:10",
-      "end_time": "22:00",
-      "episode_description": "Aubrey reage a uma notícia chocante; Sophia avalia por que continua com seu ex-namorado; Kathy considera remover seus implantes; Sebastian revela seu motivo para vir ao Retiro Rewind."
-    },
-    {
-      "show_name": "Vocalizando",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/e/tomorrow/br_vocalizando-s01e01_l_m.webp",
-      "show_category": "Temporada 1 Episódio 1",
-      "start_time": "22:00",
-      "end_time": "23:00",
-      "episode_description": "As seis cantoras entram no estúdio do e são recebidas por Jeniffer Nascimento. Elas precisam apresentar uma música cada e recebem a avaliação da professora de canto Helô e do produtor musical Marcel, técnicos do programa."
-    },
-    {
-      "show_name": "Vocalizando",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/e/tomorrow/br_vocalizando-s01e02_l_m.webp",
-      "show_category": "Temporada 1 Episódio 2",
-      "start_time": "23:00",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_love-island-s05e06_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 6",
+      "start_time": "23:45",
       "end_time": "",
-      "episode_description": "As participantes realizam a primeira oficina do programa com ênfase no teatro, e batem um papo com a atriz Luana Xavier. Na apresentação, uma participante não aceita cantar um trecho da música e recebe duras críticas dos jurados."
+      "episode_description": "Os rapazes escolhem com quem querem formar casal. Uma garota é eliminada da ilha."
     }
   ]
 }

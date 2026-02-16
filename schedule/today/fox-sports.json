@@ -1,134 +1,150 @@
 {
   "channel": "FOX Sports",
-  "date": "15/02/2026",
+  "date": "16/02/2026",
   "schedule": [
     {
-      "show_name": "Wrexham x Ipswich Town",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-wrexham-x-ipswich-town_l_m.webp",
+      "show_name": "Linha de Passe: Mesa-Redonda",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sports-talk-linha-de-passe-mesa-redonda_l_m.jpg",
+      "show_category": "",
+      "start_time": "01:00",
+      "end_time": "02:30",
+      "episode_description": "Comentaristas esportivos conceituados entram em campo para uma análise completa da rodada do futebol ao estilo \"mesa redonda\", com debates acalorados e comentários de qualidade, sempre a partir de um olhar crítico e da imparcialidade."
+    },
+    {
+      "show_name": "Real Madrid x Real Sociedad",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-real-madrid-x-real-sociedad_l_m.jpg",
+      "show_category": "Campeonato Espanhol",
+      "start_time": "02:30",
+      "end_time": "04:30",
+      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
+    },
+    {
+      "show_name": "F1: The Inside Line",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_auto-racing-f1-the-inside-line_l_m.jpg",
+      "show_category": "",
+      "start_time": "04:30",
+      "end_time": "05:00",
+      "episode_description": "Veja a cobertura completa da Fórmula 1, a maior e mais badalada categoria do automobilismo mundial. Acompanhe as principais notícias da semana, os bastidores, entrevistas exclusivas e reportagens especiais."
+    },
+    {
+      "show_name": "Oviedo x Athletic Bilbao",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-oviedo-x-athletic-bilbao_l_m.jpg",
+      "show_category": "Campeonato Espanhol",
+      "start_time": "05:00",
+      "end_time": "05:00",
+      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
+    },
+    {
+      "show_name": "Oviedo x Athletic Bilbao",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-oviedo-x-athletic-bilbao_l_m.jpg",
+      "show_category": "Campeonato Espanhol",
+      "start_time": "05:00",
+      "end_time": "07:00",
+      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
+    },
+    {
+      "show_name": "NBA All-Star Game 2026",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_basketball-nba-all-star-game-2026_l_m.jpg",
+      "show_category": "NBA All-Star Game 2026",
+      "start_time": "07:00",
+      "end_time": "09:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Bola da Vez",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bola-da-vez_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "episode_description": "Entre encontros e desencontros, esquecimento e memória, um grupo de crianças passeia pela infância, pelas raízes e por paisagens escondidas da cidade de Goiás."
+    },
+    {
+      "show_name": "Aquece Moto GP",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_special-aquece-moto-gp_l_m.jpg",
+      "show_category": "",
+      "start_time": "10:00",
+      "end_time": "11:00",
+      "episode_description": "Uma prévia da temporada 2026 da Moto GP, com estreia do brasileiro Diogo Moreira, que vai competir pela equipe LCR Honda após conquistar o título da Moto 2 em 2025. O País também volta a sediar uma prova da categoria, em Goiânia, após 12 anos."
+    },
+    {
+      "show_name": "Liverpool x Brighton & Hove Albion",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-liverpool-x-brighton-hove-albion-2_l_m.jpg",
       "show_category": "Copa da Inglaterra",
-      "start_time": "01:30",
-      "end_time": "03:30",
+      "start_time": "11:00",
+      "end_time": "13:00",
       "episode_description": "Criada em 1871, a FA Cup é o torneio de futebol mais antigo do planeta. Reúne os principais times da Inglaterra contra diversos de todo país, em eliminatórias simples. São quase 800 clubes buscando uma vaga na final."
-    },
-    {
-      "show_name": "Argentinos Juniors x River Plate",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-argentinos-juniors-x-river-plate_l_m.webp",
-      "show_category": "Campeonato Argentino",
-      "start_time": "03:30",
-      "end_time": "05:30",
-      "episode_description": "Acompanhe as grandes partidas do torneio de elite do futebol argentino."
-    },
-    {
-      "show_name": "Momento ESPN",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_documentary-momento-espn_l_m.webp",
-      "show_category": "",
-      "start_time": "05:30",
-      "end_time": "05:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Premier League Stories",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-premier-league-stories_l_m.webp",
-      "show_category": "",
-      "start_time": "05:45",
-      "end_time": "05:45",
-      "episode_description": "Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês."
-    },
-    {
-      "show_name": "Premier League Stories",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-premier-league-stories_l_m.webp",
-      "show_category": "",
-      "start_time": "05:45",
-      "end_time": "06:15",
-      "episode_description": "Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês."
-    },
-    {
-      "show_name": "Momento ESPN",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_documentary-momento-espn_l_m.webp",
-      "show_category": "",
-      "start_time": "06:15",
-      "end_time": "06:20",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Daytona 500 - Duels",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_auto-racing-daytona-500-duels_l_m.webp",
-      "show_category": "NASCAR Cup Series",
-      "start_time": "06:20",
-      "end_time": "08:50",
-      "episode_description": "Às vésperas de tradicional prova da Nascar, os Duels são corridas de 60 voltas que definem a ordem dos pilotos que largarão a partir da terceira posição do grid da Daytona 500 em 2026. Do Daytona International Speedway, em Daytona Beach, EUA."
-    },
-    {
-      "show_name": "Mina de Passe",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_mina-de-passe_l_m.webp",
-      "show_category": "Sports talk",
-      "start_time": "08:50",
-      "end_time": "09:50",
-      "episode_description": "Acompanhe tudo sobre o futebol feminino."
-    },
-    {
-      "show_name": "Espanyol x Celta de Vigo",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-espanyol-x-celta-de-vigo_l_m.webp",
-      "show_category": "Campeonato Espanhol",
-      "start_time": "09:50",
-      "end_time": "12:00",
-      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
-    },
-    {
-      "show_name": "Getafe x Villarreal",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-getafe-x-villarreal_l_m.webp",
-      "show_category": "Campeonato Espanhol",
-      "start_time": "12:00",
-      "end_time": "14:15",
-      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
-    },
-    {
-      "show_name": "Sevilla x Alavés",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-sevilla-x-alaves_l_m.webp",
-      "show_category": "Campeonato Espanhol",
-      "start_time": "14:15",
-      "end_time": "16:30",
-      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
     },
     {
       "show_name": "Internazionale x Juventus",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-internazionale-x-juventus-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-internazionale-x-juventus-1_l_m.jpg",
       "show_category": "Campeonato Italiano",
-      "start_time": "16:30",
-      "end_time": "18:45",
+      "start_time": "13:00",
+      "end_time": "15:00",
       "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
     },
     {
-      "show_name": "Show da Rodada do Inglês",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-show-da-rodada-do-ingles_l_m.webp",
+      "show_name": "Aquece Moto GP",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_special-aquece-moto-gp_l_m.jpg",
       "show_category": "",
-      "start_time": "18:45",
-      "end_time": "19:15",
-      "episode_description": "O programa traz todos os pormenores da rodada do campeonato inglês com as pontuações dos clubes, gols e lances mais bonitos."
+      "start_time": "15:00",
+      "end_time": "16:00",
+      "episode_description": "Uma prévia da temporada 2026 da Moto GP, com estreia do brasileiro Diogo Moreira, que vai competir pela equipe LCR Honda após conquistar o título da Moto 2 em 2025. O País também volta a sediar uma prova da categoria, em Goiânia, após 12 anos."
     },
     {
-      "show_name": "Manchester City x Salford City",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-manchester-city-x-salford-city_l_m.webp",
+      "show_name": "Inside Serie A",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-inside-serie-a_l_m.jpg",
+      "show_category": "",
+      "start_time": "16:00",
+      "end_time": "16:25",
+      "episode_description": "Uma previsão sobre os próximos jogos do Campeonato Italiano."
+    },
+    {
+      "show_name": "Macclesfield FC x Brentford",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-macclesfield-fc-x-brentford_l_m.jpg",
       "show_category": "Copa da Inglaterra",
-      "start_time": "19:15",
-      "end_time": "21:10",
+      "start_time": "16:25",
+      "end_time": "18:30",
       "episode_description": "Criada em 1871, a FA Cup é o torneio de futebol mais antigo do planeta. Reúne os principais times da Inglaterra contra diversos de todo país, em eliminatórias simples. São quase 800 clubes buscando uma vaga na final."
     },
     {
-      "show_name": "Aston Villa x Newcastle United",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-aston-villa-x-newcastle-united_l_m.webp",
-      "show_category": "Copa da Inglaterra",
-      "start_time": "21:10",
-      "end_time": "23:00",
-      "episode_description": "Criada em 1871, a FA Cup é o torneio de futebol mais antigo do planeta. Reúne os principais times da Inglaterra contra diversos de todo país, em eliminatórias simples. São quase 800 clubes buscando uma vaga na final."
+      "show_name": "SportsCenter Abre o Jogo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sports-talk-sportscenter-abre-o-jogo_l_m.jpg",
+      "show_category": "",
+      "start_time": "18:30",
+      "end_time": "18:50",
+      "episode_description": "Destaques e preparativos da partida válida pela maior liga de basquete profissional do mundo."
     },
     {
-      "show_name": "Mina de Passe",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/today/br_mina-de-passe_l_m.webp",
-      "show_category": "Sports talk",
-      "start_time": "23:00",
-      "end_time": "00:00",
-      "episode_description": "Acompanhe tudo sobre o futebol feminino."
+      "show_name": "Deportivo Riestra x Newell's Old Boys",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-deportivo-riestra-x-newell-s-old-boys_l_m.jpg",
+      "show_category": "Campeonato Argentino",
+      "start_time": "18:50",
+      "end_time": "21:00",
+      "episode_description": "Quinta rodada da Apertura. O Deportivo Riestra recebe o Newell's Old Boys no Estádio Guillermo Laza."
+    },
+    {
+      "show_name": "Destaques da Conmebol Libertadores",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-destaques-da-conmebol-libertadores_l_m.jpg",
+      "show_category": "",
+      "start_time": "21:00",
+      "end_time": "21:30",
+      "episode_description": "Acompanhe os destaques, os melhores lances, gols e um resumo completo de tudo o que rolou nas partidas da principal competição de futebol masculino entre clubes da América do Sul: a Conmebol Libertadores."
+    },
+    {
+      "show_name": "Girona x Barcelona",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-girona-x-barcelona_l_m.jpg",
+      "show_category": "Campeonato Espanhol",
+      "start_time": "21:30",
+      "end_time": "23:30",
+      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
+    },
+    {
+      "show_name": "Coventry City x Middlesbrough",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-coventry-city-x-middlesbrough_l_m.jpg",
+      "show_category": "Campeonato Inglês - Segunda Divisão",
+      "start_time": "23:30",
+      "end_time": "01:30",
+      "episode_description": "Da Coventry Building Society Arena, em Coventry, Inglaterra."
     }
   ]
 }

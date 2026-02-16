@@ -1,446 +1,582 @@
 {
   "channel": "Futura",
-  "date": "16/02/2026",
+  "date": "17/02/2026",
   "schedule": [
     {
-      "show_name": "Tem Clima pra Isso?",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_tem-clima-pra-isso_l_m.webp",
-      "show_category": "Environment",
-      "start_time": "00:30",
-      "end_time": "01:00",
-      "episode_description": "O intelectual e filósofo Nego Bispo mostra vasto legado de como reinterpretar o meio ambiente."
+      "show_name": "Cineclube Futura",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cineclube-futura-s04e08-linha-de-passe_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 8 - Linha de Passe",
+      "start_time": "00:00",
+      "end_time": "02:15",
+      "episode_description": "Marcelo Janot apresenta o filme \"Linha de Passe\", 2008, de Walter Salles e Daniela Thomas, e conversa com o ator Vinicius de Oliveira, que participa do elenco do filme."
     },
     {
-      "show_name": "Brasil 2050",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_brasil-2050-s03e06-biodiversidade-e-florestas_l_m.webp",
-      "show_category": "Temporada 3 Episódio 6 - Biodiversidade e Florestas",
-      "start_time": "01:00",
-      "end_time": "01:30",
-      "episode_description": "Criado em 1967, o programa de incentivos fiscais para promover, incentivar e expandir a silvicultura no país é responsável por tornar o Brasil o maior produtor de madeira de floresta plantada do mundo."
-    },
-    {
-      "show_name": "Na Trilha da Energia",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_na-trilha-da-energia-s03e04-dividindo-responsabilidades_l_m.webp",
-      "show_category": "Temporada 3 Episódio 4 - Dividindo Responsabilidades",
-      "start_time": "01:30",
-      "end_time": "02:00",
-      "episode_description": "Na Alemanha, investimento, inspiração e consciência ambiental podem fazer um mundo melhor."
-    },
-    {
-      "show_name": "Manual de Sobrevivência para o Século 21",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_manual-de-sobrevivencia-para-o-seculo-21_l_m.webp",
-      "show_category": "Entertainment",
-      "start_time": "02:00",
-      "end_time": "02:30",
-      "episode_description": "Soluções criativas para os problemas do século XXI que já são praticadas com sucesso em diversas comunidades do Brasil."
-    },
-    {
-      "show_name": "A Trilha Transcarioca",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_a-trilha-transcarioca-s01e03-geografia-e-biodiversidade_l_m.webp",
-      "show_category": "Temporada 1 Episódio 3 - Geografia e Biodiversidade",
-      "start_time": "02:30",
-      "end_time": "03:00",
-      "episode_description": "A riqueza da biodiverdidade da Trilha Transcarioca e sua territorialidade, que marca presença em nove unidades de conservação de proteção integral."
-    },
-    {
-      "show_name": "Sou Quilombola",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_sou-quilombola_l_m.webp",
-      "show_category": "Community",
-      "start_time": "03:00",
-      "end_time": "03:30",
-      "episode_description": "Para eles, resistir não é só defender o passado, é recriar o futuro. Uma imersão na jornada de quem reconstrói sua cultura no território, mostrando que a união e a certeza na vitória são as armas para transformar a luta pela terra em um legado vivo."
-    },
-    {
-      "show_name": "Histórias das Ciências",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_historias-das-ciencias-s01e05-socorristas_l_m.webp",
-      "show_category": "Temporada 1 Episódio 5 - Socorristas",
-      "start_time": "03:30",
-      "end_time": "04:00",
-      "episode_description": "Esta edição fala sobre a rotina dos socorristas. Eles são responsáveis pelo atendimento pré-hospitalar de vítimas em situações de urgência e emergência, o profissional é fundamental nas unidades de atendimento móvel."
-    },
-    {
-      "show_name": "Caça Joia",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_caca-joia-s03e07-karen-francis_l_m.webp",
-      "show_category": "Temporada 3 Episódio 7 - Karen Francis",
-      "start_time": "04:00",
-      "end_time": "04:15",
-      "episode_description": "Chinaina vai ao borboletário do parque ecológico Mangal das Garças para entrevistar Karen Francis."
-    },
-    {
-      "show_name": "Giro Universidades",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_giro-universidades_l_m.webp",
-      "show_category": "Educational",
-      "start_time": "04:15",
-      "end_time": "04:30",
-      "episode_description": "O programa relata o Aldeias que Ensinam, da PUC Minas, que mistura ensino e vivência indígena. Também o Acolhitides, da ESPM-SP, que oferece curso de português para refugiados, e o Hospital Veterinário da Unisc, que promove o cuidado da saúde animal."
-    },
-    {
-      "show_name": "Conversas que Inspiram",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_conversas-que-inspiram-s02e03-desconstruindo-preconceitos_l_m.webp",
-      "show_category": "Temporada 2 Episódio 3 - Desconstruindo Preconceitos",
-      "start_time": "04:30",
-      "end_time": "04:45",
-      "episode_description": "Thalita Gelenske aprofunda o debate sobre vieses inconscientes, mostrando como estereótipos afetam a representatividade LGBTQIA+ e reforçando que todos temos preconceitos a desconstruir."
-    },
-    {
-      "show_name": "PCDPOD",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_pcdpod-s01e01-pra-quem-s-o-as-cidades_l_m.webp",
-      "show_category": "Temporada 1 Episódio 1 - Pra Quem São as Cidades?",
-      "start_time": "04:45",
-      "end_time": "05:45",
-      "episode_description": "Benedita Casé e Pedro Henrique França recebem a ex-ginasta e ex-esquiadora Lais Souza e a influencer Lelê Martins, a Blogueira PcD. Eles discutem como o capacitismo opera nas construções dos espaços e da autonomia."
+      "show_name": "A(u)tores",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-u-tores-s04e05-literatura-indigena-por-zahy-tentehar_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 5 - Literatura Indígena por Zahy Tentehar",
+      "start_time": "02:15",
+      "end_time": "02:45",
+      "episode_description": "A atriz indígena Zahy Tentehar, que levou sua ancestralidade ao palco, destaca a importância de Ailton Krenak na Academia de Letras e sua conexão com as palavras."
     },
     {
       "show_name": "(In)Confidências",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_in-confidencias-s01e05-roger-chartier_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_in-confidencias-s01e05-roger-chartier_l_m.jpg",
       "show_category": "Temporada 1 Episódio 5 - Roger Chartier",
-      "start_time": "05:45",
-      "end_time": "06:00",
+      "start_time": "02:45",
+      "end_time": "03:00",
       "episode_description": "O historiador Roger Chartier discute sobre a autoria e a criação de obras literárias."
     },
     {
-      "show_name": "Planeta Menos 1 Lixo",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_planeta-menos-1-lixo-s01e03-de-quem-e-esse-lixo_l_m.webp",
-      "show_category": "Temporada 1 Episódio 3 - De Quem É Esse Lixo?",
-      "start_time": "06:00",
-      "end_time": "06:15",
-      "episode_description": "Jovens da Casa Cria aceitam desafio da mentora Fê Cortez de viver sem usar embalagens descartáveis."
+      "show_name": "Inspira Fundo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_inspira-fundo_l_m.jpg",
+      "show_category": "Public affairs",
+      "start_time": "03:00",
+      "end_time": "03:15",
+      "episode_description": "A falta de perspectiva e oportunidades para jovens da periferia é um grande problema no Brasil. Algumas iniciativas estão tentando mudar essa realidade com as artes, incentivando talentos e desenvolvendo carreiras."
     },
     {
       "show_name": "Som e Prosa",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_som-e-prosa_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_som-e-prosa_l_m.jpg",
       "show_category": "Music",
-      "start_time": "06:15",
-      "end_time": "06:30",
+      "start_time": "03:15",
+      "end_time": "03:30",
       "episode_description": "A cada semana, artistas e compositores se apresentam e discutem seus repertórios, tradições e novidades do cenário da música."
     },
     {
-      "show_name": "E Aí, Professor?",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_e-ai-professor-s03e02-os-3-pilares-basicos-da-eja_l_m.webp",
-      "show_category": "Temporada 3 Episódio 2 - Os 3 Pilares Básicos da EJA",
+      "show_name": "Da Nascente à Foz",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_da-nascente-a-foz-s02e11-micro-macro-bacias_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 11 - Micro Macro Bacias",
+      "start_time": "03:30",
+      "end_time": "04:00",
+      "episode_description": "O percurso de um pequeno córrego até o mar nos dando a dimensão de bacia hidrográfica."
+    },
+    {
+      "show_name": "Eco Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_eco-brasil-s01e07-50-graus-enchentes-e-agora_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 7 - 50 Graus, Enchentes... E Agora?",
+      "start_time": "04:00",
+      "end_time": "04:25",
+      "episode_description": "Você percebeu que no verão tem feito 50 graus? Que os temporais estão cada vez mais fortes? No Brasil e no mundo, uns sofrem mais, mas os efeitos do aquecimento global não deixam ninguém de fora."
+    },
+    {
+      "show_name": "Tocando a Real",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tocando-a-real-s02e23-conhecendo-o-ipcc_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 23 - Conhecendo o IPCC",
+      "start_time": "04:25",
+      "end_time": "04:35",
+      "episode_description": "Entenda o que é e o que faz o Painel Intergovernamental de Mudanças Climáticas da Organização das Nações Unidas, o IPCC, na sigla em inglês."
+    },
+    {
+      "show_name": "Reload",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_reload-s01e06-politica_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 6 - Política",
+      "start_time": "04:35",
+      "end_time": "04:45",
+      "episode_description": "Veja uma aula básica de como funciona a democracia no Brasil, algo que todos deviam ter na escola."
+    },
+    {
+      "show_name": "Sou Carimbó",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sou-carimbo-s01e04-instrumentos-e-musicalidade_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - Instrumentos e Musicalidade",
+      "start_time": "04:45",
+      "end_time": "05:15",
+      "episode_description": "Uma das principais características do ritmo Carimbó é a riqueza de seus instrumentos. A sonoridade e origem deles ganham nos relatos de músicos uma musicalidade diferenciada e com ritmo."
+    },
+    {
+      "show_name": "Entrevista - Educação no Centenário de Paulo Freire",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_entrevista-educac-o-no-centenario-de-paulo-freire_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "05:15",
+      "end_time": "05:25",
+      "episode_description": "João Luiz Pedrosa conversa com o escritor e professor Luiz Rufino sobre a importância de transformar as práticas pedagógicas moldadas pela colonização."
+    },
+    {
+      "show_name": "Canal da História",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_canal-da-historia-s01e05-carlota-joaquina_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 5 - Carlota Joaquina",
+      "start_time": "05:25",
+      "end_time": "05:45",
+      "episode_description": "Saiba mais sobre Carlota Joaquina, a princesa que foi obrigada a se casar, aos dez anos de idade, com o Rei Dom João VI de Portugal. Veja se ela realmente era mandona, traidora da Coroa Portuguesa ou uma mulher injustiçada pelos livros de história."
+    },
+    {
+      "show_name": "Ciência para Todos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ciencia-para-todos-s02e11-transplante-entre-diferentes-especies_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 11 - Transplante Entre Diferentes Espécies",
+      "start_time": "05:45",
+      "end_time": "06:00",
+      "episode_description": "A escassez de órgãos humanos disponíveis para transplante pode encontrar uma solução na modificação genética aprimorada que possibilita o transplante entre espécies diferentes."
+    },
+    {
+      "show_name": "Novo Telecurso - Ensino Fundamental",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_novo-telecurso-ensino-fundamental_l_m.jpg",
+      "show_category": "Educational",
+      "start_time": "06:00",
+      "end_time": "06:15",
+      "episode_description": "As teleaulas abordam o conteúdo pedagógico e informações referentes ao ensino fundamental para jovens e adultos."
+    },
+    {
+      "show_name": "Novo Telecurso - Ensino Médio",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_novo-telecurso-ensino-medio_l_m.jpg",
+      "show_category": "Educational",
+      "start_time": "06:15",
+      "end_time": "06:30",
+      "episode_description": "As teleaulas abordam o conteúdo pedagógico do Ensino Médio e são destinadas a jovens e adultos. O objetivo é levar educação para aqueles que não possuem acesso formal e presencial."
+    },
+    {
+      "show_name": "Brasil da Paz",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_brasil-da-paz_l_m.jpg",
+      "show_category": "Community",
       "start_time": "06:30",
-      "end_time": "06:45",
-      "episode_description": "O episódio aborda alimentação, saúde e lazer como pilares essenciais na vida dos educandos da EJA. Com especialistas, discutimos como garantir dignidade e inclusão na educação."
-    },
-    {
-      "show_name": "Desafio nas Escolas",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_desafio-nas-escolas-s03e02-ce-professora-vania-do-amaral_l_m.webp",
-      "show_category": "Temporada 3 Episódio 2 - CE Professora Vânia do Amaral",
-      "start_time": "06:45",
       "end_time": "07:00",
-      "episode_description": "A escola estimula os alunos a criarem roupas com materiais reciclados. Com a baixa coleta seletiva na cidade, eles têm o desafio de criar um programa de coleta e um desfile de moda com peças recicladas."
+      "episode_description": "A equidade de gênero e racial são fundamentais para a paz. Mulheres negras e indígenas que se organizam para empoderar outras mulheres e combater estruturas de opressão."
     },
     {
-      "show_name": "Comer, Beber e Aprender",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_comer-beber-e-aprender-s01e13-sabores-de-caete-acu_l_m.webp",
-      "show_category": "Temporada 1 Episódio 13 - Sabores de Caeté-Açu",
+      "show_name": "O Dia em que me Tornei Mais Forte",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-dia-em-que-me-tornei-mais-forte_l_m.jpg",
+      "show_category": "Documentary",
       "start_time": "07:00",
-      "end_time": "07:15",
-      "episode_description": "Na escola, Helena apresenta seu caderno de receitas e conta o que aprendeu. Fala da pizza da tia do refeitório e diz por que escolheu chamar o caderno de \"Sabores de Caeté-Açu\"."
+      "end_time": "07:05",
+      "episode_description": "Conheça histórias de crianças fortes de todo o mundo."
     },
     {
-      "show_name": "Matemágica",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_matemagica-s01e28_l_m.webp",
-      "show_category": "Temporada 1 Episódio 28",
+      "show_name": "Tuiga",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tuiga-s02e16-entrega-nas-estrelas_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 16 - Entrega nas Estrelas",
+      "start_time": "07:05",
+      "end_time": "07:10",
+      "episode_description": "Tuiga precisa levar o balão cada vez mais alto, até o espaço. A entrega é na estação espacial internacional, mas não encontram o destinatário, uma tal de Halley."
+    },
+    {
+      "show_name": "Tuiga",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tuiga-s02e19-o-que-e-arte_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 19 - O que É Arte",
+      "start_time": "07:10",
+      "end_time": "07:15",
+      "episode_description": "A entrega do dia vai para uma Lhama, que cospe tinta em uma tela de pintura. Para o porco pintor Van Going isso não é arte. Tuiga promove uma competição e mostra que sim, a arte pode ser muitas coisas."
+    },
+    {
+      "show_name": "O Diário de Mika",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-diario-de-mika-s02e68-meu-lanche-e-so-meu_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 68 - Meu Lanche É Só Meu",
       "start_time": "07:15",
       "end_time": "07:25",
-      "episode_description": "O \"matemágico\" Eric revela a magia das frações musicais, apresenta o mundo das ilusões com os espelhos e conta as combinações de roupa possíveis com seis camisas e quatro calças."
+      "episode_description": "Mika leva um bolo de laranja para a escola e não quer dividir com ninguém. Porém, Blablá ajuda a garota a descobrir que compartilhar é muito legal."
     },
     {
-      "show_name": "Matemágica",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_matemagica-s01e25_l_m.webp",
-      "show_category": "Temporada 1 Episódio 25",
+      "show_name": "Contos do Iéti",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_contos-do-ieti-s04e53-a-noite-de-yuck_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 53 - A Noite de Yuck",
       "start_time": "07:25",
-      "end_time": "07:35",
-      "episode_description": "O matemágico Eric revela como fazer uma corrente usando uma tira de papel; transforma um pedaço de papel em um objeto tridimensional; e faz um padrão usando um bloco geométrico no formato de sua cabeça. Não é mágica, é matemática."
+      "end_time": "07:30",
+      "episode_description": "Quando Nina e Leon chegam à livraria, Iéti já escolheu a história do dia. Uma história assustadora."
+    },
+    {
+      "show_name": "Contos do Iéti",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_contos-do-ieti-s04e54-a-roda-gigante_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 54 - A Roda Gigante",
+      "start_time": "07:30",
+      "end_time": "07:40",
+      "episode_description": "Nina e Leon acham um grande pena. É com penas que as histórias mais bonitas são escritas."
+    },
+    {
+      "show_name": "Tainá e os Guardiões da Amazônia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_taina-e-os-guardi-es-da-amazonia-s01e21-capivara-entediada_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 21 - Capivara Entediada",
+      "start_time": "07:40",
+      "end_time": "07:50",
+      "episode_description": "Não para de chover na Amazônia e Tainá e seus amigos estão entediados. Mas não são somente eles. As duas capivarinhas, Capivari e Capinejar, que detestam chuva, vão brincar dentro das Cavernas Terríveis, onde nunca chove."
+    },
+    {
+      "show_name": "MYTIKAH - O Livro dos Heróis",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mytikah-o-livro-dos-herois-s02e04-dolores-caguango_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 4 - Dolores Caguango",
+      "start_time": "07:50",
+      "end_time": "08:00",
+      "episode_description": "Manga e Leco estão lendo um livro no quarto quando Mytikah chega e os leva para o Equador, onde conhecem Dolores Cacuango, uma indígena que luta pelo direito à educação e por uma vida mais justa para seu povo indígena."
+    },
+    {
+      "show_name": "O Mundo que Sei",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-mundo-que-sei-s01e07-no-mundo-das-telas_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 7 - No Mundo das Telas",
+      "start_time": "08:00",
+      "end_time": "08:15",
+      "episode_description": "Até mesmo Solo se surpreende com o fascínio dos terráqueos pelas telas. No sétimo dia, os filhotes humanos contam sobre sua interação com o universo dos eletrônicos, enquanto Solo planeja um destino para o bebê."
+    },
+    {
+      "show_name": "Tuca, o Mestre Cuca",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tuca-o-mestre-cuca-s01e04-o-bolo-mais-bonito-do-mundo_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - O Bolo Mais Bonito do Mundo",
+      "start_time": "08:15",
+      "end_time": "08:25",
+      "episode_description": "Tuca se supera e faz o bolo mais bonito de todos, cheio de anis estrelado, que fica uma verdadeira obra de arte. Ele decide manter o bolo fora do alcance de todos, já que arte é para ser vista, não comida, mas Pri e as outras crianças discordam."
+    },
+    {
+      "show_name": "Tuca, o Mestre Cuca",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tuca-o-mestre-cuca-s01e11-pri-a-mestra-ninja_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 11 - Uma Noite Arrepiante",
+      "start_time": "08:25",
+      "end_time": "08:30",
+      "episode_description": "Pri quer participar da Maratona Calafrio, um dia especial em que Tuca e Mãe assistem a filmes de terror, regados a guacamole, mas eles insistem que ela é nova demais. Sem se dar por vencida, Pri assiste ao filme sem permissão."
+    },
+    {
+      "show_name": "O Dia em que me Tornei Mais Forte",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-dia-em-que-me-tornei-mais-forte_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "08:30",
+      "end_time": "08:35",
+      "episode_description": "Conheça histórias de crianças fortes de todo o mundo."
+    },
+    {
+      "show_name": "A Caverna de Petra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-caverna-de-petra-s02e04-carmen-sorte_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 4 - Carmen Sorte",
+      "start_time": "08:35",
+      "end_time": "08:45",
+      "episode_description": "Depois de dois raios atingirem a caverna, Petra e Júlia conhecem Carmen Sorte, uma criatura muito simpática e diferente de todas que elas já viram."
     },
     {
       "show_name": "Queimamufa!",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_queimamufa-s02e02-um-forninho-cosmico_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_queimamufa-s02e02-um-forninho-cosmico_l_m.jpg",
       "show_category": "Temporada 2 Episódio 2 - Um Forninho Cósmico",
-      "start_time": "07:35",
-      "end_time": "07:50",
+      "start_time": "08:45",
+      "end_time": "09:00",
       "episode_description": "Carol e Kauê embarcam em uma jornada cósmica pela M.U.F.A., onde descobrem que as estrelas nascem e morrem, provando que a astronomia é uma aventura divertida."
     },
     {
       "show_name": "MYTIKAH - O Livro dos Heróis",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_mytikah-o-livro-dos-herois-s02e01-carolina-maria-de-jesus_l_m.webp",
-      "show_category": "Temporada 2 Episódio 1 - Carolina Maria de Jesus",
-      "start_time": "07:50",
-      "end_time": "07:55",
-      "episode_description": "Manga e Leco estão brincando de teatrinho de sombras quando Mytikah os leva para conhecer a escritora brasileira Carolina Maria de Jesus. As crianças a incentivam a se dedicar ao seu talento para a escrita."
-    },
-    {
-      "show_name": "Contos do Iéti",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_contos-do-ieti-s04e51-dois-para-mim-um-para-voce_l_m.webp",
-      "show_category": "Temporada 4 Episódio 51 - Dois para Mim, um para Você",
-      "start_time": "07:55",
-      "end_time": "08:05",
-      "episode_description": "Nina e Leon pregam uma peça em Yeti com um cogumelo, o que lhe dá uma ideia para a história do dia."
-    },
-    {
-      "show_name": "Tuca, o Mestre Cuca",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_tuca-o-mestre-cuca-s01e01-o-misterio-da-geladeira_l_m.webp",
-      "show_category": "Temporada 1 Episódio 1 - O Mistério da Geladeira",
-      "start_time": "08:05",
-      "end_time": "08:15",
-      "episode_description": "Tuca faz uma receita deliciosa de gelatina arco-íris, mas tudo vai por água abaixo quando eles descobrem que a geladeira parou de funcionar, sem explicações. Agora, Tuca e Pri precisam desvendar esse mistério."
-    },
-    {
-      "show_name": "Juro que Vi",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_juro-que-vi-1_l_m.webp",
-      "show_category": "Children",
-      "start_time": "08:15",
-      "end_time": "08:25",
-      "episode_description": "A história de amor impossível entre uma mulher que se apaixona por um homem baixinho que, na verdade, é um boto-cor-de-rosa."
-    },
-    {
-      "show_name": "Tainá e os Guardiões da Amazônia",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_taina-e-os-guardi-es-da-amazonia-s01e18-n-o-vou-tomar-banho_l_m.webp",
-      "show_category": "Temporada 1 Episódio 18 - Não Vou Tomar Banho!",
-      "start_time": "08:25",
-      "end_time": "08:35",
-      "episode_description": "Antônio, o filhote de anta, não quer tomar banho de jeito nenhum, e Tainá e seus amigos são chamados para ajudar. Só que Antônio é um porcalhão nato e adora brincar na lama, dando um baile em Tainá e seus amigos."
-    },
-    {
-      "show_name": "Lab de Chef",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_lab-de-chef_l_m.webp",
-      "show_category": "Science",
-      "start_time": "08:35",
-      "end_time": "09:00",
-      "episode_description": "Enquanto preparam anéis de cebola, Maya e Tom fazem experimentos para conter as lágrimas trazidas pelo vegetal, investigam a anatomia dos olhos e a construção cultural dos sentimentos."
-    },
-    {
-      "show_name": "A Caverna de Petra",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_a-caverna-de-petra-s02e04-carmen-sorte_l_m.webp",
-      "show_category": "Temporada 2 Episódio 4 - Carmen Sorte",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mytikah-o-livro-dos-herois-s02e02-sara-gomez_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 2 - Sara Gómez",
       "start_time": "09:00",
-      "end_time": "09:15",
-      "episode_description": "Depois de dois raios atingirem a caverna, Petra e Júlia conhecem Carmen Sorte, uma criatura muito simpática e diferente de todas que elas já viram."
+      "end_time": "09:10",
+      "episode_description": "Mytikah leva Manga e Leco para Cuba, onde conhecem a cineasta Sara Gómez. Sara mostra aos irmãos como o cinema documental pode ser uma ferramenta de transformação social ao contar a história e a realidade de seu povo."
     },
     {
-      "show_name": "Jogo Duro",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_jogo-duro-s02e02_l_m.webp",
-      "show_category": "Temporada 2 Episódio 2",
+      "show_name": "O Diário de Mika",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-diario-de-mika-s02e69-escolhas_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 69 - Escolhas",
+      "start_time": "09:10",
+      "end_time": "09:15",
+      "episode_description": "Mika precisa escolher entre um jogo e um castelo como presente de aniversário. Mas a garota não gosta disso, pois ela quer ter os dois brinquedos. Porém, juntamente com Milá, ela aprende sobre a importância de fazer escolhas."
+    },
+    {
+      "show_name": "Tuiga",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tuiga-s02e18-zona-caos-confus-o_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 18 - Zona Caos Confusão",
       "start_time": "09:15",
+      "end_time": "09:20",
+      "episode_description": "Tuiga não aguenta mais a bagunça de brinquedos promovida por Amélia, Taco e Canjica. Porém, a entrega de um instrumento musical para um Narval e sua banda vai ensinar a importância de um mínimo de organização e harmonia."
+    },
+    {
+      "show_name": "Tuiga",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tuiga-s02e21-shitake-show_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 21 - Shitake Show",
+      "start_time": "09:20",
+      "end_time": "09:30",
+      "episode_description": "Após andar em círculos por uma floresta procurando a cogumelo Amanita para fazer uma entrega, Tuiga e a equipe precisam participar de um jogo de perguntas inusitado onde a resposta parece ser sempre a mesma: Fungos."
+    },
+    {
+      "show_name": "Matemágica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_matemagica-s01e31_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 31",
+      "start_time": "09:30",
       "end_time": "09:45",
-      "episode_description": "Durante a Semana do Livro, a Equipe Mahaki procura uma dupla para jogar com Mickey."
+      "episode_description": "O \"matemágico\" Eric prova que tamanho e peso são medidas bem diferentes, apresenta um truque de cálculo desenhando blocos em um calendário e ainda ensina a ler mapas com linhas de grade para achar um tesouro."
     },
     {
       "show_name": "Quintal TV",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_quintal-tv-s03e05-padr-es-de-corpo_l_m.webp",
-      "show_category": "Temporada 3 Episódio 5 - Padrões de Corpo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quintal-tv-s03e06-saude-socioemocional_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 6 - Saúde Socioemocional",
       "start_time": "09:45",
       "end_time": "10:00",
-      "episode_description": "O programa convida crianças a refletirem sobre padrões de beleza, como são criados, a importância da autoestima, aceitação e de ver a beleza única que existe em cada um."
-    },
-    {
-      "show_name": "Manual de Sobrevivência para o Século 21",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_manual-de-sobrevivencia-para-o-seculo-21_l_m.webp",
-      "show_category": "Entertainment",
-      "start_time": "10:00",
-      "end_time": "10:30",
-      "episode_description": "Soluções criativas para os problemas do século XXI que já são praticadas com sucesso em diversas comunidades do Brasil."
-    },
-    {
-      "show_name": "Brasil 2050",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_brasil-2050-s03e06-biodiversidade-e-florestas_l_m.webp",
-      "show_category": "Temporada 3 Episódio 6 - Biodiversidade e Florestas",
-      "start_time": "10:30",
-      "end_time": "11:00",
-      "episode_description": "Criado em 1967, o programa de incentivos fiscais para promover, incentivar e expandir a silvicultura no país é responsável por tornar o Brasil o maior produtor de madeira de floresta plantada do mundo."
-    },
-    {
-      "show_name": "Reconstruindo Nosso Ambiente",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_reconstruindo-nosso-ambiente-s01e07-paineis-fotovoltaicos_l_m.webp",
-      "show_category": "Temporada 1 Episódio 7 - Painéis Fotovoltaicos",
-      "start_time": "11:00",
-      "end_time": "11:30",
-      "episode_description": "A importância do uso da energia eólica como um método de economia de combustível e da evolução e do funcionamento dos sistemas desta energia."
-    },
-    {
-      "show_name": "Brasil da Paz",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_brasil-da-paz_l_m.webp",
-      "show_category": "Community",
-      "start_time": "11:30",
-      "end_time": "12:00",
-      "episode_description": "A equidade de gênero e racial são fundamentais para a paz. Mulheres negras e indígenas que se organizam para empoderar outras mulheres e combater estruturas de opressão."
-    },
-    {
-      "show_name": "Sou Quilombola",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_sou-quilombola_l_m.webp",
-      "show_category": "Community",
-      "start_time": "12:00",
-      "end_time": "12:30",
-      "episode_description": "Para eles, resistir não é só defender o passado, é recriar o futuro. Uma imersão na jornada de quem reconstrói sua cultura no território, mostrando que a união e a certeza na vitória são as armas para transformar a luta pela terra em um legado vivo."
-    },
-    {
-      "show_name": "Sementes da Educação",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_sementes-da-educac-o-s02e06-escola-familia-agricola-de-orizona-efaori_l_m.webp",
-      "show_category": "Temporada 2 Episódio 6 - Escola Família Agrícola de Orizona - Efaori",
-      "start_time": "12:30",
-      "end_time": "13:00",
-      "episode_description": "Conheça a escola criada para proporcionar uma educação do campo de qualidade para jovens, filhas e filhos de pequenos produtores rurais, visando evitar o êxodo rural."
-    },
-    {
-      "show_name": "Giro Universidades",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_giro-universidades_l_m.webp",
-      "show_category": "Educational",
-      "start_time": "13:00",
-      "end_time": "13:15",
-      "episode_description": "O programa relata o Aldeias que Ensinam, da PUC Minas, que mistura ensino e vivência indígena. Também o Acolhitides, da ESPM-SP, que oferece curso de português para refugiados, e o Hospital Veterinário da Unisc, que promove o cuidado da saúde animal."
-    },
-    {
-      "show_name": "Ciência para Todos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_ciencia-para-todos-s03e01-empreendendo-com-abelhas_l_m.webp",
-      "show_category": "Temporada 3 Episódio 1 - Empreendendo com Abelhas",
-      "start_time": "13:15",
-      "end_time": "13:30",
-      "episode_description": "Tornando plantações mais sustentáveis, startups buscam aumentar a produtividade agrícola por meio da polinização assistida e do treinamento de abelhas."
-    },
-    {
-      "show_name": "Expresso Futuro",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_expresso-futuro-s09e02-preparo_l_m.webp",
-      "show_category": "Temporada 9 Episódio 2 - Preparo",
-      "start_time": "13:30",
-      "end_time": "14:00",
-      "episode_description": "Na Estônia, Ronaldo Lemos revela como um pequeno país tornou-se referência mundial em tecnologia, educação, cultura e equilíbrio com a natureza."
-    },
-    {
-      "show_name": "Pequenas Empresas & Grandes Negócios",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_pequenas-empresas-grandes-negocios-2_l_m.webp",
-      "show_category": "Bus./financial",
-      "start_time": "14:00",
-      "end_time": "14:30",
-      "episode_description": "Programa mostra como o Carnaval impulsiona negócios criativos em todo o país. A maior festa popular do planeta gera empreendimentos conectados com a cultura popular."
-    },
-    {
-      "show_name": "Conexão",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_conex-o_l_m.webp",
-      "show_category": "Educational",
-      "start_time": "14:30",
-      "end_time": "15:00",
-      "episode_description": "Entrevistas, depoimentos e participações ao vivo trazem assuntos de grande importância para a construção da cidadania, por meio de uma linguagem simplificada."
-    },
-    {
-      "show_name": "Da Nascente à Foz",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_da-nascente-a-foz-s02e11-micro-macro-bacias_l_m.webp",
-      "show_category": "Temporada 2 Episódio 11 - Micro Macro Bacias",
-      "start_time": "15:00",
-      "end_time": "15:30",
-      "episode_description": "O percurso de um pequeno córrego até o mar nos dando a dimensão de bacia hidrográfica."
-    },
-    {
-      "show_name": "Natureza Forte",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_natureza-forte-s02e07-ciclistas-sertanejas_l_m.webp",
-      "show_category": "Temporada 2 Episódio 7 - Ciclistas Sertanejas",
-      "start_time": "15:30",
-      "end_time": "16:00",
-      "episode_description": "Nas estradas da caatinga, um grupo de mulheres encontra mais que o prazer do ciclismo: elas criaram uma rede de apoio, preservação ambiental e valorização feminina. As Ciclistas Sertanejas pedalam por desafios e conquistas."
-    },
-    {
-      "show_name": "PCDPOD",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_pcdpod-s01e01-pra-quem-s-o-as-cidades_l_m.webp",
-      "show_category": "Temporada 1 Episódio 1 - Pra Quem São as Cidades?",
-      "start_time": "16:00",
-      "end_time": "17:00",
-      "episode_description": "Benedita Casé e Pedro Henrique França recebem a ex-ginasta e ex-esquiadora Lais Souza e a influencer Lelê Martins, a Blogueira PcD. Eles discutem como o capacitismo opera nas construções dos espaços e da autonomia."
-    },
-    {
-      "show_name": "Histórias das Ciências",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_historias-das-ciencias-s01e05-socorristas_l_m.webp",
-      "show_category": "Temporada 1 Episódio 5 - Socorristas",
-      "start_time": "17:00",
-      "end_time": "17:30",
-      "episode_description": "Esta edição fala sobre a rotina dos socorristas. Eles são responsáveis pelo atendimento pré-hospitalar de vítimas em situações de urgência e emergência, o profissional é fundamental nas unidades de atendimento móvel."
-    },
-    {
-      "show_name": "Sabores da Floresta",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_sabores-da-floresta-s02e02-guarana_l_m.webp",
-      "show_category": "Temporada 2 Episódio 2 - Guaraná",
-      "start_time": "17:30",
-      "end_time": "18:00",
-      "episode_description": "O guaraná é um ingrediente que traz energia a quem consome, gera recursos e cuja origem faz parte do imaginário da Amazônia."
-    },
-    {
-      "show_name": "Tem Clima pra Isso?",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_tem-clima-pra-isso_l_m.webp",
-      "show_category": "Environment",
-      "start_time": "18:00",
-      "end_time": "18:30",
-      "episode_description": "O intelectual e filósofo Nego Bispo mostra vasto legado de como reinterpretar o meio ambiente."
-    },
-    {
-      "show_name": "Brasil da Paz",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_brasil-da-paz_l_m.webp",
-      "show_category": "Community",
-      "start_time": "18:30",
-      "end_time": "19:00",
-      "episode_description": "A equidade de gênero e racial são fundamentais para a paz. Mulheres negras e indígenas que se organizam para empoderar outras mulheres e combater estruturas de opressão."
-    },
-    {
-      "show_name": "Caça Joia",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_caca-joia-s03e07-karen-francis_l_m.webp",
-      "show_category": "Temporada 3 Episódio 7 - Karen Francis",
-      "start_time": "19:00",
-      "end_time": "19:15",
-      "episode_description": "Chinaina vai ao borboletário do parque ecológico Mangal das Garças para entrevistar Karen Francis."
-    },
-    {
-      "show_name": "Territórios",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_territorios-s01e01-mulambo_l_m.webp",
-      "show_category": "Temporada 1 Episódio 1 - Mulambö",
-      "start_time": "19:15",
-      "end_time": "19:30",
-      "episode_description": "Mulambö explora desde a pintura, criação de bandeiras e objetos até a internet como plataforma de trabalho e, assim, faz arte para afirmar que não tem museu no mundo como a casa da nossa avó."
+      "episode_description": "O programa fala sobre saúde socioemocional na infância, desafios como redes sociais, bullying e mudanças, e ensina crianças a acolherem sentimentos, se cuidarem e pedirem ajuda quando necessário."
     },
     {
       "show_name": "Território 4.0",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_territorio-4-0-s01e07-prevenc-o-e-tecnologia_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_territorio-4-0-s01e07-prevenc-o-e-tecnologia_l_m.jpg",
       "show_category": "Temporada 1 Episódio 7 - Prevenção e Tecnologia",
-      "start_time": "19:30",
-      "end_time": "20:00",
+      "start_time": "10:00",
+      "end_time": "10:30",
       "episode_description": "Na última disputa da primeira fase, as equipes amarela e laranja entram no Território Saúde, em desafios que envolvem desde wearables ao desenvolvimento de vacinas."
     },
     {
-      "show_name": "Mutirão Saúde",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_mutir-o-saude-s01e13_l_m.webp",
-      "show_category": "Temporada 1 Episódio 13",
-      "start_time": "20:00",
-      "end_time": "20:30",
-      "episode_description": "Entre trabalho, estágio e faculdade, Edelde mantém uma agenda sobrecarregada que desencadeou hipertensão e crises ansiosas. Os especialistas oferecem orientações essenciais de autocuidado e estratégias para gerenciamento emocional."
-    },
-    {
       "show_name": "Manual de Sobrevivência para o Século 21",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_manual-de-sobrevivencia-para-o-seculo-21_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_manual-de-sobrevivencia-para-o-seculo-21_l_m.jpg",
       "show_category": "Entertainment",
-      "start_time": "20:30",
-      "end_time": "21:00",
+      "start_time": "10:30",
+      "end_time": "11:00",
       "episode_description": "Soluções criativas para os problemas do século XXI que já são praticadas com sucesso em diversas comunidades do Brasil."
     },
     {
+      "show_name": "Inspira Fundo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_inspira-fundo_l_m.jpg",
+      "show_category": "Public affairs",
+      "start_time": "11:00",
+      "end_time": "11:15",
+      "episode_description": "A falta de perspectiva e oportunidades para jovens da periferia é um grande problema no Brasil. Algumas iniciativas estão tentando mudar essa realidade com as artes, incentivando talentos e desenvolvendo carreiras."
+    },
+    {
+      "show_name": "Sou Carimbó",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sou-carimbo-s01e04-instrumentos-e-musicalidade_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - Instrumentos e Musicalidade",
+      "start_time": "11:15",
+      "end_time": "11:45",
+      "episode_description": "Uma das principais características do ritmo Carimbó é a riqueza de seus instrumentos. A sonoridade e origem deles ganham nos relatos de músicos uma musicalidade diferenciada e com ritmo."
+    },
+    {
+      "show_name": "Canal da História",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_canal-da-historia-s01e06-d-pedro-i_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 6 - D. Pedro I",
+      "start_time": "11:45",
+      "end_time": "12:00",
+      "episode_description": "Dom Pedro I, filho de Carlota Joaquina e Dom João VI, é o grande proclamador da nossa independência. Veja, no entanto, se a nossa independência foi tão grandiosa assim."
+    },
+    {
+      "show_name": "Alô, Comunidade!",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alo-comunidade_l_m.jpg",
+      "show_category": "Educational",
+      "start_time": "12:00",
+      "end_time": "12:30",
+      "episode_description": "Conheça melhor os projetos e ações de extensão das universidades públicas brasileiras."
+    },
+    {
+      "show_name": "Conexão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_conex-o_l_m.jpg",
+      "show_category": "Educational",
+      "start_time": "12:30",
+      "end_time": "13:00",
+      "episode_description": "Entrevistas, depoimentos e participações ao vivo trazem assuntos de grande importância para a construção da cidadania, por meio de uma linguagem simplificada."
+    },
+    {
+      "show_name": "Expresso Futuro",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_expresso-futuro-s09e03-presenca_l_m.jpg",
+      "show_category": "Temporada 9 Episódio 3 - Presença",
+      "start_time": "13:00",
+      "end_time": "13:30",
+      "episode_description": "Na Estônia, Ronaldo Lemos revela como um pequeno país tornou-se referência mundial em tecnologia, educação, cultura e equilíbrio com a natureza."
+    },
+    {
+      "show_name": "Desafio nas Escolas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_desafio-nas-escolas-s03e03-ce-professora-luiza-marinho_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 3 - CE Professora Luiza Marinho",
+      "start_time": "13:30",
+      "end_time": "13:45",
+      "episode_description": "Com a forte participação dos alunos nas atividades culturais e a proximidade com a Escola de Samba da Portela, os estudantes recebem o desafio de criarem uma marchinha de Carnaval para o colégio."
+    },
+    {
+      "show_name": "E Aí, Professor?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_e-ai-professor-s03e03-conex-o-entre-meio-ambiente-e-trabalho_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 3 - Conexão Entre Meio Ambiente e Trabalho",
+      "start_time": "13:45",
+      "end_time": "14:00",
+      "episode_description": "A conexão entre trabalho e meio ambiente na vida dos educandos da EJA. Abordamos as mudanças climáticas, o impacto social e a intencionalidade do ensino para a consciência ecológica."
+    },
+    {
+      "show_name": "Boas Práticas da Rede",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_boas-praticas-da-rede-s01e01-escola-municipal-isaias-alves_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - Escola Municipal Isaías Alves",
+      "start_time": "14:00",
+      "end_time": "14:15",
+      "episode_description": "Idealizada pela diretora Gisele Alves, pela professora Jaqueline Borges e pela coordenadora pedagógica Ivone Taranto, a revista digital \"Os Carioquinhas\" tem o objetivo de estimular a escrita espontânea e de ensinar sobre a comunicação midiática."
+    },
+    {
+      "show_name": "Digitalmente",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_digitalmente-s02e03-leituras-transmidias_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 3 - Leituras Transmídias",
+      "start_time": "14:15",
+      "end_time": "14:30",
+      "episode_description": "O episódio aborda linguagens utilizadas na convergência de conteúdo e narrativa do \"Brasiliana Steampunk\", projeto imersivo que conta a história do Brasil em uma aventura que mescla literatura, quadrinhos, games e audiovisual."
+    },
+    {
+      "show_name": "Assunto na Mesa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_assunto-na-mesa-s03e02-futuro-da-mobilidade-urbana_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 2 - Futuro da Mobilidade Urbana",
+      "start_time": "14:30",
+      "end_time": "15:00",
+      "episode_description": "Aplicativos inteligentes, transporte sustentável e novas soluções estão transformando a mobilidade, criando cidades mais conectadas, acessíveis e preparadas para os desafios do futuro."
+    },
+    {
+      "show_name": "Sementes da Educação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sementes-da-educac-o-s02e07-escola-municipal-anne-frank_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 7 - Escola Municipal Anne Frank",
+      "start_time": "15:00",
+      "end_time": "15:30",
+      "episode_description": "Conheça a escola que surgiu com o movimento social dos sem teto, em 1988, entre Belo Horizonte e Contagem. Situada no coração do bairro Confisco, é um lugar de respiro para os problemas enfrentados na comunidade."
+    },
+    {
       "show_name": "A(u)tores",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_a-u-tores-s04e05-literatura-indigena-por-zahy-tentehar_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-u-tores-s04e05-literatura-indigena-por-zahy-tentehar_l_m.jpg",
       "show_category": "Temporada 4 Episódio 5 - Literatura Indígena por Zahy Tentehar",
-      "start_time": "21:00",
-      "end_time": "21:30",
+      "start_time": "15:30",
+      "end_time": "16:00",
       "episode_description": "A atriz indígena Zahy Tentehar, que levou sua ancestralidade ao palco, destaca a importância de Ailton Krenak na Academia de Letras e sua conexão com as palavras."
     },
     {
-      "show_name": "Identidade Brasil",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_identidade-brasil_l_m.webp",
-      "show_category": "Educational",
-      "start_time": "21:30",
-      "end_time": "22:00",
-      "episode_description": "Reflexões contemporâneas sobre educação, cultura, ciência, tecnologia e inovação com base no conhecimento de especialistas."
+      "show_name": "Eco Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_eco-brasil-s01e01-meu-sonho-de-consumo_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - Meu Sonho de Consumo",
+      "start_time": "16:00",
+      "end_time": "16:25",
+      "episode_description": "Descubra como consumir, de comida à informação, sem destruir a natureza. Como saber o limite de compra, sem esquecer que todo mundo, dos bairros ricos aos mais simples, tem direito."
     },
     {
-      "show_name": "Cineclube Futura",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/futura/tomorrow/br_cineclube-futura-s04e08-linha-de-passe_l_m.webp",
-      "show_category": "Temporada 4 Episódio 8 - Linha de Passe",
+      "show_name": "Sou Palhaço",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sou-palhaco-s01e01-ser-palhaco_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - Ser Palhaço",
+      "start_time": "16:25",
+      "end_time": "16:55",
+      "episode_description": "Viaje pelo mágico universo dos palhaços de circo. Mostramos como as gerações se renovam e a paixão que estes artistas possuem pelo picadeiro."
+    },
+    {
+      "show_name": "Bicos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bicos-s01e12-glaucia-freitas_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 12 - Gláucia Freitas",
+      "start_time": "16:55",
+      "end_time": "17:05",
+      "episode_description": "Gláucia Freitas aproveita seu ambiente administrativo para vender doces e guloseimas."
+    },
+    {
+      "show_name": "Tocando a Real",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tocando-a-real-s03e05-radio_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 5 - Rádio",
+      "start_time": "17:05",
+      "end_time": "17:15",
+      "episode_description": "Raphael Uchôa fala sobre a história do rádio desde a sua invenção por um brasileiro em 1899."
+    },
+    {
+      "show_name": "Ciência para Todos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ciencia-para-todos-s03e02-a-ciencia-dos-raios_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 2 - A Ciência dos Raios",
+      "start_time": "17:15",
+      "end_time": "17:30",
+      "episode_description": "O Brasil é o país com maior incidência de raios do mundo. A academia brasileira conta com o apoio da FAPESP em pesquisas sobre o fenômeno para proteger a população das descargas."
+    },
+    {
+      "show_name": "Sabores da Floresta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabores-da-floresta-s01e07-ostra_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 7 - Ostra",
+      "start_time": "17:30",
+      "end_time": "18:00",
+      "episode_description": "No restaurante do chef Thiago Castanho não podem faltar as ostras de São de Caetano de Odivelas. Por isso, ele viaja até a comunidade Pereru de Fátima para saber mais sobre este saboroso produto e a ostreicultura."
+    },
+    {
+      "show_name": "Conversas que Inspiram",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_conversas-que-inspiram-s02e03-desconstruindo-preconceitos_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 3 - Desconstruindo Preconceitos",
+      "start_time": "18:00",
+      "end_time": "18:30",
+      "episode_description": "Thalita Gelenske aprofunda o debate sobre vieses inconscientes, mostrando como estereótipos afetam a representatividade LGBTQIA+ e reforçando que todos temos preconceitos a desconstruir."
+    },
+    {
+      "show_name": "Natureza Forte",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_natureza-forte-s02e07-ciclistas-sertanejas_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 7 - Ciclistas Sertanejas",
+      "start_time": "18:30",
+      "end_time": "19:00",
+      "episode_description": "Nas estradas da caatinga, um grupo de mulheres encontra mais que o prazer do ciclismo: elas criaram uma rede de apoio, preservação ambiental e valorização feminina. As Ciclistas Sertanejas pedalam por desafios e conquistas."
+    },
+    {
+      "show_name": "Tocando a Real",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tocando-a-real-s03e06-vulc-es_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 6 - Vulcões",
+      "start_time": "19:00",
+      "end_time": "19:10",
+      "episode_description": "O programa explica o que são, quais as características, como entram em erupção e quais os diferentes tipos de erupções e de vulcões."
+    },
+    {
+      "show_name": "Som e Prosa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_som-e-prosa_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "19:10",
+      "end_time": "19:30",
+      "episode_description": "A cada semana, artistas e compositores se apresentam e discutem seus repertórios, tradições e novidades do cenário da música."
+    },
+    {
+      "show_name": "Planeta Menos 1 Lixo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_planeta-menos-1-lixo-s01e04-bora-circular_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - Bora Circular!",
+      "start_time": "19:30",
+      "end_time": "19:45",
+      "episode_description": "Na natureza, nada se perde. A turma da Casa Cria Sustentável aplica essa lição ao mundo dos objetos, mergulhando no universo do lixo eletrônico e das práticas de compartilhamento."
+    },
+    {
+      "show_name": "Diz Aí - Juventudes",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_diz-ai-juventudes_l_m.jpg",
+      "show_category": "Public affairs",
+      "start_time": "19:45",
+      "end_time": "20:00",
+      "episode_description": "Serra Pelada, no Pará, foi o maior garimpo a céu aberto do mundo. Hoje, jovens desse território buscam ressignificar as narrativas conectando as vivências do presente com o passado e os sonhos de futuro."
+    },
+    {
+      "show_name": "Giro Universidades",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_giro-universidades_l_m.jpg",
+      "show_category": "Educational",
+      "start_time": "20:00",
+      "end_time": "20:15",
+      "episode_description": "O programa relata o Aldeias que Ensinam, da PUC Minas, que mistura ensino e vivência indígena. Também o Acolhitides, da ESPM-SP, que oferece curso de português para refugiados, e o Hospital Veterinário da Unisc, que promove o cuidado da saúde animal."
+    },
+    {
+      "show_name": "Caça Joia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_caca-joia-s03e07-karen-francis_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 7 - Karen Francis",
+      "start_time": "20:15",
+      "end_time": "20:30",
+      "episode_description": "Chinaina vai ao borboletário do parque ecológico Mangal das Garças para entrevistar Karen Francis."
+    },
+    {
+      "show_name": "Tem Clima pra Isso?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tem-clima-pra-isso_l_m.jpg",
+      "show_category": "Environment",
+      "start_time": "20:30",
+      "end_time": "21:00",
+      "episode_description": "O intelectual e filósofo Nego Bispo mostra vasto legado de como reinterpretar o meio ambiente."
+    },
+    {
+      "show_name": "Afroturismo - O Rio que Deságua na África",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_afroturismo-o-rio-que-desagua-na-africa-s01e09_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 9 - Mulheres no Compasso - Tia Ciata e Moça Prosa",
+      "start_time": "21:00",
+      "end_time": "21:30",
+      "episode_description": "A vida de Tia Ciata, uma figura fundamental na criação do samba carioca e na preservação da rica herança cultural afrodescendente."
+    },
+    {
+      "show_name": "Preto Tá na Moda",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_preto-ta-na-moda-s01e02-jal-vieira-moda-feita-de-gente_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Jal Vieira - Moda Feita de Gente",
+      "start_time": "21:30",
+      "end_time": "22:00",
+      "episode_description": "Jal Vieira é uma estilista inspirada pela própria mãe que migrou do nordeste para São Paulo. Já sentiu-se invisível na vida e hoje propõe colocar as pessoas em primeiro lugar e mudar o cenário na moda."
+    },
+    {
+      "show_name": "Passarinhas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_passarinhas-s01e02_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Marcinha",
       "start_time": "22:00",
+      "end_time": "22:15",
+      "episode_description": "Larissa encontra Marcinha em uma região rural isolada. A agricultora tem uma rotina intensa em seu quintal produtivo e coloca Larissa para trabalhar junto com ela."
+    },
+    {
+      "show_name": "Territórios",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_territorios-s01e02-carol-dall-farra_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Carol Dall Farra",
+      "start_time": "22:15",
+      "end_time": "22:30",
+      "episode_description": "Poeta, rapper, slammer e graduanda em Geografia. Após receber o prêmio de melhor atuação do Festival Mix Brasil, foi uma das poetas convidadas para realizar a primeira batalha de Slam no Rock in Rio."
+    },
+    {
+      "show_name": "Sou Quilombola",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sou-quilombola_l_m.jpg",
+      "show_category": "Community",
+      "start_time": "22:30",
+      "end_time": "23:00",
+      "episode_description": "Para eles, resistir não é só defender o passado, é recriar o futuro. Uma imersão na jornada de quem reconstrói sua cultura no território, mostrando que a união e a certeza na vitória são as armas para transformar a luta pela terra em um legado vivo."
+    },
+    {
+      "show_name": "Histórias de Vendimia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_historias-de-vendimia_l_m.jpg",
+      "show_category": "Miniseries",
+      "start_time": "23:00",
       "end_time": "",
-      "episode_description": "Marcelo Janot apresenta o filme \"Linha de Passe\", 2008, de Walter Salles e Daniela Thomas, e conversa com o ator Vinicius de Oliveira, que participa do elenco do filme."
+      "episode_description": "Veja seis histórias de luta e resiliência, com elementos icônicos do maior festival de Mendoza, na Argentina: o trabalho da terra, os imigrantes, o General San Martín, a Virgen de la Carrodilla, os povos originários e a água."
     }
   ]
 }

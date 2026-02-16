@@ -1,94 +1,86 @@
 {
   "channel": "TV Aratu",
-  "date": "15/02/2026",
+  "date": "16/02/2026",
   "schedule": [
     {
-      "show_name": "Operação Mesquita",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_operac-o-mesquita_l_m.webp",
-      "show_category": "Entertainment",
-      "start_time": "00:45",
-      "end_time": "01:15",
-      "episode_description": "Descubra o lado B dos famosos, que mostram o seu cotidiano de forma curiosa e divertida por meio de entrevistas. Acompanhe ainda pessoas comuns que estão prestes a protagonizar um grande momento que pode mudar para sempre as suas vidas."
-    },
-    {
-      "show_name": "SBT PodNight",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_sbt-podnight_l_m.webp",
-      "show_category": "Talk",
-      "start_time": "01:15",
-      "end_time": "02:00",
-      "episode_description": "Exibição de podcasts brasileiros líderes de audiência nas plataformas digitais, que abordam temas variados, de cultura e entretenimento a questões sociais."
+      "show_name": "SBT Folia 2026",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-folia-2026_l_m.jpg",
+      "show_category": "Parade",
+      "start_time": "00:00",
+      "end_time": "01:00",
+      "episode_description": "Leva o público para dentro dos acontecimentos da maior festa popular do país, conectando diferentes regiões do Brasil."
     },
     {
       "show_name": "SBT Notícias",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_sbt-noticias_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-noticias_l_m.jpg",
       "show_category": "News",
-      "start_time": "02:00",
-      "end_time": "06:00",
+      "start_time": "01:00",
+      "end_time": "05:00",
       "episode_description": "Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia."
     },
     {
-      "show_name": "Sábado Animado",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_sabado-animado-1_l_m.webp",
-      "show_category": "Children",
-      "start_time": "06:00",
-      "end_time": "11:00",
-      "episode_description": "O programa apresenta desenhos animados, atrações e jogos divertidos que contam com a participação do público de casa."
+      "show_name": "Igreja da Graça",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_igreja-da-graca_l_m.jpg",
+      "show_category": "Religious",
+      "start_time": "05:00",
+      "end_time": "06:00",
+      "episode_description": "Acompanhe a programação da Igreja Universal da Graça de Deus."
     },
     {
-      "show_name": "SBT Notícias - 1ª Edição",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_sbt-noticias-1-edic-o_l_m.webp",
+      "show_name": "SBT Manhã",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-manh_l_m.jpg",
+      "show_category": "News",
+      "start_time": "06:00",
+      "end_time": "08:30",
+      "episode_description": "O jornal traz os primeiros assuntos do dia e faz uma abordagem sobre os últimos acontecimentos."
+    },
+    {
+      "show_name": "Primeiro Impacto",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_primeiro-impacto-1997_l_m.jpg",
+      "show_category": "News",
+      "start_time": "08:30",
+      "end_time": "11:00",
+      "episode_description": "Acompanhe as reportagens que trazem informações do dia a dia. Saiba o que é relevante para o cenário cotidiano por meio de análises e opiniões de colunistas."
+    },
+    {
+      "show_name": "Alô Juca",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alo-juca_l_m.jpg",
       "show_category": "News",
       "start_time": "11:00",
-      "end_time": "12:00",
-      "episode_description": "Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia."
-    },
-    {
-      "show_name": "Universo",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_universo_l_m.webp",
-      "show_category": "Entertainment",
-      "start_time": "12:00",
       "end_time": "13:00",
-      "episode_description": "É nos bairros populares que o programa encontra as melhores figuras para dar visibilidade ao público, que quer se ver de alguma forma. Desse modo as gravações nos bairros proporciona liberdade aos seus participantes."
-    },
-    {
-      "show_name": "SBT Notícias - 1ª Edição",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_sbt-noticias-1-edic-o_l_m.webp",
-      "show_category": "News",
-      "start_time": "13:00",
-      "end_time": "15:00",
-      "episode_description": "Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia."
-    },
-    {
-      "show_name": "Eita Lucas!",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_eita-lucas_l_m.webp",
-      "show_category": "Travel",
-      "start_time": "15:00",
-      "end_time": "16:00",
-      "episode_description": "Lucas Guimarães viaja por todo o Brasil conhecendo pessoas e contando suas histórias de vida e distribuindo prêmios por onde passa. Ele também bate um papo com celebridades em uma grande e divertida mistura."
+      "episode_description": "Cobertura das principais notícias da Bahia, prestação de serviços, entrevistas exclusivas com especialistas e autoridades, além de reportagens especiais."
     },
     {
       "show_name": "Aratu Folia 2026",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_aratu-folia-2026_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aratu-folia-2026_l_m.jpg",
       "show_category": "Special",
-      "start_time": "16:00",
+      "start_time": "13:00",
       "end_time": "19:45",
       "episode_description": "Toda a programação e momentos da folia de Carnaval de Aratu."
     },
     {
       "show_name": "SBT Brasil",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_sbt-brasil_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-brasil_l_m.jpg",
       "show_category": "News",
       "start_time": "19:45",
-      "end_time": "20:45",
+      "end_time": "21:00",
       "episode_description": "As principais notícias do Brasil e do mundo com análise profunda dos fatos."
     },
     {
       "show_name": "Aratu Folia 2026",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-aratu/today/br_aratu-folia-2026_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aratu-folia-2026_l_m.jpg",
       "show_category": "Special",
-      "start_time": "20:45",
-      "end_time": "00:00",
+      "start_time": "21:00",
+      "end_time": "23:30",
       "episode_description": "Toda a programação e momentos da folia de Carnaval de Aratu."
+    },
+    {
+      "show_name": "SBT Folia 2026",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-folia-2026_l_m.jpg",
+      "show_category": "Parade",
+      "start_time": "23:30",
+      "end_time": "01:00",
+      "episode_description": "Leva o público para dentro dos acontecimentos da maior festa popular do país, conectando diferentes regiões do Brasil."
     }
   ]
 }
