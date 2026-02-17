@@ -1,102 +1,118 @@
 {
   "channel": "Telecine Action",
-  "date": "16/02/2026",
+  "date": "17/02/2026",
   "schedule": [
     {
-      "show_name": "Frankenstein - Entre Anjos e Demônios",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_frankenstein-entre-anjos-e-demonios-2014-1_l_m.jpg",
-      "show_category": "Fantasy / 2014",
+      "show_name": "Assassino a Preço Fixo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_assassino-a-preco-fixo-2011-1_l_m.jpg",
+      "show_category": "Action / 2011",
+      "start_time": "00:05",
+      "end_time": "01:45",
+      "episode_description": "Arthur Bishop, um talentoso assassino de elite, recebe a missão de matar seu melhor amigo, Harry McKenna. Após cumpri-la, Arthur reencontra Steve, o filho de Harry. Desejando vingança, Steve recebe a ajuda de Arthur para se tornar um assassino."
+    },
+    {
+      "show_name": "Fúria em Alto Mar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_furia-em-alto-mar-2018_l_m.jpg",
+      "show_category": "Action / 2018",
       "start_time": "01:45",
-      "end_time": "03:20",
-      "episode_description": "Após enterrar o Dr. Victor Frankenstein, o monstro criado por ele é atacado por demônios, que pretendem capturá-lo. Ele consegue se salvar e segue sua vida. Porém, 200 anos depois, ele agora com o nome de Adam, acaba se envolvendo em uma guerra entre dois clãs imortais na cidade ancestral de Darkhaven."
+      "end_time": "03:50",
+      "episode_description": "O capitão de um submarino norte-americano se une aos fuzileiros navais para resgatar o presidente russo, que foi sequestrado por um general desonesto."
     },
     {
-      "show_name": "O Silêncio da Chuva",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-silencio-da-chuva-2021_l_m.jpg",
-      "show_category": "Crime drama / 2021",
-      "start_time": "03:20",
-      "end_time": "05:05",
-      "episode_description": "O inspetor Espinosa e a policial Daia ficam encarregados de investigar o assassinato de um executivo que foi morto a tiros no banco de seu carro. Quando os envolvidos no caso desaparecem misteriosamente, a situação assume proporções inesperadas."
+      "show_name": "Famintos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_famintos-2017_l_m.jpg",
+      "show_category": "Horror / 2017",
+      "start_time": "03:50",
+      "end_time": "05:45",
+      "episode_description": "Uma pequena e remota vila no interior do Québec é aterrorizada por uma praga comedora de carne que destrói os corpos dos moradores e os transforma contra seus entes queridos, enquanto os sobreviventes fogem para a floresta."
     },
     {
-      "show_name": "Fogo Contra Fogo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_fogo-contra-fogo-1995_l_m.jpg",
-      "show_category": "Crime drama / 1995",
-      "start_time": "05:05",
-      "end_time": "05:05",
-      "episode_description": "Em Los Angeles, um detetive ilustre e um ladrão sofisticado se enfrentam e compreendem que precisam um do outro. A linha que separa criminosos e policiais nem sempre é bem definida."
+      "show_name": "Vem com o Papai",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vem-com-o-papai-2019_l_m.jpg",
+      "show_category": "Dark comedy / 2019",
+      "start_time": "05:45",
+      "end_time": "05:45",
+      "episode_description": "Um homem imaturo visita a casa isolada de seu pai, que ele não vê há 30 anos. Ele rapidamente descobre que não apenas seu pai é uma pessoa terrível, mas que ele também tem um passado sombrio."
     },
     {
-      "show_name": "Fogo Contra Fogo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_fogo-contra-fogo-1995_l_m.jpg",
-      "show_category": "Crime drama / 1995",
-      "start_time": "05:05",
-      "end_time": "08:05",
-      "episode_description": "Em Los Angeles, um detetive ilustre e um ladrão sofisticado se enfrentam e compreendem que precisam um do outro. A linha que separa criminosos e policiais nem sempre é bem definida."
+      "show_name": "Vem com o Papai",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vem-com-o-papai-2019_l_m.jpg",
+      "show_category": "Dark comedy / 2019",
+      "start_time": "05:45",
+      "end_time": "07:30",
+      "episode_description": "Um homem imaturo visita a casa isolada de seu pai, que ele não vê há 30 anos. Ele rapidamente descobre que não apenas seu pai é uma pessoa terrível, mas que ele também tem um passado sombrio."
     },
     {
-      "show_name": "Instinto Predador",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_instinto-predador-2019_l_m.jpg",
+      "show_name": "Estrada Perdida",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_estrada-perdida-1997_l_m.jpg",
+      "show_category": "Thriller / 1997",
+      "start_time": "07:30",
+      "end_time": "09:55",
+      "episode_description": "Um músico é acusado de assassinar sua esposa em casa. Ele sabe que não foi ele, mas ao ver as fitas da câmera de segurança, sua opinião muda, e não consegue entender o que aconteceu até descobrir a verdade."
+    },
+    {
+      "show_name": "Imortais",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_imortais-2011_l_m.jpg",
+      "show_category": "Adventure / 2011 /6.1",
+      "start_time": "09:55",
+      "end_time": "11:50",
+      "episode_description": "O impiedoso rei Hipérion busca o arco de Épiro para dominar o mundo e destruir os deuses. O único que pode detê-lo é Teseu, um corajoso jovem escolhido por Zeus. Com a ajuda da sacerdotisa Fedra, ele comandará essa batalha épica."
+    },
+    {
+      "show_name": "Quebrando Regras",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quebrando-regras-2008-1_l_m.jpg",
+      "show_category": "Action / 2008",
+      "start_time": "11:50",
+      "end_time": "13:50",
+      "episode_description": "Jake muda para Orlando com a família. Sentindo-se deslocado na escola e com problemas de temperamento, vai a uma festa onde é humilhado numa briga. Um colega o incentiva a procurar Jean Roqua, treinador de artes marciais e começar a treinar com ele."
+    },
+    {
+      "show_name": "Rogue - O Assassino",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rogue-o-assassino-2007_l_m.jpg",
+      "show_category": "Action / 2007",
+      "start_time": "13:50",
+      "end_time": "15:45",
+      "episode_description": "Jack Crawford é um agente do FBI que está obcecado em vingar o assassinato brutal de seu parceiro e família. O acusado do crime é o cruel assassino Rogue, que reapareceu recentemente para causar uma sangrenta guerra entre máfias orientais rivais."
+    },
+    {
+      "show_name": "Rampage - Destruição Total",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rampage-destruic-o-total-2018_l_m.jpg",
+      "show_category": "Action / 2018",
+      "start_time": "15:45",
+      "end_time": "17:45",
+      "episode_description": "Davis Okoye é um primatologista recluso que compartilha um vínculo inabalável com George, um gorila muito inteligente que está sob seus cuidados desde o nascimento. Quando um experimento genético desonesto é feito em um grupo de predadores que inclui o primata, os animais se transformam em monstros que destroem tudo em seu caminho. Agora, Okoye precisa conseguir um antídoto e impedir que seu amigo provoque uma catástrofe global."
+    },
+    {
+      "show_name": "Preview",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_preview_l_m.jpg",
+      "show_category": "Entertainment",
+      "start_time": "17:45",
+      "end_time": "17:50",
+      "episode_description": "Acompanhe matérias especiais sobre o mundo da sétima arte, o cinema."
+    },
+    {
+      "show_name": "Kong - A Ilha da Caveira",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_kong-a-ilha-da-caveira-2017_l_m.jpg",
+      "show_category": "Adventure / 2017",
+      "start_time": "17:50",
+      "end_time": "19:55",
+      "episode_description": "Um ex-militar viaja com um grupo de desbravadores até a mítica Ilha da Caveira, onde seu irmão desapareceu. A equipe de exploradores se aventura nas profundezas da ilha desconhecida, sem saber que está entrando nos domínios do mítico Kong."
+    },
+    {
+      "show_name": "Anna - O Perigo Tem Nome",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_anna-o-perigo-tem-nome-2019_l_m.jpg",
       "show_category": "Action / 2019",
-      "start_time": "08:05",
-      "end_time": "09:50",
-      "episode_description": "O caçador Frank Walsh trabalha para alguns zoológicos dos Estados Unidos e dedica sua vida para proteger animais que capturou na Floresta Amazônica. Ele embarca em um navio cargueiro sem saber que está ao lado de Richard Loffler, um assassino que está sendo extraditado para os EUA em segredo, e, com isso, sua viagem passa a ter problemas."
-    },
-    {
-      "show_name": "O Ilusionista",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-ilusionista-2006_l_m.jpg",
-      "show_category": "Mystery / 2006",
-      "start_time": "09:50",
-      "end_time": "11:45",
-      "episode_description": "O ilusionista Eisenheim compete pelo amor da jovem Sophie com o Príncipe Leopoldo, herdeiro do trono do Império Austro-Húngaro, sem saber que está entrando em um jogo perigoso."
-    },
-    {
-      "show_name": "Zodíaco",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_zodiaco-2007_l_m.jpg",
-      "show_category": "Crime drama / 2007 /7.7",
-      "start_time": "11:45",
-      "end_time": "14:35",
-      "episode_description": "Durante os anos 60 e 70, o medo aumenta em São Francisco com os ataques de um assassino maníaco chamado Zodíaco. Investigadores e jornalistas tentam descobrir a identidade do assassino e levá-lo à justiça. Enquanto isso, Zodiac provoca as autoridades com mensagens crípticas, cifras e telefonemas ameaçadores."
-    },
-    {
-      "show_name": "Matrix Revolutions",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_matrix-revolutions-2003_l_m.jpg",
-      "show_category": "Science fiction / 2003 /6.7",
-      "start_time": "14:35",
-      "end_time": "16:50",
-      "episode_description": "Após enfrentar os sentinelas no mundo real, Neo, a maior esperança da humanidade, está preso entre a Matriz e a realidade. A maioria da população do planeta permanece em um estado de suspensão da realidade virtual. Os poucos humanos que estão cientes das duras realidades tentam afastar desesperadamente as máquinas a tempo de Neo escapar e salvar o dia. Mas as coisas pioram quando o poderoso software, Agente Smith, aparece na forma humana."
-    },
-    {
-      "show_name": "Legado Explosivo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_legado-explosivo-2020_l_m.jpg",
-      "show_category": "Action / 2020",
-      "start_time": "16:50",
-      "end_time": "18:35",
-      "episode_description": "Tom Carter é um lendário ladrão de bancos. Mas sua vida muda quando ele se apaixona por Annie e decide deixar o crime para trás. Ele aceita se entregar para a justiça, mas não imaginava que seria enganado por policiais corruptos."
-    },
-    {
-      "show_name": "Anaconda 2 - A Caçada pela Orquídea Sangrenta",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_anaconda-2-a-cacada-pela-orquidea-sangrenta-2004-2_l_m.jpg",
-      "show_category": "Thriller / 2004",
-      "start_time": "18:35",
-      "end_time": "20:20",
-      "episode_description": "Enquanto exploram a selva de Borneo em busca da mítica orquídea negra, responsável por garantir vida eterna, um grupo de cientistas se depara com monstruosas cobras Anacondas, que vêm se alimentando das orquídeas há anos."
-    },
-    {
-      "show_name": "A Chamada",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-chamada-2023_l_m.jpg",
-      "show_category": "Action / 2023",
-      "start_time": "20:20",
+      "start_time": "19:55",
       "end_time": "22:00",
-      "episode_description": "Enquanto dirige com os filhos, um homem recebe um telefonema de um agressor desconhecido que alega haver uma bomba no carro. Incapaz de sair do veículo, ele precisa seguir uma série de instruções distorcidas, enquanto tenta descobrir como sobreviver."
+      "episode_description": "Anna Poliatova é aparentemente só uma modelo famosa e requisitada pelas marcas de luxo. No entanto, um segredo faz com que ela se torne uma das assassinas mais perigosas e bem treinadas do mundo."
     },
     {
-      "show_name": "Tropa de Elite 2 - O Inimigo Agora É Outro",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_tropa-de-elite-2-o-inimigo-agora-e-outro-2010-2_l_m.jpg",
-      "show_category": "Action / 2010",
+      "show_name": "Mad Max - Estrada da Fúria",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mad-max-estrada-da-furia-2015_l_m.jpg",
+      "show_category": "Action / 2015",
       "start_time": "22:00",
-      "end_time": "00:05",
-      "episode_description": "Depois de uma operação fracassada, Nascimento é afastado do Bope e agora trabalha como subsecretário de Inteligência na Secretaria de Segurança Pública do Rio de Janeiro. No novo cargo, o ex-capitão é arrastado para uma disputa política sangrenta que envolve funcionários do governo e grupos paramilitares."
+      "end_time": "00:10",
+      "episode_description": "Em um mundo pós-apocalíptico, Max Rockatansky acredita que a melhor forma de sobreviver é não depender de ninguém. Porém, após ser capturado pelo tirano Immortan Joe e seus rebeldes, Max se vê no meio de uma guerra mortal iniciada pela Imperatriz Furiosa, que tenta salvar um grupo de garotas. Também tentando fugir, Max aceita ajudá-la."
     }
   ]
 }

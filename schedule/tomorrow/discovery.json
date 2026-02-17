@@ -1,198 +1,246 @@
 {
   "channel": "Discovery",
-  "date": "17/02/2026",
+  "date": "18/02/2026",
   "schedule": [
     {
-      "show_name": "Monstros do Rio",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_monstros-do-rio_l_m.jpg",
+      "show_name": "Largados e Pelados",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_largados-e-pelados-1_l_m.jpg",
       "show_category": "Reality",
-      "start_time": "00:39",
-      "end_time": "01:29",
-      "episode_description": "O tubarão, com seu apetite voraz, sem dúvida é uma criatura amedrontadora. Contudo, o medo seria um pouco menor se os tubarões vivessem somente nos oceanos, mas eles também podem existir na água doce. Jeremy Wade investiga o tubarão cabeça-chata."
+      "start_time": "00:04",
+      "end_time": "00:54",
+      "episode_description": "No norte da Colômbia, dois desconhecidos terão que encarar as mais peçonhentas espécies animais do planeta, em condições meteorológicas desafiadoras."
     },
     {
-      "show_name": "No Olho da Tempestade",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_no-olho-da-tempestade-s02e06-tornados-gemeos_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 6 - Tornados Gêmeos",
-      "start_time": "01:29",
-      "end_time": "02:14",
-      "episode_description": "Em maio de 2024, dezenas de testemunhas registraram tornados gêmeos enquanto traçavam um caminho paralelo de destruição por Iowa. As \"irmãs tornado\" derrubaram fazendas, destruíram turbinas eólicas e devastaram a cidade de Greenfield."
+      "show_name": "Construções no Alasca",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_construc-es-no-alasca-s09e02-tudo-pode-dar-errado_l_m.jpg",
+      "show_category": "Temporada 9 Episódio 2 - Tudo Pode Dar Errado",
+      "start_time": "00:54",
+      "end_time": "01:39",
+      "episode_description": "Árvores que caem cedo demais, mau tempo, uma entrada intransitável e muito mais atormentam o pessoal em suas construções."
     },
     {
-      "show_name": "Curiosidade",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_curiosidade_l_m.jpg",
-      "show_category": "Documentary",
-      "start_time": "02:14",
-      "end_time": "03:02",
-      "episode_description": "Os cientistas sabem menos a respeito da formação do nosso continente do que sobre galáxias distantes. Mas um projeto ambicioso, chamado Earthscope, está mudando isso."
+      "show_name": "Construções no Alasca",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_construc-es-no-alasca-s09e03-o-plano-raio-x_l_m.jpg",
+      "show_category": "Temporada 9 Episódio 3 - O Plano Raio X",
+      "start_time": "01:39",
+      "end_time": "02:21",
+      "episode_description": "Um construtor fica sem madeira e os pedreiros que ele contratou não aparecem. Depois, medições e cortes errados ameaçam atrasar ainda mais o cronograma da obra."
     },
     {
-      "show_name": "Instintos da Vida Selvagem",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_instintos-da-vida-selvagem-s01e04-agua-doce_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 4 - Água Doce",
-      "start_time": "03:02",
-      "end_time": "03:50",
-      "episode_description": "A água é essencial para toda a vida na Terra, mas o excesso ou a falta dela podem ser desastrosos. Os pais precisam saber o momento certo para superar as constantes mudanças da água doce e criar a próxima geração com sucesso."
+      "show_name": "Construções no Alasca",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_construc-es-no-alasca-s09e04-sem-rede-de-protec-o_l_m.jpg",
+      "show_category": "Temporada 9 Episódio 4 - Sem Rede de Proteção",
+      "start_time": "02:21",
+      "end_time": "03:01",
+      "episode_description": "Entregas de vigas de telhado por helicóptero, problemas com empilhadeiras e escadas frágeis são apenas alguns dos desafios enfrentados pelas equipes de construção."
     },
     {
-      "show_name": "Planeta Azul II",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_planeta-azul-ii-s02e01-um-oceano_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 1 - Um Oceano",
-      "start_time": "03:50",
-      "end_time": "04:43",
-      "episode_description": "Toda a vida na Terra depende dos oceanos e de sua capacidade de gerar vida. Conheça comportamentos inusitados e o impacto da atividade humana sobre a sobrevivência das espécies marinhas."
+      "show_name": "Construções no Alasca",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_construc-es-no-alasca-s09e05-brincando-de-pega-pega_l_m.jpg",
+      "show_category": "Temporada 9 Episódio 5 - Brincando de Pega-Pega",
+      "start_time": "03:01",
+      "end_time": "03:41",
+      "episode_description": "As três obras estão com o cronograma atrasado e enfrentam grandes desafios para sua conclusão."
     },
     {
-      "show_name": "Predadores",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_predadores-s01e07-vivendo-com-predadores_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 7 - Vivendo com Predadores",
-      "start_time": "04:43",
-      "end_time": "05:36",
-      "episode_description": "Três quartos dos carnívoros estão em declínio. Acompanhe o trabalho dos cientistas que lutam para salvar os grandes predadores da Terra, como leões, tigres, ursos-polares e baleias."
+      "show_name": "Construções no Alasca",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_construc-es-no-alasca-s09e06-um-forte-no-bosque_l_m.jpg",
+      "show_category": "Temporada 9 Episódio 6 - Um Forte no Bosque",
+      "start_time": "03:41",
+      "end_time": "04:21",
+      "episode_description": "A obra de John e Heather é interrompida enquanto eles tentam descobrir como instalar o drywall sem cobrir a estrutura de madeira; Josh e sua equipe lidam com ferramentas quebradas e ursos que estão comendo seus suprimentos."
     },
     {
-      "show_name": "Encontro Selvagem com Coyote Peterson",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_encontro-selvagem-com-coyote-peterson-s01e15-aracnofobia_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 15 - Aracnofobia",
-      "start_time": "05:36",
+      "show_name": "Construções no Alasca",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_construc-es-no-alasca-s09e07-n-o-e-para-principiantes_l_m.jpg",
+      "show_category": "Temporada 9 Episódio 7 - Não É para Principiantes",
+      "start_time": "04:21",
+      "end_time": "05:01",
+      "episode_description": "O tempo está se esgotando para os construtores concluírem seus projetos. Chris consegue ajuda para instalar painéis solares e câmeras para monitorar os ursos. John e Heather precisam reconstruir uma estrada após uma enchente."
+    },
+    {
+      "show_name": "Construções no Alasca",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_construc-es-no-alasca-s09e08-olhe-o-que-fizeram_l_m.jpg",
+      "show_category": "Temporada 9 Episódio 8 - Olhe o que Fizeram",
+      "start_time": "05:01",
+      "end_time": "05:40",
+      "episode_description": "Os construtores empreendem um esforço final para terminar seus chalés antes da chegada do inverno. Josh luta contra a chuva e o vento para instalar o fogão a lenha e terminar o telhado. Chris instala os balcões da cozinha."
+    },
+    {
+      "show_name": "Construções no Alasca",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_construc-es-no-alasca-s01e01_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - Demolição ao Estilo Bob",
+      "start_time": "05:40",
       "end_time": "06:00",
-      "episode_description": "Coyote Peterson está determinado a capturar a aranha-teia-de-funil. Depois de ficar frente a frente com este agressivo aracnídeo, ele o entrega ao Australia Reptile Park para ser estudado."
+      "episode_description": "O guia de caça e pesca, Bob May, pretende construir uma nova cabana em uma ilha remota no sul do Alasca. Mas, antes de iniciar a obra, ele precisa demolir sua antiga cabana abandonada."
     },
     {
       "show_name": "Encontro Selvagem com Coyote Peterson",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_encontro-selvagem-com-coyote-peterson-s01e16-lagartos-monitores_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 16 - Lagartos Monitores",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_encontro-selvagem-com-coyote-peterson-s01e05-jantar-com-o-diabo_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 5 - Jantar com o Diabo",
       "start_time": "06:00",
       "end_time": "06:24",
-      "episode_description": "Coyote Peterson e sua equipe se aventuram pelo deserto australiano em busca de duas espécies de lagartos-monitores. Ele nada em um oásis para ficar frente a frente com o lagarto Varanus mertensi."
+      "episode_description": "Coyote Peterson visita a Devil Ark, na Austrália, uma ONG que se dedica à conservação do diabo-da-tasmânia. Exposto à sua rotina e habitat, ele descobre os esforços para preservar esta espécie ameaçada."
     },
     {
       "show_name": "Febre do Ouro - Freddy Dodge ao Resgate",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_febre-do-ouro-freddy-dodge-ao-resgate-s02e09-amor-por-pepitas_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 9 - Amor por Pepitas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_febre-do-ouro-freddy-dodge-ao-resgate-s02e10-a-lenda-de-freddy-e-juan_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 10 - A Lenda de Freddy e Juan",
       "start_time": "06:24",
       "end_time": "07:13",
-      "episode_description": "Freddy e Juan viajam para a Colúmbia Britânica para salvar um garimpeiro recluso, que vive de modo independente. Com a neve chegando, Freddy precisa convencê-lo a abandonar o sonho de pegar pepitas enormes."
+      "episode_description": "O guru da mineração Freddy e o mestre em fabricação, Juan, mudam o foco. Eles deixam de ajudar garimpeiros com problemas para melhorar suas próprias operações e revelam como entraram para o ramo e por que trabalham juntos."
     },
     {
       "show_name": "Largados e Pelados",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_largados-e-pelados-s12e09-quarteto_l_m.jpg",
-      "show_category": "Temporada 12 Episódio 9 - Quarteto",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_largados-e-pelados-s13e03-saliencia-da-morte_l_m.jpg",
+      "show_category": "Temporada 13 Episódio 3 - Saliência da Morte",
       "start_time": "07:13",
-      "end_time": "08:52",
-      "episode_description": "Quatro participantes, uma dupla na casa dos 50 anos e outra com 20 e poucos, são largados no deserto de Sonora. Diante de onças-pardas, monstros-de-gila e um calor implacável, a experiência e a juventude competem."
+      "end_time": "08:51",
+      "episode_description": "Três jovens especialistas em sobrevivência testam suas habilidades na floresta tropical costeira do Equador, onde arriscam suas vidas escalando um enorme penhasco em busca de alimento."
     },
     {
       "show_name": "Desafio em Dose Dupla",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_desafio-em-dose-dupla-s04e10-uma-unica-chance_l_m.jpg",
-      "show_category": "Temporada 4 Episódio 10 - Uma Única Chance",
-      "start_time": "08:52",
-      "end_time": "09:41",
-      "episode_description": "Nos belos fiordes da Nova Zelândia, Joe e Matt recriam a hipótese aparentemente comum de dois caçadores seguindo seu alvo até um território desconhecido, mas com apenas uma chance de sair vivo."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_desafio-em-dose-dupla-s05e01-aventura-nos-canions_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 1 - Aventura nos Cânions",
+      "start_time": "08:51",
+      "end_time": "09:40",
+      "episode_description": "Joe e Matt atravessam os cânions do sul de Utah. Sem facas ou equipamentos modernos, eles tentam sobreviver a esta região inóspita, mais favorável a cascavéis e onças-pardas."
     },
     {
       "show_name": "Desafio em Dose Dupla - Brasil",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_desafio-em-dose-dupla-brasil-s03e01-o-deserto-de-tatacoa_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 1 - O Deserto de Tatacoa",
-      "start_time": "09:41",
-      "end_time": "10:30",
-      "episode_description": "Tigre e Rene são colocados à prova no deserto de Tatacoa, um labirinto de formações rochosas, infestado de escorpiões perigosos e completa escassez de água."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_desafio-em-dose-dupla-brasil-s03e02-vetas_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 2 - Vetas",
+      "start_time": "09:40",
+      "end_time": "10:32",
+      "episode_description": "Tigre e Rene enfrentam os perigos extremos das montanhas de Vetas, uma região ao norte da Colômbia, onde o terreno íngreme e hostil."
     },
     {
       "show_name": "Ed Stafford, o Sobrevivente",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_ed-stafford-o-sobrevivente-s03e03-namibia_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 3 - Namíbia",
-      "start_time": "10:30",
-      "end_time": "11:19",
-      "episode_description": "Ed testa suas técnicas de sobrevivência nos desertos da Namíbia. É o fim de uma longa temporada de seca, e Ed precisa juntar forças no calor extremo para caçar o javali-africano."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ed-stafford-o-sobrevivente-s03e05-filipinas_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 5 - Filipinas",
+      "start_time": "10:32",
+      "end_time": "11:21",
+      "episode_description": "Ed tenta sobreviver em uma praia isolada e coberta de entulhos na ilha Coron, nas Filipinas. Depois de ficar doente, ele luta contra fantasmas do passado."
     },
     {
       "show_name": "Ed Stafford, o Sobrevivente",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_ed-stafford-o-sobrevivente-s03e04-patagonia_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 4 - Patagônia",
-      "start_time": "11:19",
-      "end_time": "12:08",
-      "episode_description": "No contraforte dos Andes, na Patagônia argentina, Ed fica extremamente exposto ao sol intenso e a temperaturas congelantes. Ele precisa comer girinos e ovos de formiga."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ed-stafford-o-sobrevivente-s03e06-noruega_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 6 - Noruega",
+      "start_time": "11:21",
+      "end_time": "12:10",
+      "episode_description": "Ed Stafford é deixado em uma montanha coberta de neve a oeste dos fiordes noruegueses. Sob o constante risco de hipotermia, ele enfrenta ameaças reais ao seu abrigo."
     },
     {
       "show_name": "Vida Remota",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_vida-remota-s09e08-dificuldades-vem-e-v-o_l_m.jpg",
-      "show_category": "Temporada 9 Episódio 8 - Dificuldades Vem e Vão",
-      "start_time": "12:08",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vida-remota_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "12:10",
       "end_time": "13:50",
-      "episode_description": "Os Raneys ajudam um pai solteiro que enfrenta ameaças de ursos e deslizamento de rochas em um desfiladeiro em Montana. Mas, com Matt no Alasca esperando o nascimento de sua filha, Marty e Misty encaram uma batalha difícil."
+      "episode_description": "No Alasca, os Raneys ajudam uma família com infraestrutura, mas sem habilidades, a se preparar para o rigoroso inverno."
     },
     {
       "show_name": "Largados e Pelados",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_largados-e-pelados-s12e09-quarteto_l_m.jpg",
-      "show_category": "Temporada 12 Episódio 9 - Quarteto",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_largados-e-pelados-s13e03-saliencia-da-morte_l_m.jpg",
+      "show_category": "Temporada 13 Episódio 3 - Saliência da Morte",
       "start_time": "13:50",
-      "end_time": "15:31",
-      "episode_description": "Quatro participantes, uma dupla na casa dos 50 anos e outra com 20 e poucos, são largados no deserto de Sonora. Diante de onças-pardas, monstros-de-gila e um calor implacável, a experiência e a juventude competem."
+      "end_time": "15:30",
+      "episode_description": "Três jovens especialistas em sobrevivência testam suas habilidades na floresta tropical costeira do Equador, onde arriscam suas vidas escalando um enorme penhasco em busca de alimento."
     },
     {
       "show_name": "Desafio em Dose Dupla",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_desafio-em-dose-dupla-s04e10-uma-unica-chance_l_m.jpg",
-      "show_category": "Temporada 4 Episódio 10 - Uma Única Chance",
-      "start_time": "15:31",
-      "end_time": "16:21",
-      "episode_description": "Nos belos fiordes da Nova Zelândia, Joe e Matt recriam a hipótese aparentemente comum de dois caçadores seguindo seu alvo até um território desconhecido, mas com apenas uma chance de sair vivo."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_desafio-em-dose-dupla-s05e01-aventura-nos-canions_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 1 - Aventura nos Cânions",
+      "start_time": "15:30",
+      "end_time": "16:20",
+      "episode_description": "Joe e Matt atravessam os cânions do sul de Utah. Sem facas ou equipamentos modernos, eles tentam sobreviver a esta região inóspita, mais favorável a cascavéis e onças-pardas."
     },
     {
       "show_name": "Desafio em Dose Dupla - Brasil",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_desafio-em-dose-dupla-brasil-s03e01-o-deserto-de-tatacoa_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 1 - O Deserto de Tatacoa",
-      "start_time": "16:21",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_desafio-em-dose-dupla-brasil-s03e02-vetas_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 2 - Vetas",
+      "start_time": "16:20",
       "end_time": "17:12",
-      "episode_description": "Tigre e Rene são colocados à prova no deserto de Tatacoa, um labirinto de formações rochosas, infestado de escorpiões perigosos e completa escassez de água."
+      "episode_description": "Tigre e Rene enfrentam os perigos extremos das montanhas de Vetas, uma região ao norte da Colômbia, onde o terreno íngreme e hostil."
     },
     {
       "show_name": "Ed Stafford, o Sobrevivente",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_ed-stafford-o-sobrevivente-s03e03-namibia_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 3 - Namíbia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ed-stafford-o-sobrevivente-s03e05-filipinas_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 5 - Filipinas",
       "start_time": "17:12",
-      "end_time": "18:02",
-      "episode_description": "Ed testa suas técnicas de sobrevivência nos desertos da Namíbia. É o fim de uma longa temporada de seca, e Ed precisa juntar forças no calor extremo para caçar o javali-africano."
+      "end_time": "18:01",
+      "episode_description": "Ed tenta sobreviver em uma praia isolada e coberta de entulhos na ilha Coron, nas Filipinas. Depois de ficar doente, ele luta contra fantasmas do passado."
     },
     {
       "show_name": "Ed Stafford, o Sobrevivente",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_ed-stafford-o-sobrevivente-s03e04-patagonia_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 4 - Patagônia",
-      "start_time": "18:02",
-      "end_time": "18:52",
-      "episode_description": "No contraforte dos Andes, na Patagônia argentina, Ed fica extremamente exposto ao sol intenso e a temperaturas congelantes. Ele precisa comer girinos e ovos de formiga."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ed-stafford-o-sobrevivente-s03e06-noruega_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 6 - Noruega",
+      "start_time": "18:01",
+      "end_time": "18:50",
+      "episode_description": "Ed Stafford é deixado em uma montanha coberta de neve a oeste dos fiordes noruegueses. Sob o constante risco de hipotermia, ele enfrenta ameaças reais ao seu abrigo."
     },
     {
       "show_name": "Largados e Pelados",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_largados-e-pelados-s17e09-ameaca-tripla_l_m.jpg",
-      "show_category": "Temporada 17 Episódio 9 - Ameaça Tripla",
-      "start_time": "18:52",
-      "end_time": "20:32",
-      "episode_description": "Três sobreviventes do desafio de fãs de 14 dias retornam para conquistar 21 dias na densa selva sul-americana. Mas quando são atingidos por chuvas torrenciais, devem evacuar devido a inundações repentinas que ameaçam a vida."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_largados-e-pelados-s17e05-noiva-em-fuga_l_m.jpg",
+      "show_category": "Temporada 17 Episódio 5 - Noiva em Fuga",
+      "start_time": "18:50",
+      "end_time": "20:30",
+      "episode_description": "Uma sobrevivente adia seu casamento para tentar durar 21 dias com um comando britânico nos trópicos colombianos infestados de mosquitos."
     },
     {
-      "show_name": "Sobrevivendo às Tentações",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sobrevivendo-as-tentac-es-s02e06_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 6",
-      "start_time": "20:32",
-      "end_time": "21:23",
-      "episode_description": "Os aventureiros enfrentam uma grande tentação: um caixa eletrônico onde podem sacar secretamente até quatro mil libras."
+      "show_name": "Operação Fronteira - Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_operac-o-fronteira-brasil-s05e09-onibus-com-segredo_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 9 - Ônibus com Segredo",
+      "start_time": "20:30",
+      "end_time": "20:57",
+      "episode_description": "Polícia Rodoviária Federal acha surpresa em ônibus em Passo Fundo; caminhão-tanque em Ponta Porã leva líquido suspeito; em Jataí, motorista é preso."
     },
     {
-      "show_name": "Largados e Pelados - A Tribo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_largados-e-pelados-a-tribo-1_l_m.jpg",
-      "show_category": "Outdoors",
-      "start_time": "21:23",
-      "end_time": "22:24",
-      "episode_description": "Uma aliança improvável garante o primeiro grande abate da competição; Suzänne decide sair de Seth e se arriscar sozinha; Bulent afugenta hienas e babuínos; em uma caçada de dois dias, Ryan é cercado por predadores mortais."
+      "show_name": "Operação Fronteira - Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_operac-o-fronteira-brasil-s05e13-transporte-e-maus-tratos_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 13 - Transporte e Maus-Tratos",
+      "start_time": "20:57",
+      "end_time": "21:24",
+      "episode_description": "No MT, PRF encontra carga suspeita escondida. Em operação no Sul, PRF flagra transporte ilegal de animais. Já no MS, carga curiosa foi apreendida em ônibus."
     },
     {
-      "show_name": "Largados e Pelados - Apocalipse",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_largados-e-pelados-apocalipse-s01e06-inferno-sob-controle_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 6 - Inferno sob Controle",
-      "start_time": "22:24",
-      "end_time": "00:04",
-      "episode_description": "Uma onda de calor deixa Frank e Joe à beira da morte; os médicos avaliam se eles podem continuar."
+      "show_name": "Operação Fronteira - Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_operac-o-fronteira-brasil-s05e06-investigac-o-online_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 6 - Investigação Online",
+      "start_time": "21:24",
+      "end_time": "21:51",
+      "episode_description": "No Mato Grosso, oficiais da Polícia Rodoviária Federal usam redes sociais para apontar o criminoso; no Mato Grosso do Sul, comboio de muamba é abordado; em São Paulo, mulheres têm mercadorias apreendidas."
+    },
+    {
+      "show_name": "Operação Fronteira - Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_operac-o-fronteira-brasil-s05e01-tanque-cheio_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 1 - Tanque Cheio",
+      "start_time": "21:51",
+      "end_time": "22:18",
+      "episode_description": "Na BR-163, a Polícia Rodoviária Federal aborda uma carreta adulterada; no Rio de Janeiro, mulher é flagrada com carro clonado; no sul do país, motorista é pego com carga acima da cota."
+    },
+    {
+      "show_name": "As Piores Prisões do Mundo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_as-piores-pris-es-do-mundo-s05e06-filipinas-centro-de-detenc-o-e-reabilitac-o-de-cebu_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 6 - Filipinas - Centro de Detenção e Reabilitação de Cebu",
+      "start_time": "22:18",
+      "end_time": "23:08",
+      "episode_description": "Em Cebu, nas Filipinas, jovens entram cedo em contato com gangues, drogas e violência. Alguns acabam no Centro de Detenção e Reabilitação de Cebu."
+    },
+    {
+      "show_name": "Aeroporto - Área Restrita: Estados Unidos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aeroporto-area-restrita-estados-unidos-s01e10-o-chamado-dos-deveres_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 10 - O Chamado dos Deveres",
+      "start_time": "23:08",
+      "end_time": "23:56",
+      "episode_description": "Policiais encontram tabuleiros de xadrez carregados com mais de 32 peças; um casal que faz compras internacionais está sujeito às multas e confisco."
+    },
+    {
+      "show_name": "Fúria no Trânsito",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_furia-no-transito-s03e05-acidentes-em-serie_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 5 - Acidentes em Série",
+      "start_time": "23:56",
+      "end_time": "",
+      "episode_description": "Motoristas presenciam acidentes graves provocados por acessos de raiva no trânsito. Um motorista agressivo enfrenta um grande problema. Um motorista desvia de uma bala. Um motorista irritado segue uma mulher até a casa dela."
     }
   ]
 }

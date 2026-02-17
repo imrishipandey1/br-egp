@@ -1,118 +1,94 @@
 {
   "channel": "HBO Mundi",
-  "date": "16/02/2026",
+  "date": "17/02/2026",
   "schedule": [
     {
-      "show_name": "A Sombra do Comandante",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-sombra-do-comandante-2024_l_m.jpg",
-      "show_category": "Documentary / 2024",
-      "start_time": "00:50",
-      "end_time": "02:39",
-      "episode_description": "Hans Jurgen Höss, filho de Rudolf Höss, de 87 anos, enfrenta o terrível legado de seu pai ao conhecer a sobrevivente de Auschwitz, Anita Lasker-Wallfisch. Hans teve uma infância feliz enquanto Anita tentava sobreviver no campo de concentração."
+      "show_name": "A Cor Púrpura",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-cor-purpura-2023_l_m.jpg",
+      "show_category": "Musical / 2023",
+      "start_time": "01:12",
+      "end_time": "03:33",
+      "episode_description": "Separada da irmã e filhos, Celie enfrenta muitas dificuldades na vida, incluindo um marido abusivo. Com o apoio da cantora Shug Avery e sua enteada, encontra uma força extraordinária nos laços inquebráveis de um novo tipo de sororidade."
     },
     {
-      "show_name": "Os Colonos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-colonos-2023_l_m.jpg",
-      "show_category": "Crime drama / 2023",
-      "start_time": "02:39",
-      "end_time": "04:20",
-      "episode_description": "Chileno cavalga para o sul em uma expedição liderada por MacLenan, um ex-capitão inglês, e Bill, um mercenário estadunidense, para cercar as terras concedidas ao proprietário espanhol José Menéndez."
-    },
-    {
-      "show_name": "Crescendo Juntos - A História de Erik e Malik",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_crescendo-juntos-a-historia-de-erik-e-malik-2023_l_m.jpg",
-      "show_category": "Drama / 2023",
-      "start_time": "04:20",
+      "show_name": "King Richard - Criando Campeãs",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_king-richard-criando-campe-s-2021_l_m.jpg",
+      "show_category": "Biography / 2021",
+      "start_time": "03:33",
       "end_time": "06:00",
-      "episode_description": "Os melhores amigos Malik e Eric enfrentam as alegrias e dificuldades de crescer no imenso conjunto habitacional Cabrini-Green, prestes a ser demolido."
+      "episode_description": "Richard Williams é um pai dedicado e determinado a tornar suas filhas, Venus e Serena, em lendas do esporte. Com métodos pouco tradicionais, ele cria duas das maiores atletas de todos os tempos."
     },
     {
-      "show_name": "Sniper Americano",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sniper-americano-2014_l_m.jpg",
-      "show_category": "War / 2014",
+      "show_name": "Jerry Maguire - A Grande Virada",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jerry-maguire-a-grande-virada-1996-1_l_m.jpg",
+      "show_category": "Romantic comedy / 1996",
       "start_time": "06:00",
       "end_time": "08:20",
-      "episode_description": "Chris Kyle é um atirador de elite das forças especiais da marinha dos Estados Unidos. Durante a Guerra do Iraque, sua missão é proteger seus companheiros e seu dever faz dele um dos maiores atiradores da história norte-americana. Sua precisão salva inúmeras vidas, mas também o torna um alvo preferencial. Quando Kyle finalmente volta para casa, ele descobre que não tem como deixar a guerra para trás."
+      "episode_description": "Um empresário de atletas que comete o erro de dizer o que pensa se vê abandonado por todos os seus clientes, exceto o jogador de futebol americano Rod Tidwell. A vida pessoal de Maguire também começa a se desintegrar quando ele fica dividido entre amor e dinheiro nesta metáfora sobre a necessidade de dinheiro e poder dos americanos."
     },
     {
-      "show_name": "Fugitivo por Acidente",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_fugitivo-por-acidente-2023_l_m.jpg",
-      "show_category": "Drama / 2023",
+      "show_name": "Spencer",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_spencer-2021_l_m.jpg",
+      "show_category": "Biography / 2021 /6.6",
       "start_time": "08:20",
-      "end_time": "10:10",
-      "episode_description": "Em uma abordagem de rotina, um taxista vietnamita idoso é feito de refém sob a mira de uma arma por três condenados recém-fugitivos do Condado de Orange."
+      "end_time": "10:19",
+      "episode_description": "O casamento de Lady Di e o príncipe Charles esfriou há muito tempo. Embora os rumores de casos e divórcio sejam abundantes, a paz reina nas festividades de Natal na propriedade de Sandringham. Há comida, bebida, tiro e caça. Diana conhece o jogo, mas este ano as coisas serão muito diferentes. Spencer conta a história do que aconteceu durante aqueles dias decisivos."
     },
     {
-      "show_name": "O Podcast",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-podcast-2022_l_m.jpg",
-      "show_category": "Science fiction / 2022",
-      "start_time": "10:10",
-      "end_time": "11:50",
-      "episode_description": "Uma jornalista em desgraça decide reviver sua carreira com um podcast. Mas sua pressa em ganhar as manchetes a leva a investigar uma bizarra teoria de conspiração alienígena que se aproxima desconfortavelmente de sua própria história."
+      "show_name": "Joika - Uma Americana no Bolshoi",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_joika-uma-americana-no-bolshoi-2023_l_m.jpg",
+      "show_category": "Drama / 2023",
+      "start_time": "10:19",
+      "end_time": "12:14",
+      "episode_description": "A história de dedicação e superação de uma das poucas norte-americanas a ser aceita e se formar no prestigioso Ballet Bolshoi, na Rússia."
     },
     {
-      "show_name": "A Hora do Pesadelo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-hora-do-pesadelo-1984-1_l_m.jpg",
-      "show_category": "Horror / 1984",
-      "start_time": "11:50",
-      "end_time": "13:29",
-      "episode_description": "Um grupo de adolescentes tem pesadelos horríveis, em que são atacados por um homem deformado com garras de aço. Ele apenas aparece durante o sono e, para escapar, é preciso acordar. Os crimes vão ocorrendo seguidamente, até que se descobre que o ser misterioso é, na verdade, Freddy Krueger, um homem que molestou crianças na rua Elm e foi queimado vivo pela vizinhança. Agora, Krueger pode ter retornado para se vingar daqueles que o mataram, através do sono."
+      "show_name": "A Vida Invisível",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-vida-invisivel-2019_l_m.jpg",
+      "show_category": "Drama / 2019",
+      "start_time": "12:14",
+      "end_time": "14:40",
+      "episode_description": "Antigas cartas de sua irmã Guida, há muito desaparecida, surpreendem Eurídice, uma senhora de 80 anos. No Rio de Janeiro dos anos 1950, Guida e Eurídice são cruelmente separadas, impedidas de viver os sonhos que alimentaram juntas ainda adolescentes. Invisíveis em uma sociedade paternalista e conservadora, elas se desdobram para seguir em frente."
     },
     {
-      "show_name": "Sexta-Feira 13",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sexta-feira-13-1980-1_l_m.jpg",
-      "show_category": "Horror / 1980",
-      "start_time": "13:29",
-      "end_time": "15:10",
-      "episode_description": "A história de um antigo homicídio em Crystal Lake não impede que alguns jovens montem um acampamento de verão no bosque. Moradores supersticiosos advertem sobre o ocorrido, mas os instrutores Jack, Alice, Bill, Marcie e Ned prestam pouca atenção aos mais velhos e acabam sendo perseguidos por um assassino brutal."
+      "show_name": "Uma Vida - A História de Nicholas Winton",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_uma-vida-a-historia-de-nicholas-winton-2023_l_m.jpg",
+      "show_category": "Historical drama / 2023",
+      "start_time": "14:40",
+      "end_time": "16:35",
+      "episode_description": "O corretor da bolsa de valores londrino Nicky Winton ajuda a resgatar centenas de crianças, a maioria judias, das garras do nazismo na Tchecoslováquia. A missão se transforma em uma corrida contra o tempo, com os alemães fechando as fronteiras."
     },
     {
-      "show_name": "A Substância",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-substancia-2024_l_m.jpg",
-      "show_category": "Horror / 2024",
-      "start_time": "15:10",
-      "end_time": "17:35",
-      "episode_description": "Elisabeth Sparkle, renomada por um programa de aeróbica, enfrenta um golpe devastador quando seu chefe a demite. Em meio ao seu desespero, um laboratório lhe oferece uma substância que promete transformá-la em uma versão aprimorada."
-    },
-    {
-      "show_name": "1978",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_1978-2024_l_m.jpg",
-      "show_category": "Thriller / 2024 /6.2",
-      "start_time": "17:35",
-      "end_time": "18:59",
-      "episode_description": "Torturadores da ditadura interrogam prisioneiros durante a final da Copa do Mundo de 1978, mas descobrem que suas vítimas são membros de um culto. O centro de tortura rapidamente se transforma em palco para horrores sobrenaturais incontroláveis."
+      "show_name": "A Cozinha",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-cozinha-2024_l_m.jpg",
+      "show_category": "Drama / 2024",
+      "start_time": "16:35",
+      "end_time": "19:00",
+      "episode_description": "A vida em uma cozinha de restaurante de Nova York durante o horário de pico do almoço mostra uma mistura de culturas de todo o mundo."
     },
     {
       "show_name": "30 Segundos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_30-segundos-s01e01_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 1",
-      "start_time": "18:59",
-      "end_time": "19:54",
-      "episode_description": "Veja como as transformações políticas, sociais e econômicas do Brasil do final dos anos 1950 ao final da década de 1970 foram captadas pela nascente indústria de propaganda do país."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_30-segundos-s01e02_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2",
+      "start_time": "19:00",
+      "end_time": "19:55",
+      "episode_description": "Vinte anos depois do golpe militar, o país tem novamente um presidente civil. As propagandas mostram um Brasil jovem e alegre, em uma década inesquecível para a sociedade e para a indústria da publicidade no País."
     },
     {
-      "show_name": "O Exorcismo de Emily Rose",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-exorcismo-de-emily-rose-2005-1_l_m.jpg",
-      "show_category": "Horror / 2005",
-      "start_time": "19:54",
+      "show_name": "Madame Durocher",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_madame-durocher-2024_l_m.jpg",
+      "show_category": "Historical drama / 2024",
+      "start_time": "19:55",
       "end_time": "21:59",
-      "episode_description": "A jovem estudante Emily Rose começa a alucinar e ter surtos cada vez mais frequentes, que causam perda de memória. Católica praticante, ela aceita ser submetida a uma sessão de exorcismo. Quem a realiza é o sacerdote de sua paróquia, o padre Richard Moore. Porém, Emily morre durante o exorcismo, o que faz com que o padre seja acusado de assassinato. A advogada Erin Bruner aceita pegar a defesa do padre e argumenta que a condição de Emily não pode ser explicada somente pela ciência."
+      "episode_description": "No século XIX, Marie Durocher entra no curso de medicina no Rio de Janeiro, desafiando as normas sociais da época. Apesar do preconceito e das adversidades, torna-se a primeira mulher a receber o título de parteira no Brasil."
     },
     {
-      "show_name": "Os Malditos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-malditos-2024_l_m.jpg",
-      "show_category": "Horror / 2024",
+      "show_name": "A Vida Invisível",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-vida-invisivel-2019_l_m.jpg",
+      "show_category": "Drama / 2019",
       "start_time": "21:59",
-      "end_time": "23:32",
-      "episode_description": "Eva e sua equipe encontram um navio naufragado e enfrentam o dilema moral de ajudarem ou priorizarem suas próprias sobrevivências."
-    },
-    {
-      "show_name": "Xamã - O Exorcista Pagão",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_xam-o-exorcista-pag-o-2025_l_m.jpg",
-      "show_category": "Drama / 2025",
-      "start_time": "23:32",
-      "end_time": "01:12",
-      "episode_description": "A fé de uma pregadora é posta à prova quando seu filho é possuído por um ente demoníaco durante uma missão em uma área rural do Equador. Nesta luta para salvar o filho, ela enfrenta um espírito mais antigo que sua própria religião."
+      "end_time": "00:25",
+      "episode_description": "Antigas cartas de sua irmã Guida, há muito desaparecida, surpreendem Eurídice, uma senhora de 80 anos. No Rio de Janeiro dos anos 1950, Guida e Eurídice são cruelmente separadas, impedidas de viver os sonhos que alimentaram juntas ainda adolescentes. Invisíveis em uma sociedade paternalista e conservadora, elas se desdobram para seguir em frente."
     }
   ]
 }

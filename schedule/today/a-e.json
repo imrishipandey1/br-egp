@@ -1,358 +1,286 @@
 {
   "channel": "A&E",
-  "date": "16/02/2026",
+  "date": "17/02/2026",
   "schedule": [
-    {
-      "show_name": "Acusado - Fui Eu que Fiz Isso?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_acusado-fui-eu-que-fiz-isso-s01e04-homem-da-faca-assassino-ou-defensor-inocente_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 4 - Homem da Faca - Assassino ou Defensor Inocente?",
-      "start_time": "00:22",
-      "end_time": "01:12",
-      "episode_description": "Um executivo da área médica enfrenta 95 anos de prisão por assassinar o marido de uma médica. Ele alega que foi legítima defesa logo após ter sofrido uma emboscada. No entanto, a acusação apresenta imagens que o apontam como o possível agressor."
-    },
-    {
-      "show_name": "Acusado - Fui Eu que Fiz Isso?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_acusado-fui-eu-que-fiz-isso-s01e08-policial-assassino-ou-homem-armado-inocente_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 8 - Policial Assassino ou Homem Armado Inocente?",
-      "start_time": "01:12",
-      "end_time": "02:02",
-      "episode_description": "Durante sua folga, um policial atira em um homem em uma festa. Ele alega legítima defesa após acontecer uma discussão acalorada. No entanto, uma testemunha muda sua versão e ele é acusado de homicídio."
-    },
-    {
-      "show_name": "Casos Arquivados - Mortes no Velho Oeste",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_casos-arquivados-mortes-no-velho-oeste-s01e02-n-o-mataras-um-pecado-no-oeste_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 2 - Não Matarás - Um Pecado no Oeste",
-      "start_time": "02:02",
-      "end_time": "02:52",
-      "episode_description": "Um fazendeiro cristão é baleado e assassinado em sua varanda em Montana, em 2002, e os policiais se deparam com uma longa lista de suspeitos. Eles finalmente conseguiram descobrir quem foi o verdadeiro assassino."
-    },
-    {
-      "show_name": "Casos Arquivados - Mortes no Velho Oeste",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_casos-arquivados-mortes-no-velho-oeste-s01e04-assassinato-em-salt-lake-city_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 4 - Assassinato em Salt Lake City",
-      "start_time": "02:52",
-      "end_time": "03:42",
-      "episode_description": "Uma mulher de 64 anos muito querida é assassinada em sua livraria de livros raros em Salt Lake City. Os investigadores suspeitam que o motivo tenha sido um roubo. O caso esfria, mas sua filha consegue levar o assassino até a justiça."
-    },
-    {
-      "show_name": "Assassinatos do Século 21",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_assassinatos-do-seculo-21-s01e06-a-vista_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 6 - À Vista",
-      "start_time": "03:42",
-      "end_time": "04:31",
-      "episode_description": "Um homicídio quádruplo acontece e permanece sem solução por mais de uma década. À medida que a investigação esfria, a procura por um casal recentemente desaparecido revela dados fundamentais para desvendar os segredos de um tenebroso serial killer."
-    },
-    {
-      "show_name": "Intervenção",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_intervenc-o-s25e10-canada-josh_l_m.jpg",
-      "show_category": "Temporada 25 Episódio 10 - Canadá - Josh",
-      "start_time": "04:31",
-      "end_time": "05:16",
-      "episode_description": "A luta de Josh contra o vício ameaça destruí-lo. Separado do pai e intimidado por anos, ele se perdeu, deixando a família para lutar por sua sobrevivência em meio ao caos e à violência alimentados pelo crack."
-    },
-    {
-      "show_name": "Intervenção",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_intervenc-o-s25e04_l_m.jpg",
-      "show_category": "Temporada 25 Episódio 4 - Melissa",
-      "start_time": "05:16",
-      "end_time": "06:00",
-      "episode_description": "Após ataque sexual e capturada pelo tráfico de pessoas, Melissa vicia-se em cocaína e vodca."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s14e11-aparelho-dos-sonhos_l_m.jpg",
-      "show_category": "Temporada 14 Episódio 11 - Aparelho dos Sonhos",
-      "start_time": "06:00",
-      "end_time": "06:23",
-      "episode_description": "Em Lancaster, Ivy segue tentando intimidar seus concorrentes; Brandi relutantemente deixa Bozek escolher um armário que eles querem comprar; Dusty confronta o Rei para comprovar que a maldade não compensa; Kenny sente medo do exército de Ivy."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s14e12-gravatas-que-d-o-lucro_l_m.jpg",
-      "show_category": "Temporada 14 Episódio 12 - Gravatas que Dão Lucro",
-      "start_time": "06:23",
-      "end_time": "06:45",
-      "episode_description": "Barry testa uma tática pouco conhecida para ganhar um depósito; Brandi dá um show enquanto faz compras no porão de pechinchas; Ivy consegue ficar com um enorme contêiner onde as ferramentas são empilhadas."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s14e13-dois-pelo-preco-de-um_l_m.jpg",
-      "show_category": "Temporada 14 Episódio 13 - Dois pelo Preço de um",
-      "start_time": "06:45",
-      "end_time": "07:08",
-      "episode_description": "Em Riverside, os apostadores colocam tudo sobre a mesa. René, no entanto, prefere não arriscar; Darrell tenta a sorte com um depósito menor e consegue ter um lucro considerável; Dusty descobre que uma vez que se começa a apostar é difícil parar."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s14e14-um-bom-dia-para-estar-seguro_l_m.jpg",
-      "show_category": "Temporada 14 Episódio 14 - Um Bom Dia para Estar Seguro",
-      "start_time": "07:08",
-      "end_time": "07:31",
-      "episode_description": "Lisa desfruta de um dia na praia; Darrell passa um tempo revirando um depósito e Kenny aproveita uma recente maré de sorte em sua unidade; René decide colocar todos os seus ovos em uma cesta cheia de cofres."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s14e05-rene-o-rei-de-orange_l_m.jpg",
-      "show_category": "Temporada 14 Episódio 5 - Rene, o Rei de Orange",
-      "start_time": "07:31",
-      "end_time": "07:54",
-      "episode_description": "Rene aparece repentinamente no leilão de Orange e se autoproclama \"o Rei\", mas Dusty discorda totalmente do título; Kenny acidentalmente \"reinventa a roda\"; Lisa vê as coisas de uma perspectiva um pouco diferente e não aguenta ficar calada."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s09e04-depositos-no-centro-de-l-a_l_m.jpg",
-      "show_category": "Temporada 9 Episódio 4 - Depósitos no Centro de L.A.",
-      "start_time": "07:54",
-      "end_time": "08:16",
-      "episode_description": "Durante um leilão, os compradores são desafiados a encontrar tesouros em uma torre de depósitos no centro de Los Angeles; Darrell e Brandon trabalham obstinadamente para conseguir mais mercadorias para sua loja."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s08e09-a-escola-da-vida_l_m.jpg",
-      "show_category": "Temporada 8 Episódio 9 - A Escola da Vida",
-      "start_time": "08:16",
-      "end_time": "08:38",
-      "episode_description": "Darrell e Brandon invadem a comunidade de Rancho Dominguez; Jarrod e Brandi expandem a equipe ao incluir um novo integrante."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s09e02-uma-poeira-do-inferno_l_m.jpg",
-      "show_category": "Temporada 9 Episódio 2 - Uma Poeira do Inferno",
-      "start_time": "08:38",
-      "end_time": "09:01",
-      "episode_description": "Em um leilão rústico na área do deserto de Mojave, os compradores têm de escavar fundo para encontrar um tesouro. Apesar de não gostar da região, Dave decide dar tudo de si. Enquanto isso, Mary luta por um depósito e se mantém esperançosa."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s09e01-grande-compra-mexicana_l_m.jpg",
-      "show_category": "Temporada 9 Episódio 1 - Grande Compra Mexicana",
-      "start_time": "09:01",
-      "end_time": "09:24",
-      "episode_description": "Os compradores vão a San Diego em busca de tesouros do sul da fronteira; Rene e Casey se esforçam para defender seu território contra Darrell e Brandon; Mary espera um bom lucro com um depósito de alta qualidade."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s09e03-tartaruga-ninjga-na-meia-idade_l_m.jpg",
-      "show_category": "Temporada 9 Episódio 3 - Tartaruga Ninja na Meia-Idade",
-      "start_time": "09:24",
-      "end_time": "09:47",
-      "episode_description": "Jarrod e Brandi querem lucro fácil e rápido, mas os preços altos fazem com que assumam riscos nada fáceis; Ivy entra em uma farra de compras; Rene fica empolgadíssimo com o depósito de um colecionador."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s09e05-sonhando-com-leite-e-biscoitos_l_m.jpg",
-      "show_category": "Temporada 9 Episódio 5 - Sonhando com Leite e Biscoitos",
-      "start_time": "09:47",
-      "end_time": "10:10",
-      "episode_description": "Os compradores vão aos leilões num local conhecido por grandes negócios. Mary espera seguir os outros até um bom depósito, enquanto Ivy e Rene conseguem depósitos enormes recheados de mercadorias, mas apenas um deles vai valer muito a pena."
-    },
-    {
-      "show_name": "Casos Arquivados",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_casos-arquivados-s02e01-a-voz-no-lago_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 1 - A Voz no Lago",
-      "start_time": "10:10",
-      "end_time": "10:57",
-      "episode_description": "O avaliador imobiliário Mike Williams, de 31 anos, desaparece misteriosamente enquanto caçava patos nos pântanos da Flórida em dezembro de 2000. As autoridades suspeitam que ele tenha se afogado acidentalmente. Por 16 anos, o desaparecimento de Mike permanece um mistério. O caso esquenta quando a polícia recebe um pedido de socorro da esposa da vítima em 2016."
-    },
-    {
-      "show_name": "Casos Arquivados - Mortes no Pântano",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_casos-arquivados-mortes-no-pantano-s01e03-alma-perdida-em-lafayette_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 3 - Alma Perdida em Lafayette",
-      "start_time": "10:57",
-      "end_time": "11:42",
-      "episode_description": "O corpo de Bonnie Ruphard é encontrado em Lafayette, e a polícia suspeita de caso de violência doméstica. Porém, sem pistas, caso fica parado por uma década. Até que uma amostra de DNA coloca, finalmente, uma família de Bayou na investigação."
-    },
-    {
-      "show_name": "Acumuladores Compulsivos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos-s15e06-lori_l_m.jpg",
-      "show_category": "Temporada 15 Episódio 6 - Lori",
-      "start_time": "11:42",
-      "end_time": "13:10",
-      "episode_description": "À medida que Lori foi envelhecendo, sua casa se tornou inabitável devido seus excessos. Agora, a equipe tenta ajudar Lori na organização de sua vida, para seu bem e de sua família."
-    },
-    {
-      "show_name": "Acumuladores Compulsivos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos_l_m.jpg",
-      "show_category": "Reality",
-      "start_time": "13:10",
-      "end_time": "13:59",
-      "episode_description": "Tim vê valor em reaproveitar e usar materiais para todos os tipos de projetos, o que o levou a acumular uma quantidade enorme de lixo ao longo dos anos."
-    },
-    {
-      "show_name": "Acumuladores Compulsivos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos_l_m.jpg",
-      "show_category": "Reality",
-      "start_time": "13:59",
-      "end_time": "14:43",
-      "episode_description": "Tim vê valor em reaproveitar e usar materiais para todos os tipos de projetos, o que o levou a acumular uma quantidade enorme de lixo ao longo dos anos."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s01e11_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 11",
-      "start_time": "14:43",
-      "end_time": "15:06",
-      "episode_description": "Um tiroteio em Connecticut; uma infração por dirigir sob efeito de álcool na Flórida; uma perseguição a pé em Oklahoma."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s01e12_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 12",
-      "start_time": "15:06",
-      "end_time": "15:29",
-      "episode_description": "Perseguição a pé em Connecticut; um assaltante na Flórida; operação antidrogas na Carolina do Sul."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s01e13_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 13",
-      "start_time": "15:29",
-      "end_time": "15:52",
-      "episode_description": "Um homem embriagado em Maryland; uma perseguição de carro no condado de Richland; um arrombamento em Indiana."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s01e14_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 14",
-      "start_time": "15:52",
-      "end_time": "16:15",
-      "episode_description": "Um acidente de capotamento no Arizona, uma apreensão de drogas na Flórida e um homem entrincheirado em Maryland."
-    },
-    {
-      "show_name": "Me Diga Como Morri",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_me-diga-como-morri-s01e01-pastor-profano_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 1 - Pastor Profano",
-      "start_time": "16:15",
-      "end_time": "17:01",
-      "episode_description": "A segunda esposa de um querido pastor morre em um trágico acidente de carro e com isso, surgem diversas suspeitas sobre a causa da morte de sua primeira esposa. Seu falecimento nunca convenceu o ilustre patologista Dr. Wayne Ross."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s10e02-santo-ceu_l_m.jpg",
-      "show_category": "Temporada 10 Episódio 2 - Santo Céu",
-      "start_time": "17:01",
-      "end_time": "17:24",
-      "episode_description": "Darell consegue uma oportunidade na escola de seu amigo em Moreno Valley, Califórnia."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s10e03-luzes-brilhantes_l_m.jpg",
-      "show_category": "Temporada 10 Episódio 3 - Luzes Brilhantes",
-      "start_time": "17:24",
-      "end_time": "17:47",
-      "episode_description": "O inventário de Dave adiciona uma nova joia, graças a um surpreendente artefato médico. Enquanto que Rene encontra um container repleto de móveis muito reveladores."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s09e03-tartaruga-ninjga-na-meia-idade_l_m.jpg",
-      "show_category": "Temporada 9 Episódio 3 - Tartaruga Ninja na Meia-Idade",
-      "start_time": "17:47",
-      "end_time": "18:10",
-      "episode_description": "Jarrod e Brandi querem lucro fácil e rápido, mas os preços altos fazem com que assumam riscos nada fáceis; Ivy entra em uma farra de compras; Rene fica empolgadíssimo com o depósito de um colecionador."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s09e05-sonhando-com-leite-e-biscoitos_l_m.jpg",
-      "show_category": "Temporada 9 Episódio 5 - Sonhando com Leite e Biscoitos",
-      "start_time": "18:10",
-      "end_time": "18:33",
-      "episode_description": "Os compradores vão aos leilões num local conhecido por grandes negócios. Mary espera seguir os outros até um bom depósito, enquanto Ivy e Rene conseguem depósitos enormes recheados de mercadorias, mas apenas um deles vai valer muito a pena."
-    },
     {
       "show_name": "Quem Dá Mais?",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s09e06-quem-molha-a-cama_l_m.jpg",
       "show_category": "Temporada 9 Episódio 6 - Quem Molha a Cama?",
-      "start_time": "18:33",
-      "end_time": "18:56",
+      "start_time": "00:17",
+      "end_time": "00:40",
       "episode_description": "A busca por tesouros continua em Riverside na Califórnia. Jarrod e Brandi tentam ensinar a Bozek uma dura lição. Ivy tenta ganhar muito investindo pouco, enquanto Darrell e Brandon entram num depósito que pode deixá-los bem molhados."
     },
     {
       "show_name": "Quem Dá Mais?",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s09e07-surpresa-em-santa-ana_l_m.jpg",
       "show_category": "Temporada 9 Episódio 7 - Surpresa em Santa Ana",
-      "start_time": "18:56",
-      "end_time": "19:19",
+      "start_time": "00:40",
+      "end_time": "01:03",
       "episode_description": "Dave causa problema para Jarrod e Brandi em Santa Ana, Califórnia; Mary tenta terminar sua longa série de má sorte; Rene precisa de ajuda."
     },
     {
       "show_name": "Quem Dá Mais?",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s09e08-altos-lucros-em-arcadia_l_m.jpg",
       "show_category": "Temporada 9 Episódio 8 - Altos Lucros em Arcadia",
-      "start_time": "19:19",
-      "end_time": "19:42",
+      "start_time": "01:03",
+      "end_time": "01:26",
       "episode_description": "A área de classe alta em Arcadia promete leilões com lucros sólidos. Darrell e Brandon são pegos tentando usar trapaças, Rene traz o pai para ajudar na caçada aos colecionáveis enquanto Ivy arrisca para conseguir algo realmente diferente."
     },
     {
       "show_name": "Quem Dá Mais?",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s09e09-o-le-o-de-lancaster_l_m.jpg",
       "show_category": "Temporada 9 Episódio 9 - O Leão de Lancaster",
-      "start_time": "19:42",
-      "end_time": "20:05",
+      "start_time": "01:26",
+      "end_time": "01:49",
       "episode_description": "Ivy tem que defender seu território ou sair ganhando ao aproveitar esta grande vantagem. Rene faz uma longa viagem para provar um ponto enquanto Dave não tem nada para provar depois de uma série de vitórias. E Mary que consegue um bom depósito."
     },
     {
       "show_name": "Quem Dá Mais?",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s09e10-mary-se-deu-bem_l_m.jpg",
       "show_category": "Temporada 9 Episódio 10 - Mary se Deu Bem",
-      "start_time": "20:05",
-      "end_time": "20:28",
+      "start_time": "01:49",
+      "end_time": "02:12",
       "episode_description": "Depósitos em El Monte são conhecidos pelos grandes achados. Brandi deixa Jarrod gastar dinheiro, mas Mary, acha o depósito mais caro do dia. Rene gasta menos do que todos na busca do depósito de um colecionador, e pode acabar com o melhor negócio."
     },
     {
       "show_name": "Quem Dá Mais?",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s09e11-conteiner-mexicano_l_m.jpg",
       "show_category": "Temporada 9 Episódio 11 - Contêiner Mexicano",
-      "start_time": "20:28",
-      "end_time": "20:51",
+      "start_time": "02:12",
+      "end_time": "02:35",
       "episode_description": "O leilão em Palm Springs é sempre uma mina de tesouros e drama para os compradores. Sabendo dos últimos negócios, Dave não quer perder outro grande depósito e Rene tenta usar informações privilegiadas. Ivy é forçado a comprar muito para que valha."
     },
     {
       "show_name": "Quem Dá Mais?",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s09e12-a-sorte-esta-com-a-mary-e-allee_l_m.jpg",
       "show_category": "Temporada 9 Episódio 12 - A Sorte Está com a Mary e Allee",
-      "start_time": "20:51",
-      "end_time": "21:14",
+      "start_time": "02:35",
+      "end_time": "02:58",
       "episode_description": "A área da moda de North Hollywood tem um leilão onde os compradores esperam grandes achados e colecionáveis de alto nível. Jarrod e Brandi se recusam a ser enganados pelo glamour do showbiz, Mary e Allee são visadas, e Rene cria problemas para todos."
     },
     {
+      "show_name": "Me Diga Como Morri",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_me-diga-como-morri-s01e01-pastor-profano_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - Pastor Profano",
+      "start_time": "02:58",
+      "end_time": "03:45",
+      "episode_description": "A segunda esposa de um querido pastor morre em um trágico acidente de carro e com isso, surgem diversas suspeitas sobre a causa da morte de sua primeira esposa. Seu falecimento nunca convenceu o ilustre patologista Dr. Wayne Ross."
+    },
+    {
+      "show_name": "Acumuladores Compulsivos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "03:45",
+      "end_time": "04:30",
+      "episode_description": "Eric é forçado a lidar com sua dor emocional enquanto o processo de limpeza revela o belo design deixado por sua falecida esposa."
+    },
+    {
+      "show_name": "Acumuladores Compulsivos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "04:30",
+      "end_time": "05:16",
+      "episode_description": "Eric é forçado a lidar com sua dor emocional enquanto o processo de limpeza revela o belo design deixado por sua falecida esposa."
+    },
+    {
+      "show_name": "Clientes em Guerra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_clientes-em-guerra-s02e06-caos-na-esteira-rolante_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 6 - Justiceiro dos Carrinhos de Supermercado",
+      "start_time": "05:16",
+      "end_time": "05:38",
+      "episode_description": "Um morador irado caminha sobre cimento fresco, frustrando quem o está despejando; um passageiro problemático causa turbulência antes da decolagem; um cart narcs envergonha compradores folgados; um cliente se recusa a aceitar uma troca de óleo."
+    },
+    {
+      "show_name": "Clientes em Guerra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_clientes-em-guerra-s02e07-frenesi-no-restaurante-de-fast-food_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 7 - Frenesi no Restaurante de Fast Food",
+      "start_time": "05:38",
+      "end_time": "06:00",
+      "episode_description": "Em Chicago, acontece uma briga em um restaurante; além disso, um agente de aluguel de automóveis mantém a calma com um cliente difícil; um homem rouba o carro de um entregador de pizza; um lutador e um transeunte brigam."
+    },
+    {
+      "show_name": "Casos Arquivados",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_casos-arquivados-s02e04-o-professor-da-escola_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 4 - O Professor da Escola",
+      "start_time": "06:00",
+      "end_time": "06:48",
+      "episode_description": "A professora Christy Mirack, de 25 anos, é encontrada brutalmente assassinada em seu apartamento em Lancaster, Pensilvânia, em 1992, mas não faltam suspeitos."
+    },
+    {
+      "show_name": "Condenadas à Morte",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_condenadas-a-morte-s01e06-melissa-lucio_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 6 - Melissa Lucio",
+      "start_time": "06:48",
+      "end_time": "07:34",
+      "episode_description": "Em 10 de julho de 2008, Melissa Lucio foi condenada à morte pelo assassinato de sua filha Mariah, de dois anos. O Projeto Inocência investiga seu caso e descobre problemas surpreendentes, mas as autoridades não mostram vontade de intervir."
+    },
+    {
+      "show_name": "Investigação Criminal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_investigac-o-criminal-s10e14-filho-heroi_l_m.jpg",
+      "show_category": "Temporada 10 Episódio 14 - Filho Herói",
+      "start_time": "07:34",
+      "end_time": "08:29",
+      "episode_description": "Em 2010, Elder Alves foi fatalmente acertado por Cícero Manoel Júlio da Silva em uma vingança por um relacionamento com a ex-esposa de Elder. Seu filho, Leandro, descobre que o suspeito abriu uma empresa usando seu nome verdadeiro em Aracaju."
+    },
+    {
+      "show_name": "Os Segredos dos Assassinatos de Chippendales",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-segredos-dos-assassinatos-de-chippendales-s01e01-o-homem-perfeito_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - O Homem Perfeito",
+      "start_time": "08:29",
+      "end_time": "09:15",
+      "episode_description": "Nos anos 80, Chippendales era um verdadeiro fenômeno mundial criado por Steve Banerjee, um indiano em busca do sonho americano, e Nick De Noia, um produtor de televisão com talento para transformar homens musculosos em dançarinos."
+    },
+    {
+      "show_name": "Segredos das Celebridades - Sex Tapes",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_segredos-das-celebridades-sex-tapes-s01e01-o-nascimento-da-sex-tape_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - O Nascimento da Sex Tape",
+      "start_time": "09:15",
+      "end_time": "10:01",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Casos Arquivados",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_casos-arquivados-s02e05-o-assassino-de-heartland_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 5 - O Assassino de Heartland",
+      "start_time": "10:01",
+      "end_time": "10:47",
+      "episode_description": "Na década de 1980, um suspeito de assassinatos em série atacou mulheres em pequenas cidades localizadas às margens do rio Mississippi, nos EUA, até que os assassinatos cessaram abruptamente e não foram resolvidos."
+    },
+    {
+      "show_name": "Casos Arquivados - Mortes no Pântano",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_casos-arquivados-mortes-no-pantano-s01e06-monstro-no-pantano_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 6 - Monstro no Pântano",
+      "start_time": "10:47",
+      "end_time": "11:33",
+      "episode_description": "Curtis Cochise Smith, 29 anos, desaparece em Plaquemine, Louisiana, em 1991, durante compra de fraldas. Em 2016, seu corpo é encontrado no Bayou, 25 anos depois. Investigação reabre e foca em suspeito local com extensa ficha criminal."
+    },
+    {
+      "show_name": "Acumuladores Compulsivos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos-s15e05-david-elizabeth_l_m.jpg",
+      "show_category": "Temporada 15 Episódio 5 - David & Elizabeth",
+      "start_time": "11:33",
+      "end_time": "13:04",
+      "episode_description": "David e Elizabeth acumularam durante uma vida inteira. O vício em comprar através da TV quase os fez perder a casa repleta de objetos em caixas fechadas e ratos. Por conta disso, o médico de Elizabeth ameaça denunciá-los."
+    },
+    {
+      "show_name": "Acumuladores Compulsivos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "13:04",
+      "end_time": "13:55",
+      "episode_description": "Eric é forçado a lidar com sua dor emocional enquanto o processo de limpeza revela o belo design deixado por sua falecida esposa."
+    },
+    {
+      "show_name": "Acumuladores Compulsivos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "13:55",
+      "end_time": "14:45",
+      "episode_description": "Eric é forçado a lidar com sua dor emocional enquanto o processo de limpeza revela o belo design deixado por sua falecida esposa."
+    },
+    {
+      "show_name": "Polícia em Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s01e13_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 13",
+      "start_time": "14:45",
+      "end_time": "15:10",
+      "episode_description": "Um homem embriagado em Maryland; uma perseguição de carro no condado de Richland; um arrombamento em Indiana."
+    },
+    {
+      "show_name": "Polícia em Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s01e14_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 14",
+      "start_time": "15:10",
+      "end_time": "15:35",
+      "episode_description": "Um acidente de capotamento no Arizona, uma apreensão de drogas na Flórida e um homem entrincheirado em Maryland."
+    },
+    {
+      "show_name": "Polícia em Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s01e15_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 15",
+      "start_time": "15:35",
+      "end_time": "16:00",
+      "episode_description": "Um incêndio na Flórida, uma apreensão de drogas em Oklahoma e uma perseguição a pé na Flórida."
+    },
+    {
+      "show_name": "Polícia em Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s01e16_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 16",
+      "start_time": "16:00",
+      "end_time": "16:25",
+      "episode_description": "Uma perseguição na Carolina do Sul, um acidente de carro em Maryland e um carro de polícia roubado na Carolina do Sul."
+    },
+    {
+      "show_name": "Me Diga Como Morri",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_me-diga-como-morri-s01e07-suspeita-esmagadora_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 7 - Suspeita Esmagadora",
+      "start_time": "16:25",
+      "end_time": "17:15",
+      "episode_description": "Uma jovem morre em um trágico acidente de carro e é responsabilidade do médico legista iniciar uma investigação completa para determinar se foi realmente um acidente. As primeiras evidências indicam que pode ter havido algo sombrio por trás da morte."
+    },
+    {
       "show_name": "Quem Dá Mais?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s09e13-leil-o-noturno_l_m.jpg",
-      "show_category": "Temporada 9 Episódio 13 - Leilão Noturno",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s10e05-quem-quer-vender-chapeu_l_m.jpg",
+      "show_category": "Temporada 10 Episódio 5 - Quem Quer Vender Chapéu?",
+      "start_time": "17:15",
+      "end_time": "17:40",
+      "episode_description": "Em Costa Mesa, Rene inesperadamente encontra uma forma de tecnologia de alto voo. Enquanto isso, Darrell descobre o multifacetado mundo das lojas de armarinho e Kenny começa sua carreira em leilões."
+    },
+    {
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s10e11-cuida-da-sua-arma_l_m.jpg",
+      "show_category": "Temporada 10 Episódio 11 - Cuida da sua Arma",
+      "start_time": "17:40",
+      "end_time": "18:05",
+      "episode_description": "Ivy não concorda com as conclusões de Montebello, enquanto Dave encontra itens de carnaval que o fazem comemorar de forma grandiosa. Brandi e Jarrod encontram um velho triturador de estilo antigo."
+    },
+    {
+      "show_name": "Investigação Criminal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_investigac-o-criminal-1_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "18:05",
+      "end_time": "19:37",
+      "episode_description": "Beatriz Angélica, de sete anos, é assassinada durante a festa de formatura de sua irmã dentro do colégio Nossa Senhora Auxiliadora. O crime chocou a cidade de Petrolina e se tornou ainda mais emblemático quando provas foram adulteradas."
+    },
+    {
+      "show_name": "Os Segredos dos Assassinatos de Chippendales",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-segredos-dos-assassinatos-de-chippendales-s01e02-retirar-as-camadas_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Retirar as Camadas",
+      "start_time": "19:37",
+      "end_time": "20:28",
+      "episode_description": "Quanto maior o Chippendales fica, mais problemas vai tendo que enfrentar: de mafiosos e dançarinos insatisfeitos, a fanáticos religiosos e seus próprios criadores, obcecados com as suas fortunas."
+    },
+    {
+      "show_name": "Segredos das Celebridades - Sex Tapes",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_segredos-das-celebridades-sex-tapes-s01e02-pamela-anderson-e-tommy-lee_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Pamela Anderson e Tommy Lee",
+      "start_time": "20:28",
+      "end_time": "21:14",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Segredos das Celebridades - Sex Tapes",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_segredos-das-celebridades-sex-tapes-s01e03-kim-kardashian_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3 - Kim Kardashian",
       "start_time": "21:14",
-      "end_time": "21:37",
-      "episode_description": "Os compradores procuram os melhores negócios num leilão à noite em Huntington Beach. Ivy e Mary começam com uma competição não muito amigável. Darrell e Brandon estão no seu território à procura de outro grande depósito, Dave caça de um bom negócio."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s09e14-o-melhor-lance-e-do-pai_l_m.jpg",
-      "show_category": "Temporada 9 Episódio 14 - O Melhor Lance É do Pai",
-      "start_time": "21:37",
       "end_time": "22:00",
-      "episode_description": "Em Montebello, Darrell e Brandon investigam os outros compradores e saem disfarçadamente da confusão. Rene traz o pai para o leilão causando risadas e lucros. Dave quer num bom negócio, e Ivy enfrenta os leilões com firmeza apesar de uma lesão."
+      "episode_description": ""
     },
     {
-      "show_name": "Tráfico de Bebês",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_trafico-de-bebes-2013-1_l_m.jpg",
-      "show_category": "Drama / 2013",
+      "show_name": "O Assassino Happy Face",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-assassino-happy-face-2014_l_m.jpg",
+      "show_category": "Docudrama / 2014",
       "start_time": "22:00",
-      "end_time": "23:31",
-      "episode_description": "Uma agente da equipe de alfândega e imigração americana trabalha sob disfarce para capturar uma quadrilha de tráfico de crianças. Esse bando é liderado por uma mulher inescrupulosa que finge intermediar adoções."
+      "end_time": "23:29",
+      "episode_description": "Em pouco mais de cinco anos, o assassino em série Keith Jesperson matou pelo menos oito mulheres, ridicularizando as autoridades ao deixar cartas e confissões em forma de rabiscos, assinadas com o símbolo de uma carinha sorridente."
     },
     {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s09e03-tartaruga-ninjga-na-meia-idade_l_m.jpg",
-      "show_category": "Temporada 9 Episódio 3 - Tartaruga Ninja na Meia-Idade",
-      "start_time": "23:31",
-      "end_time": "23:54",
-      "episode_description": "Jarrod e Brandi querem lucro fácil e rápido, mas os preços altos fazem com que assumam riscos nada fáceis; Ivy entra em uma farra de compras; Rene fica empolgadíssimo com o depósito de um colecionador."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s09e05-sonhando-com-leite-e-biscoitos_l_m.jpg",
-      "show_category": "Temporada 9 Episódio 5 - Sonhando com Leite e Biscoitos",
-      "start_time": "23:54",
-      "end_time": "00:17",
-      "episode_description": "Os compradores vão aos leilões num local conhecido por grandes negócios. Mary espera seguir os outros até um bom depósito, enquanto Ivy e Rene conseguem depósitos enormes recheados de mercadorias, mas apenas um deles vai valer muito a pena."
+      "show_name": "Investigação Criminal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_investigac-o-criminal-1_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "23:29",
+      "end_time": "00:59",
+      "episode_description": "Beatriz Angélica, de sete anos, é assassinada durante a festa de formatura de sua irmã dentro do colégio Nossa Senhora Auxiliadora. O crime chocou a cidade de Petrolina e se tornou ainda mais emblemático quando provas foram adulteradas."
     }
   ]
 }

@@ -1,44 +1,52 @@
 {
   "channel": "AMC Brasil",
-  "date": "16/02/2026",
+  "date": "17/02/2026",
   "schedule": [
+    {
+      "show_name": "Sicario",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sicario-2015_l_m.jpg",
+      "show_category": "Thriller / 2015 /7.7",
+      "start_time": "00:25",
+      "end_time": "02:35",
+      "episode_description": "Na zona fronteiriça sem lei que se estende entre os Estados Unidos e o México, Kate, uma agente idealista do FBI, faz parte de uma força-tarefa oficial de elite do governo para ajudar na crescente guerra contra as drogas. Liderados por um consultor enigmático com um passado questionável, a equipe sai em uma jornada clandestina forçando Kate a questionar tudo o que ela acredita."
+    },
     {
       "show_name": "Sicario - Dia do Soldado",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sicario-dia-do-soldado-2018_l_m.jpg",
       "show_category": "Thriller / 2018",
-      "start_time": "01:35",
-      "end_time": "03:45",
+      "start_time": "02:35",
+      "end_time": "04:45",
       "episode_description": "O agente federal Matt Graver volta a contatar seu sicário de confiança, Alejandro Gillick, visando combater os famosos cartéis de drogas, considerados agora células terroristas. O objetivo da missão, orientada secretamente pelo alto escalão do governo, é fazer eclodir uma guerra entre grupos rivais."
     },
     {
-      "show_name": "O Vingador do Futuro",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-vingador-do-futuro-1990-1_l_m.jpg",
-      "show_category": "Science fiction / 1990",
-      "start_time": "03:45",
-      "end_time": "05:50",
-      "episode_description": "No ano de 2084, o operário Doug Quaid recorre a um implante de memória para poder simular uma viagem a Marte. Mas algo sai errado e ele começa a se lembrar de quem realmente era e de fatos que, até então, desconhecia. Agora, Quaid quer vingança contra aqueles que o enganaram."
+      "show_name": "Amizade Maldita",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_amizade-maldita-2019_l_m.jpg",
+      "show_category": "Horror / 2019",
+      "start_time": "04:45",
+      "end_time": "04:45",
+      "episode_description": "Kevin e Beth notam que seu filho de oito anos, Josh, tem passado bastante tempo brincando com um novo amigo imaginário, chamado Z. O que a princípio parece uma relação inofensiva, rapidamente se transforma em algo destrutivo e perigoso. É quando Beth começa a desvendar o seu próprio passado, que ela descobre que Z pode não estar apenas na imaginação do filho."
+    },
+    {
+      "show_name": "Amizade Maldita",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_amizade-maldita-2019_l_m.jpg",
+      "show_category": "Horror / 2019",
+      "start_time": "04:45",
+      "end_time": "06:10",
+      "episode_description": "Kevin e Beth notam que seu filho de oito anos, Josh, tem passado bastante tempo brincando com um novo amigo imaginário, chamado Z. O que a princípio parece uma relação inofensiva, rapidamente se transforma em algo destrutivo e perigoso. É quando Beth começa a desvendar o seu próprio passado, que ela descobre que Z pode não estar apenas na imaginação do filho."
     },
     {
       "show_name": "Planet Action",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_planet-action_l_m.jpg",
       "show_category": "Entertainment",
-      "start_time": "05:50",
-      "end_time": "05:50",
+      "start_time": "06:10",
+      "end_time": "06:35",
       "episode_description": "De tiroteios com caubóis a carros explodindo e monstros rugindo, acompanhe os bastidores dos melhores filmes de ação lançados."
     },
     {
       "show_name": "Planet Action",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_planet-action_l_m.jpg",
       "show_category": "Entertainment",
-      "start_time": "05:50",
-      "end_time": "06:25",
-      "episode_description": "De tiroteios com caubóis a carros explodindo e monstros rugindo, acompanhe os bastidores dos melhores filmes de ação lançados."
-    },
-    {
-      "show_name": "Planet Action",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_planet-action_l_m.jpg",
-      "show_category": "Entertainment",
-      "start_time": "06:25",
+      "start_time": "06:35",
       "end_time": "07:00",
       "episode_description": "De tiroteios com caubóis a carros explodindo e monstros rugindo, acompanhe os bastidores dos melhores filmes de ação lançados."
     },
@@ -115,68 +123,52 @@
       "episode_description": "De tiroteios com caubóis a carros explodindo e monstros rugindo, acompanhe os bastidores dos melhores filmes de ação lançados."
     },
     {
-      "show_name": "Planet Action",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_planet-action_l_m.jpg",
-      "show_category": "Entertainment",
-      "start_time": "11:25",
-      "end_time": "11:50",
-      "episode_description": "De tiroteios com caubóis a carros explodindo e monstros rugindo, acompanhe os bastidores dos melhores filmes de ação lançados."
-    },
-    {
-      "show_name": "Sempre ao Seu Lado",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sempre-ao-seu-lado-2009-1_l_m.jpg",
-      "show_category": "Drama / 2009",
-      "start_time": "11:50",
-      "end_time": "13:35",
-      "episode_description": "Professor universitário encontra na estação de trem um filhote de cachorro da raça Akita, conhecida por sua lealdade. O cão passa a acompanhá-lo até a estação de trem e esperar sua volta. Até que um acontecimento inesperado altera sua vida."
-    },
-    {
       "show_name": "Belas e Perseguidas",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_belas-e-perseguidas-2015_l_m.jpg",
       "show_category": "Comedy / 2015",
-      "start_time": "13:35",
-      "end_time": "15:15",
+      "start_time": "11:25",
+      "end_time": "13:00",
       "episode_description": "Cooper, uma policial honesta, precisa proteger e escoltar Daniella Riva, uma linda colombiana muito engraçada, durante uma viagem de San Antonio, Califórnia, até o Texas, para que ela e seu marido possam testemunhar contra um traficante de drogas."
     },
     {
-      "show_name": "O Hobbit - Uma Jornada Inesperada",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-hobbit-uma-jornada-inesperada-2012-1_l_m.jpg",
-      "show_category": "Fantasy / 2012",
-      "start_time": "15:15",
+      "show_name": "O Hobbit - A Desolação de Smaug",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-hobbit-a-desolac-o-de-smaug-2013-1_l_m.jpg",
+      "show_category": "Fantasy / 2013",
+      "start_time": "13:00",
+      "end_time": "15:50",
+      "episode_description": "Bilbo segue em direção à Montanha Solitária ao lado de um grupo de anões e de Gandalf, onde deverá ajudar seus companheiros a retomar a Pedra de Arken. O problema é que o artefato está perdido em meio a um tesouro protegido pelo temido dragão Smaug."
+    },
+    {
+      "show_name": "O Hobbit - A Batalha dos Cinco Exércitos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-hobbit-a-batalha-dos-cinco-exercitos-2014-1_l_m.jpg",
+      "show_category": "Fantasy / 2014",
+      "start_time": "15:50",
       "end_time": "18:15",
-      "episode_description": "Como a maioria dos hobbits, Bilbo Bolseiro leva uma vida tranquila até o dia em que recebe uma missão do mago Gandalf. Acompanhado por um grupo de anões, ele parte numa jornada até a Montanha Solitária para libertar o Reino de Erebor do dragão Smaug."
+      "episode_description": "O dragão Smaug lança sua fúria ardente contra a Cidade do Lago que fica próxima da montanha de Erebor. Bard consegue derrotá-lo, mas, rapidamente, sem a ameaça do dragão, inicia-se uma batalha pelo controle de Erebor e sua riqueza. Os anões, liderados por Thorin, adentram a montanha e estão dispostos a impedir a entrada de elfos, anões e orcs. Bilbo Bolseiro e Gandalf tentam impedir a guerra."
     },
     {
-      "show_name": "Horizonte",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_horizonte-2024_l_m.jpg",
-      "show_category": "Romance / 2024",
+      "show_name": "Loop",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_loop-2020_l_m.jpg",
+      "show_category": "Drama / 2020 /6.8",
       "start_time": "18:15",
-      "end_time": "20:20",
-      "episode_description": "Após o funeral do patriarca, uma família rachada se vê obrigada a dividir a mesma casa. Sufocado entre agressões verbais e silêncios massacrantes, o irmão do falecido decide abandonar a moradia e assim encontrar um local de paz."
+      "end_time": "19:55",
+      "episode_description": "A namorada de Daniel é assassinada, e ele fica obcecado em encontrar um jeito de voltar no tempo. Na expectativa de mudar os fatos, o rapaz acaba preso em um looping de acontecimentos."
     },
     {
-      "show_name": "A Chamada",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-chamada-2023_l_m.jpg",
-      "show_category": "Action / 2023",
-      "start_time": "20:20",
+      "show_name": "O Exterminador do Futuro - A Salvação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-exterminador-do-futuro-a-salvac-o-2009-1_l_m.jpg",
+      "show_category": "Science fiction / 2009",
+      "start_time": "19:55",
       "end_time": "22:00",
-      "episode_description": "Enquanto dirige com os filhos, um homem recebe um telefonema de um agressor desconhecido que alega haver uma bomba no carro. Incapaz de sair do veículo, ele precisa seguir uma série de instruções distorcidas, enquanto tenta descobrir como sobreviver."
+      "episode_description": "John Connor é designado para liderar a resistência humana ao domínio das máquinas, coordenadas pela Skynet e seu exército de exterminadores. Quando surge um estranho chamado Marcus Wright, cuja última memória que possui é de estar no corredor da morte, Connor precisa descobrir se ele foi enviado do futuro ou resgatado do passado, ao mesmo tempo em que a Skynet prepara seu ataque definitivo que pode aniquilar a humanidade."
     },
     {
-      "show_name": "Talamasca - A Ordem Secreta, de Anne Rice",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_talamasca-a-ordem-secreta-de-anne-rice-s01e05-o-palacio-dos-enigmas_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 5 - O Palácio dos Enigmas",
+      "show_name": "Apocalypto",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_apocalypto-2006_l_m.jpg",
+      "show_category": "Adventure / 2006 /7.8",
       "start_time": "22:00",
-      "end_time": "22:45",
-      "episode_description": "Guy escapa por pouco, e pede ajuda a Helen para fugir do país com a nova aliada, Doris. A investigação do assassinato aponta Guy como suspeito."
-    },
-    {
-      "show_name": "Adrenalina",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_adrenalina-2006_l_m.jpg",
-      "show_category": "Action / 2006 /7.0",
-      "start_time": "22:45",
-      "end_time": "00:25",
-      "episode_description": "Chev Chelios, um matador de aluguel, acorda pela manhã com um telefonema lhe informando que foi envenenado e tem somente uma hora de vida, exceto se mantiver um alto nível de adrenalina em seu corpo. Correndo contra o tempo, ele faz de tudo para manter seus batimentos acelerados e decide partir atrás de vingança."
+      "end_time": "00:15",
+      "episode_description": "No fim da civilização maia, sacrifícios humanos se tornam cada vez mais frequentes, na tentativa de aplacar a ira dos deuses. Um jovem guerreiro é capturado e, num ímpeto de bravura, empreende incrível fuga para salvar a mulher grávida e o filho."
     }
   ]
 }

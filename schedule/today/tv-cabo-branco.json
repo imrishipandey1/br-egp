@@ -1,110 +1,54 @@
 {
   "channel": "TV Cabo Branco",
-  "date": "16/02/2026",
+  "date": "17/02/2026",
   "schedule": [
+    {
+      "show_name": "Jogos Olímpicos de Inverno Milão-Cortina 2026",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_olympics-jogos-olimpicos-de-inverno-mil-o-cortina-2026-1_l_m.jpg",
+      "show_category": "",
+      "start_time": "04:55",
+      "end_time": "06:00",
+      "episode_description": "Os principais destaques da 25ª edição dos Jogos Olímpicos de inverno, realizada na Itália."
+    },
     {
       "show_name": "Bom Dia PB",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_bom-dia-pb_l_m.jpg",
       "show_category": "News",
       "start_time": "06:00",
-      "end_time": "06:25",
-      "episode_description": "Telejornal dinâmico que traz as notícias mais importantes da região para começar o dia."
-    },
-    {
-      "show_name": "Carnaval 2026",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_carnaval-2026_l_m.jpg",
-      "show_category": "Event",
-      "start_time": "06:25",
-      "end_time": "06:50",
-      "episode_description": "Transmissão dos desfiles das escolas de samba do Carnaval de 2026."
-    },
-    {
-      "show_name": "Globo Repórter",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_globo-reporter-1_l_m.jpg",
-      "show_category": "Newsmagazine",
-      "start_time": "06:50",
-      "end_time": "07:40",
-      "episode_description": "O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo."
-    },
-    {
-      "show_name": "Paraíba Comunidade",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_paraiba-comunidade_l_m.jpg",
-      "show_category": "Community",
-      "start_time": "07:40",
-      "end_time": "08:10",
-      "episode_description": "O programa coloca em pauta os temas de estações como verão, festas populares e Semana Santa, bem como as expressões da cultura popular e a preservação do patrimônio histórico e cultural do estado."
-    },
-    {
-      "show_name": "AutoEsporte",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_auto-autoesporte_l_m.jpg",
-      "show_category": "",
-      "start_time": "08:10",
       "end_time": "08:30",
-      "episode_description": "A revista eletrônica do setor automotivo apresenta as últimas notícias sobre automóveis, nacionais e importados, além de lançamentos, segredos, curiosidades, comparativos e testes."
+      "episode_description": "Telejornal dinâmico que traz as notícias mais importantes da região para começar o dia."
     },
     {
       "show_name": "Bom Dia Brasil",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_bom-dia-brasil-1_l_m.jpg",
       "show_category": "News",
       "start_time": "08:30",
-      "end_time": "08:40",
-      "episode_description": "Acompanhe as principais notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia."
-    },
-    {
-      "show_name": "Globo Rural",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_globo-rural-1_l_m.jpg",
-      "show_category": "Agriculture",
-      "start_time": "08:40",
       "end_time": "09:30",
-      "episode_description": "Acompanhe as principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais."
+      "episode_description": "Acompanhe as principais notícias do Brasil e do mundo com comentários sobre política, economia, esportes e gastronomia."
     },
     {
       "show_name": "Encontro com Patrícia Poeta",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_encontro-com-patricia-poeta_l_m.jpg",
       "show_category": "Entertainment",
       "start_time": "09:30",
-      "end_time": "10:15",
-      "episode_description": "O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jornalistas e convidados especiais, os assuntos são abordados em um formato de bate-papo."
-    },
-    {
-      "show_name": "Viver Sertanejo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_viver-sertanejo_l_m.jpg",
-      "show_category": "Interview",
-      "start_time": "10:15",
       "end_time": "10:40",
-      "episode_description": "Daniel abre a porteira de sua fazenda para receber grandes astros da música sertaneja. Juntos, eles relembram suas trajetórias, falam sobre suas inspirações e se deixam levar pelas modas de viola."
+      "episode_description": "O programa é uma mistura de jornalismo, informação, humor e música. Com a participação de comentaristas, jornalistas e convidados especiais, os assuntos são abordados em um formato de bate-papo."
     },
     {
       "show_name": "Mais Você",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_mais-voce-1_l_m.jpg",
       "show_category": "Talk",
       "start_time": "10:40",
-      "end_time": "11:10",
-      "episode_description": "Com ótimo humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia."
-    },
-    {
-      "show_name": "Esporte Espetacular",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_newsmagazine-esporte-espetacular-2_l_m.jpg",
-      "show_category": "",
-      "start_time": "11:10",
       "end_time": "11:45",
-      "episode_description": "Fique por dentro de tudo o que rolou durante a semana nos esportes e veja os gols pelo mundo afora. Entrevistas, reportagens sobre ciência esportiva e personagens históricos também fazem parte da atração."
+      "episode_description": "Com ótimo humor e dinamismo, Ana Maria Braga fala de culinária, artesanato, saúde, comportamento e muitos outros assuntos do dia a dia."
     },
     {
       "show_name": "JPB1",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_jpb1_l_m.jpg",
       "show_category": "News",
       "start_time": "11:45",
-      "end_time": "12:55",
-      "episode_description": "Acompanhe os acontecimentos do dia a dia e os debates entre a população e as autoridades."
-    },
-    {
-      "show_name": "Rampage - Destruição Total",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_rampage-destruic-o-total-2018_l_m.jpg",
-      "show_category": "Action / 2018",
-      "start_time": "12:55",
       "end_time": "13:00",
-      "episode_description": "Davis Okoye é um primatologista recluso que compartilha um vínculo inabalável com George, um gorila muito inteligente que está sob seus cuidados desde o nascimento. Quando um experimento genético desonesto é feito em um grupo de predadores que inclui o primata, os animais se transformam em monstros que destroem tudo em seu caminho. Agora, Okoye precisa conseguir um antídoto e impedir que seu amigo provoque uma catástrofe global."
+      "episode_description": "Acompanhe os acontecimentos do dia a dia e os debates entre a população e as autoridades."
     },
     {
       "show_name": "Globo Esporte PB",
@@ -119,96 +63,64 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-hoje-1_l_m.jpg",
       "show_category": "News",
       "start_time": "13:25",
-      "end_time": "14:45",
+      "end_time": "14:25",
       "episode_description": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais."
-    },
-    {
-      "show_name": "Aquaman",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_aquaman-2018_l_m.jpg",
-      "show_category": "Action / 2018 /7.0",
-      "start_time": "14:45",
-      "end_time": "14:45",
-      "episode_description": "A cidade de Atlantis, que já foi lar de uma das mais avançadas civilizações do mundo, agora é um reino submerso dominado pelo ganancioso Rei Orm. Com um vasto exército a seu dispor, Orm planeja conquistar tanto os demais reinos do oceano, quanto o mundo da superfície. Em seu caminho está Aquaman, meio-humano e meio-atlante, e verdadeiro herdeiro do trono. Com a ajuda da princesa Mera, Aquaman precisa recuperar o lendário Tridente de Atlan e aceitar seu destino como protetor das profundezas."
     },
     {
       "show_name": "Terra Nostra - Edição Especial",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_terra-nostra-edic-o-especial_l_m.jpg",
       "show_category": "Soap",
-      "start_time": "14:45",
-      "end_time": "15:30",
+      "start_time": "14:25",
+      "end_time": "15:10",
       "episode_description": "Uma parte da história da formação da sociedade brasileira do início do século XX é contada a partir do romance de dois jovens italianos, Giuliana e Matteo. Eles se conhecem em 1894 a bordo do navio que transporta imigrantes para trabalhar no Brasil."
     },
     {
-      "show_name": "Jogos Olímpicos de Inverno Milão-Cortina 2026",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_olympics-jogos-olimpicos-de-inverno-mil-o-cortina-2026_l_m.jpg",
-      "show_category": "Jogos Olímpicos de Inverno Milão-Cortina 2026",
-      "start_time": "15:30",
-      "end_time": "17:00",
-      "episode_description": "Vigésima quinta edição dos Jogos Olímpicos de Inverno, com 116 eventos competitivos distribuídos entre oito esportes diferentes e participação de atletas de todo o planeta. Milão e Cortina d'Ampezzo, na Itália, são as sedes principais das disputas."
-    },
-    {
-      "show_name": "Domingão com Huck",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_doming-o-com-huck-s2026e232_l_m.jpg",
-      "show_category": "Temporada 2026 Episódio 232",
-      "start_time": "17:00",
+      "show_name": "Guardiões da Galáxia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_guardi-es-da-galaxia-2014-1_l_m.jpg",
+      "show_category": "Science fiction / 2014",
+      "start_time": "15:10",
       "end_time": "17:05",
-      "episode_description": "O \"Domingão com Huck\" faz um esquenta para os desfiles da Marquês de Sapucaí e leva o samba para o público de casa, com a participação de representantes das 12 agremiações do Grupo Especial do Rio e representa a diversidade da festa popular."
+      "episode_description": "O aventureiro do espaço, Peter Quill, torna-se presa de caçadores de recompensas após roubar a esfera do vilão traiçoeiro, Ronan. Para escapar do perigo, faz uma aliança com um grupo de quatro extraterrestres. Quill descobre que a esfera foi roubada e possui um poder capaz de mudar os rumos do universo. Ele e seu grupo precisam proteger o objeto para salvar o futuro da galáxia."
     },
     {
       "show_name": "Vale a Pena Ver de Novo - Rainha da Sucata",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_vale-a-pena-ver-de-novo-rainha-da-sucata_l_m.jpg",
       "show_category": "Soap",
       "start_time": "17:05",
-      "end_time": "18:05",
+      "end_time": "18:25",
       "episode_description": "A rivalidade entre Maria do Carmo, uma empresária que enriqueceu com os negócios do pai, e Laurinha Figueiroa, uma socialite falida, no universo dos novos-ricos da decadente sociedade paulistana."
     },
     {
       "show_name": "Êta Mundo Melhor!",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_eta-mundo-melhor_l_m.jpg",
       "show_category": "Drama",
-      "start_time": "18:05",
-      "end_time": "18:45",
+      "start_time": "18:25",
+      "end_time": "19:05",
       "episode_description": "Candinho e seu fiel companheiro, Policarpo, voltaram para novas aventuras na cidade grande. Apesar de toda riqueza que o cerca, Candinho enfrenta uma nova saga: a busca pelo filho perdido."
     },
     {
       "show_name": "JPB2",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_jpb2_l_m.jpg",
       "show_category": "News",
-      "start_time": "18:45",
-      "end_time": "19:15",
+      "start_time": "19:05",
+      "end_time": "19:25",
       "episode_description": "Acompanhe os acontecimentos do dia a dia e os debates entre a população e as autoridades."
     },
     {
       "show_name": "Coração Acelerado",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_corac-o-acelerado_l_m.jpg",
       "show_category": "Soap",
-      "start_time": "19:15",
-      "end_time": "19:50",
-      "episode_description": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\"."
-    },
-    {
-      "show_name": "Big Brother Brasil",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_big-brother-brasil-s26e35_l_m.jpg",
-      "show_category": "Temporada 26 Episódio 35",
-      "start_time": "19:50",
+      "start_time": "19:25",
       "end_time": "20:00",
-      "episode_description": "Um grupo de pessoas topa ficar confinado em uma espaçosa casa cenográfica, sendo vigiado por câmeras 24 horas por dia. Sem receber informações do mundo exterior, eles disputam uma série de provas e dinâmicas em busca de um prêmio milionário."
+      "episode_description": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\"."
     },
     {
       "show_name": "Jornal Nacional",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-nacional-1_l_m.jpg",
       "show_category": "News",
       "start_time": "20:00",
-      "end_time": "20:30",
-      "episode_description": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo."
-    },
-    {
-      "show_name": "Fantástico",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_fantastico_l_m.jpg",
-      "show_category": "Newsmagazine",
-      "start_time": "20:30",
       "end_time": "20:35",
-      "episode_description": "Em forma de revista eletrônica, o programa mistura jornalismo, denúncia, esporte, humor, dramaturgia, música e ciência."
+      "episode_description": "As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo."
     },
     {
       "show_name": "Três Graças",
@@ -220,25 +132,17 @@
     },
     {
       "show_name": "Big Brother Brasil",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_big-brother-brasil-s26e36_l_m.jpg",
-      "show_category": "Temporada 26 Episódio 36",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_big-brother-brasil-s26e37_l_m.jpg",
+      "show_category": "Temporada 26 Episódio 37",
       "start_time": "21:10",
       "end_time": "21:50",
-      "episode_description": "Tadeu Schmidt faz os participantes revelarem seus pensamentos no Sincerão."
+      "episode_description": "Um grupo de pessoas topa ficar confinado em uma espaçosa casa cenográfica, sendo vigiado por câmeras 24 horas por dia. Sem receber informações do mundo exterior, eles disputam uma série de provas e dinâmicas em busca de um prêmio milionário."
     },
     {
       "show_name": "Carnaval 2026",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_carnaval-2026_l_m.jpg",
       "show_category": "Event",
       "start_time": "21:50",
-      "end_time": "22:10",
-      "episode_description": "Transmissão dos desfiles das escolas de samba do Carnaval de 2026."
-    },
-    {
-      "show_name": "Carnaval 2026",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_carnaval-2026_l_m.jpg",
-      "show_category": "Event",
-      "start_time": "22:10",
       "end_time": "04:55",
       "episode_description": "Transmissão dos desfiles das escolas de samba do Carnaval de 2026."
     }

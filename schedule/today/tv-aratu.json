@@ -1,20 +1,28 @@
 {
   "channel": "TV Aratu",
-  "date": "16/02/2026",
+  "date": "17/02/2026",
   "schedule": [
     {
-      "show_name": "SBT Folia 2026",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-folia-2026_l_m.jpg",
-      "show_category": "Parade",
-      "start_time": "00:00",
-      "end_time": "01:00",
-      "episode_description": "Leva o público para dentro dos acontecimentos da maior festa popular do país, conectando diferentes regiões do Brasil."
+      "show_name": "Operação Mesquita",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_operac-o-mesquita_l_m.jpg",
+      "show_category": "Entertainment",
+      "start_time": "01:00",
+      "end_time": "01:30",
+      "episode_description": "Descubra o lado B dos famosos, que mostram o seu cotidiano de forma curiosa e divertida por meio de entrevistas. Acompanhe ainda pessoas comuns que estão prestes a protagonizar um grande momento que pode mudar para sempre as suas vidas."
+    },
+    {
+      "show_name": "SBT PodNight",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-podnight_l_m.jpg",
+      "show_category": "Talk",
+      "start_time": "01:30",
+      "end_time": "02:15",
+      "episode_description": "Exibição de podcasts brasileiros líderes de audiência nas plataformas digitais, que abordam temas variados, de cultura e entretenimento a questões sociais."
     },
     {
       "show_name": "SBT Notícias",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-noticias_l_m.jpg",
       "show_category": "News",
-      "start_time": "01:00",
+      "start_time": "02:15",
       "end_time": "05:00",
       "episode_description": "Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia."
     },
@@ -55,6 +63,22 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_aratu-folia-2026_l_m.jpg",
       "show_category": "Special",
       "start_time": "13:00",
+      "end_time": "16:45",
+      "episode_description": "Toda a programação e momentos da folia de Carnaval de Aratu."
+    },
+    {
+      "show_name": "Benfica x Real Madrid",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-benfica-x-real-madrid_l_m.jpg",
+      "show_category": "UEFA Champions League",
+      "start_time": "16:45",
+      "end_time": "19:00",
+      "episode_description": "Todas as emoções da principal competição de futebol masculino disputada entre clubes europeus."
+    },
+    {
+      "show_name": "Aratu Folia 2026",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aratu-folia-2026_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "19:00",
       "end_time": "19:45",
       "episode_description": "Toda a programação e momentos da folia de Carnaval de Aratu."
     },

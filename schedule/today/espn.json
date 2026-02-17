@@ -1,62 +1,54 @@
 {
   "channel": "ESPN Brasil",
-  "date": "16/02/2026",
+  "date": "17/02/2026",
   "schedule": [
-    {
-      "show_name": "SportsCenter",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-sportscenter_l_m.jpg",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "01:00",
-      "episode_description": "Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abdicar do bom humor."
-    },
     {
       "show_name": "Resenha ESPN",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_resenha-espn_l_m.jpg",
       "show_category": "Sports talk",
-      "start_time": "01:00",
-      "end_time": "02:00",
+      "start_time": "00:00",
+      "end_time": "01:00",
       "episode_description": "Atletas da atualidade e do passado participam de bate-papo descontraído e cheio de boas histórias."
     },
     {
-      "show_name": "Arsenal x Wigan Athletic",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-arsenal-x-wigan-athletic_l_m.jpg",
+      "show_name": "Aston Villa x Newcastle United",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-aston-villa-x-newcastle-united_l_m.jpg",
       "show_category": "Copa da Inglaterra",
-      "start_time": "02:00",
-      "end_time": "04:00",
+      "start_time": "01:00",
+      "end_time": "03:00",
       "episode_description": "Criada em 1871, a FA Cup é o torneio de futebol mais antigo do planeta. Reúne os principais times da Inglaterra contra diversos de todo país, em eliminatórias simples. São quase 800 clubes buscando uma vaga na final."
     },
     {
-      "show_name": "Inside Serie A",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-inside-serie-a_l_m.jpg",
-      "show_category": "",
+      "show_name": "Bola da Vez",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bola-da-vez_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "03:00",
+      "end_time": "04:00",
+      "episode_description": "Entre encontros e desencontros, esquecimento e memória, um grupo de crianças passeia pela infância, pelas raízes e por paisagens escondidas da cidade de Goiás."
+    },
+    {
+      "show_name": "Coventry City x Middlesbrough",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-coventry-city-x-middlesbrough_l_m.jpg",
+      "show_category": "Campeonato Inglês - Segunda Divisão",
       "start_time": "04:00",
-      "end_time": "04:30",
-      "episode_description": "Uma previsão sobre os próximos jogos do Campeonato Italiano."
-    },
-    {
-      "show_name": "Nacional (POR) x Porto",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-nacional-por-x-porto_l_m.jpg",
-      "show_category": "Campeonato Português",
-      "start_time": "04:30",
-      "end_time": "04:30",
-      "episode_description": "Todas as emoções da principal competição de futebol masculino entre clubes de Portugal."
-    },
-    {
-      "show_name": "Nacional (POR) x Porto",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-nacional-por-x-porto_l_m.jpg",
-      "show_category": "Campeonato Português",
-      "start_time": "04:30",
-      "end_time": "06:30",
-      "episode_description": "Todas as emoções da principal competição de futebol masculino entre clubes de Portugal."
+      "end_time": "06:00",
+      "episode_description": "Da Coventry Building Society Arena, em Coventry, Inglaterra."
     },
     {
       "show_name": "Linha de Passe: Mesa-Redonda",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sports-talk-linha-de-passe-mesa-redonda_l_m.jpg",
       "show_category": "",
-      "start_time": "06:30",
-      "end_time": "08:00",
+      "start_time": "06:00",
+      "end_time": "07:00",
       "episode_description": "Comentaristas esportivos conceituados entram em campo para uma análise completa da rodada do futebol ao estilo \"mesa redonda\", com debates acalorados e comentários de qualidade, sempre a partir de um olhar crítico e da imparcialidade."
+    },
+    {
+      "show_name": "Resenha ESPN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_resenha-espn_l_m.jpg",
+      "show_category": "Sports talk",
+      "start_time": "07:00",
+      "end_time": "08:00",
+      "episode_description": "Atletas da atualidade e do passado participam de bate-papo descontraído e cheio de boas histórias."
     },
     {
       "show_name": "SportsCenter",
@@ -67,12 +59,12 @@
       "episode_description": "Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abdicar do bom humor."
     },
     {
-      "show_name": "Internazionale x Juventus",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-internazionale-x-juventus-1_l_m.jpg",
-      "show_category": "Campeonato Italiano",
+      "show_name": "Girona x Barcelona",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-girona-x-barcelona_l_m.jpg",
+      "show_category": "Campeonato Espanhol",
       "start_time": "09:00",
       "end_time": "11:00",
-      "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
+      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
     },
     {
       "show_name": "SportsCenter",
@@ -95,30 +87,22 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-mundo-f_l_m.jpg",
       "show_category": "",
       "start_time": "15:00",
-      "end_time": "16:30",
+      "end_time": "16:40",
       "episode_description": "Os principais assuntos que são notícia no futebol internacional abordados com linguagem contemporânea; grandes temas, clubes e personagens são destacados por especialistas que trazem informação e opinião."
     },
     {
-      "show_name": "SportsCenter Abre o Jogo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sports-talk-sportscenter-abre-o-jogo_l_m.jpg",
-      "show_category": "",
-      "start_time": "16:30",
-      "end_time": "16:50",
-      "episode_description": "Destaques e preparativos da partida válida pela maior liga de basquete profissional do mundo."
-    },
-    {
-      "show_name": "Girona x Barcelona",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-girona-x-barcelona_l_m.jpg",
-      "show_category": "Campeonato Espanhol",
-      "start_time": "16:50",
-      "end_time": "19:00",
-      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
+      "show_name": "Bristol City x Wrexham",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-bristol-city-x-wrexham_l_m.jpg",
+      "show_category": "Campeonato Inglês - Segunda Divisão",
+      "start_time": "16:40",
+      "end_time": "18:45",
+      "episode_description": "Do Estádio de Ashton Gate, em Bristol, Inglaterra."
     },
     {
       "show_name": "Equipe F",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-equipe-f_l_m.jpg",
       "show_category": "",
-      "start_time": "19:00",
+      "start_time": "18:45",
       "end_time": "20:00",
       "episode_description": "Especialistas comentam os principais acontecimentos notícia no futebol brasileiro."
     },
@@ -127,31 +111,23 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-sportscenter_l_m.jpg",
       "show_category": "",
       "start_time": "20:00",
-      "end_time": "21:00",
+      "end_time": "21:15",
       "episode_description": "Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abdicar do bom humor."
     },
     {
-      "show_name": "Linha de Passe: Mesa-Redonda",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sports-talk-linha-de-passe-mesa-redonda_l_m.jpg",
-      "show_category": "",
-      "start_time": "21:00",
-      "end_time": "22:00",
-      "episode_description": "Comentaristas esportivos conceituados entram em campo para uma análise completa da rodada do futebol ao estilo \"mesa redonda\", com debates acalorados e comentários de qualidade, sempre a partir de um olhar crítico e da imparcialidade."
-    },
-    {
-      "show_name": "Resenha ESPN",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_resenha-espn_l_m.jpg",
-      "show_category": "Sports talk",
-      "start_time": "22:00",
-      "end_time": "23:00",
-      "episode_description": "Atletas da atualidade e do passado participam de bate-papo descontraído e cheio de boas histórias."
+      "show_name": "2 de Mayo x Sporting Cristal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-2-de-mayo-x-sporting-cristal_l_m.jpg",
+      "show_category": "Copa Libertadores da América",
+      "start_time": "21:15",
+      "end_time": "23:30",
+      "episode_description": "Todas as emoções da principal competição de futebol masculino disputada entre clubes da América do Sul, e que garante ao campeão vaga no Mundial de Clubes da FIFA."
     },
     {
       "show_name": "SportsCenter",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-sportscenter_l_m.jpg",
       "show_category": "",
-      "start_time": "23:00",
-      "end_time": "00:00",
+      "start_time": "23:30",
+      "end_time": "00:30",
       "episode_description": "Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abdicar do bom humor."
     }
   ]

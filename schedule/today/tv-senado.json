@@ -1,86 +1,94 @@
 {
   "channel": "TV SENADO",
-  "date": "16/02/2026",
+  "date": "17/02/2026",
   "schedule": [
-    {
-      "show_name": "Coleções",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_colec-es_l_m.jpg",
-      "show_category": "Entertainment",
-      "start_time": "00:00",
-      "end_time": "00:25",
-      "episode_description": "O programa apresenta os principais e mais marcantes elementos da cultura brasileira por meio de viagens pelo país. A série de linguagem documental para a televisão tem como foco os principais elementos da cultura regional brasileira."
-    },
-    {
-      "show_name": "Estúdio A",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_estudio-a_l_m.jpg",
-      "show_category": "Music",
-      "start_time": "00:25",
-      "end_time": "01:09",
-      "episode_description": "Programa apresenta música popular brasileira mesclando entrevista e músicas gravadas em estúdio."
-    },
-    {
-      "show_name": "Cleo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cleo_l_m.jpg",
-      "show_category": "Special",
-      "start_time": "01:09",
-      "end_time": "02:08",
-      "episode_description": "Um breve retrato da vida e obra de Cleonice Berardinelli, ou simplesmente Dona Cleo, imortal da Academia Brasileira de Letras e uma das maiores intelectuais brasileiras."
-    },
-    {
-      "show_name": "As Várias Vidas de Tânia",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_as-varias-vidas-de-tania_l_m.jpg",
-      "show_category": "Special",
-      "start_time": "02:08",
-      "end_time": "02:49",
-      "episode_description": "A vida e a obra da alagoana Tânia de Maya Pedrosa, artista autodidata e colecionadora de arte popular brasileira."
-    },
-    {
-      "show_name": "Maria Luiza",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_maria-luiza-2020_l_m.jpg",
-      "show_category": "Documentary / 2020 /9.0",
-      "start_time": "02:49",
-      "end_time": "04:10",
-      "episode_description": "Maria Luiza da Silva é a primeira transexual na história das Forças Armadas brasileiras. Após 22 anos de trabalho como militar, foi aposentada por invalidez. Conheça as motivações para impedi-la de vestir a farda feminina e a sua trajetória de afirmação como mulher trans, militar e católica."
-    },
     {
       "show_name": "Por Onde Anda Makunaíma?",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_por-onde-anda-makunaima-2020_l_m.jpg",
       "show_category": "Documentary / 2020",
-      "start_time": "04:10",
-      "end_time": "05:39",
+      "start_time": "00:00",
+      "end_time": "01:30",
       "episode_description": "Com depoimentos em português, alemão, espanhol, macuxi e taurepang, o filme faz um resgate histórico e cultural daquele que é o personagem ficcional mais identificado com um certo jeito de ser brasileiro."
     },
     {
       "show_name": "22 em XXI",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_22-em-xxi_l_m.jpg",
       "show_category": "Special",
-      "start_time": "05:39",
-      "end_time": "05:39",
+      "start_time": "01:30",
+      "end_time": "03:00",
       "episode_description": "Acompanhe um novo olhar para a Semana de Arte Moderna de 1922, seus antecedentes e seus realizadores, a partir de entrevistas com historiadores, artistas, filósofos, ativistas, sociólogos e pesquisadores de diversas áreas."
     },
     {
-      "show_name": "22 em XXI",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_22-em-xxi_l_m.jpg",
-      "show_category": "Special",
-      "start_time": "05:39",
-      "end_time": "07:06",
-      "episode_description": "Acompanhe um novo olhar para a Semana de Arte Moderna de 1922, seus antecedentes e seus realizadores, a partir de entrevistas com historiadores, artistas, filósofos, ativistas, sociólogos e pesquisadores de diversas áreas."
+      "show_name": "Assunto de Estado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_assunto-de-estado_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "03:00",
+      "end_time": "03:30",
+      "episode_description": "Espaço para que senadores comentem questões regionais e locais e preste contas aos eleitores."
     },
     {
-      "show_name": "Coleções",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_colec-es_l_m.jpg",
-      "show_category": "Entertainment",
-      "start_time": "07:06",
-      "end_time": "07:30",
-      "episode_description": "O programa apresenta os principais e mais marcantes elementos da cultura brasileira por meio de viagens pelo país. A série de linguagem documental para a televisão tem como foco os principais elementos da cultura regional brasileira."
+      "show_name": "Agenda Econômica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_agenda-economica-1_l_m.jpg",
+      "show_category": "Bus./financial",
+      "start_time": "03:30",
+      "end_time": "04:00",
+      "episode_description": "Economistas, formuladores de políticas públicas, acadêmicos, intelectuais e parlamentares analisam questões da economia nacional e internacional."
+    },
+    {
+      "show_name": "Salão Nobre",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sal-o-nobre_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "04:00",
+      "end_time": "04:30",
+      "episode_description": "Assista a temas de relevância nacional com líderes partidários, presidentes das comissões e autores."
+    },
+    {
+      "show_name": "Em Discussão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_em-discuss-o-2_l_m.jpg",
+      "show_category": "Educational",
+      "start_time": "04:30",
+      "end_time": "05:00",
+      "episode_description": "As principais discussões realizadas nas audiências públicas promovidas pelo Senado."
+    },
+    {
+      "show_name": "TV Senado Live",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tv-senado-live_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "05:00",
+      "end_time": "05:30",
+      "episode_description": "Veja entrevistas com a participação do público sobre os grandes temas em pauta no país."
     },
     {
       "show_name": "Parlamento Brasil",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
       "show_category": "Politics",
+      "start_time": "05:30",
+      "end_time": "06:00",
+      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
+    },
+    {
+      "show_name": "Amazônia, Arqueologia da Floresta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_amazonia-arqueologia-da-floresta-s01e01-a-terra-dos-povos_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - A Terra dos Povos",
+      "start_time": "06:00",
+      "end_time": "07:00",
+      "episode_description": "Conheça Monte Castelo, uma ilha artificial que foi construída e ocupada há pelo menos seis mil anos. Esse sítio foi escavado pela primeira vez nos anos 1980 e relocalizado trinta anos mais tarde, dando origem a novas descobertas surpreendentes."
+    },
+    {
+      "show_name": "Coleções",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_colec-es_l_m.jpg",
+      "show_category": "Entertainment",
+      "start_time": "07:00",
+      "end_time": "07:30",
+      "episode_description": "O programa apresenta os principais e mais marcantes elementos da cultura brasileira por meio de viagens pelo país. A série de linguagem documental para a televisão tem como foco os principais elementos da cultura regional brasileira."
+    },
+    {
+      "show_name": "Em Discussão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_em-discuss-o-2_l_m.jpg",
+      "show_category": "Educational",
       "start_time": "07:30",
       "end_time": "08:00",
-      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
+      "episode_description": "As principais discussões realizadas nas audiências públicas promovidas pelo Senado."
     },
     {
       "show_name": "Cidadania",
@@ -183,46 +191,46 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_estudio-a_l_m.jpg",
       "show_category": "Music",
       "start_time": "14:00",
-      "end_time": "14:45",
+      "end_time": "14:47",
       "episode_description": "Programa apresenta música popular brasileira mesclando entrevista e músicas gravadas em estúdio."
     },
     {
       "show_name": "Espaço Cultural",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_espaco-cultural-1_l_m.jpg",
       "show_category": "Music",
-      "start_time": "14:45",
-      "end_time": "15:35",
+      "start_time": "14:47",
+      "end_time": "15:43",
       "episode_description": "O Baile do Mestre Cupijó sobe ao palco da Caixa Cultural em Brasília com espetáculo vibrante dedicado à preservação dos ritmos melódicos amazônicos."
     },
     {
       "show_name": "Concertos em Geral",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_concertos-em-geral_l_m.jpg",
       "show_category": "Music",
-      "start_time": "15:35",
-      "end_time": "16:26",
+      "start_time": "15:43",
+      "end_time": "16:43",
       "episode_description": "Anastasiya Evsina tem se destacado no mundo do piano clássico, apresentando-se em palcos prestigiados do mundo inteiro. Neste programa, ela fala um pouco da sua trajetória pianística."
     },
     {
       "show_name": "Estúdio A",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_estudio-a_l_m.jpg",
       "show_category": "Music",
-      "start_time": "16:26",
-      "end_time": "17:25",
+      "start_time": "16:43",
+      "end_time": "17:42",
       "episode_description": "Programa apresenta música popular brasileira mesclando entrevista e músicas gravadas em estúdio."
     },
     {
       "show_name": "Espaço Cultural",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_espaco-cultural-1_l_m.jpg",
       "show_category": "Music",
-      "start_time": "17:25",
-      "end_time": "18:28",
+      "start_time": "17:42",
+      "end_time": "18:30",
       "episode_description": "O Baile do Mestre Cupijó sobe ao palco da Caixa Cultural em Brasília com espetáculo vibrante dedicado à preservação dos ritmos melódicos amazônicos."
     },
     {
       "show_name": "Concertos em Geral",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_concertos-em-geral_l_m.jpg",
       "show_category": "Music",
-      "start_time": "18:28",
+      "start_time": "18:30",
       "end_time": "19:30",
       "episode_description": "Anastasiya Evsina tem se destacado no mundo do piano clássico, apresentando-se em palcos prestigiados do mundo inteiro. Neste programa, ela fala um pouco da sua trajetória pianística."
     },
@@ -235,44 +243,44 @@
       "episode_description": "Acompanhe as últimas notícias do Senado, entre as transmissões ao vivo das reuniões das comissões, do plenário e os programas de grade da emissora."
     },
     {
+      "show_name": "Agenda Econômica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_agenda-economica-1_l_m.jpg",
+      "show_category": "Bus./financial",
+      "start_time": "20:00",
+      "end_time": "20:30",
+      "episode_description": "Economistas, formuladores de políticas públicas, acadêmicos, intelectuais e parlamentares analisam questões da economia nacional e internacional."
+    },
+    {
       "show_name": "Assunto de Estado",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_assunto-de-estado_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "20:00",
-      "end_time": "20:30",
+      "start_time": "20:30",
+      "end_time": "21:00",
       "episode_description": "Espaço para que senadores comentem questões regionais e locais e preste contas aos eleitores."
     },
     {
-      "show_name": "Em Discussão",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_em-discuss-o-2_l_m.jpg",
-      "show_category": "Educational",
-      "start_time": "20:30",
-      "end_time": "21:00",
-      "episode_description": "As principais discussões realizadas nas audiências públicas promovidas pelo Senado."
-    },
-    {
-      "show_name": "Lampião da Esquina",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lampi-o-da-esquina-2016_l_m.jpg",
-      "show_category": "Documentary / 2016",
+      "show_name": "Rio, Negro",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rio-negro-2023_l_m.jpg",
+      "show_category": "Documentary / 2023",
       "start_time": "21:00",
-      "end_time": "22:26",
-      "episode_description": "Nos anos 1960, surgiu nos EUA o jornal Gay Sunshine, uma publicação voltada para o público homossexual. Em 1978, no Brasil, uma iniciativa similar foi criada: o polêmico Lampião da Esquina."
+      "end_time": "22:40",
+      "episode_description": "Um olhar possível para a história do Rio de Janeiro, assentado na presença e contribuição da população negra de origem africana na formação da cidade. A partir de entrevistas e amplo material de arquivo, a narrativa busca desvelar como a população negra forjou trajetórias individuais e laços comunitários em uma cidade diáspora marcada pelas disputas em torno do projeto civilizatório das elites brancas."
     },
     {
-      "show_name": "Sua Majestade - O Rei do Ritmo Jackson do Pandeiro",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sua-majestade-o-rei-do-ritmo-jackson-do-pandeiro_l_m.jpg",
+      "show_name": "Soletrando o Orgulho",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soletrando-o-orgulho_l_m.jpg",
       "show_category": "Special",
-      "start_time": "22:26",
-      "end_time": "23:39",
-      "episode_description": "A história de Jackson do Pandeiro, o paraibano de Alagoa Grande que ajudou a popularizar a música nordestina no país com canções de xote, xaxado, coco e baião."
+      "start_time": "22:40",
+      "end_time": "23:32",
+      "episode_description": "Nove pessoas, cada uma pertencente a uma das comunidades que formam o acrônimo LGBTIQA+, compartilham como reconheceram sua identidade."
     },
     {
-      "show_name": "Samba das Cumades",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_samba-das-cumades_l_m.jpg",
-      "show_category": "Special",
-      "start_time": "23:39",
+      "show_name": "Arquiteturas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_arquiteturas_l_m.jpg",
+      "show_category": "Entertainment",
+      "start_time": "23:32",
       "end_time": "00:00",
-      "episode_description": "Um grupo de mulheres mostra toda a sua força e ancestralidade através de uma roda de sampa de raiz, quebrando a percepção de que o gênero musical é um ambiente masculino."
+      "episode_description": "O programa conta a história do conjunto arquitetônico da Vila Itororó, conjunto remanescente de casas construídas nos anos 1920 como casas de aluguel. Em fase de restauração, a vila se localiza entre os bairros da Liberdade e Bela Vista."
     }
   ]
 }

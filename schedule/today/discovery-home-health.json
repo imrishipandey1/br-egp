@@ -1,238 +1,198 @@
 {
   "channel": "Discovery Home & Health",
-  "date": "16/02/2026",
+  "date": "17/02/2026",
   "schedule": [
     {
-      "show_name": "Gordon Ramsay - Serviço Secreto",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_gordon-ramsay-servico-secreto-s01e14-crazy-burger_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 14 - Crazy Burger",
-      "start_time": "01:38",
-      "end_time": "02:24",
-      "episode_description": "O chef Ramsay se disfarça para se infiltrar e resgatar restaurantes em dificuldades. Com um veículo de vigilância e um informante secreto, Ramsay reúne evidências não infiltradas para descobrir os principais problemas enfrentados pelos restaurantes."
+      "show_name": "S.O.S. Restaurante",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_s-o-s-restaurante-s18e04-grandes-problemas-no-tennessee_l_m.jpg",
+      "show_category": "Temporada 18 Episódio 4 - Goombazz Enlouquecido",
+      "start_time": "00:53",
+      "end_time": "01:39",
+      "episode_description": "Em Buffalo, Steven Marchione tenta manter aberto o restaurante da família, o Casa Di Francesca, depois de uma série de eventos trágicos. Robert Irvine tem 48 horas para fazer de Steven o líder de que seu negócio necessita."
     },
     {
-      "show_name": "Mama June - Vida Nova",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_mama-june-vida-nova-s01e07-mama-sexy_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 7 - Mama Sexy",
-      "start_time": "02:24",
-      "end_time": "03:12",
-      "episode_description": "O casamento está chegando e Alana tenta convencer Sugar Bear a convidar novamente June, o que irrita Jennifer. Um susto com a saúde causa preocupação entre as garotas."
-    },
-    {
-      "show_name": "Os Pequenos Johnstons",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-pequenos-johnstons-s16e07-o-grande-dia-menos-um_l_m.jpg",
-      "show_category": "Temporada 16 Episódio 7 - O Grande Dia, Menos Um",
-      "start_time": "03:12",
-      "end_time": "04:00",
-      "episode_description": "O dia a dia dos Johnstons, uma família de sete pessoas com acondroplasia, um tipo de nanismo. Com filhos biológicos e adotivos, eles mostram como lidam com questões envolvendo o preconceito e a adaptação ao mundo moderno."
-    },
-    {
-      "show_name": "Restaurações de Emergência",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_restaurac-es-de-emergencia-s01e03-incendios-e-radiadores_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 3 - Incêndios e Radiadores",
-      "start_time": "04:00",
-      "end_time": "04:49",
-      "episode_description": "Raina recebeu o pior telefonema de sua vida quando seu filho avisou que a varanda da casa estava em chamas. Lindsey e Kirsten restauram a varanda, e aproveitam para reformar a sala de estar e a cozinha de Raina."
-    },
-    {
-      "show_name": "Reforma Aloha",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_reforma-aloha-s02e07-clientes-mais-dificeis-de-todos-os-tempos_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 7 - Clientes Mais Difíceis de Todos os Tempos",
-      "start_time": "04:49",
-      "end_time": "05:37",
-      "episode_description": "Tristyn encara a cliente mais difícil até hoje: os próprios sogros. Os Kalamas reformam a casa onde Kamohai cresceu e, com a tradicional festa de Natal da família chegando, a pressão aumenta para entregarem tudo a tempo."
-    },
-    {
-      "show_name": "Cozinha dos Sonhos com John e Anthony",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cozinha-dos-sonhos-com-john-e-anthony-s02e11-uma-nova-perspectiva_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 11 - Uma Nova Perspectiva",
-      "start_time": "05:37",
-      "end_time": "06:00",
-      "episode_description": "Apesar de gostarem da década de 1980, Alfonso Ribeiro e sua namorada estão cansados de viajar ao passado sempre que entram em sua cozinha. Então, o casal decide pedir a ajuda de Anthony e John para renovar o espaço."
-    },
-    {
-      "show_name": "Reformas Incríveis",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_reformas-incriveis-s02e04-paraiso-da-divers-o_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 4 - A Nova Cozinha da Mamãe",
-      "start_time": "06:00",
-      "end_time": "06:29",
-      "episode_description": "Chip Wade transforma uma cozinha minúscula e desgastada no espaço dos sonhos de uma mãe."
-    },
-    {
-      "show_name": "Keith & Evan: Reformando com o Coração - Nova Orleans",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_keith-evan-reformando-com-o-corac-o-nova-orleans-s01e02-consultando-as-estrelas_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 2 - Consultando as Estrelas",
-      "start_time": "06:29",
-      "end_time": "07:20",
-      "episode_description": "Keith e Evan tentam concluir a reforma da parte dos inquilinos em um duplex deteriorado, mas o orçamento logo sai do controle."
-    },
-    {
-      "show_name": "Irmãos à Obra - Compra e Venda",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_irm-os-a-obra-compra-e-venda-s07e16_l_m.jpg",
-      "show_category": "Temporada 7 Episódio 16 - Novella e Terry",
-      "start_time": "07:20",
-      "end_time": "08:11",
-      "episode_description": "Um casal decide se mudar para um imóvel térreo quando seus filhos saem de casa. A casa antiga tem cinco quartos, mas precisa urgentemente de uma reforma e tem cômodos mal distribuídos."
-    },
-    {
-      "show_name": "O Vestido Ideal",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-vestido-ideal-s13e12-de-madrinha-a-noiva_l_m.jpg",
-      "show_category": "Temporada 13 Episódio 12 - De Madrinha à Noiva",
-      "start_time": "08:11",
-      "end_time": "08:37",
-      "episode_description": "Brittany sempre foi a madrinha e finalmente realiza o desejo de ser a noiva. Veronica decide ter um segundo casamento perfeito. Erika comprou o vestido há quatro anos e agora está pronta para casar."
-    },
-    {
-      "show_name": "O Vestido Ideal",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-vestido-ideal-s13e05-madrinhas-da-discordia_l_m.jpg",
-      "show_category": "Temporada 13 Episódio 5 - Madrinhas da Discórdia",
-      "start_time": "08:37",
-      "end_time": "09:03",
-      "episode_description": "Francesca tenta escolher um vestido, mas sua trupe é difícil de agradar. Brittany quer um vestido pouco tradicional, para desgosto da mãe. Samantha prova o vestido da recepção."
-    },
-    {
-      "show_name": "O Vestido Ideal",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-vestido-ideal-s16e08-esconde-esconde_l_m.jpg",
-      "show_category": "Temporada 16 Episódio 8 - Um Tubarão na Loja",
-      "start_time": "09:03",
-      "end_time": "09:53",
-      "episode_description": "Randy precisa ser criativo para atender Barbara Corcoran, de Shark Tank; a noiva Bridgette procura um vestido com o qual possa literalmente correr, já que vai se casar durante a meia maratona de Las Vegas."
-    },
-    {
-      "show_name": "90 Dias para Casar - A Última Chance",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_90-dias-para-casar-a-ultima-chance-s01e06-ultimos-beijos_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 6 - Últimos Beijos",
-      "start_time": "09:53",
-      "end_time": "10:50",
-      "episode_description": "Kalani, Yara, Angela e Liz criam conexão em uma festa de lingerie, e Yara fala sobre suas inseguranças; Ed demonstra uma de suas habilidades íntimas; a terapia do Kama Sutra leva um casal ao limite; Kalani revela por que não consegue perdoar Asuelu."
-    },
-    {
-      "show_name": "90 Dias para Casar - A Última Chance",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_90-dias-para-casar-a-ultima-chance-s01e07-ultima-vida_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 7 - Última Vida",
-      "start_time": "10:50",
-      "end_time": "11:41",
-      "episode_description": "Vidas passadas revelam problemas atuais para Ed e Liz; uma festa na piscina aproxima um casal e afasta outro ainda mais; Michael e Angela desmoronam na terapia."
-    },
-    {
-      "show_name": "Os Pequenos Johnstons",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-pequenos-johnstons-s03e01-romance-adolescente_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 1 - Licença para Dirigir",
-      "start_time": "11:41",
-      "end_time": "12:34",
-      "episode_description": "Jonah e Anna testam suas habilidades atrás do volante; Alex é diagnosticado com apneia do sono e faz uma ressonância magnética para descobrir se precisa ser submetido a uma cirurgia cerebral."
-    },
-    {
-      "show_name": "Os Pequenos Johnstons",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-pequenos-johnstons-s03e02-mam-e-corretora_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 2 - A Cirurgia de Alex",
-      "start_time": "12:34",
-      "end_time": "13:25",
-      "episode_description": "Alex se prepara para a cirurgia cerebral e Amber decide lhe dar um novo corte de cabelo. Enquanto Alex está no hospital, Trent leva as outras crianças para ver os Harlem Globetrotters."
-    },
-    {
-      "show_name": "Irmãos à Obra - Lar Sempre Lar",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_irm-os-a-obra-lar-sempre-lar-s03e01-do-caos-a-calma_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 1 - Nova Vida, Nova Casa",
-      "start_time": "13:25",
-      "end_time": "14:18",
-      "episode_description": "Um casal que abriu mão de suas atarefadas carreiras para se concentrar nos filhos, sonha com uma casa aconchegante para abrigar a família toda. Drew e Jonathan criam uma cozinha e uma sala de estar que atendam às necessidades deles."
-    },
-    {
-      "show_name": "100 Dias para Morar - Começando do Zero",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_100-dias-para-morar-comecando-do-zero-s03e10-ninho-de-amor_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 10 - Ninho de Amor",
-      "start_time": "14:18",
-      "end_time": "15:08",
-      "episode_description": "Um casal de noivos está ansioso para começar a vida sob o mesmo teto, mas sua casa atual é muito pequena e abarrotada. Brian e Mika constroem um imóvel maior que eles possam chamar de lar quando voltarem da lua de mel."
-    },
-    {
-      "show_name": "Imóveis que Cabem no Bolso",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_imoveis-que-cabem-no-bolso-s02e07-espaco-para-receber_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 7 - Espaço para Receber",
-      "start_time": "15:08",
-      "end_time": "15:58",
-      "episode_description": "Uma família quer sair da casa da mãe e encontrar um lugar próprio. Eles buscam uma casa grande com um design aberto para receber amigos e familiares, então Egypt e Mike entram em cena para encontrar e transformar o lugar certo."
-    },
-    {
-      "show_name": "Imóveis que Cabem no Bolso",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_imoveis-que-cabem-no-bolso-s02e08-parada-em-poncey-highland_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 8 - Parada em Poncey-Highland",
-      "start_time": "15:58",
-      "end_time": "16:48",
-      "episode_description": "Uma família finalmente deseja fixar raízes em Poncey-Highland, Geórgia, após morar em uma casa minúscula sobre rodas. Eles não se contentam com qualquer lugar, então Egypt e Mike procuram extensivamente por uma casa antiga repleta de personalidade."
-    },
-    {
-      "show_name": "Irmãos À Obra: Um Lar para Amar",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_irm-os-a-obra-um-lar-para-amar-s01e05_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 5 - Grandes Promessas",
-      "start_time": "16:48",
-      "end_time": "17:38",
-      "episode_description": "Depois de anos de insistência, Jonathan e Drew finalmente convenceram seus pais a se mudarem para Los Angeles. Já está na hora de eles terem uma casa própria, mas cronogramas paralisados e atrasos os fazem ficar trocando de espaço para hóspedes."
-    },
-    {
-      "show_name": "Mestres da Confeitaria: Batalha em Paris",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_mestres-da-confeitaria-batalha-em-paris-s01e05-frutas-frescas-e-proibidas_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 5 - Frutas Frescas e Proibidas",
-      "start_time": "17:38",
-      "end_time": "18:28",
-      "episode_description": "Stephanie Boswell e Ludo Lefebvre mandam os confeiteiros para um arco-íris de produtos para criar bolos de crèpe com frutas. Depois da aula da Nina Metayer, os confeiteiros devem usar produtos diferentes em suas sobremesas."
-    },
-    {
-      "show_name": "Mestres da Confeitaria: Batalha em Paris",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_mestres-da-confeitaria-batalha-em-paris-s01e06_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 6",
-      "start_time": "18:28",
-      "end_time": "19:16",
-      "episode_description": "Stephanie Boswell e Ludo Lefebvre desafiam os padeiros com um prato que exige perfeição: o suflê."
-    },
-    {
-      "show_name": "Masterchef EUA",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_masterchef-eua-s24e13-dividir-para-conquistar_l_m.jpg",
-      "show_category": "Temporada 24 Episódio 13 - Dividir para Conquistar",
-      "start_time": "19:16",
-      "end_time": "20:03",
-      "episode_description": "As três duplas do time perdedor encaram a última e mais desafiadora Prova de Pressão da temporada: recriar uma entrada de Joe Bastianich, um prato principal de Tiffany Derry e uma sobremesa de Gordon Ramsay."
-    },
-    {
-      "show_name": "Masterchef EUA",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_masterchef-eua-s24e14-a-muralha_l_m.jpg",
-      "show_category": "Temporada 24 Episódio 14 - A Muralha",
-      "start_time": "20:03",
-      "end_time": "20:50",
-      "episode_description": "Uma competição única que testa chefs amadores em uma série de desafios difíceis julgados por especialistas em culinária."
-    },
-    {
-      "show_name": "Gordon Ramsay - Serviço Secreto",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_gordon-ramsay-servico-secreto-s01e10_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 10",
-      "start_time": "20:50",
-      "end_time": "21:38",
-      "episode_description": "Fundado há 36 anos, o Bruno's continua sendo um símbolo de familiaridade e alegria para clientes fiéis na comunidade da Filadélfia. No entanto, com um dono teimoso e um filho frustrado, a tarefa de Gordon se mostra desafiadora."
-    },
-    {
-      "show_name": "Pesadelo na Cozinha com Gordon Ramsay",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_pesadelo-na-cozinha-com-gordon-ramsay-s02e06-kings-blu-jam_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 6 - Kings Blu Jam",
-      "start_time": "21:38",
-      "end_time": "22:26",
-      "episode_description": "Gordon tenta renovar o Kings Blu Jam Cafe em Houston, um café especializado em tudo relacionado a café da manhã, brunch e almoço, mas o cardápio excessivo e a falta de comunicação entre os membros da equipe estão causando problemas."
-    },
-    {
-      "show_name": "Gordon Ramsay - Do Inferno ao Paraíso em 24h",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_gordon-ramsay-do-inferno-ao-paraiso-em-24h-s03e01_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 1",
-      "start_time": "22:26",
-      "end_time": "23:12",
-      "episode_description": "Ramsay chega a um restaurante de frutos do mar na Virgínia que está em atividade há 82 anos; os dois irmãos que administram o local estão prestes a destruir o legado dos avós."
+      "show_name": "90 Dias na Cama - Felizes para Sempre?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_90-dias-na-cama-felizes-para-sempre-s08e18-a-grande-desilus-o_l_m.jpg",
+      "show_category": "Temporada 8 Episódio 18 - A Grande Desilusão",
+      "start_time": "01:39",
+      "end_time": "02:27",
+      "episode_description": "Kenny acha que Armando teria uma chance de ganhar o prêmio Miss Latina."
     },
     {
       "show_name": "Pesadelo na Cozinha",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_pesadelo-na-cozinha-s04e06_l_m.jpg",
-      "show_category": "Temporada 4 Episódio 6 - Casa do Sírio",
-      "start_time": "23:12",
-      "end_time": "00:53",
-      "episode_description": "A comida árabe é apreciada pelo mundo, mas da Casa do Sírio muita gente fugiria. O casal Assad e Rose se juntaram no sonho de abrir um restaurante árabe, só que a grosseira do dono não é convidativa para a clientela, e nem para Jacquin."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pesadelo-na-cozinha-s04e07-dona-acaraje_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 7 - Dona Acarajé",
+      "start_time": "02:27",
+      "end_time": "04:02",
+      "episode_description": "Cris, dona do restaurante Dona Acarajé, enfrenta dificuldades em seu negócio. Apesar de sua experiência em estabelecimentos bem-sucedidos, ela luta para manter seu próprio restaurante."
+    },
+    {
+      "show_name": "Quilos Mortais - Como Eles Estão Agora?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quilos-mortais-como-eles-est-o-agora-s09e01-nathan-e-amber_l_m.jpg",
+      "show_category": "Temporada 9 Episódio 1 - Nathan e Amber",
+      "start_time": "04:02",
+      "end_time": "05:38",
+      "episode_description": "Nathan está perdendo peso e voltou a trabalhar como professor depois da cirurgia bariátrica. No entanto, sua esposa Amber não está no mesmo ritmo e ainda precisa se qualificar para uma segunda cirurgia."
+    },
+    {
+      "show_name": "Cozinha dos Sonhos com John e Anthony",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cozinha-dos-sonhos-com-john-e-anthony-s02e10-a-cozinha-surpresa-de-vanessa-williams_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 10 - A Cozinha Surpresa de Vanessa Williams",
+      "start_time": "05:38",
+      "end_time": "06:00",
+      "episode_description": "Vanessa Williams quer surpreender seu irmão, Chris, com uma nova cozinha em sua bela casa em Los Angeles. Enquanto ele está viajando, os Primos transformam a antiquada cozinha derrubando uma parede."
+    },
+    {
+      "show_name": "Nate e Jeremiah - Bem-Vindo ao Lar!",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_nate-e-jeremiah-bem-vindo-ao-lar-s02e01-lar-e-onde-esta-a-arte_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 1 - Lar É Onde Está a Arte",
+      "start_time": "06:00",
+      "end_time": "06:51",
+      "episode_description": "Uma família com quatro crianças não quer deixar sua casa, mas precisa ampliar o espaço. Nate e Jeremiah os ajudam a abrir mão do passado e criar espaços com uma sala de artes onde todos possam crescer."
+    },
+    {
+      "show_name": "Irmãos à Obra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_irm-os-a-obra-s13e01_l_m.jpg",
+      "show_category": "Temporada 13 Episódio 1 - Denise e Massimo",
+      "start_time": "06:51",
+      "end_time": "07:42",
+      "episode_description": "O casal Denise e Massimo tem lutado para caber em seu pequeno lar com seus filhos, e estão prontos para se mudarem para uma casa grande que caiba toda a família."
+    },
+    {
+      "show_name": "O Vestido Ideal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-vestido-ideal-s13e04-ousadia-com-elegancia_l_m.jpg",
+      "show_category": "Temporada 13 Episódio 4 - Ousadia com Elegância",
+      "start_time": "07:42",
+      "end_time": "08:08",
+      "episode_description": "Lauren quer parecer uma \"estrela pornô elegante\" quando subir ao altar. Cheryl só sabe como não quer que seu vestido seja. Amanda espera que o vestido feito sob medida atenda às suas expectativas."
+    },
+    {
+      "show_name": "O Vestido Ideal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-vestido-ideal-s13e08-cisne-negro_l_m.jpg",
+      "show_category": "Temporada 13 Episódio 8 - Decote Profundo",
+      "start_time": "08:08",
+      "end_time": "08:34",
+      "episode_description": "As medidas avantajadas de Danielle estouram seu orçamento. Stephanie quer mostrar seus atributos, para desgosto da mãe. Christie perdeu peso e espera que o vestido que comprou ainda destaque o busto."
+    },
+    {
+      "show_name": "O Vestido Ideal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-vestido-ideal-s16e09-um-tubar-o-na-loja_l_m.jpg",
+      "show_category": "Temporada 16 Episódio 9 - Noiva Espaçosa",
+      "start_time": "08:34",
+      "end_time": "09:26",
+      "episode_description": "Nikki procura um vestido estiloso para seu casamento na noite de Ano Novo; Natalie sonha conseguir o maior vestido de gala existente."
+    },
+    {
+      "show_name": "90 Dias para Casar - A Última Chance",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_90-dias-para-casar-a-ultima-chance-s01e08-um-ultimo-segredo_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 8 - Um Último Segredo",
+      "start_time": "09:26",
+      "end_time": "10:18",
+      "episode_description": "A terapia familiar expõe os segredos de Kalani e Asuelu; Molly e Kelly chegam a um impasse; Jovi e Yara discutem sua intimidade; Angela surpreende Michael no aniversário de casamento; Ed revela um segredo que coloca Liz em uma posição difícil."
+    },
+    {
+      "show_name": "90 Dias para Casar - A Última Chance",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_90-dias-para-casar-a-ultima-chance-s01e09-onde-voce-foi-noite-passada_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 9 - Onde Você Foi Noite Passada?",
+      "start_time": "10:18",
+      "end_time": "11:10",
+      "episode_description": "A terapia familiar revela que Yara não é a única que guarda segredos; os casais descobrem o que Molly tem feito; a ausência de Kalani deixa Asuelu assustado; as meninas descobrem a verdade sobre Kalani."
+    },
+    {
+      "show_name": "Os Pequenos Johnstons",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-pequenos-johnstons-s03e03-amor-tatuado_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 3 - Surpresas de Aniversário",
+      "start_time": "11:10",
+      "end_time": "12:01",
+      "episode_description": "Para se preparar para seu aniversário de 40 anos, Trent decide perder peso, mas o processo não é tão divertido como ele imaginava. Amber planeja uma festa de aniversário que Trent jamais esquecerá."
+    },
+    {
+      "show_name": "Os Pequenos Johnstons",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-pequenos-johnstons-s03e04-bicicletas-pelo-bem_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 4 - Tour Universitário",
+      "start_time": "12:01",
+      "end_time": "12:52",
+      "episode_description": "As notas de Jonah estão piorando e Anna prefere arrumar o cabelo e se maquiar a ir para a faculdade, mas um passeio pelas universidades pode ajudá-los a se motivar."
+    },
+    {
+      "show_name": "Irmãos à Obra - Lar Sempre Lar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_irm-os-a-obra-lar-sempre-lar-s03e02-casa-de-40-anos_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 2 - Todos São Bem-Vindos",
+      "start_time": "12:52",
+      "end_time": "13:44",
+      "episode_description": "A residência de um casal sempre foi o ponto de encontro de amigos, mas a bagunça aumentou com o nascimento de sua filha. Drew e Jonathan reformulam os espaços para que eles possam receber convidados de forma adequada."
+    },
+    {
+      "show_name": "100 Dias para Morar - Começando do Zero",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_100-dias-para-morar-comecando-do-zero-s04e03-lar-doce-lar_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 3 - Lar, Doce Lar",
+      "start_time": "13:44",
+      "end_time": "14:36",
+      "episode_description": "O rancho estilo anos 70 de um casal ficou pequeno demais para a família e sua confeitaria em franco crescimento. Mika e Brian constroem uma casa com bastante espaço para a família e uma área adequada para a empresa."
+    },
+    {
+      "show_name": "Irmãos à Obra - Compra e Venda",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_irm-os-a-obra-compra-e-venda-s06e07-paula-e-isabel_l_m.jpg",
+      "show_category": "Temporada 6 Episódio 7 - Paula e Isabel",
+      "start_time": "14:36",
+      "end_time": "15:30",
+      "episode_description": "Depois de duas décadas em sua primeira casa, Paula e a filha, Isabel, estão prontas para mudar. Apesar de precisar reformar o imóvel atual para valorizá-lo, a confiança de Paula nos empreiteiros anda abalada."
+    },
+    {
+      "show_name": "Irmãos à Obra - Lar Sempre Lar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_irm-os-a-obra-lar-sempre-lar-s07e08-um-novo-comeco_l_m.jpg",
+      "show_category": "Temporada 7 Episódio 8 - Um Novo Começo",
+      "start_time": "15:30",
+      "end_time": "16:24",
+      "episode_description": "Após a morte inesperada do marido, uma mulher herda uma casa disfuncional que ele planejava reformar com a ajuda dos dois filhos. Jonathan e Drew transformam o imóvel que guarda tantas lembranças familiares preciosas."
+    },
+    {
+      "show_name": "Quilos Mortais",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quilos-mortais-1_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "16:24",
+      "end_time": "18:09",
+      "episode_description": "Melissa se isolou em casa para não sentir vergonha de seu vício em comida. Ela precisa buscar ajuda para redescobrir sua personalidade vibrante."
+    },
+    {
+      "show_name": "Quilos Mortais",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quilos-mortais-s12e03-a-jornada-de-delana_l_m.jpg",
+      "show_category": "Temporada 12 Episódio 3 - A Jornada de Delana",
+      "start_time": "18:09",
+      "end_time": "19:53",
+      "episode_description": "Após uma ida ao mercado se tornar uma emergência médica, Delana admite o quanto precisa da ajuda do Dr. Now para perder peso. Com sorte, seu caminho para a recuperação a levará a se reconciliar com a filha da qual se afastou."
+    },
+    {
+      "show_name": "Dr. Now - Diários de Peso",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_dr-now-diarios-de-peso-s01e08-a-historia-de-sam_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 8 - A História de Sam",
+      "start_time": "19:53",
+      "end_time": "21:34",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Dr. Pimple Popper: Breaking Out",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_dr-pimple-popper-breaking-out-s01e06_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 6",
+      "start_time": "21:34",
+      "end_time": "22:24",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Dra. Sandra Lee - Casos Explosivos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_dra-sandra-lee-casos-explosivos-s02e07-cauda_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 7 - Cauda",
+      "start_time": "22:24",
+      "end_time": "23:14",
+      "episode_description": "Taylor tem um cisto grande na base da coluna; John faz piada com o caroço que tem no quadril, mas não há por que rir; Noelle quer consertar suas orelhas."
+    },
+    {
+      "show_name": "Operação Transplante",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_operac-o-transplante-s01e07-voltar-a-viver_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 7 - Voltar a Viver",
+      "start_time": "23:14",
+      "end_time": "00:10",
+      "episode_description": "Um experiente cirurgião e seu time realizam um transplante de pâncreas-rim em um paciente que perdeu a visão e os rins devido à diabetes. Uma equipe é convocada para operar sobrinha e tia, devido a uma falência renal."
     }
   ]
 }

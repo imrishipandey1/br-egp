@@ -1,30 +1,38 @@
 {
   "channel": "TV Jangadeiro",
-  "date": "16/02/2026",
+  "date": "17/02/2026",
   "schedule": [
     {
-      "show_name": "SBT Folia 2026",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-folia-2026_l_m.jpg",
-      "show_category": "Parade",
-      "start_time": "00:00",
-      "end_time": "01:00",
-      "episode_description": "Leva o público para dentro dos acontecimentos da maior festa popular do país, conectando diferentes regiões do Brasil."
+      "show_name": "Operação Mesquita",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_operac-o-mesquita_l_m.jpg",
+      "show_category": "Entertainment",
+      "start_time": "01:00",
+      "end_time": "01:30",
+      "episode_description": "Descubra o lado B dos famosos, que mostram o seu cotidiano de forma curiosa e divertida por meio de entrevistas. Acompanhe ainda pessoas comuns que estão prestes a protagonizar um grande momento que pode mudar para sempre as suas vidas."
+    },
+    {
+      "show_name": "SBT PodNight",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-podnight_l_m.jpg",
+      "show_category": "Talk",
+      "start_time": "01:30",
+      "end_time": "02:15",
+      "episode_description": "Exibição de podcasts brasileiros líderes de audiência nas plataformas digitais, que abordam temas variados, de cultura e entretenimento a questões sociais."
     },
     {
       "show_name": "SBT Notícias",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-noticias_l_m.jpg",
       "show_category": "News",
-      "start_time": "01:00",
+      "start_time": "02:15",
       "end_time": "04:45",
       "episode_description": "Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia."
     },
     {
-      "show_name": "SBT News Manhã",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-news-manh_l_m.jpg",
+      "show_name": "SBT Manhã",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-manh_l_m.jpg",
       "show_category": "News",
       "start_time": "04:45",
       "end_time": "05:00",
-      "episode_description": "As principais notícias do Brasil e do mundo sobre cultura, economia, política e tecnologia."
+      "episode_description": "O jornal traz os primeiros assuntos do dia e faz uma abordagem sobre os últimos acontecimentos."
     },
     {
       "show_name": "SBT Manhã",
@@ -119,22 +127,22 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_fofocalizando_l_m.jpg",
       "show_category": "Newsmagazine",
       "start_time": "15:30",
-      "end_time": "17:00",
+      "end_time": "16:45",
       "episode_description": "Revista eletrônica com informação, humor e as principais fofocas do mundo dos famosos."
     },
     {
-      "show_name": "Coração Indomável",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_corac-o-indomavel-1_l_m.jpg",
-      "show_category": "Soap",
-      "start_time": "17:00",
-      "end_time": "18:30",
-      "episode_description": "A novela conta a história da pobre Maricruz que, após ter sido abandonada pelo marido, decide se vingar daqueles que a humilharam. Ela descobre ser filha de um homem rico, tornando-se uma mulher da alta sociedade."
+      "show_name": "Benfica x Real Madrid",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-benfica-x-real-madrid_l_m.jpg",
+      "show_category": "UEFA Champions League",
+      "start_time": "16:45",
+      "end_time": "19:00",
+      "episode_description": "Todas as emoções da principal competição de futebol masculino disputada entre clubes europeus."
     },
     {
       "show_name": "Jornal Jangadeiro - 2ª Edição",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-jangadeiro-2-edic-o_l_m.jpg",
       "show_category": "News",
-      "start_time": "18:30",
+      "start_time": "19:00",
       "end_time": "19:45",
       "episode_description": "Acompanhe os principais fatos do dia com matérias, reportagens especiais e denúncias."
     },
