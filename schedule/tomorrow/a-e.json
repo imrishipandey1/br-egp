@@ -1,254 +1,286 @@
 {
   "channel": "A&E",
-  "date": "18/02/2026",
+  "date": "19/02/2026",
   "schedule": [
-    {
-      "show_name": "Os Segredos dos Assassinatos de Chippendales",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-segredos-dos-assassinatos-de-chippendales-s01e02-retirar-as-camadas_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 2 - Retirar as Camadas",
-      "start_time": "00:59",
-      "end_time": "01:50",
-      "episode_description": "Quanto maior o Chippendales fica, mais problemas vai tendo que enfrentar: de mafiosos e dançarinos insatisfeitos, a fanáticos religiosos e seus próprios criadores, obcecados com as suas fortunas."
-    },
-    {
-      "show_name": "Segredos das Celebridades - Sex Tapes",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_segredos-das-celebridades-sex-tapes-s01e02-pamela-anderson-e-tommy-lee_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 2 - Pamela Anderson e Tommy Lee",
-      "start_time": "01:50",
-      "end_time": "02:36",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Me Diga Como Morri",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_me-diga-como-morri-s01e07-suspeita-esmagadora_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 7 - Suspeita Esmagadora",
-      "start_time": "02:36",
-      "end_time": "03:26",
-      "episode_description": "Uma jovem morre em um trágico acidente de carro e é responsabilidade do médico legista iniciar uma investigação completa para determinar se foi realmente um acidente. As primeiras evidências indicam que pode ter havido algo sombrio por trás da morte."
-    },
-    {
-      "show_name": "Acumuladores Compulsivos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos_l_m.jpg",
-      "show_category": "Reality",
-      "start_time": "03:26",
-      "end_time": "04:21",
-      "episode_description": "Eric é forçado a lidar com sua dor emocional enquanto o processo de limpeza revela o belo design deixado por sua falecida esposa."
-    },
-    {
-      "show_name": "Acumuladores Compulsivos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos_l_m.jpg",
-      "show_category": "Reality",
-      "start_time": "04:21",
-      "end_time": "05:11",
-      "episode_description": "Eric é forçado a lidar com sua dor emocional enquanto o processo de limpeza revela o belo design deixado por sua falecida esposa."
-    },
-    {
-      "show_name": "Clientes em Guerra",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_clientes-em-guerra-s02e08-e-proibido-furar-fila_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 8 - É Proibido Furar Fila",
-      "start_time": "05:11",
-      "end_time": "05:35",
-      "episode_description": "Passageiros de um avião decidem que uma mulher seja expulsa; uma briga começa em uma loja no Arizona; em Nova York, ligam para os serviços de emergência por causa de um dedo preso em uma loja; um cliente arrisca a vida para prender um ladrão armado."
-    },
-    {
-      "show_name": "Clientes em Guerra",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_clientes-em-guerra-s02e09-robo-entregador_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 9 - Robô Entregador",
-      "start_time": "05:35",
-      "end_time": "06:00",
-      "episode_description": "Uma cliente insatisfeita prova a tolerância de outros clientes; em Nova York, um especialista em tecnologia envia seu robô para comprar comida para peixes; em um avião em São Francisco, dois viajantes brigam pelo um assento."
-    },
-    {
-      "show_name": "Casos Arquivados",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_casos-arquivados-s02e03-desaparecido-em-altoona_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 3 - Desaparecido em Altoona",
-      "start_time": "06:00",
-      "end_time": "06:46",
-      "episode_description": "Sherry Leighty desapareceu em 1999. Uma década depois, o caso arquivado retorna quando a irmã de Sherry lança uma campanha de mídia social para ajudar a resolver o mistério. Uma dica online revela a verdade assassina e um sinistro segredo de família."
-    },
-    {
-      "show_name": "Assassinatos em Motéis",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_assassinatos-em-moteis-s01e06-um-encontro-casual_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 6 - Um Encontro Casual",
-      "start_time": "06:46",
-      "end_time": "07:32",
-      "episode_description": "Um veterano da Marinha é encontrado brutalmente assassinado no Deluxe Plaza Motel em Baltimore. Seu pescoço e crânio foram esmagados. Além disso, ele teve costelas fraturadas e a coluna quebrada."
-    },
-    {
-      "show_name": "Acusado - Fui Eu que Fiz Isso?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_acusado-fui-eu-que-fiz-isso-s01e09-tiro-na-escada-ou-pai-em-legitima-defesa_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 9",
-      "start_time": "07:32",
-      "end_time": "08:18",
-      "episode_description": "Um homem atira na perna do namorado de sua ex-companheira. Ao ser acusado, ele alega que fez isso apenas para defendê-la e ao filho deles de um intruso. No entanto, a acusação afirma que o vídeo do incidente mostra que foi um ataque."
-    },
-    {
-      "show_name": "Cidade Confidencial",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidade-confidencial-s09e04-soldado-caido-em-fort-meade_l_m.jpg",
-      "show_category": "Temporada 9 Episódio 4 - Soldado Caído em Fort Meade",
-      "start_time": "08:18",
-      "end_time": "09:05",
-      "episode_description": "A comunidade militar de Fort Meade fica chocada quando uma soldado é morta a tiros em sua casa. Por quase um ano, investigadores de diversas agências policiais trabalham para desvendar uma história complexa que culminou em assassinato."
-    },
-    {
-      "show_name": "Cidade Confidencial",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidade-confidencial-s09e05-dor-a-meia-noite-na-georgia_l_m.jpg",
-      "show_category": "Temporada 9 Episódio 5 - Dor à Meia-Noite na Geórgia",
-      "start_time": "09:05",
-      "end_time": "09:55",
-      "episode_description": "O espírito natalino se desvanece na cidade de Marietta, Geórgia, quando um de seus moradores mais festivos é encontrado morto dentro de sua própria casa. A polícia depende dos vizinhos para desvendar uma trama muito traiçoeira que revela segredos ocultos e um culpado totalmente inesperado."
-    },
-    {
-      "show_name": "Casos Arquivados",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_casos-arquivados-s02e07-amor-e-odio_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 7 - Amor e Ódio",
-      "start_time": "09:55",
-      "end_time": "10:45",
-      "episode_description": "Existem cerca de 120 mil casos de assassinato nos Estados Unidos e apenas 1% são resolvidos."
-    },
-    {
-      "show_name": "Casos Arquivados - Mortes no Pântano",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_casos-arquivados-mortes-no-pantano-s01e01-um-assassinato-no-rio-trinity_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 1 - Um Assassinato no Rio Trinity",
-      "start_time": "10:45",
-      "end_time": "11:35",
-      "episode_description": "A adolescente Krystal Jean Baker é encontrada morta debaixo de uma ponte no Texas. Os investigadores não conseguem entender o que aconteceu. A procura pelo assassino dura mais de 14 anos e dá lugar ao surgimento de nova lei."
-    },
-    {
-      "show_name": "Acumuladores Compulsivos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos-s15e07-david-odette_l_m.jpg",
-      "show_category": "Temporada 15 Episódio 7 - David & Odette",
-      "start_time": "11:35",
-      "end_time": "13:05",
-      "episode_description": "David e Odette encheram sua mansão com vista para a montanha com tantas coisas que só podem entrar ou sair por uma escada. Embora Odette tenha contribuído para o desastre, ela ameaça deixar David se não limparem a casa."
-    },
-    {
-      "show_name": "Acumuladores Compulsivos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos_l_m.jpg",
-      "show_category": "Reality",
-      "start_time": "13:05",
-      "end_time": "14:00",
-      "episode_description": "Eric é forçado a lidar com sua dor emocional enquanto o processo de limpeza revela o belo design deixado por sua falecida esposa."
-    },
-    {
-      "show_name": "Acumuladores Compulsivos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos_l_m.jpg",
-      "show_category": "Reality",
-      "start_time": "14:00",
-      "end_time": "14:50",
-      "episode_description": "Eric é forçado a lidar com sua dor emocional enquanto o processo de limpeza revela o belo design deixado por sua falecida esposa."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s01e15_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 15",
-      "start_time": "14:50",
-      "end_time": "15:15",
-      "episode_description": "Um incêndio na Flórida, uma apreensão de drogas em Oklahoma e uma perseguição a pé na Flórida."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s01e16_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 16",
-      "start_time": "15:15",
-      "end_time": "15:40",
-      "episode_description": "Uma perseguição na Carolina do Sul, um acidente de carro em Maryland e um carro de polícia roubado na Carolina do Sul."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s01e17_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 17",
-      "start_time": "15:40",
-      "end_time": "16:05",
-      "episode_description": "Um incêndio em Connecticut, uma perseguição no Arizona e uma apreensão de drogas em Indiana."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s01e18_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 18",
-      "start_time": "16:05",
-      "end_time": "16:30",
-      "episode_description": "Um mandado cumprido em Maryland, uma perseguição na Carolina do Sul e um invasor em Illinois."
-    },
-    {
-      "show_name": "Me Diga Como Morri",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_me-diga-como-morri-s01e04-morto-a-tiros_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 4 - Morto a Tiros",
-      "start_time": "16:30",
-      "end_time": "17:17",
-      "episode_description": "Após um homem ter sido morto a tiros, o patologista Dr. Antoine Wrice trabalha em colaboração com os investigadores para interpretar evidências incomuns encontradas na cena do crime. Este caso complexo pode ser mais do que um típico homicídio."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s10e10-e-assim-que-a-coisa-desmorona_l_m.jpg",
-      "show_category": "Temporada 10 Episódio 10 - É Assim que a Coisa Desmorona",
-      "start_time": "17:17",
-      "end_time": "17:40",
-      "episode_description": "Uma das unidades tem grande valor histórico e Dave é o sortudo descobridor. Enquanto isso, Brandi e Mary se associam para obter um outro cobiçado container e Kenny fica aliviado com um dos seus."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s10e09-a-felicidade-e-uma-arma_l_m.jpg",
-      "show_category": "Temporada 10 Episódio 9 - A Felicidade É uma Arma",
-      "start_time": "17:40",
-      "end_time": "18:05",
-      "episode_description": "El Monte acaba sendo o lugar perfeito para que Mary encontre os itens vintage que sempre procurou. Ivy encontra as relíquias familiares mais divertidas e Darrell se reencontra com um dos seus passatempos favoritos da infância."
-    },
-    {
-      "show_name": "Assassinatos em Motéis",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_assassinatos-em-moteis-s01e06-um-encontro-casual_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 6 - Um Encontro Casual",
-      "start_time": "18:05",
-      "end_time": "18:52",
-      "episode_description": "Um veterano da Marinha é encontrado brutalmente assassinado no Deluxe Plaza Motel em Baltimore. Seu pescoço e crânio foram esmagados. Além disso, ele teve costelas fraturadas e a coluna quebrada."
-    },
     {
       "show_name": "Mulheres Perigosas",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_mulheres-perigosas-s01e03-sharon-nelson-harrelson_l_m.jpg",
       "show_category": "Temporada 1 Episódio 3 - Sharon Nelson Harrelson",
-      "start_time": "18:52",
-      "end_time": "19:39",
+      "start_time": "00:28",
+      "end_time": "01:18",
       "episode_description": "Depois que um bombeiro é encontrado morto em um incêndio, a polícia descobre que não é a primeira vez que sua esposa fica viúva. Os investigadores obtêm uma confissão em um local inesperado."
     },
     {
       "show_name": "Acusado - Fui Eu que Fiz Isso?",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_acusado-fui-eu-que-fiz-isso-s01e06-assassino-a-sangue-frio-ou-atirador-apavorado_l_m.jpg",
       "show_category": "Temporada 1 Episódio 6 - Assassino a Sangue Frio ou Atirador Apavorado?",
-      "start_time": "19:39",
-      "end_time": "20:26",
+      "start_time": "01:18",
+      "end_time": "02:08",
       "episode_description": "Um acidente de carro termina com a morte de um adolescente. O outro motorista, um jovem de 25 anos, é acusado de homicídio em segundo grau por atirar nele logo após a colisão. No entanto, o réu alega legítima defesa."
     },
     {
       "show_name": "Cidade Confidencial",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_cidade-confidencial-s09e05-dor-a-meia-noite-na-georgia_l_m.jpg",
       "show_category": "Temporada 9 Episódio 5 - Dor à Meia-Noite na Geórgia",
-      "start_time": "20:26",
-      "end_time": "21:13",
+      "start_time": "02:08",
+      "end_time": "02:58",
       "episode_description": "O espírito natalino se desvanece na cidade de Marietta, Geórgia, quando um de seus moradores mais festivos é encontrado morto dentro de sua própria casa. A polícia depende dos vizinhos para desvendar uma trama muito traiçoeira que revela segredos ocultos e um culpado totalmente inesperado."
     },
     {
-      "show_name": "Cidade Confidencial",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidade-confidencial-s09e06-o-garoto-desaparecido-de-haddon-township_l_m.jpg",
-      "show_category": "Temporada 9 Episódio 6 - O Garoto Desaparecido de Haddon Township",
-      "start_time": "21:13",
+      "show_name": "Me Diga Como Morri",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_me-diga-como-morri-s01e04-morto-a-tiros_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - Morto a Tiros",
+      "start_time": "02:58",
+      "end_time": "03:45",
+      "episode_description": "Após um homem ter sido morto a tiros, o patologista Dr. Antoine Wrice trabalha em colaboração com os investigadores para interpretar evidências incomuns encontradas na cena do crime. Este caso complexo pode ser mais do que um típico homicídio."
+    },
+    {
+      "show_name": "Acumuladores Compulsivos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "03:45",
+      "end_time": "04:28",
+      "episode_description": "Eric é forçado a lidar com sua dor emocional enquanto o processo de limpeza revela o belo design deixado por sua falecida esposa."
+    },
+    {
+      "show_name": "Acumuladores Compulsivos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "04:28",
+      "end_time": "05:16",
+      "episode_description": "Eric é forçado a lidar com sua dor emocional enquanto o processo de limpeza revela o belo design deixado por sua falecida esposa."
+    },
+    {
+      "show_name": "Clientes em Guerra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_clientes-em-guerra-s02e10-dormindo-em-servico_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 10 - Dormindo em Serviço",
+      "start_time": "05:16",
+      "end_time": "05:38",
+      "episode_description": "Na Pensilvânia, um entregador de pizza ajuda a polícia; na Filadélfia, um cliente acorda rudemente um caixa; em Los Angeles, uma funcionária se defende de um ladrão e outra funcionária usa seu carro para perseguir o ladrão."
+    },
+    {
+      "show_name": "Clientes em Guerra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_clientes-em-guerra-s02e11-drama-no-drive-through_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 11 - Drama no Drive Through",
+      "start_time": "05:38",
+      "end_time": "06:00",
+      "episode_description": "Uma mulher e um empreiteiro entram em conflito por causa de uma construção barulhenta; em um restaurante, a polícia é chamada após um cliente adormecer no drive-thru; um entregador de pizza deixa um esquilo entrar em uma casa."
+    },
+    {
+      "show_name": "Street Cops - São Paulo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_street-cops-s-o-paulo-s01e04-1_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4",
+      "start_time": "06:00",
+      "end_time": "06:27",
+      "episode_description": "Um assassino que passou vinte anos foragido da justiça recebe visita do passado com mandado de prisão para ajustar contas. Dois ladrões tentam fugir da polícia militar em moto; vendedor de drogas tenta esconder provas que o deixariam preso."
+    },
+    {
+      "show_name": "Rota - A Polícia de Elite",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rota-a-policia-de-elite-s01e21_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 21",
+      "start_time": "06:27",
+      "end_time": "06:47",
+      "episode_description": "Durante patrulhamento, agentes da ROTA acabam flagrando dois crimes ligados ao roubo de carros."
+    },
+    {
+      "show_name": "Rota - A Polícia de Elite",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rota-a-policia-de-elite-s01e24_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 24",
+      "start_time": "06:47",
+      "end_time": "07:07",
+      "episode_description": "Uma equipe da ROTA investiga um homem pelo roubo de uma moto e outros agentes colaboram com diversas forças para atender a um assalto a banco."
+    },
+    {
+      "show_name": "Linha de Combate",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_linha-de-combate-s01e19_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 19",
+      "start_time": "07:07",
+      "end_time": "08:08",
+      "episode_description": "Protestos contra medida municipal transformam-se em vandalismo com ruas bloqueadas e barricadas em chamas. Dois cidadãos inocentes são injustamente detidos por um crime que não cometeram, agravando a tensão social."
+    },
+    {
+      "show_name": "Operação Policial",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_operac-o-policial-s03e08_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 8 - Briga entre Vizinhos",
+      "start_time": "08:08",
+      "end_time": "09:00",
+      "episode_description": "A ronda noturna da polícia de São Paulo enfrenta uma briga entre vizinhos e investiga uma suspeita de furto de veículos."
+    },
+    {
+      "show_name": "Casos Arquivados",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_casos-arquivados-s02e04-o-professor-da-escola_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 4 - O Professor da Escola",
+      "start_time": "09:00",
+      "end_time": "09:50",
+      "episode_description": "A professora Christy Mirack, de 25 anos, é encontrada brutalmente assassinada em seu apartamento em Lancaster, Pensilvânia, em 1992, mas não faltam suspeitos."
+    },
+    {
+      "show_name": "Casos Arquivados - Mortes no Pântano",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_casos-arquivados-mortes-no-pantano-s01e02-o-diabo-em-hammond_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - O Diabo em Hammond",
+      "start_time": "09:50",
+      "end_time": "10:40",
+      "episode_description": "Selonia Reed é encontrada assassinada dentro do carro em Hammond. Investigadores movem céus e terra para conseguir encontrar pistas que os levem ao assassino. Porém, o caso permanece sem solução há mais de 30 anos. Até agora."
+    },
+    {
+      "show_name": "Acumuladores Compulsivos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos-s15e05-david-elizabeth_l_m.jpg",
+      "show_category": "Temporada 15 Episódio 5 - David & Elizabeth",
+      "start_time": "10:40",
+      "end_time": "12:20",
+      "episode_description": "David e Elizabeth acumularam durante uma vida inteira. O vício em comprar através da TV quase os fez perder a casa repleta de objetos em caixas fechadas e ratos. Por conta disso, o médico de Elizabeth ameaça denunciá-los."
+    },
+    {
+      "show_name": "Acumuladores Compulsivos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos-s14e05-rosela_l_m.jpg",
+      "show_category": "Temporada 14 Episódio 5 - Rosela",
+      "start_time": "12:20",
+      "end_time": "14:00",
+      "episode_description": "Roz cresceu na costa leste do Canadá com 13 irmãos e nada era desperdiçado. Quando seu primeiro casamento acabou e ela começou a namorar outro colecionador, sua casa ficou incontrolável. Com a ajuda da equipe, ela pretende arrumar sua vida."
+    },
+    {
+      "show_name": "Polícia em Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s01e17_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 17",
+      "start_time": "14:00",
+      "end_time": "14:25",
+      "episode_description": "Um incêndio em Connecticut, uma perseguição no Arizona e uma apreensão de drogas em Indiana."
+    },
+    {
+      "show_name": "Polícia em Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s01e18_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 18",
+      "start_time": "14:25",
+      "end_time": "14:50",
+      "episode_description": "Um mandado cumprido em Maryland, uma perseguição na Carolina do Sul e um invasor em Illinois."
+    },
+    {
+      "show_name": "Polícia em Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s01e19_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 19",
+      "start_time": "14:50",
+      "end_time": "15:15",
+      "episode_description": "Consumo de bebida alcoólica por menores e uma ocorrência doméstica na Flórida."
+    },
+    {
+      "show_name": "Polícia em Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s01e20_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 20",
+      "start_time": "15:15",
+      "end_time": "15:40",
+      "episode_description": "Cumprindo um mandado na Louisiana, um homem embriagado em Indiana e uma infração por dirigir sob efeito de álcool no Arizona."
+    },
+    {
+      "show_name": "Me Diga Como Morri",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_me-diga-como-morri-s01e03-cair-em-desgraca_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3 - Cair em Desgraça",
+      "start_time": "15:40",
+      "end_time": "16:28",
+      "episode_description": "Uma mãe de três filhos é encontrada inconsciente sob a janela aberta do segundo andar, e o médico legista Dr. Dragovic rapidamente suspeita ter acontecido algo mais complexo do que aparenta. Foi realmente um acidente fatal ou esconde algo sinistro?"
+    },
+    {
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s10e14-o-valor-das-bonecas_l_m.jpg",
+      "show_category": "Temporada 10 Episódio 14 - O Valor das Bonecas",
+      "start_time": "16:28",
+      "end_time": "16:51",
+      "episode_description": "Jarrod encontra um item que sempre sonhou, enquanto Ivy e Rene têm a oportunidade de expandir seus horizontes empresariais para os calçados e a telefonia móvel."
+    },
+    {
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s10e15-loja-vintage_l_m.jpg",
+      "show_category": "Temporada 10 Episódio 15 - Loja Vintage",
+      "start_time": "16:51",
+      "end_time": "17:14",
+      "episode_description": "Emily vai embora e surpreende um colega; Ivy encontra uma coleção vintage de acessórios; Dave enfrenta uma auditoria inesperada."
+    },
+    {
+      "show_name": "Street Cops - São Paulo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_street-cops-s-o-paulo-s01e01-1_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1",
+      "start_time": "17:14",
+      "end_time": "17:43",
+      "episode_description": "No sul de São Paulo, a Polícia Militar desmantela um importante ponto de venda de drogas na região. A Polícia Civil tem um mandado de prisão para um membro de uma quadrilha criminosa, mas para capturá-lo, eles precisam lidar com a mãe dele."
+    },
+    {
+      "show_name": "Street Cops - São Paulo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_street-cops-s-o-paulo-s01e03-1_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3",
+      "start_time": "17:43",
+      "end_time": "18:11",
+      "episode_description": "Integrantes de quadrilha dedicada ao roubo e clonagem de cartões se escondem sob fachada de uma família, mas até no lugar menos esperado se encontram provas do crime; um roubo de veículo desencadeia uma perseguição em alta velocidade."
+    },
+    {
+      "show_name": "Rota - A Polícia de Elite",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rota-a-policia-de-elite-s01e18_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 18",
+      "start_time": "18:11",
+      "end_time": "18:28",
+      "episode_description": "Durante um dia de patrulhamento, equipes da ROTA acabam atendendo à uma denúncia sobre um ponto de venda de drogas."
+    },
+    {
+      "show_name": "Rota - A Polícia de Elite",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rota-a-policia-de-elite-s01e20_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 20",
+      "start_time": "18:28",
+      "end_time": "18:44",
+      "episode_description": "Ao se dirigirem a uma região conhecida pelo roubo de veículos, equipes da ROTA questionam dois suspeitos acerca de um carro furtado."
+    },
+    {
+      "show_name": "Rota - A Polícia de Elite",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rota-a-policia-de-elite-s01e07_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 7",
+      "start_time": "18:44",
+      "end_time": "19:01",
+      "episode_description": "Durante um patrulhamento noturno de equipes da ROTA, os agentes investigam biqueiras, bares e vielas em busca de suspeitos."
+    },
+    {
+      "show_name": "Rota - A Polícia de Elite",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rota-a-policia-de-elite-s01e17_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 17",
+      "start_time": "19:01",
+      "end_time": "19:18",
+      "episode_description": "A partir de uma denúncia sobre uma casa ligada ao tráfico de drogas, a equipe do Coronel Telhada encontra duas mulheres suspeitas de participarem de um esquema empresarial criminoso."
+    },
+    {
+      "show_name": "Linha de Combate",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_linha-de-combate-s01e20_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 20",
+      "start_time": "19:18",
+      "end_time": "20:21",
+      "episode_description": "Traficantes no Sul tentam enganar a polícia. Os criminosos foram apelidados de fantasmas do crime. Trabalhador é rendido ao chegar em casa ao voltar do trabalho. Uma testemunha, um policial de folga, tenta salvar a vítima."
+    },
+    {
+      "show_name": "Operação Policial",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_operac-o-policial-s03e09_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 9 - Acidente de Trânsito",
+      "start_time": "20:21",
+      "end_time": "21:08",
+      "episode_description": "Uma equipe da polícia investiga o roubo de um veículo ao mesmo tempo que é acionada para prestar auxílio em um acidente de trânsito."
+    },
+    {
+      "show_name": "Operação Policial",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_operac-o-policial-s03e10_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 10 - Mandados de Prisão",
+      "start_time": "21:08",
       "end_time": "22:00",
-      "episode_description": "Haddon Township, em Nova Jersey, vira de cabeça para baixo quando uma criança desaparece. Moradores se unem para vasculhar as ruas e parques locais e ajudar os detetives a desvendar a identidade de um assassino improvável que vive em sua comunidade."
+      "episode_description": "Assista operação da polícia no cumprimento de três mandados de prisão de indivíduos suspeitos de crime de extorsão."
     },
     {
-      "show_name": "Agora Estamos Sozinhos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_agora-estamos-sozinhos-2018_l_m.jpg",
-      "show_category": "Science fiction / 2018",
+      "show_name": "Bent",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bent-2018_l_m.jpg",
+      "show_category": "Crime drama / 2018 /5.2",
       "start_time": "22:00",
-      "end_time": "23:38",
-      "episode_description": "Depois que a raça humana é aniquilada, Del fica sozinho no mundo. Ele vive em uma cidade pequena, indo de casa em casa, coletando coisas úteis e enterrando os mortos, até que uma intrusa aparece para ficar."
+      "end_time": "23:34",
+      "episode_description": "Um ex-policial desacreditado sai da prisão querendo se vingar da pessoa responsável por sua prisão e pela morte de seu parceiro. Em busca da verdade sobre o que aconteceu, ele investiga um misterioso assassinato. Gallagher logo descobre que o crime envolve uma grande conspiração internacional."
     },
     {
-      "show_name": "Assassinatos em Motéis",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_assassinatos-em-moteis-s01e06-um-encontro-casual_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 6 - Um Encontro Casual",
-      "start_time": "23:38",
+      "show_name": "Street Cops - São Paulo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_street-cops-s-o-paulo-s01e01-1_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1",
+      "start_time": "23:34",
       "end_time": "",
-      "episode_description": "Um veterano da Marinha é encontrado brutalmente assassinado no Deluxe Plaza Motel em Baltimore. Seu pescoço e crânio foram esmagados. Além disso, ele teve costelas fraturadas e a coluna quebrada."
+      "episode_description": "No sul de São Paulo, a Polícia Militar desmantela um importante ponto de venda de drogas na região. A Polícia Civil tem um mandado de prisão para um membro de uma quadrilha criminosa, mas para capturá-lo, eles precisam lidar com a mãe dele."
     }
   ]
 }

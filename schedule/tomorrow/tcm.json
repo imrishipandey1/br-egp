@@ -1,36 +1,52 @@
 {
   "channel": "TCM",
-  "date": "18/02/2026",
+  "date": "19/02/2026",
   "schedule": [
     {
-      "show_name": "O Prisioneiro do Rock",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-prisioneiro-do-rock-1957_l_m.jpg",
-      "show_category": "Musical / 1957",
-      "start_time": "01:21",
-      "end_time": "02:57",
-      "episode_description": "Vince Everett é condenado por homicídio culposo após se envolver em uma briga de bar enquanto tentava defender uma mulher. Na prisão, Everett encontra a salvação quando seu companheiro de cela, um cantor chamado Hunk Houghton, o ouve cantar e acredita que ele pode ser uma futura estrela. Uma vez livre, Everett consegue emprego em uma boate e encontra Peggy Van Alden, uma jovem que trabalha para uma gravadora e que também enxerga o talento de Everett."
+      "show_name": "Signos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_signos-s01e11-a-fronteira-entre-aquarios-e-peixes_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 11 - A Fronteira Entre Aquários e Peixes",
+      "start_time": "00:46",
+      "end_time": "01:40",
+      "episode_description": "Um mês depois da morte de Pablo, Laura busca retomar sua linha de investigação, ao mesmo tempo em que tenta superar a perda e enfrenta-se à burocracia judicial."
     },
     {
-      "show_name": "Deus Sabe Quanto Amei",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_deus-sabe-quanto-amei-1958_l_m.jpg",
-      "show_category": "Drama / 1958",
-      "start_time": "02:57",
-      "end_time": "05:13",
-      "episode_description": "O veterano amargo, alcoólico e ex-escritor Dave Hirsh volta para casa depois de anos. Seu irmão o apresenta para a professora de Inglês Gwen French, mas Dave prefere passar seus dias com um apostador profissional que gosta de festas, Bama Dillert."
+      "show_name": "O Pecado de Todos Nós",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-pecado-de-todos-nos-1967_l_m.jpg",
+      "show_category": "Drama / 1967",
+      "start_time": "01:40",
+      "end_time": "03:29",
+      "episode_description": "Penderton é um major que esconde sua homossexualidade a sete chaves. Ele tem um casamento problemático com Leonora, que vive traindo o marido. Ao descobrir que ela mantém um caso com um jovem recruta por quem é apaixonado, ele fica furioso."
+    },
+    {
+      "show_name": "A Noite do Iguana",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-noite-do-iguana-1964_l_m.jpg",
+      "show_category": "Drama / 1964",
+      "start_time": "03:29",
+      "end_time": "05:26",
+      "episode_description": "Um pastor alcoólatra leva um grupo de professores de meia-idade para fazer turismo no México. Mas ele arrisca seu emprego e sua liberdade por assediar sexualmente seus clientes e tem que encarar o fracasso que é a sua vida."
     },
     {
       "show_name": "Hollywood One on One",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
       "show_category": "Talk",
-      "start_time": "05:13",
-      "end_time": "05:48",
+      "start_time": "05:26",
+      "end_time": "05:36",
       "episode_description": "Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!"
     },
     {
       "show_name": "Hollywood One on One",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
       "show_category": "Talk",
-      "start_time": "05:48",
+      "start_time": "05:36",
+      "end_time": "05:49",
+      "episode_description": "Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!"
+    },
+    {
+      "show_name": "Hollywood One on One",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
+      "show_category": "Talk",
+      "start_time": "05:49",
       "end_time": "06:00",
       "episode_description": "Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!"
     },
@@ -39,104 +55,96 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
       "show_category": "Talk",
       "start_time": "06:00",
-      "end_time": "06:37",
+      "end_time": "06:36",
       "episode_description": "Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!"
     },
     {
       "show_name": "Hollywood One on One",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
       "show_category": "Talk",
-      "start_time": "06:37",
-      "end_time": "07:12",
+      "start_time": "06:36",
+      "end_time": "07:11",
       "episode_description": "Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!"
-    },
-    {
-      "show_name": "Hollywood One on One",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
-      "show_category": "Talk",
-      "start_time": "07:12",
-      "end_time": "07:29",
-      "episode_description": "Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!"
-    },
-    {
-      "show_name": "Hollywood One on One",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
-      "show_category": "Talk",
-      "start_time": "07:29",
-      "end_time": "07:39",
-      "episode_description": "Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!"
-    },
-    {
-      "show_name": "As Sete Faces do Dr. Lao",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_as-sete-faces-do-dr-lao-1964_l_m.jpg",
-      "show_category": "Fantasy / 1964",
-      "start_time": "07:39",
-      "end_time": "09:22",
-      "episode_description": "Um circo itinerante comandado pelo misterioso Dr. Lao chega a pequena Abalone, no Arizona. Despertando sentimentos de curiosidade e constrangimento na população, suas exóticas atrações transformam magicamente a vida da comunidade para sempre."
-    },
-    {
-      "show_name": "O Legado do Grande Mestre",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-legado-do-grande-mestre-2018_l_m.jpg",
-      "show_category": "Action / 2018",
-      "start_time": "09:22",
-      "end_time": "11:11",
-      "episode_description": "Zhang retoma seu papel titular como Cheung Tin Chi, um mestre da Wing Chun que procura seu lugar no mundo. Pobre e com um filho pra criar, ele enfrenta diversos problemas em sua trajetória."
-    },
-    {
-      "show_name": "A Volta ao Mundo em 80 Dias",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-volta-ao-mundo-em-80-dias-1956-1_l_m.jpg",
-      "show_category": "Comedy drama / 1956",
-      "start_time": "11:11",
-      "end_time": "14:02",
-      "episode_description": "Adaptação cinematográfica do romance de Julio Verne sobre um inglês do século 19 que aposta ser capaz de dar a volta ao mundo em oitenta dias."
-    },
-    {
-      "show_name": "Águia Solitária",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_aguia-solitaria-1957_l_m.jpg",
-      "show_category": "Biography / 1957",
-      "start_time": "14:02",
-      "end_time": "16:22",
-      "episode_description": "O aviador Charles Lindbergh arrisca sua vida para completar a primeira travessia do oceano Atlântico em um voo solo sem escalas. Para sobreviver à jornada, Lindbergh precisa superar sua própria fadiga e a natureza, indo desde gelo nas asas até neblina. Ao longo do caminho, Lindbergh relembra seu passado como piloto de correio e de acrobacias aéreas."
     },
     {
       "show_name": "Rastros de Ódio",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_rastros-de-odio-1956-1_l_m.jpg",
       "show_category": "Western / 1956",
-      "start_time": "16:22",
-      "end_time": "18:25",
+      "start_time": "07:11",
+      "end_time": "09:13",
       "episode_description": "O veterano da Guerra Civil Ethan Edwards chega ao Texas em 1868 e encontra o seu irmão e a família dele. No dia seguinte, Comanches invadem o rancho, matam o seu irmão e Martha, a esposa dele, e raptam as duas filhas do casal. Ethan parte então em uma busca vingativa com o companheiro Martin, um mestiço que logo percebe que Ethan está obcecado por matar os índios. Ao encontrarem o corpo da mais velha, saem em busca da caçula, por quem procuram mais 5 anos no deserto."
     },
     {
-      "show_name": "Sangue na Lua",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sangue-na-lua-1948_l_m.jpg",
-      "show_category": "Western / 1948",
-      "start_time": "18:25",
-      "end_time": "19:56",
-      "episode_description": "O vaqueiro Jim Garry intervém em uma disputa de gado a pedido do velho amigo Tate Riling. Quando Jim chega, logo fica aparente que o amigo não foi completamente honesto. Ele descobre que Tate planeja enganar um rancheiro local e levar uma fortuna."
+      "show_name": "2001: Uma Odisseia no Espaço",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_2001-uma-odisseia-no-espaco-1968-2_l_m.jpg",
+      "show_category": "Science fiction / 1968",
+      "start_time": "09:13",
+      "end_time": "11:36",
+      "episode_description": "Desde a pré-história, um misterioso monolito negro parece emitir sinais de outra civilização interferindo no planeta Terra. Quatro milhões de anos depois, no século 21, uma equipe de astronautas liderados pelos experientes David Bowman e Frank Poole é enviada a Júpiter para investigar o enigmático monolito na nave Discovery, totalmente controlada pelo computador HAL 9000. Entretanto, no meio da viagem, HAL entra em pane e tenta assumir o controle da nave, decidindo assim eliminar os tripulantes."
     },
     {
-      "show_name": "Deserto Particular",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_deserto-particular-2021_l_m.jpg",
-      "show_category": "Drama / 2021",
-      "start_time": "19:56",
+      "show_name": "Bullitt",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bullitt-1968_l_m.jpg",
+      "show_category": "Crime drama / 1968 /7.5",
+      "start_time": "11:36",
+      "end_time": "13:33",
+      "episode_description": "Frank Bullitt e dois outros policiais são escalados para um caso aparentemente simples: vigiar uma testemunha por 24 h antes que ele se apresente no tribunal. Mas policiais e testemunhas são assassinados e Frank jura capturar os autores do crime."
+    },
+    {
+      "show_name": "A Grande Sacada",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-grande-sacada-2017_l_m.jpg",
+      "show_category": "Crime drama / 2017",
+      "start_time": "13:33",
+      "end_time": "15:38",
+      "episode_description": "Um jovem policial ajuda uma força-tarefa e uma agente infiltrada a capturar um grupo criminoso que comete fraudes telefônicas."
+    },
+    {
+      "show_name": "As Aventuras de Huckleberry Finn",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_as-aventuras-de-huckleberry-finn-1960_l_m.jpg",
+      "show_category": "Comedy drama / 1960",
+      "start_time": "15:38",
+      "end_time": "17:28",
+      "episode_description": "O jovem aventureiro Huckleberry Finn precisa de agitação na vida. Seu pai bêbado tenta sequestrá-lo, mas ele simula a própria morte e escapa numa jangada com o escravo Jim pelo rio Mississippi. Uma amizade improvável surge entre eles."
+    },
+    {
+      "show_name": "Bonnie e Clyde - Uma Rajada de Balas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bonnie-e-clyde-uma-rajada-de-balas-1967_l_m.jpg",
+      "show_category": "Crime drama / 1967",
+      "start_time": "17:28",
+      "end_time": "19:22",
+      "episode_description": "Bonnie Parker se apaixona por um ex-presidiário, Clyde Barrow e decide acompanhá-lo. Juntos, iniciam uma carreira de crimes roubando carros e assaltando bancos até serem perseguidos pela polícia por todo o país."
+    },
+    {
+      "show_name": "O Desafio das Águias",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-desafio-das-aguias-1969_l_m.jpg",
+      "show_category": "War / 1969",
+      "start_time": "19:22",
       "end_time": "22:00",
-      "episode_description": "Daniel é um policial exemplar, mas acaba cometendo um erro que coloca em risco sua carreira e sua honra. Quando nada mais parece o prender a Curitiba, ele parte em busca de Sara, uma mulher com quem se relaciona virtualmente."
-    },
-    {
-      "show_name": "O Homem Errado",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-homem-errado-1956_l_m.jpg",
-      "show_category": "Crime drama / 1956",
-      "start_time": "22:00",
-      "end_time": "23:46",
-      "episode_description": "O músico Manny Balestrero precisa de dinheiro para o tratamento dentário da mulher Rose. Quando visita a seguradora, alguém se engana e o identifica como um assaltante. O advogado de defesa terá de trabalhar para provar que Manny não é um criminoso."
+      "episode_description": "Durante a Segunda Guerra Mundial, um general dos Estados Unidos é capturado e feito prisioneiro no quartel-general da SS, nos Alpes da Baviera. Um grupo de soldados aliados tem a difícil missão de resgatá-lo. A operação torna-se ainda mais complicada quando descobrem que há um traidor entre eles."
     },
     {
       "show_name": "Signos",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_signos-s01e10-a-natureza-dos-signos_l_m.jpg",
       "show_category": "Temporada 1 Episódio 10 - A Natureza dos Signos",
-      "start_time": "23:46",
-      "end_time": "",
+      "start_time": "22:00",
+      "end_time": "22:58",
       "episode_description": "Depois de detê-lo, Pablo leva Antonio à delegacia de Penitentes enquanto busca uma maneira de conta a Laura o que está acontecendo com seu irmão."
+    },
+    {
+      "show_name": "Signos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_signos-s01e11-a-fronteira-entre-aquarios-e-peixes_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 11 - A Fronteira Entre Aquários e Peixes",
+      "start_time": "22:58",
+      "end_time": "23:52",
+      "episode_description": "Um mês depois da morte de Pablo, Laura busca retomar sua linha de investigação, ao mesmo tempo em que tenta superar a perda e enfrenta-se à burocracia judicial."
+    },
+    {
+      "show_name": "Herança da Carne",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_heranca-da-carne-1960_l_m.jpg",
+      "show_category": "Drama / 1960",
+      "start_time": "23:52",
+      "end_time": "",
+      "episode_description": "Wade Hunnicutt é o homem mais poderoso e mulherengo da cidade. Quando seu filho Theron se torna um adulto, Wade decide fazer dele um homem de verdade. Theron engravida a filha de um comerciante e descobre segredos perturbadores sobre sua família."
     }
   ]
 }

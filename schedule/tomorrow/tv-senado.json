@@ -1,78 +1,86 @@
 {
   "channel": "TV SENADO",
-  "date": "18/02/2026",
+  "date": "19/02/2026",
   "schedule": [
     {
-      "show_name": "A Voz de Ruy",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-voz-de-ruy-2024_l_m.jpg",
-      "show_category": "Documentary / 2024",
-      "start_time": "00:00",
-      "end_time": "01:20",
-      "episode_description": "Reconhecido por suas propostas políticas e educacionais, Ruy Barbosa se tornou uma referência na defesa das liberdades individuais e de imprensa."
+      "show_name": "Cleo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cleo_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "00:06",
+      "end_time": "01:05",
+      "episode_description": "Um breve retrato da vida e obra de Cleonice Berardinelli, ou simplesmente Dona Cleo, imortal da Academia Brasileira de Letras e uma das maiores intelectuais brasileiras."
     },
     {
-      "show_name": "35 - O Assalto ao Poder",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_35-o-assalto-ao-poder-2002_l_m.jpg",
-      "show_category": "Documentary / 2002 /7.2",
-      "start_time": "01:20",
-      "end_time": "03:00",
-      "episode_description": "O ano de 1935 estava chegando ao fim quando três levantes militares, em três diferentes capitais brasileiras, tentaram derrubar o governo de Getúlio Vargas."
+      "show_name": "As Várias Vidas de Tânia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_as-varias-vidas-de-tania_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "01:05",
+      "end_time": "01:46",
+      "episode_description": "A vida e a obra da alagoana Tânia de Maya Pedrosa, artista autodidata e colecionadora de arte popular brasileira."
     },
     {
-      "show_name": "Agenda Econômica",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_agenda-economica-1_l_m.jpg",
-      "show_category": "Bus./financial",
-      "start_time": "03:00",
-      "end_time": "03:30",
-      "episode_description": "Economistas, formuladores de políticas públicas, acadêmicos, intelectuais e parlamentares analisam questões da economia nacional e internacional."
+      "show_name": "Maria Luiza",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_maria-luiza-2020_l_m.jpg",
+      "show_category": "Documentary / 2020 /9.0",
+      "start_time": "01:46",
+      "end_time": "03:07",
+      "episode_description": "Maria Luiza da Silva é a primeira transexual na história das Forças Armadas brasileiras. Após 22 anos de trabalho como militar, foi aposentada por invalidez. Conheça as motivações para impedi-la de vestir a farda feminina e a sua trajetória de afirmação como mulher trans, militar e católica."
     },
     {
       "show_name": "Salão Nobre",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sal-o-nobre_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "03:30",
-      "end_time": "04:00",
+      "start_time": "03:07",
+      "end_time": "03:36",
       "episode_description": "Assista a temas de relevância nacional com líderes partidários, presidentes das comissões e autores."
     },
     {
       "show_name": "Em Discussão",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_em-discuss-o-2_l_m.jpg",
       "show_category": "Educational",
-      "start_time": "04:00",
-      "end_time": "04:30",
+      "start_time": "03:36",
+      "end_time": "04:02",
       "episode_description": "As principais discussões realizadas nas audiências públicas promovidas pelo Senado."
     },
     {
       "show_name": "TV Senado Live",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_tv-senado-live_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "04:30",
-      "end_time": "05:00",
+      "start_time": "04:02",
+      "end_time": "04:30",
       "episode_description": "Veja entrevistas com a participação do público sobre os grandes temas em pauta no país."
     },
     {
       "show_name": "Parlamento Brasil",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "05:00",
-      "end_time": "05:30",
+      "start_time": "04:30",
+      "end_time": "05:00",
       "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
     },
     {
       "show_name": "Assunto de Estado",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_assunto-de-estado_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "05:30",
-      "end_time": "06:00",
+      "start_time": "05:00",
+      "end_time": "05:30",
       "episode_description": "Espaço para que senadores comentem questões regionais e locais e preste contas aos eleitores."
     },
     {
+      "show_name": "Agenda Econômica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_agenda-economica-1_l_m.jpg",
+      "show_category": "Bus./financial",
+      "start_time": "05:30",
+      "end_time": "06:00",
+      "episode_description": "Economistas, formuladores de políticas públicas, acadêmicos, intelectuais e parlamentares analisam questões da economia nacional e internacional."
+    },
+    {
       "show_name": "Amazônia, Arqueologia da Floresta",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_amazonia-arqueologia-da-floresta-s01e02-conchas-e-ossos_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 2 - Conchas e Ossos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_amazonia-arqueologia-da-floresta-s01e03-o-tabaco-e-a-cerveja_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3 - O Tabaco e a Cerveja",
       "start_time": "06:00",
       "end_time": "07:00",
-      "episode_description": "Há 4 mil anos o clima da região amazônica mudou e novas camadas de conchas e terra foram adicionadas ao sítio. A equipe encontra muitos vestígios de um cemitério datado dessa época."
+      "episode_description": "O sudoeste da Amazônia foi um importante centro de domesticação de plantas. Os vestígios desse processo são encontrados nos sítios arqueológicos da região, onde o passado e o presente estão profundamente conectados."
     },
     {
       "show_name": "Coleções",
@@ -83,12 +91,12 @@
       "episode_description": "O programa apresenta os principais e mais marcantes elementos da cultura brasileira por meio de viagens pelo país. A série de linguagem documental para a televisão tem como foco os principais elementos da cultura regional brasileira."
     },
     {
-      "show_name": "Assunto de Estado",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_assunto-de-estado_l_m.jpg",
-      "show_category": "Politics",
+      "show_name": "Agenda Econômica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_agenda-economica-1_l_m.jpg",
+      "show_category": "Bus./financial",
       "start_time": "07:30",
       "end_time": "08:00",
-      "episode_description": "Espaço para que senadores comentem questões regionais e locais e preste contas aos eleitores."
+      "episode_description": "Economistas, formuladores de políticas públicas, acadêmicos, intelectuais e parlamentares analisam questões da economia nacional e internacional."
     },
     {
       "show_name": "Cidadania",
@@ -115,12 +123,12 @@
       "episode_description": "Espaço para que senadores comentem questões regionais e locais e preste contas aos eleitores."
     },
     {
-      "show_name": "Agenda Econômica",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_agenda-economica-1_l_m.jpg",
-      "show_category": "Bus./financial",
+      "show_name": "Salão Nobre",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sal-o-nobre_l_m.jpg",
+      "show_category": "Politics",
       "start_time": "09:30",
       "end_time": "10:00",
-      "episode_description": "Economistas, formuladores de políticas públicas, acadêmicos, intelectuais e parlamentares analisam questões da economia nacional e internacional."
+      "episode_description": "Assista a temas de relevância nacional com líderes partidários, presidentes das comissões e autores."
     },
     {
       "show_name": "Cidadania",
@@ -131,12 +139,12 @@
       "episode_description": "Entrevistas semanais sobre assuntos da atualidade, com a participação de parlamentares, especialistas e representantes de organizações sociais."
     },
     {
-      "show_name": "Salão Nobre",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sal-o-nobre_l_m.jpg",
-      "show_category": "Politics",
+      "show_name": "EcoSenado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ecosenado-1_l_m.jpg",
+      "show_category": "Environment",
       "start_time": "10:30",
       "end_time": "11:00",
-      "episode_description": "Assista a temas de relevância nacional com líderes partidários, presidentes das comissões e autores."
+      "episode_description": "Assuntos relevantes e impactam o meio ambiente com participação de especialistas, políticos, biólogos e lideranças comunitárias."
     },
     {
       "show_name": "Em Discussão",
@@ -147,92 +155,92 @@
       "episode_description": "As principais discussões realizadas nas audiências públicas promovidas pelo Senado."
     },
     {
-      "show_name": "Cidadania",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidadania_l_m.jpg",
-      "show_category": "Interview",
-      "start_time": "11:30",
-      "end_time": "12:00",
-      "episode_description": "Entrevistas semanais sobre assuntos da atualidade, com a participação de parlamentares, especialistas e representantes de organizações sociais."
-    },
-    {
       "show_name": "Parlamento Brasil",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "12:00",
-      "end_time": "12:30",
+      "start_time": "11:30",
+      "end_time": "12:00",
       "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
     },
     {
       "show_name": "TV Senado Live",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_tv-senado-live_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "12:30",
-      "end_time": "13:00",
+      "start_time": "12:00",
+      "end_time": "12:30",
       "episode_description": "Veja entrevistas com a participação do público sobre os grandes temas em pauta no país."
     },
     {
-      "show_name": "EcoSenado",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_ecosenado-1_l_m.jpg",
-      "show_category": "Environment",
+      "show_name": "Agenda Econômica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_agenda-economica-1_l_m.jpg",
+      "show_category": "Bus./financial",
+      "start_time": "12:30",
+      "end_time": "13:00",
+      "episode_description": "Economistas, formuladores de políticas públicas, acadêmicos, intelectuais e parlamentares analisam questões da economia nacional e internacional."
+    },
+    {
+      "show_name": "Cidadania",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidadania_l_m.jpg",
+      "show_category": "Interview",
       "start_time": "13:00",
-      "end_time": "13:30",
-      "episode_description": "Assuntos relevantes e impactam o meio ambiente com participação de especialistas, políticos, biólogos e lideranças comunitárias."
+      "end_time": "13:26",
+      "episode_description": "Entrevistas semanais sobre assuntos da atualidade, com a participação de parlamentares, especialistas e representantes de organizações sociais."
     },
     {
       "show_name": "Senado Notícias",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_senado-noticias_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "13:30",
-      "end_time": "14:00",
+      "start_time": "13:26",
+      "end_time": "13:56",
       "episode_description": "Acompanhe as últimas notícias do Senado, entre as transmissões ao vivo das reuniões das comissões, do plenário e os programas de grade da emissora."
     },
     {
-      "show_name": "Estúdio A",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_estudio-a_l_m.jpg",
-      "show_category": "Music",
-      "start_time": "14:00",
-      "end_time": "14:49",
-      "episode_description": "Programa apresenta música popular brasileira mesclando entrevista e músicas gravadas em estúdio."
+      "show_name": "A Última Abolição",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-ultima-abolic-o-2018_l_m.jpg",
+      "show_category": "Documentary / 2018",
+      "start_time": "13:56",
+      "end_time": "15:23",
+      "episode_description": "O documentário aborda a escravidão no Brasil com especial enfoque no período da abolição, destacando os movimentos abolicionistas, seus aliados e inimigos."
     },
     {
-      "show_name": "Espaço Cultural",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_espaco-cultural-1_l_m.jpg",
-      "show_category": "Music",
-      "start_time": "14:49",
-      "end_time": "15:35",
-      "episode_description": "O Baile do Mestre Cupijó sobe ao palco da Caixa Cultural em Brasília com espetáculo vibrante dedicado à preservação dos ritmos melódicos amazônicos."
+      "show_name": "Libertárixs",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_libertarixs_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "15:23",
+      "end_time": "15:51",
+      "episode_description": "Uma escola contemporânea criada dentro de um terreiro de candomblé e outra que funcionava 150 anos atrás no centro do Rio de Janeiro. Em comum, professores negros e uma prática pedagógica que favorece a autoestima das crianças afrodescendentes."
     },
     {
-      "show_name": "Concertos em Geral",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_concertos-em-geral_l_m.jpg",
-      "show_category": "Music",
-      "start_time": "15:35",
-      "end_time": "16:30",
-      "episode_description": "Anastasiya Evsina tem se destacado no mundo do piano clássico, apresentando-se em palcos prestigiados do mundo inteiro. Neste programa, ela fala um pouco da sua trajetória pianística."
+      "show_name": "Libertárixs",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_libertarixs_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "15:51",
+      "end_time": "16:19",
+      "episode_description": "Uma escola contemporânea criada dentro de um terreiro de candomblé e outra que funcionava 150 anos atrás no centro do Rio de Janeiro. Em comum, professores negros e uma prática pedagógica que favorece a autoestima das crianças afrodescendentes."
     },
     {
-      "show_name": "Estúdio A",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_estudio-a_l_m.jpg",
-      "show_category": "Music",
-      "start_time": "16:30",
-      "end_time": "17:30",
-      "episode_description": "Programa apresenta música popular brasileira mesclando entrevista e músicas gravadas em estúdio."
+      "show_name": "As Várias Vidas de Tânia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_as-varias-vidas-de-tania_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "16:19",
+      "end_time": "16:59",
+      "episode_description": "A vida e a obra da alagoana Tânia de Maya Pedrosa, artista autodidata e colecionadora de arte popular brasileira."
     },
     {
-      "show_name": "Espaço Cultural",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_espaco-cultural-1_l_m.jpg",
-      "show_category": "Music",
-      "start_time": "17:30",
-      "end_time": "18:25",
-      "episode_description": "O Baile do Mestre Cupijó sobe ao palco da Caixa Cultural em Brasília com espetáculo vibrante dedicado à preservação dos ritmos melódicos amazônicos."
+      "show_name": "Rio, Negro",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rio-negro-2023_l_m.jpg",
+      "show_category": "Documentary / 2023",
+      "start_time": "16:59",
+      "end_time": "18:39",
+      "episode_description": "Um olhar possível para a história do Rio de Janeiro, assentado na presença e contribuição da população negra de origem africana na formação da cidade. A partir de entrevistas e amplo material de arquivo, a narrativa busca desvelar como a população negra forjou trajetórias individuais e laços comunitários em uma cidade diáspora marcada pelas disputas em torno do projeto civilizatório das elites brancas."
     },
     {
-      "show_name": "Concertos em Geral",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_concertos-em-geral_l_m.jpg",
-      "show_category": "Music",
-      "start_time": "18:25",
+      "show_name": "Soletrando o Orgulho",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soletrando-o-orgulho_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "18:39",
       "end_time": "19:30",
-      "episode_description": "Anastasiya Evsina tem se destacado no mundo do piano clássico, apresentando-se em palcos prestigiados do mundo inteiro. Neste programa, ela fala um pouco da sua trajetória pianística."
+      "episode_description": "Nove pessoas, cada uma pertencente a uma das comunidades que formam o acrônimo LGBTIQA+, compartilham como reconheceram sua identidade."
     },
     {
       "show_name": "Senado Notícias",
@@ -243,52 +251,44 @@
       "episode_description": "Acompanhe as últimas notícias do Senado, entre as transmissões ao vivo das reuniões das comissões, do plenário e os programas de grade da emissora."
     },
     {
+      "show_name": "Em Discussão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_em-discuss-o-2_l_m.jpg",
+      "show_category": "Educational",
+      "start_time": "20:00",
+      "end_time": "20:30",
+      "episode_description": "As principais discussões realizadas nas audiências públicas promovidas pelo Senado."
+    },
+    {
       "show_name": "Salão Nobre",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sal-o-nobre_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "20:00",
-      "end_time": "20:30",
+      "start_time": "20:30",
+      "end_time": "21:00",
       "episode_description": "Assista a temas de relevância nacional com líderes partidários, presidentes das comissões e autores."
     },
     {
-      "show_name": "Agenda Econômica",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_agenda-economica-1_l_m.jpg",
-      "show_category": "Bus./financial",
-      "start_time": "20:30",
-      "end_time": "21:00",
-      "episode_description": "Economistas, formuladores de políticas públicas, acadêmicos, intelectuais e parlamentares analisam questões da economia nacional e internacional."
-    },
-    {
-      "show_name": "A Última Abolição",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-ultima-abolic-o-2018_l_m.jpg",
-      "show_category": "Documentary / 2018",
+      "show_name": "Os Anos JK - Uma Trajetória Política",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-anos-jk-uma-trajetoria-politica_l_m.jpg",
+      "show_category": "Special",
       "start_time": "21:00",
-      "end_time": "22:27",
-      "episode_description": "O documentário aborda a escravidão no Brasil com especial enfoque no período da abolição, destacando os movimentos abolicionistas, seus aliados e inimigos."
+      "end_time": "22:53",
+      "episode_description": "Silvio Tendler reconta a trajetória política de Juscelino Kubitschek no filme realizado em 1980. Acompanhe a rápida ascensão do deputado, prefeito e governador de Minas Gerais que chegou à presidência da República em 1955."
     },
     {
       "show_name": "Libertárixs",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_libertarixs_l_m.jpg",
       "show_category": "Documentary",
-      "start_time": "22:27",
-      "end_time": "22:56",
-      "episode_description": "Uma escola contemporânea criada dentro de um terreiro de candomblé e outra que funcionava 150 anos atrás no centro do Rio de Janeiro. Em comum, professores negros e uma prática pedagógica que favorece a autoestima das crianças afrodescendentes."
-    },
-    {
-      "show_name": "Libertárixs",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_libertarixs_l_m.jpg",
-      "show_category": "Documentary",
-      "start_time": "22:56",
+      "start_time": "22:53",
       "end_time": "23:25",
       "episode_description": "Uma escola contemporânea criada dentro de um terreiro de candomblé e outra que funcionava 150 anos atrás no centro do Rio de Janeiro. Em comum, professores negros e uma prática pedagógica que favorece a autoestima das crianças afrodescendentes."
     },
     {
-      "show_name": "As Várias Vidas de Tânia",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_as-varias-vidas-de-tania_l_m.jpg",
-      "show_category": "Special",
+      "show_name": "Libertárixs",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_libertarixs_l_m.jpg",
+      "show_category": "Documentary",
       "start_time": "23:25",
       "end_time": "",
-      "episode_description": "A vida e a obra da alagoana Tânia de Maya Pedrosa, artista autodidata e colecionadora de arte popular brasileira."
+      "episode_description": "Uma escola contemporânea criada dentro de um terreiro de candomblé e outra que funcionava 150 anos atrás no centro do Rio de Janeiro. Em comum, professores negros e uma prática pedagógica que favorece a autoestima das crianças afrodescendentes."
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "channel": "TV Jangadeiro",
-  "date": "17/02/2026",
+  "date": "18/02/2026",
   "schedule": [
     {
       "show_name": "Operação Mesquita",
@@ -83,10 +83,18 @@
       "episode_description": "Acompanhe as reportagens que trazem informações do dia a dia. Saiba o que é relevante para o cenário cotidiano por meio de análises e opiniões de colunistas."
     },
     {
+      "show_name": "Loteria dos Sonhos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_loteria-dos-sonhos_l_m.jpg",
+      "show_category": "Gaming",
+      "start_time": "11:00",
+      "end_time": "11:05",
+      "episode_description": "Acompanhe os resultados da Loteria Estadual do Ceará."
+    },
+    {
       "show_name": "Futebolês",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sports-talk-futeboles_l_m.jpg",
       "show_category": "",
-      "start_time": "11:00",
+      "start_time": "11:05",
       "end_time": "11:30",
       "episode_description": "Acompanhe a melhor cobertura sobre a Copa do Nordeste e a Copa do Mundo de futebol de 2018."
     },
@@ -95,16 +103,24 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_barra_l_m.jpg",
       "show_category": "Crime",
       "start_time": "11:30",
-      "end_time": "13:05",
+      "end_time": "13:00",
       "episode_description": "Programa jornalístico-policial que tem como proposta divulgar os acontecimentos da comunidade. Além de notícias policiais, o programa oferece serviços de utilidade pública e repercute as queixas da população."
     },
     {
       "show_name": "Todo Mundo Ama",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_todo-mundo-ama_l_m.jpg",
       "show_category": "Variety",
-      "start_time": "13:05",
-      "end_time": "14:00",
+      "start_time": "13:00",
+      "end_time": "13:55",
       "episode_description": "O programa traz personagens curiosos, dicas de saúde e beleza, comunidade, famosos e boas histórias."
+    },
+    {
+      "show_name": "Loteria dos Sonhos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_loteria-dos-sonhos_l_m.jpg",
+      "show_category": "Gaming",
+      "start_time": "13:55",
+      "end_time": "14:00",
+      "episode_description": "Acompanhe os resultados da Loteria Estadual do Ceará."
     },
     {
       "show_name": "Esmeralda - Edição Especial",
@@ -127,24 +143,32 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_fofocalizando_l_m.jpg",
       "show_category": "Newsmagazine",
       "start_time": "15:30",
-      "end_time": "16:45",
+      "end_time": "17:00",
       "episode_description": "Revista eletrônica com informação, humor e as principais fofocas do mundo dos famosos."
     },
     {
-      "show_name": "Benfica x Real Madrid",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-benfica-x-real-madrid_l_m.jpg",
-      "show_category": "UEFA Champions League",
-      "start_time": "16:45",
-      "end_time": "19:00",
-      "episode_description": "Todas as emoções da principal competição de futebol masculino disputada entre clubes europeus."
+      "show_name": "Coração Indomável",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_corac-o-indomavel-1_l_m.jpg",
+      "show_category": "Soap",
+      "start_time": "17:00",
+      "end_time": "18:30",
+      "episode_description": "A novela conta a história da pobre Maricruz que, após ter sido abandonada pelo marido, decide se vingar daqueles que a humilharam. Ela descobre ser filha de um homem rico, tornando-se uma mulher da alta sociedade."
     },
     {
       "show_name": "Jornal Jangadeiro - 2ª Edição",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-jangadeiro-2-edic-o_l_m.jpg",
       "show_category": "News",
-      "start_time": "19:00",
-      "end_time": "19:45",
+      "start_time": "18:30",
+      "end_time": "19:40",
       "episode_description": "Acompanhe os principais fatos do dia com matérias, reportagens especiais e denúncias."
+    },
+    {
+      "show_name": "Loteria dos Sonhos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_loteria-dos-sonhos_l_m.jpg",
+      "show_category": "Gaming",
+      "start_time": "19:40",
+      "end_time": "19:45",
+      "episode_description": "Acompanhe os resultados da Loteria Estadual do Ceará."
     },
     {
       "show_name": "SBT Brasil",
@@ -167,16 +191,16 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_programa-do-ratinho_l_m.jpg",
       "show_category": "Variety",
       "start_time": "22:00",
-      "end_time": "23:30",
+      "end_time": "23:00",
       "episode_description": "O apresentador Carlos Massa leva ao público um programa alegre e repleto de atrações. Ele recebe convidados famosos e games, comédia, participação do público e quadros únicos, como o \"Jornal Racional\", \"Gol Show\" e \"Dez ou Mil\", entre outros."
     },
     {
-      "show_name": "SBT Folia 2026",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-folia-2026_l_m.jpg",
-      "show_category": "Parade",
-      "start_time": "23:30",
-      "end_time": "01:00",
-      "episode_description": "Leva o público para dentro dos acontecimentos da maior festa popular do país, conectando diferentes regiões do Brasil."
+      "show_name": "Love Taste - Receita para o Amor",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_love-taste-receita-para-o-amor-s02e01_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 1",
+      "start_time": "23:00",
+      "end_time": "00:00",
+      "episode_description": "Solteiros se aventuram na cozinha para conquistar o coração e o paladar de seus amados. Os chefs apaixonados preparam pratos que representam suas personalidades e atacam com suas armas secretas na cozinha."
     }
   ]
 }

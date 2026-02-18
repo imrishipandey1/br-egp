@@ -1,126 +1,110 @@
 {
   "channel": "Multishow",
-  "date": "17/02/2026",
+  "date": "18/02/2026",
   "schedule": [
     {
-      "show_name": "A Grande Família",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-grande-familia-s08e13-uma-rac-o-para-viver_l_m.jpg",
-      "show_category": "Temporada 8 Episódio 13 - Uma Ração para Viver",
-      "start_time": "00:25",
-      "end_time": "01:00",
-      "episode_description": "Tuco diz para Lineu apostar em vendas na clínica; um novo salão aparece para fazer concorrência ao salão de Marilda; o jeito sério de Lineu acaba sendo muito útil para seu negócio."
-    },
-    {
-      "show_name": "A Grande Família",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-grande-familia-s08e07-dona-marilda-e-seus-dois-marildos_l_m.jpg",
-      "show_category": "Temporada 8 Episódio 7 - Dona Marilda e Seus Dois Marildos",
-      "start_time": "01:00",
-      "end_time": "01:37",
-      "episode_description": "Paulão reaparece na vizinhança; Mendonça faz drama com Lineu; Agostinho diz que está com dengue."
-    },
-    {
       "show_name": "Tapas & Beijos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_tapas-beijos-s05e03-fatima-e-sueli-a-dupla-problema-da-associac-o-de-lojistas_l_m.jpg",
-      "show_category": "Temporada 5 Episódio 3 - Fátima e Sueli, a Dupla Problema da Associação de Lojistas",
-      "start_time": "01:37",
-      "end_time": "02:18",
-      "episode_description": "Armane pede demissão da La Conga; Flavinha dá queixa de Fátima e Sueli na Associação de Lojistas; Fátima e Sueli empregam novos funcionários na Boutike; Seu Chalita diz como funciona o esquema da Associação."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tapas-beijos-s05e04-procura-se-jorge-neto_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 4 - Procura-se Jorge Neto",
+      "start_time": "00:34",
+      "end_time": "01:14",
+      "episode_description": "Djalma arma confusão durante batizado de Jorginho. Armane reencontra os filhos e conta para Fátima que arrumou um emprego. Fátima descobre que ficou 'famosa' na pracinha e até ganhou um apelido. Djalma revela história triste do seu passado."
+    },
+    {
+      "show_name": "A Grande Família",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-grande-familia-s08e15-se-essa-casa-fosse-minha_l_m.jpg",
+      "show_category": "Temporada 8 Episódio 15 - Se Essa Casa Fosse Minha",
+      "start_time": "01:14",
+      "end_time": "01:53",
+      "episode_description": "Agostinho e Bebel realizam o sonho da casa própria; Nenê e Lineu se preocupam com a segurança da filha e do neto; Marilda lida com os desafios de morar com dois namorados."
     },
     {
       "show_name": "Rede BBB",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_rede-bbb_l_m.jpg",
       "show_category": "Reality",
-      "start_time": "02:18",
-      "end_time": "02:33",
+      "start_time": "01:53",
+      "end_time": "02:08",
       "episode_description": "Apresenta flashes com os últimos acontecimentos da casa."
     },
     {
-      "show_name": "Chaves",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_chaves_l_m.jpg",
-      "show_category": "Sitcom",
-      "start_time": "02:33",
-      "end_time": "03:01",
-      "episode_description": "O Professor Girafales vai à vila para que as crianças expliquem o significado de alguns de seus desenhos. Um deles em particular causa arrepios em Chaves e Quico."
-    },
-    {
-      "show_name": "Chapolin",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_chapolin-s01e170-o-preco-do-doutor-a-pintura-invisivel_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 170 - O Cadáver Morto de um Defunto que Faleceu ao Morrer",
-      "start_time": "03:01",
-      "end_time": "03:27",
-      "episode_description": "Dr. Chapatin atende um paciente que vive como dono de casa; Ramón cria um verniz invisiblizador, mas um sujeito que trabalha com ele quer roubar essa invenção."
+      "show_name": "A Grande Família",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-grande-familia-s08e13-uma-rac-o-para-viver_l_m.jpg",
+      "show_category": "Temporada 8 Episódio 13 - Uma Ração para Viver",
+      "start_time": "02:08",
+      "end_time": "02:43",
+      "episode_description": "Tuco diz para Lineu apostar em vendas na clínica; um novo salão aparece para fazer concorrência ao salão de Marilda; o jeito sério de Lineu acaba sendo muito útil para seu negócio."
     },
     {
       "show_name": "Chaves",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_chaves_l_m.jpg",
       "show_category": "Sitcom",
-      "start_time": "03:27",
-      "end_time": "03:54",
-      "episode_description": "O Professor Girafales vai à vila para que as crianças expliquem o significado de alguns de seus desenhos. Um deles em particular causa arrepios em Chaves e Quico."
+      "start_time": "02:43",
+      "end_time": "03:11",
+      "episode_description": "Seu Madruga arma uma estratégia com Chaves para ser avisado quando o Senhor Barriga chegar. Mas um brinquedo novo do Quico acaba dificultando o sucesso da empreitada."
     },
     {
       "show_name": "Chapolin",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_chapolin-s01e165-sans-o-perdeu-seu-cabel-o_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 165 - Sansão Perdeu Seu Cabelão",
-      "start_time": "03:54",
-      "end_time": "04:22",
-      "episode_description": "A peruca de Sansão é um artigo valioso que dá uma extrema força a qualquer um que a use. O objeto é alvo da cobiça de um professor e o Chapolin precisa impedi-lo."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_chapolin-s01e168-os-animais-que-viajavam-em-discos-voadores_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 168 - Os Animais que Viajavam em Discos Voadores",
+      "start_time": "03:11",
+      "end_time": "03:36",
+      "episode_description": "Um marciano aparece em uma fazenda. Para lidar com a invasão alienígena, a única esperança da Terra é o Chapolin Colorado."
     },
     {
-      "show_name": "Os Hassums",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-hassums-s01e01-las-vegas_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 1 - Las Vegas",
-      "start_time": "04:22",
-      "end_time": "04:26",
-      "episode_description": "Os Hassuns buscam experiências diferentes e descobrem que Las Vegas não vive só de cassinos. A cidade pode ser também radical, romântica e surpreendente."
+      "show_name": "Chaves",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_chaves_l_m.jpg",
+      "show_category": "Sitcom",
+      "start_time": "03:36",
+      "end_time": "04:03",
+      "episode_description": "Seu Madruga arma uma estratégia com Chaves para ser avisado quando o Senhor Barriga chegar. Mas um brinquedo novo do Quico acaba dificultando o sucesso da empreitada."
+    },
+    {
+      "show_name": "Chapolin",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_chapolin-s01e166-o-selo-que-desapareceu_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 166 - O Selo que Desapareceu",
+      "start_time": "04:03",
+      "end_time": "04:29",
+      "episode_description": "Chapolin é chamado para interceder por dois funcionários suspeitos do roubo de um selo muito raro."
     },
     {
       "show_name": "TVZ",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_tvz_l_m.jpg",
       "show_category": "Music",
-      "start_time": "04:26",
-      "end_time": "04:56",
+      "start_time": "04:29",
+      "end_time": "04:59",
       "episode_description": "Os melhores videoclipes nacionais e internacionais das paradas musicais."
     },
     {
-      "show_name": "OneRepublic: Live In South Africa",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_onerepublic-live-in-south-africa-1_l_m.jpg",
-      "show_category": "Special",
-      "start_time": "04:56",
-      "end_time": "05:26",
-      "episode_description": "A banda OneRepublic se apresenta no Coca-Cola Dome em Joanesburgo, África do Sul; confira imagens da África do Sul e entrevistas exclusivas."
+      "show_name": "Big Show",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_big-show-s26e05_l_m.jpg",
+      "show_category": "Temporada 26 Episódio 5",
+      "start_time": "04:59",
+      "end_time": "05:59",
+      "episode_description": "Debates, jogos, entrevistas e convidados especiais, incluindo o eliminado da semana no \"BBB\"."
     },
     {
-      "show_name": "Tô de Graça",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_to-de-graca-s04e21-vivo-ou-morto_l_m.jpg",
-      "show_category": "Temporada 4 Episódio 21 - Vivo ou Morto",
-      "start_time": "05:26",
-      "end_time": "05:56",
-      "episode_description": "Uma rebelião no presídio de Pablo deixa Graça preocupada. Mas a notícia de que pode receber uma indenização do governo devido ao incidente chega na mesma hora que Pablo reaparece. Graça, agora, tem um dilema para resolver."
+      "show_name": "Reclame",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_reclame-s19e39_l_m.jpg",
+      "show_category": "Temporada 19 Episódio 39",
+      "start_time": "05:59",
+      "end_time": "05:59",
+      "episode_description": "Fique por dentro dos bastidores do mundo publicitário no Brasil e confira também entrevistas com profissionais da área, making of de campanhas, filmes de maior destaque e a cobertura dos eventos do setor."
     },
     {
-      "show_name": "O Dono do Lar",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-dono-do-lar-s03e03-segura-meu-cajuzinho_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 3 - Segura meu Cajuzinho",
-      "start_time": "05:56",
-      "end_time": "05:56",
-      "episode_description": "Américo está fazendo cajuzinhos para vender, mas a gula da família é tanta que eles acabam comendo os ingredientes e ele precisa se virar com o que tem."
+      "show_name": "Reclame",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_reclame-s19e39_l_m.jpg",
+      "show_category": "Temporada 19 Episódio 39",
+      "start_time": "05:59",
+      "end_time": "06:30",
+      "episode_description": "Fique por dentro dos bastidores do mundo publicitário no Brasil e confira também entrevistas com profissionais da área, making of de campanhas, filmes de maior destaque e a cobertura dos eventos do setor."
     },
     {
-      "show_name": "O Dono do Lar",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-dono-do-lar-s03e03-segura-meu-cajuzinho_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 3 - Segura meu Cajuzinho",
-      "start_time": "05:56",
-      "end_time": "06:28",
-      "episode_description": "Américo está fazendo cajuzinhos para vender, mas a gula da família é tanta que eles acabam comendo os ingredientes e ele precisa se virar com o que tem."
-    },
-    {
-      "show_name": "O Dono do Lar",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-dono-do-lar-s03e04-corpo-marcado_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 4 - Corpo Marcado",
-      "start_time": "06:28",
+      "show_name": "A Voz do Carnaval",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-voz-do-carnaval-s01e02-eliminatoria-grupo-2_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Eliminatória - Grupo 2",
+      "start_time": "06:30",
       "end_time": "07:00",
-      "episode_description": "Américo esquece a data do aniversário de casamento e mente para Luciana dizendo que comprou um presente. Sem dinheiro, ele precisa resolver a situação de qualquer jeito. Só que certas soluções acabam sendo permanentes."
+      "episode_description": "Os quatro intérpretes do Grupo 2 competem por duas vagas. Xande de Pilares é o convidado."
     },
     {
       "show_name": "Chaves",
@@ -128,23 +112,23 @@
       "show_category": "Sitcom",
       "start_time": "07:00",
       "end_time": "07:28",
-      "episode_description": "O Professor Girafales vai à vila para que as crianças expliquem o significado de alguns de seus desenhos. Um deles em particular causa arrepios em Chaves e Quico."
+      "episode_description": "Seu Madruga arma uma estratégia com Chaves para ser avisado quando o Senhor Barriga chegar. Mas um brinquedo novo do Quico acaba dificultando o sucesso da empreitada."
     },
     {
       "show_name": "Chapolin",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_chapolin-s01e170-o-preco-do-doutor-a-pintura-invisivel_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 170 - O Cadáver Morto de um Defunto que Faleceu ao Morrer",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_chapolin-s01e168-os-animais-que-viajavam-em-discos-voadores_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 168 - Os Animais que Viajavam em Discos Voadores",
       "start_time": "07:28",
-      "end_time": "07:54",
-      "episode_description": "Dr. Chapatin atende um paciente que vive como dono de casa; Ramón cria um verniz invisiblizador, mas um sujeito que trabalha com ele quer roubar essa invenção."
+      "end_time": "07:53",
+      "episode_description": "Um marciano aparece em uma fazenda. Para lidar com a invasão alienígena, a única esperança da Terra é o Chapolin Colorado."
     },
     {
-      "show_name": "Família Paraíso",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_familia-paraiso-s02e08-o-ciume_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 8 - O Ciúme",
-      "start_time": "07:54",
+      "show_name": "Cosme e Damião Quase Santos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cosme-e-dami-o-quase-santos-s01e01-corre-que-a-vo-nilza-vem-ai_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - Corre que a Vó Nilza Vem Aí",
+      "start_time": "07:53",
       "end_time": "08:00",
-      "episode_description": "Um ex-namorado de Shirlei chega na casa, causando ciúmes em Leleco."
+      "episode_description": "Na ausência de Vó Nilza, Cosme e Damião usam o carro secretamente para vender balas, mas uma criança atrapalha tudo; Katiadeise e Dubai querem uma tarde a sós, mas dá tudo errado."
     },
     {
       "show_name": "TVZ",
@@ -155,154 +139,170 @@
       "episode_description": "Os melhores videoclipes nacionais e internacionais das paradas musicais."
     },
     {
-      "show_name": "A Vila",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-vila-s02e09_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 9 - Operação Cupido",
-      "start_time": "08:30",
-      "end_time": "09:03",
-      "episode_description": "Lupércio traz a correspondência acumulada de Rique, que nunca olha as cartas que recebe; em meio a um monte de propagandas e das cobranças de sempre, ele descobre que seu trailer deve um milhão em multas antigas."
-    },
-    {
-      "show_name": "A Vila",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-vila-s02e07_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 7 - A Proposta Indecente",
-      "start_time": "09:03",
-      "end_time": "09:37",
-      "episode_description": "Lucrécia revela que quer demolir a vila e transformá-la em um loteamento. Todos os moradores ficam em pânico, mas ela se encanta por Rique e diz que, se ele dormir com ela, pode reconsiderar a decisão."
-    },
-    {
-      "show_name": "Tapas & Beijos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_tapas-beijos-s05e03-fatima-e-sueli-a-dupla-problema-da-associac-o-de-lojistas_l_m.jpg",
-      "show_category": "Temporada 5 Episódio 3 - Fátima e Sueli, a Dupla Problema da Associação de Lojistas",
-      "start_time": "09:37",
-      "end_time": "10:18",
-      "episode_description": "Armane pede demissão da La Conga; Flavinha dá queixa de Fátima e Sueli na Associação de Lojistas; Fátima e Sueli empregam novos funcionários na Boutike; Seu Chalita diz como funciona o esquema da Associação."
-    },
-    {
-      "show_name": "Tapas & Beijos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_tapas-beijos-s05e04-procura-se-jorge-neto_l_m.jpg",
-      "show_category": "Temporada 5 Episódio 4 - Procura-se Jorge Neto",
-      "start_time": "10:18",
-      "end_time": "10:58",
-      "episode_description": "Djalma arma confusão durante batizado de Jorginho. Armane reencontra os filhos e conta para Fátima que arrumou um emprego. Fátima descobre que ficou 'famosa' na pracinha e até ganhou um apelido. Djalma revela história triste do seu passado."
-    },
-    {
-      "show_name": "Chaves",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_chaves_l_m.jpg",
-      "show_category": "Sitcom",
-      "start_time": "10:58",
-      "end_time": "11:26",
-      "episode_description": "O Professor Girafales vai à vila para que as crianças expliquem o significado de alguns de seus desenhos. Um deles em particular causa arrepios em Chaves e Quico."
-    },
-    {
-      "show_name": "Chapolin",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_chapolin-s01e168-os-animais-que-viajavam-em-discos-voadores_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 168 - Os Animais que Viajavam em Discos Voadores",
-      "start_time": "11:26",
-      "end_time": "11:51",
-      "episode_description": "Um marciano aparece em uma fazenda. Para lidar com a invasão alienígena, a única esperança da Terra é o Chapolin Colorado."
-    },
-    {
-      "show_name": "Rede BBB",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_rede-bbb_l_m.jpg",
-      "show_category": "Reality",
-      "start_time": "11:51",
-      "end_time": "12:06",
-      "episode_description": "Apresenta flashes com os últimos acontecimentos da casa."
-    },
-    {
-      "show_name": "Vai que Cola",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-s02e22-apag-o_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 22 - Apagão",
-      "start_time": "12:06",
-      "end_time": "12:53",
-      "episode_description": "Dona Jô está fora da pensão, porém Wilson resolve incorporá-la. Ele leva essa história tão a sério que todos ficam preocupados. Velna marca um encontro com um milionário e está prestes a dar o golpe do baú."
-    },
-    {
-      "show_name": "OneRepublic: Live In South Africa",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_onerepublic-live-in-south-africa-1_l_m.jpg",
-      "show_category": "Special",
-      "start_time": "12:53",
-      "end_time": "13:23",
-      "episode_description": "A banda OneRepublic se apresenta no Coca-Cola Dome em Joanesburgo, África do Sul; confira imagens da África do Sul e entrevistas exclusivas."
-    },
-    {
-      "show_name": "Toma Lá, Dá Cá",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_toma-la-da-ca-s01e04-boi-sonso-marrada-certa_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 4 - Boi Sonso, Marrada Certa",
-      "start_time": "13:23",
-      "end_time": "14:08",
-      "episode_description": "O dia não começa bem no Jambalaya, e Celinha e Copélia chamam uma paranormal para limpar o ambiente."
-    },
-    {
-      "show_name": "Rede BBB",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_rede-bbb_l_m.jpg",
-      "show_category": "Reality",
-      "start_time": "14:08",
-      "end_time": "14:23",
-      "episode_description": "Apresenta flashes com os últimos acontecimentos da casa."
-    },
-    {
-      "show_name": "Vai que Cola",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-s02e21-mendigos_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 21 - Mendigos",
-      "start_time": "14:23",
-      "end_time": "15:21",
-      "episode_description": "Eloísa conta que um mendigo pagou a corrida do táxi com cartão. Todos na pensão, menos Wilson, ficam impressionados e acham que virar mendigo pode ser a solução para seus problemas financeiros."
-    },
-    {
       "show_name": "Big Show",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_big-show-s26e05_l_m.jpg",
       "show_category": "Temporada 26 Episódio 5",
-      "start_time": "15:21",
-      "end_time": "16:21",
+      "start_time": "08:30",
+      "end_time": "09:30",
       "episode_description": "Debates, jogos, entrevistas e convidados especiais, incluindo o eliminado da semana no \"BBB\"."
     },
     {
       "show_name": "Tapas & Beijos",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_tapas-beijos-s05e05-o-principe-tcheco_l_m.jpg",
       "show_category": "Temporada 5 Episódio 5 - O Príncipe Tcheco",
-      "start_time": "16:21",
-      "end_time": "17:02",
+      "start_time": "09:30",
+      "end_time": "10:11",
       "episode_description": "Bia e Sueli vão atrás de um \"primo ruivo falso\". Armane cria confusão com dançarino da La Conga. Bia conta para Jorge porque Jorginho é ruivo. Jorge briga com Sueli ao descobrir a verdade."
     },
     {
       "show_name": "Tapas & Beijos",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_tapas-beijos-s05e06-aderbal-freire-vive-o-boa-pinta-norberto_l_m.jpg",
       "show_category": "Temporada 5 Episódio 6 - Aderbal Freire Vive o Boa Pinta Norberto",
-      "start_time": "17:02",
-      "end_time": "17:45",
+      "start_time": "10:11",
+      "end_time": "10:54",
       "episode_description": "Bia está desaparecida e todos se empenham em procura-lá. Fátima arruma um namorado."
+    },
+    {
+      "show_name": "Chaves",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_chaves_l_m.jpg",
+      "show_category": "Sitcom",
+      "start_time": "10:54",
+      "end_time": "11:17",
+      "episode_description": "Seu Madruga arma uma estratégia com Chaves para ser avisado quando o Senhor Barriga chegar. Mas um brinquedo novo do Quico acaba dificultando o sucesso da empreitada."
+    },
+    {
+      "show_name": "Chapolin",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_chapolin-s01e169-em-sala-de-emergencia-tudo-e-possivel-a-m-o-misteriosa_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 169 - Em Sala de Emergência, Tudo É Possível!; A Mão Misteriosa",
+      "start_time": "11:17",
+      "end_time": "11:43",
+      "episode_description": "Dr. Chapatin leva ao hospital um homem que sofreu um acidente; a esposa de um médico é deixada sozinha em casa e pede ajuda para o Chapolin, pois está com medo de um estranho com luvas que vagueiam em torno de sua casa."
     },
     {
       "show_name": "Rede BBB",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_rede-bbb_l_m.jpg",
       "show_category": "Reality",
-      "start_time": "17:45",
-      "end_time": "18:00",
+      "start_time": "11:43",
+      "end_time": "11:58",
       "episode_description": "Apresenta flashes com os últimos acontecimentos da casa."
     },
     {
-      "show_name": "TVZ",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_tvz_l_m.jpg",
-      "show_category": "Music",
-      "start_time": "18:00",
-      "end_time": "18:30",
-      "episode_description": "Os melhores videoclipes nacionais e internacionais das paradas musicais."
+      "show_name": "Vai que Cola",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-s02e23-quando-o-bicho-pega_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 23 - Quando o Bicho Pega",
+      "start_time": "11:58",
+      "end_time": "12:51",
+      "episode_description": "Raposo chega de surpresa à pensão e está de olho na herança do falecido que estaria enterrada no local. Ele finge estar interessado na viúva e chega a pedi-la em casamento. Para se livrar de Raposo, Valdomiro finge ser o temido bandido Careca."
     },
     {
       "show_name": "Toma Lá, Dá Cá",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_toma-la-da-ca-s01e05-a-lingua-n-o-tem-osso_l_m.jpg",
       "show_category": "Temporada 1 Episódio 5 - A Língua Não Tem Osso",
-      "start_time": "18:30",
-      "end_time": "19:15",
+      "start_time": "12:51",
+      "end_time": "13:35",
       "episode_description": "Após brigar com Rita, Copélia quer vingança; Arnaldo investe suas economias em produtos para cães."
+    },
+    {
+      "show_name": "A Voz do Carnaval",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-voz-do-carnaval-s01e02-eliminatoria-grupo-2_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Eliminatória - Grupo 2",
+      "start_time": "13:35",
+      "end_time": "14:05",
+      "episode_description": "Os quatro intérpretes do Grupo 2 competem por duas vagas. Xande de Pilares é o convidado."
     },
     {
       "show_name": "Rede BBB",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_rede-bbb_l_m.jpg",
       "show_category": "Reality",
-      "start_time": "19:15",
+      "start_time": "14:05",
+      "end_time": "14:20",
+      "episode_description": "Apresenta flashes com os últimos acontecimentos da casa."
+    },
+    {
+      "show_name": "Tô de Graça",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_to-de-graca-s04e24-pesque-e-pague_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 24 - Pesque e Pague",
+      "start_time": "14:20",
+      "end_time": "14:50",
+      "episode_description": "Aproveitando uma promoção do carro do peixe, Graça transforma o Piscinão em um Pesque e Pague. Toda família ajuda no novo empreendimento, mas uma obra na comunidade pode atrapalhar os negócios de Graça."
+    },
+    {
+      "show_name": "Tô de Graça",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_to-de-graca-s04e25-ri-sorte_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 25 - Ri Sorte",
+      "start_time": "14:50",
+      "end_time": "15:20",
+      "episode_description": "Graça percebe que pode ganhar mais dinheiro transformando sua casa com piscina e bar em um resort. A matrona então decide colocar os filhos para trabalhar no que chama de \"Ri Sorte\", mas a família tem o dom para confusão."
+    },
+    {
+      "show_name": "Vai que Cola",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-s11e20-todos-querem-ser-roberta_l_m.jpg",
+      "show_category": "Temporada 11 Episódio 20 - Todos Querem Ser Roberta",
+      "start_time": "15:20",
+      "end_time": "15:31",
+      "episode_description": "Uma disputa entre Ferdinando e Alejandro faz com que Roberta Miranda tome um chá sonífero sem saber."
+    },
+    {
+      "show_name": "Vai que Cola",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-s13e15-a-formatura-de-jessica_l_m.jpg",
+      "show_category": "Temporada 13 Episódio 15 - A Formatura de Jéssica",
+      "start_time": "15:31",
+      "end_time": "15:41",
+      "episode_description": "Jéssica vai se formar no teatro, mas Ferdinando e Lacraia torram toda a grana. Na pensão, entra 'Fernanda Montenegro'. Parece que agora o diploma sai."
+    },
+    {
+      "show_name": "Vai que Cola",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-s02e22-apag-o_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 22 - Apagão",
+      "start_time": "15:41",
+      "end_time": "16:28",
+      "episode_description": "Dona Jô está fora da pensão, porém Wilson resolve incorporá-la. Ele leva essa história tão a sério que todos ficam preocupados. Velna marca um encontro com um milionário e está prestes a dar o golpe do baú."
+    },
+    {
+      "show_name": "Tapas & Beijos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tapas-beijos-s05e07-o-vestido-lilas_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 7 - O Vestido Lilás",
+      "start_time": "16:28",
+      "end_time": "17:04",
+      "episode_description": "Jorge leva dançarinas para fazer compras na loja de Sueli e pede dinheiro emprestado para Tijolo. Armane descobre que Norberto não é viúvo. Assaltante leva todo o dinheiro de Jorge."
+    },
+    {
+      "show_name": "Tapas & Beijos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tapas-beijos-s05e08-tudo-pelo-fabio-jr_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 8 - Tudo pelo Fábio Jr.",
+      "start_time": "17:04",
+      "end_time": "17:40",
+      "episode_description": "A amizade de Fátima e Sueli é abalada. Ingressos para o show de Fábio Jr. são o motivo. Tudo começa quando um trato entre Armane e Sueli chega aos ouvidos de Fátima."
+    },
+    {
+      "show_name": "Rede BBB",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rede-bbb_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "17:40",
+      "end_time": "17:55",
+      "episode_description": "Apresenta flashes com os últimos acontecimentos da casa."
+    },
+    {
+      "show_name": "Top TVZ",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_top-tvz_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "17:55",
+      "end_time": "18:25",
+      "episode_description": "Confira os videoclipes mais votados da semana pelos internautas no site do Multishow. Veja os 20 melhores clipes, legendados em português."
+    },
+    {
+      "show_name": "Big Show",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_big-show-s26e05_l_m.jpg",
+      "show_category": "Temporada 26 Episódio 5",
+      "start_time": "18:25",
+      "end_time": "19:25",
+      "episode_description": "Debates, jogos, entrevistas e convidados especiais, incluindo o eliminado da semana no \"BBB\"."
+    },
+    {
+      "show_name": "Rede BBB",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rede-bbb_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "19:25",
       "end_time": "19:30",
       "episode_description": "Apresenta flashes com os últimos acontecimentos da casa."
     },
@@ -324,67 +324,59 @@
     },
     {
       "show_name": "A Grande Família",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-grande-familia-s08e14-vovo-gatinha_l_m.jpg",
-      "show_category": "Temporada 8 Episódio 14 - Vovó Gatinha",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-grande-familia-s08e16-besame-tuco_l_m.jpg",
+      "show_category": "Temporada 8 Episódio 16 - Bésame Tuco",
       "start_time": "20:45",
-      "end_time": "21:26",
-      "episode_description": "Agostinho organiza um concurso de vovós e Nenê aceita participar do concurso para enfrentar a mãe de Agostinho; Beiçola se veste de sua falecida mãe e atrapalha o concurso."
+      "end_time": "21:21",
+      "episode_description": "Tuco tenta conseguir um aumento; Lineu se preocupa com o nível de maturidade do filho; Bebel recebe nova proposta de emprego e Agostinho teme cuidar de tarefas domésticas."
     },
     {
       "show_name": "Vai que Cola",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-s11e20-todos-querem-ser-roberta_l_m.jpg",
-      "show_category": "Temporada 11 Episódio 20 - Todos Querem Ser Roberta",
-      "start_time": "21:26",
-      "end_time": "21:37",
-      "episode_description": "Uma disputa entre Ferdinando e Alejandro faz com que Roberta Miranda tome um chá sonífero sem saber."
-    },
-    {
-      "show_name": "Vai que Cola",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-s12e32-tete-pisa-fundo_l_m.jpg",
-      "show_category": "Temporada 12 Episódio 32 - Tetê Pisa Fundo",
-      "start_time": "21:37",
-      "end_time": "21:50",
-      "episode_description": "A pensão tem uma superencomenda de 400 quentinhas. Sem a moto de Sanderson, o jeito é Terezinha assumir as entregas, às vésperas de tirar sua primeira habilitação."
-    },
-    {
-      "show_name": "Big Brother Brasil",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_big-brother-brasil-s26e37_l_m.jpg",
-      "show_category": "Temporada 26 Episódio 37",
-      "start_time": "21:50",
-      "end_time": "22:50",
-      "episode_description": "Um grupo de pessoas topa ficar confinado em uma espaçosa casa cenográfica, sendo vigiado por câmeras 24 horas por dia. Sem receber informações do mundo exterior, eles disputam uma série de provas e dinâmicas em busca de um prêmio milionário."
-    },
-    {
-      "show_name": "Vai que Cola",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-s13e10-me-deixa-sambar_l_m.jpg",
-      "show_category": "Temporada 13 Episódio 10 - Me Deixa Sambar",
-      "start_time": "22:50",
-      "end_time": "23:00",
-      "episode_description": "Dona Jô e Terezinha enfrentam a Beta Engenharia enquanto Ferdinando quer ser rainha de bateria e Jéssica corre atrás da Anitta."
-    },
-    {
-      "show_name": "A Voz do Carnaval",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-voz-do-carnaval-s01e02-eliminatoria-grupo-2_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 2 - Eliminatória - Grupo 2",
-      "start_time": "23:00",
-      "end_time": "23:30",
-      "episode_description": "Os quatro intérpretes do Grupo 2 competem por duas vagas. Xande de Pilares é o convidado."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-s10e12_l_m.jpg",
+      "show_category": "Temporada 10 Episódio 12 - Ali Bebe e os 40 Ladrões",
+      "start_time": "21:21",
+      "end_time": "21:30",
+      "episode_description": "Bebeto ganha um papel de galã na novela de maior sucesso das Arábias, e todos da casa ficam com inveja do novo ator."
     },
     {
       "show_name": "Rede BBB",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_rede-bbb_l_m.jpg",
       "show_category": "Reality",
-      "start_time": "23:30",
-      "end_time": "23:45",
+      "start_time": "21:30",
+      "end_time": "21:45",
       "episode_description": "Apresenta flashes com os últimos acontecimentos da casa."
     },
     {
+      "show_name": "A Grande Família",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-grande-familia-s08e17-de-veterinario-e-louco-todo-mundo-tem-um-pouco_l_m.jpg",
+      "show_category": "Temporada 8 Episódio 17 - De Veterinário e Louco, Todo Mundo Tem um Pouco",
+      "start_time": "21:45",
+      "end_time": "22:22",
+      "episode_description": "Lineu lida com os desafios de ter Nenê na clínica como assistente por um dia; um sumiço inesperado preocupa Lineu e Nenê; Beiçola tenta comemorar o aniversário de sua mãe."
+    },
+    {
       "show_name": "Vai que Cola",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-s02e23-quando-o-bicho-pega_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 23 - Quando o Bicho Pega",
-      "start_time": "23:45",
-      "end_time": "00:34",
-      "episode_description": "Raposo chega de surpresa à pensão e está de olho na herança do falecido que estaria enterrada no local. Ele finge estar interessado na viúva e chega a pedi-la em casamento. Para se livrar de Raposo, Valdomiro finge ser o temido bandido Careca."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-s02e24-tubaroa_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 24 - Tubaroa",
+      "start_time": "22:22",
+      "end_time": "23:08",
+      "episode_description": "A pensão entra em crise quando chega para Ferdinando uma carta de Toninho Tubarão, o agiota mais violento e temido da região. Ferdinando mentiu para Toninho dizendo que precisava de dinheiro para comprar os remédios da avó."
+    },
+    {
+      "show_name": "Tô de Graça",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_to-de-graca-s04e23-negocios-em-familia_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 23 - Negócios em Família",
+      "start_time": "23:08",
+      "end_time": "23:38",
+      "episode_description": "Graça acredita que a única maneira de um negócio prosperar é quando é gerido pela família. Ela só não contava que a família acaba contratando terceirizados que podem colocar tudo a perder."
+    },
+    {
+      "show_name": "Tô de Graça",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_to-de-graca-s04e24-pesque-e-pague_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 24 - Pesque e Pague",
+      "start_time": "23:38",
+      "end_time": "00:11",
+      "episode_description": "Aproveitando uma promoção do carro do peixe, Graça transforma o Piscinão em um Pesque e Pague. Toda família ajuda no novo empreendimento, mas uma obra na comunidade pode atrapalhar os negócios de Graça."
     }
   ]
 }
