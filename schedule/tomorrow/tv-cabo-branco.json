@@ -1,20 +1,28 @@
 {
   "channel": "TV Cabo Branco",
-  "date": "19/02/2026",
+  "date": "20/02/2026",
   "schedule": [
     {
       "show_name": "Coração Acelerado",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_corac-o-acelerado_l_m.jpg",
       "show_category": "Soap",
-      "start_time": "00:30",
-      "end_time": "01:10",
+      "start_time": "00:15",
+      "end_time": "01:00",
       "episode_description": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\"."
     },
     {
       "show_name": "Vai que Cola",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-1_l_m.jpg",
       "show_category": "Comedy",
-      "start_time": "01:10",
+      "start_time": "01:00",
+      "end_time": "01:35",
+      "episode_description": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede."
+    },
+    {
+      "show_name": "Vai que Cola",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-1_l_m.jpg",
+      "show_category": "Comedy",
+      "start_time": "01:35",
       "end_time": "02:05",
       "episode_description": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede."
     },
@@ -156,17 +164,25 @@
     },
     {
       "show_name": "Big Brother Brasil",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_big-brother-brasil-s26e39_l_m.jpg",
-      "show_category": "Temporada 26 Episódio 39",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_big-brother-brasil-s26e40_l_m.jpg",
+      "show_category": "Temporada 26 Episódio 40",
       "start_time": "22:25",
-      "end_time": "23:25",
+      "end_time": "23:00",
       "episode_description": "Um grupo de pessoas topa ficar confinado em uma espaçosa casa cenográfica, sendo vigiado por câmeras 24 horas por dia. Sem receber informações do mundo exterior, eles disputam uma série de provas e dinâmicas em busca de um prêmio milionário."
+    },
+    {
+      "show_name": "Globo Repórter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_globo-reporter-1_l_m.jpg",
+      "show_category": "Newsmagazine",
+      "start_time": "23:00",
+      "end_time": "23:50",
+      "episode_description": "O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo."
     },
     {
       "show_name": "Jornal da Globo",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-da-globo_l_m.jpg",
       "show_category": "News",
-      "start_time": "23:25",
+      "start_time": "23:50",
       "end_time": "",
       "episode_description": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura."
     }

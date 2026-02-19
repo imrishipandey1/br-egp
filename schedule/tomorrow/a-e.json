@@ -1,286 +1,350 @@
 {
   "channel": "A&E",
-  "date": "19/02/2026",
+  "date": "20/02/2026",
   "schedule": [
-    {
-      "show_name": "Mulheres Perigosas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_mulheres-perigosas-s01e03-sharon-nelson-harrelson_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 3 - Sharon Nelson Harrelson",
-      "start_time": "00:28",
-      "end_time": "01:18",
-      "episode_description": "Depois que um bombeiro é encontrado morto em um incêndio, a polícia descobre que não é a primeira vez que sua esposa fica viúva. Os investigadores obtêm uma confissão em um local inesperado."
-    },
-    {
-      "show_name": "Acusado - Fui Eu que Fiz Isso?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_acusado-fui-eu-que-fiz-isso-s01e06-assassino-a-sangue-frio-ou-atirador-apavorado_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 6 - Assassino a Sangue Frio ou Atirador Apavorado?",
-      "start_time": "01:18",
-      "end_time": "02:08",
-      "episode_description": "Um acidente de carro termina com a morte de um adolescente. O outro motorista, um jovem de 25 anos, é acusado de homicídio em segundo grau por atirar nele logo após a colisão. No entanto, o réu alega legítima defesa."
-    },
-    {
-      "show_name": "Cidade Confidencial",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidade-confidencial-s09e05-dor-a-meia-noite-na-georgia_l_m.jpg",
-      "show_category": "Temporada 9 Episódio 5 - Dor à Meia-Noite na Geórgia",
-      "start_time": "02:08",
-      "end_time": "02:58",
-      "episode_description": "O espírito natalino se desvanece na cidade de Marietta, Geórgia, quando um de seus moradores mais festivos é encontrado morto dentro de sua própria casa. A polícia depende dos vizinhos para desvendar uma trama muito traiçoeira que revela segredos ocultos e um culpado totalmente inesperado."
-    },
-    {
-      "show_name": "Me Diga Como Morri",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_me-diga-como-morri-s01e04-morto-a-tiros_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 4 - Morto a Tiros",
-      "start_time": "02:58",
-      "end_time": "03:45",
-      "episode_description": "Após um homem ter sido morto a tiros, o patologista Dr. Antoine Wrice trabalha em colaboração com os investigadores para interpretar evidências incomuns encontradas na cena do crime. Este caso complexo pode ser mais do que um típico homicídio."
-    },
-    {
-      "show_name": "Acumuladores Compulsivos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos_l_m.jpg",
-      "show_category": "Reality",
-      "start_time": "03:45",
-      "end_time": "04:28",
-      "episode_description": "Eric é forçado a lidar com sua dor emocional enquanto o processo de limpeza revela o belo design deixado por sua falecida esposa."
-    },
-    {
-      "show_name": "Acumuladores Compulsivos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos_l_m.jpg",
-      "show_category": "Reality",
-      "start_time": "04:28",
-      "end_time": "05:16",
-      "episode_description": "Eric é forçado a lidar com sua dor emocional enquanto o processo de limpeza revela o belo design deixado por sua falecida esposa."
-    },
-    {
-      "show_name": "Clientes em Guerra",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_clientes-em-guerra-s02e10-dormindo-em-servico_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 10 - Dormindo em Serviço",
-      "start_time": "05:16",
-      "end_time": "05:38",
-      "episode_description": "Na Pensilvânia, um entregador de pizza ajuda a polícia; na Filadélfia, um cliente acorda rudemente um caixa; em Los Angeles, uma funcionária se defende de um ladrão e outra funcionária usa seu carro para perseguir o ladrão."
-    },
-    {
-      "show_name": "Clientes em Guerra",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_clientes-em-guerra-s02e11-drama-no-drive-through_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 11 - Drama no Drive Through",
-      "start_time": "05:38",
-      "end_time": "06:00",
-      "episode_description": "Uma mulher e um empreiteiro entram em conflito por causa de uma construção barulhenta; em um restaurante, a polícia é chamada após um cliente adormecer no drive-thru; um entregador de pizza deixa um esquilo entrar em uma casa."
-    },
-    {
-      "show_name": "Street Cops - São Paulo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_street-cops-s-o-paulo-s01e04-1_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 4",
-      "start_time": "06:00",
-      "end_time": "06:27",
-      "episode_description": "Um assassino que passou vinte anos foragido da justiça recebe visita do passado com mandado de prisão para ajustar contas. Dois ladrões tentam fugir da polícia militar em moto; vendedor de drogas tenta esconder provas que o deixariam preso."
-    },
-    {
-      "show_name": "Rota - A Polícia de Elite",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_rota-a-policia-de-elite-s01e21_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 21",
-      "start_time": "06:27",
-      "end_time": "06:47",
-      "episode_description": "Durante patrulhamento, agentes da ROTA acabam flagrando dois crimes ligados ao roubo de carros."
-    },
-    {
-      "show_name": "Rota - A Polícia de Elite",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_rota-a-policia-de-elite-s01e24_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 24",
-      "start_time": "06:47",
-      "end_time": "07:07",
-      "episode_description": "Uma equipe da ROTA investiga um homem pelo roubo de uma moto e outros agentes colaboram com diversas forças para atender a um assalto a banco."
-    },
-    {
-      "show_name": "Linha de Combate",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_linha-de-combate-s01e19_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 19",
-      "start_time": "07:07",
-      "end_time": "08:08",
-      "episode_description": "Protestos contra medida municipal transformam-se em vandalismo com ruas bloqueadas e barricadas em chamas. Dois cidadãos inocentes são injustamente detidos por um crime que não cometeram, agravando a tensão social."
-    },
-    {
-      "show_name": "Operação Policial",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_operac-o-policial-s03e08_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 8 - Briga entre Vizinhos",
-      "start_time": "08:08",
-      "end_time": "09:00",
-      "episode_description": "A ronda noturna da polícia de São Paulo enfrenta uma briga entre vizinhos e investiga uma suspeita de furto de veículos."
-    },
-    {
-      "show_name": "Casos Arquivados",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_casos-arquivados-s02e04-o-professor-da-escola_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 4 - O Professor da Escola",
-      "start_time": "09:00",
-      "end_time": "09:50",
-      "episode_description": "A professora Christy Mirack, de 25 anos, é encontrada brutalmente assassinada em seu apartamento em Lancaster, Pensilvânia, em 1992, mas não faltam suspeitos."
-    },
-    {
-      "show_name": "Casos Arquivados - Mortes no Pântano",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_casos-arquivados-mortes-no-pantano-s01e02-o-diabo-em-hammond_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 2 - O Diabo em Hammond",
-      "start_time": "09:50",
-      "end_time": "10:40",
-      "episode_description": "Selonia Reed é encontrada assassinada dentro do carro em Hammond. Investigadores movem céus e terra para conseguir encontrar pistas que os levem ao assassino. Porém, o caso permanece sem solução há mais de 30 anos. Até agora."
-    },
-    {
-      "show_name": "Acumuladores Compulsivos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos-s15e05-david-elizabeth_l_m.jpg",
-      "show_category": "Temporada 15 Episódio 5 - David & Elizabeth",
-      "start_time": "10:40",
-      "end_time": "12:20",
-      "episode_description": "David e Elizabeth acumularam durante uma vida inteira. O vício em comprar através da TV quase os fez perder a casa repleta de objetos em caixas fechadas e ratos. Por conta disso, o médico de Elizabeth ameaça denunciá-los."
-    },
-    {
-      "show_name": "Acumuladores Compulsivos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos-s14e05-rosela_l_m.jpg",
-      "show_category": "Temporada 14 Episódio 5 - Rosela",
-      "start_time": "12:20",
-      "end_time": "14:00",
-      "episode_description": "Roz cresceu na costa leste do Canadá com 13 irmãos e nada era desperdiçado. Quando seu primeiro casamento acabou e ela começou a namorar outro colecionador, sua casa ficou incontrolável. Com a ajuda da equipe, ela pretende arrumar sua vida."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s01e17_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 17",
-      "start_time": "14:00",
-      "end_time": "14:25",
-      "episode_description": "Um incêndio em Connecticut, uma perseguição no Arizona e uma apreensão de drogas em Indiana."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s01e18_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 18",
-      "start_time": "14:25",
-      "end_time": "14:50",
-      "episode_description": "Um mandado cumprido em Maryland, uma perseguição na Carolina do Sul e um invasor em Illinois."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s01e19_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 19",
-      "start_time": "14:50",
-      "end_time": "15:15",
-      "episode_description": "Consumo de bebida alcoólica por menores e uma ocorrência doméstica na Flórida."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s01e20_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 20",
-      "start_time": "15:15",
-      "end_time": "15:40",
-      "episode_description": "Cumprindo um mandado na Louisiana, um homem embriagado em Indiana e uma infração por dirigir sob efeito de álcool no Arizona."
-    },
-    {
-      "show_name": "Me Diga Como Morri",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_me-diga-como-morri-s01e03-cair-em-desgraca_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 3 - Cair em Desgraça",
-      "start_time": "15:40",
-      "end_time": "16:28",
-      "episode_description": "Uma mãe de três filhos é encontrada inconsciente sob a janela aberta do segundo andar, e o médico legista Dr. Dragovic rapidamente suspeita ter acontecido algo mais complexo do que aparenta. Foi realmente um acidente fatal ou esconde algo sinistro?"
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s10e14-o-valor-das-bonecas_l_m.jpg",
-      "show_category": "Temporada 10 Episódio 14 - O Valor das Bonecas",
-      "start_time": "16:28",
-      "end_time": "16:51",
-      "episode_description": "Jarrod encontra um item que sempre sonhou, enquanto Ivy e Rene têm a oportunidade de expandir seus horizontes empresariais para os calçados e a telefonia móvel."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s10e15-loja-vintage_l_m.jpg",
-      "show_category": "Temporada 10 Episódio 15 - Loja Vintage",
-      "start_time": "16:51",
-      "end_time": "17:14",
-      "episode_description": "Emily vai embora e surpreende um colega; Ivy encontra uma coleção vintage de acessórios; Dave enfrenta uma auditoria inesperada."
-    },
-    {
-      "show_name": "Street Cops - São Paulo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_street-cops-s-o-paulo-s01e01-1_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 1",
-      "start_time": "17:14",
-      "end_time": "17:43",
-      "episode_description": "No sul de São Paulo, a Polícia Militar desmantela um importante ponto de venda de drogas na região. A Polícia Civil tem um mandado de prisão para um membro de uma quadrilha criminosa, mas para capturá-lo, eles precisam lidar com a mãe dele."
-    },
     {
       "show_name": "Street Cops - São Paulo",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_street-cops-s-o-paulo-s01e03-1_l_m.jpg",
       "show_category": "Temporada 1 Episódio 3",
-      "start_time": "17:43",
-      "end_time": "18:11",
+      "start_time": "00:03",
+      "end_time": "00:31",
       "episode_description": "Integrantes de quadrilha dedicada ao roubo e clonagem de cartões se escondem sob fachada de uma família, mas até no lugar menos esperado se encontram provas do crime; um roubo de veículo desencadeia uma perseguição em alta velocidade."
     },
     {
       "show_name": "Rota - A Polícia de Elite",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_rota-a-policia-de-elite-s01e18_l_m.jpg",
       "show_category": "Temporada 1 Episódio 18",
-      "start_time": "18:11",
-      "end_time": "18:28",
+      "start_time": "00:31",
+      "end_time": "00:48",
       "episode_description": "Durante um dia de patrulhamento, equipes da ROTA acabam atendendo à uma denúncia sobre um ponto de venda de drogas."
     },
     {
       "show_name": "Rota - A Polícia de Elite",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_rota-a-policia-de-elite-s01e20_l_m.jpg",
       "show_category": "Temporada 1 Episódio 20",
-      "start_time": "18:28",
-      "end_time": "18:44",
+      "start_time": "00:48",
+      "end_time": "01:04",
       "episode_description": "Ao se dirigirem a uma região conhecida pelo roubo de veículos, equipes da ROTA questionam dois suspeitos acerca de um carro furtado."
     },
     {
       "show_name": "Rota - A Polícia de Elite",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_rota-a-policia-de-elite-s01e07_l_m.jpg",
       "show_category": "Temporada 1 Episódio 7",
-      "start_time": "18:44",
-      "end_time": "19:01",
+      "start_time": "01:04",
+      "end_time": "01:21",
       "episode_description": "Durante um patrulhamento noturno de equipes da ROTA, os agentes investigam biqueiras, bares e vielas em busca de suspeitos."
     },
     {
       "show_name": "Rota - A Polícia de Elite",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_rota-a-policia-de-elite-s01e17_l_m.jpg",
       "show_category": "Temporada 1 Episódio 17",
-      "start_time": "19:01",
-      "end_time": "19:18",
+      "start_time": "01:21",
+      "end_time": "01:38",
       "episode_description": "A partir de uma denúncia sobre uma casa ligada ao tráfico de drogas, a equipe do Coronel Telhada encontra duas mulheres suspeitas de participarem de um esquema empresarial criminoso."
     },
     {
       "show_name": "Linha de Combate",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_linha-de-combate-s01e20_l_m.jpg",
       "show_category": "Temporada 1 Episódio 20",
-      "start_time": "19:18",
-      "end_time": "20:21",
+      "start_time": "01:38",
+      "end_time": "02:41",
       "episode_description": "Traficantes no Sul tentam enganar a polícia. Os criminosos foram apelidados de fantasmas do crime. Trabalhador é rendido ao chegar em casa ao voltar do trabalho. Uma testemunha, um policial de folga, tenta salvar a vítima."
     },
     {
       "show_name": "Operação Policial",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_operac-o-policial-s03e09_l_m.jpg",
       "show_category": "Temporada 3 Episódio 9 - Acidente de Trânsito",
-      "start_time": "20:21",
-      "end_time": "21:08",
+      "start_time": "02:41",
+      "end_time": "03:28",
       "episode_description": "Uma equipe da polícia investiga o roubo de um veículo ao mesmo tempo que é acionada para prestar auxílio em um acidente de trânsito."
     },
     {
       "show_name": "Operação Policial",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_operac-o-policial-s03e10_l_m.jpg",
       "show_category": "Temporada 3 Episódio 10 - Mandados de Prisão",
-      "start_time": "21:08",
-      "end_time": "22:00",
+      "start_time": "03:28",
+      "end_time": "04:20",
       "episode_description": "Assista operação da polícia no cumprimento de três mandados de prisão de indivíduos suspeitos de crime de extorsão."
     },
     {
-      "show_name": "Bent",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_bent-2018_l_m.jpg",
-      "show_category": "Crime drama / 2018 /5.2",
-      "start_time": "22:00",
-      "end_time": "23:34",
-      "episode_description": "Um ex-policial desacreditado sai da prisão querendo se vingar da pessoa responsável por sua prisão e pela morte de seu parceiro. Em busca da verdade sobre o que aconteceu, ele investiga um misterioso assassinato. Gallagher logo descobre que o crime envolve uma grande conspiração internacional."
+      "show_name": "Me Diga Como Morri",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_me-diga-como-morri-s01e03-cair-em-desgraca_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3 - Cair em Desgraça",
+      "start_time": "04:20",
+      "end_time": "05:08",
+      "episode_description": "Uma mãe de três filhos é encontrada inconsciente sob a janela aberta do segundo andar, e o médico legista Dr. Dragovic rapidamente suspeita ter acontecido algo mais complexo do que aparenta. Foi realmente um acidente fatal ou esconde algo sinistro?"
     },
     {
-      "show_name": "Street Cops - São Paulo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_street-cops-s-o-paulo-s01e01-1_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 1",
-      "start_time": "23:34",
+      "show_name": "Acumuladores Compulsivos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "05:08",
+      "end_time": "06:00",
+      "episode_description": "Eric é forçado a lidar com sua dor emocional enquanto o processo de limpeza revela o belo design deixado por sua falecida esposa."
+    },
+    {
+      "show_name": "Casos Arquivados",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_casos-arquivados-s02e01-a-voz-no-lago_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 1 - A Voz no Lago",
+      "start_time": "06:00",
+      "end_time": "06:45",
+      "episode_description": "O avaliador imobiliário Mike Williams, de 31 anos, desaparece misteriosamente enquanto caçava patos nos pântanos da Flórida em dezembro de 2000. As autoridades suspeitam que ele tenha se afogado acidentalmente. Por 16 anos, o desaparecimento de Mike permanece um mistério. O caso esquenta quando a polícia recebe um pedido de socorro da esposa da vítima em 2016."
+    },
+    {
+      "show_name": "Polícia em Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s02e15_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 15",
+      "start_time": "06:45",
+      "end_time": "07:05",
+      "episode_description": "Um acidente de carro e uma perseguição de cachorro em Indiana, um esfaqueamento na Carolina do Sul e uma apreensão de arma em Oklahoma."
+    },
+    {
+      "show_name": "Polícia em Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s02e16_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 16",
+      "start_time": "07:05",
+      "end_time": "07:25",
+      "episode_description": "Uma perseguição de cães na Carolina do Sul, um acidente envolvendo várias motocicletas no Arizona e uma mulher brigando com a polícia na Carolina do Sul."
+    },
+    {
+      "show_name": "Polícia em Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s02e17_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 17",
+      "start_time": "07:25",
+      "end_time": "07:45",
+      "episode_description": "Uma operação policial para apurar armas e drogas no Arizona, intoxicação pública em Indiana e um distúrbio doméstico em Illinois."
+    },
+    {
+      "show_name": "Polícia em Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s02e18_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 18",
+      "start_time": "07:45",
+      "end_time": "08:05",
+      "episode_description": "Mandado de prisão cumprido na Flórida, assistência à Patrulha da Fronteira no Texas e um homem fugindo da polícia em Washington."
+    },
+    {
+      "show_name": "Polícia em Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s02e19_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 19",
+      "start_time": "08:05",
+      "end_time": "08:25",
+      "episode_description": "Atropelamento e fuga na Flórida, perseguição de carro e a pé na Flórida e tiroteio no Kentucky."
+    },
+    {
+      "show_name": "Polícia em Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s02e20_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 20",
+      "start_time": "08:25",
+      "end_time": "08:45",
+      "episode_description": "Uma pessoa extremamente embriagada na Carolina do Sul, um homem não identificado no Arizona e um caminhão roubado na Carolina do Sul."
+    },
+    {
+      "show_name": "Polícia em Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s04e09_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 9",
+      "start_time": "08:45",
+      "end_time": "09:05",
+      "episode_description": "Um homem abusa da esposa em Indiana, outro empunha uma espátula na Carolina do Sul."
+    },
+    {
+      "show_name": "Polícia em Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s04e10_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 10",
+      "start_time": "09:05",
+      "end_time": "09:30",
+      "episode_description": "Um homem ameaça a polícia com um facão na Flórida, uma briga por um galpão no \"Panhandle\" da Flórida e uma mulher ataca sua mãe com um carrinho de bebê em Indiana."
+    },
+    {
+      "show_name": "Casos Arquivados",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_casos-arquivados-s02e03-desaparecido-em-altoona_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 3 - Desaparecido em Altoona",
+      "start_time": "09:30",
+      "end_time": "10:20",
+      "episode_description": "Sherry Leighty desapareceu em 1999. Uma década depois, o caso arquivado retorna quando a irmã de Sherry lança uma campanha de mídia social para ajudar a resolver o mistério. Uma dica online revela a verdade assassina e um sinistro segredo de família."
+    },
+    {
+      "show_name": "Casos Arquivados - Mortes no Pântano",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_casos-arquivados-mortes-no-pantano-s01e05-maldade-na-louisiana_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 5 - Maldade na Louisiana",
+      "start_time": "10:20",
+      "end_time": "11:10",
+      "episode_description": "Courtney Coco, 19 anos, é encontrada morta a 320 km de Alexandria, Louisiana, chocando a vizinhança. O assassinato permanece sem solução até que um ex-detetive, agora podcaster, consegue desvendar o caso e identificar o culpado."
+    },
+    {
+      "show_name": "Acumuladores Compulsivos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos-s16e08-christine_l_m.jpg",
+      "show_category": "Temporada 16 Episódio 8 - Christine",
+      "start_time": "11:10",
+      "end_time": "12:40",
+      "episode_description": "Christine, mãe de duas adolescentes autistas, vive presa na bagunça. Coleciona diversas coisas do passado e acumula objetos para um futuro que nunca vai chegar. Agora, ela busca controlar seu transtorno e melhorar sua qualidade de vida."
+    },
+    {
+      "show_name": "Acumuladores Compulsivos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos-s14e03-darlene_l_m.jpg",
+      "show_category": "Temporada 14 Episódio 3 - Darlene",
+      "start_time": "12:40",
+      "end_time": "14:10",
+      "episode_description": "Darlene acha que sua casa bagunçada se deve a uma desordem mística da Nova Era. Ela tem tantas coisas que acaba dormindo sob uma lona na varanda. No entanto, com a chegada do inverno ela vai precisar se mudar para não morrer de frio."
+    },
+    {
+      "show_name": "Polícia em Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s01e19_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 19",
+      "start_time": "14:10",
+      "end_time": "14:35",
+      "episode_description": "Consumo de bebida alcoólica por menores e uma ocorrência doméstica na Flórida."
+    },
+    {
+      "show_name": "Polícia em Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s01e20_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 20",
+      "start_time": "14:35",
+      "end_time": "15:00",
+      "episode_description": "Cumprindo um mandado na Louisiana, um homem embriagado em Indiana e uma infração por dirigir sob efeito de álcool no Arizona."
+    },
+    {
+      "show_name": "Polícia em Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s02e01_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 1",
+      "start_time": "15:00",
+      "end_time": "15:25",
+      "episode_description": "Um olhar sem filtros sobre os departamentos de polícia em ação. Um carro roubado na Carolina do Sul, um atropelamento e fuga no Kentucky e uma perseguição de moto em Indiana."
+    },
+    {
+      "show_name": "Polícia em Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s02e02_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 2",
+      "start_time": "15:25",
+      "end_time": "15:50",
+      "episode_description": "Uma operação antidrogas na Carolina do Sul, um caso de consumo de bebida alcoólica por menores na Flórida e uma operação antiarmas em Oklahoma."
+    },
+    {
+      "show_name": "Me Diga Como Morri",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_me-diga-como-morri-s01e02-corpos-mumificados_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Corpos Mumificados",
+      "start_time": "15:50",
+      "end_time": "16:35",
+      "episode_description": "As autoridades descobrem que um homem vive há muitos anos com os corpos mumificados de sua esposa e filha. Os patologistas locais não conseguem determinar se elas morreram naturalmente ou se algo nefasto aconteceu."
+    },
+    {
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s10e04-o-avaliador-maluco_l_m.jpg",
+      "show_category": "Temporada 10 Episódio 4 - O Avaliador Maluco",
+      "start_time": "16:35",
+      "end_time": "17:00",
+      "episode_description": "Dave tenta esquentar os motores para lidar com o retorno dos Dotsons. Enquanto isso, Darrell tem uma grande surpresa com uma coleção curiosa."
+    },
+    {
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s10e12-vantagem-na-competic-o_l_m.jpg",
+      "show_category": "Temporada 10 Episódio 12 - Vantagem na Competição",
+      "start_time": "17:00",
+      "end_time": "17:25",
+      "episode_description": "O container de Mary traz algo que ninguém conhecia, enquanto o de Kenny pode servir para vestir os Estados Unidos. No entanto, os verdadeiros vencedores podem ser Brandi e Jarrod."
+    },
+    {
+      "show_name": "Polícia em Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s03e01_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 1",
+      "start_time": "17:25",
+      "end_time": "17:50",
+      "episode_description": "Um tiroteio na Carolina do Sul; uma perseguição a pé no Texas; um acidente de moto em Indiana."
+    },
+    {
+      "show_name": "Polícia em Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s03e02_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 2",
+      "start_time": "17:50",
+      "end_time": "18:15",
+      "episode_description": "Um assalto em Illinois, uma operação policial contra drogas e armas na Carolina do Sul e um homem que saca uma arma na Flórida."
+    },
+    {
+      "show_name": "Polícia em Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s03e03_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 3",
+      "start_time": "18:15",
+      "end_time": "18:40",
+      "episode_description": "Um homem tenta se esconder da polícia em Ohio; um homem perturbado em Illinois."
+    },
+    {
+      "show_name": "Polícia em Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s03e04_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 4",
+      "start_time": "18:40",
+      "end_time": "19:05",
+      "episode_description": "Uma overdose de heroína na Carolina do Sul, um homem resistindo à prisão na Flórida e indivíduos suspeitos na Carolina do Sul."
+    },
+    {
+      "show_name": "Polícia em Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s03e05_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 5",
+      "start_time": "19:05",
+      "end_time": "19:30",
+      "episode_description": "Tiros disparados no Arizona; distúrbio doméstico na Carolina do Sul; homem drogado em Connecticut."
+    },
+    {
+      "show_name": "Polícia em Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s05e03_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 3",
+      "start_time": "19:30",
+      "end_time": "19:55",
+      "episode_description": "Um olhar sem filtro para o trabalho operacional de departamentos de polícia por todos os EUA."
+    },
+    {
+      "show_name": "Polícia em Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s05e04_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 4",
+      "start_time": "19:55",
+      "end_time": "20:20",
+      "episode_description": "Um olhar sem filtro para o trabalho operacional de departamentos de polícia por todos os EUA."
+    },
+    {
+      "show_name": "Polícia em Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s03e11_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 11",
+      "start_time": "20:20",
+      "end_time": "20:45",
+      "episode_description": "Incidente doméstico em Illinois; perseguição de veículo em Indiana; uma busca por armas em Oklahoma."
+    },
+    {
+      "show_name": "Polícia em Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s03e12_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 12",
+      "start_time": "20:45",
+      "end_time": "21:10",
+      "episode_description": "Caminhão roubado em Indiana; heroína encontrada em Utah; homem vomita na Flórida."
+    },
+    {
+      "show_name": "Polícia em Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s04e17_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 17",
+      "start_time": "21:10",
+      "end_time": "21:35",
+      "episode_description": "Na Carolina do Sul, a polícia é vítima de uma brincadeira. No Texas, eles enfrentam um incêndio em casa e um homem precisa de ajuda na estrada."
+    },
+    {
+      "show_name": "Polícia em Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s04e18_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 18",
+      "start_time": "21:35",
+      "end_time": "22:00",
+      "episode_description": "Uma perseguição de moto em Nevada, um atropelamento na Flórida e um carro problemático em Indiana."
+    },
+    {
+      "show_name": "A Vingança Perfeita",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-vinganca-perfeita-2018_l_m.jpg",
+      "show_category": "Thriller / 2018",
+      "start_time": "22:00",
+      "end_time": "23:36",
+      "episode_description": "Na calada da noite, as vidas de dois assassinos de aluguel, um professor, um faxineiro e uma garçonete se entrelaçam a partir de uma mulher perigosa e misteriosa que está em busca de vingança."
+    },
+    {
+      "show_name": "Polícia em Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s03e01_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 1",
+      "start_time": "23:36",
       "end_time": "",
-      "episode_description": "No sul de São Paulo, a Polícia Militar desmantela um importante ponto de venda de drogas na região. A Polícia Civil tem um mandado de prisão para um membro de uma quadrilha criminosa, mas para capturá-lo, eles precisam lidar com a mãe dele."
+      "episode_description": "Um tiroteio na Carolina do Sul; uma perseguição a pé no Texas; um acidente de moto em Indiana."
     }
   ]
 }

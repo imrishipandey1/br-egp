@@ -1,230 +1,254 @@
 {
   "channel": "Canal Brasil",
-  "date": "19/02/2026",
+  "date": "20/02/2026",
   "schedule": [
+    {
+      "show_name": "Era uma Vez Eu, Verônica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_era-uma-vez-eu-veronica-2012-2_l_m.jpg",
+      "show_category": "Drama / 2012",
+      "start_time": "01:05",
+      "end_time": "02:36",
+      "episode_description": "Recém-formada em medicina, Verônica atravessa um momento crucial em sua vida e questiona sua escolha profissional, seus laços afetivos e sua capacidade de lidar com a vida nova."
+    },
+    {
+      "show_name": "Noturnas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_noturnas-s01e07-claudia-celeste_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 7 - Cláudia Celeste",
+      "start_time": "02:36",
+      "end_time": "02:45",
+      "episode_description": "Um mergulho na história do movimento transgênero no Brasil, relembrando momentos que ajudaram a construir a trajetória do transformismo no país."
+    },
     {
       "show_name": "Ação entre Amigos",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_ac-o-entre-amigos-1998-1_l_m.jpg",
       "show_category": "Thriller / 1998",
-      "start_time": "00:50",
-      "end_time": "02:05",
+      "start_time": "02:45",
+      "end_time": "04:00",
       "episode_description": "Vinte e cinco anos depois de terem participado da luta contra a ditadura, Miguel, Paulo, Osvaldo e Elói descobrem que seu torturador está vivo e se reúnem para sequestrá-lo. Mas a revelação que ele vai fazer pode abalar a antiga amizade."
-    },
-    {
-      "show_name": "Noturnas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_noturnas-s01e03-angelica-ravache_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 3 - Angélica Ravache",
-      "start_time": "02:05",
-      "end_time": "02:10",
-      "episode_description": "Um mergulho na história do movimento transgênero no Brasil, relembrando momentos que ajudaram a construir a trajetória do transformismo no país."
-    },
-    {
-      "show_name": "Mar de Rosas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_mar-de-rosas-1977_l_m.jpg",
-      "show_category": "Comedy drama / 1977",
-      "start_time": "02:10",
-      "end_time": "03:45",
-      "episode_description": "Sérgio e Felicidade viajam de carro para o Rio de Janeiro com a filha adolescente, Betinha. Durante uma briga em um hotel, a esposa acaba agredindo o marido com uma navalha. Convencida de que Sérgio está morto, ela foge com a filha de volta para São Paulo. Na estrada, Felicidade repara que está sendo seguida por Orlando Barde, capanga de Sérgio. A viagem acaba se transformando em um jogo de manipulações e violência."
-    },
-    {
-      "show_name": "Sobrepostas - Corpo e Desejo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sobrepostas-corpo-e-desejo-s02e07-geni-nunez_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 7 - Geni Núñez",
-      "start_time": "03:45",
-      "end_time": "04:01",
-      "episode_description": "A ativista indígena Geni Núñez fala de como a evangelização afetou a sua vida, destaca a busca por relações potáveis e comenta que alguns desvios foram muito saudáveis para o seu crescimento."
-    },
-    {
-      "show_name": "Pílulas Espelho",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_pilulas-espelho_l_m.jpg",
-      "show_category": "Interview",
-      "start_time": "04:01",
-      "end_time": "04:05",
-      "episode_description": "Lázaro Ramos entrevista personalidades para debater assuntos plurais e atuais da sociedade, como democracia, cidadania, valorização da cultura negra, exclusão digital, liberdade e, também, educação e arte."
-    },
-    {
-      "show_name": "Esta Noite Encarnarei no Teu Cadáver",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_esta-noite-encarnarei-no-teu-cadaver-1967-1_l_m.jpg",
-      "show_category": "Horror / 1967",
-      "start_time": "04:05",
-      "end_time": "05:55",
-      "episode_description": "O sádico e cruel coveiro Zé do Caixão continua sua busca obsessiva pela mulher ideal, capaz de gerar o filho perfeito. Ele recebe a ajuda de seu fiel criado para raptar seis belas moças, que são submetidas a terríveis sessões de tortura. Quando o coveiro acaba com a vida de uma mulher grávida, a população local se revolta e decide exterminá-lo."
-    },
-    {
-      "show_name": "Noturnas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_noturnas-s01e04-camille-k_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 4 - Camille K",
-      "start_time": "05:55",
-      "end_time": "06:00",
-      "episode_description": "Um mergulho na história do movimento transgênero no Brasil, relembrando momentos que ajudaram a construir a trajetória do transformismo no país."
-    },
-    {
-      "show_name": "Jogo de Cena",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_jogo-de-cena-2007_l_m.jpg",
-      "show_category": "Documentary / 2007",
-      "start_time": "06:00",
-      "end_time": "07:50",
-      "episode_description": "Oitenta e três mulheres atendem a um anúncio de jornal para contar a história de suas vidas em um estúdio. Vinte e três foram selecionadas e filmadas em junho de 2006. Em setembro do mesmo ano, atrizes consagradas do cinema brasileiro como Fernanda Torres, Marília Pêra e Andréa Beltrão interpretaram a seu modo as mesmas histórias, borrando as tênues linhas que separam a realidade da ficção."
-    },
-    {
-      "show_name": "Ensaio Sobre o Silêncio",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_ensaio-sobre-o-silencio-2013_l_m.jpg",
-      "show_category": "Documentary / 2013",
-      "start_time": "07:50",
-      "end_time": "09:04",
-      "episode_description": "Numa mistura de musical e documentário, o registro evoca o universo de João Gilberto, homenageado por Renato Braz."
     },
     {
       "show_name": "Arte na Capa",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_arte-na-capa_l_m.jpg",
       "show_category": "Music",
-      "start_time": "09:04",
-      "end_time": "09:10",
+      "start_time": "04:00",
+      "end_time": "04:05",
       "episode_description": "Os bastidores da criação, histórias e curiosidades de capas de discos brasileiros clássicas."
     },
     {
-      "show_name": "Pretérito Perfeito",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_preterito-perfeito-2008_l_m.jpg",
-      "show_category": "Documentary / 2008",
-      "start_time": "09:10",
-      "end_time": "10:30",
-      "episode_description": "O antigo bordel da rua Alice, no bairro carioca de Laranjeiras, conhecido como Casa Rosa, já foi referência do prazer adulto. Atualmente, local é um centro cultural e clube noturno frequentado por jovens de classe média e alta."
+      "show_name": "Tudo Bem",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tudo-bem-1978_l_m.jpg",
+      "show_category": "Comedy / 1978 /6.7",
+      "start_time": "04:05",
+      "end_time": "06:00",
+      "episode_description": "Família de classe média carioca decide reformar o apartamento para o noivado da filha, que só pensa em se casar. O pai é funcionário público aposentado e perdeu o interesse pela mulher, que sofre com a rejeição. O filho é um executivo oportunista. Duas empregadas domésticas completam o quadro de moradores, que têm seu cotidiano totalmente alterado com a chegada dos trabalhadores. Em meio às obras, todos os habitantes desse microcosmo de conflitos sociais vão revelando suas particularidades."
     },
     {
-      "show_name": "Memória Cubana",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_memoria-cubana-2010_l_m.jpg",
-      "show_category": "Documentary / 2010",
-      "start_time": "10:30",
-      "end_time": "11:40",
-      "episode_description": "Através dos arquivos do cinejornal cubano Noticieros ICAIC Latinoamericanos, o filme mostra os acontecimentos mais marcantes da segunda metade do século XX visto pelas lentes dos documentaristas da ilha."
+      "show_name": "Mulheres de Cinema",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mulheres-de-cinema-1976_l_m.jpg",
+      "show_category": "Documentary / 1976",
+      "start_time": "06:00",
+      "end_time": "06:41",
+      "episode_description": "Mostra o momento em que as mulheres tomam impulso no cinema brasileiro para chegar à situação em que se encontram hoje, ocupando funções em todos os aspectos da criação, da produção e da comercialização de filmes e telenovelas."
     },
     {
       "show_name": "Pílulas Espelho",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_pilulas-espelho_l_m.jpg",
       "show_category": "Interview",
-      "start_time": "11:40",
-      "end_time": "11:45",
+      "start_time": "06:41",
+      "end_time": "06:45",
       "episode_description": "Lázaro Ramos entrevista personalidades para debater assuntos plurais e atuais da sociedade, como democracia, cidadania, valorização da cultura negra, exclusão digital, liberdade e, também, educação e arte."
     },
     {
-      "show_name": "O Homem que Desafiou o Diabo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-homem-que-desafiou-o-diabo-2007_l_m.jpg",
-      "show_category": "Comedy / 2007 /6.5",
-      "start_time": "11:45",
-      "end_time": "13:30",
-      "episode_description": "Zé Araújo é um viajante recém-chegado em Jardim dos Caiacós. Ele seduz a filha de um comerciante e é obrigado a se casar com ela. Araújo torna-se um escravo do sogro e da mulher. Percebendo que vira motivo de piada na cidade, ele resolve mudar de vida e começar uma nova."
-    },
-    {
-      "show_name": "Tempos de Caça",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_tempos-de-caca-2023_l_m.jpg",
-      "show_category": "Drama / 2023",
-      "start_time": "13:30",
-      "end_time": "13:48",
-      "episode_description": "Uma pesquisadora convida um guia local para acompanhá-la até as ruínas do antigo clube Dom Felipe, no Parque Municipal de Nova Iguaçu. Na trilha, sua investigação é ameaçada por eventos inesperados."
-    },
-    {
-      "show_name": "Meio-Dia",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_meio-dia-1970_l_m.jpg",
-      "show_category": "Drama / 1970",
-      "start_time": "13:48",
-      "end_time": "14:00",
-      "episode_description": "Um grupo de crianças em uma sala de aula iniciam uma rebelião em que ameaçam matar o professor. O filme é uma resposta a opressão e censura impostos durante a ditadura, embalado pela canção \"Proibido Proibir\", de Caetano Veloso."
+      "show_name": "Cantoras Portuguesas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cantoras-portuguesas-1_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "06:45",
+      "end_time": "07:00",
+      "episode_description": "Pierre Aderne comanda entrevistas e apresentações musicais com grandes vozes do fado."
     },
     {
       "show_name": "Cinejornal",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_cinejornal_l_m.jpg",
       "show_category": "Art",
-      "start_time": "14:00",
-      "end_time": "14:15",
+      "start_time": "07:00",
+      "end_time": "07:15",
       "episode_description": "O cinema brasileiro em pauta com as novidades e os bastidores da produção nacional, entrevistas com atores e diretores e a cobertura completa de festivais importantes em todo o país."
     },
     {
       "show_name": "Esquinas - Pílulas",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_esquinas-pilulas_l_m.jpg",
       "show_category": "Documentary",
-      "start_time": "14:15",
-      "end_time": "14:30",
+      "start_time": "07:15",
+      "end_time": "07:30",
       "episode_description": "Reportagens documentais inspiradas na seção homônima da Revista Piauí. Personagens e eventos peculiares são colhidos pelos quatro cantos do país com uma abordagem inovadora."
     },
     {
-      "show_name": "A Música Natureza de Léa Freire",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-musica-natureza-de-lea-freire-2024_l_m.jpg",
-      "show_category": "Documentary / 2024",
-      "start_time": "14:30",
-      "end_time": "16:13",
-      "episode_description": "Excepcional instrumentista popular, improvisadora de jazz, arranjadora e compositora, Léa Freire quebra as barreiras entre o erudito e o popular, criando uma sonoridade única e ao mesmo tempo brasileira e universal. Figuras icônicas da música brasileira, lendas do jazz e destaques da nova geração contam sobre a influência de Léa e sua música. As delícias, dificuldades e desafios de ser música e ser mulher."
+      "show_name": "Arraial do Cabo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_arraial-do-cabo-1959_l_m.jpg",
+      "show_category": "Documentary / 1959 /7.5",
+      "start_time": "07:30",
+      "end_time": "07:48",
+      "episode_description": "Uma produtora de sal marinho se estabelece em Arraial do Cabo, Rio de Janeiro, e acaba impondo duas realidades distintas: a dos funcionários da fábrica e a do povoado de pescadores, ameaçado pela empresa."
     },
     {
-      "show_name": "Guard Dog & Bill Plympton no Brasil",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_guard-dog-bill-plympton-no-brasil_l_m.jpg",
-      "show_category": "Children",
-      "start_time": "16:13",
-      "end_time": "16:20",
-      "episode_description": "Um ansioso e neurótico cãozinho se desgarra de seu dono Plympton e parte rumo a pequenas aventuras ao chegar no Brasil."
+      "show_name": "Santos Imigrantes",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_santos-imigrantes_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "07:48",
+      "end_time": "07:57",
+      "episode_description": "Exu, divindade das religiões de matriz africana, caminha pelas ruas de São Paulo e tenta espalhar sua palavra."
     },
     {
-      "show_name": "Dias Melhores Virão",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_dias-melhores-vir-o-1990_l_m.jpg",
-      "show_category": "Comedy drama / 1990",
-      "start_time": "16:20",
-      "end_time": "17:54",
-      "episode_description": "Uma dubladora sonha em se tornar estrela de Hollywood. Entre as confusões que vive, ela mistura fantasia e realidade e conversa com a atriz da comédia norte-americana que dubla e com o fantasma de um namorado que morreu ainda jovem."
+      "show_name": "Pílulas Espelho",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pilulas-espelho_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "07:57",
+      "end_time": "08:00",
+      "episode_description": "Lázaro Ramos entrevista personalidades para debater assuntos plurais e atuais da sociedade, como democracia, cidadania, valorização da cultura negra, exclusão digital, liberdade e, também, educação e arte."
     },
     {
-      "show_name": "Arte na Capa",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_arte-na-capa_l_m.jpg",
-      "show_category": "Music",
-      "start_time": "17:54",
+      "show_name": "A Ostra e o Vento",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-ostra-e-o-vento-1997_l_m.jpg",
+      "show_category": "Drama / 1997",
+      "start_time": "08:00",
+      "end_time": "10:00",
+      "episode_description": "A jovem Marcela vive com seu pai, o faroleiro José, e o velho Daniel em uma ilha. O único contato da menina com o mundo exterior é com uma embarcação de quatro marinheiros. Na adolescência, Marcela passa a sentir sua sexualidade e seus anseios de viver de forma mais intensa."
+    },
+    {
+      "show_name": "Anabazys",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_anabazys-2007_l_m.jpg",
+      "show_category": "Documentary / 2007 /8.0",
+      "start_time": "10:00",
+      "end_time": "11:41",
+      "episode_description": "A produção de \"A Idade da Terra\", de Glauber Rocha, é recriada colocando três ângulos em foco: a revolta do cineasta com a rejeição do filme no Festival de Veneza, sua crise com a esquerda brasileira e a criatividade anárquica do diretor baiano."
+    },
+    {
+      "show_name": "Pílulas Espelho",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pilulas-espelho_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "11:41",
+      "end_time": "11:45",
+      "episode_description": "Lázaro Ramos entrevista personalidades para debater assuntos plurais e atuais da sociedade, como democracia, cidadania, valorização da cultura negra, exclusão digital, liberdade e, também, educação e arte."
+    },
+    {
+      "show_name": "O Homem do Sputnik",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-homem-do-sputnik-1959_l_m.jpg",
+      "show_category": "Comedy / 1959 /7.2",
+      "start_time": "11:45",
+      "end_time": "13:26",
+      "episode_description": "O casal de caipiras Anastácio e Cleci é surpreendido por um estrondo em seu galinheiro. Anastácio encontra entre suas galinhas um globo metálico. No dia seguinte, Cleci lê no jornal sobre o acidente com o satélite russo Sputnik e reconhece na fotografia um objeto semelhante ao que caiu em seu quintal. Quando a notícia se espalha, Anastácio e Clecy recebem propostas de grupos russos, norte-americanos e franceses. O interesse desmedido dos estrangeiros pelo satélite levam os dois à loucura."
+    },
+    {
+      "show_name": "Pílulas Espelho",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pilulas-espelho_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "13:26",
+      "end_time": "13:30",
+      "episode_description": "Lázaro Ramos entrevista personalidades para debater assuntos plurais e atuais da sociedade, como democracia, cidadania, valorização da cultura negra, exclusão digital, liberdade e, também, educação e arte."
+    },
+    {
+      "show_name": "Nossos Passos Seguirão os Seus",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_nossos-passos-seguir-o-os-seus-2023_l_m.jpg",
+      "show_category": "Documentary / 2023",
+      "start_time": "13:30",
+      "end_time": "13:44",
+      "episode_description": "Apagado da história oficial do movimento operário brasileiro, Domingos Passos, um aguerrido militante anarquista, sai das sombras em direção à eternidade."
+    },
+    {
+      "show_name": "Até a China",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ate-a-china-2015_l_m.jpg",
+      "show_category": "Comedy / 2015",
+      "start_time": "13:44",
+      "end_time": "14:00",
+      "episode_description": "Acompanhe a história de um homem de Nova Iguaçu que decide ir até a China levando apenas uma bagagem de mão. Ele descreve com muito humor suas aventuras, desde o check-in no aeroporto, uma ida ao supermercado até sua chegada na China. O viajante também mostra curiosidades do país como restaurantes que servem cabeças de peixe e enguias, trânsito caótico e presentes inusitados."
+    },
+    {
+      "show_name": "Um Jóquei Cearense na Coreia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_um-joquei-cearense-na-coreia-2023_l_m.jpg",
+      "show_category": "Documentary / 2023",
+      "start_time": "14:00",
+      "end_time": "15:20",
+      "episode_description": "O brasileiro Antonio Davielson tenta alcançar o sucesso em sua carreira de jóquei na Coreia. Ele mora com sua família no país, um lugar totalmente de sua terra natal, Ceará."
+    },
+    {
+      "show_name": "Aleluia - O Canto Infinito do Tincoã",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aleluia-o-canto-infinito-do-tinco-2021_l_m.jpg",
+      "show_category": "Documentary / 2021",
+      "start_time": "15:20",
+      "end_time": "16:30",
+      "episode_description": "Integrante do Tincoãs, trio vocal que desenvolveu sua carreira entre Brasil e Angola nas décadas de 1970 e 1980, Mateus Aleluia inscreve sua música no tempo. O documentário encontra Mateus nos dias de hoje e, por meio de seu processo criativo, se desloca entre passado e presente, entre o Brasil e Angola, traçando uma geografia particular, revisitando a história para sonhar um novo futuro."
+    },
+    {
+      "show_name": "LAN - O Caricaturista",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lan-o-caricaturista-2025_l_m.jpg",
+      "show_category": "Documentary / 2025",
+      "start_time": "16:30",
+      "end_time": "17:52",
+      "episode_description": "A vida do italiano Lanfranco Vaselli, um importante e renomado chargista, conhecido mundialmente."
+    },
+    {
+      "show_name": "Noturnas - Memórias do Transformismo Carioca",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_noturnas-memorias-do-transformismo-carioca_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "17:52",
       "end_time": "18:00",
-      "episode_description": "Os bastidores da criação, histórias e curiosidades de capas de discos brasileiros clássicas."
+      "episode_description": ""
     },
     {
-      "show_name": "Avenida Beira-Mar",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_avenida-beira-mar-2024_l_m.jpg",
-      "show_category": "Drama / 2024",
+      "show_name": "Sonhar com Leões",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sonhar-com-le-es-2025_l_m.jpg",
+      "show_category": "Comedy drama / 2025",
       "start_time": "18:00",
       "end_time": "19:30",
-      "episode_description": "Durante o inverno, a praia de Piratininga está deserta. Rebeca, de 13 anos, acaba de se mudar para lá e está de castigo. Ela só vê a rua por cima do muro. Um dia, Rebeca conhece Mika, uma menina trans, e o mundo se abre para ela."
+      "episode_description": "Uma brasileira recebe o diagnóstico terminal de câncer. Ela procura organização clandestina chamada Joy Transition International que diz ensinar aos seus clientes terminais a se suicidarem sem dor ou problemas em países onde a eutanásia é ilegal."
     },
     {
-      "show_name": "Daniel Senise - Nem Tudo Tem que Ser Sobre Alguma Coisa",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_daniel-senise-nem-tudo-tem-que-ser-sobre-alguma-coisa-2022_l_m.jpg",
-      "show_category": "Documentary / 2022",
+      "show_name": "A Negação do Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-negac-o-do-brasil-2000_l_m.jpg",
+      "show_category": "Documentary / 2000",
       "start_time": "19:30",
-      "end_time": "20:40",
-      "episode_description": "O pintor Daniel Senise está entre os mais importantes artistas brasileiros da contemporaneidade. Através de um convívio íntimo com Senise, da montagem das exposições à criação, o documentário revela o que mobiliza suas ideias e força poética."
+      "end_time": "21:02",
+      "episode_description": "O documentário busca mostrar as influências das telenovelas na construção da identidade étnica dos afro-brasileiros, além de discutir a incorporação positiva do negro na teledramaturgia."
     },
     {
-      "show_name": "Serial Kelly",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_serial-kelly-2022_l_m.jpg",
-      "show_category": "Comedy / 2022",
-      "start_time": "20:40",
+      "show_name": "Amyr Klink - Mar sem Fim",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_amyr-klink-mar-sem-fim_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "21:02",
       "end_time": "22:00",
-      "episode_description": "Kelly, uma cantora de forró eletrônico, cumpre uma agenda de shows pelo sertão e vai deixando um rastro de mortes pelo caminho. Em seu trajeto de consumo compulsivo e violência, ela atravessa um Nordeste em desenvolvimento e também apocalíptico. Quando passa a ser investigada pelos assassinatos de três homens, sua turnê se transforma em uma estratégia de fuga. De estrela ascendente, ela se torna uma heroína marginal, a temida Serial Kelly, a primeira mulher assassina em série do Brasil."
+      "episode_description": "Conhecido por suas expedições arriscadas, Klink realiza uma viagem ao redor do mundo durante 141 dias ao mar. Ele foi a primeira pessoa a realizar esse percurso, circunavegando a Antártica, a bordo de um veleiro."
+    },
+    {
+      "show_name": "Espelho - 20 Anos Depois",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_espelho-20-anos-depois-s01e330-patricia-ramos_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 330 - Patrícia Ramos",
+      "start_time": "22:00",
+      "end_time": "22:30",
+      "episode_description": "Moldado em formato de entrevistas, o programa propõe conversas aprofundadas sobre identidade, cultura e questões sociais a partir das experiências de seus convidados."
+    },
+    {
+      "show_name": "Água Doce",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_agua-doce_l_m.jpg",
+      "show_category": "Drama /7.1",
+      "start_time": "22:30",
+      "end_time": "23:00",
+      "episode_description": "João e Pedro são primos que se conheceram depois de muitos anos para tratar de questões de herança: a fazenda do avô, que está prestes a ser vendida. As forças da mãe natureza lançam luz sobre negócios não resolvidos entre eles."
     },
     {
       "show_name": "Paloma",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_paloma-s01e04-m-e-de-todas_l_m.jpg",
       "show_category": "Temporada 1 Episódio 4 - Mãe de Todas",
-      "start_time": "22:00",
-      "end_time": "22:49",
+      "start_time": "23:00",
+      "end_time": "23:48",
       "episode_description": "Paloma inicia uma campanha de busca por Jennifer; o destino de Miltinho é descoberto; na candidatura, Paloma começa a ser difamada, mas não desiste; no outro mundo, Rickelly celebra."
     },
     {
-      "show_name": "Noturnas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_noturnas-s01e06-claudette-colbert-e-jeniffer-di-martini_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 6 - Claudette Colbert e Jeniffer Di Martini",
-      "start_time": "22:49",
-      "end_time": "22:55",
-      "episode_description": "Um mergulho na história do movimento transgênero no Brasil, relembrando momentos que ajudaram a construir a trajetória do transformismo no país."
-    },
-    {
-      "show_name": "O Diabo na Rua no Meio do Redemunho",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-diabo-na-rua-no-meio-do-redemunho-2023_l_m.jpg",
-      "show_category": "Drama / 2023",
-      "start_time": "22:55",
+      "show_name": "Noturnas - Memórias do Transformismo Carioca",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_noturnas-memorias-do-transformismo-carioca_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "23:48",
       "end_time": "",
-      "episode_description": "O ex-jagunço Riobaldo, agora fazendeiro, reflete sobre sua vida e as complexidades do bem e do mal, assim como a presença do diabo em seu universo."
+      "episode_description": ""
     }
   ]
 }

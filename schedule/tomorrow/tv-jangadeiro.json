@@ -1,36 +1,36 @@
 {
   "channel": "TV Jangadeiro",
-  "date": "19/02/2026",
+  "date": "20/02/2026",
   "schedule": [
     {
       "show_name": "The Noite com Danilo Gentili",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_the-noite-com-danilo-gentili_l_m.jpg",
       "show_category": "Talk",
-      "start_time": "00:00",
-      "end_time": "01:00",
+      "start_time": "00:15",
+      "end_time": "01:15",
       "episode_description": "Talk show com alto índice de piadas por minuto, que, com muita irreverência, aborda os fatos relevantes do dia."
     },
     {
       "show_name": "Operação Mesquita",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_operac-o-mesquita_l_m.jpg",
       "show_category": "Entertainment",
-      "start_time": "01:00",
-      "end_time": "01:30",
+      "start_time": "01:15",
+      "end_time": "01:45",
       "episode_description": "Descubra o lado B dos famosos, que mostram o seu cotidiano de forma curiosa e divertida por meio de entrevistas. Acompanhe ainda pessoas comuns que estão prestes a protagonizar um grande momento que pode mudar para sempre as suas vidas."
     },
     {
       "show_name": "SBT PodNight",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-podnight_l_m.jpg",
       "show_category": "Talk",
-      "start_time": "01:30",
-      "end_time": "02:15",
+      "start_time": "01:45",
+      "end_time": "02:30",
       "episode_description": "Exibição de podcasts brasileiros líderes de audiência nas plataformas digitais, que abordam temas variados, de cultura e entretenimento a questões sociais."
     },
     {
       "show_name": "SBT Notícias",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-noticias_l_m.jpg",
       "show_category": "News",
-      "start_time": "02:15",
+      "start_time": "02:30",
       "end_time": "04:45",
       "episode_description": "Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia."
     },
@@ -203,12 +203,12 @@
       "episode_description": "O apresentador Carlos Massa leva ao público um programa alegre e repleto de atrações. Ele recebe convidados famosos e games, comédia, participação do público e quadros únicos, como o \"Jornal Racional\", \"Gol Show\" e \"Dez ou Mil\", entre outros."
     },
     {
-      "show_name": "A Praça É Nossa",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-praca-e-nossa-2_l_m.jpg",
-      "show_category": "Comedy",
+      "show_name": "Impuros",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_impuros_l_m.jpg",
+      "show_category": "Drama",
       "start_time": "23:00",
       "end_time": "",
-      "episode_description": "Carlos Alberto de Nóbrega comanda a praça mais irreverente e, em seu famoso banco, recebe os mais divertidos humoristas."
+      "episode_description": "No Rio de Janeiro dos anos 1990, em um território conflagrado por problemas sociais e onde a oportunidade do crime é muito tentadora, Evandro enfrenta as complexidades do mundo do tráfico e a relação complicada com a própria mãe."
     }
   ]
 }
