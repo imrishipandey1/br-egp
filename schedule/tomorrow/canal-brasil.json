@@ -1,254 +1,214 @@
 {
   "channel": "Canal Brasil",
-  "date": "20/02/2026",
+  "date": "21/02/2026",
   "schedule": [
     {
-      "show_name": "Era uma Vez Eu, Verônica",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_era-uma-vez-eu-veronica-2012-2_l_m.jpg",
-      "show_category": "Drama / 2012",
-      "start_time": "01:05",
-      "end_time": "02:36",
-      "episode_description": "Recém-formada em medicina, Verônica atravessa um momento crucial em sua vida e questiona sua escolha profissional, seus laços afetivos e sua capacidade de lidar com a vida nova."
+      "show_name": "Tatuagem",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tatuagem-2013_l_m.jpg",
+      "show_category": "Drama / 2013",
+      "start_time": "00:00",
+      "end_time": "01:55",
+      "episode_description": "Clécio Wanderley é o líder da trupe teatral Chão de Estrelas. Paulete é a principal estrela do grupo. Um dia, Paulette recebe a visita de seu cunhado, o jovem Fininha, que é militar. Encantado com o universo criado pela companhia, ele logo é seduzido por Clécio. Os dois engatam um tórrido relacionamento, que coloca Fininha em situação complicada: ele precisa lidar com a repressão existente no meio militar em plena ditadura."
     },
     {
-      "show_name": "Noturnas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_noturnas-s01e07-claudia-celeste_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 7 - Cláudia Celeste",
-      "start_time": "02:36",
-      "end_time": "02:45",
-      "episode_description": "Um mergulho na história do movimento transgênero no Brasil, relembrando momentos que ajudaram a construir a trajetória do transformismo no país."
+      "show_name": "Serial Kelly",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_serial-kelly-2022_l_m.jpg",
+      "show_category": "Comedy / 2022",
+      "start_time": "01:55",
+      "end_time": "03:20",
+      "episode_description": "Kelly, uma cantora de forró eletrônico, cumpre uma agenda de shows pelo sertão e vai deixando um rastro de mortes pelo caminho. Em seu trajeto de consumo compulsivo e violência, ela atravessa um Nordeste em desenvolvimento e também apocalíptico. Quando passa a ser investigada pelos assassinatos de três homens, sua turnê se transforma em uma estratégia de fuga. De estrela ascendente, ela se torna uma heroína marginal, a temida Serial Kelly, a primeira mulher assassina em série do Brasil."
     },
     {
-      "show_name": "Ação entre Amigos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_ac-o-entre-amigos-1998-1_l_m.jpg",
-      "show_category": "Thriller / 1998",
-      "start_time": "02:45",
-      "end_time": "04:00",
-      "episode_description": "Vinte e cinco anos depois de terem participado da luta contra a ditadura, Miguel, Paulo, Osvaldo e Elói descobrem que seu torturador está vivo e se reúnem para sequestrá-lo. Mas a revelação que ele vai fazer pode abalar a antiga amizade."
+      "show_name": "As Massagistas Profissionais",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_as-massagistas-profissionais-1976_l_m.jpg",
+      "show_category": "Comedy / 1976 /2.9",
+      "start_time": "03:20",
+      "end_time": "05:00",
+      "episode_description": "Para evitar que sua academia de massagem profissional seja difamada por conta das intenções sexuais dos profissionais, o dono acaba contratando duas caipiras desengonçadas e virgens."
+    },
+    {
+      "show_name": "Pornolândia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pornolandia_l_m.jpg",
+      "show_category": "Erotic",
+      "start_time": "05:00",
+      "end_time": "05:15",
+      "episode_description": "Nicole Puzzi conduz entrevistas reveladoras que abordam o sexo contemporâneo de forma irreverente."
+    },
+    {
+      "show_name": "Choque de Cultura",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_choque-de-cultura-s06e12-choque-lixo-sem-dialogo-n-o-tem-indelicadeza_l_m.jpg",
+      "show_category": "Temporada 6 Episódio 12 - Lixo 1",
+      "start_time": "05:15",
+      "end_time": "05:30",
+      "episode_description": "Devido ao incidente com o ator Murilo Benício, veja uma coletânea de trechos inéditos da temporada."
+    },
+    {
+      "show_name": "Infantaria",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_infantaria-2022_l_m.jpg",
+      "show_category": "Drama / 2022",
+      "start_time": "05:30",
+      "end_time": "05:57",
+      "episode_description": "Em um Brasil conservador, uma festa de aniversário acontece em uma casa com pai ausente. Joana tem como maior desejo menstruar logo. Seu irmão mais velho quer que o pai militar apareça em casa. Ambos podem ter o que querem com a ajuda de Verbena."
+    },
+    {
+      "show_name": "Pílulas Espelho",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pilulas-espelho_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "05:57",
+      "end_time": "06:00",
+      "episode_description": "Lázaro Ramos entrevista personalidades para debater assuntos plurais e atuais da sociedade, como democracia, cidadania, valorização da cultura negra, exclusão digital, liberdade e, também, educação e arte."
+    },
+    {
+      "show_name": "Cassy Jones, o Magnífico Sedutor",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cassy-jones-o-magnifico-sedutor-1972_l_m.jpg",
+      "show_category": "Comedy / 1972 /6.6",
+      "start_time": "06:00",
+      "end_time": "07:40",
+      "episode_description": "Cassy Jones é um sedutor desejado por todas as mulheres, mas o forte assédio feminino começa a deixá-lo entediado. Depois de um tempo, ele acaba se apaixonando por Clara, mulher cuja educação rígida dificulta qualquer aproximação."
+    },
+    {
+      "show_name": "Carvana - Como se Faz um Malandro",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_carvana-como-se-faz-um-malandro-2018_l_m.jpg",
+      "show_category": "Documentary / 2018",
+      "start_time": "07:40",
+      "end_time": "09:25",
+      "episode_description": "Os 60 anos de carreira do inconfundível Hugo Carvana narrados por ele mesmo. A história do jovem estudante de teatro, que iniciou sua carreira no cinema em pequenos papéis nas icônicas pornochanchadas e se consagrou como ator no cinema novo. Por meio de imagens raras disponibilizadas por artistas como Lulu de Barros e Glauber Rocha, Carvana é visto pela primeira vez de maneira transparente, sem apelos publicitários."
+    },
+    {
+      "show_name": "A Entrevista",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-entrevista-1966_l_m.jpg",
+      "show_category": "Documentary / 1966 /7.5",
+      "start_time": "09:25",
+      "end_time": "09:49",
+      "episode_description": "O documentário tem como base entrevistas feitas com jovens de classe média alta entre 19 e 27 anos sobre suas aspirações em relação ao casamento, sexo, profissão e submissão ao marido. Mesmo aquelas que se consideravam mais lúcidas e modernas mostram seu perfil mais tradicional da mulher idealizada, envolvida por romantismo feminilidade."
     },
     {
       "show_name": "Arte na Capa",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_arte-na-capa_l_m.jpg",
       "show_category": "Music",
-      "start_time": "04:00",
-      "end_time": "04:05",
+      "start_time": "09:49",
+      "end_time": "09:55",
       "episode_description": "Os bastidores da criação, histórias e curiosidades de capas de discos brasileiros clássicas."
-    },
-    {
-      "show_name": "Tudo Bem",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_tudo-bem-1978_l_m.jpg",
-      "show_category": "Comedy / 1978 /6.7",
-      "start_time": "04:05",
-      "end_time": "06:00",
-      "episode_description": "Família de classe média carioca decide reformar o apartamento para o noivado da filha, que só pensa em se casar. O pai é funcionário público aposentado e perdeu o interesse pela mulher, que sofre com a rejeição. O filho é um executivo oportunista. Duas empregadas domésticas completam o quadro de moradores, que têm seu cotidiano totalmente alterado com a chegada dos trabalhadores. Em meio às obras, todos os habitantes desse microcosmo de conflitos sociais vão revelando suas particularidades."
     },
     {
       "show_name": "Mulheres de Cinema",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_mulheres-de-cinema-1976_l_m.jpg",
       "show_category": "Documentary / 1976",
-      "start_time": "06:00",
-      "end_time": "06:41",
+      "start_time": "09:55",
+      "end_time": "10:35",
       "episode_description": "Mostra o momento em que as mulheres tomam impulso no cinema brasileiro para chegar à situação em que se encontram hoje, ocupando funções em todos os aspectos da criação, da produção e da comercialização de filmes e telenovelas."
     },
     {
-      "show_name": "Pílulas Espelho",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_pilulas-espelho_l_m.jpg",
-      "show_category": "Interview",
-      "start_time": "06:41",
-      "end_time": "06:45",
-      "episode_description": "Lázaro Ramos entrevista personalidades para debater assuntos plurais e atuais da sociedade, como democracia, cidadania, valorização da cultura negra, exclusão digital, liberdade e, também, educação e arte."
-    },
-    {
-      "show_name": "Cantoras Portuguesas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cantoras-portuguesas-1_l_m.jpg",
-      "show_category": "Music",
-      "start_time": "06:45",
-      "end_time": "07:00",
-      "episode_description": "Pierre Aderne comanda entrevistas e apresentações musicais com grandes vozes do fado."
-    },
-    {
-      "show_name": "Cinejornal",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cinejornal_l_m.jpg",
-      "show_category": "Art",
-      "start_time": "07:00",
-      "end_time": "07:15",
-      "episode_description": "O cinema brasileiro em pauta com as novidades e os bastidores da produção nacional, entrevistas com atores e diretores e a cobertura completa de festivais importantes em todo o país."
-    },
-    {
-      "show_name": "Esquinas - Pílulas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_esquinas-pilulas_l_m.jpg",
-      "show_category": "Documentary",
-      "start_time": "07:15",
-      "end_time": "07:30",
-      "episode_description": "Reportagens documentais inspiradas na seção homônima da Revista Piauí. Personagens e eventos peculiares são colhidos pelos quatro cantos do país com uma abordagem inovadora."
-    },
-    {
-      "show_name": "Arraial do Cabo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_arraial-do-cabo-1959_l_m.jpg",
-      "show_category": "Documentary / 1959 /7.5",
-      "start_time": "07:30",
-      "end_time": "07:48",
-      "episode_description": "Uma produtora de sal marinho se estabelece em Arraial do Cabo, Rio de Janeiro, e acaba impondo duas realidades distintas: a dos funcionários da fábrica e a do povoado de pescadores, ameaçado pela empresa."
-    },
-    {
-      "show_name": "Santos Imigrantes",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_santos-imigrantes_l_m.jpg",
+      "show_name": "3 Antônios & 1 Jobim",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_3-antonios-1-jobim_l_m.jpg",
       "show_category": "Special",
-      "start_time": "07:48",
-      "end_time": "07:57",
-      "episode_description": "Exu, divindade das religiões de matriz africana, caminha pelas ruas de São Paulo e tenta espalhar sua palavra."
+      "start_time": "10:35",
+      "end_time": "11:56",
+      "episode_description": "Zuenir Ventura entrevista quatro grandes nomes da cultura do país: diretamente de 1993, Tom Jobim, Antônio Callado, Antonio Candido e Antônio Houaiss falam sobre Brasil, política e artes."
     },
     {
       "show_name": "Pílulas Espelho",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_pilulas-espelho_l_m.jpg",
       "show_category": "Interview",
-      "start_time": "07:57",
-      "end_time": "08:00",
+      "start_time": "11:56",
+      "end_time": "12:00",
       "episode_description": "Lázaro Ramos entrevista personalidades para debater assuntos plurais e atuais da sociedade, como democracia, cidadania, valorização da cultura negra, exclusão digital, liberdade e, também, educação e arte."
     },
     {
-      "show_name": "A Ostra e o Vento",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-ostra-e-o-vento-1997_l_m.jpg",
-      "show_category": "Drama / 1997",
-      "start_time": "08:00",
-      "end_time": "10:00",
-      "episode_description": "A jovem Marcela vive com seu pai, o faroleiro José, e o velho Daniel em uma ilha. O único contato da menina com o mundo exterior é com uma embarcação de quatro marinheiros. Na adolescência, Marcela passa a sentir sua sexualidade e seus anseios de viver de forma mais intensa."
-    },
-    {
-      "show_name": "Anabazys",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_anabazys-2007_l_m.jpg",
-      "show_category": "Documentary / 2007 /8.0",
-      "start_time": "10:00",
-      "end_time": "11:41",
-      "episode_description": "A produção de \"A Idade da Terra\", de Glauber Rocha, é recriada colocando três ângulos em foco: a revolta do cineasta com a rejeição do filme no Festival de Veneza, sua crise com a esquerda brasileira e a criatividade anárquica do diretor baiano."
-    },
-    {
-      "show_name": "Pílulas Espelho",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_pilulas-espelho_l_m.jpg",
-      "show_category": "Interview",
-      "start_time": "11:41",
-      "end_time": "11:45",
-      "episode_description": "Lázaro Ramos entrevista personalidades para debater assuntos plurais e atuais da sociedade, como democracia, cidadania, valorização da cultura negra, exclusão digital, liberdade e, também, educação e arte."
-    },
-    {
-      "show_name": "O Homem do Sputnik",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-homem-do-sputnik-1959_l_m.jpg",
-      "show_category": "Comedy / 1959 /7.2",
-      "start_time": "11:45",
-      "end_time": "13:26",
-      "episode_description": "O casal de caipiras Anastácio e Cleci é surpreendido por um estrondo em seu galinheiro. Anastácio encontra entre suas galinhas um globo metálico. No dia seguinte, Cleci lê no jornal sobre o acidente com o satélite russo Sputnik e reconhece na fotografia um objeto semelhante ao que caiu em seu quintal. Quando a notícia se espalha, Anastácio e Clecy recebem propostas de grupos russos, norte-americanos e franceses. O interesse desmedido dos estrangeiros pelo satélite levam os dois à loucura."
-    },
-    {
-      "show_name": "Pílulas Espelho",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_pilulas-espelho_l_m.jpg",
-      "show_category": "Interview",
-      "start_time": "13:26",
+      "show_name": "Caramuru - A Invenção do Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_caramuru-a-invenc-o-do-brasil-2001-2_l_m.jpg",
+      "show_category": "Comedy / 2001 /6.6",
+      "start_time": "12:00",
       "end_time": "13:30",
-      "episode_description": "Lázaro Ramos entrevista personalidades para debater assuntos plurais e atuais da sociedade, como democracia, cidadania, valorização da cultura negra, exclusão digital, liberdade e, também, educação e arte."
+      "episode_description": "Portugal, século XVI. Após ser enganado pela sedutora Isabelle, o jovem Diogo é deportado para o Brasil, mas sua caravela naufraga. Por milagre, ele é salvo pelo cacique Itaparica. Em terras brasileiras, ele passa a ser chamado de Caramuru e vive um harmônico triângulo amoroso com as duas filhas do cacique, Moema e Paraguaçu."
     },
     {
-      "show_name": "Nossos Passos Seguirão os Seus",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_nossos-passos-seguir-o-os-seus-2023_l_m.jpg",
-      "show_category": "Documentary / 2023",
+      "show_name": "Dinho",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_dinho-2023_l_m.jpg",
+      "show_category": "Drama / 2023",
       "start_time": "13:30",
-      "end_time": "13:44",
-      "episode_description": "Apagado da história oficial do movimento operário brasileiro, Domingos Passos, um aguerrido militante anarquista, sai das sombras em direção à eternidade."
+      "end_time": "13:49",
+      "episode_description": "A vida de Dinho é marcada por abandonos. Agora, sua mãe biológica retorna prometendo ficar, enquanto seu melhor amigo está para partir."
     },
     {
-      "show_name": "Até a China",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_ate-a-china-2015_l_m.jpg",
-      "show_category": "Comedy / 2015",
-      "start_time": "13:44",
+      "show_name": "Egos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_egos-2023_l_m.jpg",
+      "show_category": "2023",
+      "start_time": "13:49",
       "end_time": "14:00",
-      "episode_description": "Acompanhe a história de um homem de Nova Iguaçu que decide ir até a China levando apenas uma bagagem de mão. Ele descreve com muito humor suas aventuras, desde o check-in no aeroporto, uma ida ao supermercado até sua chegada na China. O viajante também mostra curiosidades do país como restaurantes que servem cabeças de peixe e enguias, trânsito caótico e presentes inusitados."
+      "episode_description": "Com um ator que não consegue atuar e uma equipe insatisfeita, um diretor de cinema tenta criar uma cena emocionante para seu filme, mas os egos envolvidos apresentam verdadeiros obstáculos."
     },
     {
-      "show_name": "Um Jóquei Cearense na Coreia",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_um-joquei-cearense-na-coreia-2023_l_m.jpg",
-      "show_category": "Documentary / 2023",
+      "show_name": "Diário de Viagem",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_diario-de-viagem-2022_l_m.jpg",
+      "show_category": "Drama / 2022",
       "start_time": "14:00",
-      "end_time": "15:20",
-      "episode_description": "O brasileiro Antonio Davielson tenta alcançar o sucesso em sua carreira de jóquei na Coreia. Ele mora com sua família no país, um lugar totalmente de sua terra natal, Ceará."
-    },
-    {
-      "show_name": "Aleluia - O Canto Infinito do Tincoã",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_aleluia-o-canto-infinito-do-tinco-2021_l_m.jpg",
-      "show_category": "Documentary / 2021",
-      "start_time": "15:20",
-      "end_time": "16:30",
-      "episode_description": "Integrante do Tincoãs, trio vocal que desenvolveu sua carreira entre Brasil e Angola nas décadas de 1970 e 1980, Mateus Aleluia inscreve sua música no tempo. O documentário encontra Mateus nos dias de hoje e, por meio de seu processo criativo, se desloca entre passado e presente, entre o Brasil e Angola, traçando uma geografia particular, revisitando a história para sonhar um novo futuro."
-    },
-    {
-      "show_name": "LAN - O Caricaturista",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lan-o-caricaturista-2025_l_m.jpg",
-      "show_category": "Documentary / 2025",
-      "start_time": "16:30",
-      "end_time": "17:52",
-      "episode_description": "A vida do italiano Lanfranco Vaselli, um importante e renomado chargista, conhecido mundialmente."
+      "end_time": "15:40",
+      "episode_description": "Logo após a implantação do Plano Real, a adolescente Liz é mandada para um intercâmbio na Irlanda. No entanto, ela retorna ao Brasil obsessiva, com um transtorno alimentar que limita sua vida em todos os âmbitos."
     },
     {
       "show_name": "Noturnas - Memórias do Transformismo Carioca",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_noturnas-memorias-do-transformismo-carioca_l_m.jpg",
       "show_category": "Documentary",
-      "start_time": "17:52",
-      "end_time": "18:00",
+      "start_time": "15:40",
+      "end_time": "15:50",
       "episode_description": ""
     },
     {
-      "show_name": "Sonhar com Leões",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sonhar-com-le-es-2025_l_m.jpg",
-      "show_category": "Comedy drama / 2025",
-      "start_time": "18:00",
-      "end_time": "19:30",
-      "episode_description": "Uma brasileira recebe o diagnóstico terminal de câncer. Ela procura organização clandestina chamada Joy Transition International que diz ensinar aos seus clientes terminais a se suicidarem sem dor ou problemas em países onde a eutanásia é ilegal."
+      "show_name": "Cine Holliúdy",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cine-holliudy-2012_l_m.jpg",
+      "show_category": "Comedy / 2012 /6.9",
+      "start_time": "15:50",
+      "end_time": "17:25",
+      "episode_description": "Nos anos 1970, habitantes de uma cidade do interior passam a desfrutar de um bem até então desconhecido: a televisão. Porém, o aparelho afasta as pessoas do cinema. Cabe ao proprietário do cinema tentar atrair o público de volta."
     },
     {
-      "show_name": "A Negação do Brasil",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-negac-o-do-brasil-2000_l_m.jpg",
-      "show_category": "Documentary / 2000",
-      "start_time": "19:30",
-      "end_time": "21:02",
-      "episode_description": "O documentário busca mostrar as influências das telenovelas na construção da identidade étnica dos afro-brasileiros, além de discutir a incorporação positiva do negro na teledramaturgia."
+      "show_name": "Inéditas, Dispersas e Animadas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ineditas-dispersas-e-animadas_l_m.jpg",
+      "show_category": "Talk",
+      "start_time": "17:25",
+      "end_time": "17:30",
+      "episode_description": "Grandes nomes da cultura brasileira se encontram de forma lúdica em pequenas entrevistas ilustradas."
     },
     {
-      "show_name": "Amyr Klink - Mar sem Fim",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_amyr-klink-mar-sem-fim_l_m.jpg",
-      "show_category": "Special",
-      "start_time": "21:02",
-      "end_time": "22:00",
-      "episode_description": "Conhecido por suas expedições arriscadas, Klink realiza uma viagem ao redor do mundo durante 141 dias ao mar. Ele foi a primeira pessoa a realizar esse percurso, circunavegando a Antártica, a bordo de um veleiro."
+      "show_name": "O Diabo na Rua no Meio do Redemunho",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-diabo-na-rua-no-meio-do-redemunho-2023_l_m.jpg",
+      "show_category": "Drama / 2023",
+      "start_time": "17:30",
+      "end_time": "19:40",
+      "episode_description": "O ex-jagunço Riobaldo, agora fazendeiro, reflete sobre sua vida e as complexidades do bem e do mal, assim como a presença do diabo em seu universo."
     },
     {
-      "show_name": "Espelho - 20 Anos Depois",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_espelho-20-anos-depois-s01e330-patricia-ramos_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 330 - Patrícia Ramos",
-      "start_time": "22:00",
-      "end_time": "22:30",
-      "episode_description": "Moldado em formato de entrevistas, o programa propõe conversas aprofundadas sobre identidade, cultura e questões sociais a partir das experiências de seus convidados."
-    },
-    {
-      "show_name": "Água Doce",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_agua-doce_l_m.jpg",
-      "show_category": "Drama /7.1",
-      "start_time": "22:30",
-      "end_time": "23:00",
-      "episode_description": "João e Pedro são primos que se conheceram depois de muitos anos para tratar de questões de herança: a fazenda do avô, que está prestes a ser vendida. As forças da mãe natureza lançam luz sobre negócios não resolvidos entre eles."
+      "show_name": "América Armada",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_america-armada-2021_l_m.jpg",
+      "show_category": "Documentary / 2021",
+      "start_time": "19:40",
+      "end_time": "21:00",
+      "episode_description": "Ameaçadas de morte, três pessoas no Brasil, Colômbia e México resistem à violência usando armas como a informação, a conscientização e o afeto. Três países, muitas vidas, unidos pela opressão."
     },
     {
       "show_name": "Paloma",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_paloma-s01e04-m-e-de-todas_l_m.jpg",
       "show_category": "Temporada 1 Episódio 4 - Mãe de Todas",
-      "start_time": "23:00",
-      "end_time": "23:48",
+      "start_time": "21:00",
+      "end_time": "21:50",
       "episode_description": "Paloma inicia uma campanha de busca por Jennifer; o destino de Miltinho é descoberto; na candidatura, Paloma começa a ser difamada, mas não desiste; no outro mundo, Rickelly celebra."
     },
     {
       "show_name": "Noturnas - Memórias do Transformismo Carioca",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_noturnas-memorias-do-transformismo-carioca_l_m.jpg",
       "show_category": "Documentary",
-      "start_time": "23:48",
-      "end_time": "",
+      "start_time": "21:50",
+      "end_time": "22:00",
       "episode_description": ""
+    },
+    {
+      "show_name": "O Traidor",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-traidor-2019_l_m.jpg",
+      "show_category": "Crime drama / 2019",
+      "start_time": "22:00",
+      "end_time": "",
+      "episode_description": "Tommaso Buscetta, o primeiro arrependido da máfia, permitiu que os juízes Falcone e Borsellino compreendessem a organização da Cosa Nostra e levassem seus líderes ao tribunal."
     }
   ]
 }

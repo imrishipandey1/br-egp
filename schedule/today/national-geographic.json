@@ -1,14 +1,14 @@
 {
   "channel": "National Geographic",
-  "date": "19/02/2026",
+  "date": "20/02/2026",
   "schedule": [
     {
-      "show_name": "Inferno Submerso",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_inferno-submerso_l_m.jpg",
-      "show_category": "Documentary",
+      "show_name": "Mulheres da Alemanha Nazista",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mulheres-da-alemanha-nazista_l_m.jpg",
+      "show_category": "Special",
       "start_time": "00:50",
       "end_time": "01:50",
-      "episode_description": "Conheça alguns dos melhores submarinos da 2ª Guerra Mundial e as batalhas que eles travaram."
+      "episode_description": "Assista a uma investigação histórica e psicológica sobre as milhões de mulheres leais e fanáticas que eram membros titulares do Partido Nazista e o papel crucial que desempenharam no sistema nazista."
     },
     {
       "show_name": "Mayday! Desastres Aéreos",
@@ -211,60 +211,60 @@
       "episode_description": "Acidentes catastróficos da história da aviação são meticulosamente encenados, fornecendo informações sobre o que deu errado e se os acidentes poderiam ter sido evitados."
     },
     {
-      "show_name": "Brasil Selvagem",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_brasil-selvagem-1_l_m.jpg",
-      "show_category": "Nature",
+      "show_name": "Planeta Selvagem - Argentina",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_planeta-selvagem-argentina_l_m.jpg",
+      "show_category": "Documentary",
       "start_time": "18:15",
       "end_time": "19:10",
-      "episode_description": "Aventure-se nos exuberantes limites dos maiores brasileiros, que hospedam uma variedade de criaturas incomuns com hábitos igualmente estranhos."
+      "episode_description": "Conheça a Argentina e seu rico ecossistema quase intocado, bem como suas regiões isoladas."
     },
     {
-      "show_name": "Filme",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_filme-1_l_m.jpg",
-      "show_category": "Adults only",
+      "show_name": "Aeroporto - Peru",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aeroporto-peru_l_m.jpg",
+      "show_category": "Reality",
       "start_time": "19:10",
-      "end_time": "21:00",
-      "episode_description": "As melhores produções de conteúdo adulto."
+      "end_time": "20:15",
+      "episode_description": "No Aeroporto Jorge Chávez, situado em Lima, Peru, tudo pode acontecer. A polícia antidrogas deve detectar bagagens alteradas que escondem narcóticos, carregamentos ilegais mascarados e mulas que se arriscam para transportar drogas."
     },
     {
-      "show_name": "Sabores Extremos com Gordon Ramsay",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabores-extremos-com-gordon-ramsay_l_m.jpg",
+      "show_name": "Aeroporto - Peru",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aeroporto-peru_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "20:15",
+      "end_time": "21:00",
+      "episode_description": "No Aeroporto Jorge Chávez, situado em Lima, Peru, tudo pode acontecer. A polícia antidrogas deve detectar bagagens alteradas que escondem narcóticos, carregamentos ilegais mascarados e mulas que se arriscam para transportar drogas."
+    },
+    {
+      "show_name": "Ilhados no Alasca",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ilhados-no-alasca_l_m.jpg",
       "show_category": "Reality",
       "start_time": "21:00",
       "end_time": "22:00",
-      "episode_description": "Gordon faz expedições para explorar os diferentes sabores e lugares que o mundo tem a oferecer."
+      "episode_description": "Rodeada pelo Pacífico Norte, Port Protection é uma comunidade situada no Alasca. Os poucos habitantes que a chamam de lar, vivem no limite da sobrevivência."
     },
     {
-      "show_name": "Sabores Extremos com Gordon Ramsay",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabores-extremos-com-gordon-ramsay_l_m.jpg",
+      "show_name": "Ilhados no Alasca",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ilhados-no-alasca_l_m.jpg",
       "show_category": "Reality",
       "start_time": "22:00",
       "end_time": "22:55",
-      "episode_description": "Gordon faz expedições para explorar os diferentes sabores e lugares que o mundo tem a oferecer."
+      "episode_description": "Rodeada pelo Pacífico Norte, Port Protection é uma comunidade situada no Alasca. Os poucos habitantes que a chamam de lar, vivem no limite da sobrevivência."
     },
     {
-      "show_name": "A Fábrica de Comidas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-fabrica-de-comidas-1_l_m.jpg",
-      "show_category": "Consumer",
+      "show_name": "Sobrevivente Primitivo com Hazen Audel",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sobrevivente-primitivo-com-hazen-audel_l_m.jpg",
+      "show_category": "Documentary",
       "start_time": "22:55",
-      "end_time": "23:25",
-      "episode_description": "Dos ingredientes mais básicos ao produto final, conheça a produção de diferentes alimentos."
-    },
-    {
-      "show_name": "A Fábrica de Comidas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-fabrica-de-comidas-1_l_m.jpg",
-      "show_category": "Consumer",
-      "start_time": "23:25",
       "end_time": "23:50",
-      "episode_description": "Dos ingredientes mais básicos ao produto final, conheça a produção de diferentes alimentos."
+      "episode_description": "Hazen Audel viaja por alguns dos locais mais extremos do planeta em desafios solitários que o levam ao limite de seu conhecimento, resistência e habilidades. Para ter sucesso, ele conta com as antigas técnicas de povos indígenas."
     },
     {
-      "show_name": "Mulheres da Alemanha Nazista",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_mulheres-da-alemanha-nazista_l_m.jpg",
+      "show_name": "Fuga do Campo Nazista",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_fuga-do-campo-nazista_l_m.jpg",
       "show_category": "Special",
       "start_time": "23:50",
       "end_time": "00:50",
-      "episode_description": "Assista a uma investigação histórica e psicológica sobre as milhões de mulheres leais e fanáticas que eram membros titulares do Partido Nazista e o papel crucial que desempenharam no sistema nazista."
+      "episode_description": "14 de outubro de 2013 foi o 70.º aniversário de um evento que chocou o partido nazista em sua base, quando os prisioneiros judeus em Sobibor, um campo de extermínio nazista na Polônia, fizeram uma fuga sangrenta."
     }
   ]
 }

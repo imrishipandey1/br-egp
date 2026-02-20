@@ -1,6 +1,6 @@
 {
   "channel": "Globo News",
-  "date": "19/02/2026",
+  "date": "20/02/2026",
   "schedule": [
     {
       "show_name": "Jornal GloboNews - Edição da Meia-Noite",
@@ -95,8 +95,16 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-das-dez-1_l_m.jpg",
       "show_category": "News",
       "start_time": "22:00",
-      "end_time": "00:00",
+      "end_time": "23:30",
       "episode_description": "Aline Midlej e um time de comentaristas apresentam e analisam os bastidores das notícias."
+    },
+    {
+      "show_name": "Diálogos com Mario Sergio Conti",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_dialogos-com-mario-sergio-conti_l_m.jpg",
+      "show_category": "Talk",
+      "start_time": "23:30",
+      "end_time": "00:00",
+      "episode_description": "Mario Sergio Conti entrevista os personagens mais relevantes da política, cultura e outras áreas, sempre com figuras públicas que tenham ido para as manchetes devido a sua participação em acontecimentos marcantes."
     }
   ]
 }
