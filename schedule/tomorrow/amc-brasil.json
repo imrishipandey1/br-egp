@@ -3,40 +3,56 @@
   "date": "22/02/2026",
   "schedule": [
     {
-      "show_name": "Era uma Vez em... Hollywood",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/amc-brasil/tomorrow/br_era-uma-vez-em-hollywood-2019-1_l_m.webp",
-      "show_category": "Comedy drama / 2019",
+      "show_name": "Talamasca - A Ordem Secreta, de Anne Rice",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_talamasca-a-ordem-secreta-de-anne-rice-s01e05-o-palacio-dos-enigmas_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 5 - O Palácio dos Enigmas",
       "start_time": "00:05",
-      "end_time": "03:00",
+      "end_time": "00:55",
+      "episode_description": "Guy escapa por pouco, e pede ajuda a Helen para fugir do país com a nova aliada, Doris. A investigação do assassinato aponta Guy como suspeito."
+    },
+    {
+      "show_name": "Mundo em Caos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mundo-em-caos-2021_l_m.jpg",
+      "show_category": "Science fiction / 2021",
+      "start_time": "00:55",
+      "end_time": "02:50",
+      "episode_description": "Todd cresceu com a crença de que as mulheres desapareceram do mundo e os homens foram afetados por um ruído capaz de deixar seus pensamentos audíveis. Ele então descobre um pedaço de silêncio no pântano, onde encontra uma garota chamada Viola. Todd jura protegê-la, mas para isso deve descobrir sua força e desvendar todos os segredos sombrios que seu planeta e sua comunidade guardam."
+    },
+    {
+      "show_name": "Era uma Vez em... Hollywood",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_era-uma-vez-em-hollywood-2019-1_l_m.jpg",
+      "show_category": "Comedy drama / 2019",
+      "start_time": "02:50",
+      "end_time": "05:45",
       "episode_description": "Em 1969, Rick Dalton é um ator de TV em declínio que tenta voltar à vida de fama e sucesso em Hollywood ao lado de seu amigo e dublê, Cliff Booth. No processo, eles cruzam com muitas pessoas influentes da indústria cinematográfica, como os novos vizinhos de Rick, o casal Sharon Tate e Roman Polanski, e acabam se envolvendo involuntariamente com a infame família de Charles Manson."
     },
     {
-      "show_name": "Rambo II - A Missão",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/amc-brasil/tomorrow/br_rambo-ii-a-miss-o-1985-2_l_m.webp",
-      "show_category": "Action / 1985",
-      "start_time": "03:00",
-      "end_time": "04:45",
-      "episode_description": "Rambo está preso em uma penitenciária federal quando recebe uma proposta: será perdoado e reintegrado ao Exército se participar de uma missão no Vietnã, onde terá que enfrentar todo tipo de inimigos, inclusive oficiais americanos corruptos."
-    },
-    {
-      "show_name": "Rambo III",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/amc-brasil/tomorrow/br_rambo-iii-1988_l_m.webp",
-      "show_category": "Action / 1988 /5.7",
-      "start_time": "04:45",
-      "end_time": "04:45",
-      "episode_description": "O ex-soldado John Rambo recusa um pedido do coronel Trautman, seu antigo líder de pelotão, para uma nova missão, pensando apenas em continuar com o seu novo estilo de vida, baseado na crença budista. No entanto, quando o coronel Trautman é raptado pelos russos na fronteira do Afeganistão e o governo americano é incapaz de intervir oficialmente, Rambo decide agir por sua conta e risco."
-    },
-    {
-      "show_name": "Rambo III",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/amc-brasil/tomorrow/br_rambo-iii-1988_l_m.webp",
-      "show_category": "Action / 1988 /5.7",
-      "start_time": "04:45",
-      "end_time": "06:35",
-      "episode_description": "O ex-soldado John Rambo recusa um pedido do coronel Trautman, seu antigo líder de pelotão, para uma nova missão, pensando apenas em continuar com o seu novo estilo de vida, baseado na crença budista. No entanto, quando o coronel Trautman é raptado pelos russos na fronteira do Afeganistão e o governo americano é incapaz de intervir oficialmente, Rambo decide agir por sua conta e risco."
+      "show_name": "Making the Movies",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_making-the-movies_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "05:45",
+      "end_time": "05:45",
+      "episode_description": "Conheça técnicas e tendências de produção de Hollywood, que fazem os filmes ganharem vida."
     },
     {
       "show_name": "Making the Movies",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/amc-brasil/tomorrow/br_making-the-movies_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_making-the-movies_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "05:45",
+      "end_time": "06:10",
+      "episode_description": "Conheça técnicas e tendências de produção de Hollywood, que fazem os filmes ganharem vida."
+    },
+    {
+      "show_name": "Making the Movies",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_making-the-movies_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "06:10",
+      "end_time": "06:35",
+      "episode_description": "Conheça técnicas e tendências de produção de Hollywood, que fazem os filmes ganharem vida."
+    },
+    {
+      "show_name": "Making the Movies",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_making-the-movies_l_m.jpg",
       "show_category": "Documentary",
       "start_time": "06:35",
       "end_time": "07:00",
@@ -44,7 +60,7 @@
     },
     {
       "show_name": "Making the Movies",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/amc-brasil/tomorrow/br_making-the-movies_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_making-the-movies_l_m.jpg",
       "show_category": "Documentary",
       "start_time": "07:00",
       "end_time": "07:30",
@@ -52,7 +68,7 @@
     },
     {
       "show_name": "Making the Movies",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/amc-brasil/tomorrow/br_making-the-movies_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_making-the-movies_l_m.jpg",
       "show_category": "Documentary",
       "start_time": "07:30",
       "end_time": "08:00",
@@ -60,7 +76,7 @@
     },
     {
       "show_name": "Making the Movies",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/amc-brasil/tomorrow/br_making-the-movies_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_making-the-movies_l_m.jpg",
       "show_category": "Documentary",
       "start_time": "08:00",
       "end_time": "08:30",
@@ -68,7 +84,7 @@
     },
     {
       "show_name": "Making the Movies",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/amc-brasil/tomorrow/br_making-the-movies_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_making-the-movies_l_m.jpg",
       "show_category": "Documentary",
       "start_time": "08:30",
       "end_time": "09:00",
@@ -76,7 +92,7 @@
     },
     {
       "show_name": "Making the Movies",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/amc-brasil/tomorrow/br_making-the-movies_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_making-the-movies_l_m.jpg",
       "show_category": "Documentary",
       "start_time": "09:00",
       "end_time": "09:30",
@@ -84,75 +100,67 @@
     },
     {
       "show_name": "Making the Movies",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/amc-brasil/tomorrow/br_making-the-movies_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_making-the-movies_l_m.jpg",
       "show_category": "Documentary",
       "start_time": "09:30",
       "end_time": "10:00",
       "episode_description": "Conheça técnicas e tendências de produção de Hollywood, que fazem os filmes ganharem vida."
     },
     {
-      "show_name": "Making the Movies",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/amc-brasil/tomorrow/br_making-the-movies_l_m.webp",
-      "show_category": "Documentary",
+      "show_name": "O Bebê de Bridget Jones",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-bebe-de-bridget-jones-2016_l_m.jpg",
+      "show_category": "Romantic comedy / 2016",
       "start_time": "10:00",
-      "end_time": "10:25",
-      "episode_description": "Conheça técnicas e tendências de produção de Hollywood, que fazem os filmes ganharem vida."
-    },
-    {
-      "show_name": "Sempre ao Seu Lado",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/amc-brasil/tomorrow/br_sempre-ao-seu-lado-2009-1_l_m.webp",
-      "show_category": "Drama / 2009",
-      "start_time": "10:25",
-      "end_time": "12:15",
-      "episode_description": "Professor universitário encontra na estação de trem um filhote de cachorro da raça Akita, conhecida por sua lealdade. O cão passa a acompanhá-lo até a estação de trem e esperar sua volta. Até que um acontecimento inesperado altera sua vida."
-    },
-    {
-      "show_name": "O Diário de Bridget Jones",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/amc-brasil/tomorrow/br_o-diario-de-bridget-jones-2001-1_l_m.webp",
-      "show_category": "Romantic comedy / 2001",
-      "start_time": "12:15",
-      "end_time": "14:05",
-      "episode_description": "Bridget Jones é uma solteirona de trinta e poucos anos que decide registrar em um diário suas tentativas de melhorar de vida. O resultado é um relato picante e bem-humorado de suas desventuras profissionais, familiares e românticas."
+      "end_time": "12:10",
+      "episode_description": "Bridget está focada em sua solteirice e em sua carreira quando descobre que está grávida. Após ter dormido com um desconhecido e com seu amor do passado, Mark, ela não sabe quem é o pai."
     },
     {
       "show_name": "Bridget Jones - No Limite da Razão",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/amc-brasil/tomorrow/br_bridget-jones-no-limite-da-raz-o-2004-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bridget-jones-no-limite-da-raz-o-2004-1_l_m.jpg",
       "show_category": "Romantic comedy / 2004",
-      "start_time": "14:05",
-      "end_time": "16:00",
+      "start_time": "12:10",
+      "end_time": "14:05",
       "episode_description": "Bridget se sente confusa e vê a felicidade com Mark ameaçada quando seu ex-chefe volta a assediá-la, e uma atraente advogada passa a ser a nova colega de trabalho de seu namorado."
     },
     {
-      "show_name": "A Saga Crepúsculo - Eclipse",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/amc-brasil/tomorrow/br_a-saga-crepusculo-eclipse-2010-1_l_m.webp",
-      "show_category": "Romance / 2010",
-      "start_time": "16:00",
-      "end_time": "18:15",
-      "episode_description": "Bella enfim está reunida a seu grande amor, Edward. Eles planejam se casar e efetuar a transformação dela em uma vampira. Só que a vida do grupo de vampiros está em perigo quando uma legião de novatos é levantada em Seattle."
+      "show_name": "Acampamento do Papai",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_acampamento-do-papai-2007_l_m.jpg",
+      "show_category": "Children / 2007 /2.8",
+      "start_time": "14:05",
+      "end_time": "15:40",
+      "episode_description": "Depois de criar um novo acampamento de verão e não conseguir muito sucesso com o empreendimento, dois amigos decidem pedir ajuda ao pai militar para animar e virar o negócio de cabeça para baixo."
     },
     {
-      "show_name": "Hércules",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/amc-brasil/tomorrow/br_hercules-2014_l_m.webp",
-      "show_category": "Adventure / 2014 /6.1",
-      "start_time": "18:15",
-      "end_time": "20:00",
-      "episode_description": "Após completar 12 árduos trabalhos e perder sua família, o semideus Hércules conhece seis assassinos impiedosos e une-se ao grupo em busca de trabalho, até que o rei da trácia o convida para treinar o seu exército."
+      "show_name": "Tomb Raider - A Origem",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tomb-raider-a-origem-2018_l_m.jpg",
+      "show_category": "Adventure / 2018",
+      "start_time": "15:40",
+      "end_time": "17:50",
+      "episode_description": "Lara Croft é a independente filha de um aventureiro excêntrico que desapareceu há anos. Com a esperança de resolver o mistério do sumiço de seu pai, Lara embarca em uma perigosa jornada para seu último destino conhecido - um túmulo lendário em uma ilha mítica que pode estar em algum lugar ao largo da costa do Japão. As apostas não podiam ser maiores, pois Lara precisa confiar em sua mente aguda, fé cega e espírito obstinado para se aventurar no desconhecido."
     },
     {
-      "show_name": "Os Três Mosqueteiros - Milady",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/amc-brasil/tomorrow/br_os-tres-mosqueteiros-milady-2023_l_m.webp",
-      "show_category": "Adventure / 2023",
-      "start_time": "20:00",
-      "end_time": "22:00",
-      "episode_description": "Constance Bonacieux é sequestrada diante dos olhos de D'Artagnan. Em uma busca frenética para salvá-la, o jovem mosqueteiro, auxiliado por Athos, Porthos e Aramis, é forçado a unir forças com a misteriosa Milady de Winter."
+      "show_name": "RoboCop",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_robocop-2014-1_l_m.jpg",
+      "show_category": "Science fiction / 2014 /6.2",
+      "start_time": "17:50",
+      "end_time": "19:55",
+      "episode_description": "A OmniCorp lidera tecnologia robótica em guerras e planeja usá-la em solo americano. Alex Murphy, policial gravemente ferido numa explosão, torna-se sua cobaia como primeiro ciborgue, unindo combate ao crime com consciência humana."
     },
     {
       "show_name": "O Último Caçador de Bruxas",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/amc-brasil/tomorrow/br_o-ultimo-cacador-de-bruxas-2015_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-ultimo-cacador-de-bruxas-2015_l_m.jpg",
       "show_category": "Fantasy / 2015",
+      "start_time": "19:55",
+      "end_time": "22:00",
+      "episode_description": "Kaulder é um caçador de bruxas amaldiçoado a viver eternamente. Um dia, uma nova ameaça surge e coloca a humanidade em risco. Agora, ele precisa contar com a ajuda da jovem bruxa Chloe para enfrentar o mal."
+    },
+    {
+      "show_name": "O Conde de Monte Cristo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-conde-de-monte-cristo-2024_l_m.jpg",
+      "show_category": "Adventure / 2024",
       "start_time": "22:00",
       "end_time": "",
-      "episode_description": "Kaulder é um caçador de bruxas amaldiçoado a viver eternamente. Um dia, uma nova ameaça surge e coloca a humanidade em risco. Agora, ele precisa contar com a ajuda da jovem bruxa Chloe para enfrentar o mal."
+      "episode_description": "Edmond Dantes é preso por um crime que não cometeu. Após 14 anos na prisão, ele consegue realizar uma fuga ousada. Agora rico além dos seus sonhos, ele assume a identidade do Conde de Monte Cristo e executa sua vingança."
     }
   ]
 }
