@@ -1,12 +1,20 @@
 {
   "channel": "HBO Family",
-  "date": "20/02/2026",
+  "date": "21/02/2026",
   "schedule": [
+    {
+      "show_name": "Speed Racer",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_speed-racer-2008_l_m.jpg",
+      "show_category": "Action / 2008 /6.1",
+      "start_time": "02:10",
+      "end_time": "04:29",
+      "episode_description": "Nascido em uma família de pilotos de carros, Speed Racer é uma estrela das corridas. Ao negar uma oferta lucrativa do empresário da Royalton Indústrias, Speed o deixa furioso e acaba descobrindo a corrupção dos patrocinadores em corridas. Para salvar os negócios da família, Speed participa do mesmo rali que matou seu irmão para desafiar um magnata corrupto."
+    },
     {
       "show_name": "O Grinch",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_o-grinch-2018_l_m.jpg",
       "show_category": "Children / 2018",
-      "start_time": "04:32",
+      "start_time": "04:29",
       "end_time": "06:00",
       "episode_description": "O mesquinho Grinch odeia o Natal e quer tornar todos os Whos da cidade de Whoville tão infelizes quanto ele. Ele tenta todos os ardilosos truques que consegue imaginar para roubar qualquer vestígio da data festiva."
     },

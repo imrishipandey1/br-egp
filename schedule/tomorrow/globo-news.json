@@ -1,6 +1,6 @@
 {
   "channel": "Globo News",
-  "date": "21/02/2026",
+  "date": "22/02/2026",
   "schedule": [
     {
       "show_name": "Jornal GloboNews - Edição da Meia-Noite",
@@ -87,8 +87,16 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-globonews-edic-o-do-meio-dia_l_m.jpg",
       "show_category": "News",
       "start_time": "12:00",
-      "end_time": "15:00",
+      "end_time": "14:30",
       "episode_description": "Acompanhe os principais fatos que acontecem no Brasil e no mundo."
+    },
+    {
+      "show_name": "Cidades e Soluções",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidades-e-soluc-es-1_l_m.jpg",
+      "show_category": "Public affairs",
+      "start_time": "14:30",
+      "end_time": "15:00",
+      "episode_description": "André Trigueiro abre espaço para as experiências que transformam para melhor a vida das pessoas e das cidades, com uso inteligente e sustentável dos recursos naturais."
     },
     {
       "show_name": "Jornal GloboNews - Edição das 15 Horas",

@@ -1,22 +1,46 @@
 {
   "channel": "TV Câmara",
-  "date": "20/02/2026",
+  "date": "21/02/2026",
   "schedule": [
     {
       "show_name": "Comissão",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o_l_m.jpg",
       "show_category": "Politics",
       "start_time": "00:00",
-      "end_time": "00:00",
+      "end_time": "06:00",
       "episode_description": "O programa transmite as discussões e votações do plenário."
     },
     {
-      "show_name": "Comissão",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o_l_m.jpg",
+      "show_name": "Câmara Debate",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_camara-debate_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "00:00",
+      "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": "A cada programa, dois parlamentares discutem os grandes temas que movimentam os trabalhos na Câmara dos Deputados."
+    },
+    {
+      "show_name": "Palavra Aberta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "06:30",
+      "end_time": "06:45",
+      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
+    },
+    {
+      "show_name": "Palavra Aberta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "06:45",
+      "end_time": "07:00",
+      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
+    },
+    {
+      "show_name": "Interesse Público",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_interesse-publico-1_l_m.jpg",
+      "show_category": "Law",
+      "start_time": "07:00",
       "end_time": "07:30",
-      "episode_description": "O programa transmite as discussões e votações do plenário."
+      "episode_description": "O programa divulga as ações do Ministério Público Federal em benefício do cidadão e da sociedade."
     },
     {
       "show_name": "Palavra Aberta",
@@ -35,84 +59,132 @@
       "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
     },
     {
-      "show_name": "Qual a Questão?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_qual-a-quest-o_l_m.jpg",
-      "show_category": "Public affairs",
+      "show_name": "Painel Eletrônico",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_painel-eletronico_l_m.jpg",
+      "show_category": "News",
       "start_time": "08:00",
-      "end_time": "08:30",
-      "episode_description": "Discussões sobre grandes temas da agenda nacional que mexem com o dia a dia dos brasileiros, como educação, economia, meio ambiente, empregos, tecnologia e saúde. Com participação de especialistas e representantes da sociedade civil."
-    },
-    {
-      "show_name": "Palavra Aberta",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
-      "show_category": "Interview",
-      "start_time": "08:30",
-      "end_time": "08:45",
-      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
-    },
-    {
-      "show_name": "Palavra Aberta",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
-      "show_category": "Interview",
-      "start_time": "08:45",
       "end_time": "09:00",
-      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
+      "episode_description": "Acompanhe as notícias e reportagens da Câmara dos Deputados, debates e votações do parlamentares."
     },
     {
-      "show_name": "Comissão",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o_l_m.jpg",
-      "show_category": "Politics",
-      "start_time": "09:00",
-      "end_time": "12:00",
-      "episode_description": "O programa transmite as discussões e votações do plenário."
-    },
-    {
-      "show_name": "Palavra Aberta",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
-      "show_category": "Interview",
-      "start_time": "12:00",
-      "end_time": "12:15",
-      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
-    },
-    {
-      "show_name": "Palavra Aberta",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
-      "show_category": "Interview",
-      "start_time": "12:15",
-      "end_time": "12:30",
-      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
-    },
-    {
-      "show_name": "Câmara Informa",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_camara-informa-1_l_m.jpg",
-      "show_category": "Politics",
-      "start_time": "12:30",
-      "end_time": "13:00",
-      "episode_description": "Reportagens sobre temas diversos."
-    },
-    {
-      "show_name": "Documentário TV Câmara",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_documentario-tv-camara_l_m.jpg",
+      "show_name": "Bora Entender?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bora-entender_l_m.jpg",
       "show_category": "Documentary",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "episode_description": "Explicação didática de temas que estão presentes no debate político, de forma imparcial, apresentando todas as visões envolvidas, para que o público entenda a questão e tire suas próprias conclusões."
+    },
+    {
+      "show_name": "Sessão Solene",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sess-o-solene-1_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "10:00",
+      "end_time": "12:00",
+      "episode_description": "Discussões e votações do plenário e das comissões com maior transparência à rede de elaboração das leis que regem o dia a dia da sociedade."
+    },
+    {
+      "show_name": "Participação Popular",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_participac-o-popular-1_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "episode_description": "O programa reúne deputados, analistas e o público ao vivo para saber o que o cidadão comum acha dos temas discutidos no Congresso."
+    },
+    {
+      "show_name": "Câmara Debate",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_camara-debate_l_m.jpg",
+      "show_category": "Politics",
       "start_time": "13:00",
+      "end_time": "13:30",
+      "episode_description": "A cada programa, dois parlamentares discutem os grandes temas que movimentam os trabalhos na Câmara dos Deputados."
+    },
+    {
+      "show_name": "Direto da Câmara",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_direto-da-camara_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "13:30",
       "end_time": "14:00",
-      "episode_description": "Veja documentários sobre aspectos importantes da história e da sociedade."
+      "episode_description": "As atividades dos deputados federais direto de Brasília."
     },
     {
       "show_name": "Comissão",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o_l_m.jpg",
       "show_category": "Politics",
       "start_time": "14:00",
-      "end_time": "20:00",
+      "end_time": "15:45",
       "episode_description": "O programa transmite as discussões e votações do plenário."
     },
     {
-      "show_name": "Comunidade em Cena",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_comunidade-em-cena-1_l_m.jpg",
-      "show_category": "Environment",
+      "show_name": "Cachaça de Paraty - Onde a Serra Encontra o Mar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "15:45",
+      "end_time": "16:00",
+      "episode_description": "Os alambiques de Paraty preservam a tradição da cachaça, outrora usada como moeda no Caminho do Ouro. Após anos de resistência, produtores mantiveram viva essa joia regional, com fermentação e destilação únicas onde a serra encontra o mar."
+    },
+    {
+      "show_name": "Expressão Nacional",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_express-o-nacional-1_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "episode_description": "Confira os debates sobre grandes temas da agenda nacional, com deputados e representantes do Governo e da sociedade civil."
+    },
+    {
+      "show_name": "Palavra Aberta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "17:00",
+      "end_time": "17:15",
+      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
+    },
+    {
+      "show_name": "Palavra Aberta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "17:15",
+      "end_time": "17:30",
+      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
+    },
+    {
+      "show_name": "Qual a Questão?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_qual-a-quest-o_l_m.jpg",
+      "show_category": "Public affairs",
+      "start_time": "17:30",
+      "end_time": "18:00",
+      "episode_description": "Discussões sobre grandes temas da agenda nacional que mexem com o dia a dia dos brasileiros, como educação, economia, meio ambiente, empregos, tecnologia e saúde. Com participação de especialistas e representantes da sociedade civil."
+    },
+    {
+      "show_name": "Participação Popular",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_participac-o-popular-1_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "episode_description": "O programa reúne deputados, analistas e o público ao vivo para saber o que o cidadão comum acha dos temas discutidos no Congresso."
+    },
+    {
+      "show_name": "A Linha da Memória",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "19:00",
+      "end_time": "19:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Câmara Debate",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_camara-debate_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "19:30",
+      "end_time": "20:00",
+      "episode_description": "A cada programa, dois parlamentares discutem os grandes temas que movimentam os trabalhos na Câmara dos Deputados."
+    },
+    {
+      "show_name": "Ponto de Vista",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ponto-de-vista-2009_l_m.jpg",
+      "show_category": "History",
       "start_time": "20:00",
       "end_time": "20:30",
-      "episode_description": "Documentários que divulgam experiências comunitárias bem-sucedidas, produzidos em parceria com TVs Comunitárias, a partir do apoio do Canal Saúde/Fiocruz."
+      "episode_description": "Convidados especiais discutem a respeito de temas relevantes da história mundial."
     },
     {
       "show_name": "Elas Pautam",
@@ -123,44 +195,44 @@
       "episode_description": "O programa conta com a participação de duas parlamentares, em uma conversa informal sobre temas diversos de interesse da bancada feminina."
     },
     {
-      "show_name": "Qual a Questão?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_qual-a-quest-o_l_m.jpg",
-      "show_category": "Public affairs",
-      "start_time": "21:00",
-      "end_time": "21:30",
-      "episode_description": "Discussões sobre grandes temas da agenda nacional que mexem com o dia a dia dos brasileiros, como educação, economia, meio ambiente, empregos, tecnologia e saúde. Com participação de especialistas e representantes da sociedade civil."
-    },
-    {
-      "show_name": "Documentário TV Câmara",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_documentario-tv-camara_l_m.jpg",
-      "show_category": "Documentary",
-      "start_time": "21:30",
-      "end_time": "22:30",
-      "episode_description": "Veja documentários sobre aspectos importantes da história e da sociedade."
-    },
-    {
-      "show_name": "Parlamento Brasil",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
+      "show_name": "Expressão Nacional",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_express-o-nacional-1_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "22:30",
-      "end_time": "23:00",
-      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
+      "start_time": "21:00",
+      "end_time": "22:00",
+      "episode_description": "Confira os debates sobre grandes temas da agenda nacional, com deputados e representantes do Governo e da sociedade civil."
     },
     {
-      "show_name": "Câmara Informa",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_camara-informa-1_l_m.jpg",
+      "show_name": "Medicina no Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_medicina-no-brasil_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "22:00",
+      "end_time": "23:00",
+      "episode_description": "O documentário olha para a atividade médica no país, dos curandeiros e pajés aos cientistas, dos médicos que trabalham em pequenos postos de saúde nos lugares mais remotos do país aos que trabalham na emergência de hospitais de grandes cidades."
+    },
+    {
+      "show_name": "Câmara Debate",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_camara-debate_l_m.jpg",
       "show_category": "Politics",
       "start_time": "23:00",
       "end_time": "23:30",
-      "episode_description": "Reportagens sobre temas diversos."
+      "episode_description": "A cada programa, dois parlamentares discutem os grandes temas que movimentam os trabalhos na Câmara dos Deputados."
     },
     {
-      "show_name": "Documentário TV Câmara",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_documentario-tv-camara_l_m.jpg",
-      "show_category": "Documentary",
+      "show_name": "Palavra Aberta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
+      "show_category": "Interview",
       "start_time": "23:30",
+      "end_time": "23:45",
+      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
+    },
+    {
+      "show_name": "Palavra Aberta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "23:45",
       "end_time": "00:00",
-      "episode_description": "Veja documentários sobre aspectos importantes da história e da sociedade."
+      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
     }
   ]
 }

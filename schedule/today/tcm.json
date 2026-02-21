@@ -1,6 +1,6 @@
 {
   "channel": "TCM",
-  "date": "20/02/2026",
+  "date": "21/02/2026",
   "schedule": [
     {
       "show_name": "À Queima Roupa",
@@ -39,6 +39,22 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
       "show_category": "Talk",
       "start_time": "06:00",
+      "end_time": "06:38",
+      "episode_description": "Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects."
+    },
+    {
+      "show_name": "Hollywood One on One",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
+      "show_category": "Talk",
+      "start_time": "06:38",
+      "end_time": "07:16",
+      "episode_description": "Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects."
+    },
+    {
+      "show_name": "Hollywood One on One",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
+      "show_category": "Talk",
+      "start_time": "07:16",
       "end_time": "07:53",
       "episode_description": "Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects."
     },
@@ -71,22 +87,22 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_o-segredo-das-joias-1950_l_m.jpg",
       "show_category": "Crime drama / 1950",
       "start_time": "13:57",
-      "end_time": "15:52",
+      "end_time": "15:53",
       "episode_description": "Riedenschneider é um ladrão famoso que já saiu da prisão com um plano: formar uma quadrilha e roubar 500 mil dólares em joias. Tudo vai bem até que pequenos incidentes e a ganância de cada um dos membros da gangue ameaçam arruinar todo o esquema."
     },
     {
       "show_name": "Camelot",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_camelot-1967_l_m.jpg",
       "show_category": "Musical / 1967 /6.6",
-      "start_time": "15:52",
-      "end_time": "18:53",
+      "start_time": "15:53",
+      "end_time": "18:54",
       "episode_description": "O rei Arthur se casa com a bela Guinevere e planeja criar uma era de paz e justiça. O arrojado Lancelot se junta ao reino, mas logo se apaixona pela esposa do rei. Mordred, o filho ilegítimo de Arthur, vê no caso uma oportunidade para sabotar o pai."
     },
     {
       "show_name": "O Ciclista",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_o-ciclista-2020_l_m.jpg",
       "show_category": "Drama / 2020",
-      "start_time": "18:53",
+      "start_time": "18:54",
       "end_time": "20:29",
       "episode_description": "Um ciclista de apoio sonha em vencer o Tour de France, mas diante da impossibilidade de alcançar o seu sonho, se prepara para sua última competição. Até que um erro de doping o leva de volta ao circuito, abrindo novas possibilidades."
     },
@@ -108,11 +124,11 @@
     },
     {
       "show_name": "Outros Pecados",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_outros-pecados-s01e03-a-caldeira_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 3 - A Caldeira",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_outros-pecados-s01e02-as-m-os_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - As Mãos",
       "start_time": "23:42",
-      "end_time": "00:36",
-      "episode_description": "Paola e o seu ex, Pablo, se reencontram dez anos depois em um hotel que ela aluga. Só que ele chega com sua família - a esposa Delfina e seus filhos Dante e José. Paola fica com inveja e quer vingança."
+      "end_time": "00:29",
+      "episode_description": "Catalina é uma notável tenista que, graças a Verônica, sua rigorosa treinadora, chega ao estrelato, mas logo se apaixona e quer assumir o controle de sua vida, causando uma reação inesperada de sua treinadora."
     }
   ]
 }
