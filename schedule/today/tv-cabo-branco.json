@@ -3,188 +3,132 @@
   "date": "22/02/2026",
   "schedule": [
     {
+      "show_name": "Sobre Ontem à Noite",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sobre-ontem-a-noite-2014-1_l_m.jpg",
+      "show_category": "Romantic comedy / 2014",
+      "start_time": "00:35",
+      "end_time": "02:25",
+      "episode_description": "Após uma aventura imprevisível de apenas uma noite, dois casais tentam transformar seu romance casual em amor verdadeiro, vivenciando as responsabilidades que compõem um relacionamento."
+    },
+    {
       "show_name": "Coração Acelerado",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_corac-o-acelerado_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_corac-o-acelerado_l_m.jpg",
       "show_category": "Soap",
-      "start_time": "00:40",
-      "end_time": "01:25",
+      "start_time": "02:25",
+      "end_time": "03:05",
       "episode_description": "Zilá pede que Ronei deixe a mansão dos Amaral e pressiona Cinara para salvar seu casamento com Alaorzinho; Janete, Zuzu e Nanda visitam a construção da sede da cooperativa; Ronei inicia a gravação do clipe de João Raul, Agrado e Naiane."
     },
     {
       "show_name": "Vai que Cola",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_vai-que-cola-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-1_l_m.jpg",
       "show_category": "Comedy",
-      "start_time": "01:25",
-      "end_time": "02:20",
+      "start_time": "03:05",
+      "end_time": "04:05",
       "episode_description": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede."
     },
     {
       "show_name": "Jogos Olímpicos de Inverno Milão-Cortina 2026",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_olympics-jogos-olimpicos-de-inverno-mil-o-cortina-2026-1_l_m.webp",
-      "show_category": "",
-      "start_time": "02:20",
-      "end_time": "04:20",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jogos-olimpicos-de-inverno-mil-o-cortina-2026_l_m.jpg",
+      "show_category": "Olympics",
+      "start_time": "04:05",
+      "end_time": "06:00",
       "episode_description": "Os principais destaques da 25ª edição dos Jogos Olímpicos de inverno, realizada na Itália."
     },
     {
-      "show_name": "Kung Fu Yoga",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_kung-fu-yoga-2017_l_m.webp",
-      "show_category": "Action / 2017 /5.2",
-      "start_time": "04:20",
-      "end_time": "06:00",
-      "episode_description": "Professor de arqueologia, reconhecido mundialmente, parte junto com sua equipe em busca de um cobiçado tesouro indiano. No entanto, um grupo de mercenários intercepta o grupo e eles precisam recorrer ao seu conhecimento para sobreviver."
+      "show_name": "Santa Missa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_santa-missa_l_m.jpg",
+      "show_category": "Religious",
+      "start_time": "06:00",
+      "end_time": "06:50",
+      "episode_description": "Acompanhe a celebração da santa missa em João Pessoa."
+    },
+    {
+      "show_name": "Globo Repórter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_globo-reporter-1_l_m.jpg",
+      "show_category": "Newsmagazine",
+      "start_time": "06:50",
+      "end_time": "07:40",
+      "episode_description": "O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo."
+    },
+    {
+      "show_name": "Paraíba Comunidade",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_paraiba-comunidade_l_m.jpg",
+      "show_category": "Community",
+      "start_time": "07:40",
+      "end_time": "08:10",
+      "episode_description": "O programa coloca em pauta os temas de estações como verão, festas populares e Semana Santa, bem como as expressões da cultura popular e a preservação do patrimônio histórico e cultural do estado."
+    },
+    {
+      "show_name": "AutoEsporte",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_auto-autoesporte_l_m.jpg",
+      "show_category": "",
+      "start_time": "08:10",
+      "end_time": "08:40",
+      "episode_description": "A revista eletrônica do setor automotivo apresenta as últimas notícias sobre automóveis, nacionais e importados, além de lançamentos, segredos, curiosidades, comparativos e testes."
     },
     {
       "show_name": "Globo Rural",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_globo-rural-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_globo-rural-1_l_m.jpg",
       "show_category": "Agriculture",
-      "start_time": "06:00",
-      "end_time": "06:50",
+      "start_time": "08:40",
+      "end_time": "10:15",
       "episode_description": "Acompanhe as principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais."
     },
     {
-      "show_name": "Bom Dia Sábado",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_bom-dia-sabado_l_m.webp",
-      "show_category": "News",
-      "start_time": "06:50",
-      "end_time": "07:50",
-      "episode_description": "As principais notícias do Brasil para começar o final de semana bem-informado."
+      "show_name": "Viver Sertanejo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_viver-sertanejo_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "10:15",
+      "end_time": "11:10",
+      "episode_description": "Daniel abre a porteira de sua fazenda para receber grandes astros da música sertaneja. Juntos, eles relembram suas trajetórias, falam sobre suas inspirações e se deixam levar pelas modas de viola."
     },
     {
-      "show_name": "Pequenas Empresas & Grandes Negócios",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_pequenas-empresas-grandes-negocios-2_l_m.webp",
-      "show_category": "Bus./financial",
-      "start_time": "07:50",
-      "end_time": "08:30",
-      "episode_description": "Informações e reportagens de grande interesse para empreendedores, pequenos e médios empresários."
-    },
-    {
-      "show_name": "É de Casa",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_e-de-casa-1_l_m.webp",
-      "show_category": "Home improvement",
-      "start_time": "08:30",
-      "end_time": "11:45",
-      "episode_description": "A equipe do programa discute e comenta assuntos que são comuns a todas as famílias. O que está sendo falado na imprensa, o que se fala nas ruas e, é claro, dentro de casa."
-    },
-    {
-      "show_name": "JPB1",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_jpb1_l_m.webp",
-      "show_category": "News",
-      "start_time": "11:45",
-      "end_time": "13:00",
-      "episode_description": "Acompanhe os acontecimentos do dia a dia e os debates entre a população e as autoridades."
-    },
-    {
-      "show_name": "Globo Esporte PB",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_news-globo-esporte-pb_l_m.webp",
+      "show_name": "Esporte Espetacular",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_newsmagazine-esporte-espetacular-2_l_m.jpg",
       "show_category": "",
+      "start_time": "11:10",
+      "end_time": "13:00",
+      "episode_description": "Fique por dentro de tudo o que rolou durante a semana nos esportes e veja os gols pelo mundo afora. Entrevistas, reportagens sobre ciência esportiva e personagens históricos também fazem parte da atração."
+    },
+    {
+      "show_name": "Jurassic World - Reino Ameaçado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jurassic-world-reino-ameacado-2018_l_m.jpg",
+      "show_category": "Adventure / 2018",
       "start_time": "13:00",
-      "end_time": "13:25",
-      "episode_description": "Os principais acontecimentos esportivos notícia na Paraíba, no Brasil e no mundo."
+      "end_time": "14:55",
+      "episode_description": "Três anos após o fechamento do Jurassic World, um vulcão prestes a entrar em erupção põe em risco a vida na ilha Nublar. Não há mais qualquer presença humana no local e os dinossauros vivem livremente. Claire e Owen decidem resgatar os animais e retornam à ilha para a missão. Lá, a dupla encontra novas e aterrorizantes raças de dinossauros gigantes ao descobrir uma conspiração que ameaça todo o planeta."
     },
     {
-      "show_name": "Jornal Hoje",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_jornal-hoje-1_l_m.webp",
-      "show_category": "News",
-      "start_time": "13:25",
-      "end_time": "14:10",
-      "episode_description": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais."
+      "show_name": "Domingão com Huck",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_doming-o-com-huck-s2026e233_l_m.jpg",
+      "show_category": "Temporada 2026 Episódio 233",
+      "start_time": "14:55",
+      "end_time": "17:45",
+      "episode_description": "Dilsinho é o convidado do Quem Vem Pra Cantar. Além de apresentar seus sucessos e animar a plateia, o artista tenta adivinhar quem é o cantor misterioso que marcou sua trajetória e com quem tem a oportunidade de dividir o palco da atração."
     },
     {
-      "show_name": "Terra Nostra - Edição Especial",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_terra-nostra-edic-o-especial_l_m.webp",
-      "show_category": "Soap",
-      "start_time": "14:10",
-      "end_time": "14:30",
-      "episode_description": "Uma parte da história da formação da sociedade brasileira do início do século XX é contada a partir do romance de dois jovens italianos, Giuliana e Matteo. Eles se conhecem em 1894 a bordo do navio que transporta imigrantes para trabalhar no Brasil."
+      "show_name": "Treze x Nacional de Patos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-treze-x-nacional-de-patos_l_m.jpg",
+      "show_category": "Campeonato Paraibano de Futebol",
+      "start_time": "17:45",
+      "end_time": "20:15",
+      "episode_description": "Pela nona e última rodada da primeira fase, o Treze enfrenta o Nacional de Patos no Estádio Amigão, em Campina Grande, PB. O Galo da Borborema só depende de si para avançar às semis, enquanto o Verdão Maravilha precisa vencer e \"secar\" concorrentes."
     },
     {
-      "show_name": "Minha Paraíba",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_minha-paraiba_l_m.webp",
-      "show_category": "Community",
-      "start_time": "14:30",
-      "end_time": "15:15",
-      "episode_description": "O público envia as histórias reais de paraibanos e paraibanas que fazem a diferença, valorizam suas origens ou simplesmente representam o orgulho de ser da Paraíba."
-    },
-    {
-      "show_name": "Escolinha do Professor Raimundo",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_escolinha-do-professor-raimundo_l_m.webp",
-      "show_category": "Comedy",
-      "start_time": "15:15",
-      "end_time": "16:15",
-      "episode_description": "Acompanhe as trapalhadas e maluquices dos alunos na sala de aula do professor Raimundo."
-    },
-    {
-      "show_name": "Caldeirão com Mion",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_caldeir-o-com-mion_l_m.webp",
-      "show_category": "Entertainment",
-      "start_time": "16:15",
-      "end_time": "18:40",
-      "episode_description": "Marcos Mion traz alegria ao programa de auditório com quadros animados, desafios inéditos e atrações musicais especiais."
-    },
-    {
-      "show_name": "Êta Mundo Melhor!",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_eta-mundo-melhor_l_m.webp",
-      "show_category": "Drama",
-      "start_time": "18:40",
-      "end_time": "19:25",
-      "episode_description": "Todos comemoram a volta de Dita aos palcos; Candinho denuncia os maus-tratos da Baronesa a Policarpo; Sandra anuncia uma campanha para o retorno de Policarpo aos cuidados de Candinho."
-    },
-    {
-      "show_name": "JPB2",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_jpb2_l_m.webp",
-      "show_category": "News",
-      "start_time": "19:25",
-      "end_time": "19:45",
-      "episode_description": "Acompanhe os acontecimentos do dia a dia e os debates entre a população e as autoridades."
-    },
-    {
-      "show_name": "Coração Acelerado",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_corac-o-acelerado_l_m.webp",
-      "show_category": "Soap",
-      "start_time": "19:45",
-      "end_time": "20:30",
-      "episode_description": "Zilá pede que Ronei deixe a mansão dos Amaral e pressiona Cinara para salvar seu casamento com Alaorzinho; Janete, Zuzu e Nanda visitam a construção da sede da cooperativa; Ronei inicia a gravação do clipe de João Raul, Agrado e Naiane."
-    },
-    {
-      "show_name": "Jornal Hoje",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_jornal-hoje-1_l_m.webp",
-      "show_category": "News",
-      "start_time": "20:30",
-      "end_time": "21:20",
-      "episode_description": "As principais notícias do dia a dia e temas de interesse geral no Brasil e no mundo, além de reportagens e séries especiais."
-    },
-    {
-      "show_name": "Três Graças",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_tres-gracas_l_m.webp",
-      "show_category": "Drama",
-      "start_time": "21:20",
-      "end_time": "22:25",
-      "episode_description": "Joélly finge não se lembrar de quem a levou para a clínica; Macedo mostra imagens de Viviane destruindo a Casa de Farinha ao lado de Leonardo; Ferette comenta com Macedo que provará que Rogério era o chefe do esquema dos remédios falsos."
+      "show_name": "Fantástico",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_fantastico_l_m.jpg",
+      "show_category": "Newsmagazine",
+      "start_time": "20:15",
+      "end_time": "22:45",
+      "episode_description": "Em forma de revista eletrônica, o programa mistura jornalismo, denúncia, esporte, humor, dramaturgia, música e ciência."
     },
     {
       "show_name": "Big Brother Brasil",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_big-brother-brasil-s26e41_l_m.webp",
-      "show_category": "Temporada 26 Episódio 41",
-      "start_time": "22:25",
-      "end_time": "22:55",
-      "episode_description": "Dia de Prova do Anjo. O Big Fone surpreende os participantes. Quem atender deve selecionar um entre três adversários de sua preferência para enfrentar no Duelo de Risco. Um competidor é emparedado enquanto outro conquista imunidade."
-    },
-    {
-      "show_name": "Carnaval 2026",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_carnaval-2026_l_m.webp",
-      "show_category": "Event",
-      "start_time": "22:55",
-      "end_time": "23:15",
-      "episode_description": "Transmissão dos desfiles das escolas de samba do Carnaval de 2026."
-    },
-    {
-      "show_name": "Altas Horas",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/tv-cabo-branco/today/br_altas-horas-1_l_m.webp",
-      "show_category": "Entertainment",
-      "start_time": "23:15",
-      "end_time": "00:35",
-      "episode_description": "Serginho Groisman promove debates sobre temas relevantes com a participação da plateia, artistas e personalidades de diferentes áreas."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_big-brother-brasil-s26e42_l_m.jpg",
+      "show_category": "Temporada 26 Episódio 42",
+      "start_time": "22:45",
+      "end_time": "00:05",
+      "episode_description": "Na formação de Paredão, o vencedor do Duelo de Risco fica imune e o Anjo pode imunizar uma ou duas pessoas se abdicar do vídeo familiar. O Líder indica um participante, a casa vota em outro e o perdedor do Duelo dá Contragolpe."
     }
   ]
 }
