@@ -1,6 +1,6 @@
 {
   "channel": "CNN Brasil",
-  "date": "21/02/2026",
+  "date": "22/02/2026",
   "schedule": [
     {
       "show_name": "Hora H",
@@ -43,84 +43,84 @@
       "episode_description": "Reportagens para começar o dia com as informações que importam."
     },
     {
-      "show_name": "O Grande Debate",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-grande-debate_l_m.jpg",
-      "show_category": "Debate",
+      "show_name": "Agora CNN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_agora-cnn_l_m.jpg",
+      "show_category": "News",
       "start_time": "11:00",
       "end_time": "12:00",
-      "episode_description": "Acompanhe discussões de temas importantes da sociedade com pontos de vista diferentes."
+      "episode_description": "Reportagens para começar o dia com as informações que importam."
     },
     {
       "show_name": "Agora CNN",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_agora-cnn_l_m.jpg",
       "show_category": "News",
       "start_time": "12:00",
-      "end_time": "13:00",
+      "end_time": "13:30",
       "episode_description": "Reportagens para começar o dia com as informações que importam."
     },
     {
       "show_name": "WW",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_ww_l_m.jpg",
       "show_category": "Talk",
-      "start_time": "13:00",
-      "end_time": "13:45",
+      "start_time": "13:30",
+      "end_time": "14:30",
       "episode_description": "O jornalista William Waack recebe convidados para debater os temas mais relevantes que ocupam as manchetes do Brasil e do mundo durante a semana."
+    },
+    {
+      "show_name": "CNN Viagem & Gastronomia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cnn-viagem-gastronomia-1_l_m.jpg",
+      "show_category": "Travel",
+      "start_time": "14:30",
+      "end_time": "15:30",
+      "episode_description": "Fique por dentro de notícias e serviços relacionados ao universo do lifestyle, turismo e culinária."
+    },
+    {
+      "show_name": "CNN Viagem & Gastronomia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cnn-viagem-gastronomia-1_l_m.jpg",
+      "show_category": "Travel",
+      "start_time": "15:30",
+      "end_time": "16:15",
+      "episode_description": "Fique por dentro de notícias e serviços relacionados ao universo do lifestyle, turismo e culinária."
+    },
+    {
+      "show_name": "Agora CNN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_agora-cnn_l_m.jpg",
+      "show_category": "News",
+      "start_time": "16:15",
+      "end_time": "17:15",
+      "episode_description": "Reportagens para começar o dia com as informações que importam."
+    },
+    {
+      "show_name": "É Negócio",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_e-negocio_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "17:15",
+      "end_time": "17:45",
+      "episode_description": "O jornalista Carlos Sambrana recebe semanalmente grandes líderes do mundo empresarial. O universo dos negócios e das finanças, os desafios da economia e inovação são os principais temas abordados pelo apresentador e seus convidados especiais."
+    },
+    {
+      "show_name": "Boletim Agora CNN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_boletim-agora-cnn_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "17:45",
+      "end_time": "18:00",
+      "episode_description": ""
     },
     {
       "show_name": "CNN Esportes S/A",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_interview-cnn-esportes-s-a_l_m.jpg",
       "show_category": "",
-      "start_time": "13:45",
-      "end_time": "14:30",
+      "start_time": "18:00",
+      "end_time": "18:45",
       "episode_description": "Acompanhe temas e entrevistas que buscam mostrar o lado business do mundo do futebol."
     },
     {
-      "show_name": "The Golf Brasil",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sports-talk-the-golf-brasil_l_m.jpg",
-      "show_category": "",
-      "start_time": "14:30",
-      "end_time": "15:00",
-      "episode_description": "O programa traz os atletas e o mundo que rodeia o golf, como o seu círculo de tomadores de decisão, empresários, executivos, empreendedores e personalidades. Além, é claro, de cobrir os eventos e os fãs do esporte."
-    },
-    {
       "show_name": "Agora CNN",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_agora-cnn_l_m.jpg",
       "show_category": "News",
-      "start_time": "15:00",
-      "end_time": "16:00",
-      "episode_description": "Reportagens para começar o dia com as informações que importam."
-    },
-    {
-      "show_name": "O Grande Debate",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-grande-debate_l_m.jpg",
-      "show_category": "Debate",
-      "start_time": "16:00",
-      "end_time": "17:00",
-      "episode_description": "Acompanhe discussões de temas importantes da sociedade com pontos de vista diferentes."
-    },
-    {
-      "show_name": "Agora CNN",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_agora-cnn_l_m.jpg",
-      "show_category": "News",
-      "start_time": "17:00",
-      "end_time": "18:00",
-      "episode_description": "Reportagens para começar o dia com as informações que importam."
-    },
-    {
-      "show_name": "GPS CNN",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_gps-cnn_l_m.jpg",
-      "show_category": "Variety",
-      "start_time": "18:00",
-      "end_time": "18:30",
-      "episode_description": "Guia informativo sobre política e temas que envolvem a sociedade, além de pesquisas em parceria com Instituto Atlas Intel."
-    },
-    {
-      "show_name": "CNN Entrevistas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cnn-entrevistas_l_m.jpg",
-      "show_category": "Interview",
-      "start_time": "18:30",
+      "start_time": "18:45",
       "end_time": "19:30",
-      "episode_description": "Entrevistas com personalidades ilustres das artes, ciências e política."
+      "episode_description": "Reportagens para começar o dia com as informações que importam."
     },
     {
       "show_name": "CNN Sinais Vitais - Dr. Kalil Entrevista",
@@ -139,35 +139,35 @@
       "episode_description": "Acompanhe os fatos mais importantes do dia no Brasil e no mundo em um jornal dinâmico e com repórteres espalhados pelo país, EUA e Europa. Veja notícias de Brasília com análises, além do fechamento do mercado financeiro e assuntos econômicos."
     },
     {
-      "show_name": "CNN Entrevistas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cnn-entrevistas_l_m.jpg",
-      "show_category": "Interview",
+      "show_name": "O Grande Debate",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-grande-debate_l_m.jpg",
+      "show_category": "Debate",
       "start_time": "21:00",
       "end_time": "22:00",
-      "episode_description": "Entrevistas com personalidades ilustres das artes, ciências e política."
+      "episode_description": "Acompanhe discussões de temas importantes da sociedade com pontos de vista diferentes."
     },
     {
       "show_name": "CNN Viagem & Gastronomia",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_cnn-viagem-gastronomia-1_l_m.jpg",
       "show_category": "Travel",
       "start_time": "22:00",
-      "end_time": "22:45",
+      "end_time": "22:50",
       "episode_description": "Fique por dentro de notícias e serviços relacionados ao universo do lifestyle, turismo e culinária."
     },
     {
       "show_name": "CNN Viagem & Gastronomia",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_cnn-viagem-gastronomia-1_l_m.jpg",
       "show_category": "Travel",
-      "start_time": "22:45",
-      "end_time": "23:30",
+      "start_time": "22:50",
+      "end_time": "23:35",
       "episode_description": "Fique por dentro de notícias e serviços relacionados ao universo do lifestyle, turismo e culinária."
     },
     {
       "show_name": "CNN Prime Time",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_cnn-prime-time_l_m.jpg",
       "show_category": "News",
-      "start_time": "23:30",
-      "end_time": "00:30",
+      "start_time": "23:35",
+      "end_time": "01:20",
       "episode_description": "Acompanhe os fatos mais importantes do dia no Brasil e no mundo em um jornal dinâmico e com repórteres espalhados pelo país, EUA e Europa. Veja notícias de Brasília com análises, além do fechamento do mercado financeiro e assuntos econômicos."
     }
   ]

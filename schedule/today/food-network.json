@@ -1,124 +1,132 @@
 {
   "channel": "Food Network",
-  "date": "21/02/2026",
+  "date": "22/02/2026",
   "schedule": [
+    {
+      "show_name": "Sabores da Itália",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabores-da-italia-s08e02-jantar-de-domingo_l_m.jpg",
+      "show_category": "Temporada 8 Episódio 2 - Jantar de Domingo",
+      "start_time": "00:05",
+      "end_time": "00:29",
+      "episode_description": "Nas famílias italianas, as refeições são um evento social, principalmente aos domingos. Giada preparou uma suculenta perna de carneiro, tomates recheados com ervas e uma torta de chocolate e ricota inacreditável."
+    },
     {
       "show_name": "Receitas Caseiras da Valerie",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_receitas-caseiras-da-valerie-s11e02-sabado_l_m.jpg",
       "show_category": "Temporada 11 Episódio 2 - Sábado",
-      "start_time": "00:11",
-      "end_time": "00:33",
+      "start_time": "00:29",
+      "end_time": "00:53",
       "episode_description": "Valerie Bertinelli quer garantir seu sucesso nos pratos do fim de semana, então, já prepara uma caçarola de rabanada rápida com calda de morango, e sopa de ervilha com mascarpone de limão."
     },
     {
       "show_name": "Receitas Caseiras da Valerie",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_receitas-caseiras-da-valerie-s11e03-dia-de-jogo_l_m.jpg",
       "show_category": "Temporada 11 Episódio 3 - Dia de Jogo",
-      "start_time": "00:33",
-      "end_time": "00:56",
+      "start_time": "00:53",
+      "end_time": "01:16",
       "episode_description": "Valerie recebe sua amiga Lisa e o marido dela, um ex-jogador de beisebol, com pipoca caramelada. Ela ainda prepara os petiscos preferidos dos estádios, como salsichão grelhado e milho assado com manteiga defumada."
     },
     {
       "show_name": "Refeição em 30 Minutos",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_refeic-o-em-30-minutos-s28e08-frio-e-novo_l_m.jpg",
       "show_category": "Temporada 28 Episódio 8 - Frio e Novo",
-      "start_time": "00:56",
-      "end_time": "01:19",
+      "start_time": "01:16",
+      "end_time": "01:39",
       "episode_description": "A noite do sanduíche não vai ser um tédio com o sanduíche inovador e a salada de penne de Rachael, em menos de 30 minutos. Sanduíches italianos de lombo de porco e frango; penne ao pesto de ervas variadas."
     },
     {
       "show_name": "Refeição em 30 Minutos",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_refeic-o-em-30-minutos-s28e03-um-hamburguer-audacioso_l_m.jpg",
       "show_category": "Temporada 28 Episódio 3 - Um Hambúrguer Audacioso",
-      "start_time": "01:19",
-      "end_time": "01:40",
+      "start_time": "01:39",
+      "end_time": "02:00",
       "episode_description": "Este banquete carnívoro não será recusado por amantes de hambúrguer: um fantástico sanduíche de salame e batatas à moda italiana com queijo."
     },
     {
       "show_name": "Loucos por Churrasco",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_loucos-por-churrasco-s03e13-churrasco-fresco-e-saudavel_l_m.jpg",
       "show_category": "Temporada 3 Episódio 13 - Churrasco Fresco e Saudável",
-      "start_time": "01:40",
-      "end_time": "02:01",
+      "start_time": "02:00",
+      "end_time": "02:21",
       "episode_description": "Mantendo em mente a saúde e a boa forma, Bobby Flay criou um cardápio delicioso e livre de culpa. Truta com radicchio grelhados e vinagrete de laranja e amêndoas; atum grelhado com cuscuz de ratatouille grelhado com pesto desconstruído."
     },
     {
       "show_name": "Loucos por Churrasco",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_loucos-por-churrasco-s04e09-basicos-do-bobby-hamburguer-fritas-e-milk-shakes_l_m.jpg",
       "show_category": "Temporada 4 Episódio 9 - Básicos do Bobby - Hambúrguer, Fritas e Milk-Shakes",
-      "start_time": "02:01",
-      "end_time": "02:22",
+      "start_time": "02:21",
+      "end_time": "02:42",
       "episode_description": "Bobby Flay coloca na grelha um típico um cardápio americano. Hambúrguer de carne e hambúrguer de peru com mostarda de raiz-forte e ketchup de chipotle; batata-doce frita com molho de mel e mostarda e milk-shake inspirado por pêssegos."
     },
     {
       "show_name": "Sabor na Brasa",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sabor-na-brasa-s03e06-a-arte-do-presunto_l_m.jpg",
       "show_category": "Temporada 3 Episódio 6 - A Arte do Presunto",
-      "start_time": "02:22",
-      "end_time": "02:44",
+      "start_time": "02:42",
+      "end_time": "03:04",
       "episode_description": "Roger Mooking visita os melhores fornecedores de carne de porco dos Estados Unidos. Ele conhece Sam Edwards, que produz presuntos defumados há três gerações, e Allan Benton, que transformou a cura a seco de presunto e bacon em uma arte."
     },
     {
       "show_name": "Sabor na Brasa",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sabor-na-brasa-s03e04-sabores-das-carolinas_l_m.jpg",
       "show_category": "Temporada 3 Episódio 4 - Sabores das Carolinas",
-      "start_time": "02:44",
-      "end_time": "03:05",
+      "start_time": "03:04",
+      "end_time": "03:25",
       "episode_description": "Na Carolina do Sul e Carolina do Norte, Roger Mooking visita os tradicionais restaurantes Sweatman's e Stamey's Barbecue, que preparam churrascos de carne de porco."
     },
     {
       "show_name": "Lanchonetes Clássicas com Guy Fieri",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s21e08-carne-no-meio-de-tudo_l_m.jpg",
       "show_category": "Temporada 21 Episódio 8 - Carne no Meio de Tudo",
-      "start_time": "03:05",
-      "end_time": "03:26",
+      "start_time": "03:25",
+      "end_time": "03:46",
       "episode_description": "Guy prova pratos recheados de coisas deliciosas. Ele visita um bar aconchegante em Baltimore que serve massas e faz um ravióli primoroso. No Oregon, um food truck prepara sanduíches que são verdadeiras obras de arte feitas de carne e queijo."
     },
     {
       "show_name": "Lanchonetes Clássicas com Guy Fieri",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s21e09-sopa-no-foco_l_m.jpg",
       "show_category": "Temporada 21 Episódio 9 - Sopa no Foco",
-      "start_time": "03:26",
-      "end_time": "03:47",
+      "start_time": "03:46",
+      "end_time": "04:07",
       "episode_description": "Guy prova sopas para valer. Em Baltimore, um autêntico pub irlandês serve gumbo de frutos do mar e dá um toque único a um prato tradicional; em Eugene, no Oregon, um lugar serve 80 tipos de sopa; em Cincinnati, o cardápio inclui comida vietnamita."
     },
     {
       "show_name": "Lanchonetes Clássicas com Guy Fieri",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s21e10-baltimore-o-tempo-todo_l_m.jpg",
       "show_category": "Temporada 21 Episódio 10 - Baltimore o Tempo Todo",
-      "start_time": "03:47",
-      "end_time": "04:08",
+      "start_time": "04:07",
+      "end_time": "04:28",
       "episode_description": "Guy vai fazer uma turnê pelo sabor de Baltimore. Um restaurante que é uma lenda na região serve todos os tipos de pratos com caranguejo. Depois, um lugar que utiliza produtos locais faz um rolo de carne enrolado com bacon."
     },
     {
       "show_name": "Locos x el asado",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_locos-x-el-asado-s03e03-carne-organica_l_m.jpg",
       "show_category": "Temporada 3 Episódio 3 - Carne Orgânica",
-      "start_time": "04:08",
-      "end_time": "04:32",
+      "start_time": "04:28",
+      "end_time": "04:52",
       "episode_description": "Conheça El Mercado del Progreso, o lugar ideal para comprar ingredientes orgânicos em Buenos Aires, com a chef Christina Sunae."
     },
     {
       "show_name": "Locos x el asado",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_locos-x-el-asado-s03e04-pizzas_l_m.jpg",
       "show_category": "Temporada 3 Episódio 4 - Pizzas",
-      "start_time": "04:32",
-      "end_time": "04:56",
+      "start_time": "04:52",
+      "end_time": "05:16",
       "episode_description": "O programa prepara pizzas na brasa e um calzone de frango no forno de barro. A Salvaje Bakery revela os segredos da massa azeda, enquanto o especialista Danilo Ferraz ensina a fazer as mais deliciosas pizzas."
     },
     {
       "show_name": "Locos x el asado",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_locos-x-el-asado-s03e05-fus-o_l_m.jpg",
       "show_category": "Temporada 3 Episódio 5 - Fusão",
-      "start_time": "04:56",
-      "end_time": "05:17",
+      "start_time": "05:16",
+      "end_time": "05:38",
       "episode_description": "Acompanhe a fusão de pratos típicos argentinos e peruanos. Gustavo Montestruque, chef do prestigiado restaurante La Mar, ensina a preparar peixe ao sal grosso, ceviche e outros pratos típicos do Peru."
     },
     {
       "show_name": "Locos x el asado",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_locos-x-el-asado-s03e07-carnes-exoticas_l_m.jpg",
       "show_category": "Temporada 3 Episódio 7 - Carnes Exóticas",
-      "start_time": "05:17",
+      "start_time": "05:38",
       "end_time": "06:00",
       "episode_description": "Veja a preparação de carnes exóticas com sabores intensos. Para isso, é preciso assá-las usando técnicas alternativas, ensinadas por Agustín Brañas, chef do Chubut Food and Fire de Gstaad, Suíça."
     },
@@ -127,280 +135,272 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_duelo-com-bobby-flay-s08e12-a-batata-ta-assando_l_m.jpg",
       "show_category": "Temporada 8 Episódio 12 - A Batata Tá Assando!",
       "start_time": "06:00",
-      "end_time": "06:23",
+      "end_time": "06:24",
       "episode_description": "O chef de culinária clássica francesa Philippe Corbet compete com o chef de Washington George Rodrigues pela chance de derrubar Bobby Flay de seu pedestal."
     },
     {
       "show_name": "Duelo com Bobby Flay",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_duelo-com-bobby-flay-s08e13-um-pouco-caipira_l_m.jpg",
       "show_category": "Temporada 8 Episódio 13 - Um Pouco Caipira",
-      "start_time": "06:23",
-      "end_time": "06:44",
+      "start_time": "06:24",
+      "end_time": "06:45",
       "episode_description": "Chegou a hora do esforço final do Bobby enquanto os chefs Lee Frank e Joe Wolfson se enfrentam para derrubá-lo do topo. Torcendo por fora está a jurada do Chopped, Alex Guarnaschelli e a apresentadora Trisha Yearwood."
     },
     {
       "show_name": "Chopped - Júnior",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_chopped-junior-s04e04-donuts_l_m.jpg",
       "show_category": "Temporada 4 Episódio 4 - Donuts",
-      "start_time": "06:44",
-      "end_time": "07:30",
+      "start_time": "06:45",
+      "end_time": "07:32",
       "episode_description": "Os chefs mirins acham um 'donuts de tudo', porco em conserva e mais em suas cestas."
     },
     {
       "show_name": "Food Truck - A Grande Corrida",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_food-truck-a-grande-corrida-s11e02_l_m.jpg",
       "show_category": "Temporada 11 Episódio 2 - Disputa Doce",
-      "start_time": "07:30",
-      "end_time": "08:11",
+      "start_time": "07:32",
+      "end_time": "08:15",
       "episode_description": "Em Portsmouth, New Hampshire, quatro food trucks têm a missão de preparar o almoço de 70 jurados. Além disso, um desafio surpresa com hortelã testa as equipes."
     },
     {
       "show_name": "Lanchonetes Clássicas com Guy Fieri",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s21e12-peixe-fresco-e-frango-irreverente_l_m.jpg",
       "show_category": "Temporada 21 Episódio 12 - Peixe Fresco e Frango Irreverente",
-      "start_time": "08:11",
-      "end_time": "08:34",
+      "start_time": "08:15",
+      "end_time": "08:39",
       "episode_description": "Guy vai pegar a estrada para provar frutos do mar incríveis e uma ave saborosa. Em Des Moines, um restaurante que ganha vários prêmios defuma todos os tipos de asas de frango. É servido, como sobremesa, um bolinho de maçã estupendo."
     },
     {
       "show_name": "Lanchonetes Clássicas com Guy Fieri",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s21e13-delicias-do-passado_l_m.jpg",
       "show_category": "Temporada 21 Episódio 13 - Delícias do Passado",
-      "start_time": "08:34",
-      "end_time": "08:55",
+      "start_time": "08:39",
+      "end_time": "09:00",
       "episode_description": "Guy vai conhecer autênticos marcos de cidades. Em Des Moines, um drive-in histórico é famoso por sua receita de chili de quase um século. Em Leeds Point, Nova Jersey, um restaurante à beira-mar serve comida fresca desde os anos 1930."
     },
     {
       "show_name": "Lanchonetes Clássicas com Guy Fieri",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s22e02-passeando-pelo-interior-da-italia_l_m.jpg",
       "show_category": "Temporada 22 Episódio 2 - Passeando pelo Interior da Itália",
-      "start_time": "08:55",
-      "end_time": "09:18",
+      "start_time": "09:00",
+      "end_time": "09:24",
       "episode_description": "Guy faz um tour do sabor pela Toscana, na Itália, passando por restaurantes de frutos do mar e provando macarrão fresco com mariscos. Depois, na \"terra natal do Pinóquio\", ele se encontra com um amigo para comer um espaguete legítimo e um cordeiro."
     },
     {
       "show_name": "Lanchonetes Clássicas com Guy Fieri",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s22e03-empanturrando-se-em-florenca_l_m.jpg",
       "show_category": "Temporada 22 Episódio 3 - Empanturrando-se em Florença",
-      "start_time": "09:18",
-      "end_time": "09:40",
+      "start_time": "09:24",
+      "end_time": "09:46",
       "episode_description": "Guy vai conhecer restaurantes tradicionais de Florença, na Itália. Um lugar famoso que funciona há 50 anos vai servir o seu lendário prato de espaguete e um frango delicioso. Depois, uma popular pizzaria vai dividir o segredo de sua massa italiana."
     },
     {
       "show_name": "Na Rota do Sabor",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_na-rota-do-sabor-s07e03-paraiso-do-mac-n-cheese_l_m.jpg",
       "show_category": "Temporada 7 Episódio 3 - Paraíso do Mac n' Cheese",
-      "start_time": "09:40",
-      "end_time": "10:25",
+      "start_time": "09:46",
+      "end_time": "10:33",
       "episode_description": "O mac n' cheese com mais queijo dos EUA, estrelando um macarrão com cheddar envelhecido e chili em Wisconsin, um macarrão com cinco queijos salteado com lagosta e trufas raladas no Maine, e um macarrão com molho barbecue e paleta suína em Atlanta."
     },
     {
       "show_name": "Loucos por Churrasco",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_loucos-por-churrasco-s04e02-basicos-do-bobby-espetos_l_m.jpg",
       "show_category": "Temporada 4 Episódio 2 - Básicos do Bobby - Espetos",
-      "start_time": "10:25",
-      "end_time": "10:49",
+      "start_time": "10:33",
+      "end_time": "10:57",
       "episode_description": "Bobby cria um menu com inspiração mediterrânea usando alguns truques na grelha. Ele vai usar sua ferramenta favorita, o espeto, para grelhar facilmente uma abobrinha com molho de iogurte e jalapeño e um camarão regado com azeite de alho e pimenta."
     },
     {
       "show_name": "Loucos por Churrasco",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_loucos-por-churrasco-s04e01-basicos-do-bobby-churrascaria-em-casa_l_m.jpg",
       "show_category": "Temporada 4 Episódio 1 - Básicos do Bobby - Churrascaria em Casa",
-      "start_time": "10:49",
-      "end_time": "11:10",
+      "start_time": "10:57",
+      "end_time": "11:18",
       "episode_description": "Bobby leva a experiência da churrascaria para o quintal usando técnicas simples e ingredientes básicos. Ele revela seu método para grelhar bifes de costela facilmente, além de fazer batatas grelhadas com um molho de mostarda e alho e outras delícias."
     },
     {
       "show_name": "Sabores da América com Michael Symon",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sabores-da-america-com-michael-symon-s02e13-a-carne-te-conserta_l_m.jpg",
       "show_category": "Temporada 2 Episódio 13 - A Carne te Conserta",
-      "start_time": "11:10",
-      "end_time": "11:33",
+      "start_time": "11:18",
+      "end_time": "11:42",
       "episode_description": "Michael Symon começa sua jornada de procura por carnes em Lockart, Texas, onde uma família está na linha de frente dos melhores churrascos dos Estados Unidos depois de quatro gerações. Depois, ele chega a um local com estilo britânico no Brooklyn onde fazem um sanduíche com barriga de porco e carne de lagosta. Por fim, ele vai a Louisville, Kentucky, para provar um hambúrguer de carne de veado com molhos e temperos únicos."
     },
     {
       "show_name": "Sabores da América com Michael Symon",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sabores-da-america-com-michael-symon-s03e01-churrasco-na-big-apple_l_m.jpg",
       "show_category": "Temporada 3 Episódio 1 - Churrasco na Big Apple",
-      "start_time": "11:33",
-      "end_time": "11:54",
+      "start_time": "11:42",
+      "end_time": "12:03",
       "episode_description": "Michael Symon, acompanhado por seu amigo Michael Strahan, visita a sua lanchonete favorita de Nova York, a Big Apple. Durante o passeio, ele mostra sanduíches de almôndega, costeletas suculentas ao estilo St. Louis, uma pizza com recheio de pastrami e um churrasco ao estilo original do Texas. Ao final, Michael se joga em sua primeira aula de dança do two-step, típica do Texas."
     },
     {
       "show_name": "Sabor na Brasa",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sabor-na-brasa-s03e02-banquete-mexicano_l_m.jpg",
       "show_category": "Temporada 3 Episódio 2 - Banquete Mexicano",
-      "start_time": "11:54",
-      "end_time": "12:16",
+      "start_time": "12:03",
+      "end_time": "12:24",
       "episode_description": "A cozinha mexicana é uma das favoritas de Roger Mooking devido aos sabores complexos e à tradição de cozinhar em fogão a lenha. Em San Antonio, ele encontra o chef Johnny Hernandez e cozinha pratos típicos da região."
     },
     {
       "show_name": "Sabor na Brasa",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sabor-na-brasa-s03e05-sabores-globais-do-texas_l_m.jpg",
       "show_category": "Temporada 3 Episódio 5 - Sabores Globais do Texas",
-      "start_time": "12:16",
-      "end_time": "12:37",
+      "start_time": "12:24",
+      "end_time": "12:47",
       "episode_description": "O Texas é famoso pelo churrasco americano, mas Roger Mooking visita o estado para provar outros sabores. Ele experimenta linguiças defumadas europeias e aprende a preparar costelas no fogo de chão, à moda mexicana."
     },
     {
       "show_name": "Locos x el asado",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_locos-x-el-asado-s03e03-carne-organica_l_m.jpg",
       "show_category": "Temporada 3 Episódio 3 - Carne Orgânica",
-      "start_time": "12:37",
-      "end_time": "12:59",
+      "start_time": "12:47",
+      "end_time": "13:09",
       "episode_description": "Conheça El Mercado del Progreso, o lugar ideal para comprar ingredientes orgânicos em Buenos Aires, com a chef Christina Sunae."
     },
     {
       "show_name": "Locos x el asado",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_locos-x-el-asado-s03e04-pizzas_l_m.jpg",
       "show_category": "Temporada 3 Episódio 4 - Pizzas",
-      "start_time": "12:59",
-      "end_time": "13:21",
+      "start_time": "13:09",
+      "end_time": "13:31",
       "episode_description": "O programa prepara pizzas na brasa e um calzone de frango no forno de barro. A Salvaje Bakery revela os segredos da massa azeda, enquanto o especialista Danilo Ferraz ensina a fazer as mais deliciosas pizzas."
     },
     {
       "show_name": "Locos x el asado",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_locos-x-el-asado-s03e05-fus-o_l_m.jpg",
       "show_category": "Temporada 3 Episódio 5 - Fusão",
-      "start_time": "13:21",
-      "end_time": "13:45",
+      "start_time": "13:31",
+      "end_time": "13:55",
       "episode_description": "Acompanhe a fusão de pratos típicos argentinos e peruanos. Gustavo Montestruque, chef do prestigiado restaurante La Mar, ensina a preparar peixe ao sal grosso, ceviche e outros pratos típicos do Peru."
     },
     {
       "show_name": "Locos x el asado",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_locos-x-el-asado-s03e07-carnes-exoticas_l_m.jpg",
       "show_category": "Temporada 3 Episódio 7 - Carnes Exóticas",
-      "start_time": "13:45",
-      "end_time": "14:09",
+      "start_time": "13:55",
+      "end_time": "14:19",
       "episode_description": "Veja a preparação de carnes exóticas com sabores intensos. Para isso, é preciso assá-las usando técnicas alternativas, ensinadas por Agustín Brañas, chef do Chubut Food and Fire de Gstaad, Suíça."
     },
     {
       "show_name": "Kitchen Boss",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_kitchen-boss-s01e23-faceis-de-fazer_l_m.jpg",
       "show_category": "Temporada 1 Episódio 23 - Fáceis de Fazer",
-      "start_time": "14:09",
-      "end_time": "14:33",
+      "start_time": "14:19",
+      "end_time": "14:43",
       "episode_description": "Buddy prepara receitas clássicas que não só são deliciosas como fáceis de fazer. Com ingredientes saborosos e acessíveis, Buddy cria pratos como o frango com batatas da Mama, a pasta fagiole e tortinhas fritas de abobrinha."
     },
     {
       "show_name": "Kitchen Boss",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_kitchen-boss-s01e27-massas-classicas_l_m.jpg",
       "show_category": "Temporada 1 Episódio 27 - Ao Estilo de Hoboken",
-      "start_time": "14:33",
-      "end_time": "14:58",
+      "start_time": "14:43",
+      "end_time": "15:07",
       "episode_description": "Buddy prepara uma refeição inspirada em uma lenda de Hoboken: Frank Sinatra. Ele faz pratos italianos clássicos, como mariscos Possillipo, vitela a milanesa e um pastaciotti de limão deliciosamente doce."
     },
     {
       "show_name": "Cake Boss",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_cake-boss-s04e12-onibus-espacial_l_m.jpg",
       "show_category": "Temporada 4 Episódio 12 - Oito Camadas",
-      "start_time": "14:58",
-      "end_time": "15:22",
+      "start_time": "15:07",
+      "end_time": "15:31",
       "episode_description": "Buddy tenta encontrar tempo para descansar para sua cirurgia; a equipe é contratada para fazer um bolo de oito camadas todo decorado com flores; para comemorar a chegada da época de se pagar impostos, um bolo em forma de contador é encomendado."
     },
     {
       "show_name": "Cake Boss",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_cake-boss-s04e13-casas-do-mundo_l_m.jpg",
       "show_category": "Temporada 4 Episódio 13 - Estilo Marroquino",
-      "start_time": "15:22",
-      "end_time": "15:46",
+      "start_time": "15:31",
+      "end_time": "15:55",
       "episode_description": "Buddy é escolhido para liderar a parada do dia de Saint Patrick na cidade de Hoboken, Nova Jersey; Mauro é o encarregado enquanto Buddy passa por uma cirurgia."
     },
     {
       "show_name": "Pequenos Confeiteiros",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_pequenos-confeiteiros-s08e09-dinossauros-em-3d_l_m.jpg",
       "show_category": "Temporada 8 Episódio 9 - Dinossauros em 3D",
-      "start_time": "15:46",
-      "end_time": "16:32",
+      "start_time": "15:55",
+      "end_time": "16:40",
       "episode_description": "Valerie Bertinelli e Duff Goldman desafiam os três confeiteiros a preparar complexos cookies tridimensionais na forma de dinossauros, incluindo tiranossauro, velociraptor, estegossauro, brontossauro e triceratope."
     },
     {
       "show_name": "A Guerra dos Bolos",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_a-guerra-dos-bolos-s04e06_l_m.jpg",
       "show_category": "Temporada 4 Episódio 6 - Transformers",
-      "start_time": "16:32",
-      "end_time": "17:18",
+      "start_time": "16:40",
+      "end_time": "17:25",
       "episode_description": "Quatro talentosos confeiteiros precisam criar bolos com o tema \"Transformers\", que sejam mais do que aparentam ser. Simon Waters, vice-presidente sênior da marca de licenciamento global Hasbro, junta-se à equipe de jurados."
     },
     {
       "show_name": "A Guerra dos Cupcakes",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_a-guerra-dos-cupcakes-s09e13_l_m.jpg",
       "show_category": "Temporada 9 Episódio 13 - Cavalos e Cupcakes",
-      "start_time": "17:18",
-      "end_time": "18:03",
+      "start_time": "17:25",
+      "end_time": "18:11",
       "episode_description": "Quatro confeiteiros enfrentam um páreo duro: conquistar a lendária atriz Bo Derek para servir seus cupcakes em um campeonato mundial de corridas de cavalos e ganhar o prêmio de 10 mil dólares."
     },
     {
       "show_name": "A Guerra dos Cupcakes",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_a-guerra-dos-cupcakes-s03e01-kentucky-derby_l_m.jpg",
       "show_category": "Temporada 3 Episódio 1 - Kentucky Derby",
-      "start_time": "18:03",
-      "end_time": "18:49",
+      "start_time": "18:11",
+      "end_time": "18:59",
       "episode_description": "Quatro talentosos confeiteiros correm contra o tempo pela chance de servir seus cupcakes na comemoração do Kentucky Derby."
     },
     {
       "show_name": "Food Truck - A Grande Corrida",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_food-truck-a-grande-corrida-s15e07-perto-da-linha-de-chegada_l_m.jpg",
       "show_category": "Temporada 15 Episódio 7 - Perto da Linha de Chegada",
-      "start_time": "18:49",
-      "end_time": "19:36",
+      "start_time": "18:59",
+      "end_time": "19:49",
       "episode_description": "Os três food trucks restantes encontram Tyler Florence em Long Beach, e lá criam um prato inspirado em um cachorro-quente com queijo e pimenta. Em seguida, as equipes enfrentam um desafio que triplicará as vendas do vencedor."
     },
     {
       "show_name": "Food Truck - A Grande Corrida",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_food-truck-a-grande-corrida-s15e08-confronto-em-san-diego_l_m.jpg",
       "show_category": "Temporada 15 Episódio 8 - Confronto em San Diego",
-      "start_time": "19:36",
-      "end_time": "20:19",
+      "start_time": "19:49",
+      "end_time": "20:32",
       "episode_description": "As duas últimas equipes se enfrentam em uma cervejaria de San Diego, onde devem vender um prato baseado em um item exclusivo do cardápio da outra equipe. Eles cozinham com as pimentas mais picantes do mundo."
     },
     {
       "show_name": "Duelo com Bobby Flay",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_duelo-com-bobby-flay-s05e11-mantenha-se-firme_l_m.jpg",
       "show_category": "Temporada 5 Episódio 11 - Mantenha-se Firme",
-      "start_time": "20:19",
-      "end_time": "20:43",
+      "start_time": "20:32",
+      "end_time": "20:55",
       "episode_description": "A competição fica acirrada quando Curtis Stone e Sunny Anderson fazem de tudo para derrotar Bobby Flay. Eles trouxeram o chef e ex-fazendeiro Clark Barlowe para enfrentar o chef italiano Peter McAndrews. Um deles competirá com Bobby Flay."
     },
     {
       "show_name": "Duelo com Bobby Flay",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_duelo-com-bobby-flay-s05e12-chegadas-e-partidas_l_m.jpg",
       "show_category": "Temporada 5 Episódio 12 - Chegadas e Partidas",
-      "start_time": "20:43",
-      "end_time": "21:06",
+      "start_time": "20:55",
+      "end_time": "21:18",
       "episode_description": "A Iron Chef Alex Guarnaschelli e a jurada de Iron Chef Donatella Arpaia decidem quem competirá com Bobby Flay. Michael Walter, de Washington, e Lisa Nakumara, de Seattle, estão prontos para o desafio."
     },
     {
       "show_name": "Ciao House - A Competição",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_ciao-house-a-competic-o-s02e10-capo-di-casa_l_m.jpg",
       "show_category": "Temporada 2 Episódio 10 - Capo Di Casa",
-      "start_time": "21:06",
-      "end_time": "22:41",
+      "start_time": "21:18",
+      "end_time": "22:54",
       "episode_description": "Os dois chefs finalistas recebem alguns convidados indesejáveis. Alex Guarnaschelli e Gabe Bertaccini escolhem o vencedor da Ciao House, que ganhará um curso de imersão culinária com chefs renomados de toda a Itália."
     },
     {
       "show_name": "Corre, Compra e Cozinha",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_corre-compra-e-cozinha-s04e07-cozinhe-ou-saia_l_m.jpg",
       "show_category": "Temporada 4 Episódio 7 - Cozinhe ou Saia do Estacionamento",
-      "start_time": "22:41",
-      "end_time": "23:30",
+      "start_time": "22:54",
+      "end_time": "23:42",
       "episode_description": "Os quatro chefs são desafiados a fazer paninis no estacionamento do mercado. Falta tempo para um cozido saboroso e os pratos finais precisam de uma crosta."
     },
     {
       "show_name": "Sabores da Itália",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sabores-da-italia-s08e14-o-jardim-secreto-da-giada_l_m.jpg",
       "show_category": "Temporada 8 Episódio 14 - O Jardim Secreto da Giada",
-      "start_time": "23:30",
-      "end_time": "23:53",
+      "start_time": "23:42",
+      "end_time": "00:04",
       "episode_description": "Giada passou a infância em Roma e se inspirou nas lembranças de seu jardim italiano. Ela fez um cardápio de peixe-espada com pesto cítrico, biscoitos de limão-siciliano e pinoli, salada de ervas e waffers de parmesão, limão-siciliano e manjericão."
-    },
-    {
-      "show_name": "Sabores da Itália",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabores-da-italia-s08e18-jantar-leve-de-ver-o_l_m.jpg",
-      "show_category": "Temporada 8 Episódio 18 - Jantar Leve de Verão",
-      "start_time": "23:53",
-      "end_time": "00:16",
-      "episode_description": "Giada vai preparar algumas de suas saladas saudáveis para um jantar leve de verão. Ela vai fazer: salada de antepasto; salada de lentilha e arroz; salada de espinafre e vinagrete de laranja, além de um drinque cítrico de vinho e água gasosa."
     }
   ]
 }
