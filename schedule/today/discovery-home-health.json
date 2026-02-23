@@ -1,229 +1,245 @@
 {
   "channel": "Discovery Home & Health",
-  "date": "22/02/2026",
+  "date": "23/02/2026",
   "schedule": [
-    {
-      "show_name": "Cozinha dos Sonhos com John e Anthony",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cozinha-dos-sonhos-com-john-e-anthony-s01e11-cores-e-texturas_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 11 - Cores e Texturas",
-      "start_time": "00:42",
-      "end_time": "01:06",
-      "episode_description": "Os Primos não têm medo de usar cores e texturas para transformar uma cozinha em um espaço incrível."
-    },
-    {
-      "show_name": "Cozinha dos Sonhos com John e Anthony",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cozinha-dos-sonhos-com-john-e-anthony-s01e12-escada-para-o-paraiso_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 12 - Escada para o Paraíso",
-      "start_time": "01:06",
-      "end_time": "01:31",
-      "episode_description": "Os Primos transformam uma cozinha de arenito em um oásis aberto, mesclando o moderno e vintage."
-    },
-    {
-      "show_name": "Cozinha dos Sonhos com John e Anthony",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cozinha-dos-sonhos-com-john-e-anthony-s01e01-beleza-rustica_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 1 - Beleza Rústica",
-      "start_time": "01:31",
-      "end_time": "01:56",
-      "episode_description": "Os primos expõem o piso de tijolos de uma cozinha para revelar a beleza rústica de uma casa de arenito pardo em Hoboken."
-    },
-    {
-      "show_name": "100 Dias para Morar - Começando do Zero",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_100-dias-para-morar-comecando-do-zero-s07e07-adeus-trailer-ola-casa-dos-sonhos_l_m.jpg",
-      "show_category": "Temporada 7 Episódio 7 - Adeus Trailer, Olá Casa dos Sonhos",
-      "start_time": "01:56",
-      "end_time": "02:43",
-      "episode_description": "Recém-casados trocam o trailer por uma casa dos sonhos, enquanto Brian e Mika equilibram planos ousados e ajudam a criar o lar perfeito."
-    },
-    {
-      "show_name": "Irmãos à Obra - Lar Sempre Lar",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_irm-os-a-obra-lar-sempre-lar-s05e15-subindo-de-nivel-com-obras_l_m.jpg",
-      "show_category": "Temporada 5 Episódio 15 - Fazer do Nosso Jeito",
-      "start_time": "02:43",
-      "end_time": "03:32",
-      "episode_description": "Um casal que namorava à distância está se reunindo em Los Angeles, mas seu bangalô em estilo espanhol precisa de uma grande atualização; Jonathan e Drew os ajudam a melhorar o layout para uma casa moderna e aconchegante que ambos vão adorar."
-    },
-    {
-      "show_name": "90 Dias - Tô na Caça!",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_90-dias-to-na-caca-s01e09-a-garota-em-um-quadrado-amoroso_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 9 - A Garota em um Quadrado Amoroso",
-      "start_time": "03:32",
-      "end_time": "04:21",
-      "episode_description": "Elise encurrala Jen e Cole por causa de um boato picante; Tiffany leva a culpa e Chantel não deixa quieto; Tim flerta de um jeito estranho, Jen começa a questionar suas conexões e Cortney se emociona com uma atualização surpreendente de Colt."
-    },
-    {
-      "show_name": "90 Dias - Tô na Caça!",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_90-dias-to-na-caca-s01e10-o-garoto-com-mamilos-de-calabresa_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 10 - O Garoto com Mamilos de Calabresa",
-      "start_time": "04:21",
-      "end_time": "05:09",
-      "episode_description": "Jen vira o jogo contra Cole e ela e Elise se unem; Chantel consegue um encontro com alguém inesperado; Usman solta uma palavra que deixa Cortney atordoada, e o encontro de Tiffany com Jay termina com uma pergunta surpreendente."
-    },
-    {
-      "show_name": "90 Dias na Cama - Tô na Caça!",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_90-dias-na-cama-to-na-caca-s01e10-o-garoto-com-mamilos-de-calabresa_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 10 - O Garoto com Mamilos de Calabresa",
-      "start_time": "05:09",
-      "end_time": "06:00",
-      "episode_description": "O elenco reage a imagens de Joe fazendo uma massagem sensual em Chantel; Rocky revela que ele e Jen tiveram momentos secretos fora das câmeras."
-    },
-    {
-      "show_name": "Reformas Incríveis",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_reformas-incriveis-s02e08-um-toque-classico_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 8 - Um Toque Clássico",
-      "start_time": "06:00",
-      "end_time": "06:25",
-      "episode_description": "O empreiteiro e decorador Chip Wade ajuda um casal a transformar sua casa pequena e disfuncional, construída na década de 1930 e com detalhes clássicos."
-    },
-    {
-      "show_name": "Salvando Reformas com Jasmine Roth",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_salvando-reformas-com-jasmine-roth-s02e06-casa-boemia_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 6 - Casa Boêmia",
-      "start_time": "06:25",
-      "end_time": "07:13",
-      "episode_description": "A dona de uma casa quer reformar seu imóvel assistindo a vídeos nas redes sociais, mas percebe que os problemas não são fáceis de resolver. Jasmine entra em cena para remodelar a cozinha e a sala de estar."
-    },
-    {
-      "show_name": "Salvando Reformas com Jasmine Roth",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_salvando-reformas-com-jasmine-roth-s02e07-paz-de-espirito_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 7 - Paz de Espírito",
-      "start_time": "07:13",
-      "end_time": "07:57",
-      "episode_description": "Um casal estava convencido de que conseguiria reformar sua casa, mas três filhos depois eles têm ainda mais problemas. Jasmine chega no canteiro de obras perigoso e o transforma num oásis seguro."
-    },
-    {
-      "show_name": "Restaurando Casas com Dave e Jenny",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_restaurando-casas-com-dave-e-jenny-s04e16-banco-historico-vira-comercio_l_m.jpg",
-      "show_category": "Temporada 4 Episódio 16 - Banco Histórico Vira Comércio",
-      "start_time": "07:57",
-      "end_time": "08:45",
-      "episode_description": "Dave e Jenny estão na fase final da reforma do prédio histórico com a construção de um espaço comercial no térreo. Eles querem criar um local de encontro da comunidade, e um espaço para artesãos locais mostrarem seu trabalho."
-    },
-    {
-      "show_name": "Restaurando Casas com Dave e Jenny",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_restaurando-casas-com-dave-e-jenny-s04e08-chale-de-madeira-antigo-vira-um-lar_l_m.jpg",
-      "show_category": "Temporada 4 Episódio 8 - Chalé de Madeira Antigo Vira um Lar",
-      "start_time": "08:45",
-      "end_time": "09:34",
-      "episode_description": "Um casal se muda do Texas e compra o chalé de madeira dos sonhos, mas o imóvel precisa de uma grande reforma antes que eles possam se mudar. Dave e Jenny transformam o chalé em um retiro relaxante para toda a família."
-    },
-    {
-      "show_name": "Gordon Ramsay - Serviço Secreto",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_gordon-ramsay-servico-secreto-s01e01-parthenon_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 1 - Parthenon",
-      "start_time": "09:34",
-      "end_time": "10:21",
-      "episode_description": "Ao utilizar métodos de vigilância de alta tecnologia e um informante secreto, Gordon Ramsay se infiltra e resgata restaurantes em dificuldades. Sua primeira missão é espionar o Parthenon, um adorado restaurante grego."
-    },
-    {
-      "show_name": "Gordon Ramsay - Do Inferno ao Paraíso em 24h",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_gordon-ramsay-do-inferno-ao-paraiso-em-24h-s01e01_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 1",
-      "start_time": "10:21",
-      "end_time": "11:07",
-      "episode_description": "Gordon vai para a comunidade de Congers, Nova York, em uma tentativa de salvar Bella Gianna, um restaurante italiano de gerência familiar. Gordon e sua equipe têm apenas 24 horas para transformar o restaurante antes que os clientes sejam convidados a julgar as mudanças."
-    },
     {
       "show_name": "Pesadelo na Cozinha",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_pesadelo-na-cozinha-s05e01_l_m.jpg",
       "show_category": "Temporada 5 Episódio 1 - Casa do Norte - Barra Funda/SP",
-      "start_time": "11:07",
-      "end_time": "12:42",
+      "start_time": "00:00",
+      "end_time": "01:38",
       "episode_description": "Sem identidade e sem liderança, a Casa do Norte recorre a Jacquin para pôr ordem na equipe, enxugar o cardápio e retomar o rumo."
     },
     {
       "show_name": "S.O.S. Restaurante",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_s-o-s-restaurante-s22e11-socios-e-parceiros_l_m.jpg",
-      "show_category": "Temporada 22 Episódio 11 - Sócios e Parceiros",
-      "start_time": "12:42",
-      "end_time": "13:29",
-      "episode_description": "Em Coleman, Michigan, Robert Irvine tenta salvar um restaurante que está destruindo um casamento; a recusa de Leah a ouvir os conselhos do marido o levou a sair do negócio. Agora, Robert deve ajudá-los a retomar a sociedade."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_s-o-s-restaurante-s22e02-orgulho-da-mam-e_l_m.jpg",
+      "show_category": "Temporada 22 Episódio 2 - Orgulho da Mamãe",
+      "start_time": "01:38",
+      "end_time": "02:25",
+      "episode_description": "O chef Robert Irvine tenta tirar restaurantes familiares da falência. Munido de 10 mil dólares e dois dias de trabalho, ele atualiza o cardápio e muda a decoração para que esses empreendimentos se tornem rentáveis novamente."
     },
     {
-      "show_name": "Reforma em Família com Karen e Mina",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_reforma-em-familia-com-karen-e-mina-s07e09-estudio-de-casamento_l_m.jpg",
-      "show_category": "Temporada 7 Episódio 9 - Fiasco Estrutural no Valley",
-      "start_time": "13:29",
-      "end_time": "14:17",
-      "episode_description": "Mina e a equipe assumem sua primeira casa no Valley, um bairro onde nunca se aventuraram antes. Mas sem experiência na área e grandes questões estruturais, Mina precisa fazer de tudo se quiser ter sucesso nesse investimento arriscado."
+      "show_name": "Mama June - Vida Nova",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mama-june-vida-nova-s01e08-segredos-dos-bastidores_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 8 - Segredos dos Bastidores",
+      "start_time": "02:25",
+      "end_time": "02:48",
+      "episode_description": "Cenas de bastidores exclusivas mostram os maiores segredos da família. De brigas por comida à revelação de June no hospital, as garotas estão mais malucas do que nunca."
     },
     {
-      "show_name": "Alison e Donovan - Reformando com Estilo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_alison-e-donovan-reformando-com-estilo-s03e05-de-volta-ao-jogo_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 5 - De Volta ao Jogo",
-      "start_time": "14:17",
-      "end_time": "15:04",
-      "episode_description": "Enquanto se recupera de um ano tumultuado, Alison volta a executar reformas para clientes. Ela usa todos os seus truques para atender um casal de Chicago com uma lista de desejos enorme e orçamento limitado."
+      "show_name": "Os Pequenos Johnstons",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-pequenos-johnstons-s16e08-mas-que-pato-e-esse_l_m.jpg",
+      "show_category": "Temporada 16 Episódio 8 - Mas que Pato É Esse?",
+      "start_time": "02:48",
+      "end_time": "03:36",
+      "episode_description": "O dia a dia dos Johnstons, uma família de sete pessoas com acondroplasia, um tipo de nanismo. Com filhos biológicos e adotivos, eles mostram como lidam com questões envolvendo o preconceito e a adaptação ao mundo moderno."
+    },
+    {
+      "show_name": "Restaurações de Emergência",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_restaurac-es-de-emergencia-s01e07-garagem-em-chamas_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 7 - Garagem em Chamas",
+      "start_time": "03:36",
+      "end_time": "04:24",
+      "episode_description": "Lindsey e Kirsten trabalham na casa de uma família que teve que sair correndo com os filhos quando um incêndio na garagem se alastrou pela residência; a dupla não apenas restaura o imóvel, mas também o moderniza com uma nova decoração."
+    },
+    {
+      "show_name": "Reforma Aloha",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_reforma-aloha-s02e06-desafios-historicos_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 6 - Desafios Históricos",
+      "start_time": "04:24",
+      "end_time": "05:11",
+      "episode_description": "Os Kalama compram uma casa para reformar em Kailua para ajudar uma família. Mas surgem problemas com autorizações da prefeitura e a dupla precisa encontrar soluções criativas para manter a reforma em andamento."
+    },
+    {
+      "show_name": "Reforma dos Sonhos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_reforma-dos-sonhos-s01e04-primos-no-mexico_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - Primos no México",
+      "start_time": "05:11",
+      "end_time": "05:35",
+      "episode_description": "Os primos viajam ao México para executar uma reforma em uma casa de praia - um presente de aniversário inesquecível para a esposa do cliente."
+    },
+    {
+      "show_name": "Reforma dos Sonhos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_reforma-dos-sonhos-s01e07-uma-extens-o-inspirada_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 7 - Uma Extensão Inspirada",
+      "start_time": "05:35",
+      "end_time": "06:00",
+      "episode_description": "Os primos são chamados para consertar problemas na fundação de uma casa e acabam ampliando a área da residência."
+    },
+    {
+      "show_name": "Reformas Incríveis",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_reformas-incriveis-s02e02-familia-reunida_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 2 - A Família Aumenta, a Casa Também",
+      "start_time": "06:00",
+      "end_time": "06:25",
+      "episode_description": "O empreiteiro e decorador Chip Wade transforma um abrigo para carros e um escritório para um casal que espera um filho."
+    },
+    {
+      "show_name": "Keith & Evan: Reformando com o Coração - Nova Orleans",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_keith-evan-reformando-com-o-corac-o-nova-orleans-s01e05-casa-maria-antonieta-e-jazz_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 5 - Casa Maria Antonieta e Jazz",
+      "start_time": "06:25",
+      "end_time": "07:13",
+      "episode_description": "Na reforma do terceiro e último duplex em Nova Orleans, Keith e Evan decidem incorporar duas grandes influências da cidade em lados opostos do imóvel: Maria Antonieta no lado do proprietário e jazz no lado do inquilino."
     },
     {
       "show_name": "Irmãos à Obra - Compra e Venda",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_irm-os-a-obra-compra-e-venda-s07e12_l_m.jpg",
-      "show_category": "Temporada 7 Episódio 12 - Lisa e Dave",
-      "start_time": "15:04",
-      "end_time": "15:52",
-      "episode_description": "Os recém-casados Lisa e Dave procuram um palácio suburbano de conceito aberto, onde possam entreter sua grande família."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_irm-os-a-obra-compra-e-venda-s08e09-uma-casa-tamanho-familia_l_m.jpg",
+      "show_category": "Temporada 8 Episódio 9 - Uma Casa Tamanho Família",
+      "start_time": "07:13",
+      "end_time": "08:01",
+      "episode_description": "Com dois cães e um bebê a caminho, um casal precisa se mudar para uma casa mais espaçosa. Jonathan se concentra em aumentar o valor do imóvel atual com uma pequena reforma, enquanto Drew procura a casa suburbana perfeita."
     },
     {
-      "show_name": "Quilos Mortais",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quilos-mortais-s06e13_l_m.jpg",
-      "show_category": "Temporada 6 Episódio 13 - A História de Schenee",
-      "start_time": "15:52",
-      "end_time": "17:31",
-      "episode_description": "Desolada por dois abortos devido ao excesso de peso, Schenee sonha em ter uma família e parar de depender do marido, Freddie. Ela espera que a cirurgia bariátrica resolva os problemas de fertilidade e salve seu casamento."
+      "show_name": "O Vestido Ideal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-vestido-ideal-s13e02-vestidas-para-brilhar_l_m.jpg",
+      "show_category": "Temporada 13 Episódio 2 - Vestidas para Brilhar",
+      "start_time": "08:01",
+      "end_time": "08:27",
+      "episode_description": "Tony Danza ajuda uma estrela da Broadway a achar o vestido perfeito para seu novo musical. A bailarina Valerie quer um vestido de noiva bem diferente dos trajes de princesa que usa nos espetáculos."
     },
     {
-      "show_name": "Missão Faxina com Ellen Milgrau",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_miss-o-faxina-com-ellen-milgrau-s01e06-jane_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 6 - Jane",
-      "start_time": "17:31",
-      "end_time": "17:57",
-      "episode_description": "Depois de uma desilusão amorosa, Jane perdeu a vontade de cuidar da casa. A sujeira e o acúmulo se instalaram e até andar pela casa ficou difícil. Por isso, a filha pediu ajuda para Ellen, que chegou para transformar tudo ali."
+      "show_name": "O Vestido Ideal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-vestido-ideal-s13e10-sonhos-de-estilista_l_m.jpg",
+      "show_category": "Temporada 13 Episódio 10 - Sonhos de Estilista",
+      "start_time": "08:27",
+      "end_time": "08:53",
+      "episode_description": "Liz visita o ateliê com Danielle Jonas, onde mostra sua nova silhueta. Depois de aprovar o desenho de Mark Zunino, Courtney Cason finalmente prova o vestido. A mãe de Jillian não aprova suas escolhas."
     },
     {
-      "show_name": "Missão Faxina com Ellen Milgrau",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_miss-o-faxina-com-ellen-milgrau-s01e07-luiz_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 7 - Luiz",
-      "start_time": "17:57",
-      "end_time": "18:24",
-      "episode_description": "A ligação entre pai e filha leva Greice a pedir ajuda por Luiz, um senhor que vive em meio a muito entulho e sujeira. Ellen, sua equipe e uma limpeza poderosa contribuem com o primeiro passo para uma vida nova e tranquila na velhice."
+      "show_name": "O Vestido Ideal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-vestido-ideal-s17e05_l_m.jpg",
+      "show_category": "Temporada 17 Episódio 5 - 7 Pessoas com 7 Opiniões",
+      "start_time": "08:53",
+      "end_time": "09:44",
+      "episode_description": "TK traz sete damas muito determinadas e com opiniões muito diferentes para ajudá-la a escolher o vestido perfeito. A atriz Leslie tem um orçamento ilimitado, mas se recusa a acreditar que sua mãe escolheu o vestido perfeito na primeira tentativa."
     },
     {
-      "show_name": "90 Dias para Casar - Felizes para Sempre?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_90-dias-para-casar-felizes-para-sempre-s09e05-n-o-ha-lugar-como-sua-casa_l_m.jpg",
-      "show_category": "Temporada 9 Episódio 5 - Não Há Lugar Como Sua Casa",
-      "start_time": "18:24",
-      "end_time": "19:58",
-      "episode_description": "Veja como estão os casais que participaram das temporadas anteriores de \"90 Dias para Casar\"."
+      "show_name": "90 Dias na Cama - A Última Chance",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_90-dias-na-cama-a-ultima-chance-s02e03-a-ultima-danca_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 3 - A Última Dança",
+      "start_time": "09:44",
+      "end_time": "10:43",
+      "episode_description": "O elenco recorda a primeira noite fora com o grupo. Florian fica chateado com Stacey; Brandon tem uma crise de pânico; todos ficam surpresos ao descobrirem quem realmente causou confusão naquela noite."
     },
     {
-      "show_name": "90 Dias na Cama - Felizes para Sempre?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_90-dias-na-cama-felizes-para-sempre-s09e05-n-o-ha-lugar-como-sua-casa_l_m.jpg",
-      "show_category": "Temporada 9 Episódio 5 - Não Há Lugar Como Sua Casa",
-      "start_time": "19:58",
-      "end_time": "20:45",
-      "episode_description": "Os últimos episódios da temporada de dentro da casa dos participantes favoritos."
+      "show_name": "90 Dias na Cama - A Última Chance",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_90-dias-na-cama-a-ultima-chance-s02e04-a-ultima-palavra_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 4 - A Última Palavra",
+      "start_time": "10:43",
+      "end_time": "11:35",
+      "episode_description": "Os casais relembram as consequências da primeira noite fora do grupo. Gino faz uma massagem nos pés de Jasmine. Todos se sentem constrangidos quando assistem à gravação da primeira sessão de terapia sexual."
     },
     {
-      "show_name": "90 Dias para Casar - Felizes para Sempre?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_90-dias-para-casar-felizes-para-sempre-s09e06-honestamente-to-nem-ai_l_m.jpg",
-      "show_category": "Temporada 9 Episódio 6 - Honestamente, Tô Nem Aí",
-      "start_time": "20:45",
-      "end_time": "22:21",
-      "episode_description": "Jasmine confronta Natalie. Alex revela o segredo de Andrei ao grupo. Adnan fica horrorizado com o encapsulamento da placenta."
+      "show_name": "Os Pequenos Johnstons",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-pequenos-johnstons-s04e03-amor-tatuado_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 3 - Amor Tatuado",
+      "start_time": "11:35",
+      "end_time": "12:30",
+      "episode_description": "Quando a família não consegue se inspirar na ioga para se exercitar, Amber e Trent compram bicicletas para todos, mas Emma e Alex não conseguem andar sem rodinhas; Trent e Amber surpreendem a família com tatuagens idênticas."
     },
     {
-      "show_name": "90 Dias na Cama - Felizes para Sempre?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_90-dias-na-cama-felizes-para-sempre-s09e06-honestamente-to-nem-ai_l_m.jpg",
-      "show_category": "Temporada 9 Episódio 6 - Honestamente, Tô Nem Aí",
-      "start_time": "22:21",
-      "end_time": "23:07",
-      "episode_description": "Os últimos episódios da temporada de dentro da casa dos participantes favoritos."
+      "show_name": "Os Pequenos Johnstons",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-pequenos-johnstons-s04e04-bicicletas-pelo-bem_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 4 - Bicicletas pelo Bem",
+      "start_time": "12:30",
+      "end_time": "13:22",
+      "episode_description": "Amber inscreve a família em um passeio de bicicleta beneficente; Liz dá os primeiros passos fora da cadeira de rodas, mas passa dos limites quando tenta andar de bicicleta; Alex e Emma colocam aparelhos ortodônticos."
+    },
+    {
+      "show_name": "Irmãos à Obra - Lar Sempre Lar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_irm-os-a-obra-lar-sempre-lar-s03e06-uma-casa-para-super-herois_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 6 - Do Caos à Calma",
+      "start_time": "13:22",
+      "end_time": "14:16",
+      "episode_description": "Um casal comprou uma casa nova que era perfeita para sua família, mas sete anos depois, as reformas necessárias estão inacabadas. Eles chamam Drew e Jonathan para terminar o que eles começaram e devolver a calma à casa."
+    },
+    {
+      "show_name": "100 Dias para Morar - Começando do Zero",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_100-dias-para-morar-comecando-do-zero-s04e06-menos-e-mais-no-interior_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 6 - Menos É Mais no Interior",
+      "start_time": "14:16",
+      "end_time": "15:08",
+      "episode_description": "Adam, Nicole e seus filhos querem trocar a vida em um subúrbio por uma casa no interior. Eles querem uma área construída menor do que a da casa onde moram, mas sua lista de desejos é grande. Mika terá que resolver a equação."
+    },
+    {
+      "show_name": "Imóveis que Cabem no Bolso",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_imoveis-que-cabem-no-bolso-s02e09-reforma-da-casa-dos-sonhos_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 9 - Reforma da Casa dos Sonhos",
+      "start_time": "15:08",
+      "end_time": "15:59",
+      "episode_description": "Solteiro procura uma casa para a vida toda que se encaixe em seu estilo de vida atual e que também possa agradar sua futura esposa."
+    },
+    {
+      "show_name": "Imóveis que Cabem no Bolso",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_imoveis-que-cabem-no-bolso-s02e10-opc-es-de-espaco_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 10 - Opções de Espaço",
+      "start_time": "15:59",
+      "end_time": "16:52",
+      "episode_description": "Uma família de quatro pessoas adora sua casa e o bairro East Atlanta, mas está ficando sem espaço; Egypt e Mike apresentam soluções criativas e agora a família precisa decidir entre reformar ou se mudar."
+    },
+    {
+      "show_name": "Irmãos À Obra: Um Lar para Amar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_irm-os-a-obra-um-lar-para-amar-s01e06-conflito-entre-irm-os_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 6 - Grandes Atrasos",
+      "start_time": "16:52",
+      "end_time": "17:40",
+      "episode_description": "Drew e Jonathan lutam com a casa em Los Angeles que compraram para seus pais, Jim e Joanne, enquanto equilibram os desejos dos pais com as altas expectativas."
+    },
+    {
+      "show_name": "Mestres da Confeitaria: Batalha em Paris",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mestres-da-confeitaria-batalha-em-paris-s01e07_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 7",
+      "start_time": "17:40",
+      "end_time": "18:29",
+      "episode_description": "Stephanie Boswell e Ludo Lefebvre enviam os quatro finalistas para uma queijaria, onde compram uma sobremesa com destaque para o queijo."
+    },
+    {
+      "show_name": "Mestres da Confeitaria: Batalha em Paris",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mestres-da-confeitaria-batalha-em-paris-s01e08_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 8",
+      "start_time": "18:29",
+      "end_time": "19:16",
+      "episode_description": "Stephanie Boswell e Ludo Lefebvre levam os finalistas para Ladurée. Eles experimentam os macarons de Julien Alvarez."
+    },
+    {
+      "show_name": "Masterchef EUA",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_masterchef-eua-s24e15-no-ritmo-do-gordon-estilo-revezamento_l_m.jpg",
+      "show_category": "Temporada 24 Episódio 15 - No Ritmo do Gordon - Estilo Revezamento!",
+      "start_time": "19:16",
+      "end_time": "20:02",
+      "episode_description": "Uma competição única que testa chefs amadores em uma série de desafios difíceis julgados por especialistas em culinária."
+    },
+    {
+      "show_name": "Masterchef EUA",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_masterchef-eua-s24e16-caminho-para-a-final_l_m.jpg",
+      "show_category": "Temporada 24 Episódio 16 - Caminho para a Final",
+      "start_time": "20:02",
+      "end_time": "20:49",
+      "episode_description": "Uma competição única que testa chefs amadores em uma série de desafios difíceis julgados por especialistas em culinária."
+    },
+    {
+      "show_name": "Gordon Ramsay - Serviço Secreto",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_gordon-ramsay-servico-secreto-s01e11-dahlak_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 11 - Dahlak",
+      "start_time": "20:49",
+      "end_time": "21:37",
+      "episode_description": "Gordon precisa neutralizar a ameaça de pragas e hábitos de cozinha desleixados em um restaurante na Filadélfia, além de ajudar a proprietária a passar o bastão para seus filhos."
+    },
+    {
+      "show_name": "Pesadelo na Cozinha com Gordon Ramsay",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pesadelo-na-cozinha-com-gordon-ramsay-s02e07_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 7",
+      "start_time": "21:37",
+      "end_time": "22:25",
+      "episode_description": "Gordon Ramsay oferece seu apoio ao The Verdict, um restaurante conhecido por servir culinária tradicional de New Orleans com um toque moderno e descolado."
     },
     {
       "show_name": "Pesadelo na Cozinha",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_pesadelo-na-cozinha-s05e01_l_m.jpg",
       "show_category": "Temporada 5 Episódio 1 - Casa do Norte - Barra Funda/SP",
-      "start_time": "23:07",
-      "end_time": "00:42",
+      "start_time": "22:25",
+      "end_time": "00:03",
       "episode_description": "Sem identidade e sem liderança, a Casa do Norte recorre a Jacquin para pôr ordem na equipe, enxugar o cardápio e retomar o rumo."
     }
   ]

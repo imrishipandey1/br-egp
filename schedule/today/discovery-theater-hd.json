@@ -1,246 +1,238 @@
 {
   "channel": "Discovery Theater",
-  "date": "22/02/2026",
+  "date": "23/02/2026",
   "schedule": [
+    {
+      "show_name": "Mistérios da História",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_misterios-da-historia-s02e07-fuga-no-bau-milagre-de-anne-greene-e-mans-o-hemingway_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 7 - Fuga no Baú, Milagre de Anne Greene e Mansão Hemingway",
+      "start_time": "00:00",
+      "end_time": "00:48",
+      "episode_description": "Uma fuga ousada acontece em uma fortaleza na Holanda; uma história milagrosa de vida após a morte se desenrola em uma imponente cidadela britânica; uma mansão tropical se torna o campo de batalha de uma guerra matrimonial."
+    },
+    {
+      "show_name": "Cidade Fantasma - Terror em Montana",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidade-fantasma-terror-em-montana-s02e01-tempestade-de-fogo_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 1 - Tempestade de Fogo",
+      "start_time": "00:48",
+      "end_time": "01:36",
+      "episode_description": "Karen chama Tim e Sapphire de volta para Gunslinger Gulch para investigar um presságio chocante e ameaçador; Tim se aprofunda ainda mais no poço em busca de respostas e um confronto com seu próprio inimigo sombrio leva a revelações dolorosas."
+    },
+    {
+      "show_name": "Pesca Mortal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pesca-mortal-s14e10-maldic-o-do-inverno_l_m.jpg",
+      "show_category": "Temporada 14 Episódio 10 - Maldição do Inverno",
+      "start_time": "01:36",
+      "end_time": "02:24",
+      "episode_description": "Josh e Monte enfrentam uma enorme tempestade enquanto tentam encontrar uma área de pesca promissora; Wild Bill espera tirar o barco do estaleiro; o restante da frota chega para a temporada do caranguejo-das-neves."
+    },
+    {
+      "show_name": "Pesca Mortal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pesca-mortal-s14e11-blecaute_l_m.jpg",
+      "show_category": "Temporada 14 Episódio 11 - Blecaute",
+      "start_time": "02:24",
+      "end_time": "03:12",
+      "episode_description": "Um blecaute complica a situação do Saga em águas desconhecidas; sem conseguir um parceiro, Josh precisa atingir sua cota sozinho; Keith faz uma proposta que só um capitão recusaria."
+    },
+    {
+      "show_name": "Alasca - A Última Fronteira",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alasca-a-ultima-fronteira-s10e07-risco-de-tsunami_l_m.jpg",
+      "show_category": "Temporada 10 Episódio 7 - Risco de Tsunami",
+      "start_time": "03:12",
+      "end_time": "04:48",
+      "episode_description": "Um terremoto atinge Homer, provocando um alerta de tsunami e evacuação. Eivin e Eve atravessam trechos traiçoeiros da montanha em sua primeira caçada de cabras. Charlotte cria um memorial para as vítimas de Covid-19."
+    },
     {
       "show_name": "Rota Perigosa",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_rota-perigosa-s01e07-papua-nova-guine_l_m.jpg",
       "show_category": "Temporada 1 Episódio 7 - Papua Nova Guiné",
-      "start_time": "00:00",
-      "end_time": "00:48",
+      "start_time": "04:48",
+      "end_time": "05:36",
       "episode_description": "Todd Carmichael está à procura da rara montanha de café em Papua Nova Guiné, que é conhecida pelo sabor do cacau."
     },
     {
       "show_name": "Nos Trilhos do Alasca",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_nos-trilhos-do-alasca-s02e01-ataque-de-urso_l_m.jpg",
       "show_category": "Temporada 2 Episódio 1 - Ataque de Urso",
-      "start_time": "00:48",
-      "end_time": "01:36",
+      "start_time": "05:36",
+      "end_time": "05:36",
+      "episode_description": "Com o tempo se esgotando, a equipe de carga tenta fazer uma entrega para uma equipe isolada na floresta. Jim James volta à cidade com uma grande surpresa para sua esposa, Nancy."
+    },
+    {
+      "show_name": "Nos Trilhos do Alasca",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_nos-trilhos-do-alasca-s02e01-ataque-de-urso_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 1 - Ataque de Urso",
+      "start_time": "05:36",
+      "end_time": "06:24",
       "episode_description": "Com o tempo se esgotando, a equipe de carga tenta fazer uma entrega para uma equipe isolada na floresta. Jim James volta à cidade com uma grande surpresa para sua esposa, Nancy."
     },
     {
       "show_name": "Mistérios da História",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_misterios-da-historia-s02e07-fuga-no-bau-milagre-de-anne-greene-e-mans-o-hemingway_l_m.jpg",
       "show_category": "Temporada 2 Episódio 7 - Fuga no Baú, Milagre de Anne Greene e Mansão Hemingway",
-      "start_time": "01:36",
-      "end_time": "02:24",
+      "start_time": "06:24",
+      "end_time": "07:12",
       "episode_description": "Uma fuga ousada acontece em uma fortaleza na Holanda; uma história milagrosa de vida após a morte se desenrola em uma imponente cidadela britânica; uma mansão tropical se torna o campo de batalha de uma guerra matrimonial."
     },
     {
       "show_name": "Mistérios no Museu",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_misterios-no-museu-s15e07-animal-presidencial-desastre-dos-laticinios-e-catalogo-secreto_l_m.jpg",
       "show_category": "Temporada 15 Episódio 7 - Animal Presidencial, Desastre dos Laticínios e Catálogo Secreto",
-      "start_time": "02:24",
-      "end_time": "03:12",
+      "start_time": "07:12",
+      "end_time": "08:00",
+      "episode_description": "Don Wildman analisa um presente enviado para a Casa Branca; um chef que salvou a indústria de queijo depois que um terremoto que abalou a Itália; e um espião que foi às compras de informações secretas."
+    },
+    {
+      "show_name": "Alasca - A Última Fronteira",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alasca-a-ultima-fronteira-s10e07-risco-de-tsunami_l_m.jpg",
+      "show_category": "Temporada 10 Episódio 7 - Risco de Tsunami",
+      "start_time": "08:00",
+      "end_time": "09:36",
+      "episode_description": "Um terremoto atinge Homer, provocando um alerta de tsunami e evacuação. Eivin e Eve atravessam trechos traiçoeiros da montanha em sua primeira caçada de cabras. Charlotte cria um memorial para as vítimas de Covid-19."
+    },
+    {
+      "show_name": "Rota Perigosa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rota-perigosa-s01e07-papua-nova-guine_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 7 - Papua Nova Guiné",
+      "start_time": "09:36",
+      "end_time": "10:24",
+      "episode_description": "Todd Carmichael está à procura da rara montanha de café em Papua Nova Guiné, que é conhecida pelo sabor do cacau."
+    },
+    {
+      "show_name": "Nos Trilhos do Alasca",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_nos-trilhos-do-alasca-s02e01-ataque-de-urso_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 1 - Ataque de Urso",
+      "start_time": "10:24",
+      "end_time": "11:12",
+      "episode_description": "Com o tempo se esgotando, a equipe de carga tenta fazer uma entrega para uma equipe isolada na floresta. Jim James volta à cidade com uma grande surpresa para sua esposa, Nancy."
+    },
+    {
+      "show_name": "Mistérios da História",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_misterios-da-historia-s02e07-fuga-no-bau-milagre-de-anne-greene-e-mans-o-hemingway_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 7 - Fuga no Baú, Milagre de Anne Greene e Mansão Hemingway",
+      "start_time": "11:12",
+      "end_time": "12:00",
+      "episode_description": "Uma fuga ousada acontece em uma fortaleza na Holanda; uma história milagrosa de vida após a morte se desenrola em uma imponente cidadela britânica; uma mansão tropical se torna o campo de batalha de uma guerra matrimonial."
+    },
+    {
+      "show_name": "Mistérios no Museu",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_misterios-no-museu-s15e07-animal-presidencial-desastre-dos-laticinios-e-catalogo-secreto_l_m.jpg",
+      "show_category": "Temporada 15 Episódio 7 - Animal Presidencial, Desastre dos Laticínios e Catálogo Secreto",
+      "start_time": "12:00",
+      "end_time": "12:48",
       "episode_description": "Don Wildman analisa um presente enviado para a Casa Branca; um chef que salvou a indústria de queijo depois que um terremoto que abalou a Itália; e um espião que foi às compras de informações secretas."
     },
     {
       "show_name": "Rumo ao Desconhecido",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_rumo-ao-desconhecido-s07e06-o-pirata-da-florida_l_m.jpg",
       "show_category": "Temporada 7 Episódio 6 - O Pirata da Flórida",
-      "start_time": "03:12",
-      "end_time": "04:00",
+      "start_time": "12:48",
+      "end_time": "13:36",
       "episode_description": "Josh Gates veleja para a Flórida em busca do tesouro perdido de José Gaspar. Ele trabalha ao lado de arqueólogos e caçadores de tesouros para desvendar os mistérios do pirata e encontrar uma fortuna escondida."
     },
     {
       "show_name": "Rumo ao Desconhecido",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_rumo-ao-desconhecido-s07e11-a-tumba-dos-reis-serpente_l_m.jpg",
       "show_category": "Temporada 7 Episódio 11 - A Tumba dos Reis Serpente",
-      "start_time": "04:00",
-      "end_time": "04:48",
+      "start_time": "13:36",
+      "end_time": "14:24",
       "episode_description": "Josh Gates retorna às selvas da Guatemala para visitar um sítio arqueológico na antiga cidade maia de El Mirador, a possível localização da lendária tumba dos Reis Serpente."
     },
     {
       "show_name": "O Mestre das Espadas",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_o-mestre-das-espadas-s01e03-brincando-com-fogo_l_m.jpg",
       "show_category": "Temporada 1 Episódio 3 - Brincando Com Fogo",
-      "start_time": "04:48",
-      "end_time": "05:36",
+      "start_time": "14:24",
+      "end_time": "15:12",
       "episode_description": "Irish Mike cria duas armas gigantescas: uma espada em forma de baleia e uma lâmina que se abre como um canivete. Um teste acaba em desastre quando Mike põe fogo em uma lâmina e acaba se queimando."
     },
     {
       "show_name": "Museu Mal-Assombrado",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_museu-mal-assombrado-s01e02-o-monstro-da-maquina_l_m.jpg",
       "show_category": "Temporada 1 Episódio 2 - O Monstro da Máquina",
-      "start_time": "05:36",
-      "end_time": "05:36",
-      "episode_description": "Ao usar máquinas especiais, projetadas para se comunicarem com o mundo espiritual, um engenheiro brilhante e excêntrico abre um portal sombrio para um reino sinistro."
-    },
-    {
-      "show_name": "Museu Mal-Assombrado",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_museu-mal-assombrado-s01e02-o-monstro-da-maquina_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 2 - O Monstro da Máquina",
-      "start_time": "05:36",
-      "end_time": "06:24",
+      "start_time": "15:12",
+      "end_time": "16:00",
       "episode_description": "Ao usar máquinas especiais, projetadas para se comunicarem com o mundo espiritual, um engenheiro brilhante e excêntrico abre um portal sombrio para um reino sinistro."
     },
     {
       "show_name": "Nos Trilhos do Alasca",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_nos-trilhos-do-alasca-s02e01-ataque-de-urso_l_m.jpg",
       "show_category": "Temporada 2 Episódio 1 - Ataque de Urso",
-      "start_time": "06:24",
-      "end_time": "07:12",
+      "start_time": "16:00",
+      "end_time": "16:48",
       "episode_description": "Com o tempo se esgotando, a equipe de carga tenta fazer uma entrega para uma equipe isolada na floresta. Jim James volta à cidade com uma grande surpresa para sua esposa, Nancy."
     },
     {
       "show_name": "Criadores de Sonhos",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_criadores-de-sonhos-s01e08_l_m.jpg",
       "show_category": "Temporada 1 Episódio 8 - Especial de Natal",
-      "start_time": "07:12",
-      "end_time": "08:00",
-      "episode_description": "Os gêmeos Ron e John Daniels dirigem uma empresa que constrói e personaliza casas em árvores, a Daniels Wood Land. Conheça seus projetos durante a temporada de festas de final de ano."
-    },
-    {
-      "show_name": "Rumo ao Desconhecido",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_rumo-ao-desconhecido-s07e06-o-pirata-da-florida_l_m.jpg",
-      "show_category": "Temporada 7 Episódio 6 - O Pirata da Flórida",
-      "start_time": "08:00",
-      "end_time": "08:48",
-      "episode_description": "Josh Gates veleja para a Flórida em busca do tesouro perdido de José Gaspar. Ele trabalha ao lado de arqueólogos e caçadores de tesouros para desvendar os mistérios do pirata e encontrar uma fortuna escondida."
-    },
-    {
-      "show_name": "Rumo ao Desconhecido",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_rumo-ao-desconhecido-s07e11-a-tumba-dos-reis-serpente_l_m.jpg",
-      "show_category": "Temporada 7 Episódio 11 - A Tumba dos Reis Serpente",
-      "start_time": "08:48",
-      "end_time": "09:36",
-      "episode_description": "Josh Gates retorna às selvas da Guatemala para visitar um sítio arqueológico na antiga cidade maia de El Mirador, a possível localização da lendária tumba dos Reis Serpente."
-    },
-    {
-      "show_name": "O Mestre das Espadas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-mestre-das-espadas-s01e03-brincando-com-fogo_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 3 - Brincando Com Fogo",
-      "start_time": "09:36",
-      "end_time": "10:24",
-      "episode_description": "Irish Mike cria duas armas gigantescas: uma espada em forma de baleia e uma lâmina que se abre como um canivete. Um teste acaba em desastre quando Mike põe fogo em uma lâmina e acaba se queimando."
-    },
-    {
-      "show_name": "Museu Mal-Assombrado",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_museu-mal-assombrado-s01e02-o-monstro-da-maquina_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 2 - O Monstro da Máquina",
-      "start_time": "10:24",
-      "end_time": "11:12",
-      "episode_description": "Ao usar máquinas especiais, projetadas para se comunicarem com o mundo espiritual, um engenheiro brilhante e excêntrico abre um portal sombrio para um reino sinistro."
-    },
-    {
-      "show_name": "Nos Trilhos do Alasca",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_nos-trilhos-do-alasca-s02e01-ataque-de-urso_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 1 - Ataque de Urso",
-      "start_time": "11:12",
-      "end_time": "12:00",
-      "episode_description": "Com o tempo se esgotando, a equipe de carga tenta fazer uma entrega para uma equipe isolada na floresta. Jim James volta à cidade com uma grande surpresa para sua esposa, Nancy."
-    },
-    {
-      "show_name": "Criadores de Sonhos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_criadores-de-sonhos-s01e08_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 8 - Especial de Natal",
-      "start_time": "12:00",
-      "end_time": "12:48",
+      "start_time": "16:48",
+      "end_time": "17:36",
       "episode_description": "Os gêmeos Ron e John Daniels dirigem uma empresa que constrói e personaliza casas em árvores, a Daniels Wood Land. Conheça seus projetos durante a temporada de festas de final de ano."
     },
     {
       "show_name": "Destiladores",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_destiladores-s10e12-pego-no-flagra_l_m.jpg",
       "show_category": "Temporada 10 Episódio 12 - Pego no Flagra",
-      "start_time": "12:48",
-      "end_time": "13:36",
+      "start_time": "17:36",
+      "end_time": "18:24",
       "episode_description": "Tickle e os Law recrutam Josh para construir um espaço à prova de inverno; Mark converte beterrabas-sacarinas gratuitas em moonshine de alto teor alcóolico; Mike e Jerry desatam nós para produzir destilado de noz-pecã."
     },
     {
-      "show_name": "Destiladores",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_destiladores-s10e13-paraiso-suino_l_m.jpg",
-      "show_category": "Temporada 10 Episódio 13 - Paraíso Suíno",
-      "start_time": "13:36",
-      "end_time": "14:24",
-      "episode_description": "Mark e Digger acham uma solução para a falta de jarras, mas o esforço pode não valer a pena; Tim pede ajuda para recriar o primeiro uísque produzido nos Estados Unidos; Mike e Jerry destilam vodca."
+      "show_name": "Histórias Animais",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_historias-animais-s01e02_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Os Segredos das Aves Dançarinas",
+      "start_time": "18:24",
+      "end_time": "19:12",
+      "episode_description": "João Paulo Krajewski embarca em uma jornada repleta de aventuras pelas florestas do Brasil e da Austrália em busca de algumas das criaturas mais impressionantes e encantadoras da natureza: as aves dançarinas."
     },
     {
       "show_name": "Os Reis do Esgoto",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_os-reis-do-esgoto-s01e01-isso-n-o-e-lama_l_m.jpg",
       "show_category": "Temporada 1 Episódio 1 - Isso Não É Lama",
-      "start_time": "14:24",
-      "end_time": "15:12",
+      "start_time": "19:12",
+      "end_time": "20:00",
       "episode_description": "Dirty Water Don mergulha em esgoto tóxico; Josh tenta quebrar uma formação sólida como uma rocha."
     },
     {
       "show_name": "Garimpeiros de Ruínas - Melhores Negócios",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_garimpeiros-de-ruinas-melhores-negocios-s01e07_l_m.jpg",
       "show_category": "Temporada 1 Episódio 7",
-      "start_time": "15:12",
-      "end_time": "16:00",
+      "start_time": "20:00",
+      "end_time": "20:48",
       "episode_description": "Drew Pritchard tem bom olho para comprar objetos para a empresa. E com seu talento peculiar, consegue escolher antiguidades e objetos incomuns que fazem de seu showroom um espetáculo variado."
     },
     {
-      "show_name": "Alasca ao Extremo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_alasca-ao-extremo-s03e07_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 7 - O Velho na Montanha",
-      "start_time": "16:00",
-      "end_time": "16:48",
-      "episode_description": "Tim Mischel se estabelece novamente em McCarthy; o rio Nizina ameaça os planos de Jeremy de expandir sua fazenda; um atalho deixa McCarthy mais perto de se tornar uma atração turística."
-    },
-    {
-      "show_name": "Polônia - A Última Fronteira",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_polonia-a-ultima-fronteira-s03e07_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 7",
-      "start_time": "16:48",
-      "end_time": "17:36",
-      "episode_description": "Um olhar sobre as histórias extraordinárias de madeireiros, engenheiros florestais e outros habitantes que vivem na região mais inóspita e selvagem da Polônia: as montanhas de Bieszczady."
-    },
-    {
-      "show_name": "Alasca - A Última Fronteira",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_alasca-a-ultima-fronteira-s10e07-risco-de-tsunami_l_m.jpg",
-      "show_category": "Temporada 10 Episódio 7 - Risco de Tsunami",
-      "start_time": "17:36",
-      "end_time": "19:12",
-      "episode_description": "Um terremoto atinge Homer, provocando um alerta de tsunami e evacuação. Eivin e Eve atravessam trechos traiçoeiros da montanha em sua primeira caçada de cabras. Charlotte cria um memorial para as vítimas de Covid-19."
-    },
-    {
-      "show_name": "Histórias Animais",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_historias-animais-s01e01_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 1 - A História dos Felinos",
-      "start_time": "19:12",
-      "end_time": "20:00",
-      "episode_description": "Uma jornada fascinante ao lado do biólogo e cinegrafista da natureza, João Paulo Krajewski, para desvendar os segredos e a origem dos majestosos felinos."
-    },
-    {
-      "show_name": "Rota Perigosa",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_rota-perigosa-s01e07-papua-nova-guine_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 7 - Papua Nova Guiné",
-      "start_time": "20:00",
-      "end_time": "20:48",
-      "episode_description": "Todd Carmichael está à procura da rara montanha de café em Papua Nova Guiné, que é conhecida pelo sabor do cacau."
-    },
-    {
-      "show_name": "Rumo ao Desconhecido",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_rumo-ao-desconhecido-s07e06-o-pirata-da-florida_l_m.jpg",
-      "show_category": "Temporada 7 Episódio 6 - O Pirata da Flórida",
+      "show_name": "Guerreiros do Pacífico",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_guerreiros-do-pacifico-s01e01_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - Aberta a Temporada",
       "start_time": "20:48",
       "end_time": "21:36",
-      "episode_description": "Josh Gates veleja para a Flórida em busca do tesouro perdido de José Gaspar. Ele trabalha ao lado de arqueólogos e caçadores de tesouros para desvendar os mistérios do pirata e encontrar uma fortuna escondida."
+      "episode_description": "Começa a temporada de pesca com caiaque no Havaí; Andy e Rob caçam um atum enorme; Boogie e Jason enfrentam correntes fortes em Kaena Point; Jon Jon tenta pegar um marlim de 225 quilos."
     },
     {
-      "show_name": "Rumo ao Desconhecido",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_rumo-ao-desconhecido-s07e11-a-tumba-dos-reis-serpente_l_m.jpg",
-      "show_category": "Temporada 7 Episódio 11 - A Tumba dos Reis Serpente",
+      "show_name": "Isto É Ciência - Com Mark Rober",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_isto-e-ciencia-com-mark-rober-s01e02-o-cara-da-bomba-de-glitter_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - O Cara da Bomba de Glitter",
       "start_time": "21:36",
       "end_time": "22:24",
-      "episode_description": "Josh Gates retorna às selvas da Guatemala para visitar um sítio arqueológico na antiga cidade maia de El Mirador, a possível localização da lendária tumba dos Reis Serpente."
+      "episode_description": "Com mais de 229 milhões de visualizações no YouTube, os vídeos de bomba de glitter de Mark são um estouro. Ele mostrará bombas perigosas demais para os espectadores fazerem em casa."
     },
     {
-      "show_name": "Mistérios no Museu",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_misterios-no-museu-s10e12-hank-williams-soldados-que-brilham-e-a-vinda-do-homem-do-gelo_l_m.jpg",
-      "show_category": "Temporada 10 Episódio 12 - Hank Williams, Soldados que Brilham e a Vinda do Homem do Gelo",
+      "show_name": "Pesca Mortal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pesca-mortal-s14e12-apostas-de-risco_l_m.jpg",
+      "show_category": "Temporada 14 Episódio 12 - Apostas de Risco",
       "start_time": "22:24",
       "end_time": "23:12",
-      "episode_description": "Don Wildman investiga a morte de uma lenda da música country, examina instrumentos ligados a um mistério da medicina e tenta descobrir a verdade sobre o caso arquivado mais antigo da história."
+      "episode_description": "Enquanto o inverno agita a frota com grandes ondas e ventos fortes, o Mar de Bering é brutal com um novato. No Wizard, o motim está se aproximando."
     },
     {
-      "show_name": "Mistérios no Museu",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_misterios-no-museu-s11e03-o-espi-o-que-salvou-washington_l_m.jpg",
-      "show_category": "Temporada 11 Episódio 3 - O Espião que Salvou Washington",
+      "show_name": "Pesca Mortal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pesca-mortal-1_l_m.jpg",
+      "show_category": "Reality",
       "start_time": "23:12",
       "end_time": "00:00",
-      "episode_description": "Don Wildman revela um plano britânico para assassinar George Washington, investiga o julgamento bizarro de um galo que chocou um ovo e analisa a rixa familiar mais famosa dos Estados Unidos."
+      "episode_description": "Sig Hansen se apressa para descarregar seus tanques e evitar um prejuízo de meio milhão de dólares; o Mar de Bering castiga novamente um novato do Cornelia Marie; a tensão entre dois capitães chega ao auge no Wizard."
     }
   ]
 }

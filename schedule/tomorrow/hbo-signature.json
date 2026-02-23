@@ -1,190 +1,166 @@
 {
   "channel": "HBO Signature",
-  "date": "23/02/2026",
+  "date": "24/02/2026",
   "schedule": [
     {
-      "show_name": "Apagar Histórico",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_apagar-historico-2013-1_l_m.jpg",
-      "show_category": "Comedy / 2013",
-      "start_time": "02:18",
-      "end_time": "04:08",
-      "episode_description": "Nathan briga com o chefe e vende suas ações na empresa, que logo depois passam a valer milhões de dólares. Ele tenta voltar atrás, mas é rejeitado. Frustrado, vai morar numa ilha até descobrir que chegou a hora de sua grande vingança."
+      "show_name": "A Vida Imortal de Henrietta Lacks",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-vida-imortal-de-henrietta-lacks-2017_l_m.jpg",
+      "show_category": "Docudrama / 2017",
+      "start_time": "00:39",
+      "end_time": "02:19",
+      "episode_description": "A história de Henrietta Lacks, uma pobre mulher negra que, em 1951, morreu de um tumor maligno no colo do útero. Sem o seu consentimento, pedaços do tumor que a matou foram removidos e usados em um estudo médico, que construiu uma indústria bilionária de pesquisa."
     },
     {
-      "show_name": "O Ataque à Maratona de Boston",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-ataque-a-maratona-de-boston_l_m.jpg",
-      "show_category": "Special",
-      "start_time": "04:08",
+      "show_name": "The Slow Hustle - Corrupção e Morte na Polícia de Baltimore",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-slow-hustle-corrupc-o-e-morte-na-policia-de-baltimore-2021_l_m.jpg",
+      "show_category": "Documentary / 2021",
+      "start_time": "02:19",
+      "end_time": "03:54",
+      "episode_description": "A morte do veterano policial Sean Suiter levanta novas questões de corrupção no Departamento de Polícia de Baltimore. As perguntas sobre sua morte continuam sem resposta e alguns acreditam que o departamento pode estar envolvido."
+    },
+    {
+      "show_name": "Vida de Crime - 1984 - 2020",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vida-de-crime-1984-2020-2021_l_m.jpg",
+      "show_category": "Documentary / 2021",
+      "start_time": "03:54",
       "end_time": "06:00",
-      "episode_description": "Acompanhe a dramática história do ataque terrorista na maratona de Boston em abril de 2013, por meio das experiências de pessoas cujas vidas foram afetadas. Vídeos de câmeras de segurança, entrevistas exclusivas com sobreviventes e familiares, com oficiais, investigadores e repórteres do The Boston Globe, que ganharam o prêmio Pulitzer pela cobertura do ataque."
+      "episode_description": "Examinando os altos e baixos dos ciclos viciosos do vício em drogas e do crime de rua em uma das partes mais difíceis de Nova Jersey."
     },
     {
-      "show_name": "Árvores e Outras Ramificações",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_arvores-e-outras-ramificac-es-2023_l_m.jpg",
+      "show_name": "Mary Tyler Moore - A Dama da TV",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mary-tyler-moore-a-dama-da-tv-2023_l_m.jpg",
       "show_category": "Documentary / 2023",
       "start_time": "06:00",
-      "end_time": "08:00",
-      "episode_description": "Entre em uma jornada poética que segue seis diferentes personagens e suas relações com as árvores, contando histórias variadas que retratam de esforços de conservação à atividade artística."
+      "end_time": "08:05",
+      "episode_description": "Esse documentário constrói um retrato íntimo da carreira da atriz Mary Tyler Moore, revelando a figura complexa e empática que revolucionou a representação da mulher na mídia."
     },
     {
-      "show_name": "Bela Foto, Bela Vida",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_bela-foto-bela-vida-2023_l_m.jpg",
+      "show_name": "Cape Cod - A Ameaça dos Mares",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cape-cod-a-ameaca-dos-mares-2023_l_m.jpg",
       "show_category": "Documentary / 2023",
-      "start_time": "08:00",
-      "end_time": "10:00",
-      "episode_description": "A fotojornalista Amanda Mustard retorna à sua casa na Pensilvânia, EUA, para investigar os crimes de abuso sexual cometidos por seu próprio avô. Por meio do arquivo de fotografias e filmes caseiros de sua família, Amanda tenta interromper um ciclo de trauma intergeracional e curar as feridas que sua família manteve escondidas por décadas."
+      "start_time": "08:05",
+      "end_time": "09:35",
+      "episode_description": "Milhares de moradores e turistas que passam o verão em Cape Cod, na região Nordeste dos Estados Unidos, são obrigados a lidar com o aumento alarmante de tubarões-brancos nas águas locais, constatando as mudanças sofridas pelo ambiente marinho."
     },
     {
-      "show_name": "Até o Fim",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_ate-o-fim-2016_l_m.jpg",
-      "show_category": "Docudrama / 2016",
-      "start_time": "10:00",
-      "end_time": "12:20",
-      "episode_description": "Lyndon B. Johnson torna-se o presidente dos Estados Unidos após o assassinato de JFK. Seu primeiro ano de mandato é dedicado a passar, rapidamente, a lei dos direitos civis."
+      "show_name": "Você Não Conhece o Jack",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_voce-n-o-conhece-o-jack-2010_l_m.jpg",
+      "show_category": "Docudrama / 2010",
+      "start_time": "09:35",
+      "end_time": "11:55",
+      "episode_description": "Controvérsias e problemas legais perseguem o Dr. Jack Kevorkian quando ele decide apoiar a eutanásia alegando que é uma opção mais digna e humana para pacientes terminais."
     },
     {
-      "show_name": "Sob Medida",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sob-medida-2016_l_m.jpg",
-      "show_category": "Documentary / 2016",
-      "start_time": "12:20",
-      "end_time": "13:40",
-      "episode_description": "A alfaiataria Bindle & Keep, localizada no Brooklyn, atende a uma clientela diversa da comunidade LGBTQ. Os alfaiates Rae e Daniel seguem um método personalizado, considerando a narrativa própria de cada um dos seus clientes para criar roupas perfeitamente únicas. Entre esses clientes estão Derek, que encara uma jornada emocional antes de se casar com Everett, um estudante de direito que vive em um ambiente conservador, e Melissa, que só quer ficar linda para a sua festa de quarenta anos."
+      "show_name": "Foster",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_foster-2018_l_m.jpg",
+      "show_category": "Documentary / 2018 /7.1",
+      "start_time": "11:55",
+      "end_time": "13:55",
+      "episode_description": "Um olhar sem estereótipos e manchetes sensacionalistas sobre o sistema de Acolhimento Familiar temporário nos Estados Unidos, com o objetivo de acabar com alguns dos mitos mais recorrentes sobre o assunto."
     },
     {
-      "show_name": "Fuga de Cabul",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_fuga-de-cabul_l_m.jpg",
+      "show_name": "Fake Famous - Uma Experiência Surreal nas Redes",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_fake-famous-uma-experiencia-surreal-nas-redes_l_m.jpg",
       "show_category": "Special",
-      "start_time": "13:40",
-      "end_time": "15:06",
-      "episode_description": "Acompanhe a análise de 18 dias em agosto de 2021, desde a retirada das tropas dos EUA do Afeganistão até a subsequente evacuação de dezenas de milhares de cidadãos afegãos do aeroporto de Cabul depois que o Talibã tomou a cidade."
+      "start_time": "13:55",
+      "end_time": "15:25",
+      "episode_description": "Um experimento social inovador com influenciadores digitais pega três pessoas em Los Angeles com o número de seguidores relativamente pequeno para que tentem se tornar influenciadores famosos comprando seguidores falsos e um exército de bots."
+    },
+    {
+      "show_name": "Arte Negra - Na Ausência da Luz",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_arte-negra-na-ausencia-da-luz_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "15:25",
+      "end_time": "16:56",
+      "episode_description": "Uma introdução ao trabalho de alguns dos principais artistas visuais afro-americanos, incluindo Theaster Gates, Kerry James Marshall, Faith Ringgold, Amy Sherald e Carrie Mae Weems, inspirada na exposição \"Two Centuries of Black American Art\"."
     },
     {
       "show_name": "The Comeback",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-comeback-s01e01_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 1 - Pilot",
-      "start_time": "15:06",
-      "end_time": "15:42",
-      "episode_description": "Longe das câmeras há anos depois de uma carreira de sucesso, a atriz Valerie Cherish aceita participar de um reality show, mas seu sonho é estar no elenco de um novo seriado. Ela, porém, consegue um papel secundário na produção, mas aceita o desafio."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-comeback-s02e01_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 1",
+      "start_time": "16:56",
+      "end_time": "17:41",
+      "episode_description": "Durante a gravação do piloto de um reality show, Valerie Cherish descobre que Paulie G., seu inimigo, está criando uma série da HBO sobre um escritor de comédias e sua relação com uma atriz ruiva neurótica chamada \"Mallory Church\"."
     },
     {
       "show_name": "The Comeback",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-comeback-s01e02_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 2 - Valerie Triumphs at the Upfronts",
-      "start_time": "15:42",
-      "end_time": "16:13",
-      "episode_description": "O piloto de \"Room and Bored\" é aprovado e todo o elenco prepara-se para o lançamento da série, começando por um sessão de fotos. Uma viagem a Nova York servirá para a apresentação da série e a volta definitiva de Valerie."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-comeback-s02e02_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 2",
+      "start_time": "17:41",
+      "end_time": "18:13",
+      "episode_description": "A HBO pede para Valerie encontrar Jane para produzir um documentário sobre os bastidores. Enquanto isso, seu agente consegue um encontro com um estilista das celebridades para o \"Globo de Ouro\"."
     },
     {
       "show_name": "The Comeback",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-comeback-s01e03_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 3 - Valerie Bonds With the Cast",
-      "start_time": "16:13",
-      "end_time": "16:44",
-      "episode_description": "Valerie convida o elenco para almoçar; a filha de Mark pede uma carona para a escola."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-comeback-s02e03_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 3",
+      "start_time": "18:13",
+      "end_time": "18:45",
+      "episode_description": "No primeiro dia de gravação de Seeing Red, Valerie está empolgada para conhecer sua co-estrela, que interpretará Paulie G. Mais tarde, Valerie começa a sofrer um ataque de ansiedade antes de gravar uma cena erótica."
     },
     {
       "show_name": "The Comeback",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-comeback-s01e04_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 4 - Valerie Stands Up for Aunt Sassy",
-      "start_time": "16:44",
-      "end_time": "17:16",
-      "episode_description": "Durante as gravações, Valerie explica a Jane como é importante para ela zelar por seu trabalho, especialmente quando alguma fala do personagem vai contra seus princípios. Para preservar sua reputação, Valerie pede aos autores que mudem o texto."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-comeback-s02e04_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 4",
+      "start_time": "18:45",
+      "end_time": "19:15",
+      "episode_description": "Valerie toma uma decisão por impulso ao saber que algumas de suas cenas em \"Seeing Red\" poderiam ser cortadas. Mais tarde, Valerie revê suas habilidades para improvisar."
     },
     {
       "show_name": "The Comeback",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-comeback-s01e05_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 5 - Valerie Demands Dignity",
-      "start_time": "17:16",
-      "end_time": "17:46",
-      "episode_description": "Valerie tenta manter sua vida íntima com Mark fora do reality show; os produtores do programa arrumam uma nova assistente para ele que vai causar alguns problemas para a protagonista."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-comeback-s02e05_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 5",
+      "start_time": "19:15",
+      "end_time": "19:50",
+      "episode_description": "A HBO permite Valerie dar uma entrevista exclusiva para o \"The New York Times\". Mais tarde, preocupada com a recente atitude de Paulie G., Valerie decide visitá-lo."
     },
     {
       "show_name": "The Comeback",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-comeback-s01e06_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 6 - Valerie Saves the Show",
-      "start_time": "17:46",
-      "end_time": "18:16",
-      "episode_description": "Para levantar o moral, Valerie presenteia a equipe com biscoitos; Mickey acusa Valerie de contar detalhes de sua vida particular."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-comeback-s02e06_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 6",
+      "start_time": "19:50",
+      "end_time": "20:25",
+      "episode_description": "Um dia exaustivo de filmagens no deserto atrapalha os planos de Valerie de passar uma noite romântica com Mark. As primeiras críticas publicadas sobre o seriado deixam Paulie tenso."
     },
     {
       "show_name": "The Comeback",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-comeback-s01e07_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 7 - Valerie Gets a Very Special Episode",
-      "start_time": "18:16",
-      "end_time": "18:48",
-      "episode_description": "Emocionada porque um dos episódios de Room and Bored é dedicado a seu personagem, Valerie propõe aos autores da série que o convidado especial seja um velho amigo seu. Mas eles não levam sua idéia em conta."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-comeback-s02e07_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 7",
+      "start_time": "20:25",
+      "end_time": "21:00",
+      "episode_description": "Após a esperada estreia do seriado, Valerie recebe críticas de todos os lados. Surpreendentemente, os comentários mais contundentes não vêm de um programa de televisão, nem de blogueiros, mas do próprio marido."
     },
     {
       "show_name": "The Comeback",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-comeback-s01e08_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 8 - Valerie Relaxes in Palm Springs",
-      "start_time": "18:48",
-      "end_time": "19:20",
-      "episode_description": "As gravações de \"Room and Bored\" estão suspensas e Valerie decide passar uns dias de folga em Palm Springs com o marido; um encontro com uma amiga faz com que Valerie mude de atitude com relação a certas pessoas."
-    },
-    {
-      "show_name": "The Comeback",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-comeback-s01e09_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 9 - Valerie Hangs With the Cool Kids",
-      "start_time": "19:20",
-      "end_time": "19:51",
-      "episode_description": "As gravações de Room and Bored recomeçam. Mas Tom e Paulie fazem mudanças no elenco que causam conflitos. Em casa, Francesca assusta Valerie ao aparecer com sua amiga Kalla."
-    },
-    {
-      "show_name": "The Comeback",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-comeback-s01e10_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 10 - Valerie Gets a Magazine Cover",
-      "start_time": "19:51",
-      "end_time": "20:23",
-      "episode_description": "Valerie se prepara para o lançamento do reality show e decide passar o dia exercitando-se. Mas é interrompida por um acidente caseiro com Mark. No trabalho, Juna está fazendo sucesso e Valerie percebe que é hora de contratar um assessor de imprensa."
-    },
-    {
-      "show_name": "The Comeback",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-comeback-s01e11_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 11 - Valerie Stands Out on the Red Carpet",
-      "start_time": "20:23",
-      "end_time": "20:55",
-      "episode_description": "Room and Bored e Juna foram indicados ao People Choice Awards. No tapete vermelho, Valerie se esforça para chamar a atenção da mídia, mas não tem muito êxito."
-    },
-    {
-      "show_name": "The Comeback",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-comeback-s01e12_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 12 - Valerie Shines Under Stress",
-      "start_time": "20:55",
-      "end_time": "21:27",
-      "episode_description": "Valerie está muito emocionada com a promoção do seu reality show. Mas no set de Room and Bored nem tudo vai bem e há conflitos entre Paulie G. e Tom. Alguém persegue Juna e a segurança no estúdio é reforçada."
-    },
-    {
-      "show_name": "The Comeback",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-comeback-s01e13_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 13 - Valerie Does Another Classic Leno",
-      "start_time": "21:27",
-      "end_time": "21:59",
-      "episode_description": "Valerie é anfitriã da festa de estreia de \"The Comeback\" e vai ao \"The Tonight Show with Jay Leno\"."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-comeback-s02e08_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 8",
+      "start_time": "21:00",
+      "end_time": "22:00",
+      "episode_description": "No fim de semana da entrega dos prêmios Emmy, Valerie experimenta o sabor do sucesso e torce para que Mark esteja ao seu lado na cerimônia."
     },
     {
       "show_name": "Viva o Cinema! Uma História da Mostra de São Paulo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_viva-o-cinema-uma-historia-da-mostra-de-s-o-paulo-s01e01_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 1 - Uma Arte Subversiva",
-      "start_time": "21:59",
-      "end_time": "22:55",
-      "episode_description": "Para promover a distribuição de filmes estrangeiros no Brasil e lutar contra a censura imposta por um regime militar que renega filmes, o jornalista e crítico de cinema Leon Cakoff cria, em 1977, a Mostra Internacional de Cinema em São Paulo."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_viva-o-cinema-uma-historia-da-mostra-de-s-o-paulo-s01e03_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3 - Na Beira do Abismo",
+      "start_time": "22:00",
+      "end_time": "22:50",
+      "episode_description": "Superadas a censura e a burocracia que cercam a importação de filmes, Leon e Renata buscam ampliar o alcance da Mostra. O festival se aventura nos universos da TV, livros, vídeo/DVD e produção cinematográfica."
     },
     {
       "show_name": "Viva o Cinema! Uma História da Mostra de São Paulo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_viva-o-cinema-uma-historia-da-mostra-de-s-o-paulo-s01e02_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 2 - Que Deus nos Ajude",
-      "start_time": "22:55",
-      "end_time": "23:51",
-      "episode_description": "Separado do MASP, Leon encontra dificuldades para lutar contra a censura e arrecadar dinheiro, mas ganha uma companheira de batalha: Renata de Almeira, produtora da Mostra e sua futura esposa."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_viva-o-cinema-uma-historia-da-mostra-de-s-o-paulo-s01e04-eu-me-lembro_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - Eu me Lembro",
+      "start_time": "22:50",
+      "end_time": "23:45",
+      "episode_description": "Renata de Almeida está em luto pela morte de Leon enquanto simultaneamente assume a responsabilidade de manter o maior legado de Leon: a Mostra Internacional de Cinema em São Paulo."
     },
     {
       "show_name": "Bob Burnquist - A Lenda do Skate",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_bob-burnquist-a-lenda-do-skate-s01e01_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 1 - Anteu, o Gigante do Skate",
-      "start_time": "23:51",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bob-burnquist-a-lenda-do-skate-s01e02_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Não É por Dinheiro",
+      "start_time": "23:45",
       "end_time": "",
-      "episode_description": "Desde o início da carreira e até alcançar a fama nos X-Games, Bob demonstra uma resiliência inabalável. Inspirado pelo gigante Anteu, que fica mais forte a cada vez que toca o chão, o skatista se torna uma figura icônica do esporte."
+      "episode_description": "A vitória no campeonato de 1995 catapulta Bob à fama e ele constrói as rampas Dreamland, que marcam o seu legado. Recusando uma oferta da Nike, Bob insiste em que o skate vai além do dinheiro, é uma questão de essência e autenticidade."
     }
   ]
 }

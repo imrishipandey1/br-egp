@@ -1,141 +1,133 @@
 {
   "channel": "FOX Sports",
-  "date": "22/02/2026",
+  "date": "23/02/2026",
   "schedule": [
     {
-      "show_name": "Professores do Brasil - Capoeira",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_professores-do-brasil-capoeira_l_m.jpg",
-      "show_category": "Documentary",
+      "show_name": "Linha de Passe: Mesa-Redonda",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sports-talk-linha-de-passe-mesa-redonda_l_m.jpg",
+      "show_category": "",
       "start_time": "01:30",
-      "end_time": "02:00",
-      "episode_description": ""
+      "end_time": "03:00",
+      "episode_description": "Comentaristas esportivos conceituados entram em campo para uma análise completa da rodada do futebol ao estilo \"mesa redonda\", com debates acalorados e comentários de qualidade, sempre a partir de um olhar crítico e da imparcialidade."
     },
     {
-      "show_name": "Juventus x Como",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-juventus-x-como-1_l_m.jpg",
-      "show_category": "Campeonato Italiano",
-      "start_time": "02:00",
-      "end_time": "04:00",
-      "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
+      "show_name": "Boca Juniors x Racing",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-boca-juniors-x-racing-1_l_m.jpg",
+      "show_category": "Campeonato Argentino",
+      "start_time": "03:00",
+      "end_time": "05:00",
+      "episode_description": "Acompanhe as grandes partidas do torneio de elite do futebol argentino."
+    },
+    {
+      "show_name": "Athletic Bilbao x Elche CF",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-athletic-bilbao-x-elche-cf_l_m.jpg",
+      "show_category": "Campeonato Espanhol",
+      "start_time": "05:00",
+      "end_time": "05:00",
+      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
+    },
+    {
+      "show_name": "Athletic Bilbao x Elche CF",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-athletic-bilbao-x-elche-cf_l_m.jpg",
+      "show_category": "Campeonato Espanhol",
+      "start_time": "05:00",
+      "end_time": "07:00",
+      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
     },
     {
       "show_name": "Aquece Moto GP",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_special-aquece-moto-gp_l_m.jpg",
       "show_category": "",
-      "start_time": "04:00",
-      "end_time": "05:00",
+      "start_time": "07:00",
+      "end_time": "08:00",
       "episode_description": "Uma prévia da temporada 2026 da Moto GP, com estreia do brasileiro Diogo Moreira, que vai competir pela equipe LCR Honda após conquistar o título da Moto 2 em 2025. O País também volta a sediar uma prova da categoria, em Goiânia, após 12 anos."
     },
     {
-      "show_name": "Benfica x AFS",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-benfica-x-afs_l_m.jpg",
-      "show_category": "Campeonato Português",
-      "start_time": "05:00",
-      "end_time": "05:00",
-      "episode_description": "Todas as emoções da principal competição de futebol masculino entre clubes de Portugal."
+      "show_name": "Golden State Warriors x Denver Nuggets",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_basketball-golden-state-warriors-x-denver-nuggets_l_m.jpg",
+      "show_category": "NBA",
+      "start_time": "08:00",
+      "end_time": "10:00",
+      "episode_description": "Trinta equipes dos Estados Unidos e Canadá se enfrentam na principal liga de basquete do mundo."
     },
     {
-      "show_name": "Benfica x AFS",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-benfica-x-afs_l_m.jpg",
-      "show_category": "Campeonato Português",
-      "start_time": "05:00",
-      "end_time": "07:00",
-      "episode_description": "Todas as emoções da principal competição de futebol masculino entre clubes de Portugal."
-    },
-    {
-      "show_name": "Atlético de Madrid x Espanyol",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-atletico-de-madrid-x-espanyol_l_m.jpg",
+      "show_name": "Barcelona x Levante",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-barcelona-x-levante_l_m.jpg",
       "show_category": "Campeonato Espanhol",
-      "start_time": "07:00",
-      "end_time": "08:50",
+      "start_time": "10:00",
+      "end_time": "12:00",
       "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
     },
     {
-      "show_name": "Central Córdoba x Tigre",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-central-cordoba-x-tigre_l_m.jpg",
-      "show_category": "Campeonato Argentino",
-      "start_time": "08:50",
-      "end_time": "10:50",
-      "episode_description": "Acompanhe as grandes partidas do torneio de elite do futebol argentino."
-    },
-    {
-      "show_name": "Sunderland x Fulham",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-sunderland-x-fulham-1_l_m.jpg",
-      "show_category": "Campeonato Inglês",
-      "start_time": "10:50",
-      "end_time": "13:00",
-      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
-    },
-    {
-      "show_name": "F1: The Inside Line",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_auto-racing-f1-the-inside-line_l_m.jpg",
-      "show_category": "",
-      "start_time": "13:00",
-      "end_time": "13:30",
-      "episode_description": "Veja a cobertura completa da Fórmula 1, a maior e mais badalada categoria do automobilismo mundial. Acompanhe as principais notícias da semana, os bastidores, entrevistas exclusivas e reportagens especiais."
-    },
-    {
-      "show_name": "SportsCenter Abre o Jogo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sports-talk-sportscenter-abre-o-jogo_l_m.jpg",
-      "show_category": "",
-      "start_time": "13:30",
-      "end_time": "13:50",
-      "episode_description": "Destaques e preparativos da partida válida pela maior liga de basquete profissional do mundo."
-    },
-    {
-      "show_name": "Milan x Parma",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-milan-x-parma_l_m.jpg",
+      "show_name": "Juventus x Como",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-juventus-x-como-1_l_m.jpg",
       "show_category": "Campeonato Italiano",
-      "start_time": "13:50",
-      "end_time": "16:00",
+      "start_time": "12:00",
+      "end_time": "13:55",
       "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
     },
     {
-      "show_name": "UEFA Women's Champions League Highlight Show",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-uefa-women-s-champions-league-highlight-show_l_m.jpg",
+      "show_name": "Fenerbahçe x Kasimpasa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-fenerbahce-x-kasimpasa_l_m.jpg",
+      "show_category": "Campeonato Turco de Futebol",
+      "start_time": "13:55",
+      "end_time": "16:00",
+      "episode_description": "Todas as emoções da Süper Lig, a principal competição de futebol masculino entre clubes da Turquia."
+    },
+    {
+      "show_name": "Premier League Stories",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-premier-league-stories_l_m.jpg",
       "show_category": "",
       "start_time": "16:00",
       "end_time": "16:30",
-      "episode_description": "Os destaques das partidas da Liga dos Campeões da UEFA, principal torneio de futebol feminino entre clubes europeus."
+      "episode_description": "Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês."
     },
     {
-      "show_name": "Resenha ESPN",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_resenha-espn_l_m.jpg",
-      "show_category": "Sports talk",
+      "show_name": "Momento ESPN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_documentary-momento-espn_l_m.jpg",
+      "show_category": "",
       "start_time": "16:30",
-      "end_time": "17:25",
-      "episode_description": "Atletas da atualidade e do passado participam de bate-papo descontraído e cheio de boas histórias."
+      "end_time": "16:50",
+      "episode_description": ""
     },
     {
-      "show_name": "Porto x Rio Ave",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-porto-x-rio-ave_l_m.jpg",
+      "show_name": "Alavés x Girona",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-alaves-x-girona_l_m.jpg",
+      "show_category": "Campeonato Espanhol",
+      "start_time": "16:50",
+      "end_time": "19:00",
+      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
+    },
+    {
+      "show_name": "Bola da Vez",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bola-da-vez_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "19:00",
+      "end_time": "20:00",
+      "episode_description": "Entre encontros e desencontros, esquecimento e memória, um grupo de crianças passeia pela infância, pelas raízes e por paisagens escondidas da cidade de Goiás."
+    },
+    {
+      "show_name": "Destaques da Conmebol Libertadores",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-destaques-da-conmebol-libertadores_l_m.jpg",
+      "show_category": "",
+      "start_time": "20:00",
+      "end_time": "21:00",
+      "episode_description": "Acompanhe os destaques, os melhores lances, gols e um resumo completo de tudo o que rolou nas partidas da principal competição de futebol masculino entre clubes da América do Sul: a Conmebol Libertadores."
+    },
+    {
+      "show_name": "Benfica x AFS",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-benfica-x-afs_l_m.jpg",
       "show_category": "Campeonato Português",
-      "start_time": "17:25",
-      "end_time": "19:30",
+      "start_time": "21:00",
+      "end_time": "23:00",
       "episode_description": "Todas as emoções da principal competição de futebol masculino entre clubes de Portugal."
     },
     {
-      "show_name": "Tottenham Hotspur x Arsenal",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-tottenham-hotspur-x-arsenal_l_m.jpg",
+      "show_name": "Everton x Manchester United",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-everton-x-manchester-united-1_l_m.jpg",
       "show_category": "Campeonato Inglês",
-      "start_time": "19:30",
-      "end_time": "21:30",
-      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
-    },
-    {
-      "show_name": "Sheffield United x Sheffield Wednesday",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-sheffield-united-x-sheffield-wednesday-1_l_m.jpg",
-      "show_category": "Campeonato Inglês - Segunda Divisão",
-      "start_time": "21:30",
-      "end_time": "23:30",
-      "episode_description": "Do Estádio de Bramall Lane, em Sheffield, Inglaterra."
-    },
-    {
-      "show_name": "Nottingham Forest x Liverpool",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-nottingham-forest-x-liverpool-1_l_m.jpg",
-      "show_category": "Campeonato Inglês",
-      "start_time": "23:30",
-      "end_time": "01:30",
+      "start_time": "23:00",
+      "end_time": "01:00",
       "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
     }
   ]

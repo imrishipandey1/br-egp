@@ -1,286 +1,270 @@
 {
   "channel": "GNT",
-  "date": "22/02/2026",
+  "date": "23/02/2026",
   "schedule": [
-    {
-      "show_name": "Bem Juntinhos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_bem-juntinhos-s01e06_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 6 - Separação",
-      "start_time": "01:18",
-      "end_time": "02:18",
-      "episode_description": "Um dos momentos mais árduos da vida emocional de uma pessoa. As motivações, as diferentes fases, o luto, o renascer e a reinvenção depois do fim."
-    },
-    {
-      "show_name": "Admiráveis Conselheiras",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_admiraveis-conselheiras-s02e05-eliana-pittman_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 5 - Eliana Pittman",
-      "start_time": "02:18",
-      "end_time": "03:01",
-      "episode_description": "Astrid encontra Eliana Pittman, primeira cantora a lançar o carimbó no sudeste e que levou a bossa nova, o jazz e o samba para o mundo."
-    },
-    {
-      "show_name": "Geladeiras em Ação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_geladeiras-em-ac-o-s01e09-fitness_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 9 - Fitness",
-      "start_time": "03:01",
-      "end_time": "03:45",
-      "episode_description": "Três cozinheiros amadores têm que fazer café da manhã, almoço e jantar apenas com os ingredientes de uma geladeira fitness montada pelo chef Claude Troisgros."
-    },
-    {
-      "show_name": "Coisas Daqui",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_coisas-daqui-s03e02_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 2 - Carne de Sol em Janaúba",
-      "start_time": "03:45",
-      "end_time": "04:24",
-      "episode_description": "Felipe conhece Janaúba, experimenta a famosa paçoca de carne de sol e cria uma receita com iguaria."
-    },
-    {
-      "show_name": "Lar - Vida Interior",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lar-vida-interior-s01e07-jose-loreto_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 7 - José Loreto",
-      "start_time": "04:24",
-      "end_time": "04:54",
-      "episode_description": "José Loreto e a reforma do jardim de sua casa; Betty Gofman e o amor pelos bichos; o canto musical do Pretinho da Serrinha."
-    },
-    {
-      "show_name": "Lar - Vida Interior",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lar-vida-interior-s02e08-luiz-fernando-guimar-es_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 8 - Luiz Fernando Guimarães",
-      "start_time": "04:54",
-      "end_time": "05:30",
-      "episode_description": "Luiz Fernando Guimarães mostra o sítio onde criou raízes; tenha um dia de basquete, café e música com Manoel Soares; conheça a estante de Juliano Cazarré."
-    },
-    {
-      "show_name": "Lar - Vida Interior",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lar-vida-interior-s01e09-maite-proenca_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 9 - Maitê Proença",
-      "start_time": "05:30",
-      "end_time": "06:00",
-      "episode_description": "Maitê Proença mostra o canto de criação em seu lar; conheça a casa da pianista Maíra Freitas; um delicioso picadinho na cozinha de Diogo Nogueira."
-    },
-    {
-      "show_name": "Sábia Ignorância",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabia-ignorancia-s01e05-entendeu_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 5 - É Possível Envelhecer Bem?",
-      "start_time": "06:00",
-      "end_time": "06:44",
-      "episode_description": "Com a atriz Paula Burlamaqui e a antropóloga Mirian Goldenberg, Gabriela investiga como transformar o olhar sobre a velhice."
-    },
-    {
-      "show_name": "Sábia Ignorância",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabia-ignorancia-s01e06-entendeu_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 6 - Uma Nova Maternidade",
-      "start_time": "06:44",
-      "end_time": "07:29",
-      "episode_description": "Com a atriz Isis Valverde e a psicóloga Roberta Ferec, Gabriela Prioli fala sobre as transformações na forma de viver a maternidade."
-    },
-    {
-      "show_name": "Pode Entrar",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_pode-entrar-s03e07-casa-do-jo-o-luiz-pedrosa_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 7 - Casa do João Luiz Pedrosa",
-      "start_time": "07:29",
-      "end_time": "07:48",
-      "episode_description": "O influenciador e ex-BBB João Luiz Pedrosa abre sua cobertura, em São Paulo, onde mora com seu companheiro Igor, duas chinchillas e quatro calopsitas para mostrar seus objetos afetivos."
-    },
-    {
-      "show_name": "Lugar de Criança",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lugar-de-crianca-s02e03-quarto-de-astronauta_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 3 - Quarto de Astronauta",
-      "start_time": "07:48",
-      "end_time": "08:20",
-      "episode_description": "Pedro Henrique sonha em ser astronauta um dia, mas como ainda é criança, ele quer um quarto que o ajude a matar a vontade de desbravar o espaço. O Lugar de Criança o ajuda nessa missão."
-    },
-    {
-      "show_name": "Chegadas e Partidas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_chegadas-e-partidas-s12e04_l_m.jpg",
-      "show_category": "Temporada 12 Episódio 4 - Sobre Criar Raízes e se Aventurar",
-      "start_time": "08:20",
-      "end_time": "08:48",
-      "episode_description": "Astrid acompanha partida de jovem casal que vai para Austrália fazer intercâmbio, além da chegada de Mariana, que reencontra a mãe após dois anos no aeroporto de Guarulhos."
-    },
-    {
-      "show_name": "Superbonita",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_superbonita-s21e05-sono-da-beleza_l_m.jpg",
-      "show_category": "Temporada 21 Episódio 5 - Sono da Beleza",
-      "start_time": "08:48",
-      "end_time": "09:19",
-      "episode_description": "O sono da beleza não é mito. É no sono que o corpo mais trabalha na regeneração e na imunidade. A cantora Ludmilla conta sobre a luta diária que trava com seu sono."
-    },
-    {
-      "show_name": "Superbonita",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_superbonita-s22e06-aumenta-o-volume_l_m.jpg",
-      "show_category": "Temporada 22 Episódio 6 - Aumenta o Volume",
-      "start_time": "09:19",
-      "end_time": "09:50",
-      "episode_description": "Toda mulher está no mundo para ser grande e fazer a diferença. Então, ocupe o seu espaço, alargue o seu universo e aumente o seu volume. É tempo de tirar a exuberância da gaveta e colocar ela na roda."
-    },
-    {
-      "show_name": "Bem Juntinhos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_bem-juntinhos-s01e06_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 6 - Separação",
-      "start_time": "09:50",
-      "end_time": "10:50",
-      "episode_description": "Um dos momentos mais árduos da vida emocional de uma pessoa. As motivações, as diferentes fases, o luto, o renascer e a reinvenção depois do fim."
-    },
-    {
-      "show_name": "Geladeiras em Ação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_geladeiras-em-ac-o-s01e09-fitness_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 9 - Fitness",
-      "start_time": "10:50",
-      "end_time": "11:35",
-      "episode_description": "Três cozinheiros amadores têm que fazer café da manhã, almoço e jantar apenas com os ingredientes de uma geladeira fitness montada pelo chef Claude Troisgros."
-    },
-    {
-      "show_name": "Que Marravilha!",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_que-marravilha-s25e03-sempre-tem-la-em-casa_l_m.jpg",
-      "show_category": "Temporada 25 Episódio 3 - Sempre Tem Lá em Casa",
-      "start_time": "11:35",
-      "end_time": "12:16",
-      "episode_description": "É hora de pratos que não podem faltar nas casas dos chefs. Claude e Batista fazem frango com quiabo; Carola, seu bolo \"chocolatado\". A convidada é Anne Marie, irmã do Claude."
-    },
-    {
-      "show_name": "Que Marravilha! Chato pra Comer",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_que-marravilha-chato-pra-comer-s13e07-arroz-colorido-com-vieiras_l_m.jpg",
-      "show_category": "Temporada 13 Episódio 7 - Arroz Colorido com Vieiras",
-      "start_time": "12:16",
-      "end_time": "12:57",
-      "episode_description": "Cansado de comer em self service e a fim de um jantar romântico, o marido denunciou a Laysa. Uma maranhense que só come bife, arroz, feijão e batata frita. Seu prato é sem cor. Claude e Batista preparam um prato bem colorido para ela."
-    },
-    {
-      "show_name": "Cozinha Prática com Rita Lobo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cozinha-pratica-com-rita-lobo-s06e06-omelete_l_m.jpg",
-      "show_category": "Temporada 6 Episódio 6 - Omelete",
-      "start_time": "12:57",
-      "end_time": "13:25",
-      "episode_description": "Rita Lobo sai em busca da omelete perfeita, usando duas técnicas culinárias diferentes, servidas com deliciosos tomates recheados de farofa de anchova."
-    },
-    {
-      "show_name": "Tempero de Família",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_tempero-de-familia-s16e09-anna-e-beatriz_l_m.jpg",
-      "show_category": "Temporada 16 Episódio 9 - Anna e Beatriz",
-      "start_time": "13:25",
-      "end_time": "13:58",
-      "episode_description": "Rodrigo Hilbert recebe Anna e Beatriz, que comemoram 12 anos de união e bodas de ônix. Eles fazem panceta glaceada, picanha na crosta de sal grosso e pavê gelado de biscoito de wafer."
-    },
-    {
-      "show_name": "Diogo na Cozinha",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_diogo-na-cozinha-s02e05-xam-e-marvvila_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 5 - Xamã e Marvvila",
-      "start_time": "13:58",
-      "end_time": "14:31",
-      "episode_description": "Diogo recebe Xamã e Marvvila para um encontro cheio de música e improviso. Enquanto soltam a voz na cozinha, o sambista prepara sua versão de um carreteiro e um pudim de café."
-    },
     {
       "show_name": "Sabores da Floresta",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sabores-da-floresta-s01e03_l_m.jpg",
       "show_category": "Temporada 1 Episódio 3 - Cupuaçu",
-      "start_time": "14:31",
-      "end_time": "15:01",
+      "start_time": "00:22",
+      "end_time": "00:54",
       "episode_description": "Em Tomé-Açú vive uma das mais antigas comunidades japonesas da Amazônia, e a plantação do cupuaçu une a tradição nipônica à produção de uma das frutas mais usadas na culinária da região."
-    },
-    {
-      "show_name": "Avisa Lá que Eu Vou",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_avisa-la-que-eu-vou-s04e06-quadrilha_l_m.jpg",
-      "show_category": "Temporada 4 Episódio 6 - Quadrilha",
-      "start_time": "15:01",
-      "end_time": "15:50",
-      "episode_description": "Paulo Vieira embarca no épico campeonato de Quadrilhas Juninas, onde paixão, dança e São João se misturam em um espetáculo à la Carnaval e Brasileirão."
-    },
-    {
-      "show_name": "Carnaval da Sabrina",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_carnaval-da-sabrina-s05e05_l_m.jpg",
-      "show_category": "Temporada 5 Episódio 5 - O Maior Espetáculo da Terra",
-      "start_time": "15:50",
-      "end_time": "16:23",
-      "episode_description": "A intimidade e os desafios de Sabrina Sato durante o Carnaval, com bastidores da rotina da rainha da bateria de duas grandes escolas de samba de Rio de Janeiro e São Paulo. Ensaios, provas de roupa, estresse, correria e muita emoção."
     },
     {
       "show_name": "Infiltrado na Cozinha",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_infiltrado-na-cozinha-s01e06-espirito-de-porco_l_m.jpg",
       "show_category": "Temporada 1 Episódio 6 - Espírito de Porco",
-      "start_time": "16:23",
-      "end_time": "17:05",
+      "start_time": "00:54",
+      "end_time": "01:37",
       "episode_description": "Os participantes preparam receitas com carne de porco. Mas um deles não é cozinheiro profissional e só vai levar prêmio se conseguir enganar os jurados até ao fim."
     },
     {
-      "show_name": "Cozinha Prática com Rita Lobo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cozinha-pratica-com-rita-lobo-s13e23-torta-capixaba-de-bacalhau_l_m.jpg",
-      "show_category": "Temporada 13 Episódio 23 - Torta Capixaba",
-      "start_time": "17:05",
-      "end_time": "17:33",
-      "episode_description": "Rita Lobo apresenta a torta capixaba de bacalhau, um prato elegante e prático, ideal para a Páscoa. Basta refogar os legumes, frutos do mar e o peixe, cobrir com ovos batidos e levar ao forno."
+      "show_name": "Que Seja Doce",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_que-seja-doce-s08e39-brasil_l_m.jpg",
+      "show_category": "Temporada 8 Episódio 39 - Brasil",
+      "start_time": "01:37",
+      "end_time": "02:35",
+      "episode_description": "Preparando receitas com brigadeiro e paçoca, as confeiteiras mostram que o Brasil é uma terra açucarada e que, além das palmeiras, possui doces maravilhosos."
     },
     {
-      "show_name": "Cozinha Prática com Rita Lobo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cozinha-pratica-com-rita-lobo-s10e06-frango-mais-chocolate-mais-acelga_l_m.jpg",
-      "show_category": "Temporada 10 Episódio 6 - Frango + Chocolate + Acelga",
-      "start_time": "17:33",
-      "end_time": "18:00",
-      "episode_description": "Frango, acelga e chocolate se transformam em dois cardápios diferentes. Veja como variar os sabores do dia a dia com os truques culinários da Rita Lobo."
-    },
-    {
-      "show_name": "Tempero de Família",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_tempero-de-familia-s05e19-escondidinho-de-polenta-p-o-de-uva-passas-e-pudim-de-p-o_l_m.jpg",
-      "show_category": "Temporada 5 Episódio 19 - Escondidinho de Polenta, Pão de Uva Passas e Pudim de Pão",
-      "start_time": "18:00",
-      "end_time": "18:29",
-      "episode_description": "Rodrigo recebe a mãe, dona Suzete Hilbert, com flores e aprende com ela, na cozinha, as receitas de sua infância. No menu: pão de uvas passas, escondidinho de polenta e pudim de pão."
-    },
-    {
-      "show_name": "Uma Senhora Panela",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_uma-senhora-panela-s01e03-moqueca-de-peixe-lia-de-itamaraca-e-nara-couto_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 3 - Moqueca de Peixe - Lia de Itamaracá e Nara Couto",
-      "start_time": "18:29",
-      "end_time": "18:58",
-      "episode_description": "Carmem Virginia prepara uma moqueca de peixe, acompanhada por duas grandes artistas nordestinas de diferentes gerações: a pernambucana Lia de Itamaracá e a baiana Nara Couto."
-    },
-    {
-      "show_name": "Geladeiras em Ação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_geladeiras-em-ac-o-s02e05-mineira_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 5 - Mineira",
-      "start_time": "18:58",
-      "end_time": "19:43",
-      "episode_description": "Uma geladeira mineira é o ponto de partida para que o chef Claude Troisgros desafie três participantes a fazerem almoço e jantar."
+      "show_name": "Que Seja Doce",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_que-seja-doce-s07e01-ar-de-confeiteiro_l_m.jpg",
+      "show_category": "Temporada 7 Episódio 1 - Ar de Confeiteiro",
+      "start_time": "02:35",
+      "end_time": "03:33",
+      "episode_description": "As confeiteiras passam um sufoco ao trabalharem com sifão e fazendo mousse."
     },
     {
       "show_name": "Que História É Essa, Porchat?",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_que-historia-e-essa-porchat-s07e14_l_m.jpg",
       "show_category": "Temporada 7 Episódio 14 - Malvino Salvador, Álamo Facó e Feyjão",
-      "start_time": "19:43",
-      "end_time": "20:49",
+      "start_time": "03:33",
+      "end_time": "04:37",
       "episode_description": "Porchat recebe Malvino Salvador, Álamo Facó e Feyjão. Na plateia, um fetiche bem diferente e um remédio que estragou a noite de Luciane."
     },
     {
+      "show_name": "Morar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_morar-s01e05-florianopolis_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 5 - Florianópolis",
+      "start_time": "04:37",
+      "end_time": "05:11",
+      "episode_description": "Florianópolis abriga um estilo de vida muito leve que vai da casa de surfista na beira da Lagoa da Conceição, ao apartamento de um jovem casal no Centro da cidade, e a moradia de um pescador, com sua casa para lá de curiosa."
+    },
+    {
+      "show_name": "Morar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_morar-s01e06-piranhas_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 6 - Piranhas",
+      "start_time": "05:11",
+      "end_time": "05:40",
+      "episode_description": "Piranhas é uma cidadezinha com apenas uma entrada e uma saída. Suas casas têm uma vista impressionante: o Rio São Francisco. Ao longo do episódio conheceremos alguns moradores e sua relação com a cidade."
+    },
+    {
+      "show_name": "Boas Vindas - Nasce um Irmão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_boas-vindas-nasce-um-irm-o-s11e03_l_m.jpg",
+      "show_category": "Temporada 11 Episódio 3 - Artur e Bia",
+      "start_time": "05:40",
+      "end_time": "06:00",
+      "episode_description": "A chegada de mais um filho é como se fosse a primeira vez. Artur deixa de ser caçula e sua mãe planeja um parto natural. Bia é uma pré-adolescente e sua mãe vive a gravidez aos 42."
+    },
+    {
+      "show_name": "Dani-se",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_dani-se-s01e02-opini-o_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Opinião",
+      "start_time": "06:00",
+      "end_time": "06:43",
+      "episode_description": "Dani e Pedroca recebem Luis Lobianco e Flávia Reis para dar um dane-se nas opiniões que sufocam."
+    },
+    {
+      "show_name": "Fazendo a Festa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_fazendo-a-festa-s06e05-horta_l_m.jpg",
+      "show_category": "Temporada 6 Episódio 5 - Horta",
+      "start_time": "06:43",
+      "end_time": "07:38",
+      "episode_description": "Helena está completando nove anos e o tema que ela escolheu para a festa tem a ver com uma de suas grandes paixões: sua hortinha caseira. Por isso, é dia de colocar a mão na terra."
+    },
+    {
+      "show_name": "Que História É Essa, Porchat?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_que-historia-e-essa-porchat-s07e13_l_m.jpg",
+      "show_category": "Temporada 7 Episódio 13 - Mari Fernandez, Thiago Oliveira e Igor Cosso",
+      "start_time": "07:38",
+      "end_time": "07:46",
+      "episode_description": "Fábio Porchat recebe Igor Cosso, Mari Fernandez e Thiago Oliveira. Na plateia, uma penetra no after da Ludmilla e uma quadrilha de roubo diferenciada."
+    },
+    {
+      "show_name": "Santa Ajuda",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_santa-ajuda-s09e16_l_m.jpg",
+      "show_category": "Temporada 9 Episódio 16 - Bagunceiro Minha Vida Não Cabe na Minha Casa",
+      "start_time": "07:46",
+      "end_time": "08:39",
+      "episode_description": "Micaela encara Willed, um bagunceiro do tipo 'minha vida não cabe na minha casa, que foi denunciado pela desordem em seu ateliê. Micaela faz uma blitz em um brechó e dá dicas sobre ferramentas."
+    },
+    {
+      "show_name": "Lar - Vida Interior",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lar-vida-interior-s02e10-lilia-cabral_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 10 - Lilia Cabral",
+      "start_time": "08:39",
+      "end_time": "09:15",
+      "episode_description": "O escritório onde Lilia Cabral cria seus personagens; o de Rafaela Monteiro e as cores do arco-íris; José Junior e sua casa que traduz a sua fé."
+    },
+    {
+      "show_name": "Que História É Essa, Porchat?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_que-historia-e-essa-porchat-s07e20-luciana-braga-lucas-gutierrez-e-carol-marra_l_m.jpg",
+      "show_category": "Temporada 7 Episódio 20 - Luciana Braga, Lucas Gutierrez e Carol Marra",
+      "start_time": "09:15",
+      "end_time": "09:25",
+      "episode_description": "Porchat recebe Luciana Braga, Carol Marra e Lucas Gutierrez. Na plateia, uma história de confiança excessiva e outra de vingança perfeita."
+    },
+    {
+      "show_name": "Carnaval da Sabrina",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_carnaval-da-sabrina-s05e05_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 5 - O Maior Espetáculo da Terra",
+      "start_time": "09:25",
+      "end_time": "09:52",
+      "episode_description": "A intimidade e os desafios de Sabrina Sato durante o Carnaval, com bastidores da rotina da rainha da bateria de duas grandes escolas de samba de Rio de Janeiro e São Paulo. Ensaios, provas de roupa, estresse, correria e muita emoção."
+    },
+    {
+      "show_name": "Food Truck - A Batalha",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_food-truck-a-batalha-s01e29-chapa-quente_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 29 - Chapa Quente",
+      "start_time": "09:52",
+      "end_time": "10:46",
+      "episode_description": "A chapa é um utensílio indispensável em um Food Truck. Adolpho Schaefer e Marcio Silva recebem as vencedoras do programa Cozinheiros em Ação, Carol Quartim e Maísa Campos. Elas terão o desafio de criar pratos utilizando somente a chapa na preparação."
+    },
+    {
+      "show_name": "Alma de Cozinheira",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alma-de-cozinheira-s01e07-pequena-lo-e-pedro-bial_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 7 - Pequena Lô e Pedro Bial",
+      "start_time": "10:46",
+      "end_time": "11:31",
+      "episode_description": "Paola recebe a influenciadora digital Pequena Lô e o jornalista Pedro Bial. No cardápio, massa folheada com tapenade de azeitonas como entrada, agnolotti clássico de prato principal e pudim de cacau para a sobremesa."
+    },
+    {
+      "show_name": "Que Seja Doce",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_que-seja-doce-s05e19-doces-proibidos_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 19 - Doces Proibidos",
+      "start_time": "11:31",
+      "end_time": "12:31",
+      "episode_description": "Isabela cresceu em uma família de \"formigas\". Um doce especial era trancado para não ser roubado antes do Natal. Os confeiteiros precisam agradar uma especialista em açúcar."
+    },
+    {
       "show_name": "Avisa Lá que Eu Vou",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_avisa-la-que-eu-vou-s04e06-quadrilha_l_m.jpg",
-      "show_category": "Temporada 4 Episódio 6 - Quadrilha",
-      "start_time": "20:49",
-      "end_time": "21:39",
-      "episode_description": "Paulo Vieira embarca no épico campeonato de Quadrilhas Juninas, onde paixão, dança e São João se misturam em um espetáculo à la Carnaval e Brasileirão."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_avisa-la-que-eu-vou-s03e09-uruana_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 9 - Uruana",
+      "start_time": "12:31",
+      "end_time": "13:14",
+      "episode_description": "Paulo vai até Uruana, em Goiás, participar da Festa da Melancia, a festa anual que celebra o sucesso da colheita da melancia."
     },
     {
-      "show_name": "Angélica ao Vivo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_angelica-ao-vivo-s01e07_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 7 - Luciano Huck, Ana Maria Braga, Victor Stirnimann e Convidado Surpresa",
-      "start_time": "21:39",
-      "end_time": "23:07",
-      "episode_description": "Convidados pescam memórias, admitem se já mentiram e fazem uma surpresa de aniversário para Angélica."
+      "show_name": "Que História É Essa, Porchat?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_que-historia-e-essa-porchat-s07e14_l_m.jpg",
+      "show_category": "Temporada 7 Episódio 14 - Malvino Salvador, Álamo Facó e Feyjão",
+      "start_time": "13:14",
+      "end_time": "14:25",
+      "episode_description": "Porchat recebe Malvino Salvador, Álamo Facó e Feyjão. Na plateia, um fetiche bem diferente e um remédio que estragou a noite de Luciane."
     },
     {
-      "show_name": "Admiráveis Conselheiras",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_admiraveis-conselheiras-s02e05-eliana-pittman_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 5 - Eliana Pittman",
-      "start_time": "23:07",
-      "end_time": "23:52",
-      "episode_description": "Astrid encontra Eliana Pittman, primeira cantora a lançar o carimbó no sudeste e que levou a bossa nova, o jazz e o samba para o mundo."
+      "show_name": "Que História É Essa, Porchat?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_que-historia-e-essa-porchat-s03e02_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 2 - Luciana Gimenez, Ana Paula Araújo e Murilo Couto",
+      "start_time": "14:25",
+      "end_time": "15:27",
+      "episode_description": "Luciana Gimenez, Ana Paula Araújo e Murilo Couto contam histórias que envolvem Fórmula 1, Carnaval e karaokê. Na plateia, uma entrega muito estranha e um pedido de socorro à noite."
+    },
+    {
+      "show_name": "Que Seja Doce",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_que-seja-doce-s01e45-festa-de-aniversario_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 45 - Festa de Aniversário",
+      "start_time": "15:27",
+      "end_time": "16:12",
+      "episode_description": "Em uma prova especial em duas partes, os confeiteiros criam um bolo de aniversário fabuloso que precisa encher os olhos dos jurados tanto quanto suas bocas."
+    },
+    {
+      "show_name": "Que Marravilha! Minha Primeira Vez na Cozinha",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_que-marravilha-minha-primeira-vez-na-cozinha-s16e08_l_m.jpg",
+      "show_category": "Temporada 16 Episódio 8 - Em Busca do Tempero Perdido",
+      "start_time": "16:12",
+      "end_time": "17:01",
+      "episode_description": "Os pais Marco Aurélio e Beto não sabem cozinhar para seus filhos. Marco faz apenas papas sem sal ou temperos, então Claude o ensina a fazer um Hachis Parmentier, versão francesa do escondidinho."
+    },
+    {
+      "show_name": "Tempero de Família",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tempero-de-familia-s12e20-fernanda-souza_l_m.jpg",
+      "show_category": "Temporada 12 Episódio 20 - Fernanda Souza",
+      "start_time": "17:01",
+      "end_time": "17:33",
+      "episode_description": "Fernanda Souza conta do que sente saudade e faz seu doce da infância para Rodrigo. Os dois preparam penne com calabresa e alfajor com recheio de leite condensado e achocolatado."
+    },
+    {
+      "show_name": "Tempero de Família",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tempero-de-familia-s12e21-luis-miranda_l_m.jpg",
+      "show_category": "Temporada 12 Episódio 21 - Luís Miranda",
+      "start_time": "17:33",
+      "end_time": "18:04",
+      "episode_description": "Rodrigo conversa com Luís Miranda. Ele conta histórias do seu passado, da infância e da sua família. Eles preparam juntos biju e arroz de coco com carne de fumeiro."
+    },
+    {
+      "show_name": "Que Marravilha!",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_que-marravilha-s25e04-meu-carro-chefe_l_m.jpg",
+      "show_category": "Temporada 25 Episódio 4 - Comida de Viagem",
+      "start_time": "18:04",
+      "end_time": "18:47",
+      "episode_description": "As melhores viagens trazem pratos cheios de boas memórias. O chef e Batista preparam costelinha de cordeiro em homenagem à viagem à Nova Zelândia. Carola faz sua NYC cheesecake."
+    },
+    {
+      "show_name": "Cozinha Prática com Rita Lobo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cozinha-pratica-com-rita-lobo-s08e14-a-gemada-da-minha-m-e-para-criar-coragem_l_m.jpg",
+      "show_category": "Temporada 8 Episódio 14 - A Gemada da Minha Mãe para Criar Coragem",
+      "start_time": "18:47",
+      "end_time": "19:14",
+      "episode_description": "Rita Lobo ensina a preparar a gemada que aprendeu com a mãe, para tomar com um pouco de café. Ela também mostra o passo a passo de um suflê perfeito de chocolate e outro de cenoura."
+    },
+    {
+      "show_name": "Cozinha Prática com Rita Lobo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cozinha-pratica-com-rita-lobo-s16e12_l_m.jpg",
+      "show_category": "Temporada 16 Episódio 12 - Tenho Medo da Panela de Pressão",
+      "start_time": "19:14",
+      "end_time": "20:01",
+      "episode_description": "Rita Lobo propõe uma receita-desafio pra vencer o medo da panela de pressão: pernil desfiado, servido com tortilha e picles de salsão. E tem figo na pressão para a sobremesa."
+    },
+    {
+      "show_name": "Que Seja Doce",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_que-seja-doce-s05e20-o-motorista-da-noiva_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 20 - O Motorista da Noiva",
+      "start_time": "20:01",
+      "end_time": "21:00",
+      "episode_description": "O pai de Emilia era motorista de casamentos. Ele sempre trazia doces de padaria dizendo que eram da festa. Porém, o que importava para Emilia eram os momentos felizes que esses doces proporcionavam."
+    },
+    {
+      "show_name": "Que Seja Doce",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_que-seja-doce-s07e03-a-temperatura-do-doce_l_m.jpg",
+      "show_category": "Temporada 7 Episódio 3 - A Temperatura do Doce",
+      "start_time": "21:00",
+      "end_time": "22:00",
+      "episode_description": "Os confeiteiros trabalham com contrastes de temperatura para criarem doces deliciosos em uma edição que chama a atenção para os riscos do aquecimento global."
     },
     {
       "show_name": "Diogo na Cozinha",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_diogo-na-cozinha-s02e05-xam-e-marvvila_l_m.jpg",
       "show_category": "Temporada 2 Episódio 5 - Xamã e Marvvila",
-      "start_time": "23:52",
-      "end_time": "00:22",
+      "start_time": "22:00",
+      "end_time": "22:36",
       "episode_description": "Diogo recebe Xamã e Marvvila para um encontro cheio de música e improviso. Enquanto soltam a voz na cozinha, o sambista prepara sua versão de um carreteiro e um pudim de café."
+    },
+    {
+      "show_name": "Avisa Lá que Eu Vou",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_avisa-la-que-eu-vou-s03e03-afua_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 3 - Afuá",
+      "start_time": "22:36",
+      "end_time": "23:23",
+      "episode_description": "Paulo Vieira vai ate? Afua?, uma cidade paraense feita de palafitas onde so? se anda de bicicleta. Ele conhece o inventor do bicita?xi e faz amizade tomando tacaca?."
+    },
+    {
+      "show_name": "Que História É Essa, Porchat?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_que-historia-e-essa-porchat-s03e02_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 2 - Luciana Gimenez, Ana Paula Araújo e Murilo Couto",
+      "start_time": "23:23",
+      "end_time": "00:24",
+      "episode_description": "Luciana Gimenez, Ana Paula Araújo e Murilo Couto contam histórias que envolvem Fórmula 1, Carnaval e karaokê. Na plateia, uma entrega muito estranha e um pedido de socorro à noite."
     }
   ]
 }
