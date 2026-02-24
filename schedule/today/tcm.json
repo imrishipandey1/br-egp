@@ -1,14 +1,22 @@
 {
   "channel": "TCM",
-  "date": "23/02/2026",
+  "date": "24/02/2026",
   "schedule": [
     {
-      "show_name": "Doutor Zhivago",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_doutor-zhivago-1965_l_m.jpg",
-      "show_category": "Romance / 1965",
-      "start_time": "01:10",
+      "show_name": "Quando Só o Coração Vê",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quando-so-o-corac-o-ve-1965_l_m.jpg",
+      "show_category": "Drama / 1965",
+      "start_time": "01:12",
+      "end_time": "02:57",
+      "episode_description": "Uma jovem cega faz amizade com um homem negro e os dois ficam cada vez mais próximos, apesar das objeções da mãe da moça, que acha que qualquer homem só se aproximaria dela para se aproveitar."
+    },
+    {
+      "show_name": "Um Homem Tem Três Metros de Altura",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_um-homem-tem-tres-metros-de-altura-1957_l_m.jpg",
+      "show_category": "Drama / 1957",
+      "start_time": "02:57",
       "end_time": "04:22",
-      "episode_description": "Baseado no romance de Boris Pasternak, Dr. Jivago é um médico e poeta que inicialmente apoia a revolução russa, mas, aos poucos, se desilude com o socialismo e se divide entre dois amores: a esposa Tania e a bela plebeia Lara."
+      "episode_description": "Tommy Tyler, um afrodescendente, e Axel North, um desertor branco do exército, se tornam amigos. Quando o chefe sindicalista fanático mata Tommy e chantageia Axel para guardar segredo, ele deve decidir entre viver com medo e permitir que o assassino do amigo fique livre, ou ir à polícia e enfrentar a sua própria prisão."
     },
     {
       "show_name": "Hollywood One on One",
@@ -31,14 +39,14 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
       "show_category": "Talk",
       "start_time": "05:32",
-      "end_time": "05:45",
+      "end_time": "05:42",
       "episode_description": "Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects."
     },
     {
       "show_name": "Hollywood One on One",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
       "show_category": "Talk",
-      "start_time": "05:45",
+      "start_time": "05:42",
       "end_time": "06:00",
       "episode_description": "Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects."
     },
@@ -47,104 +55,80 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
       "show_category": "Talk",
       "start_time": "06:00",
-      "end_time": "06:42",
+      "end_time": "06:55",
       "episode_description": "Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects."
     },
     {
-      "show_name": "Rastros de Ódio",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_rastros-de-odio-1956-1_l_m.jpg",
-      "show_category": "Western / 1956",
-      "start_time": "06:42",
-      "end_time": "08:44",
-      "episode_description": "O veterano da Guerra Civil Ethan Edwards chega ao Texas em 1868 e encontra o seu irmão e a família dele. No dia seguinte, Comanches invadem o rancho, matam o seu irmão e Martha, a esposa dele, e raptam as duas filhas do casal. Ethan parte então em uma busca vingativa com o companheiro Martin, um mestiço que logo percebe que Ethan está obcecado por matar os índios. Ao encontrarem o corpo da mais velha, saem em busca da caçula, por quem procuram mais 5 anos no deserto."
+      "show_name": "Suplício de uma Alma",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_suplicio-de-uma-alma-1956_l_m.jpg",
+      "show_category": "Mystery / 1956",
+      "start_time": "06:55",
+      "end_time": "08:20",
+      "episode_description": "Um escritor, ajudado por seu futuro sogro, elabora um plano para incriminar-se pelo assassinato de uma dançarina de strip-tease com a intenção de provar as falhas de provas circunstanciais em casos de pena capital, mas o resultado o surpreende."
     },
     {
-      "show_name": "Prisioneiro do Passado",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_prisioneiro-do-passado-1947_l_m.jpg",
-      "show_category": "Mystery / 1947",
-      "start_time": "08:44",
-      "end_time": "10:34",
-      "episode_description": "Um homem condenado por assassinar a esposa escapa da prisão e passa a trabalhar com uma mulher para tentar provar sua inocência."
+      "show_name": "Pavor nos Bastidores",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pavor-nos-bastidores-1950_l_m.jpg",
+      "show_category": "Thriller / 1950",
+      "start_time": "08:20",
+      "end_time": "10:13",
+      "episode_description": "Um estudante inglês de teatro e seu pai ajudam um jovem acusado de matar o marido de uma atriz."
     },
     {
-      "show_name": "Casablanca",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_casablanca-1942_l_m.jpg",
-      "show_category": "Drama / 1942 /8.5",
-      "start_time": "10:34",
-      "end_time": "12:20",
-      "episode_description": "Durante a Segunda Guerra, um exilado norte-americano encontra refúgio na cidade de Casablanca, no Marrocos, e passa a administrar uma casa noturna. Ele reencontra uma antiga paixão, que agora está casada e precisa de ajuda para fugir dos nazistas."
+      "show_name": "Disque M para Matar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_disque-m-para-matar-1954_l_m.jpg",
+      "show_category": "Crime drama / 1954 /8.2",
+      "start_time": "10:13",
+      "end_time": "12:01",
+      "episode_description": "Um ex-tenista decide matar sua mulher para herdar seu dinheiro e se vingar por ela ter tido um caso com um escritor. Ele chantageia um colega para estrangulá-la, dando a entender que o crime teria sido cometido por um ladrão."
     },
     {
-      "show_name": "Lua-de-Mel Agitada",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lua-de-mel-agitada-1954_l_m.jpg",
-      "show_category": "Comedy / 1954",
-      "start_time": "12:20",
-      "end_time": "13:59",
-      "episode_description": "Nicky e Tacy se casam e decidem comprar um trailer ao invés de uma casa, para economizar dinheiro. Durante a lua de mel, eles viajam pelos EUA e aprendem que viver em uma casa sobre rodas pode ser muito complicado."
+      "show_name": "Os Doze Condenados",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-doze-condenados-1967_l_m.jpg",
+      "show_category": "War / 1967 /7.8",
+      "start_time": "12:01",
+      "end_time": "14:35",
+      "episode_description": "Um major dos Estados Unidos seleciona e treina 12 criminosos que estão sentenciados à pena de morte para um ataque ousado a nazistas em um intransponível castelo francês."
     },
     {
-      "show_name": "A Viagem",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-viagem-1942_l_m.jpg",
-      "show_category": "Drama / 1942",
-      "start_time": "13:59",
-      "end_time": "15:19",
-      "episode_description": "Um arquiteto sai de férias e começa um romance com uma jovem em uma pequena cidade."
+      "show_name": "O Irresistível Forasteiro",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-irresistivel-forasteiro-1958_l_m.jpg",
+      "show_category": "Western / 1958",
+      "start_time": "14:35",
+      "end_time": "16:03",
+      "episode_description": "Um pastor de ovelhas chega em uma cidade de gado e pretende colocar seu rebanho para pastar na serra. Os habitantes ficam horrorizados e decidem expulsá-lo a todo custo."
     },
     {
-      "show_name": "Um Beijo na Nuca",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_um-beijo-na-nuca-1946_l_m.jpg",
-      "show_category": "Comedy / 1946",
-      "start_time": "15:19",
-      "end_time": "16:38",
-      "episode_description": "Uma mulher finge ser louca para se vingar de seu marido infiel."
-    },
-    {
-      "show_name": "O Espelho",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-espelho-1943_l_m.jpg",
-      "show_category": "Drama / 1943",
-      "start_time": "16:38",
-      "end_time": "17:44",
-      "episode_description": "Diante do próprio reflexo, uma mulher pode viajar ao passado para reconstruir, passo a passo, os acontecimentos que a levaram a renunciar ao amor e aos sacrifícios que fez por sua mãe e irmã."
-    },
-    {
-      "show_name": "Adolescência",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_adolescencia-1942_l_m.jpg",
-      "show_category": "Comedy / 1942 /6.3",
-      "start_time": "17:44",
-      "end_time": "18:58",
-      "episode_description": "Uma jovem se apaixona por um rapaz dos Estados Unidos e o ex-namorado cede seu lugar ao jovem."
-    },
-    {
-      "show_name": "A Minha Namorada É um Fantasma",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-minha-namorada-e-um-fantasma-1944_l_m.jpg",
-      "show_category": "Comedy drama / 1944",
-      "start_time": "18:58",
-      "end_time": "20:08",
-      "episode_description": "Uma empregada muda de identidade para ajudar a filha de seu patrão, que foge com o namorado e morre em um acidente."
+      "show_name": "Onze Homens e um Segredo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_onze-homens-e-um-segredo-1960_l_m.jpg",
+      "show_category": "Comedy drama / 1960",
+      "start_time": "16:03",
+      "end_time": "18:15",
+      "episode_description": "Véspera de Ano Novo em Las Vegas. Todos estão em festa, mas as luzes se apagam. É a hora perfeita para se roubar um beijo ou uma moeda. Para Danny Ocean e os seus 10 cúmplices, é a hora perfeita para se roubar milhões."
     },
     {
       "show_name": "Saudosa Maloca",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_saudosa-maloca-2023_l_m.jpg",
       "show_category": "Drama / 2023",
-      "start_time": "20:08",
-      "end_time": "22:00",
+      "start_time": "18:15",
+      "end_time": "20:07",
       "episode_description": "Em uma mesa de bar, o velho Adoniran Barbosa conta a um jovem garçom histórias de uma São Paulo que já não existe. Ele lembra com carinho da maloca onde viveu com Joca e Mato Grosso, da paixão deles por Iracema e de outros personagens eternizados em seus sambas, crônicas de uma metrópole engolida pelo apetite voraz do progresso."
     },
     {
-      "show_name": "A Pequena Senhora de Perez",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-pequena-senhora-de-perez-1944_l_m.jpg",
-      "show_category": "Comedy / 1944",
-      "start_time": "22:00",
-      "end_time": "23:38",
-      "episode_description": "Uma jovem estudante quer se casar com um de seus professores."
+      "show_name": "Pavor nos Bastidores",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pavor-nos-bastidores-1950_l_m.jpg",
+      "show_category": "Thriller / 1950",
+      "start_time": "20:07",
+      "end_time": "22:00",
+      "episode_description": "Um estudante inglês de teatro e seu pai ajudam um jovem acusado de matar o marido de uma atriz."
     },
     {
-      "show_name": "A Senhora de Perez Divorcia-se",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-senhora-de-perez-divorcia-se-1945_l_m.jpg",
-      "show_category": "Comedy / 1945",
-      "start_time": "23:38",
-      "end_time": "01:12",
-      "episode_description": "Uma jovem acredita que seu esposo é infiel e finge que seu futuro marido será o advogado do caso."
+      "show_name": "A Noite do Iguana",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-noite-do-iguana-1964_l_m.jpg",
+      "show_category": "Drama / 1964",
+      "start_time": "22:00",
+      "end_time": "00:00",
+      "episode_description": "Um pastor alcoólatra leva um grupo de professores de meia-idade para fazer turismo no México. Mas ele arrisca seu emprego e sua liberdade por assediar sexualmente seus clientes e tem que encarar o fracasso que é a sua vida."
     }
   ]
 }

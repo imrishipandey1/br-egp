@@ -1,6 +1,6 @@
 {
   "channel": "Globo News",
-  "date": "24/02/2026",
+  "date": "25/02/2026",
   "schedule": [
     {
       "show_name": "Jornal GloboNews - Edição da Meia-Noite",
@@ -19,12 +19,12 @@
       "episode_description": "O time de comentaristas analisa e debate os grandes temas políticos, econômicos, culturais e internacionais do dia, aprofundando os assuntos e gerando reflexão."
     },
     {
-      "show_name": "GloboNews Especial",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_globonews-especial_l_m.jpg",
-      "show_category": "Public affairs",
+      "show_name": "Roberto D'Avila",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_roberto-d-avila_l_m.jpg",
+      "show_category": "Interview",
       "start_time": "03:00",
       "end_time": "03:30",
-      "episode_description": "O programa analisa questões que em um primeiro momento podem parecer desconexas, mas que têm em comum o fato de ajudar a entender melhor o mundo atual e a formar opinião."
+      "episode_description": "Roberto D'Avila recebe personalidades para conversar sobre política, economia e cultura."
     },
     {
       "show_name": "Jornal das Dez",
@@ -107,12 +107,12 @@
       "episode_description": "Aline Midlej e um time de comentaristas apresentam e analisam os bastidores das notícias."
     },
     {
-      "show_name": "Roberto D'Avila",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_roberto-d-avila_l_m.jpg",
+      "show_name": "GloboNews Miriam Leitão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_globonews-miriam-leit-o_l_m.jpg",
       "show_category": "Interview",
       "start_time": "23:30",
       "end_time": "",
-      "episode_description": "Roberto D'Avila recebe personalidades para conversar sobre política, economia e cultura."
+      "episode_description": "Miriam Leitão recebe os principais nomes da economia brasileira para debater decisões do governo e do mercado que afetam o país e a vida dos cidadãos."
     }
   ]
 }

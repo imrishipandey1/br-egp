@@ -1,38 +1,22 @@
 {
   "channel": "CNN",
-  "date": "24/02/2026",
+  "date": "25/02/2026",
   "schedule": [
     {
-      "show_name": "CNN NewsNight With Abby Phillip",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cnn-newsnight-with-abby-phillip_l_m.jpg",
-      "show_category": "News",
-      "start_time": "00:00",
-      "end_time": "01:00",
-      "episode_description": "Abby Phillip adota uma abordagem inteligente e perspicaz para as maiores histórias do dia."
-    },
-    {
-      "show_name": "Laura Coates Live",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_laura-coates-live_l_m.jpg",
-      "show_category": "News",
+      "show_name": "State of the Union",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_state-of-the-union_l_m.jpg",
+      "show_category": "Special",
       "start_time": "01:00",
-      "end_time": "02:00",
-      "episode_description": "Laura Coates mergulha na história com uma busca implacável pelos fatos."
+      "end_time": "02:30",
+      "episode_description": "A jornalista da CNN Candy Crowley faz uma análise profunda das entrevistas com políticos e personalidades que fazem as manchetes."
     },
     {
       "show_name": "The Story Is With Elex Michaelson",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_the-story-is-with-elex-michaelson_l_m.jpg",
       "show_category": "News",
-      "start_time": "02:00",
-      "end_time": "03:45",
-      "episode_description": "Elex Michaelson apresenta as últimas notícias e atualizações sobre questões políticas, apresentando entrevistas detalhadas com figuras políticas importantes e análises semanais de eventos atuais."
-    },
-    {
-      "show_name": "World Sport",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_anthology-world-sport_l_m.jpg",
-      "show_category": "",
-      "start_time": "03:45",
+      "start_time": "02:30",
       "end_time": "04:00",
-      "episode_description": "Uma análise abrangente das notícias esportivas de todo o mundo, incluindo todos os principais destaques, perfis e entrevistas com os redatores e as estrelas do esporte."
+      "episode_description": "Elex Michaelson apresenta as últimas notícias e atualizações sobre questões políticas, apresentando entrevistas detalhadas com figuras políticas importantes e análises semanais de eventos atuais."
     },
     {
       "show_name": "CNN Newsroom",
@@ -47,16 +31,8 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_cnn-newsroom_l_m.jpg",
       "show_category": "News",
       "start_time": "05:00",
-      "end_time": "05:45",
-      "episode_description": "Notícias de última hora e histórias em desenvolvimento, apresentadas por um time de repórteres, ao vivo da sede da CNN."
-    },
-    {
-      "show_name": "World Sport",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_anthology-world-sport_l_m.jpg",
-      "show_category": "",
-      "start_time": "05:45",
       "end_time": "06:00",
-      "episode_description": "Uma análise abrangente das notícias esportivas de todo o mundo, incluindo todos os principais destaques, perfis e entrevistas com os redatores e as estrelas do esporte."
+      "episode_description": "Notícias de última hora e histórias em desenvolvimento, apresentadas por um time de repórteres, ao vivo da sede da CNN."
     },
     {
       "show_name": "Amanpour",
@@ -195,12 +171,20 @@
       "episode_description": "O programa cobre os acontecimentos mais importantes do dia. Imagens gravadas por equipes de correspondentes da CNN são apresentadas com discussões e comentários de especialistas convidados."
     },
     {
-      "show_name": "State of the Union",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_state-of-the-union_l_m.jpg",
-      "show_category": "Special",
+      "show_name": "Anderson Cooper 360",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_anderson-cooper-360_l_m.jpg",
+      "show_category": "News",
       "start_time": "22:00",
+      "end_time": "23:00",
+      "episode_description": "O espirituoso e cativante apresentador traz sua perspectiva única e inteligente dos principais acontecimentos da atualidade. Alguns convidados do programa incluem analistas políticos e jurídicos, além de personalidades de destaque de diversas áreas."
+    },
+    {
+      "show_name": "The Source With Kaitlan Collins",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-source-with-kaitlan-collins_l_m.jpg",
+      "show_category": "News",
+      "start_time": "23:00",
       "end_time": "",
-      "episode_description": "A jornalista da CNN Candy Crowley faz uma análise profunda das entrevistas com políticos e personalidades que fazem as manchetes."
+      "episode_description": "Kaitlan Collins vai direto à fonte para obter as melhores reportagens do dia."
     }
   ]
 }

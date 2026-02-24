@@ -1,68 +1,28 @@
 {
   "channel": "CNN Brasil",
-  "date": "23/02/2026",
+  "date": "24/02/2026",
   "schedule": [
     {
       "show_name": "CNN Prime Time",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_cnn-prime-time_l_m.jpg",
       "show_category": "News",
       "start_time": "00:00",
-      "end_time": "00:45",
-      "episode_description": "Acompanhe os fatos mais importantes do dia no Brasil e no mundo em um jornal dinâmico e com repórteres espalhados pelo país, EUA e Europa. Veja notícias de Brasília com análises, além do fechamento do mercado financeiro e assuntos econômicos."
-    },
-    {
-      "show_name": "É Negócio",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_e-negocio_l_m.jpg",
-      "show_category": "Interview",
-      "start_time": "00:45",
-      "end_time": "01:15",
-      "episode_description": "O jornalista Carlos Sambrana recebe semanalmente grandes líderes do mundo empresarial. O universo dos negócios e das finanças, os desafios da economia e inovação são os principais temas abordados pelo apresentador e seus convidados especiais."
-    },
-    {
-      "show_name": "CNN Esportes S/A",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_interview-cnn-esportes-s-a_l_m.jpg",
-      "show_category": "",
-      "start_time": "01:15",
       "end_time": "02:00",
-      "episode_description": "Acompanhe temas e entrevistas que buscam mostrar o lado business do mundo do futebol."
-    },
-    {
-      "show_name": "Hot Market",
-      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
-      "show_category": "",
-      "start_time": "02:00",
-      "end_time": "02:30",
-      "episode_description": ""
-    },
-    {
-      "show_name": "CNN Prime Time",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cnn-prime-time_l_m.jpg",
-      "show_category": "News",
-      "start_time": "02:30",
-      "end_time": "03:15",
       "episode_description": "Acompanhe os fatos mais importantes do dia no Brasil e no mundo em um jornal dinâmico e com repórteres espalhados pelo país, EUA e Europa. Veja notícias de Brasília com análises, além do fechamento do mercado financeiro e assuntos econômicos."
     },
     {
-      "show_name": "CNN Esportes S/A",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_interview-cnn-esportes-s-a_l_m.jpg",
-      "show_category": "",
-      "start_time": "03:15",
+      "show_name": "Hora H",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hora-h_l_m.jpg",
+      "show_category": "News",
+      "start_time": "02:00",
       "end_time": "04:00",
-      "episode_description": "Acompanhe temas e entrevistas que buscam mostrar o lado business do mundo do futebol."
-    },
-    {
-      "show_name": "WW",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_ww_l_m.jpg",
-      "show_category": "Talk",
-      "start_time": "04:00",
-      "end_time": "05:12",
-      "episode_description": "O jornalista William Waack recebe convidados para debater os temas mais relevantes que ocupam as manchetes do Brasil e do mundo durante a semana."
+      "episode_description": "Um jornal com a missão de abordar o que mais importa no noticiário, responder às questões relevantes sobre o fato e entregar ao telespectador o aprofundamento necessário para entender os impactos para a sociedade."
     },
     {
       "show_name": "CNN Prime Time",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_cnn-prime-time_l_m.jpg",
       "show_category": "News",
-      "start_time": "05:12",
+      "start_time": "04:00",
       "end_time": "05:55",
       "episode_description": "Acompanhe os fatos mais importantes do dia no Brasil e no mundo em um jornal dinâmico e com repórteres espalhados pelo país, EUA e Europa. Veja notícias de Brasília com análises, além do fechamento do mercado financeiro e assuntos econômicos."
     },
@@ -175,24 +135,16 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_ww_l_m.jpg",
       "show_category": "Talk",
       "start_time": "22:00",
-      "end_time": "23:00",
+      "end_time": "22:50",
       "episode_description": "O jornalista William Waack recebe convidados para debater os temas mais relevantes que ocupam as manchetes do Brasil e do mundo durante a semana."
     },
     {
-      "show_name": "O Grande Debate",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-grande-debate_l_m.jpg",
-      "show_category": "Debate",
-      "start_time": "23:00",
-      "end_time": "23:30",
-      "episode_description": "Acompanhe discussões de temas importantes da sociedade com pontos de vista diferentes."
-    },
-    {
-      "show_name": "É Negócio",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_e-negocio_l_m.jpg",
-      "show_category": "Interview",
-      "start_time": "23:30",
+      "show_name": "Breaking News",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_breaking-news_l_m.jpg",
+      "show_category": "News",
+      "start_time": "22:50",
       "end_time": "00:00",
-      "episode_description": "O jornalista Carlos Sambrana recebe semanalmente grandes líderes do mundo empresarial. O universo dos negócios e das finanças, os desafios da economia e inovação são os principais temas abordados pelo apresentador e seus convidados especiais."
+      "episode_description": "Acompanhe a cobertura em tempo real de fatos que ainda estão se desdobrando pelo mundo."
     }
   ]
 }

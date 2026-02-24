@@ -1,54 +1,46 @@
 {
   "channel": "ESPN Brasil",
-  "date": "24/02/2026",
+  "date": "25/02/2026",
   "schedule": [
     {
-      "show_name": "SportsCenter",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-sportscenter_l_m.jpg",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "01:00",
-      "episode_description": "Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abdicar do bom humor."
+      "show_name": "Bola da Vez",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bola-da-vez_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "00:30",
+      "end_time": "01:30",
+      "episode_description": "Entre encontros e desencontros, esquecimento e memória, um grupo de crianças passeia pela infância, pelas raízes e por paisagens escondidas da cidade de Goiás."
     },
     {
-      "show_name": "Resenha ESPN",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_resenha-espn_l_m.jpg",
-      "show_category": "Sports talk",
-      "start_time": "01:00",
-      "end_time": "02:00",
-      "episode_description": "Atletas da atualidade e do passado participam de bate-papo descontraído e cheio de boas histórias."
+      "show_name": "Nottingham Forest x Liverpool",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-nottingham-forest-x-liverpool-1_l_m.jpg",
+      "show_category": "Campeonato Inglês",
+      "start_time": "01:30",
+      "end_time": "03:30",
+      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
     },
     {
-      "show_name": "Roma x Cremonese",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-roma-x-cremonese_l_m.jpg",
-      "show_category": "Campeonato Italiano",
-      "start_time": "02:00",
-      "end_time": "04:00",
-      "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
+      "show_name": "Brentford x Brighton & Hove Albion",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-brentford-x-brighton-hove-albion_l_m.jpg",
+      "show_category": "Campeonato Inglês",
+      "start_time": "03:30",
+      "end_time": "05:30",
+      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
     },
     {
-      "show_name": "Vélez Sarsfield x River Plate",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-velez-sarsfield-x-river-plate_l_m.jpg",
-      "show_category": "Campeonato Argentino",
-      "start_time": "04:00",
+      "show_name": "Professores do Brasil - Capoeira",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_professores-do-brasil-capoeira_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "05:30",
       "end_time": "06:00",
-      "episode_description": "Acompanhe as grandes partidas do torneio de elite do futebol argentino."
+      "episode_description": ""
     },
     {
-      "show_name": "Linha de Passe: Mesa-Redonda",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sports-talk-linha-de-passe-mesa-redonda_l_m.jpg",
-      "show_category": "",
+      "show_name": "Juventus x Como",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-juventus-x-como-1_l_m.jpg",
+      "show_category": "Campeonato Italiano",
       "start_time": "06:00",
-      "end_time": "07:00",
-      "episode_description": "Comentaristas esportivos conceituados entram em campo para uma análise completa da rodada do futebol ao estilo \"mesa redonda\", com debates acalorados e comentários de qualidade, sempre a partir de um olhar crítico e da imparcialidade."
-    },
-    {
-      "show_name": "Resenha ESPN",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_resenha-espn_l_m.jpg",
-      "show_category": "Sports talk",
-      "start_time": "07:00",
       "end_time": "08:00",
-      "episode_description": "Atletas da atualidade e do passado participam de bate-papo descontraído e cheio de boas histórias."
+      "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
     },
     {
       "show_name": "SportsCenter",
@@ -59,8 +51,8 @@
       "episode_description": "Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abdicar do bom humor."
     },
     {
-      "show_name": "Osasuna x Real Madrid",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-osasuna-x-real-madrid_l_m.jpg",
+      "show_name": "Barcelona x Levante",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-barcelona-x-levante_l_m.jpg",
       "show_category": "Campeonato Espanhol",
       "start_time": "09:00",
       "end_time": "11:00",
@@ -103,32 +95,40 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-equipe-f_l_m.jpg",
       "show_category": "",
       "start_time": "17:30",
-      "end_time": "19:30",
+      "end_time": "19:00",
       "episode_description": "Especialistas comentam os principais acontecimentos notícia no futebol brasileiro."
     },
     {
       "show_name": "SportsCenter",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-sportscenter_l_m.jpg",
       "show_category": "",
-      "start_time": "19:30",
-      "end_time": "21:15",
+      "start_time": "19:00",
+      "end_time": "20:30",
       "episode_description": "Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abdicar do bom humor."
     },
     {
-      "show_name": "Sporting Cristal x 2 de Mayo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-sporting-cristal-x-2-de-mayo_l_m.jpg",
+      "show_name": "SportsCenter Abre o Jogo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sports-talk-sportscenter-abre-o-jogo_l_m.jpg",
+      "show_category": "",
+      "start_time": "20:30",
+      "end_time": "21:15",
+      "episode_description": "Destaques e preparativos da partida válida pela maior liga de basquete profissional do mundo."
+    },
+    {
+      "show_name": "Botafogo x Nacional Potosí",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-botafogo-x-nacional-potosi_l_m.jpg",
       "show_category": "Copa Libertadores da América",
       "start_time": "21:15",
       "end_time": "23:30",
       "episode_description": "Todas as emoções da principal competição de futebol masculino disputada entre clubes da América do Sul, e que garante ao campeão vaga no Mundial de Clubes da FIFA."
     },
     {
-      "show_name": "SportsCenter",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-sportscenter_l_m.jpg",
+      "show_name": "Linha de Passe: Mesa-Redonda",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sports-talk-linha-de-passe-mesa-redonda_l_m.jpg",
       "show_category": "",
       "start_time": "23:30",
       "end_time": "",
-      "episode_description": "Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abdicar do bom humor."
+      "episode_description": "Comentaristas esportivos conceituados entram em campo para uma análise completa da rodada do futebol ao estilo \"mesa redonda\", com debates acalorados e comentários de qualidade, sempre a partir de um olhar crítico e da imparcialidade."
     }
   ]
 }
