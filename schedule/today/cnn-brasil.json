@@ -1,20 +1,20 @@
 {
   "channel": "CNN Brasil",
-  "date": "24/02/2026",
+  "date": "25/02/2026",
   "schedule": [
     {
       "show_name": "CNN Prime Time",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_cnn-prime-time_l_m.jpg",
       "show_category": "News",
       "start_time": "00:00",
-      "end_time": "02:00",
+      "end_time": "01:57",
       "episode_description": "Acompanhe os fatos mais importantes do dia no Brasil e no mundo em um jornal dinâmico e com repórteres espalhados pelo país, EUA e Europa. Veja notícias de Brasília com análises, além do fechamento do mercado financeiro e assuntos econômicos."
     },
     {
       "show_name": "Hora H",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_hora-h_l_m.jpg",
       "show_category": "News",
-      "start_time": "02:00",
+      "start_time": "01:57",
       "end_time": "04:00",
       "episode_description": "Um jornal com a missão de abordar o que mais importa no noticiário, responder às questões relevantes sobre o fato e entregar ao telespectador o aprofundamento necessário para entender os impactos para a sociedade."
     },
@@ -135,16 +135,24 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_ww_l_m.jpg",
       "show_category": "Talk",
       "start_time": "22:00",
-      "end_time": "22:50",
+      "end_time": "23:00",
       "episode_description": "O jornalista William Waack recebe convidados para debater os temas mais relevantes que ocupam as manchetes do Brasil e do mundo durante a semana."
     },
     {
-      "show_name": "Breaking News",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_breaking-news_l_m.jpg",
+      "show_name": "O Grande Debate",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-grande-debate_l_m.jpg",
+      "show_category": "Debate",
+      "start_time": "23:00",
+      "end_time": "23:30",
+      "episode_description": "Acompanhe discussões de temas importantes da sociedade com pontos de vista diferentes."
+    },
+    {
+      "show_name": "CNN Prime Time",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cnn-prime-time_l_m.jpg",
       "show_category": "News",
-      "start_time": "22:50",
-      "end_time": "00:00",
-      "episode_description": "Acompanhe a cobertura em tempo real de fatos que ainda estão se desdobrando pelo mundo."
+      "start_time": "23:30",
+      "end_time": "01:30",
+      "episode_description": "Acompanhe os fatos mais importantes do dia no Brasil e no mundo em um jornal dinâmico e com repórteres espalhados pelo país, EUA e Europa. Veja notícias de Brasília com análises, além do fechamento do mercado financeiro e assuntos econômicos."
     }
   ]
 }

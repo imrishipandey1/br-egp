@@ -1,206 +1,238 @@
 {
   "channel": "Discovery Home & Health",
-  "date": "24/02/2026",
+  "date": "25/02/2026",
   "schedule": [
     {
-      "show_name": "S.O.S. Restaurante",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_s-o-s-restaurante-s18e05-centro-comunitario-em-crise_l_m.jpg",
-      "show_category": "Temporada 18 Episódio 5 - Centro Comunitário em Crise",
-      "start_time": "00:03",
-      "end_time": "00:51",
-      "episode_description": "Robert Irvine visita o Bar e Restaurante Park Vue Soul Food em Buffalo, Nova York, onde uma mulher e sua filha tentam servir a comunidade. Robert ajuda a dupla a desenvolver as habilidades necessárias para salvar o seu sonho."
-    },
-    {
-      "show_name": "S.O.S. Confeitaria",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_s-o-s-confeitaria-s01e01_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 1 - Prealpi",
-      "start_time": "00:51",
-      "end_time": "01:40",
-      "episode_description": "A doceria Prealpi tem problemas econômicos. Knam aconselha o chefe da empresa, Geraldo, ajudado por sua filha, Silvia, e o genro, Raimondo."
+      "show_name": "Quilos Mortais",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quilos-mortais-s09e10-a-jornada-de-shannon_l_m.jpg",
+      "show_category": "Temporada 9 Episódio 10 - A Jornada de Shannon",
+      "start_time": "00:10",
+      "end_time": "01:49",
+      "episode_description": "O marido de Shannon a ama do jeito que ela é, mas isso não a ajuda. Ela tem 317 quilos e vive em sua cama. O doutor Now precisa ajudar o casal a romper um ciclo para que Shannon consiga passar dos 40 anos."
     },
     {
       "show_name": "90 Dias na Cama - Felizes para Sempre?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_90-dias-na-cama-felizes-para-sempre-s08e23-mais-confiss-es_l_m.jpg",
-      "show_category": "Temporada 8 Episódio 23 - Mais Confissões",
-      "start_time": "01:40",
-      "end_time": "02:27",
-      "episode_description": "Tim fica desconfiado quando Manuel demora um pouco demais para responder."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_90-dias-na-cama-felizes-para-sempre-s08e24-mais-confiss-es_l_m.jpg",
+      "show_category": "Temporada 8 Episódio 24 - Mais Confissões",
+      "start_time": "01:49",
+      "end_time": "02:33",
+      "episode_description": "Elizabeth e Andrei realizam uma premiação para o elenco."
     },
     {
-      "show_name": "Kitchen Nightmares Brasil",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_kitchen-nightmares-brasil-s04e10-rock-dog_l_m.jpg",
-      "show_category": "Temporada 4 Episódio 10 - Rock Dog",
-      "start_time": "02:27",
-      "end_time": "03:56",
-      "episode_description": "Em Osasco, o Rock Dog é um restaurante que procura seu ritmo, mas só exala uma nota musical: dó."
+      "show_name": "90 Dias na Cama - Do Outro Lado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_90-dias-na-cama-do-outro-lado-s06e09-infeliz-aniversario_l_m.jpg",
+      "show_category": "Temporada 6 Episódio 9 - Infeliz Aniversário",
+      "start_time": "02:33",
+      "end_time": "03:19",
+      "episode_description": "Acompanhe os últimos episódios da temporada de dentro da casa dos participantes favoritos."
+    },
+    {
+      "show_name": "90 Dias na Cama - Do Outro Lado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_90-dias-na-cama-do-outro-lado-s06e10-des-encantados_l_m.jpg",
+      "show_category": "Temporada 6 Episódio 10 - (Des)Encantados",
+      "start_time": "03:19",
+      "end_time": "04:05",
+      "episode_description": "Acompanhe os últimos episódios da temporada de dentro da casa dos participantes favoritos."
     },
     {
       "show_name": "Quilos Mortais - Como Eles Estão Agora?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quilos-mortais-como-eles-est-o-agora-s10e04_l_m.jpg",
-      "show_category": "Temporada 10 Episódio 4",
-      "start_time": "03:56",
-      "end_time": "05:33",
-      "episode_description": "Mike tem uma decisão difícil a tomar: mudar-se para Houston para uma cirurgia de perda de peso pode significar perder a custódia dos filhos. Chrystal faz a cirurgia e dá um grande passo para se tornar a mãe que seus filhos merecem."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quilos-mortais-como-eles-est-o-agora-s09e04-david-e-syreeta_l_m.jpg",
+      "show_category": "Temporada 9 Episódio 4 - David e Syreeta",
+      "start_time": "04:05",
+      "end_time": "05:38",
+      "episode_description": "Após ter sua cirurgia cancelada e morar em uma van na praia, David ganha uma nova chance de mudar sua vida; Syreeta sofre uma tragédia pessoal devastadora que só intensifica seu desejo de ser mãe."
     },
     {
       "show_name": "Reforma dos Sonhos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_reforma-dos-sonhos-s01e11-trabalho-duro-descanso-merecido_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 11 - Trabalho Duro, Descanso Merecido",
-      "start_time": "05:33",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_reforma-dos-sonhos-s01e13-depois-do-furac-o_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 13 - Depois do Furacão",
+      "start_time": "05:38",
       "end_time": "06:00",
-      "episode_description": "John e Anthony transformam um porão no refúgio perfeito para o diretor de uma empresa."
+      "episode_description": "Os primos consertam os estragos da casa à beira-mar de Anthony após a passagem do Furacão Sandy."
     },
     {
-      "show_name": "The Nate & Jeremiah Home Project",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-nate-jeremiah-home-project-s02e03-proximo-capitulo_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 3 - Próximo Capítulo",
+      "show_name": "Reformas Incríveis",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_reformas-incriveis-s02e10-ginastica-em-casa_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 10 - Ginástica em Casa",
       "start_time": "06:00",
-      "end_time": "06:51",
-      "episode_description": "Um casal está ansioso para começar o próximo capítulo de suas vidas em sua casa nova. Apesar de amarem o leiaute, a casa está velha. Nate e Jeremiah usam uma paleta colorida para criar espaços que combinem com o casal."
+      "end_time": "06:22",
+      "episode_description": "O empreiteiro e decorador Chip Wade reforma o sótão empoeirado de uma residência para transformá-lo em uma academia de ginástica completa."
     },
     {
-      "show_name": "Irmãos à Obra",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_irm-os-a-obra-s13e03-jana-e-larry_l_m.jpg",
-      "show_category": "Temporada 13 Episódio 3 - Katie e Mark",
-      "start_time": "06:51",
-      "end_time": "07:42",
-      "episode_description": "Depois de morar em casas alugadas cheias de problemas, Katie e Mark estão prontos para comprar sua primeira casa. Os Irmãos à Obra os ajudam a encontrar um imóvel que atenda às suas necessidades."
-    },
-    {
-      "show_name": "O Vestido Ideal",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-vestido-ideal-s13e18-a-liquidac-o_l_m.jpg",
-      "show_category": "Temporada 13 Episódio 18 - A Liquidação",
-      "start_time": "07:42",
-      "end_time": "08:08",
-      "episode_description": "Na famosa liquidação da Kleinfeld, mulheres de todo o país compram belos vestidos por preços camaradas. Elas têm apenas três horas para escolher entre centenas de modelos incríveis."
-    },
-    {
-      "show_name": "O Vestido Ideal",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-vestido-ideal-s13e01-rir-e-o-melhor-remedio_l_m.jpg",
-      "show_category": "Temporada 13 Episódio 1 - Rir É o Melhor Remédio",
-      "start_time": "08:08",
-      "end_time": "08:34",
-      "episode_description": "Nem os manequins escapam quando a comediante Kathy Griffin conspira com Randy para surpreender sua ex-assistente. Tumi Oguntala, de The Biggest Loser, tem problemas com o vestido."
-    },
-    {
-      "show_name": "O Vestido Ideal",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-vestido-ideal-s17e01_l_m.jpg",
-      "show_category": "Temporada 17 Episódio 1 - Sim! Sim! Para Esse Vestido",
-      "start_time": "08:34",
-      "end_time": "09:26",
-      "episode_description": "A irmã da estrela da NBA, Stephen Curry, procura seu vestido de casamento dos sonhos; Cami Lee retorna com sua mãe exagerada em busca do vestido preto perfeito."
-    },
-    {
-      "show_name": "90 Dias na Cama - A Última Chance",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_90-dias-na-cama-a-ultima-chance-s02e05-o-ultimo-rodeio_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 5 - O Último Rodeio",
-      "start_time": "09:26",
-      "end_time": "10:18",
-      "episode_description": "Os casais ficam constrangidos quando assistem à tarefa da terapia sexual; em cenas inéditas, Julia conta a Rob o que ela quer que Brandon faça na cama; Jasmine quer deixar o resort e James precisa intervir."
-    },
-    {
-      "show_name": "90 Dias na Cama - A Última Chance",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_90-dias-na-cama-a-ultima-chance-s02e06-quem-ri-por-ultimo_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 6 - Quem Ri por Último",
-      "start_time": "10:18",
-      "end_time": "11:10",
-      "episode_description": "Os casais debatem se teriam lidado com a briga de Jasmine e Florian de uma outra forma; Julia e Ari discutem sobre mensagens de texto; todos reagem quando veem um dos exercícios entre casais."
-    },
-    {
-      "show_name": "Os Pequenos Johnstons",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-pequenos-johnstons-s04e05-uma-decis-o-crucial_l_m.jpg",
-      "show_category": "Temporada 4 Episódio 5 - Uma Decisão Crucial",
-      "start_time": "11:10",
-      "end_time": "12:01",
-      "episode_description": "Trent ensina Anna a dirigir para prepará-la para o teste de habilitação, mas o comportamento da garota faz os pais questionarem se ela pode assumir essa responsabilidade; Trent e Amber surpreendem as crianças com uma notícia."
-    },
-    {
-      "show_name": "Os Pequenos Johnstons",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-pequenos-johnstons-s04e06-parque-sem-divers-o_l_m.jpg",
-      "show_category": "Temporada 4 Episódio 6 - Parque sem Diversão",
-      "start_time": "12:01",
-      "end_time": "12:52",
-      "episode_description": "Enquanto a casa fica em exposição, a família vai a um parque de diversões onde é assediada e xingada. Quando retornam, eles descobrem que a casa onde iriam morar não está mais disponível e se perguntam para onde vão agora."
-    },
-    {
-      "show_name": "Irmãos à Obra - Lar Sempre Lar",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_irm-os-a-obra-lar-sempre-lar-s03e07-saudaveis-para-sempre_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 7 - Casa de 40 Anos",
-      "start_time": "12:52",
-      "end_time": "13:44",
-      "episode_description": "Um casal se dá conta de que o layout fechado e o espaço mal utilizado de sua casa não funciona para sua família. Eles chamam os irmãos para reformar o térreo e equilibrar a estética moderna com funcionalidade para as crianças."
-    },
-    {
-      "show_name": "100 Dias para Morar - Começando do Zero",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_100-dias-para-morar-comecando-do-zero-s04e08-nove-c-es-sob-o-mesmo-teto_l_m.jpg",
-      "show_category": "Temporada 4 Episódio 8 - Chalé do Interior",
-      "start_time": "13:44",
-      "end_time": "14:36",
-      "episode_description": "Uma família precisa de ajuda para construir um chalé em seu novo terreno no interior. Mika e Brian precisam transformar o terreno lamacento na casa dos sonhos, mas problemas podem atrasar o prazo."
+      "show_name": "Keith & Evan - Reformando com o Coração",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_keith-evan-reformando-com-o-corac-o_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "06:22",
+      "end_time": "07:11",
+      "episode_description": "Keith e Evan têm planos nada convencionais para duas casas decrépitas. Uma camada de tinta preta e decoração contemporânea dão vida a um imóvel. Já o outro, fica iluminado e arejado e ganha um papel de parede de pavão."
     },
     {
       "show_name": "Irmãos à Obra - Compra e Venda",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_irm-os-a-obra-compra-e-venda-s07e02-aubrey-jonathan-1_l_m.jpg",
-      "show_category": "Temporada 7 Episódio 2 - Aubrey e Jonathan",
-      "start_time": "14:36",
-      "end_time": "15:30",
-      "episode_description": "Uma casa de fazenda de 200 anos de idade é um trabalho de tempo integral, o que exige uma busca intensa por uma casa pronta para morar."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_irm-os-a-obra-compra-e-venda-s08e02-uma-nova-perspectiva_l_m.jpg",
+      "show_category": "Temporada 8 Episódio 2 - Uma Nova Perspectiva",
+      "start_time": "07:11",
+      "end_time": "08:00",
+      "episode_description": "Depois de vencer um câncer, uma mulher decide realizar o sonho de viver perto da natureza com a família. Jonathan reforma a casa atual para atrair compradores, enquanto Drew procura uma casa que atenda a suas necessidades."
+    },
+    {
+      "show_name": "O Vestido Ideal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-vestido-ideal-s13e17-sexy-no-altar_l_m.jpg",
+      "show_category": "Temporada 13 Episódio 17 - Sexy no Altar",
+      "start_time": "08:00",
+      "end_time": "08:27",
+      "episode_description": "Nik Wallenda sugere que sua noiva, Erendira, use um vestido sensual no altar; a irmã de Amy pede que ela escolha um modelo menos ousado; Jaya está hesitante em usar o vestido sensual e justo que agrada seu noivo."
+    },
+    {
+      "show_name": "O Vestido Ideal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-vestido-ideal-s13e14-bela-recatada-e-do-altar_l_m.jpg",
+      "show_category": "Temporada 13 Episódio 14 - Bela, Recatada e do Altar",
+      "start_time": "08:27",
+      "end_time": "08:53",
+      "episode_description": "Valerie pode comprar o vestido que quiser, mas sua mãe rejeita os modelos sexy. Napiera quer um vestido de gala, mas sua mãe prefere um modelo mais justo. Haley deixa que sua mãe compre o vestido."
+    },
+    {
+      "show_name": "O Vestido Ideal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-vestido-ideal-s17e06_l_m.jpg",
+      "show_category": "Temporada 17 Episódio 6 - Sem Orçamento",
+      "start_time": "08:53",
+      "end_time": "09:42",
+      "episode_description": "Sem limitações de orçamento, Stephanie quer um vestido que cause sensação em seu segundo casamento; Courtney Burson retorna à loja e precisa tomar uma decisão definitiva sobre o vestido."
+    },
+    {
+      "show_name": "90 Dias na Cama - A Última Chance",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_90-dias-na-cama-a-ultima-chance-s02e07-os-ultimos-e-os-primeiros_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 7 - Os Últimos e os Primeiros",
+      "start_time": "09:42",
+      "end_time": "10:34",
+      "episode_description": "Os casais reagem ao final da terapia à beira do lago; Jasmine cai em prantos no banheiro; Rob e Sophie discutem na van e ele sai, furioso; Josh e Natalie recordam sua desastrosa sessão de terapia sexual."
+    },
+    {
+      "show_name": "90 Dias na Cama - A Última Chance",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_90-dias-na-cama-a-ultima-chance-s02e08-convite-de-ultima-hora_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 8 - Convite de Última Hora",
+      "start_time": "10:34",
+      "end_time": "11:26",
+      "episode_description": "Sophie e Florian se emocionam durante terapia; Jasmine revela um segredo a Brandon sobre a noite da festa na suíte; Brandon mostra até onde está disposto a ir para agradar Julia; o elenco se solidariza com Natalie."
+    },
+    {
+      "show_name": "Os Pequenos Johnstons",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-pequenos-johnstons-s05e01-problemas-ocultos_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 1 - Problemas Ocultos",
+      "start_time": "11:26",
+      "end_time": "12:17",
+      "episode_description": "Depois de semanas morando em um hotel, os Johnstons finalmente se mudam para a casa nova. Um conserto no imóvel revela um ameaça à família, que talvez seja obrigada a sair sem sequer desencaixotar suas coisas."
+    },
+    {
+      "show_name": "Os Pequenos Johnstons",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-pequenos-johnstons-s05e02-ferroadas-de-amor_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 2 - Ferroadas de Amor",
+      "start_time": "12:17",
+      "end_time": "13:08",
+      "episode_description": "Trent monta uma colmeia; Liz lida com a repercussão negativa de sua separação nas redes sociais."
     },
     {
       "show_name": "Irmãos à Obra - Lar Sempre Lar",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_irm-os-a-obra-lar-sempre-lar-s07e09-um-futuro-brilhante_l_m.jpg",
-      "show_category": "Temporada 7 Episódio 9 - Um Futuro Brilhante",
-      "start_time": "15:30",
-      "end_time": "16:24",
-      "episode_description": "Um casal se muda para uma casa próxima da escola da filha mais velha, mas não consegue se adaptar à disposição dos cômodos. Jonathan e Drew reformam a cozinha e os cômodos principais para que eles possam, finalmente, viver na casa de seus sonhos."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_irm-os-a-obra-lar-sempre-lar-s03e08-bairro-antigo-casa-nova_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 8 - Do Passado ao Futuro",
+      "start_time": "13:08",
+      "end_time": "13:59",
+      "episode_description": "Um casal ama sua casa dos anos 1950, mas seu layout ultrapassado impede que a família se reúna em um único cômodo. Drew e Jonathan renovam o térreo e criam um espaço onde eles podem criar memórias por mais 20 anos."
+    },
+    {
+      "show_name": "100 Dias para Morar - Começando do Zero",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_100-dias-para-morar-comecando-do-zero-s04e09-glamour-natural_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 9 - Criando Raízes na Cidade das Plantas",
+      "start_time": "13:59",
+      "end_time": "14:51",
+      "episode_description": "Um casal e seu bebê que ama tratores querem criar raízes e têm uma visão clara do que desejam. Mika e Brian precisam entregar uma casa que supere as expectativas."
+    },
+    {
+      "show_name": "Amar e Renovar, Renovar e Amar com Hilary Farr",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_amar-e-renovar-renovar-e-amar-com-hilary-farr-s01e08-hilary-e-a-melhor_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 8 - Hilary É a Melhor",
+      "start_time": "14:51",
+      "end_time": "15:43",
+      "episode_description": "Uma família com uma casa que está congelada no tempo pede a Hilary para dar uma nova vida aos móveis antigos de sua família, mas os atrasos na construção a forçam a usar toda a sua criatividade até que ela possa concluir o projeto."
+    },
+    {
+      "show_name": "Leslie e Lyndsay - Irmãs pra Toda Obra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_leslie-e-lyndsay-irm-s-pra-toda-obra-s03e11-de-casa-largada-a-fabulosa-na-costa_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 11 - De Casa Largada a Fabulosa na Costa",
+      "start_time": "15:43",
+      "end_time": "16:35",
+      "episode_description": "Apesar de se localizar em um bairro cobiçado, a residência de um casal é repleta de materiais da década de 90 e precisa de uma ampla reforma. Lyndsay e Leslie valorizam os espaços de grande impacto com uma decoração praiana."
     },
     {
       "show_name": "Quilos Mortais",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quilos-mortais-s09e04-a-historia-de-cindy_l_m.jpg",
-      "show_category": "Temporada 9 Episódio 4 - A História de Cindy",
-      "start_time": "16:24",
-      "end_time": "18:09",
-      "episode_description": "Cindy só sai da cama algumas vezes por dia porque é extremamente doloroso se mexer. Um amigo a pressiona a procurar ajuda para melhorar sua saúde."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quilos-mortais-s09e06-a-historia-de-kenae_l_m.jpg",
+      "show_category": "Temporada 9 Episódio 6 - A História de Kenae",
+      "start_time": "16:35",
+      "end_time": "18:19",
+      "episode_description": "Kenae já era obesa antes de sua amada mãe morrer. Recusando-se a lidar com a dor, ela se voltou para a comida para preencher o vazio."
     },
     {
-      "show_name": "Quilos Mortais",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quilos-mortais-s12e05-a-jornada-de-rose_l_m.jpg",
-      "show_category": "Temporada 12 Episódio 5 - A Jornada de Rose",
-      "start_time": "18:09",
-      "end_time": "19:53",
-      "episode_description": "Aos 58 anos, Rose quase desistiu e se entregou à morte, mas sua família precisava dela demais para que ela partisse. Agora, ela precisa perder mais de 180 kg para ficar saudável e estará disposta a fazer o que for preciso para conseguir."
+      "show_name": "A Sonhada Casa de Campo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-sonhada-casa-de-campo-s01e08-n-o-faz-sentido-sonhar-pequeno_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 8 - Não Faz Sentido Sonhar Pequeno",
+      "start_time": "18:19",
+      "end_time": "19:10",
+      "episode_description": "Jonathan e Drew ajudam amigos a comprar propriedade para negócio de veículos todo-terreno. Mulher que morou no exterior mira Cave Creek, Arizona."
     },
     {
-      "show_name": "Dr. Now - Diários de Peso",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_dr-now-diarios-de-peso-s01e04-a-historia-de-graca_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 4 - A História de Graça",
-      "start_time": "19:53",
-      "end_time": "21:34",
-      "episode_description": "Grace tem mais de 270 kg e entra no programa do Dr. Now. Ela precisa enfrentar a difícil tarefa de mudar sua relação com as irmãs em busca de uma saúde melhor."
+      "show_name": "Irmãos à Obra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_irm-os-a-obra-s13e11-kat-e-ryan_l_m.jpg",
+      "show_category": "Temporada 13 Episódio 11 - Kat e Ryan",
+      "start_time": "19:10",
+      "end_time": "20:00",
+      "episode_description": "Kat e Ryan eram recém-casados quando se mudaram para um apartamento pequeno. Agora com dois filhos, eles estão prontos para se mudar para uma casa mais espaçosa que atenda às necessidades da família."
     },
     {
-      "show_name": "Dr. Pimple Popper: Breaking Out",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_dr-pimple-popper-breaking-out-s01e07_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 7",
-      "start_time": "21:34",
-      "end_time": "22:24",
-      "episode_description": ""
+      "show_name": "Irmãos à Obra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_irm-os-a-obra-s13e12-carrie-e-raza_l_m.jpg",
+      "show_category": "Temporada 13 Episódio 12 - Carrie e Raza",
+      "start_time": "20:00",
+      "end_time": "20:50",
+      "episode_description": "Carrie e Raza se casaram poucos meses depois de se conhecer pela internet. Agora, eles se preparam para enfrentar sua primeira reforma juntos."
     },
     {
-      "show_name": "Dra. Sandra Lee - Casos Explosivos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_dra-sandra-lee-casos-explosivos-s02e08-alem-dos-cravos_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 8 - Além dos Cravos",
-      "start_time": "22:24",
-      "end_time": "23:14",
-      "episode_description": "A renomada cirurgiã dermatológica Sandra Lee remove os mais variados cistos da pele de seus pacientes, para que eles possam retomar suas vidas."
+      "show_name": "Te Devo Essa! Reforma das Estrelas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_te-devo-essa-reforma-das-estrelas-s05e05-cindy-crawford_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 5 - Cindy Crawford",
+      "start_time": "20:50",
+      "end_time": "21:40",
+      "episode_description": "Cindy Crawford faz de tudo para sua amiga com uma reforma glamourosa em sua casa."
     },
     {
-      "show_name": "Operação Transplante",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_operac-o-transplante-s01e08-o-transplante-muda-tudo_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 8 - O Transplante Muda Tudo",
-      "start_time": "23:14",
-      "end_time": "00:10",
-      "episode_description": "Cirurgiões realizam um transplante de fígado que pode curar um paciente que enfrenta, além da cirrose, um câncer. Outra equipe encara o desafio de um transplante cardíaco, para dar uma nova vida a um trabalhador que sofre com a Doença de Chagas."
+      "show_name": "Irmãos à Obra - Compra e Venda",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_irm-os-a-obra-compra-e-venda-s04e15-frank-diana-1_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 15 - Frank e Diana",
+      "start_time": "21:40",
+      "end_time": "22:30",
+      "episode_description": "Os irmãos Jonathan e Drew Scott entram em ação para ajudar Frank e Diana. Com a família aumentando, o casal decide que está na hora de procurar uma casa maior. Mas, para isso, eles precisam fazer algumas concessões."
+    },
+    {
+      "show_name": "Missão Faxina com Ellen Milgrau",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_miss-o-faxina-com-ellen-milgrau-s01e01_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - Maria",
+      "start_time": "22:30",
+      "end_time": "23:00",
+      "episode_description": "Depois do luto, a professora Maria perdeu o controle das compras e da casa, que virou depósito de sacolas e sujeira. Para devolver à família um lar limpo e confortável, Ellen e sua equipe de faxiners se reúnem para dias de faxina pesada."
+    },
+    {
+      "show_name": "Missão Faxina com Ellen Milgrau",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_miss-o-faxina-com-ellen-milgrau-s01e02_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Letícia",
+      "start_time": "23:00",
+      "end_time": "23:26",
+      "episode_description": "Com o tempo, as promessas do início do relacionamento foram sendo esquecidas pelo casal de gamers Letícia e Rafael. Com cômodos inutilizáveis e gatos dominando o apartamento, pedem ajuda a Ellen para conseguirem voltar a receber quem amam."
+    },
+    {
+      "show_name": "100 Dias Para Hospedar - Brian vs. Mika",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_100-dias-para-hospedar-brian-vs-mika-s01e02-sagu-o-em-disputa_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Saguão em Disputa",
+      "start_time": "23:26",
+      "end_time": "00:18",
+      "episode_description": "Brian e Mika Kleinschmidt trazem novos membros para renovar o espaço responsável pela primeira impressão de um hotel: o saguão."
     }
   ]
 }

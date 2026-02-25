@@ -1,166 +1,134 @@
 {
   "channel": "HBO Signature",
-  "date": "24/02/2026",
+  "date": "25/02/2026",
   "schedule": [
     {
-      "show_name": "A Vida Imortal de Henrietta Lacks",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-vida-imortal-de-henrietta-lacks-2017_l_m.jpg",
-      "show_category": "Docudrama / 2017",
-      "start_time": "00:39",
-      "end_time": "02:19",
-      "episode_description": "A história de Henrietta Lacks, uma pobre mulher negra que, em 1951, morreu de um tumor maligno no colo do útero. Sem o seu consentimento, pedaços do tumor que a matou foram removidos e usados em um estudo médico, que construiu uma indústria bilionária de pesquisa."
+      "show_name": "Tempos de Tormenta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tempos-de-tormenta-2009_l_m.jpg",
+      "show_category": "Biography / 2009",
+      "start_time": "00:47",
+      "end_time": "02:35",
+      "episode_description": "De 1940 a 1945, o Primeiro Ministro britânico Winston Churchill liderou seu país contra a Alemanha nazista de Hitler."
     },
     {
-      "show_name": "The Slow Hustle - Corrupção e Morte na Polícia de Baltimore",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-slow-hustle-corrupc-o-e-morte-na-policia-de-baltimore-2021_l_m.jpg",
-      "show_category": "Documentary / 2021",
-      "start_time": "02:19",
-      "end_time": "03:54",
-      "episode_description": "A morte do veterano policial Sean Suiter levanta novas questões de corrupção no Departamento de Polícia de Baltimore. As perguntas sobre sua morte continuam sem resposta e alguns acreditam que o departamento pode estar envolvido."
+      "show_name": "Grey Gardens - Do Luxo à Decadência",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_grey-gardens-do-luxo-a-decadencia-2009_l_m.jpg",
+      "show_category": "Docudrama / 2009",
+      "start_time": "02:35",
+      "end_time": "04:25",
+      "episode_description": "A verdadeira história da vida da tia e da prima de Jacqueline Kennedy, ambas chamadas Edith Bouvier Beale, e como elas viveram reclusas em uma mansão em estado precário, localizada em East Hampton. O mundo descobre que as duas moram nessa casa decadente entre pulgas e pequenos animais e por conta das precárias condições de higiene, as duas mulheres foram obrigadas a deixar o lugar, sendo salvas por Jackie."
     },
     {
-      "show_name": "Vida de Crime - 1984 - 2020",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_vida-de-crime-1984-2020-2021_l_m.jpg",
-      "show_category": "Documentary / 2021",
-      "start_time": "03:54",
+      "show_name": "Brandy Melville e o Culto Perverso da Moda Rápida",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_brandy-melville-e-o-culto-perverso-da-moda-rapida-2024_l_m.jpg",
+      "show_category": "Documentary / 2024",
+      "start_time": "04:25",
       "end_time": "06:00",
-      "episode_description": "Examinando os altos e baixos dos ciclos viciosos do vício em drogas e do crime de rua em uma das partes mais difíceis de Nova Jersey."
+      "episode_description": "Uma exploração da imagem que se passa por perfeita da marca italiana Brandy Melville nas redes sociais, mas que esconde uma cultura de trabalho tóxica, de discriminação contra raça, sexo e tamanho, características comuns ao modelo \"fast fashion\"."
+    },
+    {
+      "show_name": "MoviePass - A Última Sessão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_moviepass-a-ultima-sess-o-2024_l_m.jpg",
+      "show_category": "Documentary / 2024",
+      "start_time": "06:00",
+      "end_time": "07:40",
+      "episode_description": "História da fundação da empresa e a implosão que ocorreu após a tomada de controle por investidores externos, levando a companhia à falência e sob investigação."
     },
     {
       "show_name": "Mary Tyler Moore - A Dama da TV",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_mary-tyler-moore-a-dama-da-tv-2023_l_m.jpg",
       "show_category": "Documentary / 2023",
-      "start_time": "06:00",
-      "end_time": "08:05",
+      "start_time": "07:40",
+      "end_time": "09:45",
       "episode_description": "Esse documentário constrói um retrato íntimo da carreira da atriz Mary Tyler Moore, revelando a figura complexa e empática que revolucionou a representação da mulher na mídia."
     },
     {
-      "show_name": "Cape Cod - A Ameaça dos Mares",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cape-cod-a-ameaca-dos-mares-2023_l_m.jpg",
+      "show_name": "Filho Nativo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_filho-nativo-2019_l_m.jpg",
+      "show_category": "Drama / 2019",
+      "start_time": "09:45",
+      "end_time": "11:35",
+      "episode_description": "Um jovem afro-americano envolve-se em um mundo sedutor de dinheiro e poder trabalhando como motorista de um rico empresário em Chicago."
+    },
+    {
+      "show_name": "Love to Love You, Donna Summer",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_love-to-love-you-donna-summer-2023_l_m.jpg",
       "show_category": "Documentary / 2023",
-      "start_time": "08:05",
-      "end_time": "09:35",
-      "episode_description": "Milhares de moradores e turistas que passam o verão em Cape Cod, na região Nordeste dos Estados Unidos, são obrigados a lidar com o aumento alarmante de tubarões-brancos nas águas locais, constatando as mudanças sofridas pelo ambiente marinho."
+      "start_time": "11:35",
+      "end_time": "13:15",
+      "episode_description": "Donna Summer cria música que a leva da cena de vanguarda na Alemanha para o brilho e as luzes brilhantes das boates de Nova York. O filme ainda mostra vídeos caseiros inéditos da cantora e entrevistas com amigos, familiares e colegas."
     },
     {
-      "show_name": "Você Não Conhece o Jack",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_voce-n-o-conhece-o-jack-2010_l_m.jpg",
-      "show_category": "Docudrama / 2010",
-      "start_time": "09:35",
-      "end_time": "11:55",
-      "episode_description": "Controvérsias e problemas legais perseguem o Dr. Jack Kevorkian quando ele decide apoiar a eutanásia alegando que é uma opção mais digna e humana para pacientes terminais."
+      "show_name": "Má Educação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ma-educac-o-2019_l_m.jpg",
+      "show_category": "Comedy drama / 2019",
+      "start_time": "13:15",
+      "end_time": "15:03",
+      "episode_description": "O sistema educacional dos Estados Unidos é abalado quando é descoberto o maior escândalo de apropriação indébita de fundos de escolas públicas na história do país."
     },
     {
-      "show_name": "Foster",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_foster-2018_l_m.jpg",
-      "show_category": "Documentary / 2018 /7.1",
-      "start_time": "11:55",
-      "end_time": "13:55",
-      "episode_description": "Um olhar sem estereótipos e manchetes sensacionalistas sobre o sistema de Acolhimento Familiar temporário nos Estados Unidos, com o objetivo de acabar com alguns dos mitos mais recorrentes sobre o assunto."
+      "show_name": "The Night Of",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-night-of-s01e01_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - The Beach",
+      "start_time": "15:03",
+      "end_time": "16:23",
+      "episode_description": "Um estudante americano de origem paquistanesa busca ajuda jurídica após ser envolvido em um assassinato em Nova York."
     },
     {
-      "show_name": "Fake Famous - Uma Experiência Surreal nas Redes",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_fake-famous-uma-experiencia-surreal-nas-redes_l_m.jpg",
-      "show_category": "Special",
-      "start_time": "13:55",
-      "end_time": "15:25",
-      "episode_description": "Um experimento social inovador com influenciadores digitais pega três pessoas em Los Angeles com o número de seguidores relativamente pequeno para que tentem se tornar influenciadores famosos comprando seguidores falsos e um exército de bots."
+      "show_name": "The Night Of",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-night-of-s01e02_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Subtle Beast",
+      "start_time": "16:23",
+      "end_time": "17:23",
+      "episode_description": "Enquanto o advogado John Stone aconselha Naz, o detetive Dennis Box investiga o crime."
     },
     {
-      "show_name": "Arte Negra - Na Ausência da Luz",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_arte-negra-na-ausencia-da-luz_l_m.jpg",
-      "show_category": "Special",
-      "start_time": "15:25",
-      "end_time": "16:56",
-      "episode_description": "Uma introdução ao trabalho de alguns dos principais artistas visuais afro-americanos, incluindo Theaster Gates, Kerry James Marshall, Faith Ringgold, Amy Sherald e Carrie Mae Weems, inspirada na exposição \"Two Centuries of Black American Art\"."
+      "show_name": "The Night Of",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-night-of-s01e03_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3 - A Dark Crate",
+      "start_time": "17:23",
+      "end_time": "18:23",
+      "episode_description": "Enquanto aguarda em Rikers, Naz percebe que sua sobrevivência, ou talvez morte, depende de um colega de prisão."
     },
     {
-      "show_name": "The Comeback",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-comeback-s02e01_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 1",
-      "start_time": "16:56",
-      "end_time": "17:41",
-      "episode_description": "Durante a gravação do piloto de um reality show, Valerie Cherish descobre que Paulie G., seu inimigo, está criando uma série da HBO sobre um escritor de comédias e sua relação com uma atriz ruiva neurótica chamada \"Mallory Church\"."
+      "show_name": "The Night Of",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-night-of-s01e04_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - The Art of War",
+      "start_time": "18:23",
+      "end_time": "19:23",
+      "episode_description": "O advogado John Stone trabalha para revelar informações sobre o crime."
     },
     {
-      "show_name": "The Comeback",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-comeback-s02e02_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 2",
-      "start_time": "17:41",
-      "end_time": "18:13",
-      "episode_description": "A HBO pede para Valerie encontrar Jane para produzir um documentário sobre os bastidores. Enquanto isso, seu agente consegue um encontro com um estilista das celebridades para o \"Globo de Ouro\"."
+      "show_name": "The Night Of",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-night-of-s01e05_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 5 - The Season of the Witch",
+      "start_time": "19:23",
+      "end_time": "20:23",
+      "episode_description": "Box reconstitui o paradeiro e os passos de Naz na noite do assassinato."
     },
     {
-      "show_name": "The Comeback",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-comeback-s02e03_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 3",
-      "start_time": "18:13",
-      "end_time": "18:45",
-      "episode_description": "No primeiro dia de gravação de Seeing Red, Valerie está empolgada para conhecer sua co-estrela, que interpretará Paulie G. Mais tarde, Valerie começa a sofrer um ataque de ansiedade antes de gravar uma cena erótica."
+      "show_name": "The Night Of",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-night-of-s01e06_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 6 - Samson and Delilah",
+      "start_time": "20:23",
+      "end_time": "21:23",
+      "episode_description": "A promotora Helen Weiss se prepara para o julgamento que se aproxima; a aliança entre Naz e Freddy continua."
     },
     {
-      "show_name": "The Comeback",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-comeback-s02e04_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 4",
-      "start_time": "18:45",
-      "end_time": "19:15",
-      "episode_description": "Valerie toma uma decisão por impulso ao saber que algumas de suas cenas em \"Seeing Red\" poderiam ser cortadas. Mais tarde, Valerie revê suas habilidades para improvisar."
+      "show_name": "The Night Of",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-night-of-s01e07_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 7 - Ordinary Death",
+      "start_time": "21:23",
+      "end_time": "22:23",
+      "episode_description": "No julgamento, a defesa de Nasir Khan apresenta a sua visão do caso."
     },
     {
-      "show_name": "The Comeback",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-comeback-s02e05_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 5",
-      "start_time": "19:15",
-      "end_time": "19:50",
-      "episode_description": "A HBO permite Valerie dar uma entrevista exclusiva para o \"The New York Times\". Mais tarde, preocupada com a recente atitude de Paulie G., Valerie decide visitá-lo."
-    },
-    {
-      "show_name": "The Comeback",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-comeback-s02e06_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 6",
-      "start_time": "19:50",
-      "end_time": "20:25",
-      "episode_description": "Um dia exaustivo de filmagens no deserto atrapalha os planos de Valerie de passar uma noite romântica com Mark. As primeiras críticas publicadas sobre o seriado deixam Paulie tenso."
-    },
-    {
-      "show_name": "The Comeback",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-comeback-s02e07_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 7",
-      "start_time": "20:25",
-      "end_time": "21:00",
-      "episode_description": "Após a esperada estreia do seriado, Valerie recebe críticas de todos os lados. Surpreendentemente, os comentários mais contundentes não vêm de um programa de televisão, nem de blogueiros, mas do próprio marido."
-    },
-    {
-      "show_name": "The Comeback",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-comeback-s02e08_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 8",
-      "start_time": "21:00",
-      "end_time": "22:00",
-      "episode_description": "No fim de semana da entrega dos prêmios Emmy, Valerie experimenta o sabor do sucesso e torce para que Mark esteja ao seu lado na cerimônia."
-    },
-    {
-      "show_name": "Viva o Cinema! Uma História da Mostra de São Paulo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_viva-o-cinema-uma-historia-da-mostra-de-s-o-paulo-s01e03_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 3 - Na Beira do Abismo",
-      "start_time": "22:00",
-      "end_time": "22:50",
-      "episode_description": "Superadas a censura e a burocracia que cercam a importação de filmes, Leon e Renata buscam ampliar o alcance da Mostra. O festival se aventura nos universos da TV, livros, vídeo/DVD e produção cinematográfica."
-    },
-    {
-      "show_name": "Viva o Cinema! Uma História da Mostra de São Paulo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_viva-o-cinema-uma-historia-da-mostra-de-s-o-paulo-s01e04-eu-me-lembro_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 4 - Eu me Lembro",
-      "start_time": "22:50",
-      "end_time": "23:45",
-      "episode_description": "Renata de Almeida está em luto pela morte de Leon enquanto simultaneamente assume a responsabilidade de manter o maior legado de Leon: a Mostra Internacional de Cinema em São Paulo."
-    },
-    {
-      "show_name": "Bob Burnquist - A Lenda do Skate",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_bob-burnquist-a-lenda-do-skate-s01e02_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 2 - Não É por Dinheiro",
-      "start_time": "23:45",
-      "end_time": "00:47",
-      "episode_description": "A vitória no campeonato de 1995 catapulta Bob à fama e ele constrói as rampas Dreamland, que marcam o seu legado. Recusando uma oferta da Nike, Bob insiste em que o skate vai além do dinheiro, é uma questão de essência e autenticidade."
+      "show_name": "The Night Of",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-night-of-s01e08_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 8 - The Call of the Wild",
+      "start_time": "22:23",
+      "end_time": "00:00",
+      "episode_description": "Stone é colocado sob os holofotes quando uma controvérsia envolvendo a defesa surge."
     }
   ]
 }

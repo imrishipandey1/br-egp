@@ -1,20 +1,28 @@
 {
   "channel": "CNN",
-  "date": "25/02/2026",
+  "date": "26/02/2026",
   "schedule": [
     {
-      "show_name": "State of the Union",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_state-of-the-union_l_m.jpg",
-      "show_category": "Special",
+      "show_name": "CNN NewsNight With Abby Phillip",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cnn-newsnight-with-abby-phillip_l_m.jpg",
+      "show_category": "News",
+      "start_time": "00:00",
+      "end_time": "01:00",
+      "episode_description": "Abby Phillip adota uma abordagem inteligente e perspicaz para as maiores histórias do dia."
+    },
+    {
+      "show_name": "Laura Coates Live",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_laura-coates-live_l_m.jpg",
+      "show_category": "News",
       "start_time": "01:00",
-      "end_time": "02:30",
-      "episode_description": "A jornalista da CNN Candy Crowley faz uma análise profunda das entrevistas com políticos e personalidades que fazem as manchetes."
+      "end_time": "02:00",
+      "episode_description": "Laura Coates mergulha na história com uma busca implacável pelos fatos."
     },
     {
       "show_name": "The Story Is With Elex Michaelson",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_the-story-is-with-elex-michaelson_l_m.jpg",
       "show_category": "News",
-      "start_time": "02:30",
+      "start_time": "02:00",
       "end_time": "04:00",
       "episode_description": "Elex Michaelson apresenta as últimas notícias e atualizações sobre questões políticas, apresentando entrevistas detalhadas com figuras políticas importantes e análises semanais de eventos atuais."
     },

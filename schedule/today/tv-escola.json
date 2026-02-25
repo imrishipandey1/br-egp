@@ -1,6 +1,6 @@
 {
   "channel": "TV Escola",
-  "date": "24/02/2026",
+  "date": "25/02/2026",
   "schedule": [
     {
       "show_name": "Caminhos da Reportagem",
@@ -11,36 +11,28 @@
       "episode_description": "Um programa que oferece uma visão diferente, instigante e complexa de grandes histórias, por meio de viagens feitas pelo país e pelo mundo."
     },
     {
-      "show_name": "Pequenos Mestres",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_pequenos-mestres_l_m.jpg",
-      "show_category": "Documentary",
+      "show_name": "Adolescentes e o Mundo Digital",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_adolescentes-e-o-mundo-digital_l_m.jpg",
+      "show_category": "Special",
       "start_time": "00:30",
-      "end_time": "00:45",
-      "episode_description": "Aprendendo a arte de sua família, os herdeiros de grandes mestres da cultura popular brasileira ensinam a importância de preservar uma cultura passada de geração a geração."
+      "end_time": "01:00",
+      "episode_description": "Bate-papo entre adolescentes e especialistas sobre os desafios no contexto das redes sociais. Eles falam sobre tempestade hormonal, desenvolvimento integral, clima escolar, saúde mental e masculinidades."
     },
     {
-      "show_name": "Pequenos Mestres",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_pequenos-mestres_l_m.jpg",
-      "show_category": "Documentary",
-      "start_time": "00:45",
-      "end_time": "01:00",
-      "episode_description": "Aprendendo a arte de sua família, os herdeiros de grandes mestres da cultura popular brasileira ensinam a importância de preservar uma cultura passada de geração a geração."
+      "show_name": "Olhares do Norte - Pará",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_olhares-do-norte-para_l_m.jpg",
+      "show_category": "Public affairs",
+      "start_time": "01:00",
+      "end_time": "01:30",
+      "episode_description": "Treze olhares que definiram e trouxeram destaque nacional e internacional à fotografia paraense. A vida e a obra de fotógrafos de diferentes gerações, que compartilham suas experiências de vida, aprendizados e processos criativos."
     },
     {
       "show_name": "Teóphilo Ottoni, a Revolução",
       "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
       "show_category": "Action",
-      "start_time": "01:00",
-      "end_time": "01:30",
-      "episode_description": "No ano de 1842, a revolução liberal liderada em Minas Gerais pelo jovem deputado Teófilo Benedito Ottoni, se arrasta pelas ruas e causa enormes estragos."
-    },
-    {
-      "show_name": "Entre Longes",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_entre-longes_l_m.jpg",
-      "show_category": "Drama",
       "start_time": "01:30",
       "end_time": "02:00",
-      "episode_description": "Depois da Segunda Guerra, a enfermeira Rachel decide recomeçar sua vida em um lugar distante de todas as memórias do amor impossível que teve na Suíça. No Brasil, ela trabalha em um posto de saúde no município de Rosário Oeste, Mato Grosso."
+      "episode_description": "No ano de 1842, a revolução liberal liderada em Minas Gerais pelo jovem deputado Teófilo Benedito Ottoni, se arrasta pelas ruas e causa enormes estragos."
     },
     {
       "show_name": "Sementes da Educação",
@@ -51,28 +43,20 @@
       "episode_description": "Mesmo com recursos escassos, algumas escolas conseguiram inovar os métodos educacionais."
     },
     {
-      "show_name": "Adolescentes e o Mundo Digital",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_adolescentes-e-o-mundo-digital_l_m.jpg",
-      "show_category": "Special",
+      "show_name": "Inclusão para Valer",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_inclus-o-para-valer_l_m.jpg",
+      "show_category": "Educational",
       "start_time": "02:30",
       "end_time": "03:00",
-      "episode_description": "Bate-papo entre adolescentes e especialistas sobre os desafios no contexto das redes sociais. Eles falam sobre tempestade hormonal, desenvolvimento integral, clima escolar, saúde mental e masculinidades."
+      "episode_description": "Uma visão abrangente e educativa sobre os desafios e avanços na inclusão de pessoas com deficiência, promovendo a construção de uma sociedade mais justa e inclusiva."
     },
     {
-      "show_name": "Conta a Virada",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_conta-a-virada_l_m.jpg",
-      "show_category": "Public affairs",
+      "show_name": "Olha Elas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_olha-elas_l_m.jpg",
+      "show_category": "Bus./financial",
       "start_time": "03:00",
-      "end_time": "03:30",
-      "episode_description": "Programa conta histórias de empreendedores e viradas nos próprios negócios."
-    },
-    {
-      "show_name": "Mutatis Mutandis - À Procura do Saber",
-      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
-      "show_category": "Science",
-      "start_time": "03:30",
       "end_time": "04:00",
-      "episode_description": "Programa tenta desvendar, por meio do olhar de um apresentador curioso, o que é ciência. Discute temas globais e apresenta estudos e pesquisas de diversas áreas do conhecimento, realizadas na Universidade Federal de Ouro Preto."
+      "episode_description": "Bate-papos com histórias que visam inspirar outras empreendedoras que atuam em todo o país. Convidadas falam sobre a participação das mulheres em todos os espaços, empreendedorismo feminino e preto, combate à violência contra a mulher e muito mais."
     },
     {
       "show_name": "Se Liga na Educação - Enem",
@@ -83,12 +67,12 @@
       "episode_description": "Acompanhe as aulas produzidas pela Secretaria de Estado de Educação de Minas Gerais."
     },
     {
-      "show_name": "Trilha de Letras",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_trilha-de-letras_l_m.jpg",
-      "show_category": "Interview",
+      "show_name": "Entrelinhas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_entrelinhas_l_m.jpg",
+      "show_category": "Educational",
       "start_time": "05:15",
       "end_time": "05:45",
-      "episode_description": "A escritora Ana Maria Gonçalves, autora do aclamado \"Um Defeito de Cor\", discute o processo de pesquisa e escrita deste clássico da literatura brasileira, vencedor do Prêmio Casa de las Américas."
+      "episode_description": "O universo dos livros e das diversas formas da leitura no mundo contemporâneo. Obras de diversos gêneros e autores são indicadas. Personalidades da arte literária também são entrevistadas."
     },
     {
       "show_name": "Cidades em Crise",
@@ -107,20 +91,20 @@
       "episode_description": ""
     },
     {
-      "show_name": "Por uma Educação Antirracista",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_por-uma-educac-o-antirracista_l_m.jpg",
-      "show_category": "Community",
+      "show_name": "Conexões do Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Public affairs",
       "start_time": "05:55",
       "end_time": "06:00",
-      "episode_description": "Programa convida jovens, adultos, idosos, indígenas, negros, asiáticos e brancos a se engajarem no tema antirracismo para que ajudem a modificar as práticas educacionais atuais."
+      "episode_description": "Interprogramas que apresentam, de forma clara e acessível, iniciativas e políticas públicas do governo federal."
     },
     {
-      "show_name": "Adolescentes e o Mundo Digital",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_adolescentes-e-o-mundo-digital_l_m.jpg",
-      "show_category": "Special",
+      "show_name": "Inclusão para Valer",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_inclus-o-para-valer_l_m.jpg",
+      "show_category": "Educational",
       "start_time": "06:00",
       "end_time": "06:30",
-      "episode_description": "Bate-papo entre adolescentes e especialistas sobre os desafios no contexto das redes sociais. Eles falam sobre tempestade hormonal, desenvolvimento integral, clima escolar, saúde mental e masculinidades."
+      "episode_description": "Uma visão abrangente e educativa sobre os desafios e avanços na inclusão de pessoas com deficiência, promovendo a construção de uma sociedade mais justa e inclusiva."
     },
     {
       "show_name": "Sementes da Educação",
@@ -211,12 +195,12 @@
       "episode_description": "Acompanhe as aulas produzidas pela Secretaria de Estado de Educação de Minas Gerais."
     },
     {
-      "show_name": "Entrelinhas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_entrelinhas_l_m.jpg",
-      "show_category": "Educational",
+      "show_name": "Trilha de Letras",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_trilha-de-letras_l_m.jpg",
+      "show_category": "Interview",
       "start_time": "10:45",
       "end_time": "11:15",
-      "episode_description": "O universo dos livros e das diversas formas da leitura no mundo contemporâneo. Obras de diversos gêneros e autores são indicadas. Personalidades da arte literária também são entrevistadas."
+      "episode_description": "A escritora Ana Maria Gonçalves, autora do aclamado \"Um Defeito de Cor\", discute o processo de pesquisa e escrita deste clássico da literatura brasileira, vencedor do Prêmio Casa de las Américas."
     },
     {
       "show_name": "Cidades em Crise",
@@ -243,12 +227,20 @@
       "episode_description": "Interprogramas que apresentam, de forma clara e acessível, iniciativas e políticas públicas do governo federal."
     },
     {
-      "show_name": "Olha Elas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_olha-elas_l_m.jpg",
-      "show_category": "Bus./financial",
+      "show_name": "Game Dev Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_game-dev-brasil_l_m.jpg",
+      "show_category": "Documentary",
       "start_time": "11:30",
+      "end_time": "12:00",
+      "episode_description": "Todas as novidades e também os bastidores sobre o desenvolvimento de jogos no Brasil."
+    },
+    {
+      "show_name": "Estúdio Ciência",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "",
+      "start_time": "12:00",
       "end_time": "12:30",
-      "episode_description": "Bate-papos com histórias que visam inspirar outras empreendedoras que atuam em todo o país. Convidadas falam sobre a participação das mulheres em todos os espaços, empreendedorismo feminino e preto, combate à violência contra a mulher e muito mais."
+      "episode_description": ""
     },
     {
       "show_name": "Sementes da Educação",
@@ -259,12 +251,12 @@
       "episode_description": "Mesmo com recursos escassos, algumas escolas conseguiram inovar os métodos educacionais."
     },
     {
-      "show_name": "Adolescentes e o Mundo Digital",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_adolescentes-e-o-mundo-digital_l_m.jpg",
-      "show_category": "Special",
+      "show_name": "Inclusão para Valer",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_inclus-o-para-valer_l_m.jpg",
+      "show_category": "Educational",
       "start_time": "13:00",
       "end_time": "13:30",
-      "episode_description": "Bate-papo entre adolescentes e especialistas sobre os desafios no contexto das redes sociais. Eles falam sobre tempestade hormonal, desenvolvimento integral, clima escolar, saúde mental e masculinidades."
+      "episode_description": "Uma visão abrangente e educativa sobre os desafios e avanços na inclusão de pessoas com deficiência, promovendo a construção de uma sociedade mais justa e inclusiva."
     },
     {
       "show_name": "Palaloos",
@@ -363,12 +355,12 @@
       "episode_description": "Acompanhe as aulas produzidas pela Secretaria de Estado de Educação de Minas Gerais."
     },
     {
-      "show_name": "Entrelinhas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_entrelinhas_l_m.jpg",
-      "show_category": "Educational",
+      "show_name": "Trilha de Letras",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_trilha-de-letras_l_m.jpg",
+      "show_category": "Interview",
       "start_time": "17:15",
       "end_time": "17:45",
-      "episode_description": "O universo dos livros e das diversas formas da leitura no mundo contemporâneo. Obras de diversos gêneros e autores são indicadas. Personalidades da arte literária também são entrevistadas."
+      "episode_description": "A escritora Ana Maria Gonçalves, autora do aclamado \"Um Defeito de Cor\", discute o processo de pesquisa e escrita deste clássico da literatura brasileira, vencedor do Prêmio Casa de las Américas."
     },
     {
       "show_name": "Cidades em Crise",
@@ -395,12 +387,20 @@
       "episode_description": "Interprogramas que apresentam, de forma clara e acessível, iniciativas e políticas públicas do governo federal."
     },
     {
-      "show_name": "Olha Elas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_olha-elas_l_m.jpg",
-      "show_category": "Bus./financial",
+      "show_name": "Game Dev Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_game-dev-brasil_l_m.jpg",
+      "show_category": "Documentary",
       "start_time": "18:00",
+      "end_time": "18:30",
+      "episode_description": "Todas as novidades e também os bastidores sobre o desenvolvimento de jogos no Brasil."
+    },
+    {
+      "show_name": "Estúdio Ciência",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "",
+      "start_time": "18:30",
       "end_time": "19:00",
-      "episode_description": "Bate-papos com histórias que visam inspirar outras empreendedoras que atuam em todo o país. Convidadas falam sobre a participação das mulheres em todos os espaços, empreendedorismo feminino e preto, combate à violência contra a mulher e muito mais."
+      "episode_description": ""
     },
     {
       "show_name": "Caminhos da Reportagem",
@@ -411,76 +411,52 @@
       "episode_description": "Um programa que oferece uma visão diferente, instigante e complexa de grandes histórias, por meio de viagens feitas pelo país e pelo mundo."
     },
     {
+      "show_name": "Vida de Merendeira",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vida-de-merendeira_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "19:30",
+      "end_time": "20:30",
+      "episode_description": "Merendeiras de escolas cozinham receitas deliciosas e mostram como alimentam suas comunidades."
+    },
+    {
       "show_name": "Inclusão para Valer",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_inclus-o-para-valer_l_m.jpg",
       "show_category": "Educational",
-      "start_time": "19:30",
-      "end_time": "20:00",
+      "start_time": "20:30",
+      "end_time": "21:00",
       "episode_description": "Uma visão abrangente e educativa sobre os desafios e avanços na inclusão de pessoas com deficiência, promovendo a construção de uma sociedade mais justa e inclusiva."
     },
     {
-      "show_name": "Sementes da Educação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sementes-da-educac-o_l_m.jpg",
-      "show_category": "Documentary",
-      "start_time": "20:00",
-      "end_time": "20:30",
-      "episode_description": "Mesmo com recursos escassos, algumas escolas conseguiram inovar os métodos educacionais."
-    },
-    {
-      "show_name": "Adolescentes e o Mundo Digital",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_adolescentes-e-o-mundo-digital_l_m.jpg",
-      "show_category": "Special",
-      "start_time": "20:30",
-      "end_time": "21:00",
-      "episode_description": "Bate-papo entre adolescentes e especialistas sobre os desafios no contexto das redes sociais. Eles falam sobre tempestade hormonal, desenvolvimento integral, clima escolar, saúde mental e masculinidades."
+      "show_name": "Faróis do Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_farois-do-brasil_l_m.jpg",
+      "show_category": "Art",
+      "start_time": "21:00",
+      "end_time": "21:30",
+      "episode_description": "A Ilha de Santana se localiza em meio a uma reserva de fauna e flora. Além disso, abriga o Farol de Macaé, com sua lanterna centenária, que tem um alcance luminoso de até 28 milhas náuticas."
     },
     {
       "show_name": "Fortes do Brasil",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_fortes-do-brasil_l_m.jpg",
       "show_category": "History",
-      "start_time": "21:00",
-      "end_time": "21:30",
+      "start_time": "21:30",
+      "end_time": "22:00",
       "episode_description": "A série, produzida em parceria com a Marinha do Brasil, conta a história dos principais fortes do país e suas particularidades."
     },
     {
-      "show_name": "Parques do Brasil",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_parques-do-brasil_l_m.jpg",
-      "show_category": "Environment",
-      "start_time": "21:30",
-      "end_time": "22:00",
-      "episode_description": "Tudo sobre a biodiversidade dos parques nacionais e outras unidades de conservação brasileiras. Com ênfase na relação entre o meio ambiente, a saúde e a qualidade de vida, o programa explora a fauna, a flora e o patrimônio histórico."
-    },
-    {
-      "show_name": "Olhares do Norte - Pará",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_olhares-do-norte-para_l_m.jpg",
-      "show_category": "Public affairs",
+      "show_name": "Darcy, um Brasileiro",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_darcy-um-brasileiro_l_m.jpg",
+      "show_category": "Special",
       "start_time": "22:00",
-      "end_time": "22:30",
-      "episode_description": "Treze olhares que definiram e trouxeram destaque nacional e internacional à fotografia paraense. A vida e a obra de fotógrafos de diferentes gerações, que compartilham suas experiências de vida, aprendizados e processos criativos."
+      "end_time": "23:45",
+      "episode_description": "Conheça Darcy Ribeiro, um homem de causas, visto por ele mesmo e pela ótica de amigos e colaboradores. Sua história, suas inquietações e sua busca por soluções para o Brasil."
     },
     {
-      "show_name": "Teóphilo Ottoni, a Revolução",
+      "show_name": "Mulheres Cientistas",
       "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
-      "show_category": "Action",
-      "start_time": "22:30",
-      "end_time": "23:00",
-      "episode_description": "No ano de 1842, a revolução liberal liderada em Minas Gerais pelo jovem deputado Teófilo Benedito Ottoni, se arrasta pelas ruas e causa enormes estragos."
-    },
-    {
-      "show_name": "Sementes da Educação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sementes-da-educac-o_l_m.jpg",
       "show_category": "Documentary",
-      "start_time": "23:00",
-      "end_time": "23:30",
-      "episode_description": "Mesmo com recursos escassos, algumas escolas conseguiram inovar os métodos educacionais."
-    },
-    {
-      "show_name": "Inclusão para Valer",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_inclus-o-para-valer_l_m.jpg",
-      "show_category": "Educational",
-      "start_time": "23:30",
+      "start_time": "23:45",
       "end_time": "00:00",
-      "episode_description": "Uma visão abrangente e educativa sobre os desafios e avanços na inclusão de pessoas com deficiência, promovendo a construção de uma sociedade mais justa e inclusiva."
+      "episode_description": "A participação feminina em pesquisas científicas e tecnológicas tem sido incentivadas pelo Ministério da Saúde, com a Secretaria de Ciência, Tecnologia, Inovação e Complexo Econômico-Industrial da Saúde (SECTICS)."
     }
   ]
 }
