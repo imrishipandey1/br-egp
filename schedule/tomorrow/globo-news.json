@@ -1,6 +1,6 @@
 {
   "channel": "Globo News",
-  "date": "26/02/2026",
+  "date": "27/02/2026",
   "schedule": [
     {
       "show_name": "Jornal GloboNews - Edição da Meia-Noite",
@@ -19,12 +19,12 @@
       "episode_description": "O time de comentaristas analisa e debate os grandes temas políticos, econômicos, culturais e internacionais do dia, aprofundando os assuntos e gerando reflexão."
     },
     {
-      "show_name": "GloboNews Miriam Leitão",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_globonews-miriam-leit-o_l_m.jpg",
-      "show_category": "Interview",
+      "show_name": "Liderança S/A",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lideranca-s-a_l_m.jpg",
+      "show_category": "Public affairs",
       "start_time": "03:00",
       "end_time": "03:30",
-      "episode_description": "Miriam Leitão recebe os principais nomes da economia brasileira para debater decisões do governo e do mercado que afetam o país e a vida dos cidadãos."
+      "episode_description": "Presidentes de empresas e CEOs compartilham experiências, dificuldades e aprendizados sobre liderança. E contam como chegaram ao maior cargo da empresa."
     },
     {
       "show_name": "Jornal das Dez",
@@ -103,8 +103,16 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-das-dez-1_l_m.jpg",
       "show_category": "News",
       "start_time": "22:00",
-      "end_time": "",
+      "end_time": "23:30",
       "episode_description": "Aline Midlej e um time de comentaristas apresentam e analisam os bastidores das notícias."
+    },
+    {
+      "show_name": "Diálogos com Mario Sergio Conti",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_dialogos-com-mario-sergio-conti_l_m.jpg",
+      "show_category": "Talk",
+      "start_time": "23:30",
+      "end_time": "",
+      "episode_description": "Mario Sergio Conti entrevista os personagens mais relevantes da política, cultura e outras áreas, sempre com figuras públicas que tenham ido para as manchetes devido a sua participação em acontecimentos marcantes."
     }
   ]
 }

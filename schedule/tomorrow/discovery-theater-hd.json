@@ -1,254 +1,238 @@
 {
   "channel": "Discovery Theater",
-  "date": "26/02/2026",
+  "date": "27/02/2026",
   "schedule": [
+    {
+      "show_name": "Os Reis do Esgoto",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-reis-do-esgoto-s01e02-os-port-es-do-fedor_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Os Portões do Fedor",
+      "start_time": "00:00",
+      "end_time": "00:48",
+      "episode_description": "Rick procura por um entupimento misterioso no tubo de saída de uma estação de tratamento."
+    },
+    {
+      "show_name": "Garimpeiros de Ruínas - Melhores Negócios",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_garimpeiros-de-ruinas-melhores-negocios-s01e08_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 8",
+      "start_time": "00:48",
+      "end_time": "01:36",
+      "episode_description": "Drew Pritchard compra e vende antiguidades há mais de duas décadas, e sua paixão e conhecimentos históricos parecem não ter limites."
+    },
+    {
+      "show_name": "Alasca ao Extremo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alasca-ao-extremo-s03e08_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 8 - Ninguém se Renderá",
+      "start_time": "01:36",
+      "end_time": "02:24",
+      "episode_description": "Mark procura um tesouro local raro para dar as boas-vindas a Tim. Neil abre finalmente a mina Mother Lode ao turismo, mas sua parceria com Jeremy ameaça o futuro da família Keller."
+    },
+    {
+      "show_name": "Polônia - A Última Fronteira",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_polonia-a-ultima-fronteira-s03e08_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 8",
+      "start_time": "02:24",
+      "end_time": "03:12",
+      "episode_description": "Um olhar sobre as histórias extraordinárias de madeireiros, engenheiros florestais e outros habitantes que vivem na região mais inóspita e selvagem da Polônia: as montanhas de Bieszczady."
+    },
+    {
+      "show_name": "Alasca - A Última Fronteira",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alasca-a-ultima-fronteira-s10e08-combate-ao-fogo_l_m.jpg",
+      "show_category": "Temporada 10 Episódio 8 - Combate ao Fogo",
+      "start_time": "03:12",
+      "end_time": "04:48",
+      "episode_description": "Para proteger a propriedade de incêndios, Otto constrói um reservatório de emergência. Charlotte vai pescar com Jane, mas descobre que não é a sua praia. Atz Sr. pede a ajuda de sua família para voltar à ativa."
+    },
     {
       "show_name": "Alasca: Perigo no Ar",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_alasca-perigo-no-ar-s02e08-topo-do-mundo_l_m.jpg",
       "show_category": "Temporada 2 Episódio 8 - Topo do Mundo",
-      "start_time": "00:00",
-      "end_time": "00:48",
+      "start_time": "04:48",
+      "end_time": "05:36",
       "episode_description": "Jim procura alpinistas perdidos na montanha. Luke corre para transportar um idoso ao hospital e um piloto tenta bater o recorde mundial de velocidade no Polo Norte."
     },
     {
       "show_name": "Rota Perigosa",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_rota-perigosa-s01e08-colombia_l_m.jpg",
       "show_category": "Temporada 1 Episódio 8 - Colômbia",
-      "start_time": "00:48",
-      "end_time": "01:36",
+      "start_time": "05:36",
+      "end_time": "05:36",
+      "episode_description": "Todd se aventura na Colômbia para estar presente no processo de recuperação do país para voltar a ser um dos maiores produtores de café do mundo."
+    },
+    {
+      "show_name": "Rota Perigosa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rota-perigosa-s01e08-colombia_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 8 - Colômbia",
+      "start_time": "05:36",
+      "end_time": "06:24",
       "episode_description": "Todd se aventura na Colômbia para estar presente no processo de recuperação do país para voltar a ser um dos maiores produtores de café do mundo."
     },
     {
       "show_name": "Ouro Selvagem",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_ouro-selvagem-s02e01-pacto-com-o-diabo_l_m.jpg",
       "show_category": "Temporada 2 Episódio 1 - Pacto Com o Diabo",
-      "start_time": "01:36",
-      "end_time": "02:24",
+      "start_time": "06:24",
+      "end_time": "07:12",
       "episode_description": "Com uma dívida de um milhão de dólares, Scott e George voltam a Gana determinados a encontrar ouro. Eles enfrentam guardas armados, acidentes na estrada e brigas violentas na tentativa de recuperar seus escavadores e salvar seu contrato de mineração."
     },
     {
       "show_name": "A Maldição do Ouro Perdido",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_a-maldic-o-do-ouro-perdido-s01e02-misterio-em-terrarosa_l_m.jpg",
       "show_category": "Temporada 1 Episódio 2 - Mistério em Terrarosa",
-      "start_time": "02:24",
-      "end_time": "03:12",
+      "start_time": "07:12",
+      "end_time": "08:00",
+      "episode_description": "Adam e Evan investigam a geleira Terrarosa e uma força misteriosa que quase matou um explorador local. Daryl leva Danny a Spindle Canyon, onde descobrem vestígios de mineradores do passado."
+    },
+    {
+      "show_name": "Alasca - A Última Fronteira",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alasca-a-ultima-fronteira-s10e08-combate-ao-fogo_l_m.jpg",
+      "show_category": "Temporada 10 Episódio 8 - Combate ao Fogo",
+      "start_time": "08:00",
+      "end_time": "09:36",
+      "episode_description": "Para proteger a propriedade de incêndios, Otto constrói um reservatório de emergência. Charlotte vai pescar com Jane, mas descobre que não é a sua praia. Atz Sr. pede a ajuda de sua família para voltar à ativa."
+    },
+    {
+      "show_name": "Alasca: Perigo no Ar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alasca-perigo-no-ar-s02e08-topo-do-mundo_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 8 - Topo do Mundo",
+      "start_time": "09:36",
+      "end_time": "10:24",
+      "episode_description": "Jim procura alpinistas perdidos na montanha. Luke corre para transportar um idoso ao hospital e um piloto tenta bater o recorde mundial de velocidade no Polo Norte."
+    },
+    {
+      "show_name": "Rota Perigosa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rota-perigosa-s01e08-colombia_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 8 - Colômbia",
+      "start_time": "10:24",
+      "end_time": "11:12",
+      "episode_description": "Todd se aventura na Colômbia para estar presente no processo de recuperação do país para voltar a ser um dos maiores produtores de café do mundo."
+    },
+    {
+      "show_name": "Ouro Selvagem",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ouro-selvagem-s02e01-pacto-com-o-diabo_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 1 - Pacto Com o Diabo",
+      "start_time": "11:12",
+      "end_time": "12:00",
+      "episode_description": "Com uma dívida de um milhão de dólares, Scott e George voltam a Gana determinados a encontrar ouro. Eles enfrentam guardas armados, acidentes na estrada e brigas violentas na tentativa de recuperar seus escavadores e salvar seu contrato de mineração."
+    },
+    {
+      "show_name": "A Maldição do Ouro Perdido",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-maldic-o-do-ouro-perdido-s01e02-misterio-em-terrarosa_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Mistério em Terrarosa",
+      "start_time": "12:00",
+      "end_time": "12:48",
       "episode_description": "Adam e Evan investigam a geleira Terrarosa e uma força misteriosa que quase matou um explorador local. Daryl leva Danny a Spindle Canyon, onde descobrem vestígios de mineradores do passado."
     },
     {
       "show_name": "No Rastro do Pé-Grande",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_no-rastro-do-pe-grande-s03e03-noite-de-terror_l_m.jpg",
       "show_category": "Temporada 3 Episódio 3 - Noite de Terror",
-      "start_time": "03:12",
-      "end_time": "04:00",
+      "start_time": "12:48",
+      "end_time": "13:36",
       "episode_description": "Um vulto sombrio se aproxima de Ronny e Mireya; Russell rastreia um animal de grande porte em uma conhecida trilha de caça, mas logo percebe que está sendo observado; Bryce faz uma descoberta perturbadora no fundo do lago."
     },
     {
       "show_name": "No Rastro do Pé-Grande",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_no-rastro-do-pe-grande-s03e04-criaturas-nas-arvores_l_m.jpg",
       "show_category": "Temporada 3 Episódio 4 - Criaturas nas Árvores",
-      "start_time": "04:00",
-      "end_time": "04:48",
+      "start_time": "13:36",
+      "end_time": "14:24",
       "episode_description": "A equipe escala pinheiros em busca de evidências; Bryce descobre segredos do governo que podem incluir bunkers subterrâneos; um especialista em imagens 3D descobre possíveis estruturas artificiais na floresta."
     },
     {
       "show_name": "Caçadores de Pítons",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_cacadores-de-pitons-s02e02-o-lagarto-do-nilo-1_l_m.jpg",
       "show_category": "Temporada 2 Episódio 2 - Torniquete de Píton",
-      "start_time": "04:48",
-      "end_time": "05:36",
+      "start_time": "14:24",
+      "end_time": "15:12",
       "episode_description": "Dusty Crum e a equipe tentam conter a invasão de pítons criando um torniquete em áreas de tratamento de águas pluviais; Gary se prepara para viajar para o sul e caçar uma nova espécie invasora."
     },
     {
       "show_name": "Monstros da Montanha",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_monstros-da-montanha-s06e09-a-volta-de-trapper_l_m.jpg",
       "show_category": "Temporada 6 Episódio 9 - A Volta de Trapper",
-      "start_time": "05:36",
-      "end_time": "05:36",
-      "episode_description": "A equipe se encontra com seu líder, Trapper, que faz todos perceberem que deixaram de ver uma grande pista; eles voltam para o condado de Ashe para procurar o demônio cherokee, que acaba sendo demais para Huckleberry."
-    },
-    {
-      "show_name": "Monstros da Montanha",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_monstros-da-montanha-s06e09-a-volta-de-trapper_l_m.jpg",
-      "show_category": "Temporada 6 Episódio 9 - A Volta de Trapper",
-      "start_time": "05:36",
-      "end_time": "06:24",
+      "start_time": "15:12",
+      "end_time": "16:00",
       "episode_description": "A equipe se encontra com seu líder, Trapper, que faz todos perceberem que deixaram de ver uma grande pista; eles voltam para o condado de Ashe para procurar o demônio cherokee, que acaba sendo demais para Huckleberry."
     },
     {
       "show_name": "Guerreiros do Pacífico",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_guerreiros-do-pacifico-s01e01_l_m.jpg",
       "show_category": "Temporada 1 Episódio 1 - Aberta a Temporada",
-      "start_time": "06:24",
-      "end_time": "07:12",
+      "start_time": "16:00",
+      "end_time": "16:48",
       "episode_description": "Começa a temporada de pesca com caiaque no Havaí; Andy e Rob caçam um atum enorme; Boogie e Jason enfrentam correntes fortes em Kaena Point; Jon Jon tenta pegar um marlim de 225 quilos."
     },
     {
       "show_name": "Isto É Ciência - Com Mark Rober",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_isto-e-ciencia-com-mark-rober-s01e02-o-cara-da-bomba-de-glitter_l_m.jpg",
       "show_category": "Temporada 1 Episódio 2 - O Cara da Bomba de Glitter",
-      "start_time": "07:12",
-      "end_time": "08:00",
-      "episode_description": "Com mais de 229 milhões de visualizações no YouTube, os vídeos de bomba de glitter de Mark são um estouro. Ele mostrará bombas perigosas demais para os espectadores fazerem em casa."
-    },
-    {
-      "show_name": "No Rastro do Pé-Grande",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_no-rastro-do-pe-grande-s03e03-noite-de-terror_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 3 - Noite de Terror",
-      "start_time": "08:00",
-      "end_time": "08:48",
-      "episode_description": "Um vulto sombrio se aproxima de Ronny e Mireya; Russell rastreia um animal de grande porte em uma conhecida trilha de caça, mas logo percebe que está sendo observado; Bryce faz uma descoberta perturbadora no fundo do lago."
-    },
-    {
-      "show_name": "No Rastro do Pé-Grande",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_no-rastro-do-pe-grande-s03e04-criaturas-nas-arvores_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 4 - Criaturas nas Árvores",
-      "start_time": "08:48",
-      "end_time": "09:36",
-      "episode_description": "A equipe escala pinheiros em busca de evidências; Bryce descobre segredos do governo que podem incluir bunkers subterrâneos; um especialista em imagens 3D descobre possíveis estruturas artificiais na floresta."
-    },
-    {
-      "show_name": "Caçadores de Pítons",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cacadores-de-pitons-s02e02-o-lagarto-do-nilo-1_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 2 - Torniquete de Píton",
-      "start_time": "09:36",
-      "end_time": "10:24",
-      "episode_description": "Dusty Crum e a equipe tentam conter a invasão de pítons criando um torniquete em áreas de tratamento de águas pluviais; Gary se prepara para viajar para o sul e caçar uma nova espécie invasora."
-    },
-    {
-      "show_name": "Monstros da Montanha",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_monstros-da-montanha-s06e09-a-volta-de-trapper_l_m.jpg",
-      "show_category": "Temporada 6 Episódio 9 - A Volta de Trapper",
-      "start_time": "10:24",
-      "end_time": "11:12",
-      "episode_description": "A equipe se encontra com seu líder, Trapper, que faz todos perceberem que deixaram de ver uma grande pista; eles voltam para o condado de Ashe para procurar o demônio cherokee, que acaba sendo demais para Huckleberry."
-    },
-    {
-      "show_name": "Guerreiros do Pacífico",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_guerreiros-do-pacifico-s01e01_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 1 - Aberta a Temporada",
-      "start_time": "11:12",
-      "end_time": "12:00",
-      "episode_description": "Começa a temporada de pesca com caiaque no Havaí; Andy e Rob caçam um atum enorme; Boogie e Jason enfrentam correntes fortes em Kaena Point; Jon Jon tenta pegar um marlim de 225 quilos."
-    },
-    {
-      "show_name": "Isto É Ciência - Com Mark Rober",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_isto-e-ciencia-com-mark-rober-s01e02-o-cara-da-bomba-de-glitter_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 2 - O Cara da Bomba de Glitter",
-      "start_time": "12:00",
-      "end_time": "12:48",
+      "start_time": "16:48",
+      "end_time": "17:36",
       "episode_description": "Com mais de 229 milhões de visualizações no YouTube, os vídeos de bomba de glitter de Mark são um estouro. Ele mostrará bombas perigosas demais para os espectadores fazerem em casa."
     },
     {
       "show_name": "Pesca Mortal",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_pesca-mortal-s14e12-apostas-de-risco_l_m.jpg",
       "show_category": "Temporada 14 Episódio 12 - Apostas de Risco",
-      "start_time": "12:48",
-      "end_time": "13:36",
+      "start_time": "17:36",
+      "end_time": "18:24",
       "episode_description": "Enquanto o inverno agita a frota com grandes ondas e ventos fortes, o Mar de Bering é brutal com um novato. No Wizard, o motim está se aproximando."
     },
     {
-      "show_name": "Pesca Mortal",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_pesca-mortal-1_l_m.jpg",
-      "show_category": "Reality",
-      "start_time": "13:36",
-      "end_time": "14:24",
-      "episode_description": "Sig Hansen se apressa para descarregar seus tanques e evitar um prejuízo de meio milhão de dólares; o Mar de Bering castiga novamente um novato do Cornelia Marie; a tensão entre dois capitães chega ao auge no Wizard."
+      "show_name": "Histórias Animais",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_historias-animais-s01e01_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - A História dos Felinos",
+      "start_time": "18:24",
+      "end_time": "19:12",
+      "episode_description": "Uma jornada fascinante ao lado do biólogo e cinegrafista da natureza, João Paulo Krajewski, para desvendar os segredos e a origem dos majestosos felinos."
     },
     {
       "show_name": "Capitães da Lagosta",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_capit-es-da-lagosta-s01e02-barcos-de-arrasto-1_l_m.jpg",
       "show_category": "Temporada 1 Episódio 2 - Barcos de Arrasto",
-      "start_time": "14:24",
-      "end_time": "15:12",
+      "start_time": "19:12",
+      "end_time": "20:00",
       "episode_description": "Os capitães correm para tirar as armadilhas do caminho dos barcos de arrasto, para que elas não sejam destruídas pelas redes. O mau tempo provoca um perigoso acidente no Captain Bligh. Já o Courtney Elizabeth sofre com um equipamento quebrado."
     },
     {
       "show_name": "Supercaminhões",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_supercaminh-es-s03e08_l_m.jpg",
       "show_category": "Temporada 3 Episódio 8",
-      "start_time": "15:12",
-      "end_time": "16:00",
+      "start_time": "20:00",
+      "end_time": "20:48",
       "episode_description": "Matt e Little Legs integram um comboio de veículos militares que serão levados até a maior base aérea inglesa. Simon e Sharpie transportam três veículos antiminas. A equipe faz uma festa de aniversário surpresa para Brian."
     },
     {
-      "show_name": "Rumo ao Desconhecido",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_rumo-ao-desconhecido-s07e06-o-pirata-da-florida_l_m.jpg",
-      "show_category": "Temporada 7 Episódio 6 - O Pirata da Flórida",
-      "start_time": "16:00",
-      "end_time": "16:48",
-      "episode_description": "Josh Gates veleja para a Flórida em busca do tesouro perdido de José Gaspar. Ele trabalha ao lado de arqueólogos e caçadores de tesouros para desvendar os mistérios do pirata e encontrar uma fortuna escondida."
-    },
-    {
-      "show_name": "Rumo ao Desconhecido",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_rumo-ao-desconhecido-s07e11-a-tumba-dos-reis-serpente_l_m.jpg",
-      "show_category": "Temporada 7 Episódio 11 - A Tumba dos Reis Serpente",
-      "start_time": "16:48",
-      "end_time": "17:36",
-      "episode_description": "Josh Gates retorna às selvas da Guatemala para visitar um sítio arqueológico na antiga cidade maia de El Mirador, a possível localização da lendária tumba dos Reis Serpente."
+      "show_name": "Mistérios da História",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_misterios-da-historia-s02e08-ladr-o-de-livros-duquesa-bigama-e-absurdo-patente_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 8 - Ladrão de Livros, Duquesa Bígama e Absurdo Patente",
+      "start_time": "20:48",
+      "end_time": "21:36",
+      "episode_description": "Uma abadia no alto de uma montanha francesa é cenário de um roubo audacioso; uma traição conjugal chocante se desenrola em uma propriedade inglesa; o dono de uma mansão no Kansas inventa uma droga maravilhosa."
     },
     {
       "show_name": "Mistérios no Museu",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_misterios-no-museu-s10e12-hank-williams-soldados-que-brilham-e-a-vinda-do-homem-do-gelo_l_m.jpg",
-      "show_category": "Temporada 10 Episódio 12 - Hank Williams, Soldados que Brilham e a Vinda do Homem do Gelo",
-      "start_time": "17:36",
-      "end_time": "18:24",
-      "episode_description": "Don Wildman investiga a morte de uma lenda da música country, examina instrumentos ligados a um mistério da medicina e tenta descobrir a verdade sobre o caso arquivado mais antigo da história."
-    },
-    {
-      "show_name": "Histórias Animais",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_historias-animais-s01e05_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 5 - No Reino dos Dragões",
-      "start_time": "18:24",
-      "end_time": "19:12",
-      "episode_description": "João Paulo Krajewski parte para uma das regiões mais remotas do mundo, Komodo, no sul da Indonésia. Sua missão é desvendar os segredos de um dos animais mais temidos e enigmáticos do planeta: o dragão-de-komodo."
-    },
-    {
-      "show_name": "Mistérios da História",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_misterios-da-historia-s02e07-fuga-no-bau-milagre-de-anne-greene-e-mans-o-hemingway_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 7 - Fuga no Baú, Milagre de Anne Greene e Mansão Hemingway",
-      "start_time": "19:12",
-      "end_time": "20:00",
-      "episode_description": "Uma fuga ousada acontece em uma fortaleza na Holanda; uma história milagrosa de vida após a morte se desenrola em uma imponente cidadela britânica; uma mansão tropical se torna o campo de batalha de uma guerra matrimonial."
-    },
-    {
-      "show_name": "Cidade Fantasma - Terror em Montana",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidade-fantasma-terror-em-montana-s02e01-tempestade-de-fogo_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 1 - Tempestade de Fogo",
-      "start_time": "20:00",
-      "end_time": "20:48",
-      "episode_description": "Karen chama Tim e Sapphire de volta para Gunslinger Gulch para investigar um presságio chocante e ameaçador; Tim se aprofunda ainda mais no poço em busca de respostas e um confronto com seu próprio inimigo sombrio leva a revelações dolorosas."
-    },
-    {
-      "show_name": "Nos Trilhos do Alasca",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_nos-trilhos-do-alasca-s02e02-perigo-na-montanha_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 2 - Perigo na Montanha",
-      "start_time": "20:48",
-      "end_time": "21:36",
-      "episode_description": "Dan Mawhinney tenta içar sua máquina de neve presa na tundra congelada. Quando os novatos Orville e Jackie James enfrentam seu primeiro inverno sozinhos na floresta, um desastre acontece."
-    },
-    {
-      "show_name": "Criadores de Sonhos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_criadores-de-sonhos-s02e02-sede-animada_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 2 - Sede Animada",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_misterios-no-museu-s15e08-perseguindo-tubar-es-shows-assombrados-e-onda-gigante_l_m.jpg",
+      "show_category": "Temporada 15 Episódio 8 - Perseguindo Tubarões, Shows Assombrados e Onda Gigante",
       "start_time": "21:36",
       "end_time": "22:24",
-      "episode_description": "Após criar inúmeros projetos em madeira e sucata, John Daniels e sua equipe constroem seu projeto mais radical: uma sede inspirada em desenhos animados para uma fazenda de porcos em Indiana."
+      "episode_description": "Don mostra um equipamento militar ultrassecreto desenvolvido pelo primeiro chef celebridade; um fantasma que aterrorizou um popular local de eventos e uma dupla de pai e filho que pegou a onda mais alta do mundo."
     },
     {
-      "show_name": "Destiladores",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_destiladores-s10e14-congelado_l_m.jpg",
-      "show_category": "Temporada 10 Episódio 14 - Congelado",
+      "show_name": "Rumo ao Desconhecido",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rumo-ao-desconhecido-s07e09-febre-do-ouro-no-atlantico_l_m.jpg",
+      "show_category": "Temporada 7 Episódio 9 - Febre do Ouro no Atlântico",
       "start_time": "22:24",
       "end_time": "23:12",
-      "episode_description": "Mark e Digger criam uma nova receita e transformam centenas de potes de tangerinas vencidas em licor vendável; Tickle e os Law têm problemas na produção de licor de maçã; Mike e Jerry fazem aguardente caseira de casca de bétula."
+      "episode_description": "Josh Gates descobre uma pista sobre o tesouro perdido de uma frota que naufragou em 1715. Ele volta à Florida com uma expedição que usa tecnologias de ponta em suas incursões."
     },
     {
-      "show_name": "Destiladores",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_destiladores-s10e15-os-ingredientes-do-outro_l_m.jpg",
-      "show_category": "Temporada 10 Episódio 15 - Os Ingredientes do Outro",
+      "show_name": "Rumo ao Desconhecido",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rumo-ao-desconhecido-s07e07-em-busca-do-chupa-cabra_l_m.jpg",
+      "show_category": "Temporada 7 Episódio 7 - Em Busca do Chupa-Cabra",
       "start_time": "23:12",
       "end_time": "",
-      "episode_description": "Tickle e os Law criam uma nova receita com o mestre Landry; Mark e Digger resolvem o problema das jarras e preparam a maior produção em anos; Tim e Howard fazem um alambique de cerâmica para recriar um uísque colonial."
+      "episode_description": "Nas cavernas escuras e matas fechadas de Porto Rico, Josh Gates tenta localizar uma criatura que suga o sangue de suas vítimas, o lendário chupa-cabra."
     }
   ]
 }
