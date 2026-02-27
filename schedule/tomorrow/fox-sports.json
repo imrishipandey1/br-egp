@@ -1,198 +1,174 @@
 {
   "channel": "FOX Sports",
-  "date": "27/02/2026",
+  "date": "28/02/2026",
   "schedule": [
     {
       "show_name": "GP da Tailândia - Treino Livre",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_motorcycle-racing-gp-da-tailandia-treino-livre-3_l_m.jpg",
       "show_category": "Moto GP",
-      "start_time": "00:35",
-      "end_time": "01:30",
+      "start_time": "00:00",
+      "end_time": "00:45",
       "episode_description": "Primeira sessão de treinos para a etapa no Circuito Internacional de Chang, na Tailândia."
     },
     {
-      "show_name": "Show da Rodada do Italiano",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-do-italiano_l_m.jpg",
-      "show_category": "",
-      "start_time": "01:30",
-      "end_time": "02:00",
-      "episode_description": "Os principais destaques das partidas da Lega Serie A, primeira divisão do Campeonato Italiano de futebol masculino, com os gols, melhores lances e situação da tabela de classificação após cada rodada disputada."
-    },
-    {
-      "show_name": "Flamengo x Lanús",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-flamengo-x-lanus_l_m.jpg",
-      "show_category": "Recopa Sul-Americana",
-      "start_time": "02:00",
-      "end_time": "04:00",
-      "episode_description": "Os atuais campeões da Copa Libertadores de futebol masculino enfrentam os vencedores da Copa Sul-Americana em duelos de ida e volta, valendo mais um título internacional."
-    },
-    {
-      "show_name": "Etapa de Echopark",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_auto-racing-etapa-de-echopark_l_m.jpg",
-      "show_category": "NASCAR Cup Series",
-      "start_time": "04:00",
-      "end_time": "04:00",
-      "episode_description": "Todas as emoções da principal competição de velocidade da categoria stock car dos Estados Unidos."
-    },
-    {
-      "show_name": "Etapa de Echopark",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_auto-racing-etapa-de-echopark_l_m.jpg",
-      "show_category": "NASCAR Cup Series",
-      "start_time": "04:00",
-      "end_time": "07:00",
-      "episode_description": "Todas as emoções da principal competição de velocidade da categoria stock car dos Estados Unidos."
-    },
-    {
-      "show_name": "Bola da Vez",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_bola-da-vez_l_m.jpg",
-      "show_category": "Sports talk",
-      "start_time": "07:00",
-      "end_time": "08:00",
-      "episode_description": "Grandes personalidades do esporte nacional e internacional são colocadas no \"paredão\" e respondem às perguntas de uma bancada de entrevistadores formada por jornalistas, ex-atletas ou especialistas em geral."
-    },
-    {
-      "show_name": "GP da Tailândia - Treino Livre",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_motorcycle-racing-gp-da-tailandia-treino-livre-2_l_m.jpg",
-      "show_category": "Moto 2",
-      "start_time": "08:00",
-      "end_time": "08:55",
-      "episode_description": "Primeira sessão de treinos para a etapa no Circuito Internacional de Chang, na Tailândia."
-    },
-    {
-      "show_name": "GP da Tailândia - Treino Livre",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_motorcycle-racing-gp-da-tailandia-treino-livre-3_l_m.jpg",
+      "show_name": "GP da Tailândia - Classificação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_motorcycle-racing-gp-da-tailandia-classificac-o_l_m.jpg",
       "show_category": "Moto GP",
-      "start_time": "08:55",
-      "end_time": "09:50",
-      "episode_description": "Primeira sessão de treinos para a etapa no Circuito Internacional de Chang, na Tailândia."
-    },
-    {
-      "show_name": "Momento ESPN",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_documentary-momento-espn_l_m.jpg",
-      "show_category": "",
-      "start_time": "09:50",
-      "end_time": "10:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Show da Rodada do Inglês",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-do-ingles_l_m.jpg",
-      "show_category": "",
-      "start_time": "10:00",
-      "end_time": "10:30",
-      "episode_description": "O programa traz todos os pormenores da rodada do campeonato inglês com as pontuações dos clubes, gols e lances mais bonitos."
-    },
-    {
-      "show_name": "Show da Rodada da EFL",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-da-efl_l_m.jpg",
-      "show_category": "",
-      "start_time": "10:30",
-      "end_time": "11:00",
-      "episode_description": "Os destaques das partidas da EFL Championship, segunda divisão de futebol masculino da Inglaterra."
-    },
-    {
-      "show_name": "Tolima x Deportivo Táchira",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-tolima-x-deportivo-tachira_l_m.jpg",
-      "show_category": "Copa Libertadores da América",
-      "start_time": "11:00",
-      "end_time": "13:00",
-      "episode_description": "Todas as emoções da principal competição de futebol masculino disputada entre clubes da América do Sul, e que garante ao campeão vaga no Mundial de Clubes da FIFA."
-    },
-    {
-      "show_name": "Flamengo x Lanús",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-flamengo-x-lanus_l_m.jpg",
-      "show_category": "Recopa Sul-Americana",
-      "start_time": "13:00",
-      "end_time": "15:00",
-      "episode_description": "Os atuais campeões da Copa Libertadores de futebol masculino enfrentam os vencedores da Copa Sul-Americana em duelos de ida e volta, valendo mais um título internacional."
+      "start_time": "00:45",
+      "end_time": "01:30",
+      "episode_description": "Disputa do grid de largada. Do Circuito Internacional de Chang, em Buriram, Tailândia."
     },
     {
       "show_name": "F1: The Inside Line",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_auto-racing-f1-the-inside-line_l_m.jpg",
       "show_category": "",
-      "start_time": "15:00",
-      "end_time": "15:30",
+      "start_time": "01:30",
+      "end_time": "02:00",
       "episode_description": "Veja a cobertura completa da Fórmula 1, a maior e mais badalada categoria do automobilismo mundial. Acompanhe as principais notícias da semana, os bastidores, entrevistas exclusivas e reportagens especiais."
-    },
-    {
-      "show_name": "Momento ESPN",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_documentary-momento-espn_l_m.jpg",
-      "show_category": "",
-      "start_time": "15:30",
-      "end_time": "15:45",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Campeonato Português",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-campeonato-portugues-1_l_m.jpg",
-      "show_category": "Campeonato Português",
-      "start_time": "15:45",
-      "end_time": "17:45",
-      "episode_description": "Todas as emoções da principal competição de futebol masculino entre clubes de Portugal."
-    },
-    {
-      "show_name": "Momento ESPN",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_documentary-momento-espn_l_m.jpg",
-      "show_category": "",
-      "start_time": "17:45",
-      "end_time": "18:00",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Bola da Vez",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_bola-da-vez_l_m.jpg",
-      "show_category": "Sports talk",
-      "start_time": "18:00",
-      "end_time": "19:00",
-      "episode_description": "Grandes personalidades do esporte nacional e internacional são colocadas no \"paredão\" e respondem às perguntas de uma bancada de entrevistadores formada por jornalistas, ex-atletas ou especialistas em geral."
     },
     {
       "show_name": "Premier League Stories",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-premier-league-stories_l_m.jpg",
       "show_category": "",
-      "start_time": "19:00",
-      "end_time": "19:30",
+      "start_time": "02:00",
+      "end_time": "02:30",
       "episode_description": "Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês."
-    },
-    {
-      "show_name": "Inside Serie A",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-inside-serie-a_l_m.jpg",
-      "show_category": "",
-      "start_time": "19:30",
-      "end_time": "20:00",
-      "episode_description": "Uma previsão sobre os próximos jogos do Campeonato Italiano."
-    },
-    {
-      "show_name": "Botafogo x Nacional Potosí",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-botafogo-x-nacional-potosi_l_m.jpg",
-      "show_category": "Copa Libertadores da América",
-      "start_time": "20:00",
-      "end_time": "22:00",
-      "episode_description": "Todas as emoções da principal competição de futebol masculino disputada entre clubes da América do Sul, e que garante ao campeão vaga no Mundial de Clubes da FIFA."
     },
     {
       "show_name": "Momento ESPN",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_documentary-momento-espn_l_m.jpg",
       "show_category": "",
-      "start_time": "22:00",
-      "end_time": "22:10",
+      "start_time": "02:30",
+      "end_time": "02:40",
       "episode_description": ""
     },
     {
-      "show_name": "GP da Tailândia - Treino Livre",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_motorcycle-racing-gp-da-tailandia-treino-livre-2_l_m.jpg",
-      "show_category": "Moto 2",
-      "start_time": "22:10",
-      "end_time": "23:05",
-      "episode_description": "Primeira sessão de treinos para a etapa no Circuito Internacional de Chang, na Tailândia."
+      "show_name": "GP da Tailândia - Classificação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_motorcycle-racing-gp-da-tailandia-classificac-o-1_l_m.jpg",
+      "show_category": "Moto 3",
+      "start_time": "02:40",
+      "end_time": "03:35",
+      "episode_description": "Disputa do grid de largada. Do Circuito Internacional de Chang, em Buriram, Tailândia."
     },
     {
-      "show_name": "GP da Tailândia - Treino Livre",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_motorcycle-racing-gp-da-tailandia-treino-livre-3_l_m.jpg",
+      "show_name": "GP da Tailândia - Classificação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_motorcycle-racing-gp-da-tailandia-classificac-o-2_l_m.jpg",
+      "show_category": "Moto 2",
+      "start_time": "03:35",
+      "end_time": "04:30",
+      "episode_description": "Disputa do grid de largada. Do Circuito Internacional de Chang, em Buriram, Tailândia."
+    },
+    {
+      "show_name": "GP da Tailândia - Sprint",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_motorcycle-racing-gp-da-tailandia-sprint_l_m.jpg",
       "show_category": "Moto GP",
-      "start_time": "23:05",
+      "start_time": "04:30",
+      "end_time": "06:00",
+      "episode_description": "Disputa da corrida sprint. Do Circuito Internacional de Chang, em Buriram, Tailândia."
+    },
+    {
+      "show_name": "Show da Rodada do Italiano",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-do-italiano_l_m.jpg",
+      "show_category": "",
+      "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": "Os principais destaques das partidas da Lega Serie A, primeira divisão do Campeonato Italiano de futebol masculino, com os gols, melhores lances e situação da tabela de classificação após cada rodada disputada."
+    },
+    {
+      "show_name": "Premier League Stories",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-premier-league-stories_l_m.jpg",
+      "show_category": "",
+      "start_time": "06:30",
+      "end_time": "07:00",
+      "episode_description": "Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês."
+    },
+    {
+      "show_name": "Resenha ESPN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_resenha-espn_l_m.jpg",
+      "show_category": "Sports talk",
+      "start_time": "07:00",
+      "end_time": "08:00",
+      "episode_description": "Atletas da atualidade e do passado participam de bate-papo descontraído e cheio de boas histórias."
+    },
+    {
+      "show_name": "GP da Tailândia - Sprint",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_motorcycle-racing-gp-da-tailandia-sprint_l_m.jpg",
+      "show_category": "Moto GP",
+      "start_time": "08:00",
+      "end_time": "09:25",
+      "episode_description": "Disputa da corrida sprint. Do Circuito Internacional de Chang, em Buriram, Tailândia."
+    },
+    {
+      "show_name": "Leicester City x Norwich",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-leicester-city-x-norwich-1_l_m.jpg",
+      "show_category": "Campeonato Inglês - Segunda Divisão",
+      "start_time": "09:25",
+      "end_time": "11:30",
+      "episode_description": "Do King Power Stadium, em Leicester, Inglaterra."
+    },
+    {
+      "show_name": "SportsCenter Abre o Jogo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sports-talk-sportscenter-abre-o-jogo_l_m.jpg",
+      "show_category": "",
+      "start_time": "11:30",
+      "end_time": "11:50",
+      "episode_description": "Destaques e preparativos da partida válida pela maior liga de basquete profissional do mundo."
+    },
+    {
+      "show_name": "Burnley x Brentford",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-burnley-x-brentford_l_m.jpg",
+      "show_category": "Campeonato Inglês",
+      "start_time": "11:50",
+      "end_time": "13:55",
+      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
+    },
+    {
+      "show_name": "Galatasaray x Alanyaspor",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-galatasaray-x-alanyaspor_l_m.jpg",
+      "show_category": "Campeonato Turco de Futebol",
+      "start_time": "13:55",
+      "end_time": "16:00",
+      "episode_description": "Todas as emoções da Süper Lig, a principal competição de futebol masculino entre clubes da Turquia."
+    },
+    {
+      "show_name": "GP da Tailândia - Classificação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_motorcycle-racing-gp-da-tailandia-classificac-o-2_l_m.jpg",
+      "show_category": "Moto 2",
+      "start_time": "16:00",
+      "end_time": "16:50",
+      "episode_description": "Disputa do grid de largada. Do Circuito Internacional de Chang, em Buriram, Tailândia."
+    },
+    {
+      "show_name": "Real Oviedo x Atlético de Madrid",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-real-oviedo-x-atletico-de-madrid-1_l_m.jpg",
+      "show_category": "Campeonato Espanhol",
+      "start_time": "16:50",
+      "end_time": "19:05",
+      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
+    },
+    {
+      "show_name": "Leeds United x Manchester City",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-leeds-united-x-manchester-city_l_m.jpg",
+      "show_category": "Campeonato Inglês",
+      "start_time": "19:05",
+      "end_time": "21:00",
+      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
+    },
+    {
+      "show_name": "Momento ESPN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_documentary-momento-espn_l_m.jpg",
+      "show_category": "",
+      "start_time": "21:00",
+      "end_time": "21:15",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Edward Vazquez x Crimardi Machuca",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_boxing-edward-vazquez-x-crimardi-machuca-1_l_m.jpg",
+      "show_category": "Boxe Internacional",
+      "start_time": "21:15",
       "end_time": "",
-      "episode_description": "Primeira sessão de treinos para a etapa no Circuito Internacional de Chang, na Tailândia."
+      "episode_description": "Pugilistas se encaram em ringues por todo o planeta nos principais combates da \"nobre arte\"."
     }
   ]
 }

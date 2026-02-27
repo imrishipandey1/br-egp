@@ -1,110 +1,126 @@
 {
   "channel": "Telecine Action",
-  "date": "26/02/2026",
+  "date": "27/02/2026",
   "schedule": [
+    {
+      "show_name": "Adrenalina",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_adrenalina-2006_l_m.jpg",
+      "show_category": "Action / 2006 /7.0",
+      "start_time": "00:40",
+      "end_time": "02:25",
+      "episode_description": "Chev Chelios, um matador de aluguel, acorda pela manhã com um telefonema lhe informando que foi envenenado e tem somente uma hora de vida, exceto se mantiver um alto nível de adrenalina em seu corpo. Correndo contra o tempo, ele faz de tudo para manter seus batimentos acelerados e decide partir atrás de vingança."
+    },
+    {
+      "show_name": "2 Coelhos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_2-coelhos-2012-1_l_m.jpg",
+      "show_category": "Action / 2012",
+      "start_time": "02:25",
+      "end_time": "04:15",
+      "episode_description": "Preso entre a criminalidade e o poder público corrupto, Edgar está cansado dessa vida e planeja fazer justiça com as próprias mãos. Ele executa um plano que coloca criminosos e corruptos em rota de colisão."
+    },
+    {
+      "show_name": "Queima de Arquivo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_queima-de-arquivo-1996_l_m.jpg",
+      "show_category": "Action / 1996 /6.0",
+      "start_time": "04:15",
+      "end_time": "04:15",
+      "episode_description": "Agente do governo especializado, John Kruger é encarregado de proteger uma testemunha-chave que sabe tudo sobre uma empresa de armas que pretende vender um fuzil revolucionário no mercado negro."
+    },
+    {
+      "show_name": "Queima de Arquivo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_queima-de-arquivo-1996_l_m.jpg",
+      "show_category": "Action / 1996 /6.0",
+      "start_time": "04:15",
+      "end_time": "06:15",
+      "episode_description": "Agente do governo especializado, John Kruger é encarregado de proteger uma testemunha-chave que sabe tudo sobre uma empresa de armas que pretende vender um fuzil revolucionário no mercado negro."
+    },
+    {
+      "show_name": "Passageiro 666",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_passageiro-666-2021_l_m.jpg",
+      "show_category": "Thriller / 2021",
+      "start_time": "06:15",
+      "end_time": "07:40",
+      "episode_description": "Uma médica com medo de avião precisa pegar um voo noturno em meio a uma terrível tempestade. Durante a viagem, a morte inexplicável de outros passageiros acorda seus traumas e ela tem dificuldade em distinguir a realidade e seus piores pesadelos."
+    },
     {
       "show_name": "Assassino a Preço Fixo",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_assassino-a-preco-fixo-2011-1_l_m.jpg",
       "show_category": "Action / 2011",
-      "start_time": "00:10",
-      "end_time": "01:50",
+      "start_time": "07:40",
+      "end_time": "09:20",
       "episode_description": "Arthur Bishop, um talentoso assassino de elite, recebe a missão de matar seu melhor amigo, Harry McKenna. Após cumpri-la, Arthur reencontra Steve, o filho de Harry. Desejando vingança, Steve recebe a ajuda de Arthur para se tornar um assassino."
+    },
+    {
+      "show_name": "Palhaços Infernais",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palhacos-infernais-2016_l_m.jpg",
+      "show_category": "Horror / 2016",
+      "start_time": "09:20",
+      "end_time": "10:55",
+      "episode_description": "Durante uma viagem, um grupo de amigos se encontra em uma cidade deserta. Quando cai a noite, os visitantes são seguidos por palhaços psicopatas."
+    },
+    {
+      "show_name": "Além das Profundezas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alem-das-profundezas-2020_l_m.jpg",
+      "show_category": "Action / 2020",
+      "start_time": "10:55",
+      "end_time": "12:25",
+      "episode_description": "Viagem de mergulho de duas irmãs se transforma em uma corrida contra o tempo após um acidente. Enquanto uma está presa no fundo do mar, a outra faz de tudo para salvá-la antes que o oxigênio acabe."
+    },
+    {
+      "show_name": "Os Mercenários",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-mercenarios-2010-1_l_m.jpg",
+      "show_category": "Action / 2010",
+      "start_time": "12:25",
+      "end_time": "14:15",
+      "episode_description": "Um grupo de mercenários, liderado por Barney Ross e composto de seus homens de confiança, aceita uma missão que parece rotineira: uma operação secreta, a mando da Igreja, para invadir o país sul-americano de Vilena e derrubar seu ditador. Não demora muito para o grupo perceber que a missão é uma operação suicida. Presos em uma perigosa teia de traições, mas sabendo que um inocente está em perigo, Barney e seus homens decidem finalizar o trabalho."
+    },
+    {
+      "show_name": "MIB: Homens de Preto - Internacional",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mib-homens-de-preto-internacional-2019_l_m.jpg",
+      "show_category": "Science fiction / 2019",
+      "start_time": "14:15",
+      "end_time": "16:15",
+      "episode_description": "Os agentes H e M usam armas de alta tecnologia para combaterem alienígenas que podem assumir a forma de qualquer ser humano."
+    },
+    {
+      "show_name": "O Demolidor",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-demolidor-1993-1_l_m.jpg",
+      "show_category": "Science fiction / 1993",
+      "start_time": "16:15",
+      "end_time": "18:20",
+      "episode_description": "O policial John Spartan e o violento bandido Simon Phoenix são condenados a um encarceramento congelado conhecido como CryoPrison. Quando Spartan é finalmente descongelado 36 anos depois, já é 2032, e Los Angeles é agora uma utopia pacifista chamada San Angeles. Porém, com Phoenix novamente à solta, Spartan deve colaborar com uma policial do futuro, Lenina, para apreender o assassino."
+    },
+    {
+      "show_name": "Carcereiros - O Filme",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_carcereiros-o-filme-2019_l_m.jpg",
+      "show_category": "Drama / 2019",
+      "start_time": "18:20",
+      "end_time": "20:20",
+      "episode_description": "Adriano é um carcereiro íntegro e avesso à violência, que tenta garantir a tranquilidade no presídio mesmo sofrendo com grandes dilemas familiares. A chegada de Abdel, um perigoso terrorista internacional, aumenta ainda mais a tensão no presídio, que já vive dias de terror por conta da luta entre duas facções criminosas. Agora, Adriano precisa enfrentar uma rebelião além de controlar todos os passos de Abdel."
     },
     {
       "show_name": "Anaconda 3",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_anaconda-3-2008_l_m.jpg",
       "show_category": "Horror / 2008",
-      "start_time": "01:50",
-      "end_time": "03:30",
+      "start_time": "20:20",
+      "end_time": "22:00",
       "episode_description": "Uma cientista trabalha no laboratório subterrâneo de um milionário realizando experiências de cruzamento entre duas espécies de cobras predatórias gigantes. No meio dos experimentos, algo sai errado e as criaturas conseguem fugir, começando a traçar uma rota de medo e destruição. Para reverter a situação, a pesquisadora pede ajuda a um mercenário."
     },
     {
-      "show_name": "Calor Mortal",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_calor-mortal-2022_l_m.jpg",
-      "show_category": "Action / 2022",
-      "start_time": "03:30",
-      "end_time": "05:05",
-      "episode_description": "Uma ex-agente da KGB que virou chef usa suas habilidades letais para salvar seu restaurante de um sindicato do crime que quer cobrar uma dívida de seu marido."
-    },
-    {
-      "show_name": "Adrenalina",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_adrenalina-2006_l_m.jpg",
-      "show_category": "Action / 2006 /7.0",
-      "start_time": "05:05",
-      "end_time": "05:05",
-      "episode_description": "Chev Chelios, um matador de aluguel, acorda pela manhã com um telefonema lhe informando que foi envenenado e tem somente uma hora de vida, exceto se mantiver um alto nível de adrenalina em seu corpo. Correndo contra o tempo, ele faz de tudo para manter seus batimentos acelerados e decide partir atrás de vingança."
-    },
-    {
-      "show_name": "Adrenalina",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_adrenalina-2006_l_m.jpg",
-      "show_category": "Action / 2006 /7.0",
-      "start_time": "05:05",
-      "end_time": "06:50",
-      "episode_description": "Chev Chelios, um matador de aluguel, acorda pela manhã com um telefonema lhe informando que foi envenenado e tem somente uma hora de vida, exceto se mantiver um alto nível de adrenalina em seu corpo. Correndo contra o tempo, ele faz de tudo para manter seus batimentos acelerados e decide partir atrás de vingança."
-    },
-    {
-      "show_name": "Os Imperdoáveis",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-imperdoaveis-1992-1_l_m.jpg",
-      "show_category": "Western / 1992",
-      "start_time": "06:50",
-      "end_time": "09:10",
-      "episode_description": "Quando a prostituta Delilah Fitzgerald é desfigurada e morta, suas companheiras de bordel oferecem uma recompensa para quem encontrar os assassinos. O xerife local não gosta nada da ideia, já que não permite vigilantismo em sua cidade. Dois grupos de pistoleiros, um liderado pelo ex-bandido William Munny e o outro pelo inglês Bob, aparecem para receber o prêmio, entrando em conflito entre si e com o próprio xerife."
-    },
-    {
-      "show_name": "Três Ladrões e um Bebê",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_tres-ladr-es-e-um-bebe-2006_l_m.jpg",
-      "show_category": "Action / 2006 /6.7",
-      "start_time": "09:10",
-      "end_time": "11:30",
-      "episode_description": "O compulsivo jogador Slipper vê o sequestro do neto de um magnata a salvação de suas dívidas. Quando, junto com seu senhorio e o oportunista Octopus, sequestra BB, sem saber, frustram os planos do crime organizado, que também está atrás da criança e Slipper resolve transformar o refém em seu protegido. Encurralados pelos policiais e perseguidos por gângsters perigosos, este trio embarca numa arrepiante, perigosa e delirantemente engraçada fuga para colocar BB de volta em seu berço são e salvo."
-    },
-    {
-      "show_name": "Chamas da Vingança",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_chamas-da-vinganca-2004-1_l_m.jpg",
-      "show_category": "Crime drama / 2004",
-      "start_time": "11:30",
-      "end_time": "14:05",
-      "episode_description": "Uma grande onda de sequestros e criminalidade varre a Cidade do México e muitos dos seus cidadãos mais ricos acabam contratando guarda-costas para seus filhos. John Creasy é um ex-agente da CIA. Sem emprego e bebendo mais do que deveria, ele aceita a proposta de proteger a pequena Pita, uma garota de nove anos, filha de um industrial. O sequestro de Pita faz com que ele, mesmo ferido, parta para resgatá-la a qualquer custo."
-    },
-    {
-      "show_name": "Batman Begins",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_batman-begins-2005_l_m.jpg",
-      "show_category": "Action / 2005 /8.3",
-      "start_time": "14:05",
-      "end_time": "16:30",
-      "episode_description": "O jovem Bruce Wayne viaja para o Oriente e recebe treinamento em artes marciais do mestre Henri Ducard, um membro da misteriosa Liga das Sombras. Quando Ducard revela que a verdadeira proposta da Liga é a destruição completa de Gotham City, Wayne retorna à sua cidade natal com o intuito de livrá-la de criminosos e assassinos. Bruce assume a persona de Batman, o Cavaleiro das Trevas, e conta com a ajuda do mordomo Alfred e do especialista Lucius Fox."
-    },
-    {
-      "show_name": "O Atirador 4",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-atirador-4-2011_l_m.jpg",
-      "show_category": "Action / 2011 /5.3",
-      "start_time": "16:30",
-      "end_time": "18:10",
-      "episode_description": "O militar americano Brandon Beckett é filho do renomado sargento e atirador Thomas Beckett. Ele é enviado a uma missão no Congo, que está em guerra, para resgatar um fazendeiro. Ao chegar, Brandon e sua equipe caem em uma emboscada, onde ele é ferido e seu esquadrão é dizimado. Só lhe resta agora lutar pela vida, ameaçada por um misterioso atirador, e buscar vingança."
-    },
-    {
-      "show_name": "Amado",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_amado-2022_l_m.jpg",
-      "show_category": "Action / 2022",
-      "start_time": "18:10",
-      "end_time": "19:55",
-      "episode_description": "Amado é um policial militar honesto que vê crescer a corrupção entre os seus colegas. Visto como herói por uns e fora da lei por outros, acaba isolado e decide resolver tudo por conta própria, prendendo, julgando e executando os criminosos."
-    },
-    {
-      "show_name": "Rota de Fuga",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_rota-de-fuga-2013-1_l_m.jpg",
-      "show_category": "Action / 2013",
-      "start_time": "19:55",
-      "end_time": "22:00",
-      "episode_description": "Ray Breslin é a maior autoridade que existe quando se trata de segurança. Após analisar diversas prisões de segurança máxima, ele desenvolve um modelo à prova de fugas. No entanto, Ray acaba sendo preso, mas é enviado justamente para a prisão que ele mesmo criou. Lá, ele precisa encontrar uma brecha não imaginada até então, que possa permitir sua fuga."
-    },
-    {
-      "show_name": "The Last Samurai",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-last-samurai-2003_l_m.jpg",
-      "show_category": "Adventure / 2003 /7.8",
+      "show_name": "O Alvo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-alvo-1993_l_m.jpg",
+      "show_category": "Action / 1993 /6.0",
       "start_time": "22:00",
-      "end_time": "00:40",
-      "episode_description": "O soldado Nathan Algren deixa os Estados Unidos rumo ao Japão feudal. Na tentativa de derrotar um comandante, é capturado. Algren sabe o destino de prisioneiros inimigos, mas fica surpreso ao ser poupado e se sente atraído pelo estilo de vida dos samurais, entre outras coisas."
+      "end_time": "23:50",
+      "episode_description": "Um estivador ajuda uma advogada a encontrar seu pai desaparecido. Durante a investigação, eles descobrem um grupo de sádicos que se diverte caçando mendigos e ex-combatentes de guerra em um jogo mortal."
+    },
+    {
+      "show_name": "Corrente do Mal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_corrente-do-mal-2014_l_m.jpg",
+      "show_category": "Horror / 2014",
+      "start_time": "23:50",
+      "end_time": "01:40",
+      "episode_description": "A jovem e despreocupada Jay leva uma vida tranquila entre escola, paqueras e passeios no lago. No entanto, após uma transa, o garoto com quem passou a noite lhe explica que ele carregava no corpo uma força maligna, transmissível às pessoas apenas pelo sexo. Agora, enquanto vive o dilema de carregar a sina ou passá-la adiante, a jovem Jay começa a ser perseguida por figuras estranhas que tentam matá-la e que não são vistas por mais ninguém."
     }
   ]
 }

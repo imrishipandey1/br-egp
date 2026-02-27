@@ -1,52 +1,44 @@
 {
   "channel": "TV Escola",
-  "date": "26/02/2026",
+  "date": "27/02/2026",
   "schedule": [
     {
-      "show_name": "Caminhos da Reportagem",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_caminhos-da-reportagem-1_l_m.jpg",
-      "show_category": "Documentary",
+      "show_name": "Vida de Merendeira",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vida-de-merendeira_l_m.jpg",
+      "show_category": "Reality",
       "start_time": "00:00",
-      "end_time": "00:30",
-      "episode_description": "Um programa que oferece uma visão diferente, instigante e complexa de grandes histórias, por meio de viagens feitas pelo país e pelo mundo."
-    },
-    {
-      "show_name": "Inclusão para Valer",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_inclus-o-para-valer_l_m.jpg",
-      "show_category": "Educational",
-      "start_time": "00:30",
       "end_time": "01:00",
-      "episode_description": "Uma visão abrangente e educativa sobre os desafios e avanços na inclusão de pessoas com deficiência, promovendo a construção de uma sociedade mais justa e inclusiva."
+      "episode_description": "Merendeiras de escolas cozinham receitas deliciosas e mostram como alimentam suas comunidades."
     },
     {
-      "show_name": "Darcy, um Brasileiro",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_darcy-um-brasileiro_l_m.jpg",
-      "show_category": "Special",
+      "show_name": "Filhos da Liberdade",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_filhos-da-liberdade-1_l_m.jpg",
+      "show_category": "Drama",
       "start_time": "01:00",
-      "end_time": "02:45",
-      "episode_description": "Conheça Darcy Ribeiro, um homem de causas, visto por ele mesmo e pela ótica de amigos e colaboradores. Sua história, suas inquietações e sua busca por soluções para o Brasil."
+      "end_time": "01:30",
+      "episode_description": "Amara retorna ao quilombo onde nasceu e perde tragicamente sua filha. A partir deste trauma, ela passa a viajar misteriosamente pelo tempo."
     },
     {
-      "show_name": "Mulheres Cientistas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
-      "show_category": "Documentary",
-      "start_time": "02:45",
-      "end_time": "03:00",
-      "episode_description": "A participação feminina em pesquisas científicas e tecnológicas tem sido incentivadas pelo Ministério da Saúde, com a Secretaria de Ciência, Tecnologia, Inovação e Complexo Econômico-Industrial da Saúde (SECTICS)."
+      "show_name": "Olhares do Norte - Pará",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_olhares-do-norte-para_l_m.jpg",
+      "show_category": "Public affairs",
+      "start_time": "01:30",
+      "end_time": "02:00",
+      "episode_description": "Treze olhares que definiram e trouxeram destaque nacional e internacional à fotografia paraense. A vida e a obra de fotógrafos de diferentes gerações, que compartilham suas experiências de vida, aprendizados e processos criativos."
     },
     {
-      "show_name": "Game Dev Brasil",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_game-dev-brasil_l_m.jpg",
-      "show_category": "Documentary",
-      "start_time": "03:00",
-      "end_time": "03:30",
-      "episode_description": "Todas as novidades e também os bastidores sobre o desenvolvimento de jogos no Brasil."
-    },
-    {
-      "show_name": "Estúdio Ciência",
-      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_name": "Escola que Protege",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_escola-que-protege_l_m.jpg",
       "show_category": "",
-      "start_time": "03:30",
+      "start_time": "02:00",
+      "end_time": "03:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Programa Humanidades",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_programa-humanidades_l_m.jpg",
+      "show_category": "",
+      "start_time": "03:00",
       "end_time": "04:00",
       "episode_description": ""
     },
@@ -59,12 +51,20 @@
       "episode_description": "Acompanhe as aulas produzidas pela Secretaria de Estado de Educação de Minas Gerais."
     },
     {
-      "show_name": "Trilha de Letras",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_trilha-de-letras_l_m.jpg",
-      "show_category": "Interview",
+      "show_name": "Português Daqui, Português de Lá",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_portugues-daqui-portugues-de-la_l_m.jpg",
+      "show_category": "Educational",
       "start_time": "05:15",
+      "end_time": "05:30",
+      "episode_description": "Um olhar para as regras, a história e a beleza da língua portuguesa."
+    },
+    {
+      "show_name": "Português Daqui, Português de Lá",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_portugues-daqui-portugues-de-la_l_m.jpg",
+      "show_category": "Educational",
+      "start_time": "05:30",
       "end_time": "05:45",
-      "episode_description": "A escritora Ana Maria Gonçalves, autora do aclamado \"Um Defeito de Cor\", discute o processo de pesquisa e escrita deste clássico da literatura brasileira, vencedor do Prêmio Casa de las Américas."
+      "episode_description": "Um olhar para as regras, a história e a beleza da língua portuguesa."
     },
     {
       "show_name": "Cidades em Crise",
@@ -84,19 +84,19 @@
     },
     {
       "show_name": "Conexões do Brasil",
-      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_conex-es-do-brasil_l_m.jpg",
       "show_category": "Public affairs",
       "start_time": "05:55",
       "end_time": "06:00",
       "episode_description": "Interprogramas que apresentam, de forma clara e acessível, iniciativas e políticas públicas do governo federal."
     },
     {
-      "show_name": "Vida de Merendeira",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_vida-de-merendeira_l_m.jpg",
-      "show_category": "Reality",
+      "show_name": "Escola que Protege",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_escola-que-protege_l_m.jpg",
+      "show_category": "",
       "start_time": "06:00",
       "end_time": "07:00",
-      "episode_description": "Merendeiras de escolas cozinham receitas deliciosas e mostram como alimentam suas comunidades."
+      "episode_description": ""
     },
     {
       "show_name": "Palaloos",
@@ -160,7 +160,7 @@
       "show_category": "Children",
       "start_time": "08:30",
       "end_time": "09:00",
-      "episode_description": "Crianças de São Paulo revelam suas brincadeiras favoritas. Invenções criativas, manobras em bicicletas e skates, brincadeiras na rua e nos quintais, fazem parte do cotidiano dessas crianças que moram em espaços reduzidos e têm muita imaginação."
+      "episode_description": "Na periferia paulistana, as pipas ganham céu e oferecem a imensidão para as crianças. Inventar seus jogos e brinquedos, preparar bolos de terra ou se tornar um exímio escalador de muros. Tudo isso é comum para as crianças da cidade."
     },
     {
       "show_name": "Manual de Sobrevivência da Literatura Brasileira",
@@ -179,20 +179,12 @@
       "episode_description": "Acompanhe as aulas produzidas pela Secretaria de Estado de Educação de Minas Gerais."
     },
     {
-      "show_name": "Português Daqui, Português de Lá",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_portugues-daqui-portugues-de-la_l_m.jpg",
-      "show_category": "Educational",
+      "show_name": "Trilha de Letras",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_trilha-de-letras_l_m.jpg",
+      "show_category": "Interview",
       "start_time": "10:45",
-      "end_time": "11:00",
-      "episode_description": "Um olhar para as regras, a história e a beleza da língua portuguesa."
-    },
-    {
-      "show_name": "Português Daqui, Português de Lá",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_portugues-daqui-portugues-de-la_l_m.jpg",
-      "show_category": "Educational",
-      "start_time": "11:00",
       "end_time": "11:15",
-      "episode_description": "Um olhar para as regras, a história e a beleza da língua portuguesa."
+      "episode_description": "A escritora Ana Maria Gonçalves, autora do aclamado \"Um Defeito de Cor\", discute o processo de pesquisa e escrita deste clássico da literatura brasileira, vencedor do Prêmio Casa de las Américas."
     },
     {
       "show_name": "Cidades em Crise",
@@ -212,27 +204,51 @@
     },
     {
       "show_name": "Conexões do Brasil",
-      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_conex-es-do-brasil_l_m.jpg",
       "show_category": "Public affairs",
       "start_time": "11:25",
       "end_time": "11:30",
       "episode_description": "Interprogramas que apresentam, de forma clara e acessível, iniciativas e políticas públicas do governo federal."
     },
     {
-      "show_name": "Programa Humanidades",
-      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_name": "Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ac-o_l_m.jpg",
       "show_category": "",
       "start_time": "11:30",
-      "end_time": "12:30",
+      "end_time": "11:40",
       "episode_description": ""
     },
     {
-      "show_name": "Vida de Merendeira",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_vida-de-merendeira_l_m.jpg",
-      "show_category": "Reality",
+      "show_name": "Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ac-o_l_m.jpg",
+      "show_category": "",
+      "start_time": "11:40",
+      "end_time": "11:50",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ac-o_l_m.jpg",
+      "show_category": "",
+      "start_time": "11:50",
+      "end_time": "12:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "UniVERciência",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_univerciencia_l_m.jpg",
+      "show_category": "Educational",
+      "start_time": "12:00",
+      "end_time": "12:30",
+      "episode_description": "O programa promove a popularização e difusão da ciência em seus diversos aspectos, para fortalecer a relação entre as universidades públicas e a sociedade."
+    },
+    {
+      "show_name": "Escola que Protege",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_escola-que-protege_l_m.jpg",
+      "show_category": "",
       "start_time": "12:30",
       "end_time": "13:30",
-      "episode_description": "Merendeiras de escolas cozinham receitas deliciosas e mostram como alimentam suas comunidades."
+      "episode_description": ""
     },
     {
       "show_name": "Palaloos",
@@ -288,7 +304,7 @@
       "show_category": "Children",
       "start_time": "14:45",
       "end_time": "15:15",
-      "episode_description": "Crianças de São Paulo revelam suas brincadeiras favoritas. Invenções criativas, manobras em bicicletas e skates, brincadeiras na rua e nos quintais, fazem parte do cotidiano dessas crianças que moram em espaços reduzidos e têm muita imaginação."
+      "episode_description": "Na periferia paulistana, as pipas ganham céu e oferecem a imensidão para as crianças. Inventar seus jogos e brinquedos, preparar bolos de terra ou se tornar um exímio escalador de muros. Tudo isso é comum para as crianças da cidade."
     },
     {
       "show_name": "Manual de Sobrevivência da Literatura Brasileira",
@@ -316,7 +332,7 @@
     },
     {
       "show_name": "Conexões do Brasil",
-      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_conex-es-do-brasil_l_m.jpg",
       "show_category": "Public affairs",
       "start_time": "15:55",
       "end_time": "16:00",
@@ -331,20 +347,12 @@
       "episode_description": "Acompanhe as aulas produzidas pela Secretaria de Estado de Educação de Minas Gerais."
     },
     {
-      "show_name": "Português Daqui, Português de Lá",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_portugues-daqui-portugues-de-la_l_m.jpg",
-      "show_category": "Educational",
+      "show_name": "Trilha de Letras",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_trilha-de-letras_l_m.jpg",
+      "show_category": "Interview",
       "start_time": "17:15",
-      "end_time": "17:30",
-      "episode_description": "Um olhar para as regras, a história e a beleza da língua portuguesa."
-    },
-    {
-      "show_name": "Português Daqui, Português de Lá",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_portugues-daqui-portugues-de-la_l_m.jpg",
-      "show_category": "Educational",
-      "start_time": "17:30",
       "end_time": "17:45",
-      "episode_description": "Um olhar para as regras, a história e a beleza da língua portuguesa."
+      "episode_description": "A escritora Ana Maria Gonçalves, autora do aclamado \"Um Defeito de Cor\", discute o processo de pesquisa e escrita deste clássico da literatura brasileira, vencedor do Prêmio Casa de las Américas."
     },
     {
       "show_name": "Cidades em Crise",
@@ -364,19 +372,43 @@
     },
     {
       "show_name": "Conexões do Brasil",
-      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_conex-es-do-brasil_l_m.jpg",
       "show_category": "Public affairs",
       "start_time": "17:55",
       "end_time": "18:00",
       "episode_description": "Interprogramas que apresentam, de forma clara e acessível, iniciativas e políticas públicas do governo federal."
     },
     {
-      "show_name": "Programa Humanidades",
-      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_name": "Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ac-o_l_m.jpg",
       "show_category": "",
       "start_time": "18:00",
-      "end_time": "19:00",
+      "end_time": "18:10",
       "episode_description": ""
+    },
+    {
+      "show_name": "Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ac-o_l_m.jpg",
+      "show_category": "",
+      "start_time": "18:10",
+      "end_time": "18:20",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ac-o_l_m.jpg",
+      "show_category": "",
+      "start_time": "18:20",
+      "end_time": "18:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "UniVERciência",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_univerciencia_l_m.jpg",
+      "show_category": "Educational",
+      "start_time": "18:30",
+      "end_time": "19:00",
+      "episode_description": "O programa promove a popularização e difusão da ciência em seus diversos aspectos, para fortalecer a relação entre as universidades públicas e a sociedade."
     },
     {
       "show_name": "Caminhos da Reportagem",
@@ -387,52 +419,68 @@
       "episode_description": "Um programa que oferece uma visão diferente, instigante e complexa de grandes histórias, por meio de viagens feitas pelo país e pelo mundo."
     },
     {
-      "show_name": "Escola que Protege",
-      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
-      "show_category": "",
+      "show_name": "Estações",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_estac-es_l_m.jpg",
+      "show_category": "History",
       "start_time": "19:30",
-      "end_time": "20:30",
+      "end_time": "20:00",
+      "episode_description": "O programa apresenta aspectos históricos, patrimoniais, culturais e memórias de personagens que trabalharam ou viveram no entorno das estações ferroviárias, além de refletir sobre o futuro e a importância desses locais."
+    },
+    {
+      "show_name": "Escola que Protege",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_escola-que-protege_l_m.jpg",
+      "show_category": "",
+      "start_time": "20:00",
+      "end_time": "21:00",
       "episode_description": ""
     },
     {
-      "show_name": "Vida de Merendeira",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_vida-de-merendeira_l_m.jpg",
-      "show_category": "Reality",
-      "start_time": "20:30",
+      "show_name": "Meu Pedaço do Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_meu-pedaco-do-brasil_l_m.jpg",
+      "show_category": "Travel",
+      "start_time": "21:00",
       "end_time": "21:30",
-      "episode_description": "Merendeiras de escolas cozinham receitas deliciosas e mostram como alimentam suas comunidades."
+      "episode_description": "Com a presença do ator e cantor Serjão Loroza, um olhar sobre os bastidores da vida noturna e a diversidade da Lapa, berço da boêmia carioca."
     },
     {
-      "show_name": "Faróis do Brasil",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_farois-do-brasil_l_m.jpg",
-      "show_category": "Art",
+      "show_name": "Nossos Biomas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_nossos-biomas_l_m.jpg",
+      "show_category": "Documentary",
       "start_time": "21:30",
       "end_time": "22:00",
-      "episode_description": "A Ilha de Santana se localiza em meio a uma reserva de fauna e flora. Além disso, abriga o Farol de Macaé, com sua lanterna centenária, que tem um alcance luminoso de até 28 milhas náuticas."
+      "episode_description": "Série documental viaja aos biomas brasileiros e explora lugares como a Mata Atlântica, os Pampas, o Pantanal, a Caatinga, a Amazônia e o Cerrado."
+    },
+    {
+      "show_name": "Entre Longes",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_entre-longes_l_m.jpg",
+      "show_category": "Drama",
+      "start_time": "22:00",
+      "end_time": "22:30",
+      "episode_description": "Depois da Segunda Guerra, a enfermeira Rachel decide recomeçar sua vida em um lugar distante de todas as memórias do amor impossível que teve na Suíça. No Brasil, ela trabalha em um posto de saúde no município de Rosário Oeste, Mato Grosso."
     },
     {
       "show_name": "Filhos da Liberdade",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_filhos-da-liberdade-1_l_m.jpg",
       "show_category": "Drama",
-      "start_time": "22:00",
-      "end_time": "22:30",
+      "start_time": "22:30",
+      "end_time": "23:00",
       "episode_description": "Amara retorna ao quilombo onde nasceu e perde tragicamente sua filha. A partir deste trauma, ela passa a viajar misteriosamente pelo tempo."
     },
     {
-      "show_name": "Olhares do Norte - Pará",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_olhares-do-norte-para_l_m.jpg",
-      "show_category": "Public affairs",
-      "start_time": "22:30",
-      "end_time": "23:00",
-      "episode_description": "Treze olhares que definiram e trouxeram destaque nacional e internacional à fotografia paraense. A vida e a obra de fotógrafos de diferentes gerações, que compartilham suas experiências de vida, aprendizados e processos criativos."
+      "show_name": "Sementes da Educação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sementes-da-educac-o_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "23:00",
+      "end_time": "23:30",
+      "episode_description": "Mesmo com recursos escassos, algumas escolas conseguiram inovar os métodos educacionais."
     },
     {
-      "show_name": "Escola que Protege",
-      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
-      "show_category": "",
-      "start_time": "23:00",
+      "show_name": "Estações",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_estac-es_l_m.jpg",
+      "show_category": "History",
+      "start_time": "23:30",
       "end_time": "00:00",
-      "episode_description": ""
+      "episode_description": "O programa apresenta aspectos históricos, patrimoniais, culturais e memórias de personagens que trabalharam ou viveram no entorno das estações ferroviárias, além de refletir sobre o futuro e a importância desses locais."
     }
   ]
 }

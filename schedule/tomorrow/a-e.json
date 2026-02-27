@@ -1,350 +1,318 @@
 {
   "channel": "A&E",
-  "date": "27/02/2026",
+  "date": "28/02/2026",
   "schedule": [
-    {
-      "show_name": "Rota - A Polícia de Elite",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_rota-a-policia-de-elite-s01e08_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 8",
-      "start_time": "00:12",
-      "end_time": "00:28",
-      "episode_description": "Depois de alguns meses da prisão de um homem armado em uma comunidade na zona leste de São Paulo, a equipe do Tenente Guilherme Derrite retorna ao local em busca de outros criminosos. Exibição da operação e do funcionamento da estratégia policial da Rota."
-    },
-    {
-      "show_name": "Rota - A Polícia de Elite",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_rota-a-policia-de-elite-s01e19_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 19",
-      "start_time": "00:28",
-      "end_time": "00:45",
-      "episode_description": "Em um dia de trabalho, equipes da ROTA realizam cinco prisões por tráfico de drogas."
-    },
-    {
-      "show_name": "Linha de Combate",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_linha-de-combate-s01e01_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 1",
-      "start_time": "00:45",
-      "end_time": "02:00",
-      "episode_description": "Casas abandonadas são transformadas em pontos de drogas; no litoral, pai e filha enfrentam o mar revolto em um dos resgates mais dramáticos do ano."
-    },
-    {
-      "show_name": "Operação Policial",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_operac-o-policial-s03e10_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 10 - Mandados de Prisão",
-      "start_time": "02:00",
-      "end_time": "02:54",
-      "episode_description": "Assista operação da polícia no cumprimento de três mandados de prisão de indivíduos suspeitos de crime de extorsão."
-    },
-    {
-      "show_name": "Operação Policial",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_operac-o-policial-1_l_m.jpg",
-      "show_category": "Crime",
-      "start_time": "02:54",
-      "end_time": "03:46",
-      "episode_description": "O DEIC descobre um bingo clandestino e prende os responsáveis. O coronel Telhada, comandante da Rota, lidera duas operações da polícia para desarticular a venda de drogas. Em Operação Direção Segura, acompanhe uma blitz do bafômetro."
-    },
-    {
-      "show_name": "Me Diga Como Morri",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_me-diga-como-morri-s01e08-desaparecimento_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 8 - Desaparecimento",
-      "start_time": "03:46",
-      "end_time": "04:33",
-      "episode_description": "Um estudante universitário da Geórgia desaparece após seu turno na farmácia e polícia abre investigação sobre possível crime de ódio e sequestro. O Dr. Jamie Downs descobre diversas evidências que levam o caso em uma direção nova e surpreendente."
-    },
-    {
-      "show_name": "Acumuladores Compulsivos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos_l_m.jpg",
-      "show_category": "Reality",
-      "start_time": "04:33",
-      "end_time": "05:17",
-      "episode_description": "Depois da perda do seu marido e do seu emprego, Carmen desenvolveu um transtorno de acumulação e ficou viciada em compras. Melissa, a sua filha, teme que a sua vida esteja ficando fora de controle visto que ela parou de se comunicar com sua família."
-    },
-    {
-      "show_name": "Clientes em Guerra",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_clientes-em-guerra-s03e02-quente-demais_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 2 - Quente Demais",
-      "start_time": "05:17",
-      "end_time": "05:39",
-      "episode_description": "Em Orlando, na Flórida, um passageiro causa um escândalo no corredor após ser solicitado a deixar o avião. Uma caminhonete em um drive-thru foi repentinamente consumida pelas chamas."
-    },
-    {
-      "show_name": "Clientes em Guerra",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_clientes-em-guerra-s03e03-mergulho-na-lixeira_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 3 - Mergulho na Lixeira",
-      "start_time": "05:39",
-      "end_time": "06:00",
-      "episode_description": "Em Oakland, Califórnia, uma desavença entre dois funcionários culmina em uma dramática disputa pelos cabelos de um deles. Em um aeroporto do Texas, um passageiro se exalta após ter o embarque negado."
-    },
-    {
-      "show_name": "Casos Arquivados",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_casos-arquivados-s02e03-desaparecido-em-altoona_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 3 - Desaparecido em Altoona",
-      "start_time": "06:00",
-      "end_time": "06:45",
-      "episode_description": "Sherry Leighty desapareceu em 1999. Uma década depois, o caso arquivado retorna quando a irmã de Sherry lança uma campanha de mídia social para ajudar a resolver o mistério. Uma dica online revela a verdade assassina e um sinistro segredo de família."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s03e01_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 1",
-      "start_time": "06:45",
-      "end_time": "07:05",
-      "episode_description": "Um tiroteio na Carolina do Sul; uma perseguição a pé no Texas; um acidente de moto em Indiana."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s03e02_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 2",
-      "start_time": "07:05",
-      "end_time": "07:25",
-      "episode_description": "Um assalto em Illinois, uma operação policial contra drogas e armas na Carolina do Sul e um homem que saca uma arma na Flórida."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s03e03_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 3",
-      "start_time": "07:25",
-      "end_time": "07:45",
-      "episode_description": "Um homem tenta se esconder da polícia em Ohio; um homem perturbado em Illinois."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s03e04_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 4",
-      "start_time": "07:45",
-      "end_time": "08:05",
-      "episode_description": "Uma overdose de heroína na Carolina do Sul, um homem resistindo à prisão na Flórida e indivíduos suspeitos na Carolina do Sul."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s03e05_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 5",
-      "start_time": "08:05",
-      "end_time": "08:25",
-      "episode_description": "Tiros disparados no Arizona; distúrbio doméstico na Carolina do Sul; homem drogado em Connecticut."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s03e06_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 6",
-      "start_time": "08:25",
-      "end_time": "08:45",
-      "episode_description": "Uma mulher embriagada em Indiana; uma operação antidrogas na Flórida; tiros na Carolina do Sul."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s04e13_l_m.jpg",
-      "show_category": "Temporada 4 Episódio 13",
-      "start_time": "08:45",
-      "end_time": "09:05",
-      "episode_description": "Um homem tendo um colapso mental é abordado pela polícia na Flórida e não existem paradas de rotina no Texas."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s04e14_l_m.jpg",
-      "show_category": "Temporada 4 Episódio 14",
-      "start_time": "09:05",
-      "end_time": "09:25",
-      "episode_description": "Um homem defeca em um balde em Nevada, um suspeito fornece uma identidade falsa em Washington e um suspeito tenta fugir da prisão no Texas."
-    },
-    {
-      "show_name": "Casos Arquivados",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_casos-arquivados-s02e02-diabo-a-porta_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 2 - Diabo à Porta",
-      "start_time": "09:25",
-      "end_time": "10:15",
-      "episode_description": "A programadora de computador Lisa Valdez, de 36 anos, não aparece para trabalhar e seu gerente de apartamento a encontra brutalmente assassinada em seu pequeno estúdio. Seu corpo está crivado de feridas de faca, as paredes estão cobertas de sangue. As evidências mostram que o assassino cortou seus longos cabelos escuros, levando-os como um aparente troféu."
-    },
-    {
-      "show_name": "Casos Arquivados - Mortes no Pântano",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_casos-arquivados-mortes-no-pantano-s01e05-maldade-na-louisiana_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 5 - Maldade na Louisiana",
-      "start_time": "10:15",
-      "end_time": "11:05",
-      "episode_description": "Courtney Coco, 19 anos, é encontrada morta a 320 km de Alexandria, Louisiana, chocando a vizinhança. O assassinato permanece sem solução até que um ex-detetive, agora podcaster, consegue desvendar o caso e identificar o culpado."
-    },
-    {
-      "show_name": "Acumuladores Compulsivos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos-s16e05-mary-lynn_l_m.jpg",
-      "show_category": "Temporada 16 Episódio 5 - Mary Lynn",
-      "start_time": "11:05",
-      "end_time": "12:35",
-      "episode_description": "Depois de perder o emprego e os pais, Mary ficou aprisionada em seu transtorno compulsivo. Agora, ela enfrenta uma cirurgia no joelho, porém sua casa não é segura o suficiente para sua reabilitação. Com a ajuda da equipe, ela precisa limpar sua casa."
-    },
-    {
-      "show_name": "Acumuladores Compulsivos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos-s16e08-christine_l_m.jpg",
-      "show_category": "Temporada 16 Episódio 8 - Christine",
-      "start_time": "12:35",
-      "end_time": "14:05",
-      "episode_description": "Christine, mãe de duas adolescentes autistas, vive presa na bagunça. Coleciona diversas coisas do passado e acumula objetos para um futuro que nunca vai chegar. Agora, ela busca controlar seu transtorno e melhorar sua qualidade de vida."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s02e09_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 9",
-      "start_time": "14:05",
-      "end_time": "14:30",
-      "episode_description": "Um motorista bêbado no Arizona, uma arma roubada na Louisiana e um atropelamento em Oklahoma."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s02e10_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 10",
-      "start_time": "14:30",
-      "end_time": "14:55",
-      "episode_description": "Um homem foge da polícia na Carolina do Sul, de um motorista bêbado no Arizona e de um carro em chamas na Flórida."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s02e11_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 11",
-      "start_time": "14:55",
-      "end_time": "15:20",
-      "episode_description": "Uma perseguição em alta velocidade em Indiana, uma apreensão de armas e maconha em Oklahoma e uma invasão de domicílio na Carolina do Sul."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s02e12_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 12",
-      "start_time": "15:20",
-      "end_time": "15:45",
-      "episode_description": "Um veículo roubado no Arizona, uma invasão de domicílio na Carolina do Sul e uma perseguição de motocicleta em Maryland."
-    },
-    {
-      "show_name": "Me Diga Como Morri",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_me-diga-como-morri-s01e05-salto-para-a-morte_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 5 - Salto para a Morte",
-      "start_time": "15:45",
-      "end_time": "16:30",
-      "episode_description": "Uma testemunha vê o dono de uma boate pular do quinto andar de seu apartamento. O caso parece ser resolvido rapidamente, até que a autópsia da Dra. Jennifer Nara revela novas evidências muito chocantes."
-    },
-    {
-      "show_name": "Falco",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_falco-s03e03-ate-a-loucura_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 3 - Até a Loucura",
-      "start_time": "16:30",
-      "end_time": "17:25",
-      "episode_description": "Christine Malot é chamada no meio da noite pelo hospital: encontraram um doador de coração para o seu filho caçula, Florian. Mas sua esperança é destruída com a chegada de Falco e Chéron. O doador foi aparentemente assassinado."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s03e07_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 7",
-      "start_time": "17:25",
-      "end_time": "17:50",
-      "episode_description": "Uma perseguição em alta velocidade em Utah, um mandado de prisão no Texas e um resgate no Arizona."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s03e07_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 7",
-      "start_time": "17:50",
-      "end_time": "18:15",
-      "episode_description": "Uma perseguição em alta velocidade em Utah, um mandado de prisão no Texas e um resgate no Arizona."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s03e09_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 9",
-      "start_time": "18:15",
-      "end_time": "18:40",
-      "episode_description": "Um atropelamento e fuga em Indiana; uma perseguição de motocicleta em Washington; um motorista bêbado em Indiana."
-    },
     {
       "show_name": "Polícia em Ação",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s03e10_l_m.jpg",
       "show_category": "Temporada 3 Episódio 10",
-      "start_time": "18:40",
-      "end_time": "19:05",
+      "start_time": "00:10",
+      "end_time": "00:35",
       "episode_description": "Um carro roubado em Washington; uma operação antidrogas em Indiana; um assalto à mão armada na Carolina do Sul."
     },
     {
       "show_name": "Polícia em Ação",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s03e11_l_m.jpg",
       "show_category": "Temporada 3 Episódio 11",
-      "start_time": "19:05",
-      "end_time": "19:30",
+      "start_time": "00:35",
+      "end_time": "01:00",
       "episode_description": "Incidente doméstico em Illinois; perseguição de veículo em Indiana; uma busca por armas em Oklahoma."
     },
     {
       "show_name": "Polícia em Ação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s05e05_l_m.jpg",
-      "show_category": "Temporada 5 Episódio 5",
-      "start_time": "19:30",
-      "end_time": "19:55",
-      "episode_description": "Um olhar sem filtro para o trabalho operacional de departamentos de polícia por todos os EUA."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s03e12_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 12",
+      "start_time": "01:00",
+      "end_time": "01:25",
+      "episode_description": "Caminhão roubado em Indiana; heroína encontrada em Utah; homem vomita na Flórida."
     },
     {
       "show_name": "Polícia em Ação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s05e06_l_m.jpg",
-      "show_category": "Temporada 5 Episódio 6",
-      "start_time": "19:55",
-      "end_time": "20:20",
-      "episode_description": "Um olhar sem filtro para o trabalho operacional de departamentos de polícia por todos os EUA."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s04e17_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 17",
+      "start_time": "01:25",
+      "end_time": "01:50",
+      "episode_description": "Na Carolina do Sul, a polícia é vítima de uma brincadeira. No Texas, eles enfrentam um incêndio em casa e um homem precisa de ajuda na estrada."
     },
     {
       "show_name": "Polícia em Ação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s05e03_l_m.jpg",
-      "show_category": "Temporada 5 Episódio 3",
-      "start_time": "20:20",
-      "end_time": "20:45",
-      "episode_description": "Um olhar sem filtro para o trabalho operacional de departamentos de polícia por todos os EUA."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s05e04_l_m.jpg",
-      "show_category": "Temporada 5 Episódio 4",
-      "start_time": "20:45",
-      "end_time": "21:10",
-      "episode_description": "Um olhar sem filtro para o trabalho operacional de departamentos de polícia por todos os EUA."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s04e18_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 18",
+      "start_time": "01:50",
+      "end_time": "02:15",
+      "episode_description": "Uma perseguição de moto em Nevada, um atropelamento na Flórida e um carro problemático em Indiana."
     },
     {
       "show_name": "Polícia em Ação",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s04e19_l_m.jpg",
       "show_category": "Temporada 4 Episódio 19",
-      "start_time": "21:10",
-      "end_time": "21:35",
+      "start_time": "02:15",
+      "end_time": "02:40",
       "episode_description": "Policiais brutalizam homem no Texas, um membro marginalizado do proletariado é preso em Utah e policiais prendem um viciado em drogas em Indiana."
     },
     {
       "show_name": "Polícia em Ação",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s04e20_l_m.jpg",
       "show_category": "Temporada 4 Episódio 20",
-      "start_time": "21:35",
-      "end_time": "22:00",
+      "start_time": "02:40",
+      "end_time": "03:05",
       "episode_description": "Perseguição em rodovia em Nevada, vapers presos em Indiana e amantes abandonadas na Geórgia."
     },
     {
-      "show_name": "Falco",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_falco-s03e03-ate-a-loucura_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 3 - Até a Loucura",
+      "show_name": "Me Diga Como Morri",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_me-diga-como-morri-s01e05-salto-para-a-morte_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 5 - Salto para a Morte",
+      "start_time": "03:05",
+      "end_time": "03:49",
+      "episode_description": "Uma testemunha vê o dono de uma boate pular do quinto andar de seu apartamento. O caso parece ser resolvido rapidamente, até que a autópsia da Dra. Jennifer Nara revela novas evidências muito chocantes."
+    },
+    {
+      "show_name": "Acumuladores Compulsivos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "03:49",
+      "end_time": "04:41",
+      "episode_description": "Depois da perda do seu marido e do seu emprego, Carmen desenvolveu um transtorno de acumulação e ficou viciada em compras. Melissa, a sua filha, teme que a sua vida esteja ficando fora de controle visto que ela parou de se comunicar com sua família."
+    },
+    {
+      "show_name": "Acumuladores Compulsivos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "04:41",
+      "end_time": "05:18",
+      "episode_description": "Depois da perda do seu marido e do seu emprego, Carmen desenvolveu um transtorno de acumulação e ficou viciada em compras. Melissa, a sua filha, teme que a sua vida esteja ficando fora de controle visto que ela parou de se comunicar com sua família."
+    },
+    {
+      "show_name": "Clientes em Guerra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_clientes-em-guerra-s03e04-no-cruzeiro_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 4 - No Cruzeiro",
+      "start_time": "05:18",
+      "end_time": "05:39",
+      "episode_description": "Briga irrompe em um restaurante em Miami, Flórida, depois que funcionários atiraram copos em um cliente supostamente problemático. Homem é acusado de roubar os itens que acabara de comprar em uma loja de artigos para o lar porque não pegou o recibo."
+    },
+    {
+      "show_name": "Clientes em Guerra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_clientes-em-guerra-s03e05-briga-na-esteira-de-bagagem_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 5 - Briga na Esteira de Bagagem",
+      "start_time": "05:39",
+      "end_time": "06:00",
+      "episode_description": "Em Norman, Oklahoma, um entregador se empenha ao máximo para encontrar a encomenda extraviada de um cliente. Em Rye, Nova York, frequentadores de um parque de diversões ficam presos em um brinquedo com defeito que gira ao contrário."
+    },
+    {
+      "show_name": "Casos Arquivados",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_casos-arquivados-s01e05-uma-familia-amaldicoada_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 5 - Uma Família Amaldiçoada",
+      "start_time": "06:00",
+      "end_time": "06:50",
+      "episode_description": "Um menino desaparece e sua tia desconfia do pai da criança. Depois de confrontá-lo, ela também desaparece. A família da criança alerta a polícia sobre isso, mas as autoridades não conseguem conectá-lo ao crime e o caso fica sem solução."
+    },
+    {
+      "show_name": "Casos Arquivados",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_casos-arquivados-s01e01_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - Menina Desaparecida",
+      "start_time": "06:50",
+      "end_time": "07:40",
+      "episode_description": "Uma garota é sequestrada e assassinada quando voltava para casa depois de uma festa à fantasia no Halloween. Após dez anos, a obsessão de um detetive por detalhes, evidencia um erro que deixou o suspeito mais provável à solta todos estes anos."
+    },
+    {
+      "show_name": "Acumuladores Compulsivos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "07:40",
+      "end_time": "08:30",
+      "episode_description": "Depois da perda do seu marido e do seu emprego, Carmen desenvolveu um transtorno de acumulação e ficou viciada em compras. Melissa, a sua filha, teme que a sua vida esteja ficando fora de controle visto que ela parou de se comunicar com sua família."
+    },
+    {
+      "show_name": "Clientes em Guerra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_clientes-em-guerra-s02e07-frenesi-no-restaurante-de-fast-food_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 7 - Frenesi no Restaurante de Fast Food",
+      "start_time": "08:30",
+      "end_time": "08:55",
+      "episode_description": "Em Chicago, acontece uma briga em um restaurante; além disso, um agente de aluguel de automóveis mantém a calma com um cliente difícil; um homem rouba o carro de um entregador de pizza; um lutador e um transeunte brigam."
+    },
+    {
+      "show_name": "Clientes em Guerra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_clientes-em-guerra-s02e08-e-proibido-furar-fila_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 8 - É Proibido Furar Fila",
+      "start_time": "08:55",
+      "end_time": "09:20",
+      "episode_description": "Passageiros de um avião decidem que uma mulher seja expulsa; uma briga começa em uma loja no Arizona; em Nova York, ligam para os serviços de emergência por causa de um dedo preso em uma loja; um cliente arrisca a vida para prender um ladrão armado."
+    },
+    {
+      "show_name": "Clientes em Guerra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_clientes-em-guerra-s02e09-robo-entregador_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 9 - Robô Entregador",
+      "start_time": "09:20",
+      "end_time": "09:45",
+      "episode_description": "Uma cliente insatisfeita prova a tolerância de outros clientes; em Nova York, um especialista em tecnologia envia seu robô para comprar comida para peixes; em um avião em São Francisco, dois viajantes brigam pelo um assento."
+    },
+    {
+      "show_name": "Clientes em Guerra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_clientes-em-guerra-s02e10-dormindo-em-servico_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 10 - Dormindo em Serviço",
+      "start_time": "09:45",
+      "end_time": "10:10",
+      "episode_description": "Na Pensilvânia, um entregador de pizza ajuda a polícia; na Filadélfia, um cliente acorda rudemente um caixa; em Los Angeles, uma funcionária se defende de um ladrão e outra funcionária usa seu carro para perseguir o ladrão."
+    },
+    {
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s14e05-rene-o-rei-de-orange_l_m.jpg",
+      "show_category": "Temporada 14 Episódio 5 - Rene, o Rei de Orange",
+      "start_time": "10:10",
+      "end_time": "10:35",
+      "episode_description": "Rene aparece repentinamente no leilão de Orange e se autoproclama \"o Rei\", mas Dusty discorda totalmente do título; Kenny acidentalmente \"reinventa a roda\"; Lisa vê as coisas de uma perspectiva um pouco diferente e não aguenta ficar calada."
+    },
+    {
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s14e03-uma-loucura-de-achado_l_m.jpg",
+      "show_category": "Temporada 14 Episódio 3 - Uma Loucura de Achado",
+      "start_time": "10:35",
+      "end_time": "11:00",
+      "episode_description": "Nas instalações de Victorville, Dusty acaba pagando um preço alto durante um duelo, mas um filão de discos vinílicos pode salvar seu dia. Enquanto isso, o depósito de Ivy lança alguma luz sobre o negócio."
+    },
+    {
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s14e01-voce-pode-guardar-um-cavalo-no-armario_l_m.jpg",
+      "show_category": "Temporada 14 Episódio 1 - Você Pode Guardar um Cavalo no Armário?",
+      "start_time": "11:00",
+      "end_time": "11:25",
+      "episode_description": "Barry e Kenny aparecem a bordo de um veículo de combustível alternativo; Lisa faz o possível para quebrar a maldição do armário e Ivy encontra algumas denominações curiosas."
+    },
+    {
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s14e04-como-vencer-em-west-covina_l_m.jpg",
+      "show_category": "Temporada 14 Episódio 4 - Como Vencer em West Covina",
+      "start_time": "11:25",
+      "end_time": "11:50",
+      "episode_description": "Lisa fica tão ocupada vigiando fundo de um armazém que comete o pior erro possível em um leilão; René se depara com uma pechincha que ninguém jamais imaginou; Ivy continua batalhando por uma grande vitória, mas precisa que Lisa dê uma mão."
+    },
+    {
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s14e02-pilha-para-ir-antes-de-guardar_l_m.jpg",
+      "show_category": "Temporada 14 Episódio 2 - Pilha para Ir Antes de Guardar",
+      "start_time": "11:50",
+      "end_time": "12:15",
+      "episode_description": "Laura assume as rédeas sozinha em Fullerton e acaba vendendo muito mais que Dan; Brandi é assediada por causa de seu depósito, mesmo assim tudo termina em excelentes termos; René adia um encontro por causa do trabalho."
+    },
+    {
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s14e06-legos-e-lucros_l_m.jpg",
+      "show_category": "Temporada 14 Episódio 6 - Legos e Lucros",
+      "start_time": "12:15",
+      "end_time": "12:40",
+      "episode_description": "Os armazéns de Stanton estão completamente cheios e Darrell lida com um concorrente inesperado; Ivy chega com um grande veículo na esperança de poder levar tudo; Dusty surpreende a todos e René se vê diante do que pode ser uma vitória."
+    },
+    {
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s14e07-em-defesa-do-trono_l_m.jpg",
+      "show_category": "Temporada 14 Episódio 7 - Em Defesa do Trono",
+      "start_time": "12:40",
+      "end_time": "13:05",
+      "episode_description": "É um dia cinzento e úmido em Montebello, mas isso não vai impedir que o rei Darrell defenda o seu trono contra os planos que René e Casey têm para derrotá-lo; Lisa luta para ganhar um depósito decente e Kenny fica sem palavras com a sua descoberta."
+    },
+    {
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s14e08-o-rei-de-montebowlo_l_m.jpg",
+      "show_category": "Temporada 14 Episódio 8 - O Rei de Montebowlo",
+      "start_time": "13:05",
+      "end_time": "13:30",
+      "episode_description": "Barry comparece ao leilão pronto para aprender, mas levando consigo um presente para um certo vigarista; Brandi e Bozek ficam com uma pequena unidade que levanta o seu astral; Ivy dá ao filho um presente de aniversário e o Rei consegue superar todos."
+    },
+    {
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s14e09-ai-vem-o-calvin_l_m.jpg",
+      "show_category": "Temporada 14 Episódio 9 - Aí Vem o Calvin",
+      "start_time": "13:30",
+      "end_time": "13:55",
+      "episode_description": "Lisa espera que a sua terceira vez em Riverside seja a última; René escolhe uma unidade modesta e Brandi participa de uma caça ao tesouro; Ivy e os rapazes sonham com a aposentadoria e Darrell não se sente ele mesmo."
+    },
+    {
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s14e10-caixas-fechadas-enganam_l_m.jpg",
+      "show_category": "Temporada 14 Episódio 10 - Caixas Fechadas Enganam",
+      "start_time": "13:55",
+      "end_time": "14:20",
+      "episode_description": "San Bernardino está cheio de surpresas, principalmente para René e Casey, que apostam tudo em uns sacos lacrados; Kenny dá de cara com peças de carro com aspecto estranho; Lisa tenta se proteger do desastre ficando com um depósito bastante caro."
+    },
+    {
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s14e11-aparelho-dos-sonhos_l_m.jpg",
+      "show_category": "Temporada 14 Episódio 11 - Aparelho dos Sonhos",
+      "start_time": "14:20",
+      "end_time": "14:45",
+      "episode_description": "Em Lancaster, Ivy segue tentando intimidar seus concorrentes; Brandi relutantemente deixa Bozek escolher um armário que eles querem comprar; Dusty confronta o Rei para comprovar que a maldade não compensa; Kenny sente medo do exército de Ivy."
+    },
+    {
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s14e12-gravatas-que-d-o-lucro_l_m.jpg",
+      "show_category": "Temporada 14 Episódio 12 - Gravatas que Dão Lucro",
+      "start_time": "14:45",
+      "end_time": "15:10",
+      "episode_description": "Barry testa uma tática pouco conhecida para ganhar um depósito; Brandi dá um show enquanto faz compras no porão de pechinchas; Ivy consegue ficar com um enorme contêiner onde as ferramentas são empilhadas."
+    },
+    {
+      "show_name": "Confissões de um Serial Killer",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_confiss-es-de-um-serial-killer-s01e01-excluidos_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - Excluídos",
+      "start_time": "15:10",
+      "end_time": "16:00",
+      "episode_description": "Na superfície, Dennis Rader parecia um cara normal, mas por baixo havia uma vida de fantasia sinistra que ele encenou sob o disfarce de seu alter ego."
+    },
+    {
+      "show_name": "Confissões de um Serial Killer",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_confiss-es-de-um-serial-killer-s01e02-desmascarando-o-fator-x_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Desmascarando o Fator X",
+      "start_time": "16:00",
+      "end_time": "16:50",
+      "episode_description": "A onda de crimes assassinos de BTK continuou, pois aparentemente não havia sinais de sua educação para indicar que ele se tornaria um serial killer."
+    },
+    {
+      "show_name": "A Vingança Perfeita",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-vinganca-perfeita-2018_l_m.jpg",
+      "show_category": "Thriller / 2018",
+      "start_time": "16:50",
+      "end_time": "18:30",
+      "episode_description": "Na calada da noite, as vidas de dois assassinos de aluguel, um professor, um faxineiro e uma garçonete se entrelaçam a partir de uma mulher perigosa e misteriosa que está em busca de vingança."
+    },
+    {
+      "show_name": "Promessas de Guerra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_promessas-de-guerra-2014_l_m.jpg",
+      "show_category": "Historical drama / 2014",
+      "start_time": "18:30",
+      "end_time": "20:25",
+      "episode_description": "Um homem australiano embarca numa odisseia até a Turquia para resgatar os corpos de três filhos desaparecidos em uma batalha durante a Primeira Guerra Mundial."
+    },
+    {
+      "show_name": "Terminus - Um Novo Começo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_terminus-um-novo-comeco-2015_l_m.jpg",
+      "show_category": "Science fiction / 2015",
+      "start_time": "20:25",
+      "end_time": "22:00",
+      "episode_description": "Após um acidente fatal, David faz uma descoberta sem precedentes que pode determinar o destino da humanidade. Motivado pelo que acredita ser uma proposta fantástica, ele precisa concluir sua tarefa antes que o governo o impeça e que o mundo seja destruído."
+    },
+    {
+      "show_name": "Zumbilândia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_zumbilandia-2009_l_m.jpg",
+      "show_category": "Dark comedy / 2009",
       "start_time": "22:00",
-      "end_time": "22:55",
-      "episode_description": "Christine Malot é chamada no meio da noite pelo hospital: encontraram um doador de coração para o seu filho caçula, Florian. Mas sua esperança é destruída com a chegada de Falco e Chéron. O doador foi aparentemente assassinado."
+      "end_time": "23:28",
+      "episode_description": "Dois rapazes solitários em meio ao apocalipse zumbi decidem se ajudar a chegar aos seus destinos, mas topam com duas garotas articuladas e muito mais espertas do que eles."
     },
     {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s03e07_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 7",
-      "start_time": "22:55",
-      "end_time": "23:20",
-      "episode_description": "Uma perseguição em alta velocidade em Utah, um mandado de prisão no Texas e um resgate no Arizona."
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s14e01-voce-pode-guardar-um-cavalo-no-armario_l_m.jpg",
+      "show_category": "Temporada 14 Episódio 1 - Você Pode Guardar um Cavalo no Armário?",
+      "start_time": "23:28",
+      "end_time": "23:53",
+      "episode_description": "Barry e Kenny aparecem a bordo de um veículo de combustível alternativo; Lisa faz o possível para quebrar a maldição do armário e Ivy encontra algumas denominações curiosas."
     },
     {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s03e07_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 7",
-      "start_time": "23:20",
-      "end_time": "23:45",
-      "episode_description": "Uma perseguição em alta velocidade em Utah, um mandado de prisão no Texas e um resgate no Arizona."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s03e09_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 9",
-      "start_time": "23:45",
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s14e04-como-vencer-em-west-covina_l_m.jpg",
+      "show_category": "Temporada 14 Episódio 4 - Como Vencer em West Covina",
+      "start_time": "23:53",
       "end_time": "",
-      "episode_description": "Um atropelamento e fuga em Indiana; uma perseguição de motocicleta em Washington; um motorista bêbado em Indiana."
+      "episode_description": "Lisa fica tão ocupada vigiando fundo de um armazém que comete o pior erro possível em um leilão; René se depara com uma pechincha que ninguém jamais imaginou; Ivy continua batalhando por uma grande vitória, mas precisa que Lisa dê uma mão."
     }
   ]
 }

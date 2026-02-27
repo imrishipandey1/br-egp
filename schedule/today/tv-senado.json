@@ -1,78 +1,86 @@
 {
   "channel": "TV SENADO",
-  "date": "26/02/2026",
+  "date": "27/02/2026",
   "schedule": [
     {
-      "show_name": "A Voz de Ruy",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-voz-de-ruy-2024_l_m.jpg",
-      "show_category": "Documentary / 2024",
+      "show_name": "Cleo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cleo_l_m.jpg",
+      "show_category": "Special",
       "start_time": "00:00",
-      "end_time": "01:20",
-      "episode_description": "Reconhecido por suas propostas políticas e educacionais, Ruy Barbosa se tornou uma referência na defesa das liberdades individuais e de imprensa."
+      "end_time": "00:59",
+      "episode_description": "Um breve retrato da vida e obra de Cleonice Berardinelli, ou simplesmente Dona Cleo, imortal da Academia Brasileira de Letras e uma das maiores intelectuais brasileiras."
     },
     {
-      "show_name": "35 - O Assalto ao Poder",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_35-o-assalto-ao-poder-2002_l_m.jpg",
-      "show_category": "Documentary / 2002 /7.2",
-      "start_time": "01:20",
+      "show_name": "As Várias Vidas de Tânia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_as-varias-vidas-de-tania_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "00:59",
+      "end_time": "01:40",
+      "episode_description": "A vida e a obra da alagoana Tânia de Maya Pedrosa, artista autodidata e colecionadora de arte popular brasileira."
+    },
+    {
+      "show_name": "Maria Luiza",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_maria-luiza-2020_l_m.jpg",
+      "show_category": "Documentary / 2020 /9.0",
+      "start_time": "01:40",
       "end_time": "03:00",
-      "episode_description": "O ano de 1935 estava chegando ao fim quando três levantes militares, em três diferentes capitais brasileiras, tentaram derrubar o governo de Getúlio Vargas."
-    },
-    {
-      "show_name": "Salão Nobre",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sal-o-nobre_l_m.jpg",
-      "show_category": "Politics",
-      "start_time": "03:00",
-      "end_time": "03:30",
-      "episode_description": "Assista a temas de relevância nacional com líderes partidários, presidentes das comissões e autores."
+      "episode_description": "Maria Luiza da Silva é a primeira transexual na história das Forças Armadas brasileiras. Após 22 anos de trabalho como militar, foi aposentada por invalidez. Conheça as motivações para impedi-la de vestir a farda feminina e a sua trajetória de afirmação como mulher trans, militar e católica."
     },
     {
       "show_name": "Em Discussão",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_em-discuss-o-2_l_m.jpg",
       "show_category": "Educational",
-      "start_time": "03:30",
-      "end_time": "04:00",
+      "start_time": "03:00",
+      "end_time": "03:30",
       "episode_description": "As principais discussões realizadas nas audiências públicas promovidas pelo Senado."
     },
     {
       "show_name": "TV Senado Live",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_tv-senado-live_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "04:00",
-      "end_time": "04:30",
+      "start_time": "03:30",
+      "end_time": "04:00",
       "episode_description": "Veja entrevistas com a participação do público sobre os grandes temas em pauta no país."
     },
     {
       "show_name": "Parlamento Brasil",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "04:30",
-      "end_time": "05:00",
+      "start_time": "04:00",
+      "end_time": "04:30",
       "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
     },
     {
       "show_name": "Assunto de Estado",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_assunto-de-estado_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "05:00",
-      "end_time": "05:30",
+      "start_time": "04:30",
+      "end_time": "05:00",
       "episode_description": "Espaço para que senadores comentem questões regionais e locais e preste contas aos eleitores."
     },
     {
       "show_name": "Agenda Econômica",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_agenda-economica-1_l_m.jpg",
       "show_category": "Bus./financial",
-      "start_time": "05:30",
-      "end_time": "06:00",
+      "start_time": "05:00",
+      "end_time": "05:30",
       "episode_description": "Economistas, formuladores de políticas públicas, acadêmicos, intelectuais e parlamentares analisam questões da economia nacional e internacional."
     },
     {
-      "show_name": "Roberto de Regina - Vida e Obra",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_roberto-de-regina-vida-e-obra_l_m.jpg",
-      "show_category": "Special",
+      "show_name": "Salão Nobre",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sal-o-nobre_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "05:30",
+      "end_time": "06:00",
+      "episode_description": "Assista a temas de relevância nacional com líderes partidários, presidentes das comissões e autores."
+    },
+    {
+      "show_name": "Leituras",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_leituras_l_m.jpg",
+      "show_category": "Art",
       "start_time": "06:00",
       "end_time": "07:00",
-      "episode_description": "Documentário da TV Senado retrata a vida do músico Roberto de Regina. Em 98 anos, gravou 26 álbuns e construiu o primeiro cravo brasileiro nos anos 1950. Seu legado é marcado por iniciativas de preservação da música antiga."
+      "episode_description": "Análise e divulgação da literatura brasileira. Entrevistas com escritores e análises de obras literárias, com espaço para todas as correntes criativas."
     },
     {
       "show_name": "Coleções",
@@ -83,12 +91,12 @@
       "episode_description": "O programa apresenta os principais e mais marcantes elementos da cultura brasileira por meio de viagens pelo país. A série de linguagem documental para a televisão tem como foco os principais elementos da cultura regional brasileira."
     },
     {
-      "show_name": "Agenda Econômica",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_agenda-economica-1_l_m.jpg",
-      "show_category": "Bus./financial",
+      "show_name": "Salão Nobre",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sal-o-nobre_l_m.jpg",
+      "show_category": "Politics",
       "start_time": "07:30",
       "end_time": "08:00",
-      "episode_description": "Economistas, formuladores de políticas públicas, acadêmicos, intelectuais e parlamentares analisam questões da economia nacional e internacional."
+      "episode_description": "Assista a temas de relevância nacional com líderes partidários, presidentes das comissões e autores."
     },
     {
       "show_name": "Cidadania",
@@ -99,28 +107,28 @@
       "episode_description": "Entrevistas semanais sobre assuntos da atualidade, com a participação de parlamentares, especialistas e representantes de organizações sociais."
     },
     {
-      "show_name": "Senado Notícias",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_senado-noticias_l_m.jpg",
+      "show_name": "Parlamento Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
       "show_category": "Politics",
       "start_time": "08:30",
       "end_time": "09:00",
-      "episode_description": "Acompanhe as últimas notícias do Senado, entre as transmissões ao vivo das reuniões das comissões, do plenário e os programas de grade da emissora."
+      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
     },
     {
-      "show_name": "Comissão de Agricultura e Reforma Agrária",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o-de-agricultura-e-reforma-agraria_l_m.jpg",
+      "show_name": "TV Senado Live",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tv-senado-live_l_m.jpg",
       "show_category": "Politics",
       "start_time": "09:00",
-      "end_time": "10:00",
-      "episode_description": "Compete opinar sobre proposições pertinentes aos seguintes temas: direito agrário e planejamento, acompanhamento e execução da política agrícola e fundiária."
+      "end_time": "09:30",
+      "episode_description": "Veja entrevistas com a participação do público sobre os grandes temas em pauta no país."
     },
     {
-      "show_name": "Comissão de Relações Exteriores e Defesa Nacional",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o-de-relac-es-exteriores-e-defesa-nacional-1_l_m.jpg",
+      "show_name": "Sessão Plenária",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sess-o-plenaria-1_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "10:00",
+      "start_time": "09:30",
       "end_time": "13:30",
-      "episode_description": "Acompanhe discussões referentes às áreas de defesa e de política externa brasileiras."
+      "episode_description": "Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade."
     },
     {
       "show_name": "Senado Notícias",
@@ -131,12 +139,12 @@
       "episode_description": "Acompanhe as últimas notícias do Senado, entre as transmissões ao vivo das reuniões das comissões, do plenário e os programas de grade da emissora."
     },
     {
-      "show_name": "Sessão Plenária",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sess-o-plenaria-1_l_m.jpg",
+      "show_name": "Reunião de Comissão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_reuni-o-de-comiss-o_l_m.jpg",
       "show_category": "Politics",
       "start_time": "14:00",
       "end_time": "19:30",
-      "episode_description": "Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade."
+      "episode_description": "Acompanhe as comissões do Senado Federal no Congresso Nacional do Brasil."
     },
     {
       "show_name": "Senado Notícias",
@@ -147,28 +155,44 @@
       "episode_description": "Acompanhe as últimas notícias do Senado, entre as transmissões ao vivo das reuniões das comissões, do plenário e os programas de grade da emissora."
     },
     {
-      "show_name": "Em Discussão",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_em-discuss-o-2_l_m.jpg",
-      "show_category": "Educational",
+      "show_name": "Parlamento Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
+      "show_category": "Politics",
       "start_time": "20:00",
       "end_time": "20:30",
-      "episode_description": "As principais discussões realizadas nas audiências públicas promovidas pelo Senado."
+      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
     },
     {
-      "show_name": "Salão Nobre",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sal-o-nobre_l_m.jpg",
+      "show_name": "TV Senado Live",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tv-senado-live_l_m.jpg",
       "show_category": "Politics",
       "start_time": "20:30",
       "end_time": "21:00",
-      "episode_description": "Assista a temas de relevância nacional com líderes partidários, presidentes das comissões e autores."
+      "episode_description": "Veja entrevistas com a participação do público sobre os grandes temas em pauta no país."
     },
     {
-      "show_name": "Reunião de Comissão",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_reuni-o-de-comiss-o_l_m.jpg",
-      "show_category": "Politics",
+      "show_name": "Servidão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_servid-o-2024_l_m.jpg",
+      "show_category": "Documentary / 2024",
       "start_time": "21:00",
-      "end_time": "00:00",
-      "episode_description": "Acompanhe as comissões do Senado Federal no Congresso Nacional do Brasil."
+      "end_time": "22:15",
+      "episode_description": "Saiba mais sobre o trabalho escravo contemporâneo no Brasil, especialmente na região da Amazônia. Trabalhadores rurais escravizados e abolicionistas de diferentes vertentes falam a respeito de uma das maiores mazelas do país."
+    },
+    {
+      "show_name": "Fico te Devendo uma Carta Sobre o Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_fico-te-devendo-uma-carta-sobre-o-brasil-2019-1_l_m.jpg",
+      "show_category": "Documentary / 2019",
+      "start_time": "22:15",
+      "end_time": "23:45",
+      "episode_description": "Conheça três gerações de uma família atingida pela ditadura militar brasileira. Ao mergulhar em uma história pessoal que se mistura à do país, o documentário investiga o silêncio como forma de apagar a memória."
+    },
+    {
+      "show_name": "Lavra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lavra-2021_l_m.jpg",
+      "show_category": "Drama / 2021",
+      "start_time": "23:45",
+      "end_time": "01:30",
+      "episode_description": "Camila retorna para sua terra natal depois que o rio de sua cidade foi contaminado pelo maior crime ambiental do Brasil, provocado pelo rompimento da barragem de uma mineradora. Ela segue o caminho da lama tóxica que varreu povoados do mapa, encontra paisagens, comunidades e pessoas devastadas. Outra barragem se rompe e mata cerca de 300 pessoas."
     }
   ]
 }

@@ -1,38 +1,38 @@
 {
   "channel": "TV Cabo Branco",
-  "date": "26/02/2026",
+  "date": "27/02/2026",
   "schedule": [
-    {
-      "show_name": "Jornal da Globo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-da-globo_l_m.jpg",
-      "show_category": "News",
-      "start_time": "00:05",
-      "end_time": "00:55",
-      "episode_description": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura."
-    },
     {
       "show_name": "Coração Acelerado",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_corac-o-acelerado_l_m.jpg",
       "show_category": "Soap",
-      "start_time": "00:55",
-      "end_time": "01:40",
+      "start_time": "00:15",
+      "end_time": "01:00",
       "episode_description": "Zilá pede que Ronei deixe a mansão dos Amaral e pressiona Cinara para salvar seu casamento com Alaorzinho; Janete, Zuzu e Nanda visitam a construção da sede da cooperativa; Ronei inicia a gravação do clipe de João Raul, Agrado e Naiane."
     },
     {
       "show_name": "Vai que Cola",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-1_l_m.jpg",
       "show_category": "Comedy",
-      "start_time": "01:40",
-      "end_time": "02:20",
+      "start_time": "01:00",
+      "end_time": "01:30",
       "episode_description": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede."
     },
     {
-      "show_name": "Alguém Avisa?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_alguem-avisa-2020_l_m.jpg",
-      "show_category": "Holiday / 2020",
-      "start_time": "02:20",
+      "show_name": "O Silêncio da Chuva",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-silencio-da-chuva-2021_l_m.jpg",
+      "show_category": "Crime drama / 2021",
+      "start_time": "01:30",
+      "end_time": "03:05",
+      "episode_description": "O inspetor Espinosa e a policial Daia ficam encarregados de investigar o assassinato de um executivo que foi morto a tiros no banco de seu carro. Os envolvidos no caso desaparecem misteriosamente e a situação assume proporções inesperadas."
+    },
+    {
+      "show_name": "Escola de Quebrada",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_escola-de-quebrada-2023_l_m.jpg",
+      "show_category": "Comedy / 2023",
+      "start_time": "03:05",
       "end_time": "04:00",
-      "episode_description": "As namoradas Harper e Abby visitam a família de Harper para o jantar anual de Natal. No entanto, logo após chegar, Abby percebe que a moça tem mantido seu relacionamento em segredo de seus pais conservadores."
+      "episode_description": "Luan é um aluno nerd de uma escola da periferia de São Paulo. Cansado de não ter destaque, ele decide mudar de estilo para se tornar um malandro. Mas o caminho para a popularidade é cheio de tropeços e ele não parece ter muito talento para o negócio."
     },
     {
       "show_name": "Hora 1",
@@ -107,12 +107,12 @@
       "episode_description": "Uma parte da história da formação da sociedade brasileira do início do século XX é contada a partir do romance de dois jovens italianos, Giuliana e Matteo. Eles se conhecem em 1894 a bordo do navio que transporta imigrantes para trabalhar no Brasil."
     },
     {
-      "show_name": "4x100 - Correndo por um Sonho",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_4x100-correndo-por-um-sonho-2021_l_m.jpg",
-      "show_category": "Drama / 2021",
+      "show_name": "Fada Madrinha",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_fada-madrinha-2020_l_m.jpg",
+      "show_category": "Comedy / 2020",
       "start_time": "15:25",
       "end_time": "17:05",
-      "episode_description": "Em 2016, uma derrota na final olímpica do revezamento 4x100 marca para sempre a vida de uma equipe de atletas brasileiras. Três anos depois, Maria Lúcia, a responsável pela eliminação, segue brilhando no atletismo e na mídia, enquanto Adriana, que trabalhou duro na competição, vive frustrada de pequenas lutas de MMA. Em 2021, elas têm uma nova chance de reescrever essa história nas Olimpíadas de Tóquio."
+      "episode_description": "Eleanor é uma fada madrinha em treinamento. Temendo pelo fim de sua profissão, encontra uma carta de Mackenzie, uma menina de dez anos, que necessita de ajuda. Ao tentar localizar a jovem, acaba descobrindo que ela, agora, é uma adulta, viúva, de 40 anos."
     },
     {
       "show_name": "Vale a Pena Ver de Novo - Rainha da Sucata",
@@ -164,18 +164,26 @@
     },
     {
       "show_name": "Big Brother Brasil",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_big-brother-brasil-s26e46_l_m.jpg",
-      "show_category": "Temporada 26 Episódio 46",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_big-brother-brasil-s26e47_l_m.jpg",
+      "show_category": "Temporada 26 Episódio 47",
       "start_time": "22:25",
-      "end_time": "23:25",
+      "end_time": "23:00",
       "episode_description": "Um grupo de pessoas topa ficar confinado em uma espaçosa casa cenográfica, sendo vigiado por câmeras 24 horas por dia. Sem receber informações do mundo exterior, eles disputam uma série de provas e dinâmicas em busca de um prêmio milionário."
+    },
+    {
+      "show_name": "Globo Repórter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_globo-reporter-1_l_m.jpg",
+      "show_category": "Newsmagazine",
+      "start_time": "23:00",
+      "end_time": "23:50",
+      "episode_description": "O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo."
     },
     {
       "show_name": "Jornal da Globo",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-da-globo_l_m.jpg",
       "show_category": "News",
-      "start_time": "23:25",
-      "end_time": "00:15",
+      "start_time": "23:50",
+      "end_time": "00:40",
       "episode_description": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura."
     }
   ]
