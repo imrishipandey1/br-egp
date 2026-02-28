@@ -3,212 +3,204 @@
   "date": "01/03/2026",
   "schedule": [
     {
-      "show_name": "Masterchef EUA",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-home-health/tomorrow/br_masterchef-eua-s24e16-caminho-para-a-final_l_m.webp",
-      "show_category": "Temporada 24 Episódio 16 - Caminho para a Final",
-      "start_time": "00:47",
+      "show_name": "Reformando com Estilo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_reformando-com-estilo-s05e11-confortavel-e-funcional_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 11 - Confortável e Funcional",
+      "start_time": "00:19",
+      "end_time": "01:08",
+      "episode_description": "Há três anos, um casal mora em uma casa pouco funcional e dorme em um quarto sem aquecimento. Para Alison, a reforma está longe de ser fácil, já que os atrasos contínuos aumentam a ansiedade da família."
+    },
+    {
+      "show_name": "Cozinha dos Sonhos com John e Anthony",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cozinha-dos-sonhos-com-john-e-anthony-s01e13-duas-cozinhas_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 13 - Duas Cozinhas",
+      "start_time": "01:08",
       "end_time": "01:34",
-      "episode_description": "Uma competição única que testa chefs amadores em uma série de desafios difíceis julgados por especialistas em culinária."
+      "episode_description": "Anthony e John projetam cozinhas para dois clientes que moram em condomínios novos."
+    },
+    {
+      "show_name": "Cozinha dos Sonhos com John e Anthony",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cozinha-dos-sonhos-com-john-e-anthony-s02e02-primos-impossiveis_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 2 - Primos Impossíveis",
+      "start_time": "01:34",
+      "end_time": "01:59",
+      "episode_description": "O restaurante Mama Lee's Soul Food, em San Antonio, Texas, está em apuros e é um projeto perfeito para o programa de Robert Irvine, \"SOS Restaurante\". John Colaneri e Anthony Carrino viajam para o Texas para salvar sua cozinha."
+    },
+    {
+      "show_name": "100 Dias para Morar - Começando do Zero",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_100-dias-para-morar-comecando-do-zero-s07e08-quebrando-paredes-estourando-o-orcamento_l_m.jpg",
+      "show_category": "Temporada 7 Episódio 8 - Quebrando Paredes, Estourando o Orçamento",
+      "start_time": "01:59",
+      "end_time": "02:46",
+      "episode_description": "Ao derrubar paredes, um casal descobre problemas que fazem o orçamento explodir; Brian e Mika tentam salvar a reforma dos sonhos."
+    },
+    {
+      "show_name": "Irmãos à Obra - Lar Sempre Lar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_irm-os-a-obra-lar-sempre-lar-s05e19-subindo-de-nivel-com-obras_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 19 - Subindo de Nível com Obras",
+      "start_time": "02:46",
+      "end_time": "03:33",
+      "episode_description": "Um casal criou raízes em uma comunidade da qual nem imaginam sair, mas com os filhos crescendo, sua casa se tornou muito apertada e fechada."
+    },
+    {
+      "show_name": "90 Dias - Tô na Caça!",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_90-dias-to-na-caca-s01e11-a-garota-que-tratou-como-uma-entrevista_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 11 - A Garota que Tratou Como uma Entrevista",
+      "start_time": "03:33",
+      "end_time": "04:20",
+      "episode_description": "Após o encontro com Jay, Tiffany está pronta para a exclusividade; Rob e Jeniffer planejam seu futuro, enquanto Carlo tem algo a confessar."
+    },
+    {
+      "show_name": "90 Dias - Tô na Caça!",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_90-dias-to-na-caca-s01e12-o-garoto-que-pintou-como-uma-francesa_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 12 - O Garoto que Pintou Como uma Francesa",
+      "start_time": "04:20",
+      "end_time": "06:00",
+      "episode_description": "Tiffany questiona se Carlo deveria dar outra chance após a traição; Tim e Mei se aproximam; Cortney faz uma escolha após seu encontro com Colt."
+    },
+    {
+      "show_name": "Salvando Reformas com Jasmine Roth",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_salvando-reformas-com-jasmine-roth-s02e08-n-o-e-nossa-casa_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 8 - Não é Nossa Casa",
+      "start_time": "06:00",
+      "end_time": "06:49",
+      "episode_description": "Apesar de não ter experiência com o \"faça você mesmo\", um casal tenta consertar sua casa todo fim de semana há três anos; ao chegar, Jasmine precisa resolver problemas de segurança antes de transformar os espaços."
+    },
+    {
+      "show_name": "Salvando Reformas com Jasmine Roth",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_salvando-reformas-com-jasmine-roth-s03e01-acidente-da-metade-do-seculo_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 1 - Acidente da Metade do Século",
+      "start_time": "06:49",
+      "end_time": "07:38",
+      "episode_description": "Depois de perder dinheiro com um empreiteiro desonesto, um homem está pronto para voltar a confiar numa profissional. Agora Jasmine quer criar o espaço perfeito com toques encantadores do passado da casa."
+    },
+    {
+      "show_name": "Restaurando Casas com Dave e Jenny",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_restaurando-casas-com-dave-e-jenny-s04e09-de-casa-padr-o-para-casa-personalizada_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 9 - De Casa Padrão para Casa Personalizada",
+      "start_time": "07:38",
+      "end_time": "08:28",
+      "episode_description": "Um casal que ama cinema quer transformar sua casa em um espaço personalizado, que reflita seu estilo. Dave e Jenny transformam o imóvel em um aconchegante lar, perfeito para um casal, com uma sala de cinema no antigo sótão."
+    },
+    {
+      "show_name": "Restaurando Casas com Dave e Jenny",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_restaurando-casas-com-dave-e-jenny-s04e10-chale-historico-ganha-uma-transformac-o-moderna_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 10 - Chalé Histórico Ganha uma Transformação Moderna",
+      "start_time": "08:28",
+      "end_time": "09:12",
+      "episode_description": "Um casal que quer sair do subúrbio encontra uma casa histórica no centro de Bentonville. Dave e Jenny transformam a pequena casa e dão a ela uma aparência aconchegante e charmosa inspirada em casa de campo."
+    },
+    {
+      "show_name": "Gordon Ramsay - Serviço Secreto",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_gordon-ramsay-servico-secreto-s01e02-caffe-boa_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Caffe Boa",
+      "start_time": "09:12",
+      "end_time": "10:00",
+      "episode_description": "Gordon expõe relacionamento tóxico entre casal dono de bistrô italiano decadente que se orgulha da culinária caseira."
+    },
+    {
+      "show_name": "Gordon Ramsay - Do Inferno ao Paraíso em 24h",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_gordon-ramsay-do-inferno-ao-paraiso-em-24h-s01e02_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2",
+      "start_time": "10:00",
+      "end_time": "10:47",
+      "episode_description": "Gordon tenta renovar um restaurante Cajun decadente, localizado no coração de Nova Orleans."
+    },
+    {
+      "show_name": "Pesadelo na Cozinha",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pesadelo-na-cozinha-s05e02-boteco-malum-alto-da-lapa-sp_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 2 - Boteco Malum - Alto da Lapa/SP",
+      "start_time": "10:47",
+      "end_time": "12:27",
+      "episode_description": "Jacquin visita o Boteco Malum, onde Vera enfrenta desafios de equipe e precisa redefinir o cardápio para recuperar a identidade da casa."
+    },
+    {
+      "show_name": "S.O.S. Restaurante",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_s-o-s-restaurante-s22e12-uma-familia-dividida_l_m.jpg",
+      "show_category": "Temporada 22 Episódio 12 - Uma Família Dividida",
+      "start_time": "12:27",
+      "end_time": "13:42",
+      "episode_description": "O chef Robert Irvine tenta tirar restaurantes familiares da falência. Munido de 10 mil dólares e dois dias de trabalho, ele atualiza o cardápio e muda a decoração para que esses empreendimentos se tornem rentáveis novamente."
+    },
+    {
+      "show_name": "Reforma em Família com Karen e Mina",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_reforma-em-familia-com-karen-e-mina-s07e06-mans-o-renovada_l_m.jpg",
+      "show_category": "Temporada 7 Episódio 6 - Mansão Renovada",
+      "start_time": "13:42",
+      "end_time": "14:34",
+      "episode_description": "Mina reforma a casa do jogador de basquete profissional Justin Holiday. Na esperança de expandir seu negócio, o objetivo dela é transformar essa mansão antiquada em um oásis moderno antes do início da temporada de Justin."
+    },
+    {
+      "show_name": "Alison e Donovan - Reformando com Estilo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alison-e-donovan-reformando-com-estilo-s03e06-selva-suburbana_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 6 - Selva Suburbana",
+      "start_time": "14:34",
+      "end_time": "15:26",
+      "episode_description": "Alison assume um projeto para corrigir uma planta baixa problemática em Evanston, subúrbio de Chicago; enquanto tenta manter a obra em andamento, ela tem de lidar com cronogramas apertados e proprietários exigentes."
+    },
+    {
+      "show_name": "Irmãos à Obra - Compra e Venda",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_irm-os-a-obra-compra-e-venda-s07e13_l_m.jpg",
+      "show_category": "Temporada 7 Episódio 13 - Taylor e Jessica",
+      "start_time": "15:26",
+      "end_time": "16:18",
+      "episode_description": "Jonathan e Drew encontram Jessica e Jason, irmãos que compraram uma casa em Nashville, Tennessee, há 16 anos. Desde então, Jessica se casou com Taylor e agora o casal tem três filhos e a família precisa de um novo lar."
+    },
+    {
+      "show_name": "Quilos Mortais",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quilos-mortais-s06e12-a-historia-de-sarah_l_m.jpg",
+      "show_category": "Temporada 6 Episódio 12 - A História de Sarah",
+      "start_time": "16:18",
+      "end_time": "18:00",
+      "episode_description": "Depois de uma infância difícil, com um pai abusivo e uma mãe viciada em drogas, Sarah pesa mais de 270 quilos e luta pela vida com apenas 24 anos."
+    },
+    {
+      "show_name": "Missão Faxina com Ellen Milgrau",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_miss-o-faxina-com-ellen-milgrau-s01e08-adelmo_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 8 - Adelmo",
+      "start_time": "18:00",
+      "end_time": "18:30",
+      "episode_description": "Adelmo não tem mais ânimo de viver. A casa, sem água, tomada pela sujeira, vira um reflexo de sua dor. Preocupadas, suas irmãs pedem ajuda à Ellen, que chega com energia para ajudar na casa."
+    },
+    {
+      "show_name": "Missão Faxina com Ellen Milgrau",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_miss-o-faxina-com-ellen-milgrau-s01e05-marcelo_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 5 - Marcelo",
+      "start_time": "18:30",
+      "end_time": "19:00",
+      "episode_description": "Marcelo vive em seu próprio universo, sempre disposto a ver o lado positivo da vida. Mas após a perda da mãe e de um incêndio, sua casa colapsou. Ellen e seus faxineiros chegam com força total para transformar totalmente esse cenário."
     },
     {
       "show_name": "90 Dias para Casar - Felizes para Sempre?",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-home-health/tomorrow/br_90-dias-para-casar-felizes-para-sempre-s06e03-perdoar-n-o-e-esquecer-1_l_m.webp",
-      "show_category": "Temporada 6 Episódio 3 - Perdoar Não É Esquecer",
-      "start_time": "01:34",
-      "end_time": "02:17",
-      "episode_description": "Michael descobre sobre a cirurgia de redução de seios; a mãe de Jovi critica o estilo de Yara como mãe; a irmã de Kalani é cética quanto a Asuelu; Andrei confronta seu cunhado; Julia se preocupa com seu status de imigração."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_90-dias-para-casar-felizes-para-sempre-1_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "19:00",
+      "end_time": "20:40",
+      "episode_description": "Veja como estão os casais que participaram das temporadas anteriores de \"90 Dias para Casar\"."
     },
     {
-      "show_name": "MasterChef Confeitaria",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-home-health/tomorrow/br_masterchef-confeitaria-s01e05_l_m.webp",
-      "show_category": "Temporada 1 Episódio 5",
-      "start_time": "02:17",
-      "end_time": "04:06",
-      "episode_description": "Competidores enfrentam desafio de escultura de chocolate em grupos. Equipes preparam trufas complementares. Na etapa final, participantes criam sorvetes com ingredientes salgados inusitados. O pior é eliminado da competição."
+      "show_name": "90 Dias para Casar - Felizes para Sempre?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_90-dias-para-casar-felizes-para-sempre-1_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "20:40",
+      "end_time": "21:30",
+      "episode_description": "Veja como estão os casais que participaram das temporadas anteriores de \"90 Dias para Casar\"."
     },
     {
-      "show_name": "Quilos Mortais - Como Eles Estão Agora?",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-home-health/tomorrow/br_quilos-mortais-como-eles-est-o-agora-s10e01-carlton-e-shantel_l_m.webp",
-      "show_category": "Temporada 10 Episódio 1 - Carlton e Shantel",
-      "start_time": "04:06",
-      "end_time": "05:38",
-      "episode_description": "Os irmãos Carlton e Shantel sempre foram próximos, mas têm hábitos alimentares ruins e precisam fazer uma mudança. Shantel está triste por se separar do irmão mais novo, mas essa pode ser a única solução para ambos."
+      "show_name": "90 Dias para Casar - Felizes para Sempre?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_90-dias-para-casar-felizes-para-sempre-1_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "21:30",
+      "end_time": "23:12",
+      "episode_description": "Veja como estão os casais que participaram das temporadas anteriores de \"90 Dias para Casar\"."
     },
     {
-      "show_name": "Reforma dos Sonhos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-home-health/tomorrow/br_reforma-dos-sonhos-s01e12-operac-o-renovac-o_l_m.webp",
-      "show_category": "Temporada 1 Episódio 12 - Operação Renovação",
-      "start_time": "05:38",
-      "end_time": "06:00",
-      "episode_description": "Laura e Raj chamam os primos para ajudá-los a criar uma sala de estar no porão para o irmão de Laura, Joe. Anthony e John constroem móveis conversíveis perfeitos para um espaço adaptável."
-    },
-    {
-      "show_name": "Reformas Incríveis",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-home-health/tomorrow/br_reformas-incriveis-s02e13-um-oasis-no-quintal_l_m.webp",
-      "show_category": "Temporada 2 Episódio 13 - Um Oásis no Quintal",
-      "start_time": "06:00",
-      "end_time": "06:22",
-      "episode_description": "Chip Wade eleva a agricultura urbana a um novo patamar com a reforma deste quintal."
-    },
-    {
-      "show_name": "MasterChef Celebridades",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-home-health/tomorrow/br_masterchef-celebridades-s01e01_l_m.webp",
-      "show_category": "Temporada 1 Episódio 1",
-      "start_time": "06:22",
-      "end_time": "08:15",
-      "episode_description": "Os famosos cozinham às cegas na prova do muro e enfrentam uma Tarte Tatin salgada."
-    },
-    {
-      "show_name": "Masterchef EUA",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-home-health/tomorrow/br_masterchef-eua-s24e15-no-ritmo-do-gordon-estilo-revezamento_l_m.webp",
-      "show_category": "Temporada 24 Episódio 15 - No Ritmo do Gordon - Estilo Revezamento!",
-      "start_time": "08:15",
-      "end_time": "08:54",
-      "episode_description": "Uma competição única que testa chefs amadores em uma série de desafios difíceis julgados por especialistas em culinária."
-    },
-    {
-      "show_name": "Masterchef EUA",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-home-health/tomorrow/br_masterchef-eua-s24e16-caminho-para-a-final_l_m.webp",
-      "show_category": "Temporada 24 Episódio 16 - Caminho para a Final",
-      "start_time": "08:54",
-      "end_time": "09:41",
-      "episode_description": "Uma competição única que testa chefs amadores em uma série de desafios difíceis julgados por especialistas em culinária."
-    },
-    {
-      "show_name": "Casa em Obra - Do Pesadelo ao Sonho",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-home-health/tomorrow/br_casa-em-obra-do-pesadelo-ao-sonho-s01e06-reforma-resgatada_l_m.webp",
-      "show_category": "Temporada 1 Episódio 6 - Reforma Resgatada",
-      "start_time": "09:41",
-      "end_time": "10:32",
-      "episode_description": "Depois que um incêndio destrói a casa deles, pais de primeira viagem ficam emocional e financeiramente destruídos enquanto a relação com o empreiteiro toma um rumo terrível; Rico e a equipe vão para ajudar com um plano para a reforma certa."
-    },
-    {
-      "show_name": "Designers à Obra",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-home-health/tomorrow/br_designers-a-obra-s05e07-redenc-o-final_l_m.webp",
-      "show_category": "Temporada 5 Episódio 7 - Redenção Final",
-      "start_time": "10:32",
-      "end_time": "12:14",
-      "episode_description": "Quatro equipes formadas por apresentadores de outros programas do canal têm um orçamento de 225 mil dólares para tentar realizar a melhor reforma de uma casa em um período de quatro semanas."
-    },
-    {
-      "show_name": "Irmãos à Obra - Compra e Venda",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-home-health/tomorrow/br_irm-os-a-obra-compra-e-venda-s06e07-paula-e-isabel_l_m.webp",
-      "show_category": "Temporada 6 Episódio 7 - Paula e Isabel",
-      "start_time": "12:14",
-      "end_time": "13:05",
-      "episode_description": "Depois de duas décadas em sua primeira casa, Paula e a filha, Isabel, estão prontas para mudar. Apesar de precisar reformar o imóvel atual para valorizá-lo, a confiança de Paula nos empreiteiros anda abalada."
-    },
-    {
-      "show_name": "Irmãos à Obra - Compra e Venda",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-home-health/tomorrow/br_irm-os-a-obra-compra-e-venda-s07e02-aubrey-jonathan-1_l_m.webp",
-      "show_category": "Temporada 7 Episódio 2 - Aubrey e Jonathan",
-      "start_time": "13:05",
-      "end_time": "13:56",
-      "episode_description": "Uma casa de fazenda de 200 anos de idade é um trabalho de tempo integral, o que exige uma busca intensa por uma casa pronta para morar."
-    },
-    {
-      "show_name": "Leslie e Lyndsay - Irmãs pra Toda Obra",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-home-health/tomorrow/br_leslie-e-lyndsay-irm-s-pra-toda-obra-s03e03-design-de-um-milh-o-de-dolares_l_m.webp",
-      "show_category": "Temporada 3 Episódio 3 - Design de um Milhão de Dólares",
-      "start_time": "13:56",
-      "end_time": "14:48",
-      "episode_description": "Leslie e Lyndsay reformam uma casa ampla da década de 70. Diante do grande potencial do imóvel, elas usam todos os seus truques para dar um toque moderno aos quartos enormes, com detalhes em madeira e espelhos antiquados."
-    },
-    {
-      "show_name": "De Casa Nova",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-home-health/tomorrow/br_de-casa-nova-s06e08-casa-no-campo_l_m.webp",
-      "show_category": "Temporada 6 Episódio 8 - Sonhos Doces com Chá",
-      "start_time": "14:48",
-      "end_time": "15:40",
-      "episode_description": "Um casal de produtores de chá quer converter sua casa de fazenda em um espaço de eventos. Ben e Erin encaram o desafio de transformar a residência secular em um espaço para festas com áreas interna e externa."
-    },
-    {
-      "show_name": "Imóveis que Cabem no Bolso",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-home-health/tomorrow/br_imoveis-que-cabem-no-bolso-s03e07-mudar-ou-reformar_l_m.webp",
-      "show_category": "Temporada 3 Episódio 7 - Mudar ou Reformar",
-      "start_time": "15:40",
-      "end_time": "16:32",
-      "episode_description": "Com os filhos fora de casa, uma mulher decide viver a próxima fase de sua vida depois de passar a vida toda cuidado da família. Agora, Egypt e Mike devem ajudá-la a escolher entre reformar sua casa ou reduzi-la."
-    },
-    {
-      "show_name": "Te Devo Essa! Reforma das Estrelas",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-home-health/tomorrow/br_te-devo-essa-reforma-das-estrelas-s08e05_l_m.webp",
-      "show_category": "Temporada 8 Episódio 5 - A Surpresa de Jennifer Jason Leigh",
-      "start_time": "16:32",
-      "end_time": "17:24",
-      "episode_description": "Jennifer Jason Leigh chama Jonathan e Drew para fazerem uma reforma às escondidas para uma antiga amiga da família, que é muito altruísta e por isso acha difícil receber presentes."
-    },
-    {
-      "show_name": "Irmãos à Obra - Lar Sempre Lar",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-home-health/tomorrow/br_irm-os-a-obra-lar-sempre-lar-s02e05-pedais-para-todo-lado_l_m.webp",
-      "show_category": "Temporada 2 Episódio 5 - Pedais para Todo Lado",
-      "start_time": "17:24",
-      "end_time": "18:15",
-      "episode_description": "A vida de uma família gira em torno do ciclismo, mas sua casa é pequena demais para acomodar tantas bicicletas e pessoas. Drew e Jonathan aceitam o desafio de transformar o imóvel em um lar mais espaçoso para os atletas."
-    },
-    {
-      "show_name": "Irmãos à Obra - Lar Sempre Lar",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-home-health/tomorrow/br_irm-os-a-obra-lar-sempre-lar-s02e06-o-resgate_l_m.webp",
-      "show_category": "Temporada 2 Episódio 6 - O Resgate",
-      "start_time": "18:15",
-      "end_time": "19:05",
-      "episode_description": "Após ter dois filhos, um casal não conseguiu concluir as reformas necessárias em sua residência. Drew e Jonathan criam um projeto para aumentar a funcionalidade das salas de estar, de jantar e da cozinha."
-    },
-    {
-      "show_name": "Missão Faxina com Ellen Milgrau",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-home-health/tomorrow/br_miss-o-faxina-com-ellen-milgrau-s01e09-como-eles-est-o-agora_l_m.webp",
-      "show_category": "Temporada 1 Episódio 9 - Como Eles Estão Agora",
-      "start_time": "19:05",
-      "end_time": "19:35",
-      "episode_description": "O Missão Faxina retorna a algumas das casas que eles limparam. Ellen visita participantes e verifica como está a manutenção da limpeza depois da passagem do programa."
-    },
-    {
-      "show_name": "Missão Faxina com Ellen Milgrau",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-home-health/tomorrow/br_miss-o-faxina-com-ellen-milgrau-s01e10-como-eles-est-o-agora_l_m.webp",
-      "show_category": "Temporada 1 Episódio 10 - Como Eles Estão Agora",
-      "start_time": "19:35",
-      "end_time": "20:05",
-      "episode_description": "Ellen volta à casa de alguns participantes da temporada para entender como estão depois da faxina. Ela descobre se voltaram a sujar e acumular ou se conseguiram manter a casa nos trinques."
-    },
-    {
-      "show_name": "Mama June - Vida Nova",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-home-health/tomorrow/br_mama-june-vida-nova-s01e09-o-confronto_l_m.webp",
-      "show_category": "Temporada 1 Episódio 9 - O Confronto",
-      "start_time": "20:05",
-      "end_time": "20:55",
-      "episode_description": "June e Jennifer se encontram pela primeira vez desde o casamento. A família começa a discutir e a confusão leva a uma revelação inesperada. A apresentadora é a jurada Lynn Toler."
-    },
-    {
-      "show_name": "Os Pequenos Johnstons",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-home-health/tomorrow/br_os-pequenos-johnstons-s16e09-longe-na-manjedoura_l_m.webp",
-      "show_category": "Temporada 16 Episódio 9 - Longe na Manjedoura",
-      "start_time": "20:55",
-      "end_time": "21:45",
-      "episode_description": "O dia a dia dos Johnstons, uma família de sete pessoas com acondroplasia, um tipo de nanismo. Com filhos biológicos e adotivos, eles mostram como lidam com questões envolvendo o preconceito e a adaptação ao mundo moderno."
-    },
-    {
-      "show_name": "Baylen - Uma Vida sem Filtro",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-home-health/tomorrow/br_baylen-uma-vida-sem-filtro-s02e09-no-sufoco_l_m.webp",
-      "show_category": "Temporada 2 Episódio 9 - No Sufoco",
-      "start_time": "21:45",
-      "end_time": "22:35",
-      "episode_description": "A jornada de Baylen Dupree, uma jovem que vive com um caso extremo de Síndrome de Tourette. Apesar dos desafios, ela e a família não têm medo de rirem e de abraçarem o caos."
-    },
-    {
-      "show_name": "Menos É Demais",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-home-health/tomorrow/br_menos-e-demais-s06e01_l_m.webp",
-      "show_category": "Temporada 6 Episódio 1 - Patrícia - A Viciada em Cama, Mesa e Banho",
-      "start_time": "22:35",
-      "end_time": "23:29",
-      "episode_description": "Patrícia é recém-casada e vive em um apê lotado de enxoval. Com a ajuda de Carol e Bárbara, enfrenta o desafio de transformar o quartinho de compras."
-    },
-    {
-      "show_name": "Do Caos ao Sonho com a Família Holmes",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/discovery-home-health/tomorrow/br_do-caos-ao-sonho-com-a-familia-holmes-s03e05_l_m.webp",
-      "show_category": "Temporada 3 Episódio 5",
-      "start_time": "23:29",
+      "show_name": "90 Dias para Casar - Felizes para Sempre?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_90-dias-para-casar-felizes-para-sempre-1_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "23:12",
       "end_time": "",
-      "episode_description": "A família Holmes ajuda clientes com obras e questões de construção malsucedidos."
+      "episode_description": "Veja como estão os casais que participaram das temporadas anteriores de \"90 Dias para Casar\"."
     }
   ]
 }

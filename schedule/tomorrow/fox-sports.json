@@ -3,172 +3,132 @@
   "date": "01/03/2026",
   "schedule": [
     {
-      "show_name": "GP da Tailândia - Treino Livre",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_motorcycle-racing-gp-da-tailandia-treino-livre-3_l_m.webp",
-      "show_category": "Moto GP",
-      "start_time": "00:00",
-      "end_time": "00:45",
-      "episode_description": "Primeira sessão de treinos para a etapa no Circuito Internacional de Chang, na Tailândia."
-    },
-    {
-      "show_name": "GP da Tailândia - Classificação",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_motorcycle-racing-gp-da-tailandia-classificac-o_l_m.webp",
-      "show_category": "Moto GP",
-      "start_time": "00:45",
-      "end_time": "01:30",
-      "episode_description": "Disputa do grid de largada. Do Circuito Internacional de Chang, em Buriram, Tailândia."
-    },
-    {
-      "show_name": "F1: The Inside Line",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_auto-racing-f1-the-inside-line_l_m.webp",
-      "show_category": "",
-      "start_time": "01:30",
-      "end_time": "02:00",
-      "episode_description": "Veja a cobertura completa da Fórmula 1, a maior e mais badalada categoria do automobilismo mundial. Acompanhe as principais notícias da semana, os bastidores, entrevistas exclusivas e reportagens especiais."
-    },
-    {
-      "show_name": "Premier League Stories",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-premier-league-stories_l_m.webp",
-      "show_category": "",
-      "start_time": "02:00",
-      "end_time": "02:30",
-      "episode_description": "Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês."
-    },
-    {
-      "show_name": "Momento ESPN",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_documentary-momento-espn_l_m.webp",
-      "show_category": "",
-      "start_time": "02:30",
-      "end_time": "02:40",
-      "episode_description": ""
-    },
-    {
-      "show_name": "GP da Tailândia - Classificação",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_motorcycle-racing-gp-da-tailandia-classificac-o-1_l_m.webp",
-      "show_category": "Moto 3",
-      "start_time": "02:40",
-      "end_time": "03:35",
-      "episode_description": "Disputa do grid de largada. Do Circuito Internacional de Chang, em Buriram, Tailândia."
-    },
-    {
-      "show_name": "GP da Tailândia - Classificação",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_motorcycle-racing-gp-da-tailandia-classificac-o-2_l_m.webp",
-      "show_category": "Moto 2",
-      "start_time": "03:35",
-      "end_time": "04:30",
-      "episode_description": "Disputa do grid de largada. Do Circuito Internacional de Chang, em Buriram, Tailândia."
-    },
-    {
       "show_name": "GP da Tailândia - Sprint",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_motorcycle-racing-gp-da-tailandia-sprint_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_motorcycle-racing-gp-da-tailandia-sprint_l_m.jpg",
       "show_category": "Moto GP",
-      "start_time": "04:30",
-      "end_time": "06:00",
+      "start_time": "00:15",
+      "end_time": "01:45",
       "episode_description": "Disputa da corrida sprint. Do Circuito Internacional de Chang, em Buriram, Tailândia."
     },
     {
-      "show_name": "Show da Rodada do Italiano",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-show-da-rodada-do-italiano_l_m.webp",
-      "show_category": "",
-      "start_time": "06:00",
-      "end_time": "06:30",
-      "episode_description": "Os principais destaques das partidas da Lega Serie A, primeira divisão do Campeonato Italiano de futebol masculino, com os gols, melhores lances e situação da tabela de classificação após cada rodada disputada."
+      "show_name": "GP da Tailândia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_motorcycle-racing-gp-da-tailandia-1_l_m.jpg",
+      "show_category": "Moto 3",
+      "start_time": "01:45",
+      "end_time": "03:00",
+      "episode_description": "Todas as emoções do terceiro escalão da principal competição de motovelocidade do mundo."
     },
     {
-      "show_name": "Premier League Stories",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-premier-league-stories_l_m.webp",
+      "show_name": "GP da Tailândia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_motorcycle-racing-gp-da-tailandia-2_l_m.jpg",
+      "show_category": "Moto 2",
+      "start_time": "03:00",
+      "end_time": "04:15",
+      "episode_description": "Primeira etapa da temporada 2025, disputada no Chang International Circuit, em Buriram, Tailândia."
+    },
+    {
+      "show_name": "GP da Tailândia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_motorcycle-racing-gp-da-tailandia_l_m.jpg",
+      "show_category": "Moto GP",
+      "start_time": "04:15",
+      "end_time": "04:15",
+      "episode_description": "Acompanhe as emoções da principal categoria de motovelocidade do planeta."
+    },
+    {
+      "show_name": "GP da Tailândia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_motorcycle-racing-gp-da-tailandia_l_m.jpg",
+      "show_category": "Moto GP",
+      "start_time": "04:15",
+      "end_time": "06:15",
+      "episode_description": "Acompanhe as emoções da principal categoria de motovelocidade do planeta."
+    },
+    {
+      "show_name": "Momento ESPN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_documentary-momento-espn_l_m.jpg",
+      "show_category": "",
+      "start_time": "06:15",
+      "end_time": "06:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Clássicos ESPN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_documentary-classicos-espn_l_m.jpg",
       "show_category": "",
       "start_time": "06:30",
       "end_time": "07:00",
-      "episode_description": "Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês."
+      "episode_description": "O programa resgata conteúdo histórico dos arquivos da ESPN no Brasil e reconta a trajetória de grandes expoentes do esporte através de produções antigas do canal."
     },
     {
-      "show_name": "Resenha ESPN",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_resenha-espn_l_m.webp",
-      "show_category": "Sports talk",
+      "show_name": "Internazionale x Genoa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-internazionale-x-genoa_l_m.jpg",
+      "show_category": "Campeonato Italiano",
       "start_time": "07:00",
-      "end_time": "08:00",
-      "episode_description": "Atletas da atualidade e do passado participam de bate-papo descontraído e cheio de boas histórias."
+      "end_time": "09:00",
+      "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
     },
     {
-      "show_name": "GP da Tailândia - Sprint",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_motorcycle-racing-gp-da-tailandia-sprint_l_m.webp",
-      "show_category": "Moto GP",
-      "start_time": "08:00",
-      "end_time": "09:25",
-      "episode_description": "Disputa da corrida sprint. Do Circuito Internacional de Chang, em Buriram, Tailândia."
-    },
-    {
-      "show_name": "Leicester City x Norwich",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-leicester-city-x-norwich-1_l_m.webp",
-      "show_category": "Campeonato Inglês - Segunda Divisão",
-      "start_time": "09:25",
-      "end_time": "11:30",
-      "episode_description": "Do King Power Stadium, em Leicester, Inglaterra."
-    },
-    {
-      "show_name": "SportsCenter Abre o Jogo",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_sports-talk-sportscenter-abre-o-jogo_l_m.webp",
-      "show_category": "",
-      "start_time": "11:30",
-      "end_time": "11:50",
-      "episode_description": "Destaques e preparativos para a partida válida pela maior liga de basquete profissional do mundo."
-    },
-    {
-      "show_name": "Burnley x Brentford",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-burnley-x-brentford_l_m.webp",
-      "show_category": "Campeonato Inglês",
-      "start_time": "11:50",
-      "end_time": "13:55",
-      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
-    },
-    {
-      "show_name": "Galatasaray x Alanyaspor",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-galatasaray-x-alanyaspor_l_m.webp",
-      "show_category": "Campeonato Turco de Futebol",
-      "start_time": "13:55",
-      "end_time": "16:00",
-      "episode_description": "Todas as emoções da Süper Lig, a principal competição de futebol masculino entre clubes da Turquia."
-    },
-    {
-      "show_name": "GP da Tailândia - Classificação",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_motorcycle-racing-gp-da-tailandia-classificac-o-2_l_m.webp",
-      "show_category": "Moto 2",
-      "start_time": "16:00",
-      "end_time": "16:50",
-      "episode_description": "Disputa do grid de largada. Do Circuito Internacional de Chang, em Buriram, Tailândia."
-    },
-    {
-      "show_name": "Real Oviedo x Atlético de Madrid",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-real-oviedo-x-atletico-de-madrid-1_l_m.webp",
+      "show_name": "Barcelona x Villarreal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-barcelona-x-villarreal_l_m.jpg",
       "show_category": "Campeonato Espanhol",
-      "start_time": "16:50",
-      "end_time": "19:05",
+      "start_time": "09:00",
+      "end_time": "10:50",
       "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
     },
     {
-      "show_name": "Leeds United x Manchester City",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-leeds-united-x-manchester-city_l_m.webp",
-      "show_category": "Campeonato Inglês",
-      "start_time": "19:05",
-      "end_time": "21:00",
-      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
+      "show_name": "Sassuolo x Atalanta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-sassuolo-x-atalanta_l_m.jpg",
+      "show_category": "Campeonato Italiano",
+      "start_time": "10:50",
+      "end_time": "13:00",
+      "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
     },
     {
-      "show_name": "Momento ESPN",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_documentary-momento-espn_l_m.webp",
+      "show_name": "Bola da Vez",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bola-da-vez_l_m.jpg",
+      "show_category": "Sports talk",
+      "start_time": "13:00",
+      "end_time": "14:00",
+      "episode_description": "Grandes personalidades do esporte nacional e internacional são colocadas no \"paredão\" e respondem às perguntas de uma bancada de entrevistadores formada por jornalistas, ex-atletas ou especialistas em geral."
+    },
+    {
+      "show_name": "GP de St. Petersburg",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_auto-racing-gp-de-st-petersburg_l_m.jpg",
+      "show_category": "Fórmula Indy",
+      "start_time": "14:00",
+      "end_time": "16:30",
+      "episode_description": "Toda a disputa da IndyCar, ou Fórmula Indy, uma das principais competições de automobilismo do mundo. Com os famosos circuitos ovais e também corridas de rua, as etapas do calendário são disputadas em diversas cidades pelos Estados Unidos."
+    },
+    {
+      "show_name": "F1: The Inside Line",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_auto-racing-f1-the-inside-line_l_m.jpg",
       "show_category": "",
-      "start_time": "21:00",
-      "end_time": "21:15",
-      "episode_description": ""
+      "start_time": "16:30",
+      "end_time": "17:00",
+      "episode_description": "Veja a cobertura completa da Fórmula 1, a maior e mais badalada categoria do automobilismo mundial. Acompanhe as principais notícias da semana, os bastidores, entrevistas exclusivas e reportagens especiais."
     },
     {
-      "show_name": "Edward Vazquez x Crimardi Machuca",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_boxing-edward-vazquez-x-crimardi-machuca-1_l_m.webp",
-      "show_category": "Boxe Internacional",
-      "start_time": "21:15",
+      "show_name": "Etapa do Circuito das Américas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_auto-racing-etapa-do-circuito-das-americas-1_l_m.jpg",
+      "show_category": "NASCAR Cup Series",
+      "start_time": "17:00",
+      "end_time": "21:00",
+      "episode_description": "Todas as emoções da principal competição de velocidade da categoria stock car dos Estados Unidos."
+    },
+    {
+      "show_name": "GP da Tailândia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_motorcycle-racing-gp-da-tailandia_l_m.jpg",
+      "show_category": "Moto GP",
+      "start_time": "21:00",
+      "end_time": "23:00",
+      "episode_description": "Acompanhe as emoções da principal categoria de motovelocidade do planeta."
+    },
+    {
+      "show_name": "Roma x Juventus",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-roma-x-juventus_l_m.jpg",
+      "show_category": "Campeonato Italiano",
+      "start_time": "23:00",
       "end_time": "",
-      "episode_description": "Pugilistas se encaram em ringues por todo o planeta nos principais combates da \"nobre arte\"."
+      "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
     }
   ]
 }
