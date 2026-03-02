@@ -1,246 +1,230 @@
 {
   "channel": "History 2",
-  "date": "02/03/2026",
+  "date": "03/03/2026",
   "schedule": [
     {
-      "show_name": "Maldições da História",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_maldic-es-da-historia-s01e01-a-maldic-o-do-homem-de-gelo-e-cidade-dos-gritos_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 1 - A Maldição do Homem de Gelo e Cidade dos Gritos",
-      "start_time": "00:15",
-      "end_time": "01:15",
-      "episode_description": "Um antigo pergaminho deixa um rastro de morte pela Europa; uma múmia neolítica lança uma maldição fatal sobre qualquer um que se aproxime dos Alpes congelados; no Afeganistão há uma cidade destruída pela guerra que é assombrada por almas em dor."
-    },
-    {
-      "show_name": "Maldições da História",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_maldic-es-da-historia-s01e02-abandone-toda-a-esperanca-e-o-aviso-do-barbaro_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 2 - Abandone Toda a Esperança e o Aviso do Bárbaro",
-      "start_time": "01:15",
-      "end_time": "02:15",
-      "episode_description": "O diamante Hope sai da Índia e deixa um rastro de morte e devastação por onde passa; afirmam que alguém roubou o crânio de Shakespeare apesar de existir um aviso maldito; um deus vingativo pune aqueles que roubam relíquias sagradas."
-    },
-    {
-      "show_name": "O Efeito Nostradamus",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-efeito-nostradamus-1_l_m.jpg",
-      "show_category": "History",
-      "start_time": "02:15",
-      "end_time": "03:10",
-      "episode_description": "O livro do Apocalipse é o mais cativante e controverso da Bíblia. Escrito por um profeta há quase dois mil anos, descreve nos últimos capítulos do Novo Testamento o violento fim dos dias da humanidade, um período com a duração de sete anos."
+      "show_name": "Desastres em Tempo Real",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_desastres-em-tempo-real-s01e01-explos-es_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - Explosões",
+      "start_time": "00:00",
+      "end_time": "01:00",
+      "episode_description": "As reconstruções da explosão do Oleoduto de Hidalgo, a explosão do mercado de fogos artificiais de San Pablito e o incêndio após uma explosão que resultou no desabamento de um prédio invadido por famílias sem-teto, em São Paulo."
     },
     {
       "show_name": "Nostradamus Effect",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_nostradamus-effect-s01e02-o-armagedom-de-da-vinci_l_m.jpg",
       "show_category": "Temporada 1 Episódio 2 - O Armagedom de da Vinci",
-      "start_time": "03:10",
-      "end_time": "04:05",
+      "start_time": "01:00",
+      "end_time": "02:05",
       "episode_description": "Leonardo Da Vinci, um dos maiores filósofos, artistas e engenheiros da história, teria sido também um grande profeta? Explore os significados ocultos por trás de suas obras mais importantes."
-    },
-    {
-      "show_name": "Boys Toys",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_boys-toys-s01e01_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 1",
-      "start_time": "04:05",
-      "end_time": "04:30",
-      "episode_description": "Uma câmera de alta definição que deixa as mãos livres, uma motocicleta elétrica, um veículo aquático, uma televisão futurista que usa luz infravermelha para oferecer uma experiência visual em 3D impressionante, e um carro esportivo ecológico."
-    },
-    {
-      "show_name": "Boys Toys",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_boys-toys-1_l_m.jpg",
-      "show_category": "Documentary",
-      "start_time": "04:30",
-      "end_time": "05:00",
-      "episode_description": "Uma viagem ao mundo da tecnologia: aparelhos eletrônicos, produtos diferenciados, aviões e veículos poderosos."
-    },
-    {
-      "show_name": "Boys Toys",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_boys-toys-1_l_m.jpg",
-      "show_category": "Documentary",
-      "start_time": "05:00",
-      "end_time": "05:30",
-      "episode_description": "Uma viagem ao mundo da tecnologia: aparelhos eletrônicos, produtos diferenciados, aviões e veículos poderosos."
-    },
-    {
-      "show_name": "Boys Toys",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_boys-toys-s01e04_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 4",
-      "start_time": "05:30",
-      "end_time": "06:00",
-      "episode_description": "Um carro esportivo de alta perfomance de 600 mil dólares; pilote um caça F-16; ouça música debaixo d'água; veja o melhor dos iates de luxo e ainda um robô que faz limpeza."
-    },
-    {
-      "show_name": "Grandes Mitos - A Ilíada",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_grandes-mitos-a-iliada-s02e01-a-mac-da-discordia_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 1 - A Maçã da Discórdia",
-      "start_time": "06:00",
-      "end_time": "06:30",
-      "episode_description": "Uma maçã de ouro destinada ao mais justo é enviada para um banquete no Olimpo por Éris, a deusa grega da discórdia. Incapaz de decidir entre as deusas Afrodite, Hera e Atena, Zeus decide deixar um mortal escolher."
-    },
-    {
-      "show_name": "Grandes Mitos - A Ilíada",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_grandes-mitos-a-iliada-s02e02-a-hora-dos-sacrificios_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 2 - A Hora dos Sacrifícios",
-      "start_time": "06:30",
-      "end_time": "07:00",
-      "episode_description": "Todos os Reis gregos e seus exércitos responderam ao chamado de Agamenon. Todos, exceto dois: Odisseu e Aquiles."
-    },
-    {
-      "show_name": "O Ouro Perdido da Segunda Guerra Mundial",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-ouro-perdido-da-segunda-guerra-mundial-s01e01-morte-na-montanha_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 1 - Morte na Montanha",
-      "start_time": "07:00",
-      "end_time": "07:50",
-      "episode_description": "Graças a uma testemunha chave, John e sua equipe chegam às Filipinas, onde acredita-se que o General Yamashita escondeu o seu imenso tesouro."
-    },
-    {
-      "show_name": "Engenheiros de Hitler - Construindo o Terceiro Reich",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_engenheiros-de-hitler-construindo-o-terceiro-reich-s01e01-albert-speer_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 1 - Albert Speer",
-      "start_time": "07:50",
-      "end_time": "08:40",
-      "episode_description": "Albert Speer era o arquiteto preferido de Hitler e uma figura central em seu círculo. Seus edifícios consolidaram a liderança nazista e como Ministro dos Armamentos causou milhões de mortes. Apesar disso, foi inocentado pelos juízes de Nuremberg."
-    },
-    {
-      "show_name": "Construindo um Império",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_construindo-um-imperio-s01e03-os-astecas_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 3 - Os Astecas",
-      "start_time": "08:40",
-      "end_time": "09:35",
-      "episode_description": "O império asteca foi o mais poderoso do Novo Mundo, superando os maiores desafios da engenharia e construindo a incrível cidade de Tenochtitlán no meio de um lago."
-    },
-    {
-      "show_name": "Construindo um Império",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_construindo-um-imperio-s01e04-cartago_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 4 - Cartago",
-      "start_time": "09:35",
-      "end_time": "10:30",
-      "episode_description": "Durante 600 anos, existiu um império que se apoderou do Mediterrâneo e constituiu um dos poderios mais lendários do Mundo Antigo: Cartago. Suas construções sobreviveram à passagem de eras e homens."
-    },
-    {
-      "show_name": "Construindo um Império",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_construindo-um-imperio-s01e01-grecia_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 1 - Grécia",
-      "start_time": "10:30",
-      "end_time": "11:25",
-      "episode_description": "A civilização ocidental foi influenciada por muitas culturas, mas seu nascimento teve lugar na antiga Grécia. Além de filósofos como Aristóteles e Sócrates, os deuses olímpicos, o início da democracia e conquistadores como Alexandre Magno, a Grécia trouxe como contribuição para a humanidade ideias geniais, que enriqueceram a arte da arquitetura e da construção. Veja como os gregos construíram seu império."
     },
     {
       "show_name": "Guerra dos Tronos - Uma História Real",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_guerra-dos-tronos-uma-historia-real-s02e01-jogo-de-rainhas_l_m.jpg",
       "show_category": "Temporada 2 Episódio 1 - Jogo de Rainhas",
-      "start_time": "11:25",
-      "end_time": "12:15",
+      "start_time": "02:05",
+      "end_time": "03:05",
       "episode_description": "Henrique II da França casa o seu filho com Mary Stuart, reivindica Calais e vinga Carlos V, no entanto a abdicação do imperador muda tudo."
     },
     {
       "show_name": "Decodificando Desastres",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_decodificando-desastres-s01e01-megainundac-es_l_m.jpg",
       "show_category": "Temporada 1 Episódio 1 - Megainundações",
-      "start_time": "12:15",
-      "end_time": "13:15",
+      "start_time": "03:05",
+      "end_time": "04:05",
       "episode_description": "A água cobre dois terços da Terra e é essencial para a vida, mas o seu impacto pode ser devastador: de inundações a tsunamis e ondas de 30 metros que podem destruir cidades e acabar com milhares de vidas em questão de horas."
     },
     {
       "show_name": "Desastres em Tempo Real",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_desastres-em-tempo-real-s01e01-explos-es_l_m.jpg",
       "show_category": "Temporada 1 Episódio 1 - Explosões",
-      "start_time": "13:15",
-      "end_time": "14:10",
+      "start_time": "04:05",
+      "end_time": "05:00",
       "episode_description": "As reconstruções da explosão do Oleoduto de Hidalgo, a explosão do mercado de fogos artificiais de San Pablito e o incêndio após uma explosão que resultou no desabamento de um prédio invadido por famílias sem-teto, em São Paulo."
     },
     {
-      "show_name": "O Efeito Nostradamus",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-efeito-nostradamus-1_l_m.jpg",
-      "show_category": "History",
-      "start_time": "14:10",
-      "end_time": "15:05",
-      "episode_description": "O livro do Apocalipse é o mais cativante e controverso da Bíblia. Escrito por um profeta há quase dois mil anos, descreve nos últimos capítulos do Novo Testamento o violento fim dos dias da humanidade, um período com a duração de sete anos."
+      "show_name": "Nostradamus Effect",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_nostradamus-effect-s01e02-o-armagedom-de-da-vinci_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - O Armagedom de da Vinci",
+      "start_time": "05:00",
+      "end_time": "06:00",
+      "episode_description": "Leonardo Da Vinci, um dos maiores filósofos, artistas e engenheiros da história, teria sido também um grande profeta? Explore os significados ocultos por trás de suas obras mais importantes."
     },
     {
       "show_name": "Grandes Mitos - A Ilíada",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_grandes-mitos-a-iliada-s02e01-a-mac-da-discordia_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 1 - A Maçã da Discórdia",
-      "start_time": "15:05",
-      "end_time": "15:35",
-      "episode_description": "Uma maçã de ouro destinada ao mais justo é enviada para um banquete no Olimpo por Éris, a deusa grega da discórdia. Incapaz de decidir entre as deusas Afrodite, Hera e Atena, Zeus decide deixar um mortal escolher."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_grandes-mitos-a-iliada-s02e03-a-ira-de-aquiles_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 3 - A Ira de Aquiles",
+      "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": "Dez anos se passaram desde que as forças gregas desembarcaram nas margens de Tróia. Mas a cidade do Rei Priam ainda não caiu."
     },
     {
       "show_name": "Grandes Mitos - A Ilíada",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_grandes-mitos-a-iliada-s02e02-a-hora-dos-sacrificios_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 2 - A Hora dos Sacrifícios",
-      "start_time": "15:35",
-      "end_time": "16:05",
-      "episode_description": "Todos os Reis gregos e seus exércitos responderam ao chamado de Agamenon. Todos, exceto dois: Odisseu e Aquiles."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_grandes-mitos-a-iliada-s02e04-o-sangue-da-deusa_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 4 - O Sangue da Deusa",
+      "start_time": "06:30",
+      "end_time": "07:00",
+      "episode_description": "Menelau enfrenta Páris; Agamenon tem uma premonição sobre a invasão de Troia."
     },
     {
       "show_name": "O Ouro Perdido da Segunda Guerra Mundial",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-ouro-perdido-da-segunda-guerra-mundial-s01e01-morte-na-montanha_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 1 - Morte na Montanha",
-      "start_time": "16:05",
-      "end_time": "16:55",
-      "episode_description": "Graças a uma testemunha chave, John e sua equipe chegam às Filipinas, onde acredita-se que o General Yamashita escondeu o seu imenso tesouro."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-ouro-perdido-da-segunda-guerra-mundial-s01e02-um-x-marca-o-lugar_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Um X Marca o Lugar",
+      "start_time": "07:00",
+      "end_time": "07:50",
+      "episode_description": "As escavações são interrompidas por uma armadilha. Um especialista compartilha uma pista chave e a tecnologia revela uma caverna oculta."
     },
     {
       "show_name": "Engenheiros de Hitler - Construindo o Terceiro Reich",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_engenheiros-de-hitler-construindo-o-terceiro-reich-s01e01-albert-speer_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 1 - Albert Speer",
-      "start_time": "16:55",
-      "end_time": "17:45",
-      "episode_description": "Albert Speer era o arquiteto preferido de Hitler e uma figura central em seu círculo. Seus edifícios consolidaram a liderança nazista e como Ministro dos Armamentos causou milhões de mortes. Apesar disso, foi inocentado pelos juízes de Nuremberg."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_engenheiros-de-hitler-construindo-o-terceiro-reich-s01e02-wernher-von-braun_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Wernher Von Braun",
+      "start_time": "07:50",
+      "end_time": "08:40",
+      "episode_description": "O herói americano Werner von Braun foi uma figura fundamental na missão da NASA que levou o homem à Lua. No entanto, seu passado foi à frente do programa de foguetes nazista que criou as mortais Armas de Vingança e ceifou milhares de vidas."
+    },
+    {
+      "show_name": "Maldições da História",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_maldic-es-da-historia-s01e01-a-maldic-o-do-homem-de-gelo-e-cidade-dos-gritos_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - A Maldição do Homem de Gelo e Cidade dos Gritos",
+      "start_time": "08:40",
+      "end_time": "09:40",
+      "episode_description": "Um antigo pergaminho deixa um rastro de morte pela Europa; uma múmia neolítica lança uma maldição fatal sobre qualquer um que se aproxime dos Alpes congelados; no Afeganistão há uma cidade destruída pela guerra que é assombrada por almas em dor."
+    },
+    {
+      "show_name": "Maldições da História",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_maldic-es-da-historia-s01e02-abandone-toda-a-esperanca-e-o-aviso-do-barbaro_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Abandone Toda a Esperança e o Aviso do Bárbaro",
+      "start_time": "09:40",
+      "end_time": "10:35",
+      "episode_description": "O diamante Hope sai da Índia e deixa um rastro de morte e devastação por onde passa; afirmam que alguém roubou o crânio de Shakespeare apesar de existir um aviso maldito; um deus vingativo pune aqueles que roubam relíquias sagradas."
+    },
+    {
+      "show_name": "Maldições da História",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_maldic-es-da-historia-s01e03-tumba-de-timur-a-maldic-o-do-nono-a-cidade-perdida-de-frenier_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3 - Tumba de Timur, a Maldição do Nono, a Cidade Perdida de Frenier",
+      "start_time": "10:35",
+      "end_time": "11:30",
+      "episode_description": "Um aviso esquecido no túmulo de um conquistador precede uma das invasões mais mortais conhecidas da história da humanidade. Um número amaldiçoado assombra compositores que buscam reconhecimento. Uma curandeira faz vilas inteiras desaparerecem."
+    },
+    {
+      "show_name": "Guerra dos Tronos - Uma História Real",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_guerra-dos-tronos-uma-historia-real-s02e02-em-nome-de-deus_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 2 - Em Nome de Deus",
+      "start_time": "11:30",
+      "end_time": "12:20",
+      "episode_description": "A ascensão do protestantismo divide a Europa. Na Espanha, Filipe II enfrenta diversas revoltas. Enquanto isso, Elizabeth I invade a Escócia."
+    },
+    {
+      "show_name": "A Ascensão e a Queda dos Faraós",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-ascens-o-e-a-queda-dos-faraos-s01e01-a-ascens-o-do-farao_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - A Ascensão do Faraó",
+      "start_time": "12:20",
+      "end_time": "13:20",
+      "episode_description": "Narmer, o primeiro faraó do Egito, unificou o país por meio da força militar. No entanto, ele manteve isso através de uma das primeiras obras de propaganda da história: A Paleta de Narmer, que o mostra esmagando seus pequenos inimigos."
+    },
+    {
+      "show_name": "A Ascensão e a Queda dos Faraós",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-ascens-o-e-a-queda-dos-faraos-s01e02-o-apice-do-poder-egipcio_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - O Ápice do Poder Egípcio",
+      "start_time": "13:20",
+      "end_time": "14:20",
+      "episode_description": "O Egito passou por um período de divisão sob governadores locais, os nomarcas. Isso mudou por volta de 2040 a.C., quando Mentuhotep II, um rei guerreiro do sul, conquistou todo o Egito e se autoproclamou faraó. Com ele, iniciou-se o Império do Meio."
+    },
+    {
+      "show_name": "Os Segredos das Pirâmides",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-segredos-das-piramides-s01e01-a-primeira-piramide-do-egito_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - A Primeira Pirâmide do Egito",
+      "start_time": "14:20",
+      "end_time": "15:14",
+      "episode_description": "Enterrada nas areias do Egito encontra-se a lenda de um Deus: o Faraó Djoser."
+    },
+    {
+      "show_name": "Grandes Mitos - A Ilíada",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_grandes-mitos-a-iliada-s02e03-a-ira-de-aquiles_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 3 - A Ira de Aquiles",
+      "start_time": "15:14",
+      "end_time": "15:42",
+      "episode_description": "Dez anos se passaram desde que as forças gregas desembarcaram nas margens de Tróia. Mas a cidade do Rei Priam ainda não caiu."
+    },
+    {
+      "show_name": "Grandes Mitos - A Ilíada",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_grandes-mitos-a-iliada-s02e04-o-sangue-da-deusa_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 4 - O Sangue da Deusa",
+      "start_time": "15:42",
+      "end_time": "16:10",
+      "episode_description": "Menelau enfrenta Páris; Agamenon tem uma premonição sobre a invasão de Troia."
+    },
+    {
+      "show_name": "O Ouro Perdido da Segunda Guerra Mundial",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-ouro-perdido-da-segunda-guerra-mundial-s01e02-um-x-marca-o-lugar_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Um X Marca o Lugar",
+      "start_time": "16:10",
+      "end_time": "17:00",
+      "episode_description": "As escavações são interrompidas por uma armadilha. Um especialista compartilha uma pista chave e a tecnologia revela uma caverna oculta."
+    },
+    {
+      "show_name": "Engenheiros de Hitler - Construindo o Terceiro Reich",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_engenheiros-de-hitler-construindo-o-terceiro-reich-s01e02-wernher-von-braun_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Wernher Von Braun",
+      "start_time": "17:00",
+      "end_time": "17:50",
+      "episode_description": "O herói americano Werner von Braun foi uma figura fundamental na missão da NASA que levou o homem à Lua. No entanto, seu passado foi à frente do programa de foguetes nazista que criou as mortais Armas de Vingança e ceifou milhares de vidas."
     },
     {
       "show_name": "Carangas Absurdas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_carangas-absurdas-s01e01-nem-todo-carro-e-o-que-parece_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 1 - Nem Todo Carro É o que Parece",
-      "start_time": "17:45",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_carangas-absurdas-s01e02-os-reis-da-ferrugem_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Os Reis da Ferrugem",
+      "start_time": "17:50",
       "end_time": "18:15",
-      "episode_description": "Há carros que parecem uma coisa e são outra, outros que não parecem o que são e outros que parecem várias coisas ao mesmo tempo. A poderosa Gol Rural de Felipe é um exemplo, mas o Buggy Ferrari de Rummenik e o Golf-Fusca de Bruno não ficam atrás."
+      "episode_description": "O estilo rat tem uma estética única. Em São Paulo, o Karosso do Rani, um Kadett modificado, é um ícone. No Paraná, destacam-se o Voyage de Marlo e o Blanka Rat de Rafael."
     },
     {
-      "show_name": "O Século Asiático",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-seculo-asiatico-s01e04-a-divis-o-da-india_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 4 - A Divisão da Índia",
+      "show_name": "A Ascensão e a Queda dos Faraós",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-ascens-o-e-a-queda-dos-faraos-s01e01-a-ascens-o-do-farao_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - A Ascensão do Faraó",
       "start_time": "18:15",
       "end_time": "19:15",
-      "episode_description": "O ano de 2017 marca o 70º aniversário da Partição entre a Índia e o Paquistão, uma das maiores migrações da história. Descubra a sua brutalidade pelos testemunhos de pessoas separadas e na tensa relação entre Jinnah e Gandhi."
+      "episode_description": "Narmer, o primeiro faraó do Egito, unificou o país por meio da força militar. No entanto, ele manteve isso através de uma das primeiras obras de propaganda da história: A Paleta de Narmer, que o mostra esmagando seus pequenos inimigos."
     },
     {
-      "show_name": "O Efeito Nostradamus",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-efeito-nostradamus-1_l_m.jpg",
-      "show_category": "History",
+      "show_name": "Maldições da História",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_maldic-es-da-historia-s01e01-a-maldic-o-do-homem-de-gelo-e-cidade-dos-gritos_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - A Maldição do Homem de Gelo e Cidade dos Gritos",
       "start_time": "19:15",
-      "end_time": "20:10",
-      "episode_description": "O livro do Apocalipse é o mais cativante e controverso da Bíblia. Escrito por um profeta há quase dois mil anos, descreve nos últimos capítulos do Novo Testamento o violento fim dos dias da humanidade, um período com a duração de sete anos."
+      "end_time": "20:15",
+      "episode_description": "Um antigo pergaminho deixa um rastro de morte pela Europa; uma múmia neolítica lança uma maldição fatal sobre qualquer um que se aproxime dos Alpes congelados; no Afeganistão há uma cidade destruída pela guerra que é assombrada por almas em dor."
     },
     {
-      "show_name": "O Efeito Nostradamus",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-efeito-nostradamus-s01e04-juramento-de-sangue-de-hitler_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 4 - Juramento de Sangue de Hitler",
-      "start_time": "20:10",
-      "end_time": "21:05",
-      "episode_description": "O programa examina Adolf Hitler, cuja chegada ao poder foi prevista por Nostradamus e Erik Jan Hanussen. O lider nazista foi declarado o Messias que tiraria a Alemanha de uma dura época, mas mergulhou a Europa em sua mais sangrenta guerra."
+      "show_name": "Maldições da História",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_maldic-es-da-historia-s01e02-abandone-toda-a-esperanca-e-o-aviso-do-barbaro_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Abandone Toda a Esperança e o Aviso do Bárbaro",
+      "start_time": "20:15",
+      "end_time": "21:15",
+      "episode_description": "O diamante Hope sai da Índia e deixa um rastro de morte e devastação por onde passa; afirmam que alguém roubou o crânio de Shakespeare apesar de existir um aviso maldito; um deus vingativo pune aqueles que roubam relíquias sagradas."
     },
     {
-      "show_name": "Operação de Espionagem",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_operac-o-de-espionagem-s01e01-shadow-man_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 1",
-      "start_time": "21:05",
-      "end_time": "22:00",
-      "episode_description": "Em 1939, o mundo estava à beira da guerra. Um enigmático empresário canadense, William Stephenson, embarcou em uma missão que mudaria a história."
+      "show_name": "Maldições da História",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_maldic-es-da-historia-s01e03-tumba-de-timur-a-maldic-o-do-nono-a-cidade-perdida-de-frenier_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3 - Tumba de Timur, a Maldição do Nono, a Cidade Perdida de Frenier",
+      "start_time": "21:15",
+      "end_time": "22:15",
+      "episode_description": "Um aviso esquecido no túmulo de um conquistador precede uma das invasões mais mortais conhecidas da história da humanidade. Um número amaldiçoado assombra compositores que buscam reconhecimento. Uma curandeira faz vilas inteiras desaparerecem."
     },
     {
-      "show_name": "Operação de Espionagem",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_operac-o-de-espionagem-s01e02-shadow-man_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 2",
-      "start_time": "22:00",
-      "end_time": "23:00",
-      "episode_description": "Em 1939, o mundo estava à beira da guerra. Um enigmático empresário canadense, William Stephenson, embarcou em uma missão que mudaria a história."
+      "show_name": "Exploração Inca",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_explorac-o-inca_l_m.jpg",
+      "show_category": "History",
+      "start_time": "22:15",
+      "end_time": "23:15",
+      "episode_description": "Os incas levaram 95 anos para erguerem o maior império da América e usaram a sabedoria acumulada por mais de 10 mil anos no continente."
     },
     {
-      "show_name": "Decodificando Desastres",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_decodificando-desastres-s01e01-megainundac-es_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 1 - Megainundações",
-      "start_time": "23:00",
+      "show_name": "Exploração Asteca",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_explorac-o-asteca-s01e01-a-origem_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - A Origem",
+      "start_time": "23:15",
       "end_time": "",
-      "episode_description": "A água cobre dois terços da Terra e é essencial para a vida, mas o seu impacto pode ser devastador: de inundações a tsunamis e ondas de 30 metros que podem destruir cidades e acabar com milhares de vidas em questão de horas."
+      "episode_description": "O percurso histórico começa na Cidade do México, onde ainda repousam os restos de Tenochtitlan, capital do império asteca. Em seguida, parta em busca da mítica Aztlán, a cidade de origem tal como a ergueram os primeiros astecas."
     }
   ]
 }

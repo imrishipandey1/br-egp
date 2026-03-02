@@ -1,38 +1,38 @@
 {
   "channel": "TV Jangadeiro",
-  "date": "02/03/2026",
+  "date": "03/03/2026",
   "schedule": [
     {
-      "show_name": "Titãs",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_tit-s_l_m.jpg",
-      "show_category": "Drama",
-      "start_time": "00:00",
-      "end_time": "01:00",
-      "episode_description": "Após se aventurar em carreira solo, o antigo parceiro do Batman, Dick Grayson, encontra um grupo de jovens heróis que precisam desesperadamente de um mentor."
+      "show_name": "The Noite com Danilo Gentili",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-noite-com-danilo-gentili_l_m.jpg",
+      "show_category": "Talk",
+      "start_time": "00:45",
+      "end_time": "01:45",
+      "episode_description": "Talk show com alto índice de piadas por minuto, que, com muita irreverência, aborda os fatos relevantes do dia."
     },
     {
-      "show_name": "SBT Notícias",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-noticias_l_m.jpg",
-      "show_category": "News",
-      "start_time": "01:00",
-      "end_time": "04:45",
-      "episode_description": "Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia."
+      "show_name": "Operação Mesquita",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_operac-o-mesquita_l_m.jpg",
+      "show_category": "Entertainment",
+      "start_time": "01:45",
+      "end_time": "02:15",
+      "episode_description": "Descubra o lado B dos famosos, que mostram o seu cotidiano de forma curiosa e divertida por meio de entrevistas. Acompanhe ainda pessoas comuns que estão prestes a protagonizar um grande momento que pode mudar para sempre as suas vidas."
     },
     {
-      "show_name": "SBT News Manhã",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-news-manh_l_m.jpg",
-      "show_category": "News",
-      "start_time": "04:45",
-      "end_time": "05:00",
-      "episode_description": "As principais notícias do Brasil e do mundo sobre cultura, economia, política e tecnologia."
+      "show_name": "SBT PodNight",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-podnight_l_m.jpg",
+      "show_category": "Talk",
+      "start_time": "02:15",
+      "end_time": "02:45",
+      "episode_description": "Exibição de podcasts brasileiros líderes de audiência nas plataformas digitais, que abordam temas variados, de cultura e entretenimento a questões sociais."
     },
     {
-      "show_name": "SBT Notícias",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-noticias_l_m.jpg",
+      "show_name": "SBT News",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-news_l_m.jpg",
       "show_category": "News",
-      "start_time": "05:00",
+      "start_time": "02:45",
       "end_time": "06:00",
-      "episode_description": "Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia."
+      "episode_description": "Acompanhe a cobertura dos assuntos mais relevantes sobre política, economia e justiça na madrugada, em uma experiência multiplataforma que une o digital à televisão e que traz correspondentes de locais onde o mundo já acordou."
     },
     {
       "show_name": "Quem Como Deus?",
@@ -115,18 +115,18 @@
       "episode_description": "Revista eletrônica com informação, humor e as principais fofocas do mundo dos famosos."
     },
     {
-      "show_name": "Tá na Hora",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_ta-na-hora_l_m.jpg",
-      "show_category": "News",
+      "show_name": "UEFA Champions League",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-uefa-champions-league-2_l_m.jpg",
+      "show_category": "UEFA Champions League",
       "start_time": "16:45",
-      "end_time": "18:30",
-      "episode_description": "Com foco em prestação de serviço e informações úteis, repórteres por todo o Brasil trazem as notícias representando o povo na TV. Colunistas abordam temas relevantes e trazem a voz da população."
+      "end_time": "18:45",
+      "episode_description": "Todas as emoções da principal competição de futebol masculino disputada entre clubes europeus."
     },
     {
       "show_name": "Jornal Jangadeiro - 1ª Edição",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-jangadeiro-1-edic-o_l_m.jpg",
       "show_category": "News",
-      "start_time": "18:30",
+      "start_time": "18:45",
       "end_time": "19:40",
       "episode_description": "O jornal exibe os principais fatos do dia, com notícias, matérias, reportagens especiais, denúncias, flagras e os maiores acontecimentos são apresentados com dinamismo e credibilidade."
     },
@@ -143,48 +143,32 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-brasil_l_m.jpg",
       "show_category": "News",
       "start_time": "19:45",
-      "end_time": "20:45",
+      "end_time": "20:30",
       "episode_description": "As principais notícias do Brasil e do mundo com análise profunda dos fatos."
-    },
-    {
-      "show_name": "Chaves",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_chaves_l_m.jpg",
-      "show_category": "Sitcom",
-      "start_time": "20:45",
-      "end_time": "21:05",
-      "episode_description": "Seu Madruga ganha uma casimira em uma rifa e decide trocá-la com o Senhor Barriga para ter um desconto nos aluguéis atrasados."
     },
     {
       "show_name": "A Caverna Encantada",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_a-caverna-encantada_l_m.jpg",
       "show_category": "Soap",
-      "start_time": "21:05",
-      "end_time": "22:00",
+      "start_time": "20:30",
+      "end_time": "21:15",
       "episode_description": "O médico e missionário Paulo recebe uma missão perigosa e, para cumpri-la, deixa a filha em um colégio interno no interior de São Paulo. Esperando uma visita do pai, Anna embarca em uma jornada própria e acaba descobrindo muito sobre seu passado."
     },
     {
-      "show_name": "Chapolin",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_chapolin_l_m.jpg",
-      "show_category": "Children",
-      "start_time": "22:00",
-      "end_time": "22:20",
-      "episode_description": "Alguns criminosos são cúmplices da morte de Tripa Seca."
+      "show_name": "Copa do Nordeste",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-copa-do-nordeste-1_l_m.jpg",
+      "show_category": "Copa do Nordeste",
+      "start_time": "21:15",
+      "end_time": "23:20",
+      "episode_description": "Todas as emoções do torneio que reúne equipes de futebol masculino da região Nordeste do Brasil."
     },
     {
-      "show_name": "Programa do Ratinho",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_programa-do-ratinho_l_m.jpg",
+      "show_name": "Filme",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_filme-1_l_m.jpg",
       "show_category": "Variety",
-      "start_time": "22:20",
-      "end_time": "23:30",
-      "episode_description": "O apresentador Carlos Massa leva ao público um programa alegre e repleto de atrações. Ele recebe convidados famosos e games, comédia, participação do público e quadros únicos, como o \"Jornal Racional\", \"Gol Show\" e \"Dez ou Mil\", entre outros."
-    },
-    {
-      "show_name": "Arena SBT",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_arena-sbt_l_m.jpg",
-      "show_category": "Sports talk",
-      "start_time": "23:30",
+      "start_time": "23:20",
       "end_time": "",
-      "episode_description": "Debates quentes, com análises afiadas e irreverentes, sobre os principais acontecimentos do mundo do futebol, levando a emoção do jogo para fora das quatro linhas."
+      "episode_description": "Acompanhe uma produção cinematográfica."
     }
   ]
 }

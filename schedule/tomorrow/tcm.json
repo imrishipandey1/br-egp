@@ -1,60 +1,44 @@
 {
   "channel": "TCM",
-  "date": "02/03/2026",
+  "date": "03/03/2026",
   "schedule": [
-    {
-      "show_name": "O Último Turno",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-ultimo-turno-2020_l_m.jpg",
-      "show_category": "Comedy drama / 2020",
-      "start_time": "01:20",
-      "end_time": "02:47",
-      "episode_description": "Stanley é um funcionário do mundo do fast food que se prepara para seu último turno após 38 anos sem descanso. Quando lhe pedem para treinar a pessoa que vai substituí-lo, porém, a vida de Stanley dá uma guinada inesperada."
-    },
     {
       "show_name": "A Sedutora Madame Bovary",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_a-sedutora-madame-bovary-1949_l_m.jpg",
       "show_category": "Romance / 1949",
-      "start_time": "02:47",
-      "end_time": "04:41",
+      "start_time": "01:34",
+      "end_time": "03:28",
       "episode_description": "A busca insaciável de uma mulher por romance acaba se tornando sua própria ruína."
     },
     {
+      "show_name": "Em um Relacionamento Sério",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_em-um-relacionamento-serio-2018_l_m.jpg",
+      "show_category": "Romantic comedy / 2018",
+      "start_time": "03:28",
+      "end_time": "04:59",
+      "episode_description": "O casal de longa data Owen e Hallie talvez esteja terminando. Assim que o relacionamento deles chega a um ponto de virada, seu amigo Matt e sua prima Willa embarcam em um romance não tão casual."
+    },
+    {
       "show_name": "Hollywood One on One",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
       "show_category": "Talk",
-      "start_time": "04:41",
-      "end_time": "05:16",
+      "start_time": "04:59",
+      "end_time": "05:33",
       "episode_description": "Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!"
     },
     {
       "show_name": "Hollywood One on One",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
       "show_category": "Talk",
-      "start_time": "05:16",
-      "end_time": "05:26",
+      "start_time": "05:33",
+      "end_time": "05:47",
       "episode_description": "Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!"
     },
     {
       "show_name": "Hollywood One on One",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
       "show_category": "Talk",
-      "start_time": "05:26",
-      "end_time": "05:36",
-      "episode_description": "Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!"
-    },
-    {
-      "show_name": "Hollywood One on One",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
-      "show_category": "Talk",
-      "start_time": "05:36",
-      "end_time": "05:44",
-      "episode_description": "Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!"
-    },
-    {
-      "show_name": "Hollywood One on One",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
-      "show_category": "Talk",
-      "start_time": "05:44",
+      "start_time": "05:47",
       "end_time": "06:00",
       "episode_description": "Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!"
     },
@@ -63,112 +47,88 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
       "show_category": "Talk",
       "start_time": "06:00",
-      "end_time": "06:34",
+      "end_time": "06:20",
       "episode_description": "Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!"
-    },
-    {
-      "show_name": "Hollywood One on One",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
-      "show_category": "Talk",
-      "start_time": "06:34",
-      "end_time": "07:11",
-      "episode_description": "Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!"
-    },
-    {
-      "show_name": "Hollywood One on One",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
-      "show_category": "Talk",
-      "start_time": "07:11",
-      "end_time": "07:46",
-      "episode_description": "Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!"
-    },
-    {
-      "show_name": "Hollywood One on One",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
-      "show_category": "Talk",
-      "start_time": "07:46",
-      "end_time": "07:56",
-      "episode_description": "Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!"
-    },
-    {
-      "show_name": "Agentes Selvagens",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_agentes-selvagens-2019_l_m.jpg",
-      "show_category": "Children / 2019",
-      "start_time": "07:56",
-      "end_time": "09:34",
-      "episode_description": "Vladimir e Hector, um gato e um rato respectivamente, são dois agentes secretos completamente opostos que tentam recuperar um material secreto roubado por intrusos desconhecidos."
-    },
-    {
-      "show_name": "Scaramouche",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_scaramouche-1952_l_m.jpg",
-      "show_category": "Adventure / 1952 /7.7",
-      "start_time": "09:34",
-      "end_time": "11:28",
-      "episode_description": "O francês Andre Moreau trabalha como palhaço em uma trupe de teatro. Enquanto isso, ele treina esgrima para se vingar de um marquês que matou seu melhor amigo em um duelo e roubou sua namorada."
-    },
-    {
-      "show_name": "Conspiração de Silêncio",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_conspirac-o-de-silencio-1955_l_m.jpg",
-      "show_category": "Crime drama / 1955",
-      "start_time": "11:28",
-      "end_time": "12:50",
-      "episode_description": "Quando John J. Macreedy, um veterano de guerra de um braço só, chega à pequena cidade de Black Rock, ele não é bem recebido. Procurando por um homem chamado Komoko, Macreedy é olhado com desdém por praticamente todos os moradores, incluindo o bandido residente Hector David e o imponente Reno Smith. Quando Macreedy se aprofunda na investigação, a hostilidade se transforma em violência e perigo iminente para o misterioso e curioso estranho."
-    },
-    {
-      "show_name": "O Jogo da Imitação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-jogo-da-imitac-o-2014_l_m.jpg",
-      "show_category": "Historical drama / 2014",
-      "start_time": "12:50",
-      "end_time": "14:41",
-      "episode_description": "Em 1939, a recém-criada agência de inteligência britânica MI6 recruta Alan Turing, um aluno da Universidade de Cambridge, para entender códigos nazistas, incluindo o \"Enigma\", que criptógrafos acreditavam ser inquebrável. A equipe de Turing, incluindo Joan Clarke, analisa as mensagens de \"Enigma\", enquanto ele constrói uma máquina para decifrá-las. Após desvendar as codificações, Turing se torna herói. Porém, em 1952, autoridades revelam sua homossexualidade, e a vida dele vira um pesadelo."
     },
     {
       "show_name": "Intriga Internacional",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_intriga-internacional-1959-1_l_m.jpg",
       "show_category": "Thriller / 1959",
-      "start_time": "14:41",
-      "end_time": "16:58",
+      "start_time": "06:20",
+      "end_time": "08:39",
       "episode_description": "Um caso de falsa identidade faz com que um espião estrangeiro persiga um homem inocente de Nova York até o Monte Rushmore."
     },
     {
       "show_name": "Suspeita",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_suspeita-1941_l_m.jpg",
       "show_category": "Thriller / 1941",
-      "start_time": "16:58",
-      "end_time": "18:39",
+      "start_time": "08:39",
+      "end_time": "10:22",
       "episode_description": "O charmoso apostador Johnnie Aysgarth corteja num trem a rica e tímida Lina McLaidlaw, que foge e casa com ele apesar da desaprovação do pai. Quando um amigo de Johnnie morre, ela teme que o marido pense em matá-la para ficar com sua herança."
     },
     {
       "show_name": "Disque Butterfield 8",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_disque-butterfield-8-1960_l_m.jpg",
       "show_category": "Drama / 1960",
-      "start_time": "18:39",
-      "end_time": "20:28",
+      "start_time": "10:22",
+      "end_time": "12:14",
       "episode_description": "O filme conta a história de Gloria Wandrous, uma charmosa prostituta de Nova York que carrega um passado perturbador. Ela se apaixona por um homem milionário e casado, mas tem dúvidas sobre se poderá dedicar-se a um único amor."
+    },
+    {
+      "show_name": "A Filha da Noiva",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-filha-da-noiva-2023_l_m.jpg",
+      "show_category": "Romantic comedy / 2023",
+      "start_time": "12:14",
+      "end_time": "14:00",
+      "episode_description": "Diane e sua filha Kate são melhores amigas, mas o relacionamento das duas vira de pernas para o ar quando a jovem tenta arruinar os planos de casamento de Diane e o noivo Bruce."
+    },
+    {
+      "show_name": "Breaking Point - Paixão à Dança",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_breaking-point-paix-o-a-danca-2023_l_m.jpg",
+      "show_category": "Drama / 2023",
+      "start_time": "14:00",
+      "end_time": "15:47",
+      "episode_description": "Dois irmãos dançarinos desafiam o luto e suas diferenças para competir nas seletivas nacionais de breakdance da Grã-Bretanha e conseguir uma vaga na equipe que representará o país no Campeonato Mundial de Londres."
+    },
+    {
+      "show_name": "Quo Vadis?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quo-vadis-1951_l_m.jpg",
+      "show_category": "Historical drama / 1951 /7.2",
+      "start_time": "15:47",
+      "end_time": "18:41",
+      "episode_description": "Retornando de uma campanha militar no estrangeiro, o general Marcus Vinicius descobre que uma nova religião tomou conta de Roma: o cristianismo. Quando Vinicius encontra Lygia, uma seguidora da estranha religião, ele rapidamente se torna louco por ela e tenta ganhar o seu afeto. Lygia é relutante devido às suas crenças divergentes. Para complicar, o louco imperador Nero, que culpa os cristãos pela queima de Roma, inicia uma onda de perseguição."
     },
     {
       "show_name": "#PartiuFama - Cancelado no Amor",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_partiufama-cancelado-no-amor-2022_l_m.jpg",
       "show_category": "Comedy / 2022",
-      "start_time": "20:28",
-      "end_time": "22:00",
+      "start_time": "18:41",
+      "end_time": "20:13",
       "episode_description": "Gabriel sempre sonhou em ser famoso, mas sua timidez não permitia nem que ele falasse com Bianca, sua paixão de infância. Após reprogramar seu passado, ele se torna popular na escola. Mesmo assim, seus vídeos não viralizam. Quando decide prestar atenção nas histórias de um cliente do boteco de seu pai, que relata suas desventuras na juventude, Gabriel passa a gravar vídeos contando estas histórias como se fossem suas e se torna um youtuber de sucesso, mas as coisas fogem de controle."
     },
     {
-      "show_name": "O Destino Bate à Sua Porta",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-destino-bate-a-sua-porta-1946-1_l_m.jpg",
-      "show_category": "Crime drama / 1946",
-      "start_time": "22:00",
-      "end_time": "23:52",
-      "episode_description": "Nick Smith contrata Frank Chambers para trabalhar em seu restaurante de beira de estrada. O funcionário logo se envolve romanticamente com a mulher do patrão, Cora. Os amantes planejam matar Nick para tomar posse de seus bens."
+      "show_name": "Desfile de Páscoa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_desfile-de-pascoa-1948_l_m.jpg",
+      "show_category": "Musical comedy / 1948",
+      "start_time": "20:13",
+      "end_time": "22:00",
+      "episode_description": "Quando sua parceira decide seguir carreira solo, a estrela Don Hewes promete transformar a primeira dançarina que encontrar em artista. Ao treinar a inexperiente Hannah, Don se apaixona e percebe que deve deixar que ela desenvolva seu próprio estilo."
     },
     {
       "show_name": "Cantando na Chuva",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_cantando-na-chuva-1952-1_l_m.jpg",
       "show_category": "Musical comedy / 1952",
-      "start_time": "23:52",
-      "end_time": "",
+      "start_time": "22:00",
+      "end_time": "23:45",
       "episode_description": "Don Lockwood e Lina Lamont são estrelas do cinema mudo e agem como um casal pela imprensa. Quando o cinema falado surge, enfrentam um grande desafio, adaptar-se à nova tecnologia para preservar suas carreiras, apesar da voz inadequada de Lina."
+    },
+    {
+      "show_name": "O Homem ao Lado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-homem-ao-lado-2009_l_m.jpg",
+      "show_category": "Comedy drama / 2009",
+      "start_time": "23:45",
+      "end_time": "",
+      "episode_description": "Um homem entra em conflito com seu vizinho depois de ver uma janela instalada com vista para sua casa."
     }
   ]
 }

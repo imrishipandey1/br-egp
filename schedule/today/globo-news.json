@@ -1,190 +1,110 @@
 {
   "channel": "Globo News",
-  "date": "01/03/2026",
+  "date": "02/03/2026",
   "schedule": [
     {
-      "show_name": "Jornal GloboNews - Edição da Meia-Noite",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-globonews-edic-o-da-meia-noite-2_l_m.jpg",
+      "show_name": "Jornal GloboNews - Edição das 2 Horas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-globonews-edic-o-das-2-horas-1_l_m.jpg",
       "show_category": "News",
-      "start_time": "00:30",
-      "end_time": "01:30",
-      "episode_description": "Narayanna Borges traz as repercussões das principais notícias no Brasil e no mundo."
-    },
-    {
-      "show_name": "Globo Repórter",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_globo-reporter-1_l_m.jpg",
-      "show_category": "Newsmagazine",
-      "start_time": "01:30",
-      "end_time": "02:30",
-      "episode_description": "O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo."
-    },
-    {
-      "show_name": "Cidades e Soluções",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidades-e-soluc-es-1_l_m.jpg",
-      "show_category": "Public affairs",
-      "start_time": "02:30",
-      "end_time": "03:00",
-      "episode_description": "André Trigueiro abre espaço para as experiências que transformam para melhor a vida das pessoas e das cidades, com uso inteligente e sustentável dos recursos naturais."
-    },
-    {
-      "show_name": "Jornal GloboNews - Edição das 3 Horas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-globonews-edic-o-das-3-horas-1_l_m.jpg",
-      "show_category": "News",
-      "start_time": "03:00",
-      "end_time": "04:30",
+      "start_time": "02:35",
+      "end_time": "03:20",
       "episode_description": "Acompanhe os principais fatos que acontecem no Brasil e no Mundo."
     },
     {
-      "show_name": "Liderança S/A",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lideranca-s-a-s01e48_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 48",
-      "start_time": "04:30",
-      "end_time": "05:00",
-      "episode_description": "Presidentes de empresas e CEOs compartilham experiências, dificuldades e aprendizados sobre liderança. E contam como chegaram ao maior cargo da empresa."
+      "show_name": "Pequenas Empresas & Grandes Negócios",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pequenas-empresas-grandes-negocios-2_l_m.jpg",
+      "show_category": "Bus./financial",
+      "start_time": "03:20",
+      "end_time": "04:00",
+      "episode_description": "Do campo ao e-commerce: o \"PEGN\" apresenta negócios que unem moda, varejo e música; histórias de empreendedores conectam tradição e modernidade."
     },
     {
       "show_name": "Jornal das Dez",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-das-dez-1_l_m.jpg",
       "show_category": "News",
+      "start_time": "04:00",
+      "end_time": "05:00",
+      "episode_description": "Aline Midlej e um time de comentaristas apresentam e analisam os bastidores das notícias."
+    },
+    {
+      "show_name": "Jornal GloboNews - Edição das 5 Horas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-globonews-edic-o-das-5-horas-1_l_m.jpg",
+      "show_category": "News",
       "start_time": "05:00",
       "end_time": "06:00",
-      "episode_description": "Aline Midlej e um time de comentaristas apresentam e analisam os bastidores das notícias."
+      "episode_description": "Os principais fatos que acontecem no Brasil e no mundo."
     },
     {
       "show_name": "Jornal GloboNews - Edição das 6 Horas",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-globonews-edic-o-das-6-horas-1_l_m.jpg",
       "show_category": "News",
       "start_time": "06:00",
-      "end_time": "06:20",
+      "end_time": "07:00",
       "episode_description": "As principais notícias, agenda política, previsão do tempo e informações para ficar bem-informado."
     },
     {
-      "show_name": "Globo Repórter",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_globo-reporter-1_l_m.jpg",
-      "show_category": "Newsmagazine",
-      "start_time": "06:20",
-      "end_time": "07:00",
-      "episode_description": "O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo."
-    },
-    {
-      "show_name": "Jornal GloboNews - Edição das 7 Horas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-globonews-edic-o-das-7-horas-1_l_m.jpg",
+      "show_name": "GloboNews em Ponto",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_globonews-em-ponto_l_m.jpg",
       "show_category": "News",
       "start_time": "07:00",
-      "end_time": "08:00",
-      "episode_description": "Acompanhe os principais fatos que acontecem no Brasil e no Mundo."
-    },
-    {
-      "show_name": "Jornal GloboNews - Edição das 8 Horas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-globonews-edic-o-das-8-horas-1_l_m.jpg",
-      "show_category": "News",
-      "start_time": "08:00",
       "end_time": "09:30",
-      "episode_description": "Acompanhe os principais fatos que acontecem no Brasil e no mundo."
+      "episode_description": "Mônica Waldvogel e Nilson Klava apresentam as principais notícias e informações da manhã."
     },
     {
-      "show_name": "Liderança S/A",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lideranca-s-a-s01e48_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 48",
+      "show_name": "Conexão Globonews",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_conex-o-globonews_l_m.jpg",
+      "show_category": "News",
       "start_time": "09:30",
-      "end_time": "10:00",
-      "episode_description": "Presidentes de empresas e CEOs compartilham experiências, dificuldades e aprendizados sobre liderança. E contam como chegaram ao maior cargo da empresa."
+      "end_time": "13:00",
+      "episode_description": "Leilane Neubarth e Camila Bomfim analisam os principais acontecimentos do mundo."
     },
     {
-      "show_name": "Jornal GloboNews - Edição das 10 Horas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-globonews-edic-o-das-10-horas-1_l_m.jpg",
+      "show_name": "Estúdio i",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_estudio-i-1_l_m.jpg",
       "show_category": "News",
-      "start_time": "10:00",
-      "end_time": "11:00",
-      "episode_description": "Fique por dentro das notícias da manhã, assista a debates interativos, confira a previsão do tempo e tire proveito da prestação de serviços, como colunas do consumidor, tecnologia, profissões, cultura e datas marcantes."
+      "start_time": "13:00",
+      "end_time": "16:00",
+      "episode_description": "Acompanhada por um prestigiado time de comentaristas, Andréia Sadi destaca e analisa as principais notícias e o que é assunto nas redes sociais, além de antecipar as tendências dentro e fora do ambiente digital."
     },
     {
-      "show_name": "Globo Rural",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_globo-rural-1_l_m.jpg",
-      "show_category": "Agriculture",
-      "start_time": "11:00",
-      "end_time": "12:30",
-      "episode_description": "Acompanhe as principais notícias sobre o agronegócio, os índices do setor agrícola e informações sobre a vida no campo, além de reportagens especiais."
-    },
-    {
-      "show_name": "Jornal GloboNews - Edição do Meio-Dia",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-globonews-edic-o-do-meio-dia_l_m.jpg",
+      "show_name": "GloboNews Mais",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_globonews-mais_l_m.jpg",
       "show_category": "News",
-      "start_time": "12:30",
-      "end_time": "14:20",
-      "episode_description": "Acompanhe os principais fatos que acontecem no Brasil e no mundo."
-    },
-    {
-      "show_name": "Pequenas Empresas & Grandes Negócios",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_pequenas-empresas-grandes-negocios-2_l_m.jpg",
-      "show_category": "Bus./financial",
-      "start_time": "14:20",
-      "end_time": "15:00",
-      "episode_description": "Do campo ao e-commerce: o \"PEGN\" apresenta negócios que unem moda, varejo e música; histórias de empreendedores conectam tradição e modernidade."
-    },
-    {
-      "show_name": "Jornal GloboNews - Edição das 15 Horas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-globonews-edic-o-das-15-horas-1_l_m.jpg",
-      "show_category": "News",
-      "start_time": "15:00",
-      "end_time": "17:20",
-      "episode_description": "Acompanhe os principais fatos que acontecem no Brasil e no mundo."
-    },
-    {
-      "show_name": "Globo Repórter",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_globo-reporter-1_l_m.jpg",
-      "show_category": "Newsmagazine",
-      "start_time": "17:20",
+      "start_time": "16:00",
       "end_time": "18:00",
-      "episode_description": "O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo."
+      "episode_description": "Julia Duailibi apresenta as principais notícias do dia e a repercussão dos acontecimentos mais importantes do momento. Tudo com análise, bastidores e entrevistas exclusivas com os nomes mais importantes da política e economia do Brasil."
     },
     {
       "show_name": "Jornal GloboNews - Edição das 18 Horas",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-globonews-edic-o-das-18-horas-1_l_m.jpg",
       "show_category": "News",
       "start_time": "18:00",
-      "end_time": "19:30",
+      "end_time": "20:00",
       "episode_description": "Natuza Nery apresenta a cobertura completa de tudo o que foi destaque ao longo do dia, no Brasil e no mundo, e um time de comentaristas analisa os principais acontecimentos do momento."
     },
     {
-      "show_name": "GloboNews Internacional",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_globonews-internacional_l_m.jpg",
-      "show_category": "Interview",
-      "start_time": "19:30",
-      "end_time": "20:00",
-      "episode_description": "Guga Chacra, Marcelo Lins e um time de convidados colocam em perspectiva o que é notícia no mundo e os temas de grande impacto internacional."
-    },
-    {
-      "show_name": "Jornal GloboNews - Edição das 18 Horas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-globonews-edic-o-das-18-horas-1_l_m.jpg",
+      "show_name": "Em Pauta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_em-pauta-1_l_m.jpg",
       "show_category": "News",
       "start_time": "20:00",
       "end_time": "22:00",
-      "episode_description": "Natuza Nery apresenta a cobertura completa de tudo o que foi destaque ao longo do dia, no Brasil e no mundo, e um time de comentaristas analisa os principais acontecimentos do momento."
+      "episode_description": "O time de comentaristas analisa e debate os grandes temas políticos, econômicos, culturais e internacionais do dia, aprofundando os assuntos e gerando reflexão."
     },
     {
       "show_name": "Jornal das Dez",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-das-dez-1_l_m.jpg",
       "show_category": "News",
       "start_time": "22:00",
-      "end_time": "23:05",
+      "end_time": "23:30",
       "episode_description": "Aline Midlej e um time de comentaristas apresentam e analisam os bastidores das notícias."
     },
     {
-      "show_name": "Liderança S/A",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lideranca-s-a-s01e48_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 48",
-      "start_time": "23:05",
-      "end_time": "23:35",
-      "episode_description": "Presidentes de empresas e CEOs compartilham experiências, dificuldades e aprendizados sobre liderança. E contam como chegaram ao maior cargo da empresa."
-    },
-    {
-      "show_name": "Fantástico",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_fantastico_l_m.jpg",
-      "show_category": "Newsmagazine",
-      "start_time": "23:35",
-      "end_time": "02:35",
-      "episode_description": "Em forma de revista eletrônica, o programa mistura jornalismo, denúncia, esporte, humor, dramaturgia, música e ciência."
+      "show_name": "GloboNews Especial",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_globonews-especial_l_m.jpg",
+      "show_category": "Public affairs",
+      "start_time": "23:30",
+      "end_time": "00:00",
+      "episode_description": "O programa analisa questões que em um primeiro momento podem parecer desconexas, mas que têm em comum o fato de ajudar a entender melhor o mundo atual e a formar opinião."
     }
   ]
 }

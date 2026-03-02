@@ -1,150 +1,134 @@
 {
   "channel": "Multishow",
-  "date": "02/03/2026",
+  "date": "03/03/2026",
   "schedule": [
     {
-      "show_name": "Vai que Cola",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-s13e06-a-rainha-do-pistache_l_m.jpg",
-      "show_category": "Temporada 13 Episódio 6 - A Rainha do Pistache",
-      "start_time": "00:50",
-      "end_time": "01:30",
-      "episode_description": "Quentinha da Dona Jô ganha um toque gourmet: pistache. O ingrediente bombado é fornecido por Sidlayne, mas acaba deixando os clientes verdes. Chama o SAMU."
+      "show_name": "Big Show",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_big-show-s26e07_l_m.jpg",
+      "show_category": "Temporada 26 Episódio 7",
+      "start_time": "00:00",
+      "end_time": "01:00",
+      "episode_description": "Debates, jogos, entrevistas e convidados especiais, incluindo o eliminado da semana no \"BBB\"."
     },
     {
-      "show_name": "Tô de Graça",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_to-de-graca-s05e05_l_m.jpg",
-      "show_category": "Temporada 5 Episódio 5 - Perdendo a Linha",
-      "start_time": "01:30",
-      "end_time": "02:01",
-      "episode_description": "Graça está fazendo home office de costureira para uma empresa, mas uma descoberta faz ela abrir um novo negócio."
-    },
-    {
-      "show_name": "Tô de Graça",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_to-de-graca-s05e06-a-pelada-da-marraia_l_m.jpg",
-      "show_category": "Temporada 5 Episódio 6 - A Pelada da Marraia",
-      "start_time": "02:01",
-      "end_time": "02:32",
-      "episode_description": "A comunidade está animada com a partida de futebol feminino. Graça é a chefe de torcida junto com Maico e Briti, a mascote. Marraia se desconcentra no jogo após a entrada de uma bela atacante."
+      "show_name": "A Grande Família",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-grande-familia-s08e31-a-grande-gentalha_l_m.jpg",
+      "show_category": "Temporada 8 Episódio 31 - A Grande Gentalha",
+      "start_time": "01:00",
+      "end_time": "01:36",
+      "episode_description": "Para impressionar, Agostinho resolve dar uma grande festa de batizado para Floriano; Agostinho trabalha duro para fazer a festa; família Silva enfrenta situação humilhante."
     },
     {
       "show_name": "Rede BBB",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_rede-bbb_l_m.jpg",
       "show_category": "Reality",
-      "start_time": "02:32",
-      "end_time": "02:47",
+      "start_time": "01:36",
+      "end_time": "01:51",
       "episode_description": "Apresenta flashes com os últimos acontecimentos da casa."
     },
     {
+      "show_name": "Tapas & Beijos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tapas-beijos-s01e01-as-aventuras-amorosas-de-suely-e-fatima_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - As Aventuras Amorosas de Suely e Fátima",
+      "start_time": "01:51",
+      "end_time": "02:26",
+      "episode_description": "Sueli e Fátima são surpreendidas com o retorno antecipado de Djalma e Flavinha; Jurandir reaparece e pede o divórcio a Sueli; Fátima quer se vingar de Armane."
+    },
+    {
       "show_name": "Chaves",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_chaves_l_m.jpg",
       "show_category": "Sitcom",
-      "start_time": "02:47",
-      "end_time": "03:10",
+      "start_time": "02:26",
+      "end_time": "02:53",
       "episode_description": "Seu Madruga ganha uma casimira em uma rifa e decide trocá-la com o Senhor Barriga para ter um desconto nos aluguéis atrasados."
     },
     {
       "show_name": "Chapolin",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_chapolin-s01e154-o-julgamento-la-no-teto-havia-um-buraquinho-que-pingava-muito-que-pingava-pouquinho_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 154 - O Julgamento; Lá no Teto Havia Um Buraquinho, que Pingava Muito, que Pingava Pouquinho",
-      "start_time": "03:10",
-      "end_time": "03:36",
-      "episode_description": "O Dr. Chapatin é acusado de ter matado um cachorrinho; Florinda está cansada de viver em uma casa cheia de goteiras, mas o senhorio não lhe dá a mínima."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_chapolin-s01e177-a-fortuna-de-federico-chopin_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 177 - A Fortuna de Federico Chopin",
+      "start_time": "02:53",
+      "end_time": "03:20",
+      "episode_description": "Florinda, herdeira de uma fortuna, está apaixonada pelo Conde de Terra-Nova, mas seu pai não aprova o relacionamento e tenta matar o namorado da filha. Chapolin chega para resolver a situação da família, e conta a história de Federico Chopin."
     },
     {
       "show_name": "Chaves",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_chaves_l_m.jpg",
       "show_category": "Sitcom",
-      "start_time": "03:36",
-      "end_time": "04:02",
+      "start_time": "03:20",
+      "end_time": "03:43",
       "episode_description": "Seu Madruga ganha uma casimira em uma rifa e decide trocá-la com o Senhor Barriga para ter um desconto nos aluguéis atrasados."
     },
     {
       "show_name": "Chapolin",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_chapolin-s01e155-o-boxeador-o-extrato-de-energia-vital_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 155 - O Boxeador; O Extrato de Energia Vital",
-      "start_time": "04:02",
-      "end_time": "04:28",
-      "episode_description": "Dr. Chapatin precisa cuidar de um boxeador que está todo machucado; um cientista cria um invento espetacular que faz as coisas voarem. No entanto, um bandido quer roubar essa criação."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_chapolin-s01e175-a-bola-de-cristal_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 175 - A Bola de Cristal",
+      "start_time": "03:43",
+      "end_time": "04:09",
+      "episode_description": "Charly compra uma bola de cristal perigosa. O Chapolin chega para salvar todos, mas fica hipnotizado e fará uma travessura."
     },
     {
       "show_name": "Chaves",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_chaves_l_m.jpg",
       "show_category": "Sitcom",
-      "start_time": "04:28",
-      "end_time": "04:54",
+      "start_time": "04:09",
+      "end_time": "04:33",
       "episode_description": "Seu Madruga ganha uma casimira em uma rifa e decide trocá-la com o Senhor Barriga para ter um desconto nos aluguéis atrasados."
     },
     {
-      "show_name": "Chapolin",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_chapolin-s01e157-proibido-pisar-no-piso_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 157 - Proibido Pisar no Piso",
-      "start_time": "04:54",
-      "end_time": "05:18",
-      "episode_description": "Florinda e seu pai estão sendo ameaçados de despejo. O pior de tudo é que a casa onde vivem pode desabar a qualquer momento."
+      "show_name": "TVZ",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tvz_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "04:33",
+      "end_time": "05:03",
+      "episode_description": "Os melhores videoclipes nacionais e internacionais das paradas musicais."
     },
     {
-      "show_name": "Chaves",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_chaves_l_m.jpg",
-      "show_category": "Sitcom",
-      "start_time": "05:18",
-      "end_time": "05:44",
-      "episode_description": "Seu Madruga ganha uma casimira em uma rifa e decide trocá-la com o Senhor Barriga para ter um desconto nos aluguéis atrasados."
+      "show_name": "Tô de Graça",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_to-de-graca-s07e02-retrato-falado_l_m.jpg",
+      "show_category": "Temporada 7 Episódio 2 - Retrato Falado",
+      "start_time": "05:03",
+      "end_time": "05:33",
+      "episode_description": "Um retrato falado agita o bairro e Vilso se vê no olho do furacão. Enquanto a polícia investiga, segredos e mentiras vêm à tona, complicando a busca pelo verdadeiro culpado."
     },
     {
-      "show_name": "Chaves",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_chaves_l_m.jpg",
-      "show_category": "Sitcom",
-      "start_time": "05:44",
-      "end_time": "05:44",
-      "episode_description": "Seu Madruga ganha uma casimira em uma rifa e decide trocá-la com o Senhor Barriga para ter um desconto nos aluguéis atrasados."
+      "show_name": "Muse: Drones World Tour",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_muse-drones-world-tour_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "05:33",
+      "end_time": "06:00",
+      "episode_description": "Muse, a banda multi-premiada mundialmente, embarcou em seus ambiciosos World Tour Drones em 2015, fazendo mais de 130 shows em todo o mundo. No centro dos visuais da turnê estavam os drones, que voavam de forma autônoma sobre o palco e ao redor do público. Confira as gravações de alguns destes shows, com efeitos especiais nunca vistos, ao som do célebre repertório da banda, incluindo Psycho, Uprising, Plug in Baby, Supermassive Black Hole e Knights of Cydonia."
     },
     {
-      "show_name": "Chaves",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_chaves_l_m.jpg",
-      "show_category": "Sitcom",
-      "start_time": "05:44",
-      "end_time": "06:09",
-      "episode_description": "Seu Madruga ganha uma casimira em uma rifa e decide trocá-la com o Senhor Barriga para ter um desconto nos aluguéis atrasados."
+      "show_name": "O Dono do Lar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-dono-do-lar-s03e15-manjando-dos-paranaues_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 15 - Manjando dos Paranauês",
+      "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": "Américo precisa consertar o varal da casa que arrebentou e, para não gastar dinheiro, aproveita umas cordas que estavam sobrando no quintal. O problema é que elas eram da turma de capoeira do Cris."
     },
     {
-      "show_name": "Chapolin",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_chapolin-s01e74-uma-heranca-explosiva_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 74 - A Herança",
-      "start_time": "06:09",
-      "end_time": "06:37",
-      "episode_description": "Três sobrinhos querem a herança do tio, e tentam matá-lo quando descobrem que não são os herdeiros."
-    },
-    {
-      "show_name": "Chaves",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_chaves_l_m.jpg",
-      "show_category": "Sitcom",
-      "start_time": "06:37",
+      "show_name": "O Dono do Lar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-dono-do-lar-s03e16-cabo-da-discordia_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 16 - Cabo da Discórdia",
+      "start_time": "06:30",
       "end_time": "07:00",
-      "episode_description": "Seu Madruga ganha uma casimira em uma rifa e decide trocá-la com o Senhor Barriga para ter um desconto nos aluguéis atrasados."
+      "episode_description": "Cansado das mesmices da TV aberta e das reclamações da família, Américo decide, com a ajuda de Cris, instalar o seu próprio ponto de TV a cabo na casa, mas acaba gerando uma porção de problemas."
     },
     {
       "show_name": "Chaves",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_chaves_l_m.jpg",
       "show_category": "Sitcom",
       "start_time": "07:00",
-      "end_time": "07:26",
+      "end_time": "07:54",
       "episode_description": "Seu Madruga ganha uma casimira em uma rifa e decide trocá-la com o Senhor Barriga para ter um desconto nos aluguéis atrasados."
     },
     {
-      "show_name": "Chapolin",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_chapolin_l_m.jpg",
-      "show_category": "Children",
-      "start_time": "07:26",
-      "end_time": "07:52",
-      "episode_description": "Alguns criminosos são cúmplices da morte de Tripa Seca."
-    },
-    {
-      "show_name": "Crush Animal",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_crush-animal-s01e02-coruja_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 2 - Coruja",
-      "start_time": "07:52",
+      "show_name": "O Dono do Lar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-dono-do-lar-s08e19-adivinhe-quem-vem-pro-jantar_l_m.jpg",
+      "show_category": "Temporada 8 Episódio 19 - Adivinhe Quem Vem pro Jantar",
+      "start_time": "07:54",
       "end_time": "08:00",
-      "episode_description": "Juvelina Machado nos brinda com toda a experiência e sabedoria de uma mulher madura. Uma verdadeira corujona que chega ao Crush Animal para alçar novos voos."
+      "episode_description": "Finalmente chega o dia em que a família conhecerá Vivi, a namorada de Miguel, mas uma confusão arrumada por Américo no supermercado pode colocar o evento em risco."
     },
     {
       "show_name": "TVZ",
@@ -155,140 +139,124 @@
       "episode_description": "Os melhores videoclipes nacionais e internacionais das paradas musicais."
     },
     {
-      "show_name": "Muse: Drones World Tour",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_muse-drones-world-tour_l_m.jpg",
-      "show_category": "Special",
+      "show_name": "A Vila",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-vila-s02e20_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 20 - Quem Sou Eu?",
       "start_time": "08:30",
-      "end_time": "08:58",
-      "episode_description": "Muse, a banda multi-premiada mundialmente, embarcou em seus ambiciosos World Tour Drones em 2015, fazendo mais de 130 shows em todo o mundo. No centro dos visuais da turnê estavam os drones, que voavam de forma autônoma sobre o palco e ao redor do público. Confira as gravações de alguns destes shows, com efeitos especiais nunca vistos, ao som do célebre repertório da banda, incluindo Psycho, Uprising, Plug in Baby, Supermassive Black Hole e Knights of Cydonia."
-    },
-    {
-      "show_name": "Reclame",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_reclame-s19e42_l_m.jpg",
-      "show_category": "Temporada 19 Episódio 42",
-      "start_time": "08:58",
-      "end_time": "09:28",
-      "episode_description": "Fique por dentro dos bastidores do mundo publicitário no Brasil e confira também entrevistas com profissionais da área, making of de campanhas, filmes de maior destaque e a cobertura dos eventos do setor."
-    },
-    {
-      "show_name": "Tapas & Beijos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_tapas-beijos-s05e21-nada-do-que-foi-sera_l_m.jpg",
-      "show_category": "Temporada 5 Episódio 21 - Nada do que Foi Será",
-      "start_time": "09:28",
-      "end_time": "10:12",
-      "episode_description": "Fátima e Sueli nem imaginam como os planos de terceiros podem mudar seus próprios sonhos."
-    },
-    {
-      "show_name": "Tapas & Beijos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_tapas-beijos-s05e22-o-final-feliz-de-fatima-e-sueli_l_m.jpg",
-      "show_category": "Temporada 5 Episódio 22 - O Final Feliz de Fátima e Sueli",
-      "start_time": "10:12",
-      "end_time": "11:06",
-      "episode_description": "Anos de amizade, convivência e cumplicidade. Fátima e Sueli compartilharam muitas histórias. Agora, elas dão o primeiro passo a um novo capítulo de suas vidas."
-    },
-    {
-      "show_name": "Chaves",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_chaves_l_m.jpg",
-      "show_category": "Sitcom",
-      "start_time": "11:06",
-      "end_time": "11:33",
-      "episode_description": "Seu Madruga ganha uma casimira em uma rifa e decide trocá-la com o Senhor Barriga para ter um desconto nos aluguéis atrasados."
-    },
-    {
-      "show_name": "Chapolin",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_chapolin-s01e177-a-fortuna-de-federico-chopin_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 177 - A Fortuna de Federico Chopin",
-      "start_time": "11:33",
-      "end_time": "12:00",
-      "episode_description": "Florinda, herdeira de uma fortuna, está apaixonada pelo Conde de Terra-Nova, mas seu pai não aprova o relacionamento e tenta matar o namorado da filha. Chapolin chega para resolver a situação da família, e conta a história de Federico Chopin."
-    },
-    {
-      "show_name": "Rede BBB",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_rede-bbb_l_m.jpg",
-      "show_category": "Reality",
-      "start_time": "12:00",
-      "end_time": "12:15",
-      "episode_description": "Apresenta flashes com os últimos acontecimentos da casa."
-    },
-    {
-      "show_name": "Vai que Cola",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-s02e31-arquivo-w_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 31 - Arquivo W",
-      "start_time": "12:15",
-      "end_time": "13:04",
-      "episode_description": "Wilson está tentando contato com vida inteligente fora da terra e diz para os moradores da pensão que já foi abduzido. Fenômenos paranormais e coisas estranhas começam a acontecer na pensão e todos tentam entender o que de fato aconteceu com ele."
+      "end_time": "08:59",
+      "episode_description": "Lupércio consegue alugar uma casa para um casal passar um fim de semana na Vila; Lupércio leva um choque e perde a memória; o casal chega e Violeta percebe a chance de se dar bem e apresenta Rique como o síndico."
     },
     {
       "show_name": "A Vila",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-vila-s02e19_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 19 - A Metade da Laranja",
-      "start_time": "13:04",
-      "end_time": "13:37",
-      "episode_description": "Lupércio está nervoso porque a vila vai ser visitada por uma subprefeita da cidade; ele soube que ela está em busca de um lugar novo pra morar, e se ela vier morar na vila, vai garantir inúmeros privilégios."
-    },
-    {
-      "show_name": "Toma Lá, Dá Cá",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_toma-la-da-ca-s01e13-atras-do-trio-eletrico_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 13 - Atrás do Trio Elétrico",
-      "start_time": "13:37",
-      "end_time": "14:20",
-      "episode_description": "Mário Jorge não consegue solicitar assistência técnica para a geladeira. A missão de falar com o serviço de atendimento sobra para Bozena. Mas ela acaba se atrapalhando com os números e sem querer, compra diversos eletrodomésticos."
-    },
-    {
-      "show_name": "Rede BBB",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_rede-bbb_l_m.jpg",
-      "show_category": "Reality",
-      "start_time": "14:20",
-      "end_time": "14:35",
-      "episode_description": "Apresenta flashes com os últimos acontecimentos da casa."
-    },
-    {
-      "show_name": "Cilada",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cilada-s02e10-m-e_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 10 - Mãe",
-      "start_time": "14:35",
-      "end_time": "14:40",
-      "episode_description": "Durante o clima de preparativos para o Dia das Mães, Débora se inspira e o casal passa a discutir sobre a ideia de ter filhos ou não."
-    },
-    {
-      "show_name": "Tô de Graça",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_to-de-graca-s05e10-encanamento-de-ouro_l_m.jpg",
-      "show_category": "Temporada 5 Episódio 10 - Encanamento de Ouro",
-      "start_time": "14:40",
-      "end_time": "15:12",
-      "episode_description": "Graça precisa trocar a tubulação de casa após um grande vazamento. Ao começar a cavar, ela descobre uma garrafa com indicações de que o antigo proprietário, que já foi o dono do morro, escondeu por ali um tesouro."
-    },
-    {
-      "show_name": "Tô de Graça",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_to-de-graca-s05e11-amor-proibido_l_m.jpg",
-      "show_category": "Temporada 5 Episódio 11 - Amor Proibido",
-      "start_time": "15:12",
-      "end_time": "15:43",
-      "episode_description": "Maico se apaixona por Torneirinha, um traficante do Morro rival. Começa a receber muitos presentes do crush. Graça aprova o namoro e tira proveito da situação. Pará fica sabendo e exige o término da relação."
-    },
-    {
-      "show_name": "Vai que Cola",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-s02e30-pens-o-otimizada_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 30 - Pensão Otimizada",
-      "start_time": "15:43",
-      "end_time": "16:37",
-      "episode_description": "Dona Jô ouve um anúncio no rádio e acredita que vai ganhar uma iogurteira. Imediatamente, ela liga para o telefone divulgado na propaganda e, pouco depois, o anunciante Lindolfo Tigre aparece na pensão prometendo mundos e fundos a todos."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-vila-s03e01-vila-coiffeur_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 1 - Vila Coiffeur",
+      "start_time": "08:59",
+      "end_time": "09:29",
+      "episode_description": "Lupércio conta que vai pedir Eleonora em noivado à noite, mas está apreensivo com sua aparência. Rique percebe a chance e diz que ele e Violeta estão montando um salão de beleza."
     },
     {
       "show_name": "Tapas & Beijos",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_tapas-beijos-s01e01-as-aventuras-amorosas-de-suely-e-fatima_l_m.jpg",
       "show_category": "Temporada 1 Episódio 1 - As Aventuras Amorosas de Suely e Fátima",
-      "start_time": "16:37",
-      "end_time": "17:12",
+      "start_time": "09:29",
+      "end_time": "10:04",
       "episode_description": "Sueli e Fátima são surpreendidas com o retorno antecipado de Djalma e Flavinha; Jurandir reaparece e pede o divórcio a Sueli; Fátima quer se vingar de Armane."
     },
     {
       "show_name": "Tapas & Beijos",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_tapas-beijos-s01e02-fatima-completa-bodas-de-cera-e-sueli-tem-recaida_l_m.jpg",
       "show_category": "Temporada 1 Episódio 2 - Fátima Completa Bodas de Cera e Sueli Tem Recaída",
-      "start_time": "17:12",
-      "end_time": "17:45",
+      "start_time": "10:04",
+      "end_time": "10:37",
       "episode_description": "Fátima completa bodas de cera com Armane. Ela o convida para jantar, mas ele dá uma desculpa. Sueli sugere que comemorem juntas, mas Jurandir atrapalha os planos."
+    },
+    {
+      "show_name": "Chaves",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_chaves_l_m.jpg",
+      "show_category": "Sitcom",
+      "start_time": "10:37",
+      "end_time": "11:04",
+      "episode_description": "Seu Madruga ganha uma casimira em uma rifa e decide trocá-la com o Senhor Barriga para ter um desconto nos aluguéis atrasados."
+    },
+    {
+      "show_name": "Chapolin",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_chapolin-s01e178-futebol-la-vou-eu-e-de-saude-como-vai-o-morto_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 178 - Futebol, Lá Vou Eu!; E de Saúde, Como Vai o Morto?",
+      "start_time": "11:04",
+      "end_time": "11:30",
+      "episode_description": "Dr. Chapatin tenta ir ao futebol, mas um paciente fica lhe atrasando; dois bandidos perigosos estão no hospital. Com medo, a enfermeira pede ajuda ao Chapolin."
+    },
+    {
+      "show_name": "Rede BBB",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rede-bbb_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "11:30",
+      "end_time": "11:45",
+      "episode_description": "Apresenta flashes com os últimos acontecimentos da casa."
+    },
+    {
+      "show_name": "Vai que Cola",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-s02e32-o-sem-noc-o_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 32 - O sem Noção",
+      "start_time": "11:45",
+      "end_time": "12:42",
+      "episode_description": "Velna bebe demais durante uma festa no Morro do Cerol. Um sujeito estranho aparece na pensão de Dona Jô e tenta convencer Velna de que é o milionário que ela beijou na festa; as mulheres começam a se incomodar com o Sem Noção, que persegue a todas."
+    },
+    {
+      "show_name": "Toma Lá, Dá Cá",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_toma-la-da-ca-s01e14-de-veu-e-grinalda_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 14 - De Véu e Grinalda",
+      "start_time": "12:42",
+      "end_time": "13:49",
+      "episode_description": "Álvara organiza um bazar; Celinha compra um vestido de noiva e se casa com Mário Jorge."
+    },
+    {
+      "show_name": "Vai que Cola",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-s02e05-parque-aquatico-1_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 5 - Parque Aquático",
+      "start_time": "13:49",
+      "end_time": "14:34",
+      "episode_description": "Está um sol de rachar e os moradores da Pensão se queixam, mas Dona Jô não tem condições de comprar um ar condicionado. Wilson compra uma piscina de plástico, só que além do calor infernal do Méier, falta água na pensão da Dona Jô."
+    },
+    {
+      "show_name": "Rede BBB",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rede-bbb_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "14:34",
+      "end_time": "14:49",
+      "episode_description": "Apresenta flashes com os últimos acontecimentos da casa."
+    },
+    {
+      "show_name": "Vai que Cola",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-s02e31-arquivo-w_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 31 - Arquivo W",
+      "start_time": "14:49",
+      "end_time": "15:38",
+      "episode_description": "Wilson está tentando contato com vida inteligente fora da terra e diz para os moradores da pensão que já foi abduzido. Fenômenos paranormais e coisas estranhas começam a acontecer na pensão e todos tentam entender o que de fato aconteceu com ele."
+    },
+    {
+      "show_name": "Big Show",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_big-show-s26e07_l_m.jpg",
+      "show_category": "Temporada 26 Episódio 7",
+      "start_time": "15:38",
+      "end_time": "16:38",
+      "episode_description": "Debates, jogos, entrevistas e convidados especiais, incluindo o eliminado da semana no \"BBB\"."
+    },
+    {
+      "show_name": "Tapas & Beijos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tapas-beijos-s01e03-fatima-e-sueli-se-apavoram-com-ameaca-de-despejo_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3 - Fátima e Sueli se Apavoram com Ameaça de Despejo",
+      "start_time": "16:38",
+      "end_time": "17:11",
+      "episode_description": "Fátima tem que se virar para pagar o aluguel, já que se endividou ao comprar um celular. Armane não empresta o dinheiro e elas recorrem a Jurandir, que piora tudo."
+    },
+    {
+      "show_name": "Tapas & Beijos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tapas-beijos-s01e04-fatima-e-sueli-se-desentendem-com-motorista-de-onibus_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - Fátima e Sueli se Desentendem com Motorista de Ônibus",
+      "start_time": "17:11",
+      "end_time": "17:45",
+      "episode_description": "Fátima e Sueli arrumam uma confusão com o motorista do ônibus e Sueli acaba com o joelho machucado. Revoltada, Fátima exige que seus amigos defendam Sueli."
     },
     {
       "show_name": "Rede BBB",
@@ -303,16 +271,16 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_tvz_l_m.jpg",
       "show_category": "Music",
       "start_time": "18:00",
-      "end_time": "18:35",
+      "end_time": "18:30",
       "episode_description": "Os melhores videoclipes nacionais e internacionais das paradas musicais."
     },
     {
       "show_name": "Toma Lá, Dá Cá",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_toma-la-da-ca-s01e14-de-veu-e-grinalda_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 14 - De Véu e Grinalda",
-      "start_time": "18:35",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_toma-la-da-ca-s01e15-onde-ha-fumaca_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 15 - Onde Há Fumaça...",
+      "start_time": "18:30",
       "end_time": "19:15",
-      "episode_description": "Álvara organiza um bazar; Celinha compra um vestido de noiva e se casa com Mário Jorge."
+      "episode_description": "Tatalo tira o primeiro lugar no Provão das Américas, o que deixa Rita em êxtase e faz Mário Jorge se imaginar agenciando o filho para faturar uma grana."
     },
     {
       "show_name": "Rede BBB",
@@ -340,48 +308,56 @@
     },
     {
       "show_name": "A Grande Família",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-grande-familia-s08e32-floriano-superstar_l_m.jpg",
-      "show_category": "Temporada 8 Episódio 32 - Floriano Superstar!",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-grande-familia-s08e34-m-e-etelvina_l_m.jpg",
+      "show_category": "Temporada 8 Episódio 34 - Mãe Etelvina",
       "start_time": "20:45",
-      "end_time": "21:19",
-      "episode_description": "Floriano dá boa vida aos pais ao se tornar estrela de comercial de fraldas; Lineu passa por crise financeira; a fama de Floriano é ameaçada após situação inesperada acontecer."
+      "end_time": "21:18",
+      "episode_description": "Beiçola, vestido de dona Etelvina, realiza previsões para a vizinhança; Lineu marca uma reunião para resolver um grande problema; Agostinho recebe previsão preocupante sobre Nenê."
     },
     {
       "show_name": "Rede BBB",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_rede-bbb_l_m.jpg",
       "show_category": "Reality",
-      "start_time": "21:19",
-      "end_time": "21:34",
+      "start_time": "21:18",
+      "end_time": "21:33",
       "episode_description": "Apresenta flashes com os últimos acontecimentos da casa."
     },
     {
       "show_name": "A Grande Família",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-grande-familia-s08e33-o-esquema-nosso-de-cada-dia_l_m.jpg",
-      "show_category": "Temporada 8 Episódio 33 - O Esquema Nosso de Cada Dia",
-      "start_time": "21:34",
-      "end_time": "22:10",
-      "episode_description": "Lineu enfrenta problemas no pet shop por se recusar a entrar em esquema no shopping; Agostinho tenta provar que Lineu não é tão certinho; uma novidade agita as mulheres do bairro."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-grande-familia-s08e35-adeus-tuco_l_m.jpg",
+      "show_category": "Temporada 8 Episódio 35 - Adeus, Tuco",
+      "start_time": "21:33",
+      "end_time": "22:08",
+      "episode_description": "Tuco estreita sua relação com os sogros; Agostinho tenta convencer a família que Tuco é interesseiro; à beira do altar, situação inesperada acontece no casamento de Tuco e Gina."
     },
     {
       "show_name": "Vai que Cola",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-s02e02-velozes-e-furiosos-1_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 2 - Velozes e Furiosos",
-      "start_time": "22:10",
-      "end_time": "23:02",
-      "episode_description": "Dona Jô está com muitas quentinhas para entregar, mas Valdo está machucado e não pode ajudar. Um primo distante dela chega à pensão, o motoboy Sanderson. Ela permite que ele se hospede no local caso a ajude a entregar as quentinhas."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-s12e35-o-cacto_l_m.jpg",
+      "show_category": "Temporada 12 Episódio 35 - O Cacto",
+      "start_time": "22:08",
+      "end_time": "22:45",
+      "episode_description": "Dona Jô traz um cacto terapêutico que repete tudo e vira fonte de tretas. Alejandro, Jéssica, Lindomar, Sanderson e Bebeto são afetados pelo espinhoso e querem se vingar da planta."
     },
     {
-      "show_name": "Tô de Graça",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_to-de-graca-s05e10-encanamento-de-ouro_l_m.jpg",
-      "show_category": "Temporada 5 Episódio 10 - Encanamento de Ouro",
-      "start_time": "23:02",
+      "show_name": "O Dono do Lar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-dono-do-lar-s03e18-se-melhorar-estraga_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 18 - Se Melhorar Estraga",
+      "start_time": "22:45",
+      "end_time": "23:16",
+      "episode_description": "Américo está se sentindo desprezado pela mulher, que não o procura mais. Para compensar, ele resolve dar um trato no visual. O problema é que procedimentos estéticos baratos acabam saindo caro."
+    },
+    {
+      "show_name": "Vai que Cola",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-s12e32-tete-pisa-fundo_l_m.jpg",
+      "show_category": "Temporada 12 Episódio 32 - Tetê Pisa Fundo",
+      "start_time": "23:16",
       "end_time": "23:30",
-      "episode_description": "Graça precisa trocar a tubulação de casa após um grande vazamento. Ao começar a cavar, ela descobre uma garrafa com indicações de que o antigo proprietário, que já foi o dono do morro, escondeu por ali um tesouro."
+      "episode_description": "A pensão tem uma superencomenda de 400 quentinhas. Sem a moto de Sanderson, o jeito é Terezinha assumir as entregas, às vésperas de tirar sua primeira habilitação."
     },
     {
       "show_name": "Big Brother Brasil",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_big-brother-brasil-s26e50_l_m.jpg",
-      "show_category": "Temporada 26 Episódio 50",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_big-brother-brasil-s26e51_l_m.jpg",
+      "show_category": "Temporada 26 Episódio 51",
       "start_time": "23:30",
       "end_time": "",
       "episode_description": "Um grupo de pessoas topa ficar confinado em uma espaçosa casa cenográfica, sendo vigiado por câmeras 24 horas por dia. Sem receber informações do mundo exterior, eles disputam uma série de provas e dinâmicas em busca de um prêmio milionário."

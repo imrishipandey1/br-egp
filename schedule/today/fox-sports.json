@@ -1,134 +1,158 @@
 {
   "channel": "FOX Sports",
-  "date": "01/03/2026",
+  "date": "02/03/2026",
   "schedule": [
     {
-      "show_name": "GP da Tailândia - Sprint",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_motorcycle-racing-gp-da-tailandia-sprint_l_m.jpg",
-      "show_category": "Moto GP",
-      "start_time": "00:15",
-      "end_time": "01:45",
-      "episode_description": "Disputa da corrida sprint. Do Circuito Internacional de Chang, em Buriram, Tailândia."
-    },
-    {
-      "show_name": "GP da Tailândia",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_motorcycle-racing-gp-da-tailandia-1_l_m.jpg",
-      "show_category": "Moto 3",
-      "start_time": "01:45",
-      "end_time": "03:00",
-      "episode_description": "Todas as emoções do terceiro escalão da principal competição de motovelocidade do mundo."
-    },
-    {
-      "show_name": "GP da Tailândia",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_motorcycle-racing-gp-da-tailandia-2_l_m.jpg",
-      "show_category": "Moto 2",
-      "start_time": "03:00",
-      "end_time": "04:15",
-      "episode_description": "Primeira etapa da temporada 2025, disputada no Chang International Circuit, em Buriram, Tailândia."
-    },
-    {
-      "show_name": "GP da Tailândia",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_motorcycle-racing-gp-da-tailandia_l_m.jpg",
-      "show_category": "Moto GP",
-      "start_time": "04:15",
-      "end_time": "04:15",
-      "episode_description": "Acompanhe as emoções da principal categoria de motovelocidade do planeta."
-    },
-    {
-      "show_name": "GP da Tailândia",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_motorcycle-racing-gp-da-tailandia_l_m.jpg",
-      "show_category": "Moto GP",
-      "start_time": "04:15",
-      "end_time": "06:15",
-      "episode_description": "Acompanhe as emoções da principal categoria de motovelocidade do planeta."
-    },
-    {
-      "show_name": "Momento ESPN",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_documentary-momento-espn_l_m.jpg",
+      "show_name": "Linha de Passe: Mesa-Redonda",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sports-talk-linha-de-passe-mesa-redonda_l_m.jpg",
       "show_category": "",
-      "start_time": "06:15",
-      "end_time": "06:30",
-      "episode_description": ""
+      "start_time": "01:00",
+      "end_time": "02:30",
+      "episode_description": "Comentaristas esportivos conceituados entram em campo para uma análise completa da rodada do futebol ao estilo \"mesa redonda\", com debates acalorados e comentários de qualidade, sempre a partir de um olhar crítico e da imparcialidade."
     },
     {
-      "show_name": "Clássicos ESPN",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_documentary-classicos-espn_l_m.jpg",
+      "show_name": "Botafogo x Nacional Potosí",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-botafogo-x-nacional-potosi_l_m.jpg",
+      "show_category": "Copa Libertadores da América",
+      "start_time": "02:30",
+      "end_time": "04:30",
+      "episode_description": "Pela segunda fase preliminar, volta, o Botafogo recebe o Nacional Potosí no Estádio Nilton Santos, no Rio de Janeiro, RJ. O Glorioso precisa vencer por dois ou mais gols para avançar no tempo normal, enquanto o clube boliviano joga pelo empate."
+    },
+    {
+      "show_name": "Newell's Old Boys x Rosario Central",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-newell-s-old-boys-x-rosario-central_l_m.jpg",
+      "show_category": "Campeonato Argentino",
+      "start_time": "04:30",
+      "end_time": "04:30",
+      "episode_description": "Acompanhe as grandes partidas do torneio de elite do futebol argentino."
+    },
+    {
+      "show_name": "Newell's Old Boys x Rosario Central",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-newell-s-old-boys-x-rosario-central_l_m.jpg",
+      "show_category": "Campeonato Argentino",
+      "start_time": "04:30",
+      "end_time": "06:30",
+      "episode_description": "Acompanhe as grandes partidas do torneio de elite do futebol argentino."
+    },
+    {
+      "show_name": "Inside Serie A",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-inside-serie-a_l_m.jpg",
       "show_category": "",
       "start_time": "06:30",
       "end_time": "07:00",
-      "episode_description": "O programa resgata conteúdo histórico dos arquivos da ESPN no Brasil e reconta a trajetória de grandes expoentes do esporte através de produções antigas do canal."
-    },
-    {
-      "show_name": "Internazionale x Genoa",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-internazionale-x-genoa_l_m.jpg",
-      "show_category": "Campeonato Italiano",
-      "start_time": "07:00",
-      "end_time": "09:00",
-      "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
-    },
-    {
-      "show_name": "Barcelona x Villarreal",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-barcelona-x-villarreal_l_m.jpg",
-      "show_category": "Campeonato Espanhol",
-      "start_time": "09:00",
-      "end_time": "10:50",
-      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
-    },
-    {
-      "show_name": "Sassuolo x Atalanta",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-sassuolo-x-atalanta_l_m.jpg",
-      "show_category": "Campeonato Italiano",
-      "start_time": "10:50",
-      "end_time": "13:00",
-      "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
+      "episode_description": "Uma previsão sobre os próximos jogos do Campeonato Italiano."
     },
     {
       "show_name": "Bola da Vez",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_bola-da-vez_l_m.jpg",
       "show_category": "Sports talk",
-      "start_time": "13:00",
-      "end_time": "14:00",
+      "start_time": "07:00",
+      "end_time": "08:00",
       "episode_description": "Grandes personalidades do esporte nacional e internacional são colocadas no \"paredão\" e respondem às perguntas de uma bancada de entrevistadores formada por jornalistas, ex-atletas ou especialistas em geral."
-    },
-    {
-      "show_name": "GP de St. Petersburg",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_auto-racing-gp-de-st-petersburg_l_m.jpg",
-      "show_category": "Fórmula Indy",
-      "start_time": "14:00",
-      "end_time": "16:30",
-      "episode_description": "Toda a disputa da IndyCar, ou Fórmula Indy, uma das principais competições de automobilismo do mundo. Com os famosos circuitos ovais e também corridas de rua, as etapas do calendário são disputadas em diversas cidades pelos Estados Unidos."
-    },
-    {
-      "show_name": "F1: The Inside Line",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_auto-racing-f1-the-inside-line_l_m.jpg",
-      "show_category": "",
-      "start_time": "16:30",
-      "end_time": "17:00",
-      "episode_description": "Veja a cobertura completa da Fórmula 1, a maior e mais badalada categoria do automobilismo mundial. Acompanhe as principais notícias da semana, os bastidores, entrevistas exclusivas e reportagens especiais."
-    },
-    {
-      "show_name": "Etapa do Circuito das Américas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_auto-racing-etapa-do-circuito-das-americas-1_l_m.jpg",
-      "show_category": "NASCAR Cup Series",
-      "start_time": "17:00",
-      "end_time": "21:00",
-      "episode_description": "Todas as emoções da principal competição de velocidade da categoria stock car dos Estados Unidos."
     },
     {
       "show_name": "GP da Tailândia",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_motorcycle-racing-gp-da-tailandia_l_m.jpg",
       "show_category": "Moto GP",
-      "start_time": "21:00",
-      "end_time": "23:00",
+      "start_time": "08:00",
+      "end_time": "10:00",
       "episode_description": "Acompanhe as emoções da principal categoria de motovelocidade do planeta."
     },
     {
-      "show_name": "Roma x Juventus",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-roma-x-juventus_l_m.jpg",
-      "show_category": "Campeonato Italiano",
-      "start_time": "23:00",
-      "end_time": "01:00",
-      "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
+      "show_name": "Antalyaspor x Fenerbahçe",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-antalyaspor-x-fenerbahce_l_m.jpg",
+      "show_category": "Campeonato Turco de Futebol",
+      "start_time": "10:00",
+      "end_time": "12:00",
+      "episode_description": "Todas as emoções da Süper Lig, a principal competição de futebol masculino entre clubes da Turquia."
+    },
+    {
+      "show_name": "Manchester United x Crystal Palace",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-manchester-united-x-crystal-palace_l_m.jpg",
+      "show_category": "Campeonato Inglês",
+      "start_time": "12:00",
+      "end_time": "14:00",
+      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
+    },
+    {
+      "show_name": "Clássicos ESPN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_documentary-classicos-espn_l_m.jpg",
+      "show_category": "",
+      "start_time": "14:00",
+      "end_time": "14:30",
+      "episode_description": "O programa resgata conteúdo histórico dos arquivos da ESPN no Brasil e reconta a trajetória de grandes expoentes do esporte através de produções antigas do canal."
+    },
+    {
+      "show_name": "Inside Serie A",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-inside-serie-a_l_m.jpg",
+      "show_category": "",
+      "start_time": "14:30",
+      "end_time": "15:00",
+      "episode_description": "Uma previsão sobre os próximos jogos do Campeonato Italiano."
+    },
+    {
+      "show_name": "Momento ESPN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_documentary-momento-espn_l_m.jpg",
+      "show_category": "",
+      "start_time": "15:00",
+      "end_time": "15:10",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Al Duhail x Al Ahli",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-al-duhail-x-al-ahli_l_m.jpg",
+      "show_category": "AFC Champions League Elite",
+      "start_time": "15:10",
+      "end_time": "17:10",
+      "episode_description": "Todas as emoções da principal competição de futebol masculino entre clubes do continente asiático."
+    },
+    {
+      "show_name": "Gil Vicente x Benfica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-gil-vicente-x-benfica_l_m.jpg",
+      "show_category": "Campeonato Português",
+      "start_time": "17:10",
+      "end_time": "19:15",
+      "episode_description": "Todas as emoções da principal competição de futebol masculino entre clubes de Portugal."
+    },
+    {
+      "show_name": "Resenha ESPN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_resenha-espn_l_m.jpg",
+      "show_category": "Sports talk",
+      "start_time": "19:15",
+      "end_time": "20:15",
+      "episode_description": "Atletas da atualidade e do passado participam de bate-papo descontraído e cheio de boas histórias."
+    },
+    {
+      "show_name": "Momento ESPN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_documentary-momento-espn_l_m.jpg",
+      "show_category": "",
+      "start_time": "20:15",
+      "end_time": "20:20",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Destaques da Conmebol Libertadores",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-destaques-da-conmebol-libertadores_l_m.jpg",
+      "show_category": "",
+      "start_time": "20:20",
+      "end_time": "21:20",
+      "episode_description": "Acompanhe os destaques, os melhores lances, gols e um resumo completo de tudo o que rolou nas partidas da principal competição de futebol masculino entre clubes da América do Sul: a Conmebol Libertadores."
+    },
+    {
+      "show_name": "Independiente Rivadavia x River Plate",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-independiente-rivadavia-x-river-plate_l_m.jpg",
+      "show_category": "Campeonato Argentino",
+      "start_time": "21:20",
+      "end_time": "23:30",
+      "episode_description": "Acompanhe as grandes partidas do torneio de elite do futebol argentino."
+    },
+    {
+      "show_name": "Birmingham City x Middlesbrough",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-birmingham-city-x-middlesbrough-1_l_m.jpg",
+      "show_category": "Campeonato Inglês - Segunda Divisão",
+      "start_time": "23:30",
+      "end_time": "01:30",
+      "episode_description": "Do St. Andrew's @ Knighthead Park, em Birmingham, Inglaterra."
     }
   ]
 }
