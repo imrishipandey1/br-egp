@@ -1,62 +1,94 @@
 {
   "channel": "TV SENADO",
-  "date": "02/03/2026",
+  "date": "03/03/2026",
   "schedule": [
     {
-      "show_name": "Coleções",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_colec-es_l_m.jpg",
-      "show_category": "Entertainment",
+      "show_name": "Senadoc",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_senadoc_l_m.jpg",
+      "show_category": "Politics",
       "start_time": "00:00",
-      "end_time": "00:30",
-      "episode_description": "Conheça Tiradentes, Minas Gerais, terra de Joaquim José da Silva Xavier e uma das mais importantes cidades históricas do País, que abrigou as minas de ouro exploradas pelos portugueses nos séculos XVII e XVIII."
-    },
-    {
-      "show_name": "Espaço Cultural",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_espaco-cultural-1_l_m.jpg",
-      "show_category": "Music",
-      "start_time": "00:30",
       "end_time": "01:30",
-      "episode_description": "O programa apresenta diversos eventos culturais como teatro, música e outras formas de expressão do povo brasileiro."
-    },
-    {
-      "show_name": "Por Onde Anda Makunaíma?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_por-onde-anda-makunaima-2020_l_m.jpg",
-      "show_category": "Documentary / 2020",
-      "start_time": "01:30",
-      "end_time": "03:00",
-      "episode_description": "Com depoimentos em português, alemão, espanhol, macuxi e taurepang, o filme faz um resgate histórico e cultural daquele que é o personagem ficcional mais identificado com um certo jeito de ser brasileiro."
-    },
-    {
-      "show_name": "22 em XXI",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_22-em-xxi_l_m.jpg",
-      "show_category": "Special",
-      "start_time": "03:00",
-      "end_time": "04:30",
-      "episode_description": "Acompanhe um novo olhar para a Semana de Arte Moderna de 1922, seus antecedentes e seus realizadores, a partir de entrevistas com historiadores, artistas, filósofos, ativistas, sociólogos e pesquisadores de diversas áreas."
-    },
-    {
-      "show_name": "Rolê - Histórias dos Rolezinhos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_role-historias-dos-rolezinhos-2021_l_m.jpg",
-      "show_category": "Documentary / 2021",
-      "start_time": "04:30",
-      "end_time": "06:00",
-      "episode_description": "O documentário analisa os ecos entre diferentes contextos e práticas de resistência política e subjetiva, endereçando a abissal desigualdade social e racial que se atualiza diariamente no país."
+      "episode_description": "Espaço da TV Senado dedicado a documentários."
     },
     {
       "show_name": "A Última Abolição",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_a-ultima-abolic-o-2018_l_m.jpg",
       "show_category": "Documentary / 2018",
-      "start_time": "06:00",
-      "end_time": "07:30",
+      "start_time": "01:30",
+      "end_time": "03:00",
       "episode_description": "O documentário aborda a escravidão no Brasil com especial enfoque no período da abolição, destacando os movimentos abolicionistas, seus aliados e inimigos."
+    },
+    {
+      "show_name": "Assunto de Estado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_assunto-de-estado_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "03:00",
+      "end_time": "03:30",
+      "episode_description": "Espaço para que senadores comentem questões regionais e locais e preste contas aos eleitores."
+    },
+    {
+      "show_name": "Agenda Econômica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_agenda-economica-1_l_m.jpg",
+      "show_category": "Bus./financial",
+      "start_time": "03:30",
+      "end_time": "04:00",
+      "episode_description": "Economistas, formuladores de políticas públicas, acadêmicos, intelectuais e parlamentares analisam questões da economia nacional e internacional."
+    },
+    {
+      "show_name": "Salão Nobre",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sal-o-nobre_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "04:00",
+      "end_time": "04:30",
+      "episode_description": "Assista a temas de relevância nacional com líderes partidários, presidentes das comissões e autores."
+    },
+    {
+      "show_name": "Em Discussão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_em-discuss-o-2_l_m.jpg",
+      "show_category": "Educational",
+      "start_time": "04:30",
+      "end_time": "05:00",
+      "episode_description": "As principais discussões realizadas nas audiências públicas promovidas pelo Senado."
+    },
+    {
+      "show_name": "TV Senado Live",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tv-senado-live_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "05:00",
+      "end_time": "05:30",
+      "episode_description": "Veja entrevistas com a participação do público sobre os grandes temas em pauta no país."
     },
     {
       "show_name": "Parlamento Brasil",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
       "show_category": "Politics",
+      "start_time": "05:30",
+      "end_time": "06:00",
+      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
+    },
+    {
+      "show_name": "Senadoc Acervo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_senadoc-acervo_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "06:00",
+      "end_time": "07:00",
+      "episode_description": "Espaço dedicado a exibição de documentários que fazem parte do acervo histórico da TV Senado."
+    },
+    {
+      "show_name": "Uma Outra Independência",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_uma-outra-independencia_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "07:00",
+      "end_time": "07:30",
+      "episode_description": "A história da Confederação do Equador, movimento político que tentou implantar a república em 1824. A revolta aconteceu no Nordeste e teve como um de seus principais líderes Frei Caneca, figura histórica que se destacou pelos ideais republicanos."
+    },
+    {
+      "show_name": "Assunto de Estado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_assunto-de-estado_l_m.jpg",
+      "show_category": "Politics",
       "start_time": "07:30",
       "end_time": "08:00",
-      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
+      "episode_description": "Espaço para que senadores comentem questões regionais e locais e preste contas aos eleitores."
     },
     {
       "show_name": "Cidadania",
@@ -75,12 +107,20 @@
       "episode_description": "Acompanhe as últimas notícias do Senado, entre as transmissões ao vivo das reuniões das comissões, do plenário e os programas de grade da emissora."
     },
     {
-      "show_name": "Comissão de Direitos Humanos e Legislação Participativa",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o-de-direitos-humanos-e-legislac-o-participativa_l_m.jpg",
+      "show_name": "Comissão de Serviços de Infraestrutura",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o-de-servicos-de-infraestrutura_l_m.jpg",
       "show_category": "Politics",
       "start_time": "09:00",
+      "end_time": "10:00",
+      "episode_description": "Os debates sobre os transportes de terra, mar e ar, obras públicas em geral, minas, recursos geológicos e serviços de telecomunicações."
+    },
+    {
+      "show_name": "Comissão de Assuntos Econômicos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o-de-assuntos-economicos-1_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "10:00",
       "end_time": "13:30",
-      "episode_description": "Reuniões, audiências e debates da Comissão de Direitos Humanos e Legislação Participativa."
+      "episode_description": "Os debates e discussões dos projetos de lei que passam pela Comissão de Assuntos Econômicos."
     },
     {
       "show_name": "Senado Notícias",
@@ -107,20 +147,20 @@
       "episode_description": "Acompanhe as últimas notícias do Senado, entre as transmissões ao vivo das reuniões das comissões, do plenário e os programas de grade da emissora."
     },
     {
+      "show_name": "Agenda Econômica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_agenda-economica-1_l_m.jpg",
+      "show_category": "Bus./financial",
+      "start_time": "20:00",
+      "end_time": "20:30",
+      "episode_description": "Economistas, formuladores de políticas públicas, acadêmicos, intelectuais e parlamentares analisam questões da economia nacional e internacional."
+    },
+    {
       "show_name": "Assunto de Estado",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_assunto-de-estado_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "20:00",
-      "end_time": "20:30",
-      "episode_description": "Espaço para que senadores comentem questões regionais e locais e preste contas aos eleitores."
-    },
-    {
-      "show_name": "Cidadania",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidadania_l_m.jpg",
-      "show_category": "Interview",
       "start_time": "20:30",
       "end_time": "21:00",
-      "episode_description": "Entrevistas semanais sobre assuntos da atualidade, com a participação de parlamentares, especialistas e representantes de organizações sociais."
+      "episode_description": "Espaço para que senadores comentem questões regionais e locais e preste contas aos eleitores."
     },
     {
       "show_name": "Reunião de Comissão",

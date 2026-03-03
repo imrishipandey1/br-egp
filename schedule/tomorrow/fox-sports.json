@@ -1,142 +1,166 @@
 {
   "channel": "FOX Sports",
-  "date": "03/03/2026",
+  "date": "04/03/2026",
   "schedule": [
     {
-      "show_name": "Linha de Passe: Mesa-Redonda",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sports-talk-linha-de-passe-mesa-redonda_l_m.jpg",
-      "show_category": "",
-      "start_time": "01:30",
+      "show_name": "Copa Libertadores da América",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-copa-libertadores-da-america_l_m.jpg",
+      "show_category": "Copa Libertadores da América",
+      "start_time": "00:30",
       "end_time": "02:30",
-      "episode_description": "Comentaristas esportivos conceituados entram em campo para uma análise completa da rodada do futebol ao estilo \"mesa redonda\", com debates acalorados e comentários de qualidade, sempre a partir de um olhar crítico e da imparcialidade."
+      "episode_description": "Todas as emoções da principal competição de futebol masculino disputada entre clubes da América do Sul, e que garante ao campeão vaga no Mundial de Clubes da FIFA."
     },
     {
-      "show_name": "Al Duhail x Al Ahli",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-al-duhail-x-al-ahli_l_m.jpg",
-      "show_category": "AFC Champions League Elite",
+      "show_name": "Espanha x Islândia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-espanha-x-islandia_l_m.jpg",
+      "show_category": "Eliminatórias para a Copa do Mundo Feminina da FIFA 2027",
       "start_time": "02:30",
       "end_time": "04:30",
-      "episode_description": "Todas as emoções da principal competição de futebol masculino entre clubes do continente asiático."
-    },
-    {
-      "show_name": "Resenha ESPN",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_resenha-espn_l_m.jpg",
-      "show_category": "Sports talk",
-      "start_time": "04:30",
-      "end_time": "05:30",
-      "episode_description": "Atletas da atualidade e do passado participam de bate-papo descontraído e cheio de boas histórias."
-    },
-    {
-      "show_name": "Gil Vicente x Benfica",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-gil-vicente-x-benfica_l_m.jpg",
-      "show_category": "Campeonato Português",
-      "start_time": "05:30",
-      "end_time": "05:30",
-      "episode_description": "Todas as emoções da principal competição de futebol masculino entre clubes de Portugal."
-    },
-    {
-      "show_name": "Gil Vicente x Benfica",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-gil-vicente-x-benfica_l_m.jpg",
-      "show_category": "Campeonato Português",
-      "start_time": "05:30",
-      "end_time": "07:30",
-      "episode_description": "Todas as emoções da principal competição de futebol masculino entre clubes de Portugal."
-    },
-    {
-      "show_name": "Destaques da Conmebol Libertadores",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-destaques-da-conmebol-libertadores_l_m.jpg",
-      "show_category": "",
-      "start_time": "07:30",
-      "end_time": "08:30",
-      "episode_description": "Acompanhe os destaques, os melhores lances, gols e um resumo completo de tudo o que rolou nas partidas da principal competição de futebol masculino entre clubes da América do Sul: a Conmebol Libertadores."
-    },
-    {
-      "show_name": "Milwaukee Bucks x Boston Celtics",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_basketball-milwaukee-bucks-x-boston-celtics_l_m.jpg",
-      "show_category": "NBA",
-      "start_time": "08:30",
-      "end_time": "10:30",
-      "episode_description": "Trinta equipes dos Estados Unidos e Canadá se enfrentam na principal liga de basquete do mundo."
-    },
-    {
-      "show_name": "Cremonese x Milan",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-cremonese-x-milan_l_m.jpg",
-      "show_category": "Campeonato Italiano",
-      "start_time": "10:30",
-      "end_time": "12:30",
-      "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
-    },
-    {
-      "show_name": "Resenha ESPN",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_resenha-espn_l_m.jpg",
-      "show_category": "Sports talk",
-      "start_time": "12:30",
-      "end_time": "13:30",
-      "episode_description": "Atletas da atualidade e do passado participam de bate-papo descontraído e cheio de boas histórias."
-    },
-    {
-      "show_name": "Momento ESPN",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_documentary-momento-espn_l_m.jpg",
-      "show_category": "",
-      "start_time": "13:30",
-      "end_time": "13:40",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Alemanha x Slovenia",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-alemanha-x-slovenia_l_m.jpg",
-      "show_category": "Eliminatórias para a Copa do Mundo Feminina da FIFA 2027",
-      "start_time": "13:40",
-      "end_time": "15:45",
       "episode_description": "Seleções de futebol feminino de todo o planeta brigam por 31 vagas na Copa do Mundo de 2027, que tem o Brasil já classificado como país-sede."
     },
     {
-      "show_name": "Destaques da Conmebol Libertadores",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-destaques-da-conmebol-libertadores_l_m.jpg",
+      "show_name": "Clássicos ESPN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_documentary-classicos-espn_l_m.jpg",
       "show_category": "",
-      "start_time": "15:45",
-      "end_time": "16:50",
-      "episode_description": "Acompanhe os destaques, os melhores lances, gols e um resumo completo de tudo o que rolou nas partidas da principal competição de futebol masculino entre clubes da América do Sul: a Conmebol Libertadores."
+      "start_time": "04:30",
+      "end_time": "05:00",
+      "episode_description": "O programa resgata conteúdo histórico dos arquivos da ESPN no Brasil e reconta a trajetória de grandes expoentes do esporte através de produções antigas do canal."
     },
     {
-      "show_name": "Barcelona x Atlético de Madrid",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-barcelona-x-atletico-de-madrid-3_l_m.jpg",
-      "show_category": "Copa do Rei",
-      "start_time": "16:50",
-      "end_time": "18:55",
-      "episode_description": "Do Spotify Camp Nou, em Barcelona, Espanha."
+      "show_name": "Wolverhampton x Liverpool",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-wolverhampton-x-liverpool_l_m.jpg",
+      "show_category": "Campeonato Inglês",
+      "start_time": "05:00",
+      "end_time": "05:00",
+      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
+    },
+    {
+      "show_name": "Wolverhampton x Liverpool",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-wolverhampton-x-liverpool_l_m.jpg",
+      "show_category": "Campeonato Inglês",
+      "start_time": "05:00",
+      "end_time": "07:00",
+      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
+    },
+    {
+      "show_name": "Bola da Vez",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bola-da-vez_l_m.jpg",
+      "show_category": "Sports talk",
+      "start_time": "07:00",
+      "end_time": "08:00",
+      "episode_description": "Grandes personalidades do esporte nacional e internacional são colocadas no \"paredão\" e respondem às perguntas de uma bancada de entrevistadores formada por jornalistas, ex-atletas ou especialistas em geral."
+    },
+    {
+      "show_name": "Show da Rodada do Inglês",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-do-ingles_l_m.jpg",
+      "show_category": "",
+      "start_time": "08:00",
+      "end_time": "08:30",
+      "episode_description": "O programa traz todos os pormenores da rodada do campeonato inglês com as pontuações dos clubes, gols e lances mais bonitos."
+    },
+    {
+      "show_name": "GP de St. Petersburg",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_auto-racing-gp-de-st-petersburg_l_m.jpg",
+      "show_category": "Fórmula Indy",
+      "start_time": "08:30",
+      "end_time": "10:30",
+      "episode_description": "Toda a disputa da IndyCar, ou Fórmula Indy, uma das principais competições de automobilismo do mundo. Com os famosos circuitos ovais e também corridas de rua, as etapas do calendário são disputadas em diversas cidades pelos Estados Unidos."
     },
     {
       "show_name": "Montevideo City Torque x Defensor",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-montevideo-city-torque-x-defensor_l_m.jpg",
       "show_category": "Copa Sul-Americana",
-      "start_time": "18:55",
-      "end_time": "21:00",
+      "start_time": "10:30",
+      "end_time": "12:40",
       "episode_description": "Toda a disputa da segunda mais importante competição masculina entre clubes da América do Sul."
+    },
+    {
+      "show_name": "Show da Rodada do Inglês",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-do-ingles_l_m.jpg",
+      "show_category": "",
+      "start_time": "12:40",
+      "end_time": "13:10",
+      "episode_description": "O programa traz todos os pormenores da rodada do campeonato inglês com as pontuações dos clubes, gols e lances mais bonitos."
+    },
+    {
+      "show_name": "Copa Libertadores da América",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-copa-libertadores-da-america_l_m.jpg",
+      "show_category": "Copa Libertadores da América",
+      "start_time": "13:10",
+      "end_time": "15:10",
+      "episode_description": "Todas as emoções da principal competição de futebol masculino disputada entre clubes da América do Sul, e que garante ao campeão vaga no Mundial de Clubes da FIFA."
+    },
+    {
+      "show_name": "Al Wasl x Al Nassr",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-al-wasl-x-al-nassr_l_m.jpg",
+      "show_category": "AFC Champions League Two",
+      "start_time": "15:10",
+      "end_time": "17:05",
+      "episode_description": "As emoções da segunda principal competição de futebol masculino entre clubes do continente asiático."
+    },
+    {
+      "show_name": "Newcastle United x Manchester United",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-newcastle-united-x-manchester-united_l_m.jpg",
+      "show_category": "Campeonato Inglês",
+      "start_time": "17:05",
+      "end_time": "19:15",
+      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
+    },
+    {
+      "show_name": "Momento ESPN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_documentary-momento-espn_l_m.jpg",
+      "show_category": "",
+      "start_time": "19:15",
+      "end_time": "19:30",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Show da Rodada do Italiano",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-do-italiano_l_m.jpg",
+      "show_category": "",
+      "start_time": "19:30",
+      "end_time": "20:00",
+      "episode_description": "Os principais destaques das partidas da Lega Serie A, primeira divisão do Campeonato Italiano de futebol masculino, com os gols, melhores lances e situação da tabela de classificação após cada rodada disputada."
+    },
+    {
+      "show_name": "Show da Rodada de La Liga",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-de-la-liga_l_m.jpg",
+      "show_category": "",
+      "start_time": "20:00",
+      "end_time": "20:30",
+      "episode_description": ".Todos os gols e os principais lances da rodada de La Liga, primeira divisão do Campeonato Espanhol."
     },
     {
       "show_name": "SportsCenter Abre o Jogo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sports-talk-sportscenter-abre-o-jogo_l_m.jpg",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_basketball-sportscenter-abre-o-jogo_l_m.jpg",
+      "show_category": "",
+      "start_time": "20:30",
+      "end_time": "21:00",
+      "episode_description": "Os últimos preparativos para Lakers x Suns e Nets x Hawks, pela temporada regular 2024-2025 da NBA."
+    },
+    {
+      "show_name": "NBA Courtside",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_basketball-nba-courtside_l_m.jpg",
       "show_category": "",
       "start_time": "21:00",
-      "end_time": "21:15",
-      "episode_description": "Destaques e preparativos para a partida válida pela maior liga de basquete profissional do mundo."
+      "end_time": "21:12",
+      "episode_description": "O aquecimento final das equipes e últimos preparativos para o duelo entre New York Knicks e Cleveland Cavaliers, pela rodada de abertura da temporada regular 2025-2026 da NBA, direto do Madison Square Garden, em Nova York, EUA."
     },
     {
-      "show_name": "Cobresal x Audax Italiano",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-cobresal-x-audax-italiano_l_m.jpg",
-      "show_category": "Copa Sul-Americana",
-      "start_time": "21:15",
-      "end_time": "23:30",
-      "episode_description": "Toda a disputa da segunda mais importante competição masculina entre clubes da América do Sul."
+      "show_name": "New York Knicks x Oklahoma City Thunder",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_basketball-new-york-knicks-x-oklahoma-city-thunder_l_m.jpg",
+      "show_category": "NBA",
+      "start_time": "21:12",
+      "end_time": "23:35",
+      "episode_description": "Trinta equipes dos Estados Unidos e Canadá se enfrentam na principal liga de basquete do mundo."
     },
     {
-      "show_name": "Resenha ESPN",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_resenha-espn_l_m.jpg",
-      "show_category": "Sports talk",
-      "start_time": "23:30",
+      "show_name": "Milwaukee Bucks x Atlanta Hawks",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_basketball-milwaukee-bucks-x-atlanta-hawks_l_m.jpg",
+      "show_category": "NBA",
+      "start_time": "23:35",
       "end_time": "",
-      "episode_description": "Atletas da atualidade e do passado participam de bate-papo descontraído e cheio de boas histórias."
+      "episode_description": "Trinta equipes dos Estados Unidos e Canadá se enfrentam na principal liga de basquete do mundo."
     }
   ]
 }

@@ -1,14 +1,46 @@
 {
   "channel": "Globo",
-  "date": "02/03/2026",
+  "date": "03/03/2026",
   "schedule": [
     {
-      "show_name": "2012",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_2012-2009_l_m.jpg",
-      "show_category": "Action / 2009 /5.8",
-      "start_time": "01:30",
+      "show_name": "Jornal da Globo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-da-globo_l_m.jpg",
+      "show_category": "News",
+      "start_time": "00:25",
+      "end_time": "01:15",
+      "episode_description": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura."
+    },
+    {
+      "show_name": "Coração Acelerado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_corac-o-acelerado_l_m.jpg",
+      "show_category": "Soap",
+      "start_time": "01:15",
+      "end_time": "02:00",
+      "episode_description": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\"."
+    },
+    {
+      "show_name": "Vai que Cola",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-1_l_m.jpg",
+      "show_category": "Comedy",
+      "start_time": "02:00",
+      "end_time": "02:40",
+      "episode_description": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede."
+    },
+    {
+      "show_name": "Vai que Cola",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-1_l_m.jpg",
+      "show_category": "Comedy",
+      "start_time": "02:40",
+      "end_time": "03:20",
+      "episode_description": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede."
+    },
+    {
+      "show_name": "Vai que Cola",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-1_l_m.jpg",
+      "show_category": "Comedy",
+      "start_time": "03:20",
       "end_time": "04:00",
-      "episode_description": "Em 2012, eventos catastróficos ameaçam destruir o planeta, confirmando uma antiga profecia maia. Enquanto os governos mundiais tentam salvar a humanidade e o globo cai em ruínas, um homem entra em ação e faz de tudo para salvar sua família."
+      "episode_description": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede."
     },
     {
       "show_name": "Hora 1",
@@ -79,16 +111,16 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_terra-nostra-edic-o-especial_l_m.jpg",
       "show_category": "Soap",
       "start_time": "14:45",
-      "end_time": "15:25",
+      "end_time": "15:30",
       "episode_description": "Uma parte da história da formação da sociedade brasileira do início do século XX é contada a partir do romance de dois jovens italianos, Giuliana e Matteo. Eles se conhecem em 1894 a bordo do navio que transporta imigrantes para trabalhar no Brasil."
     },
     {
-      "show_name": "Miss Simpatia 2 - Armada e Poderosa",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_miss-simpatia-2-armada-e-poderosa-2005-2_l_m.jpg",
-      "show_category": "Comedy / 2005",
-      "start_time": "15:25",
+      "show_name": "Luta pela Fé - A História do Padre Stu",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_luta-pela-fe-a-historia-do-padre-stu-2022_l_m.jpg",
+      "show_category": "Biography / 2022",
+      "start_time": "15:30",
       "end_time": "17:15",
-      "episode_description": "Gracie Hart trabalha para o FBI e lida com a fama, o que não impressiona sua nova parceira, Sam Fuller. No entanto, a dupla precisa colocar de lado suas diferenças quando uma das amigas de Gracie, Cheryl Frazier, desaparece."
+      "episode_description": "Após sobreviver a um acidente de moto, um ex-boxeador agnóstico começa a se perguntar se pode se tornar um padre católico e usar sua segunda chance para ajudar os outros."
     },
     {
       "show_name": "Vale a Pena Ver de Novo - Rainha da Sucata",
@@ -140,19 +172,19 @@
     },
     {
       "show_name": "Big Brother Brasil",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_big-brother-brasil-s26e50_l_m.jpg",
-      "show_category": "Temporada 26 Episódio 50",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_big-brother-brasil-s26e51_l_m.jpg",
+      "show_category": "Temporada 26 Episódio 51",
       "start_time": "22:25",
-      "end_time": "23:10",
+      "end_time": "23:35",
       "episode_description": "Um grupo de pessoas topa ficar confinado em uma espaçosa casa cenográfica, sendo vigiado por câmeras 24 horas por dia. Sem receber informações do mundo exterior, eles disputam uma série de provas e dinâmicas em busca de um prêmio milionário."
     },
     {
-      "show_name": "Mamonas - Eu te Ai Lóve Iú",
-      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
-      "show_category": "Special",
-      "start_time": "23:10",
-      "end_time": "00:25",
-      "episode_description": "Com imagens e depoimentos exclusivos, a produção revisita a trajetória da banda que conquistou o Brasil nos anos 1990 com originalidade, humor e muita música."
+      "show_name": "Lady Night",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lady-night_l_m.jpg",
+      "show_category": "Talk",
+      "start_time": "23:35",
+      "end_time": "00:15",
+      "episode_description": "Tatá Werneck recebe artistas em seu talk show para um bate-papo nada comum com muitas brincadeiras e bom humor."
     }
   ]
 }
