@@ -3,228 +3,220 @@
   "date": "05/03/2026",
   "schedule": [
     {
-      "show_name": "Exploração Maia",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/h2/tomorrow/br_explorac-o-maia-s01e01-construc-es-e-astronomia_l_m.webp",
-      "show_category": "Temporada 1 Episódio 1 - Construções e Astronomia",
-      "start_time": "00:15",
-      "end_time": "01:15",
-      "episode_description": "Existe a hipótese de que tenha havido uma superexploração de recursos naturais, árvores e água para a construção das monumentais cidades maias. Danilo viaja a Chichén Itzá para comprovar a precisão de traçado da cidade e sua orientação astronômica."
-    },
-    {
-      "show_name": "Mistérios da Civilização Maia",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/h2/tomorrow/br_misterios-da-civilizac-o-maia-s01e02-chichen-itza_l_m.webp",
-      "show_category": "Temporada 1 Episódio 2 - Chichen Itza",
-      "start_time": "01:15",
-      "end_time": "02:15",
-      "episode_description": "Chichén Itzá, a enigmática cidade maia, cativa o mundo pela sua história e arquitetura monumental."
+      "show_name": "Poderosos Chefões - As Cinco Familias da Máfia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_poderosos-chef-es-as-cinco-familias-da-mafia-s01e01-a-morte-das-velhas-regras_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - A Morte das Velhas Regras",
+      "start_time": "00:20",
+      "end_time": "02:00",
+      "episode_description": "O surgimento da máfia norte-americana desde o seu início em Nova Iorque durante a Lei Seca até os anos dourados da década de 1950."
     },
     {
       "show_name": "Guerra dos Tronos - Uma História Real",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/h2/tomorrow/br_guerra-dos-tronos-uma-historia-real-s02e02-em-nome-de-deus_l_m.webp",
-      "show_category": "Temporada 2 Episódio 2 - Em Nome de Deus",
-      "start_time": "02:15",
-      "end_time": "03:05",
-      "episode_description": "A ascensão do protestantismo divide a Europa. Na Espanha, Filipe II enfrenta diversas revoltas. Enquanto isso, Elizabeth I invade a Escócia."
-    },
-    {
-      "show_name": "A Ascensão e a Queda dos Faraós",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/h2/tomorrow/br_a-ascens-o-e-a-queda-dos-faraos-s01e01-a-ascens-o-do-farao_l_m.webp",
-      "show_category": "Temporada 1 Episódio 1 - A Ascensão do Faraó",
-      "start_time": "03:05",
-      "end_time": "04:05",
-      "episode_description": "Narmer, o primeiro faraó do Egito, unificou o país por meio da força militar. No entanto, ele manteve isso através de uma das primeiras obras de propaganda da história: A Paleta de Narmer, que o mostra esmagando seus pequenos inimigos."
-    },
-    {
-      "show_name": "A Ascensão e a Queda dos Faraós",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/h2/tomorrow/br_a-ascens-o-e-a-queda-dos-faraos-s01e02-o-apice-do-poder-egipcio_l_m.webp",
-      "show_category": "Temporada 1 Episódio 2 - O Ápice do Poder Egípcio",
-      "start_time": "04:05",
-      "end_time": "05:05",
-      "episode_description": "O Egito passou por um período de divisão sob governadores locais, os nomarcas. Isso mudou por volta de 2040 a.C., quando Mentuhotep II, um rei guerreiro do sul, conquistou todo o Egito e se autoproclamou faraó. Com ele, iniciou-se o Império do Meio."
-    },
-    {
-      "show_name": "Os Segredos das Pirâmides",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/h2/tomorrow/br_os-segredos-das-piramides-s01e01-a-primeira-piramide-do-egito_l_m.webp",
-      "show_category": "Temporada 1 Episódio 1 - A Primeira Pirâmide do Egito",
-      "start_time": "05:05",
-      "end_time": "06:00",
-      "episode_description": "Enterrada nas areias do Egito encontra-se a lenda de um Deus: o Faraó Djoser."
-    },
-    {
-      "show_name": "Grandes Mitos - A Ilíada",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/h2/tomorrow/br_grandes-mitos-a-iliada-s02e05-a-espada-e-a-balanca_l_m.webp",
-      "show_category": "Temporada 2 Episódio 5 - A Espada e a Balança",
-      "start_time": "06:00",
-      "end_time": "06:30",
-      "episode_description": "O caos entre gregos e troianos chega ao Monte Olimpo. E, no mundo terreno, um muro vai se erguendo."
-    },
-    {
-      "show_name": "Grandes Mitos - A Ilíada",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/h2/tomorrow/br_grandes-mitos-a-iliada-s02e06-a-astucia-de-hera_l_m.webp",
-      "show_category": "Temporada 2 Episódio 6 - A Astúcia de Hera",
-      "start_time": "06:30",
-      "end_time": "07:00",
-      "episode_description": "Odisseu e Ajax tentam convencer Aquiles a voltar ao combate, mas o guerreiro grego rejeita seus apelos; no campo de batalha, Agamenon, Diomedes e até o astuto Odisseu são feridos um após o outro."
-    },
-    {
-      "show_name": "O Ouro Perdido da Segunda Guerra Mundial",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/h2/tomorrow/br_o-ouro-perdido-da-segunda-guerra-mundial-s01e03-uma-pista-do-tesouro_l_m.webp",
-      "show_category": "Temporada 1 Episódio 3 - Uma Pista do Tesouro",
-      "start_time": "07:00",
-      "end_time": "07:50",
-      "episode_description": "Com a ajuda de um especialista em explosivos, a equipe descobre a possível sede do General Yamashita e a primeira pista sobre o tesouro."
-    },
-    {
-      "show_name": "Engenheiros de Hitler - Construindo o Terceiro Reich",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/h2/tomorrow/br_engenheiros-de-hitler-construindo-o-terceiro-reich-s01e03-werner-heisenberg_l_m.webp",
-      "show_category": "Temporada 1 Episódio 3 - Werner Heisenberg",
-      "start_time": "07:50",
-      "end_time": "08:45",
-      "episode_description": "Werner Heisenberg é um dos cientistas mais controversos do Terceiro Reich. Seu trabalho para construir uma bomba atômica fez dele um alvo importante dos Aliados. No entanto, suas motivações permanecem obscuras."
-    },
-    {
-      "show_name": "WWII - Corrida para a Vitória",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/h2/tomorrow/br_wwii-corrida-para-a-vitoria-s01e01-perigo-mortal_l_m.webp",
-      "show_category": "Temporada 1 Episódio 1 - Perigo Mortal",
-      "start_time": "08:45",
-      "end_time": "09:40",
-      "episode_description": "Após assinar a paz com Hitler e ser traído, Neville Chamberlain renuncia, dando lugar a Winston Churchill. Roosevelt promete neutralidade. Hitler trai Stalin e invade a URSS, mas a resistência soviética e o frio do inverno detêm o avanço alemão."
-    },
-    {
-      "show_name": "WWII - Corrida para a Vitória",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/h2/tomorrow/br_wwii-corrida-para-a-vitoria-s01e02-uma-alianca-profana_l_m.webp",
-      "show_category": "Temporada 1 Episódio 2 - Uma Aliança Profana",
-      "start_time": "09:40",
-      "end_time": "10:35",
-      "episode_description": "Roosevelt é vítima de suas promessas de neutralidade, mas o ataque a Pearl Harbor muda tudo. Três milhões de soldados nazistas bloqueiam Stalingrado. O desejo único de derrotar o Eixo leva Roosevelt, Stalin e Churchill a formar uma aliança."
-    },
-    {
-      "show_name": "WWII - Corrida para a Vitória",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/h2/tomorrow/br_wwii-corrida-para-a-vitoria-s01e03-vitoria-a-qualquer-custo_l_m.webp",
-      "show_category": "Temporada 1 Episódio 3 - Vitória a Qualquer Custo",
-      "start_time": "10:35",
-      "end_time": "11:30",
-      "episode_description": "Uma exploração das tensões no centro do esforço de guerra dos Aliados, enquanto as potências dominantes avaliam a ambiguidade moral e as ações de sua aliança."
-    },
-    {
-      "show_name": "Guerra dos Tronos - Uma História Real",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/h2/tomorrow/br_guerra-dos-tronos-uma-historia-real-s02e03-a-europa-pega-fogo_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_guerra-dos-tronos-uma-historia-real-s02e03-a-europa-pega-fogo_l_m.jpg",
       "show_category": "Temporada 2 Episódio 3 - A Europa Pega Fogo",
-      "start_time": "11:30",
-      "end_time": "12:20",
+      "start_time": "02:00",
+      "end_time": "03:00",
       "episode_description": "Na França, Catarina de Médici governa nas sombras. Em Flandres, Filipe II enfrenta revoltas e Elizabeth I luta contra Mary Stuart, sua prima."
     },
     {
       "show_name": "Nikola Tesla - Arquivos Perdidos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/h2/tomorrow/br_nikola-tesla-arquivos-perdidos-s01e01-os-arquivos-desaparecidos_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_nikola-tesla-arquivos-perdidos-s01e01-os-arquivos-desaparecidos_l_m.jpg",
       "show_category": "Temporada 1 Episódio 1 - Os Arquivos Desaparecidos",
-      "start_time": "12:20",
-      "end_time": "13:15",
+      "start_time": "03:00",
+      "end_time": "04:00",
       "episode_description": "O pesquisador Marc Seifer embarca em uma aventura para descobrir o mistério por trás do desaparecimento dos arquivos privados do inventor Nikola Tesla. Para isso, ele tem a ajuda de um astrofísico e um jornalista."
     },
     {
       "show_name": "Henrique VIII - Homem, Rei, Déspota",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/h2/tomorrow/br_henrique-viii-homem-rei-despota-s01e01-a-ascens-o-de-um-tirano_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_henrique-viii-homem-rei-despota-s01e01-a-ascens-o-de-um-tirano_l_m.jpg",
       "show_category": "Temporada 1 Episódio 1 - A Ascensão de um Tirano",
-      "start_time": "13:15",
-      "end_time": "14:10",
+      "start_time": "04:00",
+      "end_time": "05:00",
       "episode_description": "Descubra como os traumas de infância moldaram a personalidade de Henrique VIII, desde a morte de seu irmão mais velho e sua mãe até a personalidade paranoica de seu pai. Além disso, uma análise dos altos e baixos de sua relação com o cardeal Wolsey."
     },
     {
       "show_name": "Charles - O Novo Rei",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/h2/tomorrow/br_charles-o-novo-rei-s01e01-a-criac-o-de-um-principe_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_charles-o-novo-rei-s01e01-a-criac-o-de-um-principe_l_m.jpg",
       "show_category": "Temporada 1 Episódio 1 - A Criação de um Príncipe",
-      "start_time": "14:10",
-      "end_time": "15:10",
+      "start_time": "05:00",
+      "end_time": "06:00",
       "episode_description": "Descubra como a infância de Charles e sua educação, com uma mãe ausente e um pai rigoroso, influenciaram sua vida e papel como rei, além do impacto que o casamento com Diana teve na realeza."
     },
     {
       "show_name": "Grandes Mitos - A Ilíada",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/h2/tomorrow/br_grandes-mitos-a-iliada-s02e05-a-espada-e-a-balanca_l_m.webp",
-      "show_category": "Temporada 2 Episódio 5 - A Espada e a Balança",
-      "start_time": "15:10",
-      "end_time": "15:40",
-      "episode_description": "O caos entre gregos e troianos chega ao Monte Olimpo. E, no mundo terreno, um muro vai se erguendo."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_grandes-mitos-a-iliada-s02e07-patroclo-e-os-mirmid-es_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 7 - Pátroclo e os Mirmidões",
+      "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": "Milagrosamente salvo por Apolo, Hector volta ao ataque e leva os troianos até os navios dos gregos, mas, em breve, toda a frota será incendiada; Pátroclo corre para Aquiles e implora para que ele se junte novamente à batalha."
     },
     {
       "show_name": "Grandes Mitos - A Ilíada",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/h2/tomorrow/br_grandes-mitos-a-iliada-s02e06-a-astucia-de-hera_l_m.webp",
-      "show_category": "Temporada 2 Episódio 6 - A Astúcia de Hera",
-      "start_time": "15:40",
-      "end_time": "16:10",
-      "episode_description": "Odisseu e Ajax tentam convencer Aquiles a voltar ao combate, mas o guerreiro grego rejeita seus apelos; no campo de batalha, Agamenon, Diomedes e até o astuto Odisseu são feridos um após o outro."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_grandes-mitos-a-iliada-s02e08-a-vinganca-de-aquiles_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 8 - A Vingança de Aquiles",
+      "start_time": "06:30",
+      "end_time": "07:00",
+      "episode_description": "Thetis pede a Hefesto, o deus dos ferreiros, que forje novas armaduras e armas para seu filho Aquiles. Ao amanhecer, ela os entrega a ele, sabendo que eles levarão à sua morte. Aquiles, entretanto, está determinado."
     },
     {
       "show_name": "O Ouro Perdido da Segunda Guerra Mundial",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/h2/tomorrow/br_o-ouro-perdido-da-segunda-guerra-mundial-s01e03-uma-pista-do-tesouro_l_m.webp",
-      "show_category": "Temporada 1 Episódio 3 - Uma Pista do Tesouro",
-      "start_time": "16:10",
-      "end_time": "17:00",
-      "episode_description": "Com a ajuda de um especialista em explosivos, a equipe descobre a possível sede do General Yamashita e a primeira pista sobre o tesouro."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-ouro-perdido-da-segunda-guerra-mundial-s01e04-hordas-invasoras_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - Hordas Invasoras",
+      "start_time": "07:00",
+      "end_time": "07:50",
+      "episode_description": "A equipe para de cavar, mas Martin Flagg acredita que há um túnel atrás de uma cachoeira. Um mergulhador procura uma possível entrada."
     },
     {
       "show_name": "Engenheiros de Hitler - Construindo o Terceiro Reich",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/h2/tomorrow/br_engenheiros-de-hitler-construindo-o-terceiro-reich-s01e03-werner-heisenberg_l_m.webp",
-      "show_category": "Temporada 1 Episódio 3 - Werner Heisenberg",
-      "start_time": "17:00",
-      "end_time": "17:50",
-      "episode_description": "Werner Heisenberg é um dos cientistas mais controversos do Terceiro Reich. Seu trabalho para construir uma bomba atômica fez dele um alvo importante dos Aliados. No entanto, suas motivações permanecem obscuras."
-    },
-    {
-      "show_name": "Carangas Absurdas",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/h2/tomorrow/br_carangas-absurdas-s01e03-justica-sobre-rodas_l_m.webp",
-      "show_category": "Temporada 1 Episódio 3 - Justiça Sobre Rodas",
-      "start_time": "17:50",
-      "end_time": "18:20",
-      "episode_description": "Alguns automobilistas têm uma paixão muito particular: viaturas, veículos do exército e da justiça em geral. Além de mostrar o seu Ford Taurus da NYPD, Michelle apresenta o grupo de policiais americanos a que pertence."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_engenheiros-de-hitler-construindo-o-terceiro-reich-s01e04-hans-kammler_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - Hans Kammler",
+      "start_time": "07:50",
+      "end_time": "08:40",
+      "episode_description": "Hans Kammler, gestor de projetos do Terceiro Reich, deixou a sua marca nos projetos mais mortíferos feitos pelos nazistas: desde campos de concentração a até mesmo foguetes e mísseis. Ele facilitou alguns dos crimes mais notórios da história moderna."
     },
     {
       "show_name": "Segredos do Arsenal de Espionagem",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/h2/tomorrow/br_segredos-do-arsenal-de-espionagem-s01e01-soldado-do-futuro_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_segredos-do-arsenal-de-espionagem-s01e01-soldado-do-futuro_l_m.jpg",
       "show_category": "Temporada 1 Episódio 1 - Soldado do Futuro",
-      "start_time": "18:20",
-      "end_time": "19:20",
+      "start_time": "08:40",
+      "end_time": "09:40",
       "episode_description": "As formas como as guerras são travadas estão mudando. A guerra eletrônica e as capacidades autônomas e remotas de defesa e ataque farão diferença. Os soldados terão inovações em armas, plataformas de consciência situacional e até robôs assassinos."
     },
     {
       "show_name": "Segredos do Arsenal de Espionagem",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/h2/tomorrow/br_segredos-do-arsenal-de-espionagem-s01e02_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_segredos-do-arsenal-de-espionagem-s01e02_l_m.jpg",
       "show_category": "Temporada 1 Episódio 2 - Ataque Aéreo",
-      "start_time": "19:20",
-      "end_time": "20:20",
+      "start_time": "09:40",
+      "end_time": "10:35",
       "episode_description": "Os drones evoluíram para armas letais. À medida que a IA avança, pilotos são treinados para operá-los e homens-bomba são substituídos por drones kamikazes. Eles desempenham um papel importante na guerra entre a Rússia e a Ucrânia."
     },
     {
       "show_name": "Segredos do Arsenal de Espionagem",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/h2/tomorrow/br_segredos-do-arsenal-de-espionagem-s01e03_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_segredos-do-arsenal-de-espionagem-s01e03_l_m.jpg",
       "show_category": "Temporada 1 Episódio 3 - Choque e Pavor",
-      "start_time": "20:20",
-      "end_time": "21:20",
+      "start_time": "10:35",
+      "end_time": "11:30",
       "episode_description": "Armas de energia eletromagnética dirigida como lasers e micro-ondas estão transformando as guerras."
     },
     {
-      "show_name": "Nikola Tesla - Arquivos Perdidos",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/h2/tomorrow/br_nikola-tesla-arquivos-perdidos-s01e01-os-arquivos-desaparecidos_l_m.webp",
-      "show_category": "Temporada 1 Episódio 1 - Os Arquivos Desaparecidos",
-      "start_time": "21:20",
-      "end_time": "22:20",
-      "episode_description": "O pesquisador Marc Seifer embarca em uma aventura para descobrir o mistério por trás do desaparecimento dos arquivos privados do inventor Nikola Tesla. Para isso, ele tem a ajuda de um astrofísico e um jornalista."
+      "show_name": "Os Segredos das Pirâmides",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-segredos-das-piramides-s02e01-o-nascimento-da-dinastia-de-tutancamon_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 1 - O Nascimento da Dinastia de Tutancâmon",
+      "start_time": "11:30",
+      "end_time": "12:30",
+      "episode_description": "Em 1922, Howard Carter faz uma das descobertas arqueológicas mais surpreendentes da história: a tumba intacta de Tutancâmon. Descubra os segredos ocultos da 18ª Dinastia, conhecida como a era dourada do Egito Antigo."
     },
     {
-      "show_name": "Henrique VIII - Homem, Rei, Déspota",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/h2/tomorrow/br_henrique-viii-homem-rei-despota-s01e01-a-ascens-o-de-um-tirano_l_m.webp",
-      "show_category": "Temporada 1 Episódio 1 - A Ascensão de um Tirano",
-      "start_time": "22:20",
-      "end_time": "23:20",
-      "episode_description": "Descubra como os traumas de infância moldaram a personalidade de Henrique VIII, desde a morte de seu irmão mais velho e sua mãe até a personalidade paranoica de seu pai. Além disso, uma análise dos altos e baixos de sua relação com o cardeal Wolsey."
+      "show_name": "Poderosos Chefões - As Cinco Familias da Máfia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_poderosos-chef-es-as-cinco-familias-da-mafia-s01e01-a-morte-das-velhas-regras_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - A Morte das Velhas Regras",
+      "start_time": "12:30",
+      "end_time": "14:10",
+      "episode_description": "O surgimento da máfia norte-americana desde o seu início em Nova Iorque durante a Lei Seca até os anos dourados da década de 1950."
     },
     {
-      "show_name": "Charles - O Novo Rei",
-      "show_logo": "https://programacaotvhoje.com//wp-content/uploads/downloaded-images/h2/tomorrow/br_charles-o-novo-rei-s01e01-a-criac-o-de-um-principe_l_m.webp",
-      "show_category": "Temporada 1 Episódio 1 - A Criação de um Príncipe",
-      "start_time": "23:20",
+      "show_name": "Segredos do Arsenal de Espionagem",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_segredos-do-arsenal-de-espionagem-s01e01-soldado-do-futuro_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - Soldado do Futuro",
+      "start_time": "14:10",
+      "end_time": "15:10",
+      "episode_description": "As formas como as guerras são travadas estão mudando. A guerra eletrônica e as capacidades autônomas e remotas de defesa e ataque farão diferença. Os soldados terão inovações em armas, plataformas de consciência situacional e até robôs assassinos."
+    },
+    {
+      "show_name": "Grandes Mitos - A Ilíada",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_grandes-mitos-a-iliada-s02e07-patroclo-e-os-mirmid-es_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 7 - Pátroclo e os Mirmidões",
+      "start_time": "15:10",
+      "end_time": "15:40",
+      "episode_description": "Milagrosamente salvo por Apolo, Hector volta ao ataque e leva os troianos até os navios dos gregos, mas, em breve, toda a frota será incendiada; Pátroclo corre para Aquiles e implora para que ele se junte novamente à batalha."
+    },
+    {
+      "show_name": "Grandes Mitos - A Ilíada",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_grandes-mitos-a-iliada-s02e08-a-vinganca-de-aquiles_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 8 - A Vingança de Aquiles",
+      "start_time": "15:40",
+      "end_time": "16:10",
+      "episode_description": "Thetis pede a Hefesto, o deus dos ferreiros, que forje novas armaduras e armas para seu filho Aquiles. Ao amanhecer, ela os entrega a ele, sabendo que eles levarão à sua morte. Aquiles, entretanto, está determinado."
+    },
+    {
+      "show_name": "O Ouro Perdido da Segunda Guerra Mundial",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-ouro-perdido-da-segunda-guerra-mundial-s01e04-hordas-invasoras_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - Hordas Invasoras",
+      "start_time": "16:10",
+      "end_time": "17:00",
+      "episode_description": "A equipe para de cavar, mas Martin Flagg acredita que há um túnel atrás de uma cachoeira. Um mergulhador procura uma possível entrada."
+    },
+    {
+      "show_name": "Engenheiros de Hitler - Construindo o Terceiro Reich",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_engenheiros-de-hitler-construindo-o-terceiro-reich-s01e04-hans-kammler_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - Hans Kammler",
+      "start_time": "17:00",
+      "end_time": "17:50",
+      "episode_description": "Hans Kammler, gestor de projetos do Terceiro Reich, deixou a sua marca nos projetos mais mortíferos feitos pelos nazistas: desde campos de concentração a até mesmo foguetes e mísseis. Ele facilitou alguns dos crimes mais notórios da história moderna."
+    },
+    {
+      "show_name": "Carangas Absurdas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_carangas-absurdas-s01e04-franken-carros_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - Franken Carros",
+      "start_time": "17:50",
+      "end_time": "18:20",
+      "episode_description": "Bola conhece vários carros que são verdadeiros monstros do absurdo. Além de curtir o incrível Frankencharger de Henrique, ele visita a oficina de Leandro Torneiro no interior de São Paulo, e é apresentado, entre outros, para a Brasília Frankenstein."
+    },
+    {
+      "show_name": "WWII - Corrida para a Vitória",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_wwii-corrida-para-a-vitoria-s01e01-perigo-mortal_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - Perigo Mortal",
+      "start_time": "18:20",
+      "end_time": "19:10",
+      "episode_description": "Após assinar a paz com Hitler e ser traído, Neville Chamberlain renuncia, dando lugar a Winston Churchill. Roosevelt promete neutralidade. Hitler trai Stalin e invade a URSS, mas a resistência soviética e o frio do inverno detêm o avanço alemão."
+    },
+    {
+      "show_name": "WWII - Corrida para a Vitória",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_wwii-corrida-para-a-vitoria-s01e02-uma-alianca-profana_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Uma Aliança Profana",
+      "start_time": "19:10",
+      "end_time": "20:05",
+      "episode_description": "Roosevelt é vítima de suas promessas de neutralidade, mas o ataque a Pearl Harbor muda tudo. Três milhões de soldados nazistas bloqueiam Stalingrado. O desejo único de derrotar o Eixo leva Roosevelt, Stalin e Churchill a formar uma aliança."
+    },
+    {
+      "show_name": "WWII - Corrida para a Vitória",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_wwii-corrida-para-a-vitoria-s01e03-vitoria-a-qualquer-custo_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3 - Vitória a Qualquer Custo",
+      "start_time": "20:05",
+      "end_time": "21:00",
+      "episode_description": "Uma exploração das tensões no centro do esforço de guerra dos Aliados, enquanto as potências dominantes avaliam a ambiguidade moral e as ações de sua aliança."
+    },
+    {
+      "show_name": "WWII - Corrida para a Vitória",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_wwii-corrida-para-a-vitoria-s01e04-o-encontro-em-teer_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - O Encontro em Teerã",
+      "start_time": "21:00",
+      "end_time": "22:00",
+      "episode_description": "Os líderes do \"Big 3\", com suas agendas diferentes, planejam se encontrar pessoalmente em Teerã. Mas uma conspiração para assassiná-los frustra o encontro. Roosevelt e Stalin se encontram a sós e decidem abrir uma nova frente na França."
+    },
+    {
+      "show_name": "Inventos da Antiguidade",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_inventos-da-antiguidade-s05e02-engenharia-naval-impossivel_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 2 - Engenharia Naval Impossível",
+      "start_time": "22:00",
+      "end_time": "22:50",
+      "episode_description": "Alexandre Magno construiu no ano de 332 a.C. um enorme caminho elevado para poder atravessar as águas e levar suas máquinas de combate à fortaleza da ilha de Tiro, no Mediterrâneo."
+    },
+    {
+      "show_name": "Inventos da Antiguidade",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_inventos-da-antiguidade-s05e05-maquinas-de-minerac-o-antigas_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 5 - Máquinas de Mineração Antigas",
+      "start_time": "22:50",
+      "end_time": "23:50",
+      "episode_description": "Explore as tecnologias utilizadas pelos mineradores antigos, incluindo um sistema hidráulico romano e a origem da mineração com pólvora, na Inglaterra de 1689."
+    },
+    {
+      "show_name": "Inventos da Antiguidade",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_inventos-da-antiguidade-s05e07-a-ciencia-contida-na-biblia_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 7 - A Ciência Contida na Bíblia",
+      "start_time": "23:50",
       "end_time": "",
-      "episode_description": "Descubra como a infância de Charles e sua educação, com uma mãe ausente e um pai rigoroso, influenciaram sua vida e papel como rei, além do impacto que o casamento com Diana teve na realeza."
+      "episode_description": "As histórias da Bíblia estariam baseadas em fatos científicos antigos? Neste episódio, mostraremos que a Torre de Babel pode ter medido mais de 150 metros de altura; arqueólogos construíram uma réplica da Arca da Aliança."
     }
   ]
 }
