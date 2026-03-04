@@ -1,14 +1,14 @@
 {
   "channel": "TV SENADO",
-  "date": "03/03/2026",
+  "date": "04/03/2026",
   "schedule": [
     {
-      "show_name": "Senadoc",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_senadoc_l_m.jpg",
-      "show_category": "Politics",
+      "show_name": "Rolê - Histórias dos Rolezinhos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_role-historias-dos-rolezinhos-2021_l_m.jpg",
+      "show_category": "Documentary / 2021",
       "start_time": "00:00",
       "end_time": "01:30",
-      "episode_description": "Espaço da TV Senado dedicado a documentários."
+      "episode_description": "O documentário analisa os ecos entre diferentes contextos e práticas de resistência política e subjetiva, endereçando a abissal desigualdade social e racial que se atualiza diariamente no país."
     },
     {
       "show_name": "A Última Abolição",
@@ -67,12 +67,12 @@
       "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
     },
     {
-      "show_name": "Senadoc Acervo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_senadoc-acervo_l_m.jpg",
-      "show_category": "Documentary",
+      "show_name": "Arquiteturas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_arquiteturas_l_m.jpg",
+      "show_category": "Entertainment",
       "start_time": "06:00",
       "end_time": "07:00",
-      "episode_description": "Espaço dedicado a exibição de documentários que fazem parte do acervo histórico da TV Senado."
+      "episode_description": "O programa mostra a arquitetura do conjunto arquitetônico da Galeria Metrópole, erguida em 1960, atrás da Praça Dom José Gaspar, no centro de São Paulo."
     },
     {
       "show_name": "Uma Outra Independência",
@@ -107,20 +107,12 @@
       "episode_description": "Acompanhe as últimas notícias do Senado, entre as transmissões ao vivo das reuniões das comissões, do plenário e os programas de grade da emissora."
     },
     {
-      "show_name": "Comissão de Serviços de Infraestrutura",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o-de-servicos-de-infraestrutura_l_m.jpg",
+      "show_name": "Reunião de Comissão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_reuni-o-de-comiss-o_l_m.jpg",
       "show_category": "Politics",
       "start_time": "09:00",
-      "end_time": "10:00",
-      "episode_description": "Os debates sobre os transportes de terra, mar e ar, obras públicas em geral, minas, recursos geológicos e serviços de telecomunicações."
-    },
-    {
-      "show_name": "Comissão de Assuntos Econômicos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o-de-assuntos-economicos-1_l_m.jpg",
-      "show_category": "Politics",
-      "start_time": "10:00",
       "end_time": "13:30",
-      "episode_description": "Os debates e discussões dos projetos de lei que passam pela Comissão de Assuntos Econômicos."
+      "episode_description": "Acompanhe as comissões do Senado Federal no Congresso Nacional do Brasil."
     },
     {
       "show_name": "Senado Notícias",

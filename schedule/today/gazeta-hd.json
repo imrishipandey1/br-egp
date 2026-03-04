@@ -1,22 +1,30 @@
 {
   "channel": "Gazeta HD",
-  "date": "03/03/2026",
+  "date": "04/03/2026",
   "schedule": [
     {
-      "show_name": "Programa Pago",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_programa-pago-1_l_m.jpg",
-      "show_category": "Consumer",
+      "show_name": "Gazeta Esportiva",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_debate-gazeta-esportiva_l_m.jpg",
+      "show_category": "",
       "start_time": "02:00",
-      "end_time": "04:00",
-      "episode_description": "Espaço publicitário destinado à comercialização de produtos e serviços."
+      "end_time": "03:00",
+      "episode_description": "Notícias e opiniões de quem mais entende, em conjunto com seu dia a dia, disponibilizando ao telespectador, em primeira mão, as principais novidades do esporte."
     },
     {
-      "show_name": "Programa Pago",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_programa-pago-1_l_m.jpg",
+      "show_name": "Jornal da Gazeta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-da-gazeta_l_m.jpg",
+      "show_category": "News",
+      "start_time": "03:00",
+      "end_time": "04:00",
+      "episode_description": "O programa apresenta as principais notícias do dia, reportagens exclusivas e análises feitas por uma equipe de comentaristas especializados em política, economia, sustentabilidade e cultura."
+    },
+    {
+      "show_name": "Gazeta Shopping",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_gazeta-shopping_l_m.jpg",
       "show_category": "Consumer",
       "start_time": "04:00",
       "end_time": "06:00",
-      "episode_description": "Espaço publicitário destinado à comercialização de produtos e serviços."
+      "episode_description": "Acompanhe ofertas e lançamentos em diversos segmentos do mercado."
     },
     {
       "show_name": "Igreja Universal do Reino de Deus",
@@ -27,18 +35,26 @@
       "episode_description": "Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus."
     },
     {
-      "show_name": "Você Bonita",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_voce-bonita_l_m.jpg",
-      "show_category": "Health",
+      "show_name": "Gazeta News",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_gazeta-news_l_m.jpg",
+      "show_category": "News",
       "start_time": "13:00",
       "end_time": "14:00",
-      "episode_description": "Matérias sobre saúde e nutrição, dicas para uma alimentação equilibrada e receitas leves, além das principais novidades nos tratamentos estéticos."
+      "episode_description": "O jornal é um resumo de final de tarde, criado para transmitir os fatos mais importantes ocorridos desde o amanhecer."
+    },
+    {
+      "show_name": "Fofoca Aí",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_fofoca-ai_l_m.jpg",
+      "show_category": "Entertainment",
+      "start_time": "14:00",
+      "end_time": "15:30",
+      "episode_description": "O programa aborda assuntos sobre celebridades e bastidores da TV, com uma linguagem descontraída e bem-humorada."
     },
     {
       "show_name": "Mulheres",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_mulheres_l_m.jpg",
       "show_category": "Variety",
-      "start_time": "14:00",
+      "start_time": "15:30",
       "end_time": "17:45",
       "episode_description": "O programa traz especialistas nas áreas de culinária, moda, beleza, atualidades, lazer e direito do consumidor, entre outros assuntos de grande interesse da mulher."
     },

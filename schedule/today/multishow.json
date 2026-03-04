@@ -1,14 +1,14 @@
 {
   "channel": "Multishow",
-  "date": "03/03/2026",
+  "date": "04/03/2026",
   "schedule": [
     {
       "show_name": "Big Show",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_big-show-s26e07_l_m.jpg",
-      "show_category": "Temporada 26 Episódio 7",
+      "show_category": "Temporada 26 Episódio 7 - Maxiane e Marcelo Médici",
       "start_time": "00:00",
       "end_time": "01:00",
-      "episode_description": "Debates, jogos, entrevistas e convidados especiais, incluindo o eliminado da semana no \"BBB\"."
+      "episode_description": "No \"Big Show\", após a \"Esticadinha\", Ana Clara e Ed Gama recebem a eliminada Maxiane para falar sobre sua trajetória no reality. O ator e humorista Marcelo Médici marca presença na atração, ao lado de um Dummy misterioso, que desperta curiosidade."
     },
     {
       "show_name": "A Grande Família",
@@ -40,7 +40,7 @@
       "show_category": "Sitcom",
       "start_time": "02:26",
       "end_time": "02:53",
-      "episode_description": "Dona Florinda e Seu Madruga andam mal de dinheiro e resolvem fazer uma sociedade: ela faz os churros e ele os vende. Na hora de preparar os doces, Chaves e Quico provocam várias confusões."
+      "episode_description": "Dona Florinda e Seu Madruga continuam a preparar o negócio da venda de churros. Enquanto isso, o Professor Girafales vai à vila experimentar os doces."
     },
     {
       "show_name": "Chapolin",
@@ -48,7 +48,7 @@
       "show_category": "Temporada 1 Episódio 177 - A Fortuna de Federico Chopin",
       "start_time": "02:53",
       "end_time": "03:20",
-      "episode_description": "Florinda, herdeira de uma fortuna, está apaixonada pelo Conde de Terra-Nova, mas seu pai não aprova o relacionamento e tenta matar o namorado da filha. Chapolin chega para resolver a situação da família, e conta a história de Federico Chopin."
+      "episode_description": "Florinda, herdeira de uma fortuna, está apaixonada pelo Conde de Terra-Nova, mas seu pai não aprova o relacionamento e tenta matar o namorado da filha. Chapolin chega para resolver a situação da família e conta a história de Frédéric Chopin."
     },
     {
       "show_name": "Chaves",
@@ -56,7 +56,7 @@
       "show_category": "Sitcom",
       "start_time": "03:20",
       "end_time": "03:43",
-      "episode_description": "Dona Florinda e Seu Madruga andam mal de dinheiro e resolvem fazer uma sociedade: ela faz os churros e ele os vende. Na hora de preparar os doces, Chaves e Quico provocam várias confusões."
+      "episode_description": "Dona Florinda e Seu Madruga continuam a preparar o negócio da venda de churros. Enquanto isso, o Professor Girafales vai à vila experimentar os doces."
     },
     {
       "show_name": "Chapolin",
@@ -72,7 +72,7 @@
       "show_category": "Sitcom",
       "start_time": "04:09",
       "end_time": "04:33",
-      "episode_description": "Dona Florinda e Seu Madruga andam mal de dinheiro e resolvem fazer uma sociedade: ela faz os churros e ele os vende. Na hora de preparar os doces, Chaves e Quico provocam várias confusões."
+      "episode_description": "Dona Florinda e Seu Madruga continuam a preparar o negócio da venda de churros. Enquanto isso, o Professor Girafales vai à vila experimentar os doces."
     },
     {
       "show_name": "TVZ",
@@ -119,8 +119,16 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_chaves_l_m.jpg",
       "show_category": "Sitcom",
       "start_time": "07:00",
+      "end_time": "07:27",
+      "episode_description": "Dona Florinda e Seu Madruga continuam a preparar o negócio da venda de churros. Enquanto isso, o Professor Girafales vai à vila experimentar os doces."
+    },
+    {
+      "show_name": "Chapolin",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_chapolin-s01e177-a-fortuna-de-federico-chopin_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 177 - A Fortuna de Federico Chopin",
+      "start_time": "07:27",
       "end_time": "07:54",
-      "episode_description": "Dona Florinda e Seu Madruga andam mal de dinheiro e resolvem fazer uma sociedade: ela faz os churros e ele os vende. Na hora de preparar os doces, Chaves e Quico provocam várias confusões."
+      "episode_description": "Florinda, herdeira de uma fortuna, está apaixonada pelo Conde de Terra-Nova, mas seu pai não aprova o relacionamento e tenta matar o namorado da filha. Chapolin chega para resolver a situação da família e conta a história de Frédéric Chopin."
     },
     {
       "show_name": "O Dono do Lar",
@@ -176,7 +184,7 @@
       "show_category": "Sitcom",
       "start_time": "10:37",
       "end_time": "11:04",
-      "episode_description": "Dona Florinda e Seu Madruga andam mal de dinheiro e resolvem fazer uma sociedade: ela faz os churros e ele os vende. Na hora de preparar os doces, Chaves e Quico provocam várias confusões."
+      "episode_description": "Dona Florinda e Seu Madruga continuam a preparar o negócio da venda de churros. Enquanto isso, o Professor Girafales vai à vila experimentar os doces."
     },
     {
       "show_name": "Chapolin",
@@ -207,8 +215,16 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_toma-la-da-ca-s01e14-de-veu-e-grinalda_l_m.jpg",
       "show_category": "Temporada 1 Episódio 14 - De Véu e Grinalda",
       "start_time": "12:42",
-      "end_time": "13:49",
+      "end_time": "13:22",
       "episode_description": "Álvara organiza um bazar; Celinha compra um vestido de noiva e se casa com Mário Jorge."
+    },
+    {
+      "show_name": "Muse: Drones World Tour",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_muse-drones-world-tour_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "13:22",
+      "end_time": "13:49",
+      "episode_description": "Muse, a banda multi-premiada mundialmente, embarcou em seus ambiciosos World Tour Drones em 2015, fazendo mais de 130 shows em todo o mundo. No centro dos visuais da turnê estavam os drones, que voavam de forma autônoma sobre o palco e ao redor do público. Confira as gravações de alguns destes shows, com efeitos especiais nunca vistos, ao som do célebre repertório da banda, incluindo Psycho, Uprising, Plug in Baby, Supermassive Black Hole e Knights of Cydonia."
     },
     {
       "show_name": "Vai que Cola",
@@ -237,10 +253,10 @@
     {
       "show_name": "Big Show",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_big-show-s26e07_l_m.jpg",
-      "show_category": "Temporada 26 Episódio 7",
+      "show_category": "Temporada 26 Episódio 7 - Maxiane e Marcelo Médici",
       "start_time": "15:38",
       "end_time": "16:38",
-      "episode_description": "Debates, jogos, entrevistas e convidados especiais, incluindo o eliminado da semana no \"BBB\"."
+      "episode_description": "No \"Big Show\", após a \"Esticadinha\", Ana Clara e Ed Gama recebem a eliminada Maxiane para falar sobre sua trajetória no reality. O ator e humorista Marcelo Médici marca presença na atração, ao lado de um Dummy misterioso, que desperta curiosidade."
     },
     {
       "show_name": "Tapas & Beijos",
