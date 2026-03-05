@@ -1,62 +1,46 @@
 {
   "channel": "TV Escola",
-  "date": "05/03/2026",
+  "date": "06/03/2026",
   "schedule": [
-    {
-      "show_name": "Caminhos da Reportagem",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_caminhos-da-reportagem-1_l_m.jpg",
-      "show_category": "Documentary",
-      "start_time": "00:00",
-      "end_time": "00:30",
-      "episode_description": "Um programa que oferece uma visão diferente, instigante e complexa de grandes histórias, por meio de viagens feitas pelo país e pelo mundo."
-    },
-    {
-      "show_name": "Inclusão para Valer",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_inclus-o-para-valer_l_m.jpg",
-      "show_category": "Educational",
-      "start_time": "00:30",
-      "end_time": "01:00",
-      "episode_description": "Uma visão abrangente e educativa sobre os desafios e avanços na inclusão de pessoas com deficiência, promovendo a construção de uma sociedade mais justa e inclusiva."
-    },
-    {
-      "show_name": "Palavra de Mulher",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-de-mulher-1_l_m.jpg",
-      "show_category": "Special",
-      "start_time": "01:00",
-      "end_time": "01:45",
-      "episode_description": "Conheça as histórias de 26 mulheres que integraram a Assembleia Constituinte de 1988 e ajudaram a garantir a igualdade de direitos perante a lei."
-    },
-    {
-      "show_name": "Outro Olhar",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_outro-olhar_l_m.jpg",
-      "show_category": "Special",
-      "start_time": "01:45",
-      "end_time": "02:15",
-      "episode_description": "A história da estudante gaúcha Renata Basso, que tem síndrome de Down e acaba de concluir o ensino médio. Por meio de entrevistas com professores, gestores educacionais, colegas de classe, familiares e a própria Renata, o documentário mostra que o esforço coletivo torna possível oferecer uma aprendizagem de qualidade a estudantes especiais."
-    },
-    {
-      "show_name": "45 Anos da Cooperação Brasil - Moçambique",
-      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
-      "show_category": "History",
-      "start_time": "02:15",
-      "end_time": "02:30",
-      "episode_description": "Explora como a cooperação entre Brasil e Moçambique tem atuado na formação e qualificação profissional, construindo bases sólidas, que impulsionam o crescimento do país e moldam o seu futuro."
-    },
     {
       "show_name": "Vida de Merendeira",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_vida-de-merendeira_l_m.jpg",
       "show_category": "Reality",
-      "start_time": "02:30",
-      "end_time": "03:30",
+      "start_time": "00:00",
+      "end_time": "01:00",
       "episode_description": "Merendeiras de escolas cozinham receitas deliciosas e mostram como alimentam suas comunidades."
     },
     {
-      "show_name": "Estúdio Ciência",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_estudio-ciencia_l_m.jpg",
-      "show_category": "Science",
-      "start_time": "03:30",
+      "show_name": "Cinco Mulheres do Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cinco-mulheres-do-brasil_l_m.jpg",
+      "show_category": "History",
+      "start_time": "01:00",
+      "end_time": "01:30",
+      "episode_description": "A história de figuras femininas que desafiaram limites sociais e culturais em suas épocas, incluindo Anita Garibaldi, Maria Quitéria e Chiquinha Gonzaga."
+    },
+    {
+      "show_name": "Sal a Gosto",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sal-a-gosto_l_m.jpg",
+      "show_category": "Drama",
+      "start_time": "01:30",
+      "end_time": "02:00",
+      "episode_description": "A história da família Freitas, que enfrenta a falência de seu restaurante, divórcio, chegada inesperada de um sobrinho e a pandemia. Unidos, eles buscam superar os desafios e preservar seus sonhos."
+    },
+    {
+      "show_name": "Escola que Protege",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_escola-que-protege_l_m.jpg",
+      "show_category": "Public affairs",
+      "start_time": "02:00",
+      "end_time": "03:00",
+      "episode_description": "Debate sobre práticas restaurativas na educação, prevenção da violência, ampliação de escuta e fomento de ambientes acolhedores no ambiente escolar."
+    },
+    {
+      "show_name": "Programa Humanidades",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_programa-humanidades_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "03:00",
       "end_time": "04:00",
-      "episode_description": "O Doutor em Física e divulgador científico Marcelo Schappo recebe convidados no estúdio da TV UFSC para uma conversa descontraída de cientista para cientista, levando informação e curiosidades para o público."
+      "episode_description": "Série que aborda temas da atualidade com muita reflexão, busca pessoal e questionamento crítico."
     },
     {
       "show_name": "Se Liga na Educação - Enem",
@@ -67,12 +51,20 @@
       "episode_description": "Acompanhe as aulas produzidas pela Secretaria de Estado de Educação de Minas Gerais."
     },
     {
-      "show_name": "Trilha de Letras",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_trilha-de-letras_l_m.jpg",
-      "show_category": "Interview",
+      "show_name": "Português Daqui, Português de Lá",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_portugues-daqui-portugues-de-la_l_m.jpg",
+      "show_category": "Educational",
       "start_time": "05:15",
+      "end_time": "05:30",
+      "episode_description": "Um olhar para as regras, a história e a beleza da língua portuguesa."
+    },
+    {
+      "show_name": "Português Daqui, Português de Lá",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_portugues-daqui-portugues-de-la_l_m.jpg",
+      "show_category": "Educational",
+      "start_time": "05:30",
       "end_time": "05:45",
-      "episode_description": "Autores expõem suas opiniões e críticas sobre diversos temas, unindo literatura e informação."
+      "episode_description": "Um olhar para as regras, a história e a beleza da língua portuguesa."
     },
     {
       "show_name": "Cidades em Crise",
@@ -99,12 +91,12 @@
       "episode_description": "Interprogramas que apresentam, de forma clara e acessível, iniciativas e políticas públicas do governo federal."
     },
     {
-      "show_name": "Vida de Merendeira",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_vida-de-merendeira_l_m.jpg",
-      "show_category": "Reality",
+      "show_name": "Escola que Protege",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_escola-que-protege_l_m.jpg",
+      "show_category": "Public affairs",
       "start_time": "06:00",
       "end_time": "07:00",
-      "episode_description": "Merendeiras de escolas cozinham receitas deliciosas e mostram como alimentam suas comunidades."
+      "episode_description": "Debate sobre práticas restaurativas na educação, prevenção da violência, ampliação de escuta e fomento de ambientes acolhedores no ambiente escolar."
     },
     {
       "show_name": "Palaloos",
@@ -168,7 +160,7 @@
       "show_category": "Children",
       "start_time": "08:30",
       "end_time": "09:00",
-      "episode_description": "Debaixo de uma mangueira um mundo se faz. Crianças de três comunidades do Vale do Jequitinhonha revelam como constroem suas casinhas e todos os segredos que habitam esses cantinhos. Seus corpos vigorosos brincam de esconde-esconde pela mata, tocam o batuque em família, sobem e descem em gangorras de bambu e giram suas biorras."
+      "episode_description": "Através do telefone de lata as crianças de Acupe nos contam como nos domingos de julho as ruas dessa comunidade quilombola são tomadas por caretas assustadoras. Revelam segredos de como lidam com o medo e a coragem nessa manifestação popular tão esperada por todos. Apresentam suas ratoeiras, que constroem com lixo urbano, para suas caçadas do tradicional guaiamum."
     },
     {
       "show_name": "Manual de Sobrevivência da Literatura Brasileira",
@@ -187,20 +179,12 @@
       "episode_description": "Acompanhe as aulas produzidas pela Secretaria de Estado de Educação de Minas Gerais."
     },
     {
-      "show_name": "Português Daqui, Português de Lá",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_portugues-daqui-portugues-de-la_l_m.jpg",
-      "show_category": "Educational",
+      "show_name": "Trilha de Letras",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_trilha-de-letras_l_m.jpg",
+      "show_category": "Interview",
       "start_time": "10:45",
-      "end_time": "11:00",
-      "episode_description": "Um olhar para as regras, a história e a beleza da língua portuguesa."
-    },
-    {
-      "show_name": "Português Daqui, Português de Lá",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_portugues-daqui-portugues-de-la_l_m.jpg",
-      "show_category": "Educational",
-      "start_time": "11:00",
       "end_time": "11:15",
-      "episode_description": "Um olhar para as regras, a história e a beleza da língua portuguesa."
+      "episode_description": "Autores expõem suas opiniões e críticas sobre diversos temas, unindo literatura e informação."
     },
     {
       "show_name": "Cidades em Crise",
@@ -227,20 +211,44 @@
       "episode_description": "Interprogramas que apresentam, de forma clara e acessível, iniciativas e políticas públicas do governo federal."
     },
     {
-      "show_name": "Programa Humanidades",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_programa-humanidades_l_m.jpg",
-      "show_category": "Documentary",
+      "show_name": "Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ac-o_l_m.jpg",
+      "show_category": "Technology",
       "start_time": "11:30",
-      "end_time": "12:30",
-      "episode_description": "Série que aborda temas da atualidade com muita reflexão, busca pessoal e questionamento crítico."
+      "end_time": "11:40",
+      "episode_description": "Série em formato de oficina audiovisual que convida o público a usar a tecnologia acessível para eles para contar histórias e buscar soluções para o dia a dia."
     },
     {
-      "show_name": "Vida de Merendeira",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_vida-de-merendeira_l_m.jpg",
-      "show_category": "Reality",
+      "show_name": "Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ac-o_l_m.jpg",
+      "show_category": "Technology",
+      "start_time": "11:40",
+      "end_time": "11:50",
+      "episode_description": "Série em formato de oficina audiovisual que convida o público a usar a tecnologia acessível para eles para contar histórias e buscar soluções para o dia a dia."
+    },
+    {
+      "show_name": "Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ac-o_l_m.jpg",
+      "show_category": "Technology",
+      "start_time": "11:50",
+      "end_time": "12:00",
+      "episode_description": "Série em formato de oficina audiovisual que convida o público a usar a tecnologia acessível para eles para contar histórias e buscar soluções para o dia a dia."
+    },
+    {
+      "show_name": "UniVERciência",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_univerciencia_l_m.jpg",
+      "show_category": "Educational",
+      "start_time": "12:00",
+      "end_time": "12:30",
+      "episode_description": "O programa promove a popularização e difusão da ciência em seus diversos aspectos, para fortalecer a relação entre as universidades públicas e a sociedade."
+    },
+    {
+      "show_name": "Escola que Protege",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_escola-que-protege_l_m.jpg",
+      "show_category": "Public affairs",
       "start_time": "12:30",
       "end_time": "13:30",
-      "episode_description": "Merendeiras de escolas cozinham receitas deliciosas e mostram como alimentam suas comunidades."
+      "episode_description": "Debate sobre práticas restaurativas na educação, prevenção da violência, ampliação de escuta e fomento de ambientes acolhedores no ambiente escolar."
     },
     {
       "show_name": "Palaloos",
@@ -296,7 +304,7 @@
       "show_category": "Children",
       "start_time": "14:45",
       "end_time": "15:15",
-      "episode_description": "Debaixo de uma mangueira um mundo se faz. Crianças de três comunidades do Vale do Jequitinhonha revelam como constroem suas casinhas e todos os segredos que habitam esses cantinhos. Seus corpos vigorosos brincam de esconde-esconde pela mata, tocam o batuque em família, sobem e descem em gangorras de bambu e giram suas biorras."
+      "episode_description": "Através do telefone de lata as crianças de Acupe nos contam como nos domingos de julho as ruas dessa comunidade quilombola são tomadas por caretas assustadoras. Revelam segredos de como lidam com o medo e a coragem nessa manifestação popular tão esperada por todos. Apresentam suas ratoeiras, que constroem com lixo urbano, para suas caçadas do tradicional guaiamum."
     },
     {
       "show_name": "Manual de Sobrevivência da Literatura Brasileira",
@@ -339,20 +347,12 @@
       "episode_description": "Acompanhe as aulas produzidas pela Secretaria de Estado de Educação de Minas Gerais."
     },
     {
-      "show_name": "Português Daqui, Português de Lá",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_portugues-daqui-portugues-de-la_l_m.jpg",
-      "show_category": "Educational",
+      "show_name": "Trilha de Letras",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_trilha-de-letras_l_m.jpg",
+      "show_category": "Interview",
       "start_time": "17:15",
-      "end_time": "17:30",
-      "episode_description": "Um olhar para as regras, a história e a beleza da língua portuguesa."
-    },
-    {
-      "show_name": "Português Daqui, Português de Lá",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_portugues-daqui-portugues-de-la_l_m.jpg",
-      "show_category": "Educational",
-      "start_time": "17:30",
       "end_time": "17:45",
-      "episode_description": "Um olhar para as regras, a história e a beleza da língua portuguesa."
+      "episode_description": "Autores expõem suas opiniões e críticas sobre diversos temas, unindo literatura e informação."
     },
     {
       "show_name": "Cidades em Crise",
@@ -379,68 +379,124 @@
       "episode_description": "Interprogramas que apresentam, de forma clara e acessível, iniciativas e políticas públicas do governo federal."
     },
     {
-      "show_name": "Programa Humanidades",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_programa-humanidades_l_m.jpg",
-      "show_category": "Documentary",
+      "show_name": "Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ac-o_l_m.jpg",
+      "show_category": "Technology",
       "start_time": "18:00",
-      "end_time": "19:00",
-      "episode_description": "Série que aborda temas da atualidade com muita reflexão, busca pessoal e questionamento crítico."
+      "end_time": "18:10",
+      "episode_description": "Série em formato de oficina audiovisual que convida o público a usar a tecnologia acessível para eles para contar histórias e buscar soluções para o dia a dia."
     },
     {
-      "show_name": "Caminhos da Reportagem",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_caminhos-da-reportagem-1_l_m.jpg",
-      "show_category": "Documentary",
+      "show_name": "Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ac-o_l_m.jpg",
+      "show_category": "Technology",
+      "start_time": "18:10",
+      "end_time": "18:20",
+      "episode_description": "Série em formato de oficina audiovisual que convida o público a usar a tecnologia acessível para eles para contar histórias e buscar soluções para o dia a dia."
+    },
+    {
+      "show_name": "Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ac-o_l_m.jpg",
+      "show_category": "Technology",
+      "start_time": "18:20",
+      "end_time": "18:30",
+      "episode_description": "Série em formato de oficina audiovisual que convida o público a usar a tecnologia acessível para eles para contar histórias e buscar soluções para o dia a dia."
+    },
+    {
+      "show_name": "UniVERciência",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_univerciencia_l_m.jpg",
+      "show_category": "Educational",
+      "start_time": "18:30",
+      "end_time": "19:00",
+      "episode_description": "O programa promove a popularização e difusão da ciência em seus diversos aspectos, para fortalecer a relação entre as universidades públicas e a sociedade."
+    },
+    {
+      "show_name": "Sem Dúvida Nenhuma",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sem-duvida-nenhuma_l_m.jpg",
+      "show_category": "Educational",
       "start_time": "19:00",
+      "end_time": "19:15",
+      "episode_description": "O programa traz jornalismo, curiosidades e histórias da sala de aula e do mundo da educação. A cada edição, ideias criativas de professores, informações sobre o Enem e novidades do Ministério da Educação."
+    },
+    {
+      "show_name": "Pequenos Mestres",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pequenos-mestres_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "19:15",
       "end_time": "19:30",
-      "episode_description": "Um programa que oferece uma visão diferente, instigante e complexa de grandes histórias, por meio de viagens feitas pelo país e pelo mundo."
+      "episode_description": "Aprendendo a arte de sua família, os herdeiros de grandes mestres da cultura popular brasileira ensinam a importância de preservar uma cultura passada de geração a geração."
+    },
+    {
+      "show_name": "Estações",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_estac-es_l_m.jpg",
+      "show_category": "History",
+      "start_time": "19:30",
+      "end_time": "20:00",
+      "episode_description": "O programa apresenta aspectos históricos, patrimoniais, culturais e memórias de personagens que trabalharam ou viveram no entorno das estações ferroviárias, além de refletir sobre o futuro e a importância desses locais."
     },
     {
       "show_name": "Escola que Protege",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_escola-que-protege_l_m.jpg",
       "show_category": "Public affairs",
-      "start_time": "19:30",
-      "end_time": "20:30",
+      "start_time": "20:00",
+      "end_time": "21:00",
       "episode_description": "Debate sobre práticas restaurativas na educação, prevenção da violência, ampliação de escuta e fomento de ambientes acolhedores no ambiente escolar."
     },
     {
-      "show_name": "Vida de Merendeira",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_vida-de-merendeira_l_m.jpg",
-      "show_category": "Reality",
-      "start_time": "20:30",
+      "show_name": "Meu Pedaço do Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_meu-pedaco-do-brasil_l_m.jpg",
+      "show_category": "Travel",
+      "start_time": "21:00",
       "end_time": "21:30",
-      "episode_description": "Merendeiras de escolas cozinham receitas deliciosas e mostram como alimentam suas comunidades."
+      "episode_description": "Bruno Barros descobre e experimenta novos destinos turísticos do nosso país. As viagens levam o espectador para lindas praias, importantes museus e outras atrações imperdíveis do Brasil, com conversas descontraídas com moradores locais."
     },
     {
-      "show_name": "Faróis do Brasil",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_farois-do-brasil_l_m.jpg",
-      "show_category": "Art",
+      "show_name": "Nossos Biomas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_nossos-biomas_l_m.jpg",
+      "show_category": "Documentary",
       "start_time": "21:30",
       "end_time": "22:00",
-      "episode_description": "Conheça diferentes faróis pelo vasto território nacional, com uma imersão sobre suas histórias."
+      "episode_description": "Série documental viaja aos biomas brasileiros e explora lugares como a Mata Atlântica, os Pampas, o Pantanal, a Caatinga, a Amazônia e o Cerrado."
+    },
+    {
+      "show_name": "Entre Longes",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_entre-longes_l_m.jpg",
+      "show_category": "Drama",
+      "start_time": "22:00",
+      "end_time": "22:30",
+      "episode_description": "Depois da Segunda Guerra, a enfermeira Rachel decide recomeçar sua vida em um lugar distante de todas as memórias do amor impossível que teve na Suíça. No Brasil, ela trabalha em um posto de saúde no município de Rosário Oeste, Mato Grosso."
     },
     {
       "show_name": "Cinco Mulheres do Brasil",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_cinco-mulheres-do-brasil_l_m.jpg",
       "show_category": "History",
-      "start_time": "22:00",
-      "end_time": "22:30",
+      "start_time": "22:30",
+      "end_time": "23:00",
       "episode_description": "A história de figuras femininas que desafiaram limites sociais e culturais em suas épocas, incluindo Anita Garibaldi, Maria Quitéria e Chiquinha Gonzaga."
     },
     {
-      "show_name": "Sal a Gosto",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sal-a-gosto_l_m.jpg",
-      "show_category": "Drama",
-      "start_time": "22:30",
-      "end_time": "23:00",
-      "episode_description": "A história da família Freitas, que enfrenta a falência de seu restaurante, divórcio, chegada inesperada de um sobrinho e a pandemia. Unidos, eles buscam superar os desafios e preservar seus sonhos."
+      "show_name": "Sementes da Educação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sementes-da-educac-o_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "23:00",
+      "end_time": "23:30",
+      "episode_description": "Mesmo com recursos escassos, algumas escolas conseguiram inovar os métodos educacionais."
     },
     {
-      "show_name": "Escola que Protege",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_escola-que-protege_l_m.jpg",
-      "show_category": "Public affairs",
-      "start_time": "23:00",
+      "show_name": "Sem Dúvida Nenhuma",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sem-duvida-nenhuma_l_m.jpg",
+      "show_category": "Educational",
+      "start_time": "23:30",
+      "end_time": "23:45",
+      "episode_description": "O programa traz jornalismo, curiosidades e histórias da sala de aula e do mundo da educação. A cada edição, ideias criativas de professores, informações sobre o Enem e novidades do Ministério da Educação."
+    },
+    {
+      "show_name": "Pequenos Mestres",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pequenos-mestres_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "23:45",
       "end_time": "",
-      "episode_description": "Debate sobre práticas restaurativas na educação, prevenção da violência, ampliação de escuta e fomento de ambientes acolhedores no ambiente escolar."
+      "episode_description": "Aprendendo a arte de sua família, os herdeiros de grandes mestres da cultura popular brasileira ensinam a importância de preservar uma cultura passada de geração a geração."
     }
   ]
 }

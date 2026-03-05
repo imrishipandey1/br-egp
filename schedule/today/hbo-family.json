@@ -1,134 +1,126 @@
 {
   "channel": "HBO Family",
-  "date": "04/03/2026",
+  "date": "05/03/2026",
   "schedule": [
+    {
+      "show_name": "Matilda",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_matilda-1996_l_m.jpg",
+      "show_category": "Children / 1996 /6.8",
+      "start_time": "01:35",
+      "end_time": "03:13",
+      "episode_description": "Matilda é uma criança brilhante que cresceu ignorada pelos pais, a ponto de esquecerem de matriculá-la na escola. Quando a menina descobre que possui poderes mágicos e seu pai a manda estudar, ela precisa proteger os colegas da malvada diretora."
+    },
+    {
+      "show_name": "A Noiva Cadáver",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-noiva-cadaver-2005-1_l_m.jpg",
+      "show_category": "Children / 2005",
+      "start_time": "03:13",
+      "end_time": "04:31",
+      "episode_description": "As famílias de Victor e Victoria estão arranjando seu casamento. Nervoso com a cerimônia, Victor vai sozinho à floresta para ensaiar seus votos. No entanto, o que ele pensava ser um tronco de árvore na verdade é o braço esquelético de Emily, uma noiva que foi assassinada depois de fugir com seu amor. Convencida que Victor acabara de lhe pedir a mão em casamento, Emily o leva para o mundo dos mortos, mas ele precisa retornar rapidamente antes que Victoria se case com o malvado Lorde Barkis."
+    },
+    {
+      "show_name": "Cegonhas - A História que Não te Contaram",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cegonhas-a-historia-que-n-o-te-contaram-2016_l_m.jpg",
+      "show_category": "Children / 2016",
+      "start_time": "04:31",
+      "end_time": "06:00",
+      "episode_description": "As cegonhas que entregavam bebês agora trabalham com pacotes. Um pedido para entregar um bebê é aprovado acidentalmente e Junior, a menor cegonha mensageira, e Tulipa, a única humana em toda a empresa, fazem o impossível para entregar o delicado pacote antes que seu chefe perceba o erro."
+    },
+    {
+      "show_name": "Os Jovens Titãs em Ação! Nos Cinemas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-jovens-tit-s-em-ac-o-nos-cinemas-2018_l_m.jpg",
+      "show_category": "Children / 2018",
+      "start_time": "06:00",
+      "end_time": "07:25",
+      "episode_description": "Robin, Ciborgue, Estelar, Ravena e Mutano são os Jovens Titãs. Ao perceberem que todos os super-heróis estão estrelando filmes, eles decidem se mobilizar para também ter espaço nas telonas. O líder do grupo, Robin, está determinado a ser visto como um astro. Com ideias malucas, eles partem em busca de um diretor de Hollywood, mas acabam enganados por um supervilão."
+    },
     {
       "show_name": "Noite de Sustos",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_noite-de-sustos-2022_l_m.jpg",
       "show_category": "Holiday / 2022",
-      "start_time": "01:30",
-      "end_time": "02:53",
+      "start_time": "07:25",
+      "end_time": "08:50",
       "episode_description": "Três amigos decidem passar a noite de Halloween dentro de uma loja de fantasias de terror, mas descobrem que o lugar é assombrado por um espírito do mal."
     },
     {
-      "show_name": "Pé Pequeno",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_pe-pequeno-2018_l_m.jpg",
-      "show_category": "Children / 2018",
-      "start_time": "02:53",
-      "end_time": "04:32",
-      "episode_description": "Uma criatura conhecida como o Abominável Homem das Neves tem certeza de que os seres humanos realmente existem, mesmo que todos da sua espécie neguem. Mas ele não desiste tão facilmente de provar a sua tese."
+      "show_name": "Meu Malvado Favorito 3",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_meu-malvado-favorito-3-2017_l_m.jpg",
+      "show_category": "Children / 2017",
+      "start_time": "08:50",
+      "end_time": "10:22",
+      "episode_description": "Balthazar Bratt, ex-ator mirim e astro de TV, foi um típico malvado bem-sucedido nos anos 1980 e agora está de volta à ativa. Ele aterroriza a vida de Gru, Agnes, Margo, Edith, Dr. Nefário e os atrapalhados Minions. Em meio a tudo isso, Gru também encontra o seu irmão gêmeo, Drew."
     },
     {
       "show_name": "O Bicho Vai Pegar 4",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_o-bicho-vai-pegar-4-2015_l_m.jpg",
       "show_category": "Children / 2015",
-      "start_time": "04:32",
-      "end_time": "06:00",
+      "start_time": "10:22",
+      "end_time": "11:49",
       "episode_description": "Um caso de confusão de identidade faz humanos e animais acreditarem que há um lobisomem na floresta de Timberline. Shaw, um antigo caçador, aproveita a oportunidade para voltar a abrir a temporada de caça."
     },
     {
-      "show_name": "Boonie Bears - Inverno Mágico",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_boonie-bears-inverno-magico-2016_l_m.jpg",
-      "show_category": "Comedy / 2016",
-      "start_time": "06:00",
-      "end_time": "07:38",
-      "episode_description": "Uma criatura amigável aparece e reacende as memórias da juventude de um adorável ursinho. Um grupo de estranhos chega para caçar a misteriosa criatura, o que deixa a floresta em um estado de caos."
+      "show_name": "Besouro Azul",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_besouro-azul-2023_l_m.jpg",
+      "show_category": "Action / 2023",
+      "start_time": "11:49",
+      "end_time": "13:58",
+      "episode_description": "O jovem Jaime Raynes se vê na posse de uma antiga relíquia de biotecnologia alienígena chamada Escaravelho. Quando o Escaravelho escolhe Jaime para ser seu hospedeiro, ele é presenteado com uma armadura capaz de poderes extraordinários."
     },
     {
-      "show_name": "Pokémon - Detetive Pikachu",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_pokemon-detetive-pikachu-2019_l_m.jpg",
-      "show_category": "Children / 2019",
-      "start_time": "07:38",
-      "end_time": "09:25",
-      "episode_description": "Um jovem une forças com o detetive Pikachu para desvendar o mistério por trás do desaparecimento de seu pai. Perseguindo pistas pelas ruas de Ryme City, a dupla dinâmica logo descobre uma trama desonesta que representa uma ameaça ao universo Pokémon."
+      "show_name": "Kung Fu Panda",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_kung-fu-panda-2008_l_m.jpg",
+      "show_category": "Children / 2008 /7.6",
+      "start_time": "13:58",
+      "end_time": "15:31",
+      "episode_description": "Po é um panda que trabalha na loja de macarrão da sua família e sonha em transformar-se em um mestre de kung fu. Seu sonho se torna realidade quando, inesperadamente, ele deve cumprir uma profecia antiga e estudar a arte marcial com seus ídolos, os Cinco Furiosos. Po precisa de toda a sabedoria, força e habilidade que conseguir reunir para proteger seu povo de um leopardo da neve malvado."
     },
     {
-      "show_name": "Cegonhas - A História que Não te Contaram",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cegonhas-a-historia-que-n-o-te-contaram-2016_l_m.jpg",
-      "show_category": "Children / 2016",
-      "start_time": "09:25",
-      "end_time": "10:53",
-      "episode_description": "As cegonhas que entregavam bebês agora trabalham com pacotes. Um pedido para entregar um bebê é aprovado acidentalmente e Junior, a menor cegonha mensageira, e Tulipa, a única humana em toda a empresa, fazem o impossível para entregar o delicado pacote antes que seu chefe perceba o erro."
+      "show_name": "SCOOBY! O Filme",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_scooby-o-filme-2020_l_m.jpg",
+      "show_category": "Children / 2020",
+      "start_time": "15:31",
+      "end_time": "17:06",
+      "episode_description": "Scooby e a turma encaram o seu maior e mais difícil mistério de todos os tempos: um plano maligno para liberar o cão fantasma, Cérbero, no mundo. Enquanto corre para impedir esse \"apocãolipse\" global, a turma descobre que Scooby tem um legado secreto e um destino épico maior do que qualquer um podia imaginar."
     },
     {
-      "show_name": "Matilda",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_matilda-1996_l_m.jpg",
-      "show_category": "Children / 1996 /6.8",
-      "start_time": "10:53",
-      "end_time": "12:31",
-      "episode_description": "Matilda é uma criança brilhante que cresceu ignorada pelos pais, a ponto de esquecerem de matriculá-la na escola. Quando a menina descobre que possui poderes mágicos e seu pai a manda estudar, ela precisa proteger os colegas da malvada diretora."
+      "show_name": "Os Jovens Titãs em Ação! Nos Cinemas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-jovens-tit-s-em-ac-o-nos-cinemas-2018_l_m.jpg",
+      "show_category": "Children / 2018",
+      "start_time": "17:06",
+      "end_time": "18:30",
+      "episode_description": "Robin, Ciborgue, Estelar, Ravena e Mutano são os Jovens Titãs. Ao perceberem que todos os super-heróis estão estrelando filmes, eles decidem se mobilizar para também ter espaço nas telonas. O líder do grupo, Robin, está determinado a ser visto como um astro. Com ideias malucas, eles partem em busca de um diretor de Hollywood, mas acabam enganados por um supervilão."
     },
     {
-      "show_name": "A Casa Monstro",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-casa-monstro-2006-1_l_m.jpg",
-      "show_category": "Children / 2006",
-      "start_time": "12:31",
-      "end_time": "14:04",
-      "episode_description": "Nenhum adulto acredita quando três adolescentes falam que existe uma casa no bairro que é uma criatura perigosa. Com o Dia das Bruxas se aproximando, eles têm que descobrir uma forma de destruir a casa antes que ela faça mal a crianças inocentes."
-    },
-    {
-      "show_name": "Happy Feet 2 - O Pinguim",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_happy-feet-2-o-pinguim-2011-1_l_m.jpg",
-      "show_category": "Children / 2011",
-      "start_time": "14:04",
-      "end_time": "15:46",
-      "episode_description": "Erick, o filho de Mumble, é um pinguim imperador que, como seu pai, tem problemas para se socializar. Erick tenta se adaptar, enquanto Mumble descobre uma nova ameaça que pode pôr em perigo todos os pinguins."
-    },
-    {
-      "show_name": "Cegonhas - A História que Não te Contaram",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cegonhas-a-historia-que-n-o-te-contaram-2016_l_m.jpg",
-      "show_category": "Children / 2016",
-      "start_time": "15:46",
-      "end_time": "17:16",
-      "episode_description": "As cegonhas que entregavam bebês agora trabalham com pacotes. Um pedido para entregar um bebê é aprovado acidentalmente e Junior, a menor cegonha mensageira, e Tulipa, a única humana em toda a empresa, fazem o impossível para entregar o delicado pacote antes que seu chefe perceba o erro."
-    },
-    {
-      "show_name": "Línguas da Nossa Língua",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_linguas-da-nossa-lingua-s01e01_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 1 - Um Brasil de Muitas Línguas",
-      "start_time": "17:16",
-      "end_time": "18:13",
-      "episode_description": "O Brasil vive uma situação linguística sui generis: ao mesmo tempo, em que 98% da população fala o português, o país tem uma das maiores diversidades linguísticas do mundo, com mais de 160 línguas nativas e africanas faladas no seu território."
-    },
-    {
-      "show_name": "Línguas da Nossa Língua",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_linguas-da-nossa-lingua-s01e02_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 2 - Português de Brasileiro",
-      "start_time": "18:13",
-      "end_time": "19:05",
-      "episode_description": "A língua portuguesa, quando chegou ao Brasil, se alargou ganhando novos vocabulários e novas expressões. A influência indígena e africana é enorme, a ponto de os portugueses não reconhecerem mais a sua língua no Brasil."
-    },
-    {
-      "show_name": "Línguas da Nossa Língua",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_linguas-da-nossa-lingua-s01e03_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 3 - Línguas de Resistência",
-      "start_time": "19:05",
+      "show_name": "As Múmias e o Anel Perdido",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_as-mumias-e-o-anel-perdido-2023_l_m.jpg",
+      "show_category": "Children / 2023",
+      "start_time": "18:30",
       "end_time": "20:00",
-      "episode_description": "O encontro da língua portuguesa com as línguas indígenas e africanas envolveu conflito e morte. Descubra como sobreviveram essas línguas durante centenas de anos de dominação portuguesa."
+      "episode_description": "Três antigas múmias acabam na Londres atual e embarcam em uma jornada em busca de um velho anel pertencente à Família Real, roubado pelo ambicioso arqueólogo Lord Carnaby."
     },
     {
-      "show_name": "Pokémon - Detetive Pikachu",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_pokemon-detetive-pikachu-2019_l_m.jpg",
-      "show_category": "Children / 2019",
+      "show_name": "Meu Malvado Favorito 3",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_meu-malvado-favorito-3-2017_l_m.jpg",
+      "show_category": "Children / 2017",
       "start_time": "20:00",
-      "end_time": "21:48",
-      "episode_description": "Um jovem une forças com o detetive Pikachu para desvendar o mistério por trás do desaparecimento de seu pai. Perseguindo pistas pelas ruas de Ryme City, a dupla dinâmica logo descobre uma trama desonesta que representa uma ameaça ao universo Pokémon."
+      "end_time": "21:32",
+      "episode_description": "Balthazar Bratt, ex-ator mirim e astro de TV, foi um típico malvado bem-sucedido nos anos 1980 e agora está de volta à ativa. Ele aterroriza a vida de Gru, Agnes, Margo, Edith, Dr. Nefário e os atrapalhados Minions. Em meio a tudo isso, Gru também encontra o seu irmão gêmeo, Drew."
     },
     {
-      "show_name": "Liga da Justiça",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_liga-da-justica-2017_l_m.jpg",
-      "show_category": "Action / 2017",
-      "start_time": "21:48",
-      "end_time": "23:49",
-      "episode_description": "Impulsionado pela restauração de sua fé na humanidade e inspirado pelo ato altruísta do Superman, Bruce Wayne convoca sua nova aliada Diana Prince para o combate contra um inimigo ainda maior, recém-despertado. Juntos, Batman e Mulher-Maravilha buscam e recrutam com agilidade um time de meta-humanos, mas mesmo com a formação da liga de heróis sem precedentes, pode ser tarde demais para salvar o planeta de um catastrófico ataque."
+      "show_name": "Besouro Azul",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_besouro-azul-2023_l_m.jpg",
+      "show_category": "Action / 2023",
+      "start_time": "21:32",
+      "end_time": "23:42",
+      "episode_description": "O jovem Jaime Raynes se vê na posse de uma antiga relíquia de biotecnologia alienígena chamada Escaravelho. Quando o Escaravelho escolhe Jaime para ser seu hospedeiro, ele é presenteado com uma armadura capaz de poderes extraordinários."
     },
     {
-      "show_name": "É Preciso Acreditar",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_e-preciso-acreditar-2024_l_m.jpg",
-      "show_category": "Drama / 2024",
-      "start_time": "23:49",
-      "end_time": "01:35",
-      "episode_description": "Após dedicar uma temporada ao pai doente de um companheiro de equipe, um grupo de jovens jogadores de beisebol azarões chega à Little League World Series de 2002, culminando em um confronto recorde."
+      "show_name": "Harry Potter e o Cálice de Fogo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_harry-potter-e-o-calice-de-fogo-2005-1_l_m.jpg",
+      "show_category": "Fantasy / 2005",
+      "start_time": "23:42",
+      "end_time": "02:22",
+      "episode_description": "Harry retorna para seu quarto ano na Escola de Magia e Bruxaria de Hogwarts, com os seus amigos Ron e Hermione. Desta vez, acontece um torneio entre as três maiores escolas de magia, com um participante selecionado de cada escola, pelo Cálice de Fogo. O nome de Harry aparece, mesmo não tendo se inscrito, e ele precisa competir."
     }
   ]
 }

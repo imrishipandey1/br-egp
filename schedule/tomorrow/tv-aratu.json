@@ -1,6 +1,6 @@
 {
   "channel": "TV Aratu",
-  "date": "05/03/2026",
+  "date": "06/03/2026",
   "schedule": [
     {
       "show_name": "The Noite com Danilo Gentili",
@@ -8,7 +8,7 @@
       "show_category": "Talk",
       "start_time": "00:00",
       "end_time": "01:00",
-      "episode_description": "Uma entrevista com um dos maiores treinadores da história do futebol brasileiro: Vanderlei Luxemburgo. Representante da era do futebol raiz, o técnico conversa com Danilo sobre sua trajetória, filosofia de trabalho e os bastidores da carreira."
+      "episode_description": "Lito Sousa participa do The Noite e analisa acidentes que marcaram o Brasil. Especialista comenta caso Mamonas, acidente da TAM e episódio envolvendo a Chapecoense."
     },
     {
       "show_name": "Operação Mesquita",
@@ -31,16 +31,24 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-noticias_l_m.jpg",
       "show_category": "News",
       "start_time": "02:00",
-      "end_time": "05:00",
+      "end_time": "04:30",
       "episode_description": "Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia."
     },
     {
       "show_name": "Igreja da Graça",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_igreja-da-graca_l_m.jpg",
       "show_category": "Religious",
-      "start_time": "05:00",
-      "end_time": "06:00",
+      "start_time": "04:30",
+      "end_time": "05:30",
       "episode_description": "Acompanhe a programação da Igreja Universal da Graça de Deus."
+    },
+    {
+      "show_name": "Encontro com Deus",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_encontro-com-deus_l_m.jpg",
+      "show_category": "Religious",
+      "start_time": "05:30",
+      "end_time": "06:00",
+      "episode_description": "O programa da Igreja Evangélica Assembleia de Deus realiza trabalhos para evitar novas gerações de crianças de rua, fazendo ações de atendimento às mães e filhos com problemas sociais."
     },
     {
       "show_name": "Aratu 24 Horas",
@@ -52,7 +60,7 @@
     },
     {
       "show_name": "Se Liga Brasil",
-      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_se-liga-brasil_l_m.jpg",
       "show_category": "News",
       "start_time": "07:30",
       "end_time": "08:30",
@@ -147,12 +155,20 @@
       "episode_description": "O apresentador Carlos Massa leva ao público um programa alegre e repleto de atrações. Ele recebe convidados famosos e games, comédia, participação do público e quadros únicos, como o \"Jornal Racional\", \"Gol Show\" e \"Dez ou Mil\", entre outros."
     },
     {
-      "show_name": "A Praça É Nossa",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-praca-e-nossa-2_l_m.jpg",
-      "show_category": "Comedy",
+      "show_name": "Impuros",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_impuros_l_m.jpg",
+      "show_category": "Drama",
       "start_time": "22:30",
+      "end_time": "23:45",
+      "episode_description": "No Rio de Janeiro dos anos 1990, em um território conflagrado por problemas sociais e onde a oportunidade do crime é muito tentadora, Evandro enfrenta as complexidades do mundo do tráfico e a relação complicada com a própria mãe."
+    },
+    {
+      "show_name": "The Noite com Danilo Gentili",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-noite-com-danilo-gentili_l_m.jpg",
+      "show_category": "Talk",
+      "start_time": "23:45",
       "end_time": "",
-      "episode_description": "Carlos Alberto de Nóbrega comanda a praça mais irreverente e, em seu famoso banco, recebe os mais divertidos humoristas."
+      "episode_description": "Lito Sousa participa do The Noite e analisa acidentes que marcaram o Brasil. Especialista comenta caso Mamonas, acidente da TAM e episódio envolvendo a Chapecoense."
     }
   ]
 }

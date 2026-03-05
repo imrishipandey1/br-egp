@@ -1,78 +1,70 @@
 {
   "channel": "TV SENADO",
-  "date": "04/03/2026",
+  "date": "05/03/2026",
   "schedule": [
     {
-      "show_name": "Imagens do Estado Novo - 1937-45",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_imagens-do-estado-novo-1937-45_l_m.jpg",
-      "show_category": "Special",
+      "show_name": "Por Onde Anda Makunaíma?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_por-onde-anda-makunaima-2020_l_m.jpg",
+      "show_category": "Documentary / 2020",
       "start_time": "00:00",
-      "end_time": "01:58",
-      "episode_description": "O episódio narra os bastidores do golpe que dá início ao Estado Novo, em 10 de novembro de 1937, desencadeado pelo chamado Plano Cohen. O golpe leva ao fechamento dos legislativos federal e estaduais."
+      "end_time": "01:30",
+      "episode_description": "Com depoimentos em português, alemão, espanhol, macuxi e taurepang, o filme faz um resgate histórico e cultural daquele que é o personagem ficcional mais identificado com um certo jeito de ser brasileiro."
     },
     {
-      "show_name": "Libertárixs",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_libertarixs_l_m.jpg",
-      "show_category": "Documentary",
-      "start_time": "01:58",
-      "end_time": "02:28",
-      "episode_description": "Uma escola contemporânea criada em um terreiro de candomblé e outra que funcionava 150 anos atrás no centro do Rio de Janeiro. Em comum, professores negros e uma prática pedagógica que favorece a autoestima das crianças afrodescendentes."
-    },
-    {
-      "show_name": "Libertárixs",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_libertarixs_l_m.jpg",
-      "show_category": "Documentary",
-      "start_time": "02:28",
+      "show_name": "22 em XXI",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_22-em-xxi_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "01:30",
       "end_time": "03:00",
-      "episode_description": "Uma escola contemporânea criada em um terreiro de candomblé e outra que funcionava 150 anos atrás no centro do Rio de Janeiro. Em comum, professores negros e uma prática pedagógica que favorece a autoestima das crianças afrodescendentes."
+      "episode_description": "Acompanhe um novo olhar para a Semana de Arte Moderna de 1922, seus antecedentes e seus realizadores, a partir de entrevistas com historiadores, artistas, filósofos, ativistas, sociólogos e pesquisadores de diversas áreas."
     },
     {
-      "show_name": "Agenda Econômica",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_agenda-economica-1_l_m.jpg",
-      "show_category": "Bus./financial",
+      "show_name": "Que Brasil É Este?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_que-brasil-e-este_l_m.jpg",
+      "show_category": "Politics",
       "start_time": "03:00",
       "end_time": "03:30",
-      "episode_description": "Economistas, formuladores de políticas públicas, acadêmicos, intelectuais e parlamentares analisam questões da economia nacional e internacional."
-    },
-    {
-      "show_name": "Salão Nobre",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sal-o-nobre_l_m.jpg",
-      "show_category": "Politics",
-      "start_time": "03:30",
-      "end_time": "04:00",
-      "episode_description": "Assista a temas de relevância nacional com líderes partidários, presidentes das comissões e autores."
+      "episode_description": "No ano do Bicentenário da Independência do Brasil, uma série de entrevistas com personalidades."
     },
     {
       "show_name": "Em Discussão",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_em-discuss-o-2_l_m.jpg",
       "show_category": "Educational",
-      "start_time": "04:00",
-      "end_time": "04:30",
+      "start_time": "03:30",
+      "end_time": "04:00",
       "episode_description": "As principais discussões realizadas nas audiências públicas promovidas pelo Senado."
     },
     {
       "show_name": "TV Senado Live",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_tv-senado-live_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "04:30",
-      "end_time": "05:00",
+      "start_time": "04:00",
+      "end_time": "04:30",
       "episode_description": "Veja entrevistas com a participação do público sobre os grandes temas em pauta no país."
     },
     {
       "show_name": "Parlamento Brasil",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "05:00",
-      "end_time": "05:30",
+      "start_time": "04:30",
+      "end_time": "05:00",
       "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
     },
     {
       "show_name": "Assunto de Estado",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_assunto-de-estado_l_m.jpg",
       "show_category": "Politics",
+      "start_time": "05:00",
+      "end_time": "05:30",
+      "episode_description": "Espaço para que senadores comentem questões regionais e locais e preste contas aos eleitores."
+    },
+    {
+      "show_name": "Agenda Econômica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_agenda-economica-1_l_m.jpg",
+      "show_category": "Bus./financial",
       "start_time": "05:30",
       "end_time": "06:00",
-      "episode_description": "Espaço para que senadores comentem questões regionais e locais e preste contas aos eleitores."
+      "episode_description": "Economistas, formuladores de políticas públicas, acadêmicos, intelectuais e parlamentares analisam questões da economia nacional e internacional."
     },
     {
       "show_name": "Senadoc Acervo",
@@ -91,12 +83,12 @@
       "episode_description": "A história e a arquitetura da Casa da Ópera de Ouro Preto - Minas Gerais, um dos mais antigos teatros da América do Sul."
     },
     {
-      "show_name": "Assunto de Estado",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_assunto-de-estado_l_m.jpg",
-      "show_category": "Politics",
+      "show_name": "Agenda Econômica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_agenda-economica-1_l_m.jpg",
+      "show_category": "Bus./financial",
       "start_time": "07:30",
       "end_time": "08:00",
-      "episode_description": "Espaço para que senadores comentem questões regionais e locais e preste contas aos eleitores."
+      "episode_description": "Economistas, formuladores de políticas públicas, acadêmicos, intelectuais e parlamentares analisam questões da economia nacional e internacional."
     },
     {
       "show_name": "Cidadania",
@@ -115,12 +107,20 @@
       "episode_description": "Acompanhe as últimas notícias do Senado, entre as transmissões ao vivo das reuniões das comissões, do plenário e os programas de grade da emissora."
     },
     {
-      "show_name": "Comissão de Constituição, Justiça e Cidadania",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o-de-constituic-o-justica-e-cidadania_l_m.jpg",
+      "show_name": "Comissão de Agricultura e Reforma Agrária",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o-de-agricultura-e-reforma-agraria_l_m.jpg",
       "show_category": "Politics",
       "start_time": "09:00",
+      "end_time": "10:00",
+      "episode_description": "Compete opinar sobre proposições pertinentes aos seguintes temas: direito agrário e planejamento, acompanhamento e execução da política agrícola e fundiária."
+    },
+    {
+      "show_name": "Comissão de Relações Exteriores e Defesa Nacional",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o-de-relac-es-exteriores-e-defesa-nacional-1_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "10:00",
       "end_time": "13:30",
-      "episode_description": "A comissão debate a constitucionalidade, juridicidade e regimentalidade das matérias submetidas por deliberação do Plenário."
+      "episode_description": "Acompanhe discussões referentes às áreas de defesa e de política externa brasileiras."
     },
     {
       "show_name": "Senado Notícias",
@@ -147,20 +147,20 @@
       "episode_description": "Acompanhe as últimas notícias do Senado, entre as transmissões ao vivo das reuniões das comissões, do plenário e os programas de grade da emissora."
     },
     {
+      "show_name": "Em Discussão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_em-discuss-o-2_l_m.jpg",
+      "show_category": "Educational",
+      "start_time": "20:00",
+      "end_time": "20:30",
+      "episode_description": "As principais discussões realizadas nas audiências públicas promovidas pelo Senado."
+    },
+    {
       "show_name": "Que Brasil É Este?",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_que-brasil-e-este_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "20:00",
-      "end_time": "20:30",
-      "episode_description": "No ano do Bicentenário da Independência do Brasil, uma série de entrevistas com personalidades."
-    },
-    {
-      "show_name": "Agenda Econômica",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_agenda-economica-1_l_m.jpg",
-      "show_category": "Bus./financial",
       "start_time": "20:30",
       "end_time": "21:00",
-      "episode_description": "Economistas, formuladores de políticas públicas, acadêmicos, intelectuais e parlamentares analisam questões da economia nacional e internacional."
+      "episode_description": "No ano do Bicentenário da Independência do Brasil, uma série de entrevistas com personalidades."
     },
     {
       "show_name": "Reunião de Comissão",

@@ -1,36 +1,28 @@
 {
   "channel": "TCM",
-  "date": "05/03/2026",
+  "date": "06/03/2026",
   "schedule": [
     {
-      "show_name": "Signos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_signos-s01e15-a-obstinac-o-de-touro_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 15 - A Obstinação de Touro",
-      "start_time": "00:33",
-      "end_time": "01:19",
-      "episode_description": "Com a morte do juiz Siri, o círculo da vingança que Antonio planejou durante décadas fecha e agora é a vez de pagar por seus crimes e encarar a justiça. Porém, Antonio tem um ás escondido debaixo da manga que vai usar para botar a cidade de joelhos."
-    },
-    {
-      "show_name": "Vidas Amargas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_vidas-amargas-1955_l_m.jpg",
-      "show_category": "Drama / 1955",
-      "start_time": "01:19",
-      "end_time": "03:16",
-      "episode_description": "Cal Trask sente que o pai se importa apenas com o irmão, Aron. Quando se aventura em um empreendimento para ganhar a atenção do pai, Carl lida com a distante mãe, dona de um bordel. A tensão só aumenta quando ele se apaixona pela namorada do irmão."
+      "show_name": "Do Outro Lado do Jardim",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_do-outro-lado-do-jardim-2022_l_m.jpg",
+      "show_category": "Drama / 2022",
+      "start_time": "01:22",
+      "end_time": "03:22",
+      "episode_description": "Um renomado poeta colombiano acorda algemado a uma cama de hospital. Acusado do assassinato de sua mãe, ele alega ter sido um ato de amor."
     },
     {
       "show_name": "Projeto Gutenberg",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_projeto-gutenberg-2018_l_m.jpg",
       "show_category": "Action / 2018",
-      "start_time": "03:16",
-      "end_time": "05:28",
+      "start_time": "03:22",
+      "end_time": "05:35",
       "episode_description": "Um falsificador é pego pela polícia de Hong Kong e a Justiça lhe oferece depor contra uma importante rede de falsificação de dinheiro. Para impedir sua declaração, o líder da máfia o ameaça."
     },
     {
       "show_name": "Hollywood One on One",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
       "show_category": "Talk",
-      "start_time": "05:28",
+      "start_time": "05:35",
       "end_time": "06:00",
       "episode_description": "Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects."
     },
@@ -39,88 +31,80 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
       "show_category": "Talk",
       "start_time": "06:00",
-      "end_time": "07:44",
+      "end_time": "07:24",
       "episode_description": "Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects."
-    },
-    {
-      "show_name": "Como Fisgar um Marido",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_como-fisgar-um-marido-1959_l_m.jpg",
-      "show_category": "Romantic comedy / 1959",
-      "start_time": "07:44",
-      "end_time": "09:23",
-      "episode_description": "Lorenzo Charlton, um fiscal do governo, é enviado à fazenda da família Larkins para averiguar o porquê eles têm sonegado impostos. Ao perceber que a família mantém um confuso sistema econômico, ele decide ajudá-los a pôr a casa em ordem."
-    },
-    {
-      "show_name": "Minha Obra-Prima",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_minha-obra-prima-2018-1_l_m.jpg",
-      "show_category": "Comedy / 2018",
-      "start_time": "09:23",
-      "end_time": "11:06",
-      "episode_description": "Um galerista inescrupuloso e um pintor antissocial são bons amigos apesar de suas diferenças. Um acidente inesperado proporciona aos dois uma possibilidade inédita e ilegal de ganhar dinheiro dentro do corrupto mercado das obras de arte."
-    },
-    {
-      "show_name": "Sangue de Herói",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sangue-de-heroi-1948_l_m.jpg",
-      "show_category": "Western / 1948",
-      "start_time": "11:06",
-      "end_time": "13:18",
-      "episode_description": "O tenente coronel Owen Thursday, um herói da Guerra Civil, arrogante e teimoso, vai para o Arizona com sua filha, Philadelphia, para assumir o comando do posto do Fort Apache. Thursday acredita que seus superiores cometeram uma grande injustiça quando o destinaram para um lugar afastado de qualquer notoriedade possível. Por isso, ele faz tudo para desatar um conflito com os indígenas da reginal com a intenção de alcançar a glória pessoal."
-    },
-    {
-      "show_name": "Edição de Natal",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_edic-o-de-natal-2020_l_m.jpg",
-      "show_category": "Holiday / 2020",
-      "start_time": "13:18",
-      "end_time": "14:48",
-      "episode_description": "Jackie, uma promissora jornalista, ganha a oportunidade de comandar o jornal de uma pequena cidade no Alasca e decide publicar uma série de artigos natalinos para tentar salvá-lo."
     },
     {
       "show_name": "Ben-Hur",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_ben-hur-1959_l_m.jpg",
       "show_category": "Historical drama / 1959 /8.1",
-      "start_time": "14:48",
-      "end_time": "18:37",
+      "start_time": "07:24",
+      "end_time": "11:13",
       "episode_description": "Ben-Hur é um mercador judeu que, após um desentendimento, é condenado a viver como escravo por um amigo de juventude, Messala, que é o chefe das legiões romanas da cidade. Mas uma surpreendente oportunidade de vingança surge de onde ele menos espera."
     },
     {
       "show_name": "Europe Raiders",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_europe-raiders-2018_l_m.jpg",
       "show_category": "Drama / 2018 /4.7",
-      "start_time": "18:37",
-      "end_time": "20:16",
+      "start_time": "11:13",
+      "end_time": "12:52",
       "episode_description": "Dois caçadores de recompensas rivais descobrem um novo motivo para se enfrentarem: uma arma secreta, sofisticada e letal. Para alcançá-la, eles iniciam uma corrida do sul da Ásia até a Itália."
     },
     {
       "show_name": "As Garçonetes de Harvey",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_as-garconetes-de-harvey-1946_l_m.jpg",
       "show_category": "Musical comedy / 1946",
-      "start_time": "20:16",
-      "end_time": "22:00",
+      "start_time": "12:52",
+      "end_time": "14:36",
       "episode_description": "Interessada em casamento, Susan Bradley viaja para o Oeste a fim de conhecer aquele que supostamente lhe enviou cartas de amor. Frustrada com o encontro e à procura de um novo amor, ela decide ficar na cidade e trabalhar em um polêmico restaurante."
     },
     {
-      "show_name": "Signos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_signos-s01e14-tipico-de-aries_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 14 - Típico de Áries",
-      "start_time": "22:00",
-      "end_time": "22:49",
-      "episode_description": "Logo após o incidente das empanadas, Laura sofre a pressão da imprensa e o desprezo da cidade; os meninos não sabem se acreditam no que dizem sobre seu tio; segredos do passado começam a aparecer."
+      "show_name": "O Falcão Maltês",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-falc-o-maltes-1941_l_m.jpg",
+      "show_category": "Crime drama / 1941",
+      "start_time": "14:36",
+      "end_time": "16:20",
+      "episode_description": "Um detetive cínico se envolve em uma perigosa missão pela busca de uma estatueta preta do século XVI de valor incalculável. Depois que seu parceiro é assassinado, o detetive enfrenta policiais furiosos, uma mulher sedutora e vilões excêntricos."
     },
     {
-      "show_name": "Signos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_signos-s01e15-a-obstinac-o-de-touro_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 15 - A Obstinação de Touro",
-      "start_time": "22:49",
-      "end_time": "23:34",
-      "episode_description": "Com a morte do juiz Siri, o círculo da vingança que Antonio planejou durante décadas fecha e agora é a vez de pagar por seus crimes e encarar a justiça. Porém, Antonio tem um ás escondido debaixo da manga que vai usar para botar a cidade de joelhos."
+      "show_name": "Cão-Estrela e Turbo-Gato",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_c-o-estrela-e-turbo-gato-2019_l_m.jpg",
+      "show_category": "Children / 2019",
+      "start_time": "16:20",
+      "end_time": "17:53",
+      "episode_description": "Um cachorro perdido e um gato gênio precisam se unir e embarcar em uma viagem no espaço para encontrar seu caminho para casa. O par precisa também tomar cuidado com um banimento de animais que foi reforçado por um policial furioso."
+    },
+    {
+      "show_name": "Ivanhoé: O Vingador do Rei",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ivanhoe-o-vingador-do-rei-1952-1_l_m.jpg",
+      "show_category": "Adventure / 1952",
+      "start_time": "17:53",
+      "end_time": "19:43",
+      "episode_description": "O cavaleiro Wilfred de Ivanhoe parte em missão para libertar o rei Ricardo Coração de Leão. Ele enfrenta o perverso príncipe John e o feroz guerreiro normando Brian de Bois-Guilbert, enquanto lida com as afeições das belas donzelas Rowena e Rebecca."
+    },
+    {
+      "show_name": "Assassins",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_assassins-1995_l_m.jpg",
+      "show_category": "Action / 1995 /6.3",
+      "start_time": "19:43",
+      "end_time": "22:00",
+      "episode_description": "Robert Rath, um assassino profissional, decide que vai deixar o ramo após fazer um último trabalho: liquidar a hacker Electra. Mas ele não cumpre sua parte, pois se apaixona pela garota. Traído por seu contratante, ele passa a ser caçado por um jovem assassino espanhol, Miguelito, que planeja matá-lo para ficar em seu lugar."
     },
     {
       "show_name": "Risco Total",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_risco-total-1993_l_m.jpg",
       "show_category": "Action / 1993 /6.3",
-      "start_time": "23:34",
-      "end_time": "",
+      "start_time": "22:00",
+      "end_time": "23:45",
       "episode_description": "Bandidos forçam dois alpinistas a procurar três malas com cem milhões de dólares que estão perdidas nas Montanhas Rochosas do Colorado."
+    },
+    {
+      "show_name": "Outros Pecados",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_outros-pecados-s01e07-o-controle_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 7 - O Controle",
+      "start_time": "23:45",
+      "end_time": "",
+      "episode_description": "Nicolás é uma pessoa que tem tudo cuidadosamente pensado, medido e planejado. No entanto, a semente da dúvida começa a crescer a partir de um detalhe quase insignificante e ele entra em uma espiral de desespero."
     }
   ]
 }
