@@ -3,116 +3,108 @@
   "date": "07/03/2026",
   "schedule": [
     {
-      "show_name": "Kong - A Ilha da Caveira",
-      "show_logo": "/wp-content/uploads/downloaded-images/telecine-action/tomorrow/br_kong-a-ilha-da-caveira-2017_l_m.webp",
-      "show_category": "Adventure / 2017",
-      "start_time": "00:25",
-      "end_time": "02:25",
-      "episode_description": "Um ex-militar viaja com um grupo de desbravadores até a mítica Ilha da Caveira, onde seu irmão desapareceu. A equipe de exploradores se aventura nas profundezas da ilha desconhecida, sem saber que está entrando nos domínios do mítico Kong."
+      "show_name": "Rampage - Destruição Total",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rampage-destruic-o-total-2018_l_m.jpg",
+      "show_category": "Action / 2018",
+      "start_time": "01:50",
+      "end_time": "03:50",
+      "episode_description": "Davis Okoye é um primatologista recluso que compartilha um vínculo inabalável com George, um gorila muito inteligente que está sob seus cuidados desde o nascimento. Quando um experimento genético desonesto é feito em um grupo de predadores que inclui o primata, os animais se transformam em monstros que destroem tudo em seu caminho. Agora, Okoye precisa conseguir um antídoto e impedir que seu amigo provoque uma catástrofe global."
+    },
+    {
+      "show_name": "Sobreviva ou Morra Tentando",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sobreviva-ou-morra-tentando-2021_l_m.jpg",
+      "show_category": "Drama / 2021",
+      "start_time": "03:50",
+      "end_time": "05:50",
+      "episode_description": "Zoe é uma jovem de 17 anos cheia de raiva, lidando com a morte de sua mãe. Quando sua escola é invadida por estudantes armados, ela faz de tudo para enfrentar os agressores e salvar seus colegas."
+    },
+    {
+      "show_name": "Famintos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_famintos-2017_l_m.jpg",
+      "show_category": "Horror / 2017",
+      "start_time": "05:50",
+      "end_time": "05:50",
+      "episode_description": "Uma pequena e remota vila no interior do Québec é aterrorizada por uma praga comedora de carne que destrói os corpos dos moradores e os transforma contra seus entes queridos, enquanto os sobreviventes fogem para a floresta."
+    },
+    {
+      "show_name": "Famintos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_famintos-2017_l_m.jpg",
+      "show_category": "Horror / 2017",
+      "start_time": "05:50",
+      "end_time": "07:45",
+      "episode_description": "Uma pequena e remota vila no interior do Québec é aterrorizada por uma praga comedora de carne que destrói os corpos dos moradores e os transforma contra seus entes queridos, enquanto os sobreviventes fogem para a floresta."
+    },
+    {
+      "show_name": "Pânico nas Alturas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_panico-nas-alturas-2019_l_m.jpg",
+      "show_category": "Thriller / 2019",
+      "start_time": "07:45",
+      "end_time": "09:25",
+      "episode_description": "Um grupo de cinco amigos invade um teleférico para passar o Ano Novo clandestinamente no topo de uma montanha. No entanto, no meio do caminho, eles ficam presos e suas férias se tornam um cenário de horror e luta pela sobrevivência."
+    },
+    {
+      "show_name": "O Alvo 2",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-alvo-2-2016_l_m.jpg",
+      "show_category": "Action / 2016",
+      "start_time": "09:25",
+      "end_time": "11:20",
+      "episode_description": "Wes é um lutador de artes marciais aposentado que recebe uma proposta milionária para um torneio especial em Mianmar. Ao chegar, descobre que foi vítima de uma armadilha, pois agora é alvo de ricaços em uma caçada humana sádica."
+    },
+    {
+      "show_name": "Bastardos Inglórios",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bastardos-inglorios-2009-1_l_m.jpg",
+      "show_category": "War / 2009",
+      "start_time": "11:20",
+      "end_time": "14:05",
+      "episode_description": "Durante a Segunda Guerra Mundial, na França, judeus americanos espalham o terror entre o terceiro Reich. Ao mesmo tempo, Shosanna, uma judia que fugiu dos nazistas, planeja vingança quando um evento em seu cinema reunirá os líderes do partido."
+    },
+    {
+      "show_name": "Quebrando Regras 3 - Não se Rendam",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quebrando-regras-3-n-o-se-rendam-2016-1_l_m.jpg",
+      "show_category": "Action / 2016",
+      "start_time": "14:05",
+      "end_time": "15:55",
+      "episode_description": "O ex-campeão de MMA Case Walker tem se mantido longe dos holofotes há muito tempo. Ele agora luta em pequenos torneios locais e ensina os oponentes a aprimorar suas habilidades. Case aceita treinar o velho amigo Brody James, e viaja para a Tailândia, onde logo entra em conflito com o outro treinador de Brody. Para piorar a situação, ele é ridicularizado por trabalhar com Cobra, um lutador arrogante, mas estas complicações só o deixam mais determinado a reconquistar sua glória."
+    },
+    {
+      "show_name": "Jogador Nº 1",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jogador-n-1-2018_l_m.jpg",
+      "show_category": "Science fiction / 2018",
+      "start_time": "15:55",
+      "end_time": "18:20",
+      "episode_description": "Em 2045, Wade Watts, assim como o resto da humanidade, prefere a realidade virtual do jogo OASIS ao mundo real. James Halliday, o excêntrico criador do jogo, morre e deixa sua fortuna inestimável para a primeira pessoa que descobrir a chave de um quebra-cabeça diabólico que ele arquitetou. Para vencer, Watts precisa abandonar a existência virtual e experimentar o amor e a realidade."
     },
     {
       "show_name": "A Lenda de Tarzan",
-      "show_logo": "/wp-content/uploads/downloaded-images/telecine-action/tomorrow/br_a-lenda-de-tarzan-2016_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-lenda-de-tarzan-2016_l_m.jpg",
       "show_category": "Adventure / 2016",
-      "start_time": "02:25",
-      "end_time": "04:20",
+      "start_time": "18:20",
+      "end_time": "20:20",
       "episode_description": "Tarzan deixou as florestas da África para viver uma vida pacata como John Clayton III, o Lorde Greystoke, ao lado de sua esposa, Jane, na Inglaterra. Agora, ele é convidado para voltar ao Congo, onde passou a maioria da sua vida, para servir como emissário de troca do parlamento britânico. O que Tarzan não sabe é que está se dirigindo para uma armadilha mortal, fruto da vingança do capitão belga Leon Rom."
     },
     {
-      "show_name": "Os Especialistas",
-      "show_logo": "/wp-content/uploads/downloaded-images/telecine-action/tomorrow/br_os-especialistas-2011-1_l_m.webp",
-      "show_category": "Action / 2011",
-      "start_time": "04:20",
-      "end_time": "04:20",
-      "episode_description": "Danny Bryce, um dos mais mortíferos agentes especiais do mundo, retorna do seu exílio autoimposto depois de saber que seu mentor, Hunter, foi capturado. Danny recompõe sua antiga equipe para tentar uma missão de resgate e também se infiltrar no Serviço Aéreo Especial Britânico. A missão não será fácil, pois Danny e seu time precisam enfrentar Spike, seu inimigo de longa data, e uma equipe de assassinos."
+      "show_name": "Filme",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_filme-1_l_m.jpg",
+      "show_category": "Variety",
+      "start_time": "20:20",
+      "end_time": "20:25",
+      "episode_description": "Acompanhe uma produção cinematográfica."
     },
     {
-      "show_name": "Os Especialistas",
-      "show_logo": "/wp-content/uploads/downloaded-images/telecine-action/tomorrow/br_os-especialistas-2011-1_l_m.webp",
-      "show_category": "Action / 2011",
-      "start_time": "04:20",
-      "end_time": "06:20",
-      "episode_description": "Danny Bryce, um dos mais mortíferos agentes especiais do mundo, retorna do seu exílio autoimposto depois de saber que seu mentor, Hunter, foi capturado. Danny recompõe sua antiga equipe para tentar uma missão de resgate e também se infiltrar no Serviço Aéreo Especial Britânico. A missão não será fácil, pois Danny e seu time precisam enfrentar Spike, seu inimigo de longa data, e uma equipe de assassinos."
-    },
-    {
-      "show_name": "Calor Mortal",
-      "show_logo": "/wp-content/uploads/downloaded-images/telecine-action/tomorrow/br_calor-mortal-2022_l_m.webp",
-      "show_category": "Action / 2022",
-      "start_time": "06:20",
-      "end_time": "07:50",
-      "episode_description": "Uma ex-agente da KGB que virou chef usa suas habilidades letais para salvar seu restaurante de um sindicato do crime que quer cobrar uma dívida de seu marido."
-    },
-    {
-      "show_name": "Batman",
-      "show_logo": "/wp-content/uploads/downloaded-images/telecine-action/tomorrow/br_batman-1989_l_m.webp",
-      "show_category": "Action / 1989 /7.6",
-      "start_time": "07:50",
-      "end_time": "10:05",
-      "episode_description": "Após testemunhar a morte brutal de seus pais quando criança, o milionário filantropo Bruce Wayne luta contra o crime na cidade de Gotham disfarçado do herói Batman, que coloca medo nos corações dos vilões. Mas quando um louco e deformado que se autointitula Coringa começa a controlar o submundo do crime em Gotham, Batman precisa encarar seu mais perverso inimigo para proteger sua identidade e a mulher que ama, a repórter Vicki Vale."
-    },
-    {
-      "show_name": "O Assassino - O Primeiro Alvo",
-      "show_logo": "/wp-content/uploads/downloaded-images/telecine-action/tomorrow/br_o-assassino-o-primeiro-alvo-2017_l_m.webp",
-      "show_category": "Action / 2017",
-      "start_time": "10:05",
-      "end_time": "12:00",
-      "episode_description": "Devastado pela morte da noiva diante de seus olhos em um atentado terrorista, Mitch Rapp dedica-se à vingança, o que chama a atenção da CIA. Recrutado, o descontrolado rapaz é enviado para o rígido treinamento de Stan Hurley, veterano militar que prepara assassinos secretos de atuação internacional e tem sérias ressalvas à avaliação psicológica de Mitch."
-    },
-    {
-      "show_name": "Caça às Bruxas",
-      "show_logo": "/wp-content/uploads/downloaded-images/telecine-action/tomorrow/br_caca-as-bruxas-2011_l_m.webp",
-      "show_category": "Action / 2011",
-      "start_time": "12:00",
-      "end_time": "13:40",
-      "episode_description": "Os cavaleiros Behmen e Felton retornam das Cruzadas e encontram sua terra natal destruída pela peste-negra. A Igreja acredita que a praga tenha sido causada por bruxaria e obriga os cavaleiros a conduzir uma jovem bruxa a um monastério, onde será julgada pela suspeita de ser a causadora da epidemia. Mas o caminho será bastante tortuoso e, mesmo antes de chegar ao destino, eles descobrem que estão diante de forças sobrenaturais e que o mal está além de toda e qualquer compreensão."
-    },
-    {
-      "show_name": "Refém",
-      "show_logo": "/wp-content/uploads/downloaded-images/telecine-action/tomorrow/br_refem-2005_l_m.webp",
-      "show_category": "Action / 2005",
-      "start_time": "13:40",
-      "end_time": "15:40",
-      "episode_description": "Após falhar em negociação com reféns, Jeff Talley deixa a polícia de LA e se muda para uma cidade calma. Como policial chefe no subúrbio, acredita ter escapado da violência até que um elaborado plano criminoso o coloca novamente no centro da ação."
-    },
-    {
-      "show_name": "MR-9 - Missão Mortal",
-      "show_logo": "/wp-content/uploads/downloaded-images/telecine-action/tomorrow/br_mr-9-miss-o-mortal-2023_l_m.webp",
-      "show_category": "Action / 2023",
-      "start_time": "15:40",
-      "end_time": "17:35",
-      "episode_description": "Um espião de elite de Bangladesh e um agente da CIA formam uma aliança improvável para deter um império do crime implacável liderado por um magnata inescrupuloso."
-    },
-    {
-      "show_name": "Bellini e o Demônio",
-      "show_logo": "/wp-content/uploads/downloaded-images/telecine-action/tomorrow/br_bellini-e-o-demonio-2008_l_m.webp",
-      "show_category": "Mystery / 2008",
-      "start_time": "17:35",
-      "end_time": "19:10",
-      "episode_description": "Em crise, Bellini é contratado para encontrar um livro misterioso que está relacionado a uma série de assassinatos brutais ocorridos ao longo dos anos. Ele acaba se envolvendo em uma trama alucinante de ação e rituais satânicos."
-    },
-    {
-      "show_name": "Zodíaco",
-      "show_logo": "/wp-content/uploads/downloaded-images/telecine-action/tomorrow/br_zodiaco-2007_l_m.webp",
-      "show_category": "Crime drama / 2007 /7.7",
-      "start_time": "19:10",
+      "show_name": "Jogos Mortais VI",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jogos-mortais-vi-2009-1_l_m.jpg",
+      "show_category": "Horror / 2009",
+      "start_time": "20:25",
       "end_time": "22:00",
-      "episode_description": "Durante os anos 60 e 70, o medo aumenta em São Francisco com os ataques de um assassino maníaco chamado Zodíaco. Investigadores e jornalistas tentam descobrir a identidade do assassino e levá-lo à justiça. Enquanto isso, Zodiac provoca as autoridades com mensagens crípticas, cifras e telefonemas ameaçadores."
+      "episode_description": "O agente especial Strahm está morto, e o detetive Hoffman é o único que conhece o verdadeiro legado de Jigsaw. Porém, quando o FBI se aproxima de Hoffman, ele é forçado a colocar o jogo em ação."
     },
     {
-      "show_name": "M3gan",
-      "show_logo": "/wp-content/uploads/downloaded-images/telecine-action/tomorrow/br_m3gan-2022_l_m.webp",
-      "show_category": "Horror / 2022 /6.4",
+      "show_name": "Matrix",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_matrix-1999_l_m.jpg",
+      "show_category": "Science fiction / 1999 /8.7",
       "start_time": "22:00",
-      "end_time": "23:50",
-      "episode_description": "M3GAN é uma maravilha da inteligência artificial, uma boneca realista programada para ser a melhor amiga de uma criança. Uma robótica brilhante dá a sua jovem sobrinha um protótipo M3GAN, mas a máquina logo se torna violenta."
-    },
-    {
-      "show_name": "Velozes e Furiosos",
-      "show_logo": "/wp-content/uploads/downloaded-images/telecine-action/tomorrow/br_velozes-e-furiosos-2001-1_l_m.webp",
-      "show_category": "Action / 2001",
-      "start_time": "23:50",
       "end_time": "",
-      "episode_description": "Brian O'Conner é um policial que se infiltra no submundo das rachas de rua para investigar uma série de furtos. Enquanto tenta ganhar o respeito e a confiança do líder Dom Toretto, ele corre o risco de ser desmascarado."
+      "episode_description": "O jovem programador Thomas Anderson é atormentado por estranhos pesadelos em que está sempre conectado por cabos a um imenso sistema de computadores do futuro. À medida que o sonho se repete, ele começa a desconfiar da realidade. Thomas conhece os misteriosos Morpheus e Trinity e descobre que é vítima de um sistema inteligente e artificial chamado Matrix, que manipula a mente das pessoas e cria a ilusão de um mundo real enquanto usa os cérebros e corpos dos indivíduos para produzir energia."
     }
   ]
 }

@@ -3,154 +3,186 @@
   "date": "07/03/2026",
   "schedule": [
     {
-      "show_name": "Cienciano x FBC Melgar",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-cienciano-x-fbc-melgar_l_m.webp",
-      "show_category": "Copa Sul-Americana",
-      "start_time": "01:00",
+      "show_name": "F1: The Inside Line",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_auto-racing-f1-the-inside-line_l_m.jpg",
+      "show_category": "",
+      "start_time": "02:05",
+      "end_time": "02:30",
+      "episode_description": "Veja a cobertura completa da Fórmula 1, a maior e mais badalada categoria do automobilismo mundial. Acompanhe as principais notícias da semana, os bastidores, entrevistas exclusivas e reportagens especiais."
+    },
+    {
+      "show_name": "Show da Rodada do Italiano",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-do-italiano_l_m.jpg",
+      "show_category": "",
+      "start_time": "02:30",
       "end_time": "03:00",
-      "episode_description": "Toda a disputa da segunda mais importante competição masculina entre clubes da América do Sul."
+      "episode_description": "Os principais destaques das partidas da Lega Serie A, primeira divisão do Campeonato Italiano de futebol masculino, com os gols, melhores lances e situação da tabela de classificação após cada rodada disputada."
     },
     {
-      "show_name": "Tottenham Hotspur x Crystal Palace",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-tottenham-hotspur-x-crystal-palace_l_m.webp",
-      "show_category": "Campeonato Inglês",
+      "show_name": "Show da Rodada de La Liga",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-de-la-liga_l_m.jpg",
+      "show_category": "",
       "start_time": "03:00",
-      "end_time": "05:00",
-      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
-    },
-    {
-      "show_name": "Manchester City x Nottingham Forest",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-manchester-city-x-nottingham-forest_l_m.webp",
-      "show_category": "Campeonato Inglês",
-      "start_time": "05:00",
-      "end_time": "05:00",
-      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
-    },
-    {
-      "show_name": "Manchester City x Nottingham Forest",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-manchester-city-x-nottingham-forest_l_m.webp",
-      "show_category": "Campeonato Inglês",
-      "start_time": "05:00",
-      "end_time": "07:00",
-      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
-    },
-    {
-      "show_name": "Bola da Vez",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_bola-da-vez_l_m.webp",
-      "show_category": "Sports talk",
-      "start_time": "07:00",
-      "end_time": "08:00",
-      "episode_description": "Grandes personalidades do esporte nacional e internacional são colocadas no \"paredão\" e respondem às perguntas de uma bancada de entrevistadores formada por jornalistas, ex-atletas ou especialistas em geral."
+      "end_time": "03:30",
+      "episode_description": ".Todos os gols e os principais lances da rodada de La Liga, primeira divisão do Campeonato Espanhol."
     },
     {
       "show_name": "Show da Rodada da EFL",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-show-da-rodada-da-efl_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-da-efl_l_m.jpg",
       "show_category": "",
-      "start_time": "08:00",
-      "end_time": "08:30",
+      "start_time": "03:30",
+      "end_time": "04:00",
       "episode_description": "Os destaques das partidas da EFL Championship, segunda divisão de futebol masculino da Inglaterra."
     },
     {
-      "show_name": "Etapa do Circuito das Américas",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_auto-racing-etapa-do-circuito-das-americas-1_l_m.webp",
-      "show_category": "NASCAR Cup Series",
-      "start_time": "08:30",
-      "end_time": "10:30",
-      "episode_description": "Todas as emoções da principal competição de velocidade da categoria stock car dos Estados Unidos."
-    },
-    {
-      "show_name": "Boston River x Racing (URU)",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-boston-river-x-racing-uru_l_m.webp",
-      "show_category": "Copa Sul-Americana",
-      "start_time": "10:30",
-      "end_time": "12:30",
-      "episode_description": "Toda a disputa da segunda mais importante competição masculina entre clubes da América do Sul."
-    },
-    {
-      "show_name": "Cienciano x FBC Melgar",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-cienciano-x-fbc-melgar_l_m.webp",
-      "show_category": "Copa Sul-Americana",
-      "start_time": "12:30",
-      "end_time": "14:30",
-      "episode_description": "Toda a disputa da segunda mais importante competição masculina entre clubes da América do Sul."
-    },
-    {
-      "show_name": "Barcelona (EQU) x Botafogo",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-barcelona-equ-x-botafogo_l_m.webp",
-      "show_category": "Copa Libertadores da América",
-      "start_time": "14:30",
-      "end_time": "16:30",
-      "episode_description": "Todas as emoções da principal competição de futebol masculino disputada entre clubes da América do Sul, e que garante ao campeão vaga no Mundial de Clubes da FIFA."
-    },
-    {
-      "show_name": "Momento ESPN",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_documentary-momento-espn_l_m.webp",
+      "show_name": "Show da Rodada do Inglês",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-do-ingles_l_m.jpg",
       "show_category": "",
-      "start_time": "16:30",
-      "end_time": "16:35",
-      "episode_description": ""
-    },
-    {
-      "show_name": "Napoli x Torino",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-napoli-x-torino_l_m.webp",
-      "show_category": "Campeonato Italiano",
-      "start_time": "16:35",
-      "end_time": "18:45",
-      "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
-    },
-    {
-      "show_name": "Momento ESPN",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_documentary-momento-espn_l_m.webp",
-      "show_category": "",
-      "start_time": "18:45",
-      "end_time": "19:00",
-      "episode_description": ""
+      "start_time": "04:00",
+      "end_time": "04:30",
+      "episode_description": "O programa traz todos os pormenores da rodada do campeonato inglês com as pontuações dos clubes, gols e lances mais bonitos."
     },
     {
       "show_name": "Premier League Stories",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-premier-league-stories_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-premier-league-stories_l_m.jpg",
       "show_category": "",
-      "start_time": "19:00",
-      "end_time": "19:30",
+      "start_time": "04:30",
+      "end_time": "05:00",
       "episode_description": "Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês."
     },
     {
       "show_name": "Inside Serie A",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-inside-serie-a_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-inside-serie-a_l_m.jpg",
       "show_category": "",
-      "start_time": "19:30",
-      "end_time": "20:00",
+      "start_time": "05:00",
+      "end_time": "05:30",
       "episode_description": "Uma previsão sobre os próximos jogos do Campeonato Italiano."
     },
     {
-      "show_name": "ESPN League",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_sports-talk-espn-league_l_m.webp",
+      "show_name": "Celta de Vigo x Real Madrid",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-celta-de-vigo-x-real-madrid_l_m.jpg",
+      "show_category": "Campeonato Espanhol",
+      "start_time": "05:30",
+      "end_time": "05:30",
+      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
+    },
+    {
+      "show_name": "Celta de Vigo x Real Madrid",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-celta-de-vigo-x-real-madrid_l_m.jpg",
+      "show_category": "Campeonato Espanhol",
+      "start_time": "05:30",
+      "end_time": "07:30",
+      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
+    },
+    {
+      "show_name": "Resenha ESPN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_resenha-espn_l_m.jpg",
+      "show_category": "Sports talk",
+      "start_time": "07:30",
+      "end_time": "08:30",
+      "episode_description": "Atletas da atualidade e do passado participam de bate-papo descontraído e cheio de boas histórias."
+    },
+    {
+      "show_name": "F1: The Inside Line",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_auto-racing-f1-the-inside-line_l_m.jpg",
       "show_category": "",
+      "start_time": "08:30",
+      "end_time": "09:00",
+      "episode_description": "Veja a cobertura completa da Fórmula 1, a maior e mais badalada categoria do automobilismo mundial. Acompanhe as principais notícias da semana, os bastidores, entrevistas exclusivas e reportagens especiais."
+    },
+    {
+      "show_name": "SportsCenter Abre o Jogo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sports-talk-sportscenter-abre-o-jogo_l_m.jpg",
+      "show_category": "",
+      "start_time": "09:00",
+      "end_time": "09:20",
+      "episode_description": "Os preparativos para os principais eventos esportivos do Brasil e do mundo."
+    },
+    {
+      "show_name": "Inglaterra x Islândia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-inglaterra-x-islandia-3_l_m.jpg",
+      "show_category": "Eliminatórias para a Copa do Mundo Feminina da FIFA 2027",
+      "start_time": "09:20",
+      "end_time": "11:35",
+      "episode_description": "Seleções de futebol feminino de todo o planeta brigam por 31 vagas na Copa do Mundo de 2027, que tem o Brasil já classificado como país-sede."
+    },
+    {
+      "show_name": "Inside Serie A",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-inside-serie-a_l_m.jpg",
+      "show_category": "",
+      "start_time": "11:35",
+      "end_time": "12:05",
+      "episode_description": "Uma previsão sobre os próximos jogos do Campeonato Italiano."
+    },
+    {
+      "show_name": "Momento ESPN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_documentary-momento-espn_l_m.jpg",
+      "show_category": "",
+      "start_time": "12:05",
+      "end_time": "12:25",
+      "episode_description": ""
+    },
+    {
+      "show_name": "FC Groningen x Ajax",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-fc-groningen-x-ajax_l_m.jpg",
+      "show_category": "Campeonato Neerlandês",
+      "start_time": "12:25",
+      "end_time": "14:25",
+      "episode_description": "Todas as emoções dos jogos da Eredivisie, a primeira divisão de futebol masculino dos Países Baixos."
+    },
+    {
+      "show_name": "Atlético de Madrid x Real Sociedad",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-atletico-de-madrid-x-real-sociedad_l_m.jpg",
+      "show_category": "Campeonato Espanhol",
+      "start_time": "14:25",
+      "end_time": "16:30",
+      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
+    },
+    {
+      "show_name": "Premier League Stories",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-premier-league-stories_l_m.jpg",
+      "show_category": "",
+      "start_time": "16:30",
+      "end_time": "17:00",
+      "episode_description": "Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês."
+    },
+    {
+      "show_name": "GP de Phoenix",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_auto-racing-gp-de-phoenix_l_m.jpg",
+      "show_category": "Fórmula Indy",
+      "start_time": "17:00",
+      "end_time": "19:30",
+      "episode_description": "Toda a disputa da IndyCar, ou Fórmula Indy, uma das principais competições de automobilismo do mundo. Com os famosos circuitos ovais e também corridas de rua, as etapas do calendário são disputadas em diversas cidades pelos Estados Unidos."
+    },
+    {
+      "show_name": "Show da Rodada do Inglês",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-do-ingles_l_m.jpg",
+      "show_category": "",
+      "start_time": "19:30",
+      "end_time": "20:00",
+      "episode_description": "O programa traz todos os pormenores da rodada do campeonato inglês com as pontuações dos clubes, gols e lances mais bonitos."
+    },
+    {
+      "show_name": "Derby County x Sheffield Wednesday",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-derby-county-x-sheffield-wednesday-1_l_m.jpg",
+      "show_category": "Campeonato Inglês - Segunda Divisão",
       "start_time": "20:00",
-      "end_time": "21:00",
-      "episode_description": "Notícias, análises e curiosidades sobre tudo o que rola com a bola: redonda, oval ou achatada."
+      "end_time": "22:00",
+      "episode_description": "Do Pride Park Stadium, em Derby, Inglaterra."
     },
     {
-      "show_name": "NBA Courtside",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_basketball-nba-courtside_l_m.webp",
+      "show_name": "SportsCenter Abre o Jogo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_basketball-sportscenter-abre-o-jogo_l_m.jpg",
       "show_category": "",
-      "start_time": "21:00",
-      "end_time": "21:12",
-      "episode_description": "O aquecimento final das equipes e últimos preparativos para o duelo entre New York Knicks e Cleveland Cavaliers, pela rodada de abertura da temporada regular 2025-2026 da NBA, direto do Madison Square Garden, em Nova York, EUA."
+      "start_time": "22:00",
+      "end_time": "22:30",
+      "episode_description": "Os últimos preparativos para Lakers x Suns e Nets x Hawks, pela temporada regular 2024-2025 da NBA."
     },
     {
-      "show_name": "Boston Celtics x Dallas Mavericks",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_basketball-boston-celtics-x-dallas-mavericks_l_m.webp",
+      "show_name": "Oklahoma City Thunder x Golden State Warriors",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_basketball-oklahoma-city-thunder-x-golden-state-warriors_l_m.jpg",
       "show_category": "NBA",
-      "start_time": "21:12",
-      "end_time": "23:35",
-      "episode_description": "Trinta equipes dos Estados Unidos e Canadá se enfrentam na principal liga de basquete do mundo."
-    },
-    {
-      "show_name": "San Antonio Spurs x LA Clippers",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_basketball-san-antonio-spurs-x-la-clippers_l_m.webp",
-      "show_category": "NBA",
-      "start_time": "23:35",
+      "start_time": "22:30",
       "end_time": "",
       "episode_description": "Trinta equipes dos Estados Unidos e Canadá se enfrentam na principal liga de basquete do mundo."
     }
