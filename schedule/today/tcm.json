@@ -1,10 +1,10 @@
 {
   "channel": "TCM",
-  "date": "05/03/2026",
+  "date": "06/03/2026",
   "schedule": [
     {
       "show_name": "Signos",
-      "show_logo": "/wp-content/uploads/downloaded-images/tcm/today/br_signos-s01e15-a-obstinac-o-de-touro_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_signos-s01e15-a-obstinac-o-de-touro_l_m.jpg",
       "show_category": "Temporada 1 Episódio 15 - A Obstinação de Touro",
       "start_time": "00:30",
       "end_time": "01:15",
@@ -12,7 +12,7 @@
     },
     {
       "show_name": "Vidas Amargas",
-      "show_logo": "/wp-content/uploads/downloaded-images/tcm/today/br_vidas-amargas-1955_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vidas-amargas-1955_l_m.jpg",
       "show_category": "Drama / 1955",
       "start_time": "01:15",
       "end_time": "03:09",
@@ -20,7 +20,7 @@
     },
     {
       "show_name": "Projeto Gutenberg",
-      "show_logo": "/wp-content/uploads/downloaded-images/tcm/today/br_projeto-gutenberg-2018_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_projeto-gutenberg-2018_l_m.jpg",
       "show_category": "Action / 2018",
       "start_time": "03:09",
       "end_time": "05:17",
@@ -28,7 +28,7 @@
     },
     {
       "show_name": "Hollywood One on One",
-      "show_logo": "/wp-content/uploads/downloaded-images/tcm/today/br_hollywood-one-on-one_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
       "show_category": "Talk",
       "start_time": "05:17",
       "end_time": "06:00",
@@ -36,63 +36,87 @@
     },
     {
       "show_name": "Hollywood One on One",
-      "show_logo": "/wp-content/uploads/downloaded-images/tcm/today/br_hollywood-one-on-one_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
       "show_category": "Talk",
       "start_time": "06:00",
-      "end_time": "07:44",
+      "end_time": "06:37",
+      "episode_description": "Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects."
+    },
+    {
+      "show_name": "Hollywood One on One",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
+      "show_category": "Talk",
+      "start_time": "06:37",
+      "end_time": "07:13",
+      "episode_description": "Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects."
+    },
+    {
+      "show_name": "Hollywood One on One",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
+      "show_category": "Talk",
+      "start_time": "07:13",
+      "end_time": "07:48",
+      "episode_description": "Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects."
+    },
+    {
+      "show_name": "Hollywood One on One",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
+      "show_category": "Talk",
+      "start_time": "07:48",
+      "end_time": "07:57",
       "episode_description": "Hollywood celebrities give insight into their personal and professional lives, and open up about upcoming projects."
     },
     {
       "show_name": "Como Fisgar um Marido",
-      "show_logo": "/wp-content/uploads/downloaded-images/tcm/today/br_como-fisgar-um-marido-1959_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_como-fisgar-um-marido-1959_l_m.jpg",
       "show_category": "Romantic comedy / 1959",
-      "start_time": "07:44",
-      "end_time": "09:23",
+      "start_time": "07:57",
+      "end_time": "09:37",
       "episode_description": "Lorenzo Charlton, um fiscal do governo, é enviado à fazenda da família Larkins para averiguar o porquê eles têm sonegado impostos. Ao perceber que a família mantém um confuso sistema econômico, ele decide ajudá-los a pôr a casa em ordem."
     },
     {
       "show_name": "Minha Obra-Prima",
-      "show_logo": "/wp-content/uploads/downloaded-images/tcm/today/br_minha-obra-prima-2018-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_minha-obra-prima-2018-1_l_m.jpg",
       "show_category": "Comedy / 2018",
-      "start_time": "09:23",
-      "end_time": "11:06",
+      "start_time": "09:37",
+      "end_time": "11:19",
       "episode_description": "Um galerista inescrupuloso e um pintor antissocial são bons amigos apesar de suas diferenças. Um acidente inesperado proporciona aos dois uma possibilidade inédita e ilegal de ganhar dinheiro dentro do corrupto mercado das obras de arte."
     },
     {
       "show_name": "Sangue de Herói",
-      "show_logo": "/wp-content/uploads/downloaded-images/tcm/today/br_sangue-de-heroi-1948_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sangue-de-heroi-1948_l_m.jpg",
       "show_category": "Western / 1948",
-      "start_time": "11:06",
-      "end_time": "13:18",
+      "start_time": "11:19",
+      "end_time": "13:31",
       "episode_description": "O tenente coronel Owen Thursday, um herói da Guerra Civil, arrogante e teimoso, vai para o Arizona com sua filha, Philadelphia, para assumir o comando do posto do Fort Apache. Thursday acredita que seus superiores cometeram uma grande injustiça quando o destinaram para um lugar afastado de qualquer notoriedade possível. Por isso, ele faz tudo para desatar um conflito com os indígenas da reginal com a intenção de alcançar a glória pessoal."
     },
     {
       "show_name": "Edição de Natal",
-      "show_logo": "/wp-content/uploads/downloaded-images/tcm/today/br_edic-o-de-natal-2020_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_edic-o-de-natal-2020_l_m.jpg",
       "show_category": "Holiday / 2020",
-      "start_time": "13:18",
-      "end_time": "14:48",
+      "start_time": "13:31",
+      "end_time": "15:02",
       "episode_description": "Jackie, uma promissora jornalista, ganha a oportunidade de comandar o jornal de uma pequena cidade no Alasca e decide publicar uma série de artigos natalinos para tentar salvá-lo."
     },
     {
       "show_name": "Ben-Hur",
-      "show_logo": "/wp-content/uploads/downloaded-images/tcm/today/br_ben-hur-1959_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ben-hur-1959_l_m.jpg",
       "show_category": "Historical drama / 1959 /8.1",
-      "start_time": "14:48",
-      "end_time": "18:37",
+      "start_time": "15:02",
+      "end_time": "18:36",
       "episode_description": "Ben-Hur é um mercador judeu que, após um desentendimento, é condenado a viver como escravo por um amigo de juventude, Messala, que é o chefe das legiões romanas da cidade. Mas uma surpreendente oportunidade de vingança surge de onde ele menos espera."
     },
     {
       "show_name": "Europe Raiders",
-      "show_logo": "/wp-content/uploads/downloaded-images/tcm/today/br_europe-raiders-2018_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_europe-raiders-2018_l_m.jpg",
       "show_category": "Drama / 2018 /4.7",
-      "start_time": "18:37",
+      "start_time": "18:36",
       "end_time": "20:16",
       "episode_description": "Dois caçadores de recompensas rivais descobrem um novo motivo para se enfrentarem: uma arma secreta, sofisticada e letal. Para alcançá-la, eles iniciam uma corrida do sul da Ásia até a Itália."
     },
     {
       "show_name": "As Garçonetes de Harvey",
-      "show_logo": "/wp-content/uploads/downloaded-images/tcm/today/br_as-garconetes-de-harvey-1946_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_as-garconetes-de-harvey-1946_l_m.jpg",
       "show_category": "Musical comedy / 1946",
       "start_time": "20:16",
       "end_time": "22:00",
@@ -100,26 +124,26 @@
     },
     {
       "show_name": "Signos",
-      "show_logo": "/wp-content/uploads/downloaded-images/tcm/today/br_signos-s01e14-tipico-de-aries_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_signos-s01e14-tipico-de-aries_l_m.jpg",
       "show_category": "Temporada 1 Episódio 14 - Típico de Áries",
       "start_time": "22:00",
-      "end_time": "22:49",
+      "end_time": "22:48",
       "episode_description": "Logo após o incidente das empanadas, Laura sofre a pressão da imprensa e o desprezo da cidade; os meninos não sabem se acreditam no que dizem sobre seu tio; segredos do passado começam a aparecer."
     },
     {
       "show_name": "Signos",
-      "show_logo": "/wp-content/uploads/downloaded-images/tcm/today/br_signos-s01e15-a-obstinac-o-de-touro_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_signos-s01e15-a-obstinac-o-de-touro_l_m.jpg",
       "show_category": "Temporada 1 Episódio 15 - A Obstinação de Touro",
-      "start_time": "22:49",
+      "start_time": "22:48",
       "end_time": "23:34",
       "episode_description": "Com a morte do juiz Siri, o círculo da vingança que Antonio planejou durante décadas fecha e agora é a vez de pagar por seus crimes e encarar a justiça. Porém, Antonio tem um ás escondido debaixo da manga que vai usar para botar a cidade de joelhos."
     },
     {
       "show_name": "Risco Total",
-      "show_logo": "/wp-content/uploads/downloaded-images/tcm/today/br_risco-total-1993_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_risco-total-1993_l_m.jpg",
       "show_category": "Action / 1993 /6.3",
       "start_time": "23:34",
-      "end_time": "01:22",
+      "end_time": "01:18",
       "episode_description": "Bandidos forçam dois alpinistas a procurar três malas com cem milhões de dólares que estão perdidas nas Montanhas Rochosas do Colorado."
     }
   ]
