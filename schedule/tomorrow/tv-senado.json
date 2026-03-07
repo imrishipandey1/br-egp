@@ -1,6 +1,6 @@
 {
   "channel": "TV SENADO",
-  "date": "07/03/2026",
+  "date": "08/03/2026",
   "schedule": [
     {
       "show_name": "Cleo",
@@ -67,20 +67,20 @@
       "episode_description": "As principais discussões realizadas nas audiências públicas promovidas pelo Senado."
     },
     {
-      "show_name": "Senadoc Acervo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_senadoc-acervo_l_m.jpg",
-      "show_category": "Documentary",
+      "show_name": "Arquiteturas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_arquiteturas_l_m.jpg",
+      "show_category": "Entertainment",
       "start_time": "06:00",
       "end_time": "07:00",
-      "episode_description": "Espaço dedicado a exibição de documentários que fazem parte do acervo histórico da TV Senado."
+      "episode_description": "O programa visita o Eixão Brasília, no Distrito Federal, e mostra como os 13,5 quilômetros tornam-se parque nos finais de semana. Conheça novos projetos e iniciativas de ocupação dos espaços urbanos na cidade pelos brasilienses e visitantes."
     },
     {
       "show_name": "Boto Fé",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_boto-fe_l_m.jpg",
-      "show_category": "Documentary",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_boto-fe-s01e07-santo-daime_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 7 - Santo Daime",
       "start_time": "07:00",
       "end_time": "07:30",
-      "episode_description": "Conheça melhor algumas das religiões mais praticadas no Brasil. Cada crença é revelada pela experiência pessoal de seus fiéis, com o complemento de vozes de representantes religiosos."
+      "episode_description": "Nascido no interior da floresta amazônica, o Santo Daime hoje é uma religião praticada em vários países. A servidora pública Silvana Marques conta como a doutrina baseada nos poderes da bebida Ayahuasca entrou na sua vida há mais de 20 anos."
     },
     {
       "show_name": "Super Libris",
@@ -104,7 +104,7 @@
       "show_category": "Politics",
       "start_time": "08:30",
       "end_time": "09:00",
-      "episode_description": "Acompanhe o resumo da atividade legislativa da semana no Senado."
+      "episode_description": "Acompanhe as últimas notícias do Senado, entre as transmissões ao vivo das reuniões das comissões, do plenário e os programas de grade da emissora."
     },
     {
       "show_name": "EcoSenado",
@@ -184,7 +184,7 @@
       "show_category": "Politics",
       "start_time": "13:30",
       "end_time": "14:00",
-      "episode_description": "Acompanhe o resumo da atividade legislativa da semana no Senado."
+      "episode_description": "Acompanhe as últimas notícias do Senado, entre as transmissões ao vivo das reuniões das comissões, do plenário e os programas de grade da emissora."
     },
     {
       "show_name": "Galáxias - Olhares Sobre o Brasil",
@@ -251,12 +251,12 @@
       "episode_description": "Análise e divulgação da literatura brasileira. Entrevistas com escritores e análises de obras literárias, com espaço para todas as correntes criativas."
     },
     {
-      "show_name": "Tela Brasil",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_tela-brasil_l_m.jpg",
-      "show_category": "Documentary",
+      "show_name": "Deu Bola",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_deu-bola_l_m.jpg",
+      "show_category": "Soccer",
       "start_time": "19:30",
       "end_time": "20:00",
-      "episode_description": "O feminicídio é a ponta da meada, mas os fios se conectam muito antes da morte. Colocando a vida no centro, as mulheres se organizam para desarmar a violência."
+      "episode_description": "Uma visita à Aldeia Tenonde Porã para investigar como acontece o futebol entre homens e mulheres indígenas da etnia guarani, nos times Família Tenondé e Dragões."
     },
     {
       "show_name": "Espaço Cultural",
@@ -267,20 +267,36 @@
       "episode_description": "O programa apresenta diversos eventos culturais como teatro, música e outras formas de expressão do povo brasileiro."
     },
     {
-      "show_name": "Senadoc",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_senadoc_l_m.jpg",
-      "show_category": "Politics",
+      "show_name": "A Dupla Jornada",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-dupla-jornada-1976_l_m.jpg",
+      "show_category": "Documentary / 1976",
       "start_time": "21:00",
-      "end_time": "22:30",
-      "episode_description": "Espaço da TV Senado dedicado a documentários."
+      "end_time": "21:58",
+      "episode_description": "Filmado em fábricas no México e na Argentina, e em minas na Bolívia e Venezuela, o filme examina as condições da mão de obra feminina como força de trabalho na América Latina."
     },
     {
-      "show_name": "Senadoc",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_senadoc_l_m.jpg",
-      "show_category": "Politics",
-      "start_time": "22:30",
+      "show_name": "Senado, a História que Transformou o Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_senado-a-historia-que-transformou-o-brasil_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "21:58",
+      "end_time": "22:55",
+      "episode_description": "Senado é palco de disputas históricas pela igualdade de gênero. Mesmo sendo minoria, mulheres conquistam direitos importantes."
+    },
+    {
+      "show_name": "Quem me Representa?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-me-representa_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "22:55",
+      "end_time": "23:25",
+      "episode_description": "Uma discussão sobre representatividade de eleitores, movimentos sociais e organizações no Congresso."
+    },
+    {
+      "show_name": "Tela Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tela-brasil_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "23:25",
       "end_time": "",
-      "episode_description": "Espaço da TV Senado dedicado a documentários."
+      "episode_description": "O programa mostra o folclore, artes, músicas e religiões do Brasil."
     }
   ]
 }

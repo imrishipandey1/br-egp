@@ -1,124 +1,116 @@
 {
   "channel": "Food Network",
-  "date": "07/03/2026",
+  "date": "08/03/2026",
   "schedule": [
-    {
-      "show_name": "Giada Faz a Festa",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_giada-faz-a-festa-s03e10-noite-de-panini_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 10 - Noite de Panini",
-      "start_time": "00:05",
-      "end_time": "00:29",
-      "episode_description": "Giada De Laurentiis testa várias receitas de panini para seu novo restaurante em Las Vegas. Seus amigos experimentam o delicioso cardápio, que inclui panini franco-italiano, de frango com pimentão e de morangos com creme."
-    },
     {
       "show_name": "Receitas Caseiras da Valerie",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_receitas-caseiras-da-valerie-s08e04-piquenique-dentro-de-casa_l_m.jpg",
       "show_category": "Temporada 8 Episódio 4 - Piquenique Dentro de Casa",
-      "start_time": "00:29",
-      "end_time": "00:53",
+      "start_time": "00:05",
+      "end_time": "00:28",
       "episode_description": "Valerie traz o melhor do ar livre de um piquenique festivo, mas sem os insetos; a mesa de piquenique conta com costelinhas, salada de milho com rúcula, bolinhos de queijo e, para sobremesa, torta de manteiga de amendoim e chocolate quente com canela."
     },
     {
       "show_name": "Receitas Caseiras da Valerie",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_receitas-caseiras-da-valerie-s08e05-a-visita-de-amy_l_m.jpg",
       "show_category": "Temporada 8 Episódio 5 - A Visita de Amy",
-      "start_time": "00:53",
-      "end_time": "01:16",
+      "start_time": "00:28",
+      "end_time": "00:51",
       "episode_description": "A amiga de Valerie, a chef Amy, precisa de inspiração para alguns novos pratos italianos; os itens do menu incluem ribollita, porchetta, melão e salada de radicchio com vinagrete balsâmico reduzido e, para sobremesa, tiramisu de limão."
     },
     {
       "show_name": "Refeição em 30 Minutos",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_refeic-o-em-30-minutos-s29e16-hamburguer-de-chorizo_l_m.jpg",
       "show_category": "Temporada 29 Episódio 16 - Hambúrguer de Chorizo",
-      "start_time": "01:16",
-      "end_time": "01:40",
+      "start_time": "00:51",
+      "end_time": "01:14",
       "episode_description": "Rachael prepara hambúrgueres de chorizo com batatas fritas em formato de waffles e molho de taco."
     },
     {
       "show_name": "Refeição em 30 Minutos",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_refeic-o-em-30-minutos-s29e20-file-ao-molho-sichuan_l_m.jpg",
       "show_category": "Temporada 29 Episódio 20 - Filé ao Molho Sichuan",
-      "start_time": "01:40",
-      "end_time": "02:01",
+      "start_time": "01:14",
+      "end_time": "01:34",
       "episode_description": "Rachael Ray prepara sua versão de filé au poivre com molho Sichuan e pimenta-do-reino, acompanhado de purê de batatas cremoso com cebolinha."
     },
     {
       "show_name": "Brunch com Bobby",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_brunch-com-bobby-s06e03_l_m.jpg",
       "show_category": "Temporada 6 Episódio 3 - Sabores do Oriente Médio",
-      "start_time": "02:01",
-      "end_time": "02:22",
+      "start_time": "01:34",
+      "end_time": "01:55",
       "episode_description": "Bobby Flay explora os sabores ousados e surpreendentes da culinária do Oriente Médio. Seu cardápio inclui torrada com maçãs assadas, cardamomo e baunilha, uma omelete ao estilo persa e batatas com tempero caseiro."
     },
     {
       "show_name": "Brunch com Bobby",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_brunch-com-bobby-s06e04_l_m.jpg",
       "show_category": "Temporada 6 Episódio 4 - Brunch de Sobras",
-      "start_time": "02:22",
-      "end_time": "02:43",
+      "start_time": "01:55",
+      "end_time": "02:15",
       "episode_description": "As sobras do jantar do dia anterior se transformam em um saboroso brunch na casa de Bobby Flay: empanadas de ovo e presunto com pimenta piquillo, biscotti de canela, aveia e bordo, e bolo velvet com chocolate quente."
     },
     {
       "show_name": "Na Rota do Sabor",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_na-rota-do-sabor-s09e06_l_m.jpg",
       "show_category": "Temporada 9 Episódio 6 - Lanchinho da Madrugada",
-      "start_time": "02:43",
-      "end_time": "03:29",
+      "start_time": "02:15",
+      "end_time": "03:01",
       "episode_description": "Procurando por oito ótimos lugares para a fome da meia-noite, já que a comida de bar deu grandes saltos nos últimos anos."
     },
     {
       "show_name": "Lanchonetes Clássicas com Guy Fieri",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s26e02-provando-a-espanha_l_m.jpg",
       "show_category": "Temporada 26 Episódio 2 - Provando a Espanha",
-      "start_time": "03:29",
-      "end_time": "03:50",
+      "start_time": "03:01",
+      "end_time": "03:21",
       "episode_description": "Guy Fieri está em Barcelona, na Espanha, e prova de tudo, desde tapas de primeira linha, como camarões e codorna, até especialidades tradicionais catalãs, como almôndegas de dar água na boca e um guisado de cabeça de vitela."
     },
     {
       "show_name": "Lanchonetes Clássicas com Guy Fieri",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s26e03-mega-bocadas_l_m.jpg",
       "show_category": "Temporada 26 Episódio 3 - Mega Bocadas",
-      "start_time": "03:50",
-      "end_time": "04:11",
+      "start_time": "03:21",
+      "end_time": "03:41",
       "episode_description": "Guy destrava a mandíbula para dar bocadas grandes. Em Louisville, um restaurante de frutos do mar empilha suas especialidades em cima de waffles. Em Portland, um food truck de churrasco faz um sanduíche caprichado."
     },
     {
       "show_name": "Lanchonetes Clássicas com Guy Fieri",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s26e04-sanduiche-suico-e-linguica_l_m.jpg",
       "show_category": "Temporada 26 Episódio 4 - Sanduíche Suíço e Linguiça",
-      "start_time": "04:11",
-      "end_time": "04:32",
+      "start_time": "03:41",
+      "end_time": "04:02",
       "episode_description": "Guy Fieri visita Portland e Charlotte para provar sanduíches de queijo quente com um toque especial: linguiças feitas do zero e especialidades trazidas da Suíça."
     },
     {
       "show_name": "Refeição em 30 Minutos",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_refeic-o-em-30-minutos-s22e25-com-bacon_l_m.jpg",
       "show_category": "Temporada 22 Episódio 25 - Com Bacon",
-      "start_time": "04:32",
-      "end_time": "04:55",
+      "start_time": "04:02",
+      "end_time": "04:25",
       "episode_description": "O ingrediente favorito da Rachael virou o centro do prato. Massa americana-italiana all'amatriciana e salada de repolho com funcho e aipo."
     },
     {
       "show_name": "Refeição em 30 Minutos",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_refeic-o-em-30-minutos-s23e04-vamos-nos-reunir_l_m.jpg",
       "show_category": "Temporada 23 Episódio 4 - Vamos nos Reunir",
-      "start_time": "04:55",
-      "end_time": "05:18",
+      "start_time": "04:25",
+      "end_time": "04:48",
       "episode_description": "Rachael prepara pizza antepasto e frango ao estilo italiano com bolinhos."
     },
     {
       "show_name": "Refeição em 30 Minutos",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_refeic-o-em-30-minutos-s23e20-inovando-classicos-italianos_l_m.jpg",
       "show_category": "Temporada 23 Episódio 20 - Inovando Clássicos Italianos",
-      "start_time": "05:18",
-      "end_time": "05:39",
+      "start_time": "04:48",
+      "end_time": "05:09",
       "episode_description": "Uma refeição italiana de três pratos repleta de poderosos sabores: um espaguete à carbonara com açafrão, uma salada Caesar amarga e vieiras com ervas e semente de gergelim, acompanhadas de laranja e funcho."
     },
     {
       "show_name": "Refeição em 30 Minutos",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_refeic-o-em-30-minutos-s23e27-refeic-o-com-tres-pratos-italianos_l_m.jpg",
       "show_category": "Temporada 23 Episódio 27 - Refeição com Três Pratos Italianos",
-      "start_time": "05:39",
+      "start_time": "05:09",
       "end_time": "06:00",
       "episode_description": "Três deliciosos pratos italianos que podem ser feitos em 30 minutos. Sem problemas, vamos fazer Húmus italiano e torrada, salada de muçarela e macarrão orecchiette com siri."
     },
@@ -167,14 +159,14 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s26e07-comidas-diferentes_l_m.jpg",
       "show_category": "Temporada 26 Episódio 7 - Comidas Diferentes",
       "start_time": "08:37",
-      "end_time": "08:58",
+      "end_time": "08:59",
       "episode_description": "Guy busca um caminho alternativo para ir atrás de achados originais. Em Charlotte, ele vai a um restaurante de waffles escondido numa loja de cervejas. Em Houston, encontra um local que funde churrasco e sushi."
     },
     {
       "show_name": "Lanchonetes Clássicas com Guy Fieri",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s26e08-sabor-da-america_l_m.jpg",
       "show_category": "Temporada 26 Episódio 8 - Sabor da América",
-      "start_time": "08:58",
+      "start_time": "08:59",
       "end_time": "09:22",
       "episode_description": "De um hambúrguer de bacon da Carolina do Norte a tacos nas ruas do México, Guy mergulha em sabores que se espalharam pela América."
     },
@@ -183,14 +175,14 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s26e09-internacional_l_m.jpg",
       "show_category": "Temporada 26 Episódio 9 - Internacional",
       "start_time": "09:22",
-      "end_time": "09:43",
+      "end_time": "09:44",
       "episode_description": "Nesta viagem, Guy Fieri quer provar comida de gângster. Ele vai a um ponto jamaicano em Houston e a um restaurante 24 horas que serve burrito em Cancún, no México."
     },
     {
       "show_name": "Na Rota do Sabor",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_na-rota-do-sabor-s09e09_l_m.jpg",
       "show_category": "Temporada 9 Episódio 9 - Felicidade no Churrasco",
-      "start_time": "09:43",
+      "start_time": "09:44",
       "end_time": "10:30",
       "episode_description": "Grelhamos os suspeitos comuns, e alguns incomuns, na esperança de encontrar os oito melhores lugares para o melhor churrasco."
     },
@@ -199,216 +191,224 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_brunch-com-bobby-s06e05_l_m.jpg",
       "show_category": "Temporada 6 Episódio 5 - Brunch com Espírito Natalino",
       "start_time": "10:30",
-      "end_time": "10:54",
+      "end_time": "10:53",
       "episode_description": "Bobby Flay entra no espírito de férias fazendo chimichangas com feijão-preto defumado, cobertas com molho de abacate, tomate e agrião, panquecas de ricota e abóbora com cobertura de maçã caramelizada e especiarias e margaritas de amora e laranja."
     },
     {
       "show_name": "Brunch com Bobby",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_brunch-com-bobby-s06e06_l_m.jpg",
       "show_category": "Temporada 6 Episódio 6 - Brunch sem Culpa",
-      "start_time": "10:54",
-      "end_time": "11:15",
+      "start_time": "10:53",
+      "end_time": "11:13",
       "episode_description": "Bobby prepara uma tigela de romãs com mirtilos e quinoa crocante, torrada de abacate, um Blood Mary especial feito com suco caseiro e um chá gelado de floresta negra."
     },
     {
       "show_name": "Sabores da América com Michael Symon",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sabores-da-america-com-michael-symon-s05e03-reinvenc-es-defumadas_l_m.jpg",
       "show_category": "Temporada 5 Episódio 3 - Reinvenções Defumadas",
-      "start_time": "11:15",
-      "end_time": "11:39",
+      "start_time": "11:13",
+      "end_time": "11:35",
       "episode_description": "No estado de Nova York, Michael prova uma versão de lasanha com 17 camadas, que inclui carne de porco e bacon. Ele também visita um café para ciclistas em Pittsburgh que faz hambúrgueres incríveis."
     },
     {
       "show_name": "Sabores da América com Michael Symon",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sabores-da-america-com-michael-symon-s05e04-frango-e-porco_l_m.jpg",
       "show_category": "Temporada 5 Episódio 4 - Frango e Porco",
-      "start_time": "11:39",
-      "end_time": "12:00",
+      "start_time": "11:35",
+      "end_time": "11:57",
       "episode_description": "Michael visita uma cervejaria que serve asa de frango com molho de chipotle e bordo. Em Indianápolis, ele prova uma costela de porco que é defumada e frita em imersão para ficar suculenta e crocante."
     },
     {
       "show_name": "Sabor na Brasa",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sabor-na-brasa-s05e07_l_m.jpg",
       "show_category": "Temporada 5 Episódio 7 - Peixe e Frango",
-      "start_time": "12:00",
-      "end_time": "12:24",
+      "start_time": "11:57",
+      "end_time": "12:19",
       "episode_description": "Roger Mooking viaja para North Bend, Oregon, onde conhece Don Ivy, do restaurante Coquille Tribe, que lhe oferece um banquete de salmão. Em Los Angeles, Roger visita Andy Ricker, do Pok Pok La, para aprender a grelhar frango."
     },
     {
       "show_name": "Sabor na Brasa",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sabor-na-brasa-s05e08_l_m.jpg",
       "show_category": "Temporada 5 Episódio 8 - Banquete Variado",
-      "start_time": "12:24",
-      "end_time": "12:47",
+      "start_time": "12:19",
+      "end_time": "12:40",
       "episode_description": "Roger Mooking e Charlie Thieriot cozinham uma porchetta de 13 quilos. Roger ajuda Jaret Foster e Mona Johnson a combinar sopa de mariscos com mexilhões assados, feijão branco e chouriço."
     },
     {
       "show_name": "Refeição em 30 Minutos",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_refeic-o-em-30-minutos-s22e25-com-bacon_l_m.jpg",
       "show_category": "Temporada 22 Episódio 25 - Com Bacon",
-      "start_time": "12:47",
-      "end_time": "13:08",
+      "start_time": "12:40",
+      "end_time": "13:01",
       "episode_description": "O ingrediente favorito da Rachael virou o centro do prato. Massa americana-italiana all'amatriciana e salada de repolho com funcho e aipo."
     },
     {
       "show_name": "Refeição em 30 Minutos",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_refeic-o-em-30-minutos-s23e04-vamos-nos-reunir_l_m.jpg",
       "show_category": "Temporada 23 Episódio 4 - Vamos nos Reunir",
-      "start_time": "13:08",
-      "end_time": "13:29",
+      "start_time": "13:01",
+      "end_time": "13:22",
       "episode_description": "Rachael prepara pizza antepasto e frango ao estilo italiano com bolinhos."
     },
     {
       "show_name": "Refeição em 30 Minutos",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_refeic-o-em-30-minutos-s23e20-inovando-classicos-italianos_l_m.jpg",
       "show_category": "Temporada 23 Episódio 20 - Inovando Clássicos Italianos",
-      "start_time": "13:29",
-      "end_time": "13:52",
+      "start_time": "13:22",
+      "end_time": "13:46",
       "episode_description": "Uma refeição italiana de três pratos repleta de poderosos sabores: um espaguete à carbonara com açafrão, uma salada Caesar amarga e vieiras com ervas e semente de gergelim, acompanhadas de laranja e funcho."
     },
     {
       "show_name": "Refeição em 30 Minutos",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_refeic-o-em-30-minutos-s23e27-refeic-o-com-tres-pratos-italianos_l_m.jpg",
       "show_category": "Temporada 23 Episódio 27 - Refeição com Três Pratos Italianos",
-      "start_time": "13:52",
-      "end_time": "14:15",
+      "start_time": "13:46",
+      "end_time": "14:09",
       "episode_description": "Três deliciosos pratos italianos que podem ser feitos em 30 minutos. Sem problemas, vamos fazer Húmus italiano e torrada, salada de muçarela e macarrão orecchiette com siri."
     },
     {
       "show_name": "Receitas da Ina - De Volta ao Básico",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_receitas-da-ina-de-volta-ao-basico-s11e17-jantar-comunitario_l_m.jpg",
       "show_category": "Temporada 11 Episódio 17 - Jantar Comunitário",
-      "start_time": "14:15",
-      "end_time": "14:40",
+      "start_time": "14:09",
+      "end_time": "14:32",
       "episode_description": "Existem técnicas simples para usar o forno. Com o fogo alto, prepare lombo de vaca para um sanduíche trufado. No fogo baixo, asse tomates para a salada caprese. Depois, desligue o forno para fazer merengue com calda de frutas."
     },
     {
       "show_name": "Receitas da Ina - De Volta ao Básico",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_receitas-da-ina-de-volta-ao-basico-s11e11-festa-no-cafe-da-manh_l_m.jpg",
       "show_category": "Temporada 11 Episódio 11 - Festa no Café da Manhã",
-      "start_time": "14:40",
-      "end_time": "15:04",
+      "start_time": "14:32",
+      "end_time": "14:55",
       "episode_description": "Ina prepara costelas com cheddar e pão de milho para uma potluck, uma festa onde cada convidado leva um prato de comida."
     },
     {
       "show_name": "Cake Boss",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_cake-boss-s07e04-cake-of-thrones_l_m.jpg",
       "show_category": "Temporada 7 Episódio 4 - Mãos Rápidas",
-      "start_time": "15:04",
-      "end_time": "15:29",
+      "start_time": "14:55",
+      "end_time": "15:19",
       "episode_description": "Buddy saúda o Ano-Novo Chinês em Chinatown, Nova York, com um bolo em formato de dragão; a equipe tem que criar um bolo em formato de saco de boxe em tamanho real para lutadores de artes marciais de uma academia local."
     },
     {
       "show_name": "Cake Boss",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_cake-boss-s07e01-o-velho-e-o-novo-1_l_m.jpg",
       "show_category": "Temporada 7 Episódio 1 - Aniversário",
-      "start_time": "15:29",
-      "end_time": "15:53",
+      "start_time": "15:19",
+      "end_time": "15:44",
       "episode_description": "Buddy prepara um bolo para o aniversário de um ano de seu filho. Enquanto isso, Marissa aprende o que significa trabalhar em equipe. Grace perde a paciência com o atraso de Mary e as coisas ficam complicadas."
     },
     {
       "show_name": "A Disputa dos Confeiteiros - Primavera",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_a-disputa-dos-confeiteiros-primavera-s05e05-delicias-de-primavera_l_m.jpg",
       "show_category": "Temporada 5 Episódio 5 - Delícias de Primavera",
-      "start_time": "15:53",
-      "end_time": "16:40",
+      "start_time": "15:44",
+      "end_time": "16:29",
       "episode_description": "Os seis confeiteiros restantes devem criar uma sobremesa de marshmallow com cores vibrantes. Depois, devem fazer e decorar uma sobremesa de frutas que pareça um chapéu primaveril."
     },
     {
       "show_name": "A Guerra dos Bolos",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_a-guerra-dos-bolos-s01e02-dc-comics_l_m.jpg",
       "show_category": "Temporada 1 Episódio 2 - DC Comics",
-      "start_time": "16:40",
-      "end_time": "17:27",
+      "start_time": "16:29",
+      "end_time": "17:15",
       "episode_description": "A DC Comics quer que o melhor confeiteiro faça um bolo para ser a atração de sua festa. Serão duas rodadas para decidir quem vai levar sua magnífica criação para a festa. Entre os jurados estarão executivos e desenhistas da própria DC Comics."
     },
     {
       "show_name": "A Guerra dos Cupcakes",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_a-guerra-dos-cupcakes-s05e02_l_m.jpg",
       "show_category": "Temporada 5 Episódio 2 - Professional Bull Rider",
-      "start_time": "17:27",
-      "end_time": "18:15",
+      "start_time": "17:15",
+      "end_time": "18:00",
       "episode_description": "Os confeiteiros apostam alto quando quatro deles tentam competir para conquistar um lugar na cerimônia de premiação da Professional Bull Rider, na famosa Las Vegas Strip."
     },
     {
       "show_name": "A Guerra dos Cupcakes",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_a-guerra-dos-cupcakes-s05e03_l_m.jpg",
       "show_category": "Temporada 5 Episódio 3 - Confeitaria da Última Moda",
-      "start_time": "18:15",
-      "end_time": "19:03",
+      "start_time": "18:00",
+      "end_time": "18:46",
       "episode_description": "Os participantes estão diante de mais um grande desafio. Dessa vez, o vencedor vai preparar cupcakes especiais para um grande evento da moda, a festa VIP que Vanessa e Angela Simmons estão preparando para promover a Pastry Shoes."
     },
     {
       "show_name": "Receitas da Ina - De Volta ao Básico",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_receitas-da-ina-de-volta-ao-basico-s13e09-festa-da-pizza_l_m.jpg",
       "show_category": "Temporada 13 Episódio 9 - Festa da Pizza",
-      "start_time": "19:03",
-      "end_time": "19:27",
+      "start_time": "18:46",
+      "end_time": "19:09",
       "episode_description": "Ina volta ao básico com receitas que funcionam para crianças e para os adultos também, que são divertidas e deliciosas: pizzas brancas com rúcula, azeite de alho e um bolo fudge duplo com cobertura de buttercream de chocolate."
     },
     {
       "show_name": "Refeição em 30 Minutos",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_refeic-o-em-30-minutos-s29e05_l_m.jpg",
       "show_category": "Temporada 29 Episódio 5 - Pizza de Frigideira",
-      "start_time": "19:27",
-      "end_time": "19:50",
+      "start_time": "19:09",
+      "end_time": "19:32",
       "episode_description": "Rachael Ray prepara sua receita favorita de pizza em frigideira de ferro fundido. Salsichas apimentadas, pimenta em flocos e mel dão mais sabor à preparação. Por outro lado, a salada de erva-doce e azeitonas traz um sabor refrescante."
     },
     {
       "show_name": "Refeição em 30 Minutos",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_refeic-o-em-30-minutos-s29e22-pizza-de-frigideira-de-frango_l_m.jpg",
       "show_category": "Temporada 29 Episódio 22 - Pizza de Frigideira de Frango",
-      "start_time": "19:50",
-      "end_time": "20:11",
+      "start_time": "19:32",
+      "end_time": "19:53",
       "episode_description": "Pizza de frigideira com churrasco de frango é a combinação perfeita de sabores picantes e agridoces."
     },
     {
       "show_name": "Refeição em 30 Minutos",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_refeic-o-em-30-minutos-s29e39-n-o-acredito-que-hoje-tem-pizza_l_m.jpg",
       "show_category": "Temporada 29 Episódio 39 - Não Acredito que Hoje Tem Pizza",
-      "start_time": "20:11",
-      "end_time": "20:32",
+      "start_time": "19:53",
+      "end_time": "20:13",
       "episode_description": "A pizza de abobrinha sem pepperoni de Rachael Ray tem um segredo: não leva pepperoni de verdade. Mas ela vem cheia de sabor, graças à páprica defumada e ao toque de mel picante. Para acompanhar, uma salada de legumes."
     },
     {
       "show_name": "Duelo com Bobby Flay",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_duelo-com-bobby-flay-s08e05-tenha-piedade_l_m.jpg",
       "show_category": "Temporada 8 Episódio 5 - Tenha Piedade",
-      "start_time": "20:32",
-      "end_time": "20:56",
+      "start_time": "20:13",
+      "end_time": "20:37",
       "episode_description": "Acompanhe uma disputa entre o chef francês Gui Alinat e o chef Kevin Ashade, de Dallas, pois os dois querem derrotar Bobby Flay; os chefs Josh Capon e Alex Guarnaschelli, de Nova York, decidem quem tentará derrotar um dos maiores chefs americanos."
     },
     {
       "show_name": "Duelo com Bobby Flay",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_duelo-com-bobby-flay-s08e06-aja-naturalmente_l_m.jpg",
       "show_category": "Temporada 8 Episódio 6 - Aja Naturalmente",
-      "start_time": "20:56",
-      "end_time": "21:19",
+      "start_time": "20:37",
+      "end_time": "21:00",
       "episode_description": "Bobby Flay convida dois dos seus amigos mais elegantes para uma batalha clássica na arena: a Barefoot Contessa em pessoa, Ina Garten, e o ator Neil Patrick Harris. Ainda temos o veterano chef indiano Thomas John e a chef particular Gail Arnold."
     },
     {
       "show_name": "Bobby Flay: Ameaça Tripla",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_bobby-flay-ameaca-tripla-s03e08_l_m.jpg",
       "show_category": "Temporada 3 Episódio 8",
-      "start_time": "21:19",
-      "end_time": "22:01",
+      "start_time": "21:00",
+      "end_time": "21:43",
       "episode_description": "Chef Katsuji Tanabe compete contra a equipe de Bobby Flay, aguardando o veredito da jurada Judy Joo para sua primeira vitória."
     },
     {
       "show_name": "Grandes Chefs - Torneio dos Campeões",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_grandes-chefs-torneio-dos-campe-es-s05e02-esquentando-as-batalhas-da-primeira-rodada_l_m.jpg",
       "show_category": "Temporada 5 Episódio 2 - Esquentando as Batalhas da Primeira Rodada",
-      "start_time": "22:01",
-      "end_time": "23:41",
+      "start_time": "21:43",
+      "end_time": "23:19",
       "episode_description": "Guy Fieri continua as batalhas da primeira rodada com duas revanches e confrontos em que os novatos podem virar o jogo."
     },
     {
       "show_name": "Giada Faz a Festa",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_giada-faz-a-festa-s03e11_l_m.jpg",
       "show_category": "Temporada 3 Episódio 11 - Festa Anos 70",
+      "start_time": "23:19",
+      "end_time": "23:41",
+      "episode_description": "Giada organiza uma festa inspirada nos anos 1970 com um cardápio composto por espetinhos \"shish kebab\", doces e salgados."
+    },
+    {
+      "show_name": "Giada Faz a Festa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_giada-faz-a-festa-s03e12_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 12 - Páscoa à Italiana",
       "start_time": "23:41",
       "end_time": "",
-      "episode_description": "Giada organiza uma festa inspirada nos anos 1970 com um cardápio composto por espetinhos \"shish kebab\", doces e salgados."
+      "episode_description": "A família italiana de Giada comemora a Páscoa com um delicioso jantar que inclui rigatoni assado com cogumelos."
     }
   ]
 }

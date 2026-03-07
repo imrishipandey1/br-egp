@@ -1,6 +1,6 @@
 {
   "channel": "TV SENADO",
-  "date": "06/03/2026",
+  "date": "07/03/2026",
   "schedule": [
     {
       "show_name": "A Voz de Ruy",
@@ -67,12 +67,12 @@
       "episode_description": "No ano do Bicentenário da Independência do Brasil, uma série de entrevistas com personalidades."
     },
     {
-      "show_name": "Senadoc Acervo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_senadoc-acervo_l_m.jpg",
-      "show_category": "Documentary",
+      "show_name": "Arquiteturas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_arquiteturas_l_m.jpg",
+      "show_category": "Entertainment",
       "start_time": "06:00",
       "end_time": "07:00",
-      "episode_description": "Espaço dedicado a exibição de documentários que fazem parte do acervo histórico da TV Senado."
+      "episode_description": "O programa visita o Eixão Brasília, no Distrito Federal, e mostra como os 13,5 quilômetros tornam-se parque nos finais de semana. Conheça novos projetos e iniciativas de ocupação dos espaços urbanos na cidade pelos brasilienses e visitantes."
     },
     {
       "show_name": "Coleções",
@@ -128,7 +128,7 @@
       "show_category": "Politics",
       "start_time": "13:30",
       "end_time": "14:00",
-      "episode_description": "Acompanhe o resumo da atividade legislativa da semana no Senado."
+      "episode_description": "Acompanhe as últimas notícias do Senado, entre as transmissões ao vivo das reuniões das comissões, do plenário e os programas de grade da emissora."
     },
     {
       "show_name": "Reunião de Comissão",
@@ -144,7 +144,7 @@
       "show_category": "Politics",
       "start_time": "19:30",
       "end_time": "20:00",
-      "episode_description": "Acompanhe o resumo da atividade legislativa da semana no Senado."
+      "episode_description": "Acompanhe as últimas notícias do Senado, entre as transmissões ao vivo das reuniões das comissões, do plenário e os programas de grade da emissora."
     },
     {
       "show_name": "Parlamento Brasil",
@@ -163,12 +163,28 @@
       "episode_description": "Veja entrevistas com a participação do público sobre os grandes temas em pauta no país."
     },
     {
-      "show_name": "Senadoc",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_senadoc_l_m.jpg",
-      "show_category": "Politics",
+      "show_name": "Cleo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cleo_l_m.jpg",
+      "show_category": "Special",
       "start_time": "21:00",
+      "end_time": "21:59",
+      "episode_description": "Um breve retrato da vida e obra de Cleonice Berardinelli, ou simplesmente Dona Cleo, imortal da Academia Brasileira de Letras e uma das maiores intelectuais brasileiras."
+    },
+    {
+      "show_name": "As Várias Vidas de Tânia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_as-varias-vidas-de-tania_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "21:59",
+      "end_time": "22:40",
+      "episode_description": "A vida e a obra da alagoana Tânia de Maya Pedrosa, artista autodidata e colecionadora de arte popular brasileira."
+    },
+    {
+      "show_name": "Maria Luiza",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_maria-luiza-2020_l_m.jpg",
+      "show_category": "Documentary / 2020 /9.0",
+      "start_time": "22:40",
       "end_time": "00:00",
-      "episode_description": "Espaço da TV Senado dedicado a documentários."
+      "episode_description": "Maria Luiza da Silva é a primeira transexual na história das Forças Armadas brasileiras. Após 22 anos de trabalho como militar, foi aposentada por invalidez. Conheça as motivações para impedi-la de vestir a farda feminina e a sua trajetória de afirmação como mulher trans, militar e católica."
     }
   ]
 }
