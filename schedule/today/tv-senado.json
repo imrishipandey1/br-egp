@@ -3,188 +3,300 @@
   "date": "07/03/2026",
   "schedule": [
     {
-      "show_name": "A Voz de Ruy",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/today/br_a-voz-de-ruy-2024_l_m.webp",
-      "show_category": "Documentary / 2024",
+      "show_name": "Cleo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cleo_l_m.jpg",
+      "show_category": "Special",
       "start_time": "00:00",
-      "end_time": "01:20",
-      "episode_description": "Reconhecido por suas propostas políticas e educacionais, Ruy Barbosa se tornou uma referência na defesa das liberdades individuais e de imprensa."
+      "end_time": "01:30",
+      "episode_description": "Um breve retrato da vida e obra de Cleonice Berardinelli, ou simplesmente Dona Cleo, imortal da Academia Brasileira de Letras e uma das maiores intelectuais brasileiras."
     },
     {
-      "show_name": "35 - O Assalto ao Poder",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/today/br_35-o-assalto-ao-poder-2002_l_m.webp",
-      "show_category": "Documentary / 2002 /7.2",
-      "start_time": "01:20",
+      "show_name": "As Várias Vidas de Tânia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_as-varias-vidas-de-tania_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "01:30",
       "end_time": "03:00",
-      "episode_description": "O ano de 1935 estava chegando ao fim quando três levantes militares, em três diferentes capitais brasileiras, tentaram derrubar o governo de Getúlio Vargas."
-    },
-    {
-      "show_name": "Em Discussão",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/today/br_em-discuss-o-2_l_m.webp",
-      "show_category": "Educational",
-      "start_time": "03:00",
-      "end_time": "03:30",
-      "episode_description": "As principais discussões realizadas nas audiências públicas promovidas pelo Senado."
+      "episode_description": "A vida e a obra da alagoana Tânia de Maya Pedrosa, artista autodidata e colecionadora de arte popular brasileira."
     },
     {
       "show_name": "TV Senado Live",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/today/br_tv-senado-live_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tv-senado-live_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "03:30",
-      "end_time": "04:00",
+      "start_time": "03:00",
+      "end_time": "03:30",
       "episode_description": "Veja entrevistas com a participação do público sobre os grandes temas em pauta no país."
     },
     {
       "show_name": "Parlamento Brasil",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/today/br_parlamento-brasil_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "04:00",
-      "end_time": "04:30",
+      "start_time": "03:30",
+      "end_time": "04:00",
       "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
     },
     {
       "show_name": "Assunto de Estado",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/today/br_assunto-de-estado_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_assunto-de-estado_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "04:30",
-      "end_time": "05:00",
+      "start_time": "04:00",
+      "end_time": "04:30",
       "episode_description": "Espaço para que senadores comentem questões regionais e locais e preste contas aos eleitores."
     },
     {
       "show_name": "Agenda Econômica",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/today/br_agenda-economica-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_agenda-economica-1_l_m.jpg",
       "show_category": "Bus./financial",
-      "start_time": "05:00",
-      "end_time": "05:30",
+      "start_time": "04:30",
+      "end_time": "05:00",
       "episode_description": "Economistas, formuladores de políticas públicas, acadêmicos, intelectuais e parlamentares analisam questões da economia nacional e internacional."
     },
     {
       "show_name": "Que Brasil É Este?",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/today/br_que-brasil-e-este_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_que-brasil-e-este_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "05:30",
-      "end_time": "06:00",
+      "start_time": "05:00",
+      "end_time": "05:30",
       "episode_description": "No ano do Bicentenário da Independência do Brasil, uma série de entrevistas com personalidades."
     },
     {
+      "show_name": "Em Discussão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_em-discuss-o-2_l_m.jpg",
+      "show_category": "Educational",
+      "start_time": "05:30",
+      "end_time": "06:00",
+      "episode_description": "As principais discussões realizadas nas audiências públicas promovidas pelo Senado."
+    },
+    {
       "show_name": "Arquiteturas",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/today/br_arquiteturas_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_arquiteturas_l_m.jpg",
       "show_category": "Entertainment",
       "start_time": "06:00",
       "end_time": "07:00",
       "episode_description": "O programa visita o Eixão Brasília, no Distrito Federal, e mostra como os 13,5 quilômetros tornam-se parque nos finais de semana. Conheça novos projetos e iniciativas de ocupação dos espaços urbanos na cidade pelos brasilienses e visitantes."
     },
     {
-      "show_name": "Coleções",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/today/br_colec-es_l_m.webp",
-      "show_category": "Entertainment",
+      "show_name": "Boto Fé",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_boto-fe-s01e07-santo-daime_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 7 - Santo Daime",
       "start_time": "07:00",
       "end_time": "07:30",
-      "episode_description": "A história e a arquitetura da Casa da Ópera de Ouro Preto - Minas Gerais, um dos mais antigos teatros da América do Sul."
+      "episode_description": "Nascido no interior da floresta amazônica, o Santo Daime hoje é uma religião praticada em vários países. A servidora pública Silvana Marques conta como a doutrina baseada nos poderes da bebida Ayahuasca entrou na sua vida há mais de 20 anos."
     },
     {
-      "show_name": "Que Brasil É Este?",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/today/br_que-brasil-e-este_l_m.webp",
-      "show_category": "Politics",
+      "show_name": "Super Libris",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_super-libris_l_m.jpg",
+      "show_category": "Educational",
       "start_time": "07:30",
       "end_time": "08:00",
-      "episode_description": "No ano do Bicentenário da Independência do Brasil, uma série de entrevistas com personalidades."
+      "episode_description": "Acompanhe a entrevista com o escritor judeu Bernardo Ajzenberg; o programa também investiga se há uma produção literária de imigrantes; relembre o escritor Moacyr Scliar; a roteirista Maria Camargo fala da adaptação de \"Dois Irmãos\" para a TV."
     },
     {
-      "show_name": "Cidadania",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/today/br_cidadania_l_m.webp",
-      "show_category": "Interview",
+      "show_name": "Em Discussão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_em-discuss-o-2_l_m.jpg",
+      "show_category": "Educational",
       "start_time": "08:00",
       "end_time": "08:30",
-      "episode_description": "Entrevistas semanais sobre assuntos da atualidade, com a participação de parlamentares, especialistas e representantes de organizações sociais."
+      "episode_description": "As principais discussões realizadas nas audiências públicas promovidas pelo Senado."
     },
     {
-      "show_name": "Diálogos com TCU",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/today/fallback_other_l_m.webp",
+      "show_name": "Senado Notícias",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_senado-noticias_l_m.jpg",
       "show_category": "Politics",
       "start_time": "08:30",
       "end_time": "09:00",
+      "episode_description": "Acompanhe as últimas notícias do Senado, entre as transmissões ao vivo das reuniões das comissões, do plenário e os programas de grade da emissora."
+    },
+    {
+      "show_name": "EcoSenado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ecosenado-1_l_m.jpg",
+      "show_category": "Environment",
+      "start_time": "09:00",
+      "end_time": "09:30",
+      "episode_description": "Assuntos relevantes e impactam o meio ambiente com participação de especialistas, políticos, biólogos e lideranças comunitárias."
+    },
+    {
+      "show_name": "Cidadania",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidadania_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "09:30",
+      "end_time": "10:00",
+      "episode_description": "Entrevistas semanais sobre assuntos da atualidade, com a participação de parlamentares, especialistas e representantes de organizações sociais."
+    },
+    {
+      "show_name": "Que Brasil É Este?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_que-brasil-e-este_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "10:00",
+      "end_time": "10:30",
+      "episode_description": "No ano do Bicentenário da Independência do Brasil, uma série de entrevistas com personalidades."
+    },
+    {
+      "show_name": "Agenda Econômica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_agenda-economica-1_l_m.jpg",
+      "show_category": "Bus./financial",
+      "start_time": "10:30",
+      "end_time": "11:00",
+      "episode_description": "Economistas, formuladores de políticas públicas, acadêmicos, intelectuais e parlamentares analisam questões da economia nacional e internacional."
+    },
+    {
+      "show_name": "Assunto de Estado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_assunto-de-estado_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "11:00",
+      "end_time": "11:30",
+      "episode_description": "Espaço para que senadores comentem questões regionais e locais e preste contas aos eleitores."
+    },
+    {
+      "show_name": "Diálogos com TCU",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "11:30",
+      "end_time": "12:00",
       "episode_description": "Programa reúne convidados com atuação reconhecida para discutir temas atuais ligados ao uso de recursos públicos no Brasil."
     },
     {
       "show_name": "TV Senado Live",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/today/br_tv-senado-live_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tv-senado-live_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "09:00",
-      "end_time": "09:30",
+      "start_time": "12:00",
+      "end_time": "12:30",
       "episode_description": "Veja entrevistas com a participação do público sobre os grandes temas em pauta no país."
     },
     {
-      "show_name": "Sessão Plenária",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/today/br_sess-o-plenaria-1_l_m.webp",
+      "show_name": "Parlamento Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "09:30",
+      "start_time": "12:30",
+      "end_time": "13:00",
+      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
+    },
+    {
+      "show_name": "EcoSenado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ecosenado-1_l_m.jpg",
+      "show_category": "Environment",
+      "start_time": "13:00",
       "end_time": "13:30",
-      "episode_description": "Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade."
+      "episode_description": "Assuntos relevantes e impactam o meio ambiente com participação de especialistas, políticos, biólogos e lideranças comunitárias."
     },
     {
       "show_name": "Senado Notícias",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/today/br_senado-noticias_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_senado-noticias_l_m.jpg",
       "show_category": "Politics",
       "start_time": "13:30",
       "end_time": "14:00",
       "episode_description": "Acompanhe as últimas notícias do Senado, entre as transmissões ao vivo das reuniões das comissões, do plenário e os programas de grade da emissora."
     },
     {
-      "show_name": "Reunião de Comissão",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/today/br_reuni-o-de-comiss-o_l_m.webp",
-      "show_category": "Politics",
+      "show_name": "Galáxias - Olhares Sobre o Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_galaxias-olhares-sobre-o-brasil_l_m.jpg",
+      "show_category": "Educational",
       "start_time": "14:00",
-      "end_time": "19:30",
-      "episode_description": "Acompanhe as comissões do Senado Federal no Congresso Nacional do Brasil."
+      "end_time": "14:30",
+      "episode_description": "Saiba como se formaram os diferentes padrões de identidade nacional do Brasil ao longo do tempo e o quanto a enorme diversidade de raças, costumes e cenários do país torna complexa, talvez impossível, a tarefa de definir o povo brasileiro."
     },
     {
-      "show_name": "Senado Notícias",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/today/br_senado-noticias_l_m.webp",
-      "show_category": "Politics",
+      "show_name": "Leituras",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_leituras_l_m.jpg",
+      "show_category": "Art",
+      "start_time": "14:30",
+      "end_time": "15:00",
+      "episode_description": "Análise e divulgação da literatura brasileira. Entrevistas com escritores e análises de obras literárias, com espaço para todas as correntes criativas."
+    },
+    {
+      "show_name": "Espaço Cultural",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_espaco-cultural-1_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "15:00",
+      "end_time": "16:00",
+      "episode_description": "O programa apresenta diversos eventos culturais como teatro, música e outras formas de expressão do povo brasileiro."
+    },
+    {
+      "show_name": "Habitar/Habitat",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_habitar-habitat_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "episode_description": "O programa mostra o cotidiano dos militares em três faróis brasileiros: Farol Cabo Frio, na Ilha de Cabo Frio, Rio de Janeiro; Farol de São Tomé, Campo de Goytacazes, Rio de Janeiro e Farol de Abrolhos, Ilha de Santa Bárbara, Bahia."
+    },
+    {
+      "show_name": "EcoSenado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ecosenado-1_l_m.jpg",
+      "show_category": "Environment",
+      "start_time": "17:00",
+      "end_time": "17:30",
+      "episode_description": "Assuntos relevantes e impactam o meio ambiente com participação de especialistas, políticos, biólogos e lideranças comunitárias."
+    },
+    {
+      "show_name": "Outras Terras, Outras Gentes",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_outras-terras-outras-gentes_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "17:30",
+      "end_time": "18:00",
+      "episode_description": "O documentário abrange províncias e grupos invisibilizados que também se envolveram na Confederação do Equador."
+    },
+    {
+      "show_name": "Concertos em Geral",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_concertos-em-geral_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "episode_description": "Interpretações de grandes obras da música clássica universal, com informações e curiosidades sobre os instrumentos, a vida e a obra dos compositores."
+    },
+    {
+      "show_name": "Leituras",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_leituras_l_m.jpg",
+      "show_category": "Art",
+      "start_time": "19:00",
+      "end_time": "19:30",
+      "episode_description": "Análise e divulgação da literatura brasileira. Entrevistas com escritores e análises de obras literárias, com espaço para todas as correntes criativas."
+    },
+    {
+      "show_name": "Deu Bola",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_deu-bola_l_m.jpg",
+      "show_category": "Soccer",
       "start_time": "19:30",
       "end_time": "20:00",
-      "episode_description": "Acompanhe as últimas notícias do Senado, entre as transmissões ao vivo das reuniões das comissões, do plenário e os programas de grade da emissora."
+      "episode_description": "Uma visita à Aldeia Tenonde Porã para investigar como acontece o futebol entre homens e mulheres indígenas da etnia guarani, nos times Família Tenondé e Dragões."
     },
     {
-      "show_name": "Parlamento Brasil",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/today/br_parlamento-brasil_l_m.webp",
-      "show_category": "Politics",
+      "show_name": "Espaço Cultural",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_espaco-cultural-1_l_m.jpg",
+      "show_category": "Music",
       "start_time": "20:00",
-      "end_time": "20:30",
-      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
-    },
-    {
-      "show_name": "TV Senado Live",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/today/br_tv-senado-live_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "20:30",
       "end_time": "21:00",
-      "episode_description": "Veja entrevistas com a participação do público sobre os grandes temas em pauta no país."
+      "episode_description": "O programa apresenta diversos eventos culturais como teatro, música e outras formas de expressão do povo brasileiro."
     },
     {
-      "show_name": "Cleo",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/today/br_cleo_l_m.webp",
-      "show_category": "Special",
+      "show_name": "A Dupla Jornada",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-dupla-jornada-1976_l_m.jpg",
+      "show_category": "Documentary / 1976",
       "start_time": "21:00",
-      "end_time": "21:59",
-      "episode_description": "Um breve retrato da vida e obra de Cleonice Berardinelli, ou simplesmente Dona Cleo, imortal da Academia Brasileira de Letras e uma das maiores intelectuais brasileiras."
+      "end_time": "21:58",
+      "episode_description": "Filmado em fábricas no México e na Argentina, e em minas na Bolívia e Venezuela, o filme examina as condições da mão de obra feminina como força de trabalho na América Latina."
     },
     {
-      "show_name": "As Várias Vidas de Tânia",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/today/br_as-varias-vidas-de-tania_l_m.webp",
+      "show_name": "Senado, a História que Transformou o Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_senado-a-historia-que-transformou-o-brasil_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "21:58",
+      "end_time": "22:55",
+      "episode_description": "Senado é palco de disputas históricas pela igualdade de gênero. Mesmo sendo minoria, mulheres conquistam direitos importantes."
+    },
+    {
+      "show_name": "Quem me Representa?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-me-representa_l_m.jpg",
       "show_category": "Special",
-      "start_time": "21:59",
-      "end_time": "22:40",
-      "episode_description": "A vida e a obra da alagoana Tânia de Maya Pedrosa, artista autodidata e colecionadora de arte popular brasileira."
+      "start_time": "22:55",
+      "end_time": "23:25",
+      "episode_description": "Uma discussão sobre representatividade de eleitores, movimentos sociais e organizações no Congresso."
     },
     {
-      "show_name": "Maria Luiza",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/today/br_maria-luiza-2020_l_m.webp",
-      "show_category": "Documentary / 2020 /9.0",
-      "start_time": "22:40",
+      "show_name": "Tela Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tela-brasil_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "23:25",
       "end_time": "00:00",
-      "episode_description": "Maria Luiza da Silva é a primeira transexual na história das Forças Armadas brasileiras. Após 22 anos de trabalho como militar, foi aposentada por invalidez. Conheça as motivações para impedi-la de vestir a farda feminina e a sua trajetória de afirmação como mulher trans, militar e católica."
+      "episode_description": "O programa mostra o folclore, artes, músicas e religiões do Brasil."
     }
   ]
 }

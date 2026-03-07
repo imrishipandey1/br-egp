@@ -3,100 +3,124 @@
   "date": "08/03/2026",
   "schedule": [
     {
-      "show_name": "Resistência",
-      "show_logo": "/wp-content/uploads/downloaded-images/telecine-premium/tomorrow/br_resistencia-2023_l_m.webp",
-      "show_category": "Science fiction / 2023",
-      "start_time": "01:20",
-      "end_time": "03:35",
-      "episode_description": "Em um futuro de guerra entre humanos e inteligência artificial, um ex-agente das forças especiais que sofre pelo desaparecimento de sua esposa é recrutado para matar um arquiteto de IA que desenvolveu uma arma que pode eliminar a humanidade."
-    },
-    {
-      "show_name": "Cidade; Campo",
-      "show_logo": "/wp-content/uploads/downloaded-images/telecine-premium/tomorrow/br_cidade-campo-2024_l_m.webp",
-      "show_category": "Drama / 2024",
-      "start_time": "03:35",
-      "end_time": "05:45",
-      "episode_description": "Após o rompimento de uma barragem inundar sua terra natal, a trabalhadora rural Joana se muda para São Paulo para encontrar sua irmã Tânia. Flávia se muda com Mara, sua companheira, para a fazenda que herdou do pai, falecido recentemente. A natureza obriga as duas mulheres a enfrentar frustrações e lidar com memórias e fantasmas."
-    },
-    {
-      "show_name": "Os Mortos Não Matam",
-      "show_logo": "/wp-content/uploads/downloaded-images/telecine-premium/tomorrow/br_os-mortos-n-o-matam-2023_l_m.webp",
-      "show_category": "Western / 2023",
-      "start_time": "05:45",
-      "end_time": "05:45",
-      "episode_description": "Vivienne é uma mulher forte e independente que conhece Holger, um imigrante dinamarquês. Os dois se apaixonam perdidamente, mas a decisão dele de lutar na Guerra Civil acaba os afastando."
-    },
-    {
-      "show_name": "Os Mortos Não Matam",
-      "show_logo": "/wp-content/uploads/downloaded-images/telecine-premium/tomorrow/br_os-mortos-n-o-matam-2023_l_m.webp",
-      "show_category": "Western / 2023",
-      "start_time": "05:45",
-      "end_time": "08:00",
-      "episode_description": "Vivienne é uma mulher forte e independente que conhece Holger, um imigrante dinamarquês. Os dois se apaixonam perdidamente, mas a decisão dele de lutar na Guerra Civil acaba os afastando."
-    },
-    {
-      "show_name": "Os Peludos",
-      "show_logo": "/wp-content/uploads/downloaded-images/telecine-premium/tomorrow/br_os-peludos-2022_l_m.webp",
-      "show_category": "Children / 2022",
-      "start_time": "08:00",
-      "end_time": "09:35",
-      "episode_description": "Os Peludos são criaturas mágicas invisíveis que vivem nas casas dos humanos. Seu objetivo é trazer harmonia e ordem aos lares. Cristina e seus pais se mudam para a casa de Finnick, um Peludo rebelde que não liga para arrumação e só quer viver sozinho e em paz. Contudo, a garota acaba descobrindo a existência de Finnick, que odiou ser arrancado de sua vida tranquila. Mas uma ameaça se aproxima da cidade, forçando Cristina e seu Peludo a trabalharem juntos."
-    },
-    {
-      "show_name": "Cama de Gato",
-      "show_logo": "/wp-content/uploads/downloaded-images/telecine-premium/tomorrow/br_cama-de-gato-2023_l_m.webp",
-      "show_category": "Thriller / 2023",
-      "start_time": "09:35",
-      "end_time": "11:35",
-      "episode_description": "Margot se envolve com Robert, um homem mais velho que vai frequentemente ao cinema onde ela trabalha. Essa breve relação termina, mas ele não aceita muito bem, mostrando que não é quem parecia ser."
-    },
-    {
-      "show_name": "Minha Família Quer que Eu Case",
-      "show_logo": "/wp-content/uploads/downloaded-images/telecine-premium/tomorrow/br_minha-familia-quer-que-eu-case-2022_l_m.webp",
-      "show_category": "Romantic comedy / 2022",
-      "start_time": "11:35",
-      "end_time": "13:30",
-      "episode_description": "Uma cineasta viciada em aplicativos de relacionamento acompanha o casamento arranjado de seu amigo de infância. No processo, ela começa a questionar sua própria visão sobre o amor."
-    },
-    {
-      "show_name": "Missão Resgate",
-      "show_logo": "/wp-content/uploads/downloaded-images/telecine-premium/tomorrow/br_miss-o-resgate-2021_l_m.webp",
-      "show_category": "Action / 2021",
-      "start_time": "13:30",
-      "end_time": "15:25",
-      "episode_description": "Após o desmoronamento de uma mina de diamantes, Mike McCann, um experiente motorista de caminhão, é recrutado por Jim Goldenrod para liderar uma missão de resgate. Ele e sua equipe têm apenas 30 horas para transportarem uma enorme carga sobre rios congelados e tentarem salvar a vida dos mineradores soterrados."
-    },
-    {
-      "show_name": "Os Enforcados",
-      "show_logo": "/wp-content/uploads/downloaded-images/telecine-premium/tomorrow/br_os-enforcados-2024_l_m.webp",
-      "show_category": "Drama / 2024",
-      "start_time": "15:25",
-      "end_time": "17:35",
-      "episode_description": "Um casal feliz procura por uma saída do negócio criminoso da família. No entanto, os seus esforços os empurram cada vez mais para o buraco do qual esperavam escapar."
-    },
-    {
-      "show_name": "Meu Pai É um Perigo",
-      "show_logo": "/wp-content/uploads/downloaded-images/telecine-premium/tomorrow/br_meu-pai-e-um-perigo-2023_l_m.webp",
-      "show_category": "Comedy / 2023",
-      "start_time": "17:35",
-      "end_time": "19:10",
-      "episode_description": "Sebastian e o pai passam um fim de semana inesquecível com a família peculiar de sua noiva."
-    },
-    {
-      "show_name": "John Wick 4: Baba Yaga",
-      "show_logo": "/wp-content/uploads/downloaded-images/telecine-premium/tomorrow/br_john-wick-4-baba-yaga-2023_l_m.webp",
+      "show_name": "Farejando Vingança",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_farejando-vinganca-2023_l_m.jpg",
       "show_category": "Action / 2023",
-      "start_time": "19:10",
-      "end_time": "22:00",
-      "episode_description": "O ex-assassino de aluguel John Wick é procurado pelo mundo todo e a recompensa por sua captura aumenta cada vez mais. Wick descobre um caminho para derrotar a Alta Cúpula, mas antes de conquistar sua liberdade, ele precisa enfrentar um novo inimigo com alianças poderosas e forças que transformam velhos amigos em inimigos."
+      "start_time": "00:15",
+      "end_time": "02:00",
+      "episode_description": "Depois que seu cachorro e parceiro é morto, um policial mergulha em um submundo sinistro para descobrir a verdade sobre os responsáveis."
     },
     {
-      "show_name": "Enterre Seus Mortos",
-      "show_logo": "/wp-content/uploads/downloaded-images/telecine-premium/tomorrow/br_enterre-seus-mortos-2024_l_m.webp",
+      "show_name": "Corsage",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_corsage-2022_l_m.jpg",
+      "show_category": "Historical drama / 2022 /6.6",
+      "start_time": "02:00",
+      "end_time": "04:05",
+      "episode_description": "Elizabeth da Áustria é idolatrada por sua beleza e por inspirar tendências de moda. Em 1877, completa 40 anos e é oficialmente considerada velha. Em nome de sua vaidade, ela luta para proteger sua imagem pública e manter seu espartilho mais apertado."
+    },
+    {
+      "show_name": "Um Homem Implacável",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_um-homem-implacavel-2022_l_m.jpg",
+      "show_category": "Action / 2022",
+      "start_time": "04:05",
+      "end_time": "05:50",
+      "episode_description": "Após cumprir dez anos de prisão, Su-hyuk descobre que tem uma filha e decide deixar sua vida antiga para trás. Mas seu antigo chefe não aceita bem a ideia e decide sequestrá-la."
+    },
+    {
+      "show_name": "Mussum, o Filmis",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mussum-o-filmis-2023_l_m.jpg",
+      "show_category": "Biography / 2023",
+      "start_time": "05:50",
+      "end_time": "05:50",
+      "episode_description": "A trajetória de Antônio Carlos Bernardes Gomes, o Mussum, dos Trapalhões. A infância pobre, a carreira militar, a relação com a Mangueira e o sucesso com o grupo Originais do Samba, além dos bastidores como integrante dos Trapalhões."
+    },
+    {
+      "show_name": "Mussum, o Filmis",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mussum-o-filmis-2023_l_m.jpg",
+      "show_category": "Biography / 2023",
+      "start_time": "05:50",
+      "end_time": "08:00",
+      "episode_description": "A trajetória de Antônio Carlos Bernardes Gomes, o Mussum, dos Trapalhões. A infância pobre, a carreira militar, a relação com a Mangueira e o sucesso com o grupo Originais do Samba, além dos bastidores como integrante dos Trapalhões."
+    },
+    {
+      "show_name": "Assim É a Vida",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_assim-e-a-vida-2020_l_m.jpg",
+      "show_category": "Comedy / 2020",
+      "start_time": "08:00",
+      "end_time": "09:50",
+      "episode_description": "Cinco mulheres, desconhecidas entre si, experienciam juntas a emoção do parto em uma maternidade e, entre risos e lágrimas, vivem o melhor dia de suas vidas."
+    },
+    {
+      "show_name": "Meu Pai",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_meu-pai-2020_l_m.jpg",
+      "show_category": "Drama / 2020",
+      "start_time": "09:50",
+      "end_time": "11:35",
+      "episode_description": "Homem recusa toda a ajuda de sua filha à medida que envelhece. Ele começa a duvidar dos entes queridos, de sua própria mente e de sua realidade ao tentar compreender as mudanças que estão acontecendo em sua vida."
+    },
+    {
+      "show_name": "Diablo - Caçada Mortal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_diablo-cacada-mortal-2025_l_m.jpg",
+      "show_category": "Action / 2025",
+      "start_time": "11:35",
+      "end_time": "13:15",
+      "episode_description": "Um ex-presidiário sequestra a filha de um poderoso gângster. Ele não imagina que está entrando no caminho de um serial killer psicopata."
+    },
+    {
+      "show_name": "Preview",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_preview_l_m.jpg",
+      "show_category": "Entertainment",
+      "start_time": "13:15",
+      "end_time": "13:20",
+      "episode_description": "Acompanhe matérias especiais sobre o mundo da sétima arte, o cinema."
+    },
+    {
+      "show_name": "Megalópolis",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_megalopolis-2024_l_m.jpg",
+      "show_category": "Drama / 2024 /4.7",
+      "start_time": "13:20",
+      "end_time": "15:45",
+      "episode_description": "César Catilina, um arquiteto idealista que quer construir a cidade dos sonhos, tem como grande rival o ganancioso prefeito Franklin Cicero, cuja filha Júlia se vê dividida entre a lealdade ao pai e o amor por César."
+    },
+    {
+      "show_name": "Pureza",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pureza-2019_l_m.jpg",
+      "show_category": "Drama / 2019",
+      "start_time": "15:45",
+      "end_time": "17:35",
+      "episode_description": "Pureza arruma um emprego em uma fazenda e acaba testemunhando o tratamento brutal de trabalhadores rurais escravizados. Agora, além de buscar pelo filho desaparecido, ela precisa escapar de lá e informar as autoridades sobre as atrocidades."
+    },
+    {
+      "show_name": "Ainda Estou Aqui",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ainda-estou-aqui-2024_l_m.jpg",
       "show_category": "Drama / 2024",
+      "start_time": "17:35",
+      "end_time": "20:00",
+      "episode_description": "No início da década de 1970, o Brasil enfrenta o endurecimento da ditadura militar. No Rio de Janeiro, a família Paiva, formada pelo casal Rubens e Eunice e seus cinco filhos, vive à beira da praia em uma casa de portas abertas para os amigos. Um dia, Rubens é levado por militares à paisana e desaparece. Sua esposa é então obrigada a se reinventar e traçar um novo futuro para si e seus filhos enquanto tenta descobrir a verdade sobre o destino do marido, uma busca que se estenderia por décadas."
+    },
+    {
+      "show_name": "Vitória",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vitoria-2025_l_m.jpg",
+      "show_category": "Crime drama / 2025",
+      "start_time": "20:00",
+      "end_time": "22:00",
+      "episode_description": "Vitória é uma senhora solitária que, aflita com a violência que passa a tomar conta da sua vizinhança, começa a filmar da janela de seu apartamento. A idosa registra a movimentação de traficantes de drogas da região durante meses, com a intenção de cooperar com o trabalho da polícia. A atitude consegue chamar a atenção de um jornalista, que faz amizade com Vitória e tenta ajudá-la nessa missão."
+    },
+    {
+      "show_name": "Farejando Vingança 2 - Cidade dos Lobos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_farejando-vinganca-2-cidade-dos-lobos-2025_l_m.jpg",
+      "show_category": "Action / 2025",
       "start_time": "22:00",
+      "end_time": "23:40",
+      "episode_description": "Com um novo parceiro canino, um homem busca justiça depois que uma gangue ataca sua família."
+    },
+    {
+      "show_name": "Meninas Malvadas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_meninas-malvadas-2024_l_m.jpg",
+      "show_category": "Musical comedy / 2024",
+      "start_time": "23:40",
       "end_time": "",
-      "episode_description": "Edgar trabalha recolhendo animais mortos de uma pequena cidade junto com Tomás, um ex-padre. Edgar tem uma relação com sua chefe, Nete e os dois pensam em deixar o lugar. Ao redor deles, o mundo dá sinais de que o dia do juízo se aproxima."
+      "episode_description": "Uma nova estudante é recebida no topo da cadeia social por um grupo de elite de garotas populares chamadas as Plásticas. No entanto, quando ela comete o erro de se apaixonar pelo ex-namorado da rainha do grupo, ela se vê na mira delas."
     }
   ]
 }

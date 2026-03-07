@@ -3,308 +3,356 @@
   "date": "08/03/2026",
   "schedule": [
     {
-      "show_name": "Polícia em Ação",
-      "show_logo": "/wp-content/uploads/downloaded-images/a-e/tomorrow/br_policia-em-ac-o-s05e09_l_m.webp",
-      "show_category": "Temporada 5 Episódio 9",
-      "start_time": "00:17",
-      "end_time": "00:38",
-      "episode_description": "Um olhar sem filtro para o trabalho operacional de departamentos de polícia por todos os EUA."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "/wp-content/uploads/downloaded-images/a-e/tomorrow/br_policia-em-ac-o-s05e10_l_m.webp",
-      "show_category": "Temporada 5 Episódio 10",
-      "start_time": "00:38",
-      "end_time": "01:00",
-      "episode_description": "Um olhar sem filtro para o trabalho operacional de departamentos de polícia por todos os EUA."
-    },
-    {
-      "show_name": "Falco",
-      "show_logo": "/wp-content/uploads/downloaded-images/a-e/tomorrow/br_falco-s03e08-vox-populi_l_m.webp",
-      "show_category": "Temporada 3 Episódio 8 - Vox populi",
-      "start_time": "01:00",
-      "end_time": "01:51",
-      "episode_description": "Eléonore, que Falco tinha escondido, retorna. Ela está determinada a entender quem manipulou o passado deles e por quê. Mas Falco não pode, ao mesmo tempo, investigar e protegê-la. As escolhas de Eléonore acabam colocando os dois em perigo."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "/wp-content/uploads/downloaded-images/a-e/tomorrow/br_policia-em-ac-o-s04e01_l_m.webp",
-      "show_category": "Temporada 4 Episódio 1",
-      "start_time": "01:51",
-      "end_time": "02:12",
-      "episode_description": "Um olhar sem filtros sobre departamentos de polícia em ação. Drogas são testadas em campo em Washington. As calças de um velho caem em Nevada. Um homem com tatuagens terríveis é preso no Texas."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "/wp-content/uploads/downloaded-images/a-e/tomorrow/br_policia-em-ac-o-s04e02_l_m.webp",
-      "show_category": "Temporada 4 Episódio 2",
-      "start_time": "02:12",
-      "end_time": "02:33",
-      "episode_description": "Jantar e correria na Carolina do Sul, um intruso no Missouri e um homem preso por maconha no Texas."
-    },
-    {
-      "show_name": "Me Diga Como Morri",
-      "show_logo": "/wp-content/uploads/downloaded-images/a-e/tomorrow/br_me-diga-como-morri-s01e08-desaparecimento_l_m.webp",
-      "show_category": "Temporada 1 Episódio 8 - Desaparecimento",
-      "start_time": "02:33",
-      "end_time": "03:18",
-      "episode_description": "Um estudante universitário da Geórgia desaparece após seu turno na farmácia e polícia abre investigação sobre possível crime de ódio e sequestro. O Dr. Jamie Downs descobre diversas evidências que levam o caso em uma direção nova e surpreendente."
-    },
-    {
-      "show_name": "Acumuladores Compulsivos",
-      "show_logo": "/wp-content/uploads/downloaded-images/a-e/tomorrow/br_acumuladores-compulsivos-s13e03-paul_l_m.webp",
-      "show_category": "Temporada 13 Episódio 3 - Paul",
-      "start_time": "03:18",
-      "end_time": "04:06",
-      "episode_description": "Após a trágica perda de seu parceiro, Paul lidou com a dor coletando itens para usar em seu negócio de design de interiores."
-    },
-    {
-      "show_name": "Acumuladores Compulsivos",
-      "show_logo": "/wp-content/uploads/downloaded-images/a-e/tomorrow/br_acumuladores-compulsivos_l_m.webp",
-      "show_category": "Reality",
-      "start_time": "04:06",
-      "end_time": "04:54",
-      "episode_description": "Após uma decepção amorosa, problemas de saúde e a falta de abastecimento de água em casa, Marta começa a descuidar da sua higiene pessoal e acumular lixo."
-    },
-    {
-      "show_name": "Guerra no Trânsito",
-      "show_logo": "/wp-content/uploads/downloaded-images/a-e/tomorrow/br_guerra-no-transito-s01e09-bebe-a-bordo_l_m.webp",
-      "show_category": "Temporada 1 Episódio 9 - Bebê a Bordo",
-      "start_time": "04:54",
-      "end_time": "05:16",
-      "episode_description": "Dois homens tentam roubar um carro em um lava-jato na Louisiana; um adolescente utiliza um estacionamento do Alabama para realizar manobras perigosas; um motorista imprudente bate em um motociclista e em um carro com um bebê no Texas; um gatinho enfrenta o trânsito da hora do rush em Oklahoma."
-    },
-    {
-      "show_name": "Guerra no Trânsito",
-      "show_logo": "/wp-content/uploads/downloaded-images/a-e/tomorrow/br_guerra-no-transito-s01e10-caminho-errado_l_m.webp",
-      "show_category": "Temporada 1 Episódio 10 - Caminho Errado",
-      "start_time": "05:16",
-      "end_time": "05:38",
-      "episode_description": "Em Washington, uma discussão sobre regras de trânsito termina com diversos tiros; um motorista querendo brigar leva seus amigos ao limite; um motorista em um SUV persegue alguém que supostamente quebrou seu vidro traseiro."
-    },
-    {
-      "show_name": "Clientes em Guerra",
-      "show_logo": "/wp-content/uploads/downloaded-images/a-e/tomorrow/br_clientes-em-guerra-s01e01-vai-tudo-pro-ch-o_l_m.webp",
-      "show_category": "Temporada 1 Episódio 1 - Vai Tudo pro Chão!",
-      "start_time": "05:38",
-      "end_time": "06:00",
-      "episode_description": "Uma mulher furiosa vandaliza uma loja; um policial usa seu taser para neutralizar uma mulher com uma faca no meio de um supermercado; uma idosa canadense frustra os planos de um ladrão."
-    },
-    {
-      "show_name": "Acumuladores Compulsivos",
-      "show_logo": "/wp-content/uploads/downloaded-images/a-e/tomorrow/br_acumuladores-compulsivos-s16e01-tim_l_m.webp",
-      "show_category": "Temporada 16 Episódio 1 - Tim",
-      "start_time": "06:00",
-      "end_time": "07:31",
-      "episode_description": "Tim é um amante de carros e muito habilidoso com a mecânica. Porém, após perder a sua primeira casa em um incêndio, ele começou a acumular veículos e peças para lidar com o seu sentimento de perda. Agora, sua esposa quer que ele limpe a bagunça."
-    },
-    {
-      "show_name": "Casos Arquivados",
-      "show_logo": "/wp-content/uploads/downloaded-images/a-e/tomorrow/br_casos-arquivados-s02e01-a-voz-no-lago_l_m.webp",
-      "show_category": "Temporada 2 Episódio 1 - A Voz no Lago",
-      "start_time": "07:31",
-      "end_time": "08:17",
-      "episode_description": "O avaliador imobiliário Mike Williams, de 31 anos, desaparece misteriosamente enquanto caçava patos nos pântanos da Flórida em dezembro de 2000. As autoridades suspeitam que ele tenha se afogado acidentalmente. Por 16 anos, o desaparecimento de Mike permanece um mistério. O caso esquenta quando a polícia recebe um pedido de socorro da esposa da vítima em 2016."
-    },
-    {
-      "show_name": "Casos Arquivados",
-      "show_logo": "/wp-content/uploads/downloaded-images/a-e/tomorrow/br_casos-arquivados-s01e09-circulo-de-amigos_l_m.webp",
-      "show_category": "Temporada 1 Episódio 9 - Círculo de Amigos",
-      "start_time": "08:17",
-      "end_time": "09:02",
-      "episode_description": "Em 1989, um pai solteiro chega em casa após o trabalho e descobre que sua filha de 18 anos está desaparecida. A polícia deixa passar horas cruciais sem procurar pela menina, cujo corpo é encontrado dois meses depois por um caçador na floresta."
-    },
-    {
-      "show_name": "As Primeiras 48 Horas - Minutos Críticos",
-      "show_logo": "/wp-content/uploads/downloaded-images/a-e/tomorrow/br_as-primeiras-48-horas-minutos-criticos-s02e01-assassinato-na-familia_l_m.webp",
-      "show_category": "Temporada 2 Episódio 1 - Assassinato na Família",
-      "start_time": "09:02",
-      "end_time": "09:49",
-      "episode_description": "Fique por dentro de três casos em que as famílias são vítimas de tragédias pessoais. Dois primos têm uma briga mortal; um jovem casal desaparece e a casa de seu tio pode ser uma pista crucial; uma mulher ataca brutalmente sua cunhada."
-    },
-    {
-      "show_name": "Clientes em Guerra",
-      "show_logo": "/wp-content/uploads/downloaded-images/a-e/tomorrow/br_clientes-em-guerra_l_m.webp",
-      "show_category": "Reality",
-      "start_time": "09:49",
-      "end_time": "10:12",
-      "episode_description": "Os dez melhores momentos em que clientes irritados receberam um atendimento ruim e não tiveram medo de gritar aos quatro ventos. Quando as expectativas dos clientes não são atendidas, a fúria deles faz o caos reinar nos estabelecimentos."
-    },
-    {
-      "show_name": "Clientes em Guerra",
-      "show_logo": "/wp-content/uploads/downloaded-images/a-e/tomorrow/br_clientes-em-guerra_l_m.webp",
-      "show_category": "Reality",
-      "start_time": "10:12",
-      "end_time": "10:35",
-      "episode_description": "Os dez melhores momentos em que clientes irritados receberam um atendimento ruim e não tiveram medo de gritar aos quatro ventos. Quando as expectativas dos clientes não são atendidas, a fúria deles faz o caos reinar nos estabelecimentos."
-    },
-    {
-      "show_name": "O Jogo da Espera",
-      "show_logo": "/wp-content/uploads/downloaded-images/a-e/tomorrow/br_o-jogo-da-espera-2001_l_m.webp",
-      "show_category": "Drama / 2001",
-      "start_time": "10:35",
-      "end_time": "10:58",
-      "episode_description": "Duas amigas se mudam para uma pequena cidade para realizar o sonho de abrir uma galeria de arte. Mas quando dois estranhos entram em suas vidas, um escândalo envolvendo o tráfico de drogas e a CIA explode no meio do romance."
-    },
-    {
-      "show_name": "Clientes em Guerra",
-      "show_logo": "/wp-content/uploads/downloaded-images/a-e/tomorrow/br_clientes-em-guerra_l_m.webp",
-      "show_category": "Reality",
-      "start_time": "10:58",
-      "end_time": "11:21",
-      "episode_description": "Os dez melhores momentos em que clientes irritados receberam um atendimento ruim e não tiveram medo de gritar aos quatro ventos. Quando as expectativas dos clientes não são atendidas, a fúria deles faz o caos reinar nos estabelecimentos."
-    },
-    {
       "show_name": "Quem Dá Mais?",
-      "show_logo": "/wp-content/uploads/downloaded-images/a-e/tomorrow/br_quem-da-mais-s15e06-objetos-ritualisticos-judaicos_l_m.webp",
-      "show_category": "Temporada 15 Episódio 6 - Objetos Ritualísticos Judaicos",
-      "start_time": "11:21",
-      "end_time": "11:44",
-      "episode_description": "Lancaster se transforma no terreno de caça ideal de Ivy; Lisa utiliza todo o poder do cérebro para escolher o armário correto; Dusty e um de seus amigos fazem uma boa ação."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "/wp-content/uploads/downloaded-images/a-e/tomorrow/br_quem-da-mais-s15e11-manifesto-ao-universo_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s15e11-manifesto-ao-universo_l_m.jpg",
       "show_category": "Temporada 15 Episódio 11 - Manifesto ao Universo",
-      "start_time": "11:44",
-      "end_time": "12:07",
+      "start_time": "00:09",
+      "end_time": "00:32",
       "episode_description": "Brandi está decidida a conquistar de vez um armário em Santa Ana, mas terá que conter sua vontade. René vê uma pilha de objetos em um contêiner que está chamando por ele. Kenny expõe suas necessidades ao universo e Barry luta para permanecer no jogo."
     },
     {
       "show_name": "Quem Dá Mais?",
-      "show_logo": "/wp-content/uploads/downloaded-images/a-e/tomorrow/br_quem-da-mais-s15e13-brandi-em-san-bernardino_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s15e13-brandi-em-san-bernardino_l_m.jpg",
       "show_category": "Temporada 15 Episódio 13 - Brandi em San Bernardino",
-      "start_time": "12:07",
-      "end_time": "12:30",
+      "start_time": "00:32",
+      "end_time": "00:54",
       "episode_description": "Brandi está animada para expandir sua marca na sede de San Bernardino. Entretanto, a paranoia de René atinge novos limites e ele sente que todos conspiram contra ele. Dusty ataca um contêiner coberto de poeira e Kenny se mete em problemas sozinho."
     },
     {
       "show_name": "Quem Dá Mais?",
-      "show_logo": "/wp-content/uploads/downloaded-images/a-e/tomorrow/br_quem-da-mais-s15e14-amor-de-avo_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s15e14-amor-de-avo_l_m.jpg",
       "show_category": "Temporada 15 Episódio 14 - Amor de Avô",
-      "start_time": "12:30",
-      "end_time": "12:53",
+      "start_time": "00:54",
+      "end_time": "01:16",
       "episode_description": "Lisa retorna a Moreno Valley, onde tudo começou, e fica saudosa com seu contêiner. Enquanto isso, Kenny pretende dar as boas-vindas a uma nova neta no clã com o contêiner correto. Por outro lado, Dusty e Lupe se esforçam um pouco mais na compra."
     },
     {
       "show_name": "Quem Dá Mais?",
-      "show_logo": "/wp-content/uploads/downloaded-images/a-e/tomorrow/br_quem-da-mais-s15e15-cordas-e-feij-es_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s15e15-cordas-e-feij-es_l_m.jpg",
       "show_category": "Temporada 15 Episódio 15 - Cordas e Feijões",
-      "start_time": "12:53",
-      "end_time": "13:16",
+      "start_time": "01:16",
+      "end_time": "01:38",
       "episode_description": "Em Stanton, Ivy assume o papel de supervisora, Brandi ajuda Danielle com sua nova casa; Lisa arrisca tudo por uma pintura."
     },
     {
       "show_name": "Quem Dá Mais?",
-      "show_logo": "/wp-content/uploads/downloaded-images/a-e/tomorrow/br_quem-da-mais-s15e16-compre-ou-fique-quieto_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s15e16-compre-ou-fique-quieto_l_m.jpg",
       "show_category": "Temporada 15 Episódio 16 - Compre ou Fique Quieto",
-      "start_time": "13:16",
-      "end_time": "13:39",
+      "start_time": "01:38",
+      "end_time": "02:00",
       "episode_description": "Dusty e Lupe vão pedalando até Fullerton; Darrell acaba indo para uma unidade pequena; René pega um contêiner de lua de mel."
     },
     {
       "show_name": "Quem Dá Mais?",
-      "show_logo": "/wp-content/uploads/downloaded-images/a-e/tomorrow/br_quem-da-mais-s15e17-pedra-papel-e-um-ganhador_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s15e17-pedra-papel-e-um-ganhador_l_m.jpg",
       "show_category": "Temporada 15 Episódio 17 - Pedra, Papel e um Ganhador",
-      "start_time": "13:39",
-      "end_time": "14:02",
+      "start_time": "02:00",
+      "end_time": "02:21",
       "episode_description": "Günther acompanha René para ajudá-lo, mas ele não parece interessado em suas opiniões; Darrell tenta fazer de Kimber sua rainha; Ivy e seus filhos brincam de pedra, papel e tesoura para decidir os próximos passos."
     },
     {
       "show_name": "Quem Dá Mais?",
-      "show_logo": "/wp-content/uploads/downloaded-images/a-e/tomorrow/br_quem-da-mais-s15e18-da-pra-dar-lances-na-floresta_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s15e18-da-pra-dar-lances-na-floresta_l_m.jpg",
       "show_category": "Temporada 15 Episódio 18 - Dá pra Dar Lances na Floresta?",
-      "start_time": "14:02",
-      "end_time": "14:25",
+      "start_time": "02:21",
+      "end_time": "02:43",
       "episode_description": "Kenny decide ir para as montanhas, no entanto, deve ficar alerta para escapar das garras das panteras; Lisa encontra uma irmãzinha de contêiner; Brandi recebe a nominação de compradora da semana."
     },
     {
       "show_name": "Quem Dá Mais?",
-      "show_logo": "/wp-content/uploads/downloaded-images/a-e/tomorrow/br_quem-da-mais-s15e19-a-california-entende-de-ceramica_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s15e19-a-california-entende-de-ceramica_l_m.jpg",
       "show_category": "Temporada 15 Episódio 19 - A Califórnia Entende de Cerâmica",
-      "start_time": "14:25",
-      "end_time": "14:48",
+      "start_time": "02:43",
+      "end_time": "03:05",
       "episode_description": "Ivy sequestra Pops e o força a acompanhá-lo até o quartel-general de Rosamond, onde usam suas habilidades para obter um contêiner. Kenny pretende alegrar o dia de todos, mas suas travessuras o levam a ver estrelas. Lisa prova que ainda tem uma amiga."
     },
     {
       "show_name": "Quem Dá Mais?",
-      "show_logo": "/wp-content/uploads/downloaded-images/a-e/tomorrow/br_quem-da-mais-s15e20-se-for-abencoado-tem-que-rezar_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s15e20-se-for-abencoado-tem-que-rezar_l_m.jpg",
       "show_category": "Temporada 15 Episódio 20 - Se For Abençoado Tem que Rezar",
-      "start_time": "14:48",
-      "end_time": "15:11",
+      "start_time": "03:05",
+      "end_time": "03:26",
       "episode_description": "Kenny encontra um veículo familiar e o segue até Lancaster para um leilão. René tenta reencontrar a sorte depois de perder em Las Vegas. Lisa quer se recuperar e os Calvin buscam lucro invocando uma força superior."
     },
     {
       "show_name": "Quem Dá Mais?",
-      "show_logo": "/wp-content/uploads/downloaded-images/a-e/tomorrow/br_quem-da-mais-s15e12-aracnofobia_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s15e12-aracnofobia_l_m.jpg",
       "show_category": "Temporada 15 Episódio 12 - Aracnofobia",
-      "start_time": "15:11",
-      "end_time": "15:34",
+      "start_time": "03:26",
+      "end_time": "03:48",
       "episode_description": "Ivy castiga Isaiah por suas notas baixas na escola com uma visita a Victorville; Kenny busca lucros para ajudá-lo a mobiliar sua nova casa, porém oito obstáculos surgirão no seu caminho; Lisa finalmente aprende uma boa lição."
     },
     {
       "show_name": "Quem Dá Mais?",
-      "show_logo": "/wp-content/uploads/downloaded-images/a-e/tomorrow/br_quem-da-mais-s15e05-eu-amo-a-lupe_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s15e05-eu-amo-a-lupe_l_m.jpg",
       "show_category": "Temporada 15 Episódio 5 - Eu Amo a Lupe!",
-      "start_time": "15:34",
-      "end_time": "15:57",
+      "start_time": "03:48",
+      "end_time": "04:10",
       "episode_description": "Em Rosamond, as mulheres são a grande maioria; Dusty e sua namorada descobrem uma pilha de objetos colecionáveis antigos relacionados à televisão; Brandi pede a ajuda de Danielle e Lisa para conseguir ouro."
     },
     {
-      "show_name": "Me Diga Como Morri",
-      "show_logo": "/wp-content/uploads/downloaded-images/a-e/tomorrow/br_me-diga-como-morri-s01e01-pastor-profano_l_m.webp",
-      "show_category": "Temporada 1 Episódio 1 - Pastor Profano",
-      "start_time": "15:57",
-      "end_time": "16:43",
-      "episode_description": "A segunda esposa de um querido pastor morre em um trágico acidente de carro e com isso, surgem diversas suspeitas sobre a causa da morte de sua primeira esposa. Seu falecimento nunca convenceu o ilustre patologista Dr. Wayne Ross."
+      "show_name": "Acumuladores Compulsivos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos-s16e06-angel_l_m.jpg",
+      "show_category": "Temporada 16 Episódio 6 - Angel",
+      "start_time": "04:10",
+      "end_time": "05:36",
+      "episode_description": "Angel enfrenta uma desordem crescente em sua casa devido aos seus hábitos de compras descontrolados. Agora, sua casa está à beira do colapso, e um problema de água ameaça piorar as condições."
     },
     {
-      "show_name": "Fama e Fentanil",
-      "show_logo": "/wp-content/uploads/downloaded-images/a-e/tomorrow/br_fama-e-fentanil_l_m.webp",
-      "show_category": "Special",
-      "start_time": "16:43",
-      "end_time": "18:12",
-      "episode_description": "Obra expõe o grande drama do fentanil. Mais de 70 mil pessoas morrem a cada ano nos EUA, de celebridades a vítimas anônimas."
+      "show_name": "Guerra no Trânsito",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_guerra-no-transito-s02e01-desastre-na-direc-o_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 1 - Desastre na Direção",
+      "start_time": "05:36",
+      "end_time": "06:00",
+      "episode_description": "Um motociclista chuta um carro causando uma reação em cadeia; um motorista foge logo após ser atropelado; um ciclista e um motorista discutem em Nova York. Um homem da Flórida parado por excesso de velocidade culpa Vladimir Putin."
     },
     {
-      "show_name": "Segredos das Celebridades - Sex Tapes",
-      "show_logo": "/wp-content/uploads/downloaded-images/a-e/tomorrow/br_segredos-das-celebridades-sex-tapes-s01e01-o-nascimento-da-sex-tape_l_m.webp",
-      "show_category": "Temporada 1 Episódio 1 - O Nascimento da Sex Tape",
-      "start_time": "18:12",
-      "end_time": "19:00",
-      "episode_description": "O mercado clandestino de vídeos sexuais ganha popularidade quando os dois primeiros escândalos envolvendo celebridades, Rob Lowe e Jayne Kennedy, causam choque público e constrangimento privado."
+      "show_name": "As Primeiras 48 Horas - Minutos Críticos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_as-primeiras-48-horas-minutos-criticos-s02e01-assassinato-na-familia_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 1 - Assassinato na Família",
+      "start_time": "06:00",
+      "end_time": "06:44",
+      "episode_description": "Fique por dentro de três casos em que as famílias são vítimas de tragédias pessoais. Dois primos têm uma briga mortal; um jovem casal desaparece e a casa de seu tio pode ser uma pista crucial; uma mulher ataca brutalmente sua cunhada."
     },
     {
-      "show_name": "Lila & Eve - Unidas pela Vingança",
-      "show_logo": "/wp-content/uploads/downloaded-images/a-e/tomorrow/br_lila-eve-unidas-pela-vinganca-2015_l_m.webp",
-      "show_category": "Thriller / 2015",
-      "start_time": "19:00",
-      "end_time": "20:35",
-      "episode_description": "Depois da morte sem sentido de seu filho, uma mãe desesperada conhece outra mãe na mesma situação em um grupo de apoio. Elas decidem unir forças para investigar e fazer justiça com as próprias mãos."
+      "show_name": "Casos Arquivados",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_casos-arquivados-s02e05-o-assassino-de-heartland_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 5 - O Assassino de Heartland",
+      "start_time": "06:44",
+      "end_time": "07:29",
+      "episode_description": "Na década de 1980, um suspeito de assassinatos em série atacou mulheres em pequenas cidades localizadas às margens do rio Mississippi, nos EUA, até que os assassinatos cessaram abruptamente e não foram resolvidos."
     },
     {
-      "show_name": "Mais Escuro que a Noite",
-      "show_logo": "/wp-content/uploads/downloaded-images/a-e/tomorrow/br_mais-escuro-que-a-noite-2017_l_m.webp",
-      "show_category": "Thriller / 2017",
-      "start_time": "20:35",
-      "end_time": "22:00",
-      "episode_description": "Um assassino persegue uma garota cega no campo, transformando um final de semana tranquilo em uma luta pela sobrevivência."
+      "show_name": "Casos Arquivados",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_casos-arquivados-s02e07-amor-e-odio_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 7 - Amor e Ódio",
+      "start_time": "07:29",
+      "end_time": "08:14",
+      "episode_description": "Existem cerca de 120 mil casos de assassinato nos Estados Unidos e apenas 1% são resolvidos."
     },
     {
-      "show_name": "Morte por Encomenda",
-      "show_logo": "/wp-content/uploads/downloaded-images/a-e/tomorrow/br_morte-por-encomenda-2010-1_l_m.webp",
-      "show_category": "Mystery / 2010",
-      "start_time": "22:00",
-      "end_time": "23:46",
-      "episode_description": "Um detetive particular é contratado para investigar o desaparecimento de uma dançarina sensual. Porém, o caso começa a ficar complicado quando todas as pessoas interrogadas por ele aparecem mortas, deixando um rastro de violência."
+      "show_name": "Guerra no Trânsito",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_guerra-no-transito-s02e11-motoristas-sem-freio_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 11 - Motoristas sem Freio",
+      "start_time": "08:14",
+      "end_time": "08:39",
+      "episode_description": "Freada brusca causa acidente com moto. Disputa por vaga leva carro a invadir padaria. Resgate de mulher em lago congelado. Jogador de beisebol ajuda veículos a evitar vala e fios elétricos."
+    },
+    {
+      "show_name": "Guerra no Trânsito",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_guerra-no-transito_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "08:39",
+      "end_time": "09:02",
+      "episode_description": "Retrospectiva intensa dos quinze melhores momentos de 2023."
+    },
+    {
+      "show_name": "Guerra no Trânsito",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_guerra-no-transito_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "09:02",
+      "end_time": "09:24",
+      "episode_description": "Retrospectiva intensa dos quinze melhores momentos de 2023."
+    },
+    {
+      "show_name": "Guerra no Trânsito",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_guerra-no-transito_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "09:24",
+      "end_time": "10:09",
+      "episode_description": "Retrospectiva intensa dos quinze melhores momentos de 2023."
+    },
+    {
+      "show_name": "Clientes em Guerra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_clientes-em-guerra-s03e01-n-o-posso-lutar_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 1 - Não Posso Lutar",
+      "start_time": "10:09",
+      "end_time": "10:31",
+      "episode_description": "Em Las Vegas, um motorista de aplicativo e seu passageiro se envolvem em uma discussão acalorada por causa de uma suposta batida de porta. Em Akron, Ohio, uma caixa levanta a blusa e expõe o corpo para um cliente durante uma discussão."
+    },
+    {
+      "show_name": "Clientes em Guerra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_clientes-em-guerra-s03e02-quente-demais_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 2 - Quente Demais",
+      "start_time": "10:31",
+      "end_time": "10:53",
+      "episode_description": "Em Orlando, na Flórida, um passageiro causa um escândalo no corredor após ser solicitado a deixar o avião. Uma caminhonete em um drive-thru foi repentinamente consumida pelas chamas."
+    },
+    {
+      "show_name": "Clientes em Guerra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_clientes-em-guerra-s03e03-mergulho-na-lixeira_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 3 - Mergulho na Lixeira",
+      "start_time": "10:53",
+      "end_time": "11:15",
+      "episode_description": "Em Oakland, Califórnia, uma desavença entre dois funcionários culmina em uma dramática disputa pelos cabelos de um deles. Em um aeroporto do Texas, um passageiro se exalta após ter o embarque negado."
+    },
+    {
+      "show_name": "Clientes em Guerra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_clientes-em-guerra-s03e04-no-cruzeiro_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 4 - No Cruzeiro",
+      "start_time": "11:15",
+      "end_time": "11:37",
+      "episode_description": "Briga irrompe em um restaurante em Miami, Flórida, depois que funcionários atiraram copos em um cliente supostamente problemático. Homem é acusado de roubar os itens que acabara de comprar em uma loja de artigos para o lar porque não pegou o recibo."
     },
     {
       "show_name": "Quem Dá Mais?",
-      "show_logo": "/wp-content/uploads/downloaded-images/a-e/tomorrow/br_quem-da-mais-s15e06-objetos-ritualisticos-judaicos_l_m.webp",
-      "show_category": "Temporada 15 Episódio 6 - Objetos Ritualísticos Judaicos",
-      "start_time": "23:46",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s13e02-pecas-e-pizzas_l_m.jpg",
+      "show_category": "Temporada 13 Episódio 2 - Peças e Pizzas",
+      "start_time": "11:37",
+      "end_time": "12:00",
+      "episode_description": "O rei de Montebello tenta ficar com um tesouro valioso; Rene fareja uma oportunidade e está disposto a passar por cima de todos para obtê-la; Kenny faz tudo o que pode para aumentar seus lucros e Brandi tem problemas para enxergar o potencial dos contêineres."
+    },
+    {
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s13e06-quantidade-ou-qualidade_l_m.jpg",
+      "show_category": "Temporada 13 Episódio 6 - Quantidade ou Qualidade?",
+      "start_time": "12:00",
+      "end_time": "12:23",
+      "episode_description": "Surge o boato de que há várias unidades interessantes em Santa Clarita; Ivy e Isaiah fazem um bom negócio, escolhendo quantidade em vez de qualidade; Brandi rouba elegantemente um contêiner de todos e Kenny procura sua irmã de alma."
+    },
+    {
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s13e03-negocio-trocado_l_m.jpg",
+      "show_category": "Temporada 13 Episódio 3 - Negócio Trocado",
+      "start_time": "12:23",
+      "end_time": "12:46",
+      "episode_description": "De volta aos leilões de Montebello, Brandi e um de seus amigos lucram com sua parceria e aproveitam a maré de sorte; Darrell aproveita ao máximo o pouco que tem e Kenny enche seu cofrinho, enquanto experimenta um passatempo desconhecido."
+    },
+    {
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s13e04-espelho-espelho-meu_l_m.jpg",
+      "show_category": "Temporada 13 Episódio 4 - Espelho, Espelho Meu...",
+      "start_time": "12:46",
+      "end_time": "13:09",
+      "episode_description": "Dan e Laura viajam para Santa Ana em busca de unidades melhores; Rene consegue fechar um bom negócio nas vendas do seu contêiner; Jarrod finalmente compra o contêiner que deseja e relaxa em um spa, enquanto Darrell reflete sobre a verdadeira utilidade das antiguidades."
+    },
+    {
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s13e01-os-ventos-de-satanas_l_m.jpg",
+      "show_category": "Temporada 13 Episódio 1 - Os Ventos de Satanás",
+      "start_time": "13:09",
+      "end_time": "13:32",
+      "episode_description": "Separados recentemente, Brandi e Jarrod voltam a se encontrar no mesmo leilão e a tensão aumenta quando ela recebe o mesmo tratamento que Laura e ele age como uma criança mimada; Ivy treina Ivy Jr. para assumir os negócios da família."
+    },
+    {
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-1_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "13:32",
+      "end_time": "13:55",
+      "episode_description": "Ivy se sente como uma profetisa do lucro e pode pagar caro, mas encontra seu caminho para o sucesso; Kenny tenta homenagear a história de San Bernardino registrando uma vitória inesperada; Brandi mostra suas habilidades com os livros."
+    },
+    {
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s13e08-baguete-estilo-francesa_l_m.jpg",
+      "show_category": "Temporada 13 Episódio 8 - Baguete Estilo Francesa",
+      "start_time": "13:55",
+      "end_time": "14:18",
+      "episode_description": "Kenny chega à Califórnia e sente como se estivesse em férias na Europa. Enquanto isso, Jarrod se frustra com um contêiner aquém de suas expectativas e Rene sofre um revés quando descobre que as ferramentas de um contêiner são mais velhas."
+    },
+    {
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s13e05-regra-numero-1_l_m.jpg",
+      "show_category": "Temporada 13 Episódio 5 - Regra Número 1",
+      "start_time": "14:18",
+      "end_time": "14:41",
+      "episode_description": "Ivy leva seu filho para conhecer Moreno Valley e eles recebem uma recompensa inesperada por ioiôs; Rene e Casey descobrem que seus calçados têm mais \"air\" do que Jordan; Lisa aprende a olhar além do lixo."
+    },
+    {
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s13e10-uma-estranha-no-ninho_l_m.jpg",
+      "show_category": "Temporada 13 Episódio 10 - Uma Estranha no Ninho",
+      "start_time": "14:41",
+      "end_time": "15:04",
+      "episode_description": "O grupo faz de tudo no leilão final de Riverside; Darrell ouve seu sexto sentido para os esportes e consegue uma vitória; as Ivys se distraem com um engodo, mas conseguem sair no lucro no último minuto."
+    },
+    {
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s13e07-guerra-de-murmurios_l_m.jpg",
+      "show_category": "Temporada 13 Episódio 7 - Guerra de Murmúrios",
+      "start_time": "15:04",
+      "end_time": "15:27",
+      "episode_description": "Kenny retorna determinado a recuperar seu título de rei, mas as coisas não acontecem como esperado e ele tem problemas para conseguir obter bons lucros; as Ivys enfrentam o frio para fazer fortuna e Lisa finalmente se torna uma compradora."
+    },
+    {
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s13e09-maquinas-misteriosas_l_m.jpg",
+      "show_category": "Temporada 13 Episódio 9 - Máquinas Misteriosas",
+      "start_time": "15:27",
+      "end_time": "15:50",
+      "episode_description": "Ivy e Pops se confundem com um mecanismo misterioso; em Brea, os compradores descobrem que menos é mais; Rene mergulha de cabeça e faz uma aposta que pode sair cara; Brandi precisa vasculhar o lixo para alcançar seu objetivo."
+    },
+    {
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s13e11-mais-velho-e-mais-sabio_l_m.jpg",
+      "show_category": "Temporada 13 Episódio 11 - Mais Velho e Mais Sábio",
+      "start_time": "15:50",
+      "end_time": "16:13",
+      "episode_description": "Tudo parece normal em West Covina, Califórnia, até que um Mercury Zephyr vintage de aparência maluca aparece, revelando um velho amigo; Darrell e seu amigo encontram um excelente desenhista; Ivy e seu filho parecem não conseguir escolher um caminho."
+    },
+    {
+      "show_name": "Quem Dá Mais?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s13e13-medo-de-palhaco_l_m.jpg",
+      "show_category": "Temporada 13 Episódio 13 - Medo de Palhaço",
+      "start_time": "16:13",
+      "end_time": "16:36",
+      "episode_description": "No leilão de Victorville, Ivy e Pops tentam provar qual deles se dá melhor nos negócios; a arma secreta de Brandi consegue resultados melhores do que ela esperava e Kenny chega para alegrar o seu dia."
+    },
+    {
+      "show_name": "Acusado - Fui Eu que Fiz Isso?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_acusado-fui-eu-que-fiz-isso-s01e02-motorista-assassino-ou-vitima-de-um-acidente_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Motorista Assassino ou Vítima de um Acidente?",
+      "start_time": "16:36",
+      "end_time": "17:23",
+      "episode_description": "Uma jovem mãe volta para casa após ter trabalhado a noite toda e colide frontalmente com outro veículo, matando o motorista. A acusação alega que ela estava sob efeito de álcool. Porém, a defesa tenta apresentar outra versão e procura evidências."
+    },
+    {
+      "show_name": "Cidade Confidencial",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidade-confidencial-s09e03-o-predador-de-kansas_l_m.jpg",
+      "show_category": "Temporada 9 Episódio 3 - O Predador de Kansas",
+      "start_time": "17:23",
+      "end_time": "18:10",
+      "episode_description": "Um salva-vidas popular é encontrado morto na piscina comunitária, causando uma onda de terror em Leawood, Kansas. Um homem desconhecido, um caminhão suspeito e um pai determinado ajudam a polícia a conduzir a investigação para encontrar o assassino."
+    },
+    {
+      "show_name": "Cidade Confidencial",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidade-confidencial-s09e04-soldado-caido-em-fort-meade_l_m.jpg",
+      "show_category": "Temporada 9 Episódio 4 - Soldado Caído em Fort Meade",
+      "start_time": "18:10",
+      "end_time": "18:57",
+      "episode_description": "A comunidade militar de Fort Meade fica chocada quando uma soldado é morta a tiros em sua casa. Por quase um ano, investigadores de diversas agências policiais trabalham para desvendar uma história complexa que culminou em assassinato."
+    },
+    {
+      "show_name": "Mais Escuro que a Noite",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mais-escuro-que-a-noite-2017_l_m.jpg",
+      "show_category": "Thriller / 2017",
+      "start_time": "18:57",
+      "end_time": "20:23",
+      "episode_description": "Um assassino persegue uma garota cega no campo, transformando um final de semana tranquilo em uma luta pela sobrevivência."
+    },
+    {
+      "show_name": "Bent",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bent-2018_l_m.jpg",
+      "show_category": "Crime drama / 2018 /5.2",
+      "start_time": "20:23",
+      "end_time": "22:00",
+      "episode_description": "Um ex-policial desacreditado sai da prisão querendo se vingar da pessoa responsável por sua prisão e pela morte de seu parceiro. Em busca da verdade sobre o que aconteceu, ele investiga um misterioso assassinato. Gallagher logo descobre que o crime envolve uma grande conspiração internacional."
+    },
+    {
+      "show_name": "Lila & Eve - Unidas pela Vingança",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lila-eve-unidas-pela-vinganca-2015_l_m.jpg",
+      "show_category": "Thriller / 2015",
+      "start_time": "22:00",
+      "end_time": "23:32",
+      "episode_description": "Depois da morte sem sentido de seu filho, uma mãe desesperada conhece outra mãe na mesma situação em um grupo de apoio. Elas decidem unir forças para investigar e fazer justiça com as próprias mãos."
+    },
+    {
+      "show_name": "Segredos das Celebridades - Sex Tapes",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_segredos-das-celebridades-sex-tapes-s01e01-o-nascimento-da-sex-tape_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - O Nascimento da Sex Tape",
+      "start_time": "23:32",
       "end_time": "",
-      "episode_description": "Lancaster se transforma no terreno de caça ideal de Ivy; Lisa utiliza todo o poder do cérebro para escolher o armário correto; Dusty e um de seus amigos fazem uma boa ação."
+      "episode_description": "O mercado clandestino de vídeos sexuais ganha popularidade quando os dois primeiros escândalos envolvendo celebridades, Rob Lowe e Jayne Kennedy, causam choque público e constrangimento privado."
     }
   ]
 }
