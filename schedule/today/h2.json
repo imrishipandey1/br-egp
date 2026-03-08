@@ -1,46 +1,54 @@
 {
   "channel": "History 2",
-  "date": "07/03/2026",
+  "date": "08/03/2026",
   "schedule": [
+    {
+      "show_name": "Maravilhas Modernas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_maravilhas-modernas-s19e02-megamaravilhas-maquinas_l_m.jpg",
+      "show_category": "Temporada 19 Episódio 2 - Máquinas Incríveis - Maquinário Pesado",
+      "start_time": "00:05",
+      "end_time": "00:55",
+      "episode_description": "Adam visita a fábrica John Deere e aprende o verdadeiro significado de máquinas pesadas. Além disso, confere o que as grandes marcas fazem para que os mecanismos constantemente superem seus limites."
+    },
     {
       "show_name": "Decodificando Desastres",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_decodificando-desastres-s01e01-megainundac-es_l_m.jpg",
       "show_category": "Temporada 1 Episódio 1 - Megainundações",
-      "start_time": "00:30",
-      "end_time": "01:25",
+      "start_time": "00:55",
+      "end_time": "01:45",
       "episode_description": "A água cobre dois terços da Terra e é essencial para a vida, mas o seu impacto pode ser devastador: de inundações a tsunamis e ondas de 30 metros que podem destruir cidades e acabar com milhares de vidas em questão de horas."
     },
     {
       "show_name": "Os Segredos das Pirâmides",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_os-segredos-das-piramides-s02e02-hatshepsuth-a-rainha-farao_l_m.jpg",
       "show_category": "Temporada 2 Episódio 2 - Hatshepsuth - A Rainha Faraó",
-      "start_time": "01:25",
-      "end_time": "02:25",
+      "start_time": "01:45",
+      "end_time": "02:45",
       "episode_description": "Hatshepsut nasceu em torno de 1500 a.C. e poderia ter sido relegada, como muitas outras princesas foram. No entanto, em plena era patriarcal, ela se torna uma das maiores governantes do Egito. Seu legado revela a sua força."
     },
     {
       "show_name": "Engenheiros de Hitler - Construindo o Terceiro Reich",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_engenheiros-de-hitler-construindo-o-terceiro-reich-s01e01-albert-speer_l_m.jpg",
       "show_category": "Temporada 1 Episódio 1 - Albert Speer",
-      "start_time": "02:25",
-      "end_time": "03:25",
+      "start_time": "02:45",
+      "end_time": "03:40",
       "episode_description": "Albert Speer era o arquiteto preferido de Hitler e uma figura central em seu círculo. Seus edifícios consolidaram a liderança nazista e como Ministro dos Armamentos causou milhões de mortes. Apesar disso, foi inocentado pelos juízes de Nuremberg."
     },
     {
       "show_name": "Caçando Hitler",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_cacando-hitler-s01e01-a-cacada-comeca_l_m.jpg",
       "show_category": "Temporada 1 Episódio 1 - A Caçada Começa",
-      "start_time": "03:25",
-      "end_time": "04:25",
+      "start_time": "03:40",
+      "end_time": "04:30",
       "episode_description": "Armados de 700 páginas de documentos tornados públicos, Bob Baer, um veterano do FBI, e Dr. Cencich, um investigador de crimes de guerra, iniciam uma investigação internacional sobre o que aconteceu a Adolf Hitler no fim da Segunda Guerra."
     },
     {
-      "show_name": "Ideias Sinistras",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_ideias-sinistras-s01e02-grandes-roubos_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 2 - Grandes Roubos",
-      "start_time": "04:25",
+      "show_name": "WWII - Corrida para a Vitória",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_wwii-corrida-para-a-vitoria-s01e01-perigo-mortal_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - Perigo Mortal",
+      "start_time": "04:30",
       "end_time": "05:25",
-      "episode_description": "As grandes mentes da humanidade têm mudado o mundo, mas existem outros tipos de gênios, criminosos de sangue-frio, com mentes tão torcidas como inventivas. Desde assaltos de bancos ao roubo de um palácio real, estes são alguns de seus grandes furtos."
+      "episode_description": "Após assinar a paz com Hitler e ser traído, Neville Chamberlain renuncia, dando lugar a Winston Churchill. Roosevelt promete neutralidade. Hitler trai Stalin e invade a URSS, mas a resistência soviética e o frio do inverno detêm o avanço alemão."
     },
     {
       "show_name": "Grandes Mitos - A Ilíada",

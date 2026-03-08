@@ -1,6 +1,6 @@
 {
   "channel": "TV Câmara",
-  "date": "07/03/2026",
+  "date": "08/03/2026",
   "schedule": [
     {
       "show_name": "Ostras de Florianópolis",
@@ -47,8 +47,16 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o_l_m.jpg",
       "show_category": "Politics",
       "start_time": "02:00",
-      "end_time": "06:30",
+      "end_time": "06:10",
       "episode_description": "O programa transmite as discussões e votações do plenário."
+    },
+    {
+      "show_name": "Ostras de Florianópolis",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ostras-de-florianopolis_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "06:10",
+      "end_time": "06:30",
+      "episode_description": "Florianópolis é a cidade com a maior produção de ostras do Brasil. A maricultura movimenta a economia, estimula o turismo e, sobretudo, une as famílias, oferecendo sustento e progresso aos que vivem à beira-mar."
     },
     {
       "show_name": "Interesse Público",
@@ -103,8 +111,16 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o_l_m.jpg",
       "show_category": "Politics",
       "start_time": "10:00",
-      "end_time": "13:00",
+      "end_time": "12:30",
       "episode_description": "O programa transmite as discussões e votações do plenário."
+    },
+    {
+      "show_name": "100 Anos de Cultura e Conflitos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_100-anos-de-cultura-e-conflitos_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "12:30",
+      "end_time": "13:00",
+      "episode_description": "Veja os eventos que marcaram a história do Brasil desde a Semana de Arte Moderna até os dias atuais."
     },
     {
       "show_name": "Participação Popular",

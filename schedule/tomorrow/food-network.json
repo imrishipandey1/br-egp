@@ -1,116 +1,124 @@
 {
   "channel": "Food Network",
-  "date": "08/03/2026",
+  "date": "09/03/2026",
   "schedule": [
+    {
+      "show_name": "Giada Faz a Festa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_giada-faz-a-festa-s03e12_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 12 - Páscoa à Italiana",
+      "start_time": "00:05",
+      "end_time": "00:29",
+      "episode_description": "A família italiana de Giada comemora a Páscoa com um delicioso jantar que inclui rigatoni assado com cogumelos."
+    },
     {
       "show_name": "Receitas Caseiras da Valerie",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_receitas-caseiras-da-valerie-s08e06-jantar-e-cinema-ao-ar-livre_l_m.jpg",
       "show_category": "Temporada 8 Episódio 6 - Jantar e Cinema ao Ar Livre",
-      "start_time": "00:04",
-      "end_time": "00:27",
+      "start_time": "00:29",
+      "end_time": "00:52",
       "episode_description": "Valerie prepara uma refeição para uma exibição ao ar livre de um de seus filmes clássicos favoritos, a versão de 1937 de \"Nasce uma Estrela\"; o menu inclui sliders de peito com molho branco de churrasco, salada de batata de rábano e palhas de figo."
     },
     {
       "show_name": "Receitas Caseiras da Valerie",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_receitas-caseiras-da-valerie-s08e07-feliz-aniversario-luna_l_m.jpg",
       "show_category": "Temporada 8 Episódio 7 - Feliz Aniversário, Luna",
-      "start_time": "00:27",
-      "end_time": "00:50",
+      "start_time": "00:52",
+      "end_time": "01:16",
       "episode_description": "Valerie convida suas amigas para comemorar o aniversário de sua cachorra de resgate, Luna; o cardápio de festa tem vegetais de caril verde, o bami goreng da Sra. Van Halen e o bolo de coco e cenoura com cobertura de creme de coco."
     },
     {
       "show_name": "Refeição em 30 Minutos",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_refeic-o-em-30-minutos-s29e11-o-favorito-de-john_l_m.jpg",
       "show_category": "Temporada 29 Episódio 11 - O Favorito de John",
-      "start_time": "00:50",
-      "end_time": "01:12",
+      "start_time": "01:16",
+      "end_time": "01:40",
       "episode_description": "Rachael Ray prepara o sanduíche favorito de seu marido John Cusimano: um filé au jus estilo italiano. Ela usa molho de provolone, pimentões assados e pimenta em conserva."
     },
     {
       "show_name": "Refeição em 30 Minutos",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_refeic-o-em-30-minutos-s29e09-burrito-matinal_l_m.jpg",
       "show_category": "Temporada 29 Episódio 9 - Burrito Matinal",
-      "start_time": "01:12",
-      "end_time": "01:33",
+      "start_time": "01:40",
+      "end_time": "02:01",
       "episode_description": "O burrito matinal de Rachael Ray inclui ovos, bacon, feijão resfriado, molho pico de gallo e batata."
     },
     {
       "show_name": "Brunch com Bobby",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_brunch-com-bobby-s06e05_l_m.jpg",
       "show_category": "Temporada 6 Episódio 5 - Brunch com Espírito Natalino",
-      "start_time": "01:33",
-      "end_time": "01:54",
+      "start_time": "02:01",
+      "end_time": "02:21",
       "episode_description": "Bobby Flay entra no espírito de férias fazendo chimichangas com feijão-preto defumado, cobertas com molho de abacate, tomate e agrião, panquecas de ricota e abóbora com cobertura de maçã caramelizada e especiarias e margaritas de amora e laranja."
     },
     {
       "show_name": "Brunch com Bobby",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_brunch-com-bobby-s06e06_l_m.jpg",
       "show_category": "Temporada 6 Episódio 6 - Brunch sem Culpa",
-      "start_time": "01:54",
-      "end_time": "02:14",
+      "start_time": "02:21",
+      "end_time": "02:42",
       "episode_description": "Bobby prepara uma tigela de romãs com mirtilos e quinoa crocante, torrada de abacate, um Blood Mary especial feito com suco caseiro e um chá gelado de floresta negra."
     },
     {
       "show_name": "Na Rota do Sabor",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_na-rota-do-sabor-s09e09_l_m.jpg",
       "show_category": "Temporada 9 Episódio 9 - Felicidade no Churrasco",
-      "start_time": "02:14",
-      "end_time": "03:00",
+      "start_time": "02:42",
+      "end_time": "03:28",
       "episode_description": "Grelhamos os suspeitos comuns, e alguns incomuns, na esperança de encontrar os oito melhores lugares para o melhor churrasco."
     },
     {
       "show_name": "Lanchonetes Clássicas com Guy Fieri",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s26e06-comendo-em-cancun_l_m.jpg",
       "show_category": "Temporada 26 Episódio 6 - Comendo em Cancún",
-      "start_time": "03:00",
-      "end_time": "03:20",
+      "start_time": "03:28",
+      "end_time": "03:49",
       "episode_description": "Guy viaja a Cancún, no México, e visita um restaurante familiar autêntico, onde a avó cozinha recheios rellenos e gorditas. Conheça também o restaurante de Guy em Playa del Carmen."
     },
     {
       "show_name": "Lanchonetes Clássicas com Guy Fieri",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s26e07-comidas-diferentes_l_m.jpg",
       "show_category": "Temporada 26 Episódio 7 - Comidas Diferentes",
-      "start_time": "03:20",
-      "end_time": "03:42",
+      "start_time": "03:49",
+      "end_time": "04:11",
       "episode_description": "Guy busca um caminho alternativo para ir atrás de achados originais. Em Charlotte, ele vai a um restaurante de waffles escondido numa loja de cervejas. Em Houston, encontra um local que funde churrasco e sushi."
     },
     {
       "show_name": "Lanchonetes Clássicas com Guy Fieri",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s26e08-sabor-da-america_l_m.jpg",
       "show_category": "Temporada 26 Episódio 8 - Sabor da América",
-      "start_time": "03:42",
-      "end_time": "04:03",
+      "start_time": "04:11",
+      "end_time": "04:32",
       "episode_description": "De um hambúrguer de bacon da Carolina do Norte a tacos nas ruas do México, Guy mergulha em sabores que se espalharam pela América."
     },
     {
       "show_name": "Receitas da Ina - De Volta ao Básico",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_receitas-da-ina-de-volta-ao-basico-s13e09-festa-da-pizza_l_m.jpg",
       "show_category": "Temporada 13 Episódio 9 - Festa da Pizza",
-      "start_time": "04:03",
-      "end_time": "04:26",
+      "start_time": "04:32",
+      "end_time": "04:55",
       "episode_description": "Ina volta ao básico com receitas que funcionam para crianças e para os adultos também, que são divertidas e deliciosas: pizzas brancas com rúcula, azeite de alho e um bolo fudge duplo com cobertura de buttercream de chocolate."
     },
     {
       "show_name": "Refeição em 30 Minutos",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_refeic-o-em-30-minutos-s29e05_l_m.jpg",
       "show_category": "Temporada 29 Episódio 5 - Pizza de Frigideira",
-      "start_time": "04:26",
-      "end_time": "04:48",
+      "start_time": "04:55",
+      "end_time": "05:18",
       "episode_description": "Rachael Ray prepara sua receita favorita de pizza em frigideira de ferro fundido. Salsichas apimentadas, pimenta em flocos e mel dão mais sabor à preparação. Por outro lado, a salada de erva-doce e azeitonas traz um sabor refrescante."
     },
     {
       "show_name": "Refeição em 30 Minutos",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_refeic-o-em-30-minutos-s29e22-pizza-de-frigideira-de-frango_l_m.jpg",
       "show_category": "Temporada 29 Episódio 22 - Pizza de Frigideira de Frango",
-      "start_time": "04:48",
-      "end_time": "05:09",
+      "start_time": "05:18",
+      "end_time": "05:39",
       "episode_description": "Pizza de frigideira com churrasco de frango é a combinação perfeita de sabores picantes e agridoces."
     },
     {
       "show_name": "Refeição em 30 Minutos",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_refeic-o-em-30-minutos-s29e39-n-o-acredito-que-hoje-tem-pizza_l_m.jpg",
       "show_category": "Temporada 29 Episódio 39 - Não Acredito que Hoje Tem Pizza",
-      "start_time": "05:09",
+      "start_time": "05:39",
       "end_time": "06:00",
       "episode_description": "A pizza de abobrinha sem pepperoni de Rachael Ray tem um segredo: não leva pepperoni de verdade. Mas ela vem cheia de sabor, graças à páprica defumada e ao toque de mel picante. Para acompanhar, uma salada de legumes."
     },
@@ -119,312 +127,320 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_duelo-com-bobby-flay-s17e01-jurados-na-arena_l_m.jpg",
       "show_category": "Temporada 17 Episódio 1 - Jurados na Arena",
       "start_time": "06:00",
-      "end_time": "06:24",
+      "end_time": "06:23",
       "episode_description": "Os jurados Michael Psilakis e Seamus Mullen trocam de papel e se tornam competidores para enfrentar Bobby. Marcus Samuelsson e Sunny Anderson, do canal Food Network, decidem qual dos chefs testará os limites de Bobby."
     },
     {
       "show_name": "Duelo com Bobby Flay",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_duelo-com-bobby-flay-s17e04-berinjelas-voadoras_l_m.jpg",
       "show_category": "Temporada 17 Episódio 4 - Berinjelas Voadoras",
-      "start_time": "06:24",
-      "end_time": "06:45",
+      "start_time": "06:23",
+      "end_time": "06:44",
       "episode_description": "Os chefs Anne Burrell e Jet Tila unem forças para derrotar Bobby Flay. Eles devem escolher entre o pizzaiolo Tony Gemignani e o chef Robert Aikens, que estão ansiosos para provar seu talento na cozinha."
     },
     {
       "show_name": "Chopped - O Desafio",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_chopped-o-desafio-s04e11-continue-cozinhando_l_m.jpg",
       "show_category": "Temporada 4 Episódio 11 - Ingredientes Naturais e o Cordeiro",
-      "start_time": "06:45",
-      "end_time": "07:31",
+      "start_time": "06:44",
+      "end_time": "07:30",
       "episode_description": "Com licor de menta e peixe enlatado na cesta de ingredientes da entrada, os jurados ficam preocupados com como será o gosto da primeira etapa. Na rodada do prato principal, um chef pega ingredientes em excesso para preparar um cordeiro."
     },
     {
       "show_name": "Food Truck - A Grande Corrida",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_food-truck-a-grande-corrida-s13e01-batalha-pelo-norte_l_m.jpg",
       "show_category": "Temporada 13 Episódio 1 - Batalha pelo Norte",
-      "start_time": "07:31",
-      "end_time": "08:15",
+      "start_time": "07:30",
+      "end_time": "08:14",
       "episode_description": "Em Flattop Mountain com vista para Anchorage, Tyler Florence recebe sete equipes de food truck para a competição. O primeiro desafio é tirar a chave do food truck de um bloco de gelo de 90 quilos."
     },
     {
       "show_name": "Lanchonetes Clássicas com Guy Fieri",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s26e10-mulheres-maravilha_l_m.jpg",
       "show_category": "Temporada 26 Episódio 10 - Mulheres-Maravilha",
-      "start_time": "08:15",
-      "end_time": "08:39",
+      "start_time": "08:14",
+      "end_time": "08:37",
       "episode_description": "Nesta viagem, Guy Fieri visita restaurantes e lanchonetes de sucesso compostos somente por mulheres em Houston e em Orlando."
     },
     {
       "show_name": "Lanchonetes Clássicas com Guy Fieri",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s26e11-multicultural_l_m.jpg",
       "show_category": "Temporada 26 Episódio 11 - Multicultural",
-      "start_time": "08:39",
-      "end_time": "09:00",
+      "start_time": "08:37",
+      "end_time": "08:57",
       "episode_description": "Guy Fieri mergulha nas tradições de culturas diferentes, visitando um restaurante mexicano em Houston e uma delicatessen judaica sobre rodas em Orlando."
     },
     {
       "show_name": "Lanchonetes Clássicas com Guy Fieri",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s26e12-peru-batata-e-latke_l_m.jpg",
       "show_category": "Temporada 26 Episódio 12 - Peru, Batata e Latke",
-      "start_time": "09:00",
-      "end_time": "09:24",
+      "start_time": "08:57",
+      "end_time": "09:20",
       "episode_description": "Guy vai atrás de uma mistura de sabores pelos Estados Unidos, e visita um restaurante voltado à batata que serve especialidades brasileiras e uma delicatéssen que faz latkes e pastrami de peru."
     },
     {
       "show_name": "Lanchonetes Clássicas com Guy Fieri",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s26e14-trio-de-frango_l_m.jpg",
       "show_category": "Temporada 26 Episódio 14 - Trio de Frango",
-      "start_time": "09:24",
-      "end_time": "09:45",
+      "start_time": "09:20",
+      "end_time": "09:41",
       "episode_description": "Guy pega a estrada procurando as melhores receitas de frango. Ele prova asa tailandesa frita e visita um restaurante californiano especializado em cachorro-quente que serve frango com waffles."
     },
     {
       "show_name": "Na Rota do Sabor",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_na-rota-do-sabor-s09e10_l_m.jpg",
       "show_category": "Temporada 9 Episódio 10 - Queijo Extra",
-      "start_time": "09:45",
-      "end_time": "10:32",
+      "start_time": "09:41",
+      "end_time": "10:26",
       "episode_description": "O top 8 dos locais nos EUA que servem delícias com queijo extra."
     },
     {
       "show_name": "Brunch com Bobby",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_brunch-com-bobby-s06e07_l_m.jpg",
       "show_category": "Temporada 6 Episódio 7 - Brunch com Waffles",
-      "start_time": "10:32",
-      "end_time": "10:56",
+      "start_time": "10:26",
+      "end_time": "10:49",
       "episode_description": "Bobby Flay inova com um brunch doce e condimentado que inclui waffles de pão de banana."
     },
     {
       "show_name": "Brunch com Bobby",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_brunch-com-bobby-s06e08_l_m.jpg",
       "show_category": "Temporada 6 Episódio 8 - Brunch de Baixo Custo",
-      "start_time": "10:56",
-      "end_time": "11:17",
+      "start_time": "10:49",
+      "end_time": "11:09",
       "episode_description": "Bobby Flay serve um cardápio feito com ingredientes baratos de sua despensa, incluindo tigelas de pão italiano recheado com ovo, salada de espinafre com crótons, torrada de ricota batida e um coquetel de gim."
     },
     {
       "show_name": "Sabores da América com Michael Symon",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sabores-da-america-com-michael-symon-s05e05-salsicha-e-porco_l_m.jpg",
       "show_category": "Temporada 5 Episódio 5 - Salsicha e Porco",
-      "start_time": "11:17",
-      "end_time": "11:41",
+      "start_time": "11:09",
+      "end_time": "11:31",
       "episode_description": "No estado de Nova York, Michael prova uma costela de porco defumada lentamente e coberta com um molho barbecue cítrico. Em Columbus, ele come um hambúrguer com salsicha polonesa."
     },
     {
       "show_name": "Sabores da América com Michael Symon",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sabores-da-america-com-michael-symon-s05e06-gigantes-do-bacon_l_m.jpg",
       "show_category": "Temporada 5 Episódio 6 - Gigantes do Bacon",
-      "start_time": "11:41",
-      "end_time": "12:02",
+      "start_time": "11:31",
+      "end_time": "11:53",
       "episode_description": "Em Providence, Michael prova uma tradição local: um cachorro-quente feito com crepe e chili. Em Columbus, ele visita um restaurante que serve sua costelinha de porco em uma cama de feno em chamas."
     },
     {
       "show_name": "Sabor na Brasa",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sabor-na-brasa-s05e09_l_m.jpg",
       "show_category": "Temporada 5 Episódio 9 - Sal e Mar",
-      "start_time": "12:02",
-      "end_time": "12:24",
+      "start_time": "11:53",
+      "end_time": "12:14",
       "episode_description": "Roger visita uma fábrica de sal marinho no Oregon, onde assa um halibute em crosta de sal em uma fogueira."
     },
     {
       "show_name": "Sabor na Brasa",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sabor-na-brasa-s05e10_l_m.jpg",
       "show_category": "Temporada 5 Episódio 10 - Aumentando a Escala no Texas",
-      "start_time": "12:24",
-      "end_time": "12:47",
+      "start_time": "12:14",
+      "end_time": "12:35",
       "episode_description": "Roger descobre que tudo é maior no Texas, onde assa uma peça de carne de quase 115 quilos em um trailer feito sob encomenda, e um porco de mais de 100 quilos em uma churrasqueira de blocos de concreto."
     },
     {
       "show_name": "Receitas da Ina - De Volta ao Básico",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_receitas-da-ina-de-volta-ao-basico-s13e09-festa-da-pizza_l_m.jpg",
       "show_category": "Temporada 13 Episódio 9 - Festa da Pizza",
-      "start_time": "12:47",
-      "end_time": "13:08",
+      "start_time": "12:35",
+      "end_time": "12:56",
       "episode_description": "Ina volta ao básico com receitas que funcionam para crianças e para os adultos também, que são divertidas e deliciosas: pizzas brancas com rúcula, azeite de alho e um bolo fudge duplo com cobertura de buttercream de chocolate."
     },
     {
       "show_name": "Refeição em 30 Minutos",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_refeic-o-em-30-minutos-s29e05_l_m.jpg",
       "show_category": "Temporada 29 Episódio 5 - Pizza de Frigideira",
-      "start_time": "13:08",
-      "end_time": "13:29",
+      "start_time": "12:56",
+      "end_time": "13:17",
       "episode_description": "Rachael Ray prepara sua receita favorita de pizza em frigideira de ferro fundido. Salsichas apimentadas, pimenta em flocos e mel dão mais sabor à preparação. Por outro lado, a salada de erva-doce e azeitonas traz um sabor refrescante."
     },
     {
       "show_name": "Refeição em 30 Minutos",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_refeic-o-em-30-minutos-s29e22-pizza-de-frigideira-de-frango_l_m.jpg",
       "show_category": "Temporada 29 Episódio 22 - Pizza de Frigideira de Frango",
-      "start_time": "13:29",
-      "end_time": "13:52",
+      "start_time": "13:17",
+      "end_time": "13:40",
       "episode_description": "Pizza de frigideira com churrasco de frango é a combinação perfeita de sabores picantes e agridoces."
     },
     {
       "show_name": "Refeição em 30 Minutos",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_refeic-o-em-30-minutos-s29e39-n-o-acredito-que-hoje-tem-pizza_l_m.jpg",
       "show_category": "Temporada 29 Episódio 39 - Não Acredito que Hoje Tem Pizza",
-      "start_time": "13:52",
-      "end_time": "14:15",
+      "start_time": "13:40",
+      "end_time": "14:02",
       "episode_description": "A pizza de abobrinha sem pepperoni de Rachael Ray tem um segredo: não leva pepperoni de verdade. Mas ela vem cheia de sabor, graças à páprica defumada e ao toque de mel picante. Para acompanhar, uma salada de legumes."
     },
     {
       "show_name": "Receitas da Ina - De Volta ao Básico",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_receitas-da-ina-de-volta-ao-basico-s12e02-surpresa-de-boas-vindas_l_m.jpg",
       "show_category": "Temporada 12 Episódio 2 - Surpresa de Boas-Vindas",
-      "start_time": "14:15",
-      "end_time": "14:40",
+      "start_time": "14:02",
+      "end_time": "14:26",
       "episode_description": "Para relaxar depois de uma viagem, prepare uma bela comida com antecedência. Ina enche a geladeira dos amigos com comidas deliciosas e acolhedoras. Todos comem seus pratos reconfortantes favoritos, só que bem mais incrementados."
     },
     {
       "show_name": "Receitas da Ina - De Volta ao Básico",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_receitas-da-ina-de-volta-ao-basico-s11e12-dia-do-queijo_l_m.jpg",
       "show_category": "Temporada 11 Episódio 12 - Dia do Queijo",
-      "start_time": "14:40",
-      "end_time": "15:04",
+      "start_time": "14:26",
+      "end_time": "14:49",
       "episode_description": "Ina incrementa os cinco queijos que mais usa no dia-a-dia e experimenta novas ideias realmente originais. Ela faz tortinha de tomate com queijo de cabra, coeur à la crème salgado, tábua com queijo brie assado e peras assadas com blue cheese."
     },
     {
       "show_name": "Cake Boss",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_cake-boss-s07e06-sweet-chicken-and-sweeter-revenge_l_m.jpg",
       "show_category": "Temporada 7 Episódio 6 - Bolo Roleta",
-      "start_time": "15:04",
-      "end_time": "15:29",
+      "start_time": "14:49",
+      "end_time": "15:13",
       "episode_description": "Buddy faz bolo para um bar mitzvah em Las Vegas; equipe celebra o Mardi Gras com bolo de reis."
     },
     {
       "show_name": "Cake Boss",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_cake-boss-s07e10-high-tea-and-hot-rods_l_m.jpg",
       "show_category": "Temporada 7 Episódio 10 - Seuss e Surpresa",
-      "start_time": "15:29",
-      "end_time": "15:53",
+      "start_time": "15:13",
+      "end_time": "15:37",
       "episode_description": "Buddy prepara um bolo temático do personagem Dr. Seuss com engrenagens e alavancas. A família faz uma surpresa para Buddy."
     },
     {
       "show_name": "A Disputa dos Confeiteiros - Primavera",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_a-disputa-dos-confeiteiros-primavera-s05e06-doce-m-e-natureza_l_m.jpg",
       "show_category": "Temporada 5 Episódio 6 - Doce Mãe Natureza",
-      "start_time": "15:53",
-      "end_time": "16:40",
+      "start_time": "15:37",
+      "end_time": "16:22",
       "episode_description": "No Dia da Terra, os cinco confeiteiros celebram a Mãe Natureza com sobremesas de avelã e mel de diversos tipos de floradas. Eles também precisam fazer bolos primaveris recheados com frutos silvestres."
     },
     {
       "show_name": "A Guerra dos Bolos",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_a-guerra-dos-bolos-s01e03-the-knot_l_m.jpg",
       "show_category": "Temporada 1 Episódio 3 - The Knot",
-      "start_time": "16:40",
-      "end_time": "17:27",
+      "start_time": "16:22",
+      "end_time": "17:08",
       "episode_description": "O site The Knot forneceu tudo para o casamento dos sonhos de um casal, menos o bolo. Os confeiteiros vão competir por dez mil dólares e pela chance de terem seu bolo nesse casamento."
     },
     {
       "show_name": "A Guerra dos Cupcakes",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_a-guerra-dos-cupcakes-s05e04_l_m.jpg",
       "show_category": "Temporada 5 Episódio 4 - Rindo Alto",
-      "start_time": "17:27",
-      "end_time": "18:15",
+      "start_time": "17:08",
+      "end_time": "17:54",
       "episode_description": "É hora de dar muitas gargalhadas conforme quatro participantes fazem de tudo para transformar seus cupcakes em grandes sucessos. E tudo isso durante uma festa VIP para o site de vídeos de comédia FunnyOrDie.com."
     },
     {
       "show_name": "A Guerra dos Cupcakes",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_a-guerra-dos-cupcakes-s05e05_l_m.jpg",
       "show_category": "Temporada 5 Episódio 5 - Rock of Ages",
-      "start_time": "18:15",
-      "end_time": "19:03",
+      "start_time": "17:54",
+      "end_time": "18:40",
       "episode_description": "Quatro confeiteiros sobem ao palco na estreia de um grande sucesso da Broadway em Los Angeles, o musical \"Rock of Ages\"."
     },
     {
       "show_name": "Lanchonetes Clássicas com Guy Fieri",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s18e09-conforto-e-soul_l_m.jpg",
       "show_category": "Temporada 18 Episódio 9 - Porco, Massa e Churrasco",
-      "start_time": "19:03",
-      "end_time": "19:27",
+      "start_time": "18:40",
+      "end_time": "19:03",
       "episode_description": "Guy visita locais que são favoritos dos moradores. Em Kansas City, Missouri, o lugar favorito do bairro serve porco com batatas e feijão. Na fronteira entre o Missouri e Kansas, o antigo chef do presidente italiano serve massas frescas e autênticas."
     },
     {
       "show_name": "Lanchonetes Clássicas com Guy Fieri",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s29e01-de-porco-a-massas_l_m.jpg",
       "show_category": "Temporada 29 Episódio 1 - De Porco a Massas",
-      "start_time": "19:27",
-      "end_time": "19:50",
+      "start_time": "19:03",
+      "end_time": "19:25",
       "episode_description": "Em Chicago, Guy Fieri experimenta de tudo, de porco a massas. Ele conhece um autêntico restaurante italiano com um ravióli delicioso e pizza ao estilo da cidade. Depois, prova um churrasco típico de Hong Kong, servido com todos os clássicos."
     },
     {
       "show_name": "Giada Faz a Festa",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_giada-faz-a-festa-s05e01-novas-massas_l_m.jpg",
       "show_category": "Temporada 5 Episódio 1 - Novas Massas",
-      "start_time": "19:50",
-      "end_time": "20:11",
+      "start_time": "19:25",
+      "end_time": "19:45",
       "episode_description": "Giada convida amigos para criar formatos de massa do zero. Eles se deliciam com um menu que inclui as receitas preferidas de sua família: um tipo de nhoque da Sardenha com camarão e rúcula e pappardelle com ragu de linguiça."
     },
     {
       "show_name": "Sabores da Itália",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sabores-da-italia-s12e09_l_m.jpg",
       "show_category": "Temporada 12 Episódio 9 - Massa para Todas as Estações",
-      "start_time": "20:11",
-      "end_time": "20:32",
+      "start_time": "19:45",
+      "end_time": "20:07",
       "episode_description": "Italianos adoram massa, não importa a estação. Giada De Laurentiis mostra como criar pratos de massas que vão do inverno ao verão e em todas as outras estações. Receba a primavera com penne com aspargos e tomates-cereja; fusilli com camarão, laranja e rúcula refrescam no verão; espaguete integral com pecorino, prosciutto e pimentão é o prato perfeito para o outono; e manicotti com acelga e ervilhas aquecem no inverno."
     },
     {
       "show_name": "Duelo com Bobby Flay",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_duelo-com-bobby-flay-s08e07-mare-alta_l_m.jpg",
       "show_category": "Temporada 8 Episódio 7 - Maré Alta",
-      "start_time": "20:32",
-      "end_time": "20:56",
+      "start_time": "20:07",
+      "end_time": "20:30",
       "episode_description": "Shaymus Alwin, de Honolulu, encara o chef de Boston Jeremy Sewall pela chance de tomar a coroa de Bobby Flay. Com Katie Lee e o jurado do Mestres da Sabotagem Simon Majumdar, esses chefs terão o apoio necessário para colocar Bobby em maus lençóis."
     },
     {
       "show_name": "Duelo com Bobby Flay",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_duelo-com-bobby-flay-s08e08-disputa-do-sul_l_m.jpg",
       "show_category": "Temporada 8 Episódio 8 - Disputa do Sul",
-      "start_time": "20:56",
-      "end_time": "21:19",
+      "start_time": "20:30",
+      "end_time": "20:53",
       "episode_description": "Scott Conant e Geoffrey Zakarian vêm com tudo para derrotar Bobby Flay. O chef Robert Vasquez, da Louisiana, vai disputar o 1o. round com o chef Aaron Rivera, da Carolina do Sul."
     },
     {
       "show_name": "Homem vs. Comida",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_homem-vs-comida-s08e12-tucson-arizona_l_m.jpg",
       "show_category": "Temporada 8 Episódio 12 - Tucson, Arizona",
-      "start_time": "21:19",
-      "end_time": "21:40",
+      "start_time": "20:53",
+      "end_time": "21:15",
       "episode_description": "A expedição gastronômica de Casey Webb o leva a Tucson, Arizona, onde ele experimenta uma torta de queijo repleta de carne de porco desfiada. Em seguida, come um delicioso taco de cachorro-quente envolvido em bacon."
     },
     {
       "show_name": "Homem vs. Comida",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_homem-vs-comida-s08e11-santa-fe-novo-mexico_l_m.jpg",
       "show_category": "Temporada 8 Episódio 11 - Santa Fé, Novo México",
-      "start_time": "21:40",
-      "end_time": "22:01",
+      "start_time": "21:15",
+      "end_time": "21:37",
       "episode_description": "A busca de Casey Webb pelo maior e melhor em Santa Fé, Novo México, começa com uma sopapilla recheada com carne assada. Em seguida, ele toma um sorvete aromatizado com uma iguaria local, pimenta verde."
     },
     {
       "show_name": "Bobby e Giada na Itália",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_bobby-e-giada-na-italia-s01e03-um-vilarejo-medieval_l_m.jpg",
       "show_category": "Temporada 1 Episódio 3 - Um Vilarejo Medieval",
-      "start_time": "22:01",
-      "end_time": "22:48",
+      "start_time": "21:37",
+      "end_time": "22:22",
       "episode_description": "No interior da Toscana, Bobby Flay e Giada De Laurentiis exploram fazendas orgânicas, um antigo moinho, hambúrgueres à moda da Toscana e uma fazenda de criação de ovelhas, onde aprendem na prática a fazer o famoso queijo pecorino."
     },
     {
       "show_name": "Um Dia de Chef",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_um-dia-de-chef-s03e01-vaca-atolada-com-vinagrete-e-farofa_l_m.jpg",
       "show_category": "Temporada 3 Episódio 1 - Vaca Atolada com Vinagrete e Farofa",
-      "start_time": "22:48",
-      "end_time": "23:15",
+      "start_time": "22:22",
+      "end_time": "22:49",
       "episode_description": "Giovana nunca cozinhou, mas com a pandemia ela foi obrigada a encarar o fogão pela primeira vez. Ela recebe a ajuda de Emmanuel para homenagear a memória do pai com um prato carregado de emoção."
     },
     {
       "show_name": "Um Dia de Chef",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_um-dia-de-chef-s03e02-bife-role-com-pure-de-batata_l_m.jpg",
       "show_category": "Temporada 3 Episódio 2 - Bife Rolê com Purê de Batata",
-      "start_time": "23:15",
-      "end_time": "23:41",
+      "start_time": "22:49",
+      "end_time": "23:16",
       "episode_description": "Gustavo é influenciador digital e faz permutas com restaurantes em troca de lanches. Na cozinha, ele já conseguiu queimar até pão de queijo no micro-ondas. Agora, Gustavo precisa aprender técnicas culinárias e receitas para melhorar sua alimentação."
     },
     {
       "show_name": "Giada Faz a Festa",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_giada-faz-a-festa-s03e13_l_m.jpg",
       "show_category": "Temporada 3 Episódio 13 - Brunch de Fim de Semana",
-      "start_time": "23:41",
-      "end_time": "",
+      "start_time": "23:16",
+      "end_time": "23:38",
       "episode_description": "Giada prepara um brunch para seus amigos com milk-shakes de café e chocolate quente alcoólico."
+    },
+    {
+      "show_name": "Giada Faz a Festa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_giada-faz-a-festa-s04e01-festa-da-massa_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 1 - Festa da Massa",
+      "start_time": "23:38",
+      "end_time": "",
+      "episode_description": "Giada De Laurentiis combina massas diferentes com ingredientes frescos para seu bufê."
     }
   ]
 }

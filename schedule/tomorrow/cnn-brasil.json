@@ -1,30 +1,30 @@
 {
   "channel": "CNN Brasil",
-  "date": "08/03/2026",
+  "date": "09/03/2026",
   "schedule": [
     {
-      "show_name": "CNN Viagem & Gastronomia",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cnn-viagem-gastronomia-1_l_m.jpg",
-      "show_category": "Travel",
-      "start_time": "00:35",
-      "end_time": "01:20",
-      "episode_description": "Fique por dentro de notícias e serviços relacionados ao universo do lifestyle, turismo e culinária."
+      "show_name": "CNN Prime Time",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cnn-prime-time_l_m.jpg",
+      "show_category": "News",
+      "start_time": "01:00",
+      "end_time": "02:00",
+      "episode_description": "Acompanhe os fatos mais importantes do dia no Brasil e no mundo em um jornal dinâmico e com repórteres espalhados pelo país, EUA e Europa. Veja notícias de Brasília com análises, além do fechamento do mercado financeiro e assuntos econômicos."
     },
     {
-      "show_name": "CNN Viagem & Gastronomia",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cnn-viagem-gastronomia-1_l_m.jpg",
-      "show_category": "Travel",
-      "start_time": "01:20",
-      "end_time": "02:05",
-      "episode_description": "Fique por dentro de notícias e serviços relacionados ao universo do lifestyle, turismo e culinária."
+      "show_name": "Hot Market",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hot-market_l_m.jpg",
+      "show_category": "Bus./financial",
+      "start_time": "02:00",
+      "end_time": "02:45",
+      "episode_description": "Discussão sobre juros, contas públicas, eleições, tecnologia e mercado de trabalho do Brasil e do mundo, com entrevista com nomes de destaque do mercado."
     },
     {
-      "show_name": "CNN Esportes S/A",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_interview-cnn-esportes-s-a_l_m.jpg",
-      "show_category": "",
-      "start_time": "02:05",
+      "show_name": "Boletim Agora CNN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_boletim-agora-cnn_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "02:45",
       "end_time": "02:50",
-      "episode_description": "Acompanhe temas e entrevistas que buscam mostrar o lado business do mundo do futebol."
+      "episode_description": ""
     },
     {
       "show_name": "O Grande Debate",
@@ -35,12 +35,28 @@
       "episode_description": "Acompanhe discussões de temas importantes da sociedade com pontos de vista diferentes."
     },
     {
+      "show_name": "Boletim Agora CNN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_boletim-agora-cnn_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "03:50",
+      "end_time": "03:55",
+      "episode_description": ""
+    },
+    {
       "show_name": "WW",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_ww_l_m.jpg",
       "show_category": "Talk",
-      "start_time": "03:50",
-      "end_time": "05:00",
+      "start_time": "03:55",
+      "end_time": "04:55",
       "episode_description": "O jornalista William Waack recebe convidados para debater os temas mais relevantes que ocupam as manchetes do Brasil e do mundo durante a semana."
+    },
+    {
+      "show_name": "Boletim Agora CNN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_boletim-agora-cnn_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "04:55",
+      "end_time": "05:00",
+      "episode_description": ""
     },
     {
       "show_name": "CNN Prime Time",
@@ -63,22 +79,6 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_agora-cnn_l_m.jpg",
       "show_category": "News",
       "start_time": "09:30",
-      "end_time": "11:00",
-      "episode_description": "Reportagens para começar o dia com as informações que importam."
-    },
-    {
-      "show_name": "CNN Entrevistas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cnn-entrevistas_l_m.jpg",
-      "show_category": "Interview",
-      "start_time": "11:00",
-      "end_time": "12:00",
-      "episode_description": "Entrevistas com personalidades ilustres das artes, ciências e política."
-    },
-    {
-      "show_name": "Agora CNN",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_agora-cnn_l_m.jpg",
-      "show_category": "News",
-      "start_time": "12:00",
       "end_time": "13:00",
       "episode_description": "Reportagens para começar o dia com as informações que importam."
     },
@@ -95,40 +95,48 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_agora-cnn_l_m.jpg",
       "show_category": "News",
       "start_time": "15:00",
-      "end_time": "16:00",
+      "end_time": "15:55",
       "episode_description": "Reportagens para começar o dia com as informações que importam."
     },
     {
-      "show_name": "No Lucro CNN",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_no-lucro-cnn_l_m.jpg",
-      "show_category": "News",
-      "start_time": "16:00",
-      "end_time": "16:30",
-      "episode_description": "Entrevistas com especialistas e famosos que discutem como gastam e gerenciam seu dinheiro."
+      "show_name": "O Grande Debate",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-grande-debate_l_m.jpg",
+      "show_category": "Debate",
+      "start_time": "15:55",
+      "end_time": "16:55",
+      "episode_description": "Acompanhe discussões de temas importantes da sociedade com pontos de vista diferentes."
     },
     {
-      "show_name": "CNN Entrevistas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cnn-entrevistas_l_m.jpg",
-      "show_category": "Interview",
-      "start_time": "16:30",
+      "show_name": "Boletim Agora CNN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_boletim-agora-cnn_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "16:55",
+      "end_time": "17:00",
+      "episode_description": ""
+    },
+    {
+      "show_name": "CNN Sinais Vitais - Dr. Kalil Entrevista",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cnn-sinais-vitais-dr-kalil-entrevista_l_m.jpg",
+      "show_category": "Health",
+      "start_time": "17:00",
       "end_time": "17:30",
-      "episode_description": "Entrevistas com personalidades ilustres das artes, ciências e política."
+      "episode_description": "Por meio de entrevistas, grandes personalidades discutem temas ligados à área da saúde no Brasil. Dr. Kalil visa discutir e democratizar temas relacionados à saúde cotidiana, ao bem-estar, à longevidade e a novas pesquisas."
     },
     {
       "show_name": "Agora CNN",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_agora-cnn_l_m.jpg",
       "show_category": "News",
       "start_time": "17:30",
-      "end_time": "19:15",
+      "end_time": "19:00",
       "episode_description": "Reportagens para começar o dia com as informações que importam."
     },
     {
-      "show_name": "CNN Viagem & Gastronomia",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cnn-viagem-gastronomia-1_l_m.jpg",
-      "show_category": "Travel",
-      "start_time": "19:15",
+      "show_name": "O Grande Debate",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-grande-debate_l_m.jpg",
+      "show_category": "Debate",
+      "start_time": "19:00",
       "end_time": "20:00",
-      "episode_description": "Fique por dentro de notícias e serviços relacionados ao universo do lifestyle, turismo e culinária."
+      "episode_description": "Acompanhe discussões de temas importantes da sociedade com pontos de vista diferentes."
     },
     {
       "show_name": "CNN Prime Time",
@@ -151,30 +159,46 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_interview-cnn-esportes-s-a_l_m.jpg",
       "show_category": "",
       "start_time": "21:15",
-      "end_time": "22:00",
+      "end_time": "21:57",
       "episode_description": "Acompanhe temas e entrevistas que buscam mostrar o lado business do mundo do futebol."
+    },
+    {
+      "show_name": "Boletim Agora CNN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_boletim-agora-cnn_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "21:57",
+      "end_time": "22:00",
+      "episode_description": ""
     },
     {
       "show_name": "WW",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_ww_l_m.jpg",
       "show_category": "Talk",
       "start_time": "22:00",
-      "end_time": "22:45",
+      "end_time": "23:12",
       "episode_description": "O jornalista William Waack recebe convidados para debater os temas mais relevantes que ocupam as manchetes do Brasil e do mundo durante a semana."
     },
     {
-      "show_name": "GPS CNN",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_gps-cnn_l_m.jpg",
-      "show_category": "Variety",
-      "start_time": "22:45",
+      "show_name": "Boletim Agora CNN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_boletim-agora-cnn_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "23:12",
       "end_time": "23:15",
-      "episode_description": "Guia informativo sobre política e temas que envolvem a sociedade, além de pesquisas em parceria com Instituto Atlas Intel."
+      "episode_description": ""
+    },
+    {
+      "show_name": "Hot Market",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hot-market_l_m.jpg",
+      "show_category": "Bus./financial",
+      "start_time": "23:15",
+      "end_time": "23:45",
+      "episode_description": "Discussão sobre juros, contas públicas, eleições, tecnologia e mercado de trabalho do Brasil e do mundo, com entrevista com nomes de destaque do mercado."
     },
     {
       "show_name": "CNN Prime Time",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_cnn-prime-time_l_m.jpg",
       "show_category": "News",
-      "start_time": "23:15",
+      "start_time": "23:45",
       "end_time": "",
       "episode_description": "Acompanhe os fatos mais importantes do dia no Brasil e no mundo em um jornal dinâmico e com repórteres espalhados pelo país, EUA e Europa. Veja notícias de Brasília com análises, além do fechamento do mercado financeiro e assuntos econômicos."
     }
