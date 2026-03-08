@@ -3,204 +3,220 @@
   "date": "09/03/2026",
   "schedule": [
     {
-      "show_name": "Sem Desvio",
-      "show_logo": "/wp-content/uploads/downloaded-images/rit/tomorrow/br_sem-desvio_l_m.webp",
+      "show_name": "A Hora da Graça de Deus",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-hora-da-graca-de-deus-1_l_m.jpg",
       "show_category": "Religious",
-      "start_time": "00:00",
-      "end_time": "01:00",
+      "start_time": "01:35",
+      "end_time": "01:35",
+      "episode_description": "Escute palavras de conforto e conselhos para abençoar a vida, proferidos por pastores."
+    },
+    {
+      "show_name": "A Hora da Graça de Deus",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-hora-da-graca-de-deus-1_l_m.jpg",
+      "show_category": "Religious",
+      "start_time": "01:35",
+      "end_time": "07:30",
+      "episode_description": "Escute palavras de conforto e conselhos para abençoar a vida, proferidos por pastores."
+    },
+    {
+      "show_name": "Sem Desvio",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sem-desvio_l_m.jpg",
+      "show_category": "Religious",
+      "start_time": "07:30",
+      "end_time": "08:31",
       "episode_description": "Conteúdo cristão que mostra as transmissões das campanhas de fé feitas pelo Missionário R.R. Soares por todo o Brasil."
     },
     {
-      "show_name": "Igreja da Graça no Seu Lar",
-      "show_logo": "/wp-content/uploads/downloaded-images/rit/tomorrow/br_igreja-da-graca-no-seu-lar-1_l_m.webp",
-      "show_category": "Religious",
-      "start_time": "01:00",
-      "end_time": "02:30",
-      "episode_description": "Cultos realizados com ensinamentos bíblicos, louvor e adoração."
-    },
-    {
-      "show_name": "Olha o que Ele Fez Comigo",
-      "show_logo": "/wp-content/uploads/downloaded-images/rit/tomorrow/br_olha-o-que-ele-fez-comigo-2_l_m.webp",
-      "show_category": "Religious",
-      "start_time": "02:30",
-      "end_time": "03:00",
-      "episode_description": "Descubra passagens bíblicas em que Deus opera maravilhas e que, mesmo atualmente, Ele não muda e continua operando."
-    },
-    {
-      "show_name": "Show da Fé",
-      "show_logo": "/wp-content/uploads/downloaded-images/rit/tomorrow/br_show-da-fe-1_l_m.webp",
-      "show_category": "Religious",
-      "start_time": "03:00",
-      "end_time": "04:00",
-      "episode_description": "Acompanhe depoimentos, testemunhos e histórias surpreendentes de amor e de superação. Com uma ótica cristã, o programa leva o Evangelho de Jesus Cristo aos quatro cantos do mundo e difunde a reveladora Palavra de Deus."
-    },
-    {
-      "show_name": "Igreja da Graça no Seu Lar",
-      "show_logo": "/wp-content/uploads/downloaded-images/rit/tomorrow/br_igreja-da-graca-no-seu-lar-1_l_m.webp",
-      "show_category": "Religious",
-      "start_time": "04:00",
-      "end_time": "05:00",
-      "episode_description": "Cultos realizados com ensinamentos bíblicos, louvor e adoração."
-    },
-    {
-      "show_name": "Novela da Vida Real",
-      "show_logo": "/wp-content/uploads/downloaded-images/rit/tomorrow/br_novela-da-vida-real_l_m.webp",
-      "show_category": "Religious",
-      "start_time": "05:00",
-      "end_time": "05:30",
-      "episode_description": "Acompanhe histórias que buscam mostrar que o poder de Deus pode todas as coisas."
-    },
-    {
-      "show_name": "Especial - Missões",
-      "show_logo": "/wp-content/uploads/downloaded-images/rit/tomorrow/br_especial-miss-es-1_l_m.webp",
-      "show_category": "Special",
-      "start_time": "05:30",
-      "end_time": "06:00",
-      "episode_description": "Acompanhe todas as campanhas missionárias e conheça as cidades visitadas pela caravana de fé do Missionário R.R. Soares. Confira reportagens e curiosidades das localidades e os momentos mais marcantes do culto realizado."
-    },
-    {
-      "show_name": "Oração da Manhã",
-      "show_logo": "/wp-content/uploads/downloaded-images/rit/tomorrow/br_orac-o-da-manh-1_l_m.webp",
-      "show_category": "Religious",
-      "start_time": "06:00",
-      "end_time": "06:45",
-      "episode_description": "Acorde com a graça de Deus e acompanhe a oração matinal realizada pelo pastor."
-    },
-    {
       "show_name": "Redação RIT",
-      "show_logo": "/wp-content/uploads/downloaded-images/rit/tomorrow/br_redac-o-rit_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_redac-o-rit_l_m.jpg",
       "show_category": "News",
-      "start_time": "06:45",
-      "end_time": "07:00",
-      "episode_description": "Acompanhe o boletim com notícias do Brasil e do Mundo."
-    },
-    {
-      "show_name": "Show da Fé",
-      "show_logo": "/wp-content/uploads/downloaded-images/rit/tomorrow/br_show-da-fe-1_l_m.webp",
-      "show_category": "Religious",
-      "start_time": "07:00",
-      "end_time": "08:30",
-      "episode_description": "Acompanhe depoimentos, testemunhos e histórias surpreendentes de amor e de superação. Com uma ótica cristã, o programa leva o Evangelho de Jesus Cristo aos quatro cantos do mundo e difunde a reveladora Palavra de Deus."
-    },
-    {
-      "show_name": "Redação RIT",
-      "show_logo": "/wp-content/uploads/downloaded-images/rit/tomorrow/br_redac-o-rit_l_m.webp",
-      "show_category": "News",
-      "start_time": "08:30",
-      "end_time": "08:55",
+      "start_time": "08:31",
+      "end_time": "09:00",
       "episode_description": "Acompanhe o boletim com notícias do Brasil e do Mundo."
     },
     {
       "show_name": "Semeando a Fé",
-      "show_logo": "/wp-content/uploads/downloaded-images/rit/tomorrow/br_semeando-a-fe_l_m.webp",
-      "show_category": "Religious",
-      "start_time": "08:55",
-      "end_time": "09:00",
-      "episode_description": "Aprenda a desfrutar das bênçãos de Deus. Todos os dias, assista às mensagens com o Missionário R. R. Soares."
-    },
-    {
-      "show_name": "Show da Fé",
-      "show_logo": "/wp-content/uploads/downloaded-images/rit/tomorrow/br_show-da-fe-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_semeando-a-fe_l_m.jpg",
       "show_category": "Religious",
       "start_time": "09:00",
-      "end_time": "10:30",
-      "episode_description": "Acompanhe depoimentos, testemunhos e histórias surpreendentes de amor e de superação. Com uma ótica cristã, o programa leva o Evangelho de Jesus Cristo aos quatro cantos do mundo e difunde a reveladora Palavra de Deus."
-    },
-    {
-      "show_name": "Semeando a Fé",
-      "show_logo": "/wp-content/uploads/downloaded-images/rit/tomorrow/br_semeando-a-fe_l_m.webp",
-      "show_category": "Religious",
-      "start_time": "10:30",
-      "end_time": "10:40",
+      "end_time": "09:05",
       "episode_description": "Aprenda a desfrutar das bênçãos de Deus. Todos os dias, assista às mensagens com o Missionário R. R. Soares."
     },
     {
-      "show_name": "A Hora da Graça de Deus",
-      "show_logo": "/wp-content/uploads/downloaded-images/rit/tomorrow/br_a-hora-da-graca-de-deus-1_l_m.webp",
-      "show_category": "Religious",
-      "start_time": "10:40",
-      "end_time": "11:00",
-      "episode_description": "Escute palavras de conforto e conselhos para abençoar a vida, proferidos por pastores."
-    },
-    {
-      "show_name": "Show da Fé",
-      "show_logo": "/wp-content/uploads/downloaded-images/rit/tomorrow/br_show-da-fe-1_l_m.webp",
-      "show_category": "Religious",
-      "start_time": "11:00",
-      "end_time": "12:30",
-      "episode_description": "Acompanhe depoimentos, testemunhos e histórias surpreendentes de amor e de superação. Com uma ótica cristã, o programa leva o Evangelho de Jesus Cristo aos quatro cantos do mundo e difunde a reveladora Palavra de Deus."
-    },
-    {
-      "show_name": "Semeando a Fé",
-      "show_logo": "/wp-content/uploads/downloaded-images/rit/tomorrow/br_semeando-a-fe_l_m.webp",
-      "show_category": "Religious",
-      "start_time": "12:30",
-      "end_time": "12:35",
-      "episode_description": "Aprenda a desfrutar das bênçãos de Deus. Todos os dias, assista às mensagens com o Missionário R. R. Soares."
+      "show_name": "Zig-Zag Show",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_zig-zag-show-1_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "09:05",
+      "end_time": "10:00",
+      "episode_description": "Aqui a diversão é garantida. O palhaço Zig-Zag comanda a festa da criançada."
     },
     {
       "show_name": "Redação RIT",
-      "show_logo": "/wp-content/uploads/downloaded-images/rit/tomorrow/br_redac-o-rit_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_redac-o-rit_l_m.jpg",
       "show_category": "News",
-      "start_time": "12:35",
-      "end_time": "13:15",
+      "start_time": "10:00",
+      "end_time": "10:10",
       "episode_description": "Acompanhe o boletim com notícias do Brasil e do Mundo."
     },
     {
-      "show_name": "Fatos em Foco",
-      "show_logo": "/wp-content/uploads/downloaded-images/rit/tomorrow/br_fatos-em-foco-1_l_m.webp",
+      "show_name": "Semeando a Fé",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_semeando-a-fe_l_m.jpg",
+      "show_category": "Religious",
+      "start_time": "10:10",
+      "end_time": "10:15",
+      "episode_description": "Aprenda a desfrutar das bênçãos de Deus. Todos os dias, assista às mensagens com o Missionário R. R. Soares."
+    },
+    {
+      "show_name": "Hummm! Saboroso!",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hummm-saboroso_l_m.jpg",
+      "show_category": "Cooking",
+      "start_time": "10:15",
+      "end_time": "11:00",
+      "episode_description": "Aprenda receitas caseiras para comercialização, além de artesanatos e algumas curiosidades."
+    },
+    {
+      "show_name": "Redação RIT",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_redac-o-rit_l_m.jpg",
       "show_category": "News",
-      "start_time": "13:15",
-      "end_time": "14:00",
-      "episode_description": "Tudo que foi notícia durante a semana é abordado de maneira inteligente e bem-humorada pelo jornalista João Rith. Fique por dentro dos fatos em foco no Brasil e no mundo."
-    },
-    {
-      "show_name": "Igreja da Graça no Seu Lar",
-      "show_logo": "/wp-content/uploads/downloaded-images/rit/tomorrow/br_igreja-da-graca-no-seu-lar-1_l_m.webp",
-      "show_category": "Religious",
-      "start_time": "14:00",
-      "end_time": "15:25",
-      "episode_description": "Cultos realizados com ensinamentos bíblicos, louvor e adoração."
+      "start_time": "11:00",
+      "end_time": "11:10",
+      "episode_description": "Acompanhe o boletim com notícias do Brasil e do Mundo."
     },
     {
       "show_name": "Semeando a Fé",
-      "show_logo": "/wp-content/uploads/downloaded-images/rit/tomorrow/br_semeando-a-fe_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_semeando-a-fe_l_m.jpg",
       "show_category": "Religious",
-      "start_time": "15:25",
+      "start_time": "11:10",
+      "end_time": "11:15",
+      "episode_description": "Aprenda a desfrutar das bênçãos de Deus. Todos os dias, assista às mensagens com o Missionário R. R. Soares."
+    },
+    {
+      "show_name": "Clip RIT",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_clip-rit_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "11:15",
+      "end_time": "11:50",
+      "episode_description": "O programa exibe clipes gospel nacional e internacional e os telespectadores escolhem os clipes que desejam ver, interagindo via e-mail e redes sociais."
+    },
+    {
+      "show_name": "No Espelho da Fé",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_no-espelho-da-fe_l_m.jpg",
+      "show_category": "Religious",
+      "start_time": "11:50",
+      "end_time": "12:00",
+      "episode_description": "Acompanhe as devocionais diárias que trazem a palavra de Deus."
+    },
+    {
+      "show_name": "Fala, Amigo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_fala-amigo-1_l_m.jpg",
+      "show_category": "Religious",
+      "start_time": "12:00",
+      "end_time": "13:03",
+      "episode_description": "Uma conversa com o público de forma descontraída, com respostas para perguntas de internautas."
+    },
+    {
+      "show_name": "Redação RIT",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_redac-o-rit_l_m.jpg",
+      "show_category": "News",
+      "start_time": "13:03",
+      "end_time": "13:30",
+      "episode_description": "Acompanhe o boletim com notícias do Brasil e do Mundo."
+    },
+    {
+      "show_name": "Curso Fé",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_curso-fe-1_l_m.jpg",
+      "show_category": "Religious",
+      "start_time": "13:30",
+      "end_time": "13:50",
+      "episode_description": "Entenda a fundo a Bíblia por meio de respostas sobre fé e sobre as escrituras."
+    },
+    {
+      "show_name": "Redação RIT",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_redac-o-rit_l_m.jpg",
+      "show_category": "News",
+      "start_time": "13:50",
+      "end_time": "14:05",
+      "episode_description": "Acompanhe o boletim com notícias do Brasil e do Mundo."
+    },
+    {
+      "show_name": "Nosso Programa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_nosso-programa-1_l_m.jpg",
+      "show_category": "Entertainment",
+      "start_time": "14:05",
+      "end_time": "15:00",
+      "episode_description": "Informação, curiosidades, bate papo e muito mais, tudo preparado com muito carinho para sua diversão. Matérias engraçadas e emocionantes."
+    },
+    {
+      "show_name": "Live das 15 Horas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_live-das-15-horas_l_m.jpg",
+      "show_category": "Religious",
+      "start_time": "15:00",
       "end_time": "15:35",
-      "episode_description": "Aprenda a desfrutar das bênçãos de Deus. Todos os dias, assista às mensagens com o Missionário R. R. Soares."
+      "episode_description": "Mensagens edificantes e inspirações lindas que o Senhor tem para dizer."
     },
     {
-      "show_name": "A Hora da Graça de Deus",
-      "show_logo": "/wp-content/uploads/downloaded-images/rit/tomorrow/br_a-hora-da-graca-de-deus-1_l_m.webp",
-      "show_category": "Religious",
+      "show_name": "Consulta ao Doutor",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_consulta-ao-doutor-1_l_m.jpg",
+      "show_category": "Health",
       "start_time": "15:35",
-      "end_time": "16:00",
-      "episode_description": "Escute palavras de conforto e conselhos para abençoar a vida, proferidos por pastores."
+      "end_time": "17:00",
+      "episode_description": "A jornalista Denise Luque entrevista profissionais das mais variadas especialidades das áreas de saúde e direito para esclarecer todas as suas dúvidas sobre o tema do dia."
     },
     {
-      "show_name": "Igreja da Graça no Seu Lar",
-      "show_logo": "/wp-content/uploads/downloaded-images/rit/tomorrow/br_igreja-da-graca-no-seu-lar-1_l_m.webp",
+      "show_name": "Redação RIT",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_redac-o-rit_l_m.jpg",
+      "show_category": "News",
+      "start_time": "17:00",
+      "end_time": "17:10",
+      "episode_description": "Acompanhe o boletim com notícias do Brasil e do Mundo."
+    },
+    {
+      "show_name": "SOS da Fé",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sos-da-fe_l_m.jpg",
       "show_category": "Religious",
-      "start_time": "16:00",
-      "end_time": "17:25",
-      "episode_description": "Cultos realizados com ensinamentos bíblicos, louvor e adoração."
+      "start_time": "17:10",
+      "end_time": "18:00",
+      "episode_description": "Acompanhe as pregações e as mensagens diárias com o missionário R. R. Soares."
+    },
+    {
+      "show_name": "Show da Fé",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_show-da-fe-1_l_m.jpg",
+      "show_category": "Religious",
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "episode_description": "Acompanhe depoimentos, testemunhos e histórias surpreendentes de amor e de superação. Com uma ótica cristã, o programa leva o Evangelho de Jesus Cristo aos quatro cantos do mundo e difunde a reveladora Palavra de Deus."
+    },
+    {
+      "show_name": "SOS da Fé",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sos-da-fe_l_m.jpg",
+      "show_category": "Religious",
+      "start_time": "19:00",
+      "end_time": "22:30",
+      "episode_description": "Acompanhe as pregações e as mensagens diárias com o missionário R. R. Soares."
+    },
+    {
+      "show_name": "Jornal das 22",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-das-22_l_m.jpg",
+      "show_category": "News",
+      "start_time": "22:30",
+      "end_time": "23:30",
+      "episode_description": "Acompanhe as últimas notícias do Brasil e do mundo."
     },
     {
       "show_name": "Semeando a Fé",
-      "show_logo": "/wp-content/uploads/downloaded-images/rit/tomorrow/br_semeando-a-fe_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_semeando-a-fe_l_m.jpg",
       "show_category": "Religious",
-      "start_time": "17:25",
-      "end_time": "17:35",
+      "start_time": "23:30",
+      "end_time": "23:35",
       "episode_description": "Aprenda a desfrutar das bênçãos de Deus. Todos os dias, assista às mensagens com o Missionário R. R. Soares."
     },
     {
-      "show_name": "A Hora da Graça de Deus",
-      "show_logo": "/wp-content/uploads/downloaded-images/rit/tomorrow/br_a-hora-da-graca-de-deus-1_l_m.webp",
+      "show_name": "Vejam Só",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vejam-so-1_l_m.jpg",
       "show_category": "Religious",
-      "start_time": "17:35",
+      "start_time": "23:35",
       "end_time": "",
-      "episode_description": "Escute palavras de conforto e conselhos para abençoar a vida, proferidos por pastores."
+      "episode_description": "Programa de debates com linguagem simples e objetiva. Os temas abordados são polêmicos e curiosos."
     }
   ]
 }

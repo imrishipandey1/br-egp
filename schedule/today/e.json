@@ -4,227 +4,211 @@
   "schedule": [
     {
       "show_name": "Love Island",
-      "show_logo": "/wp-content/uploads/downloaded-images/e/today/br_love-island-s05e32_l_m.webp",
-      "show_category": "Temporada 5 Episódio 32",
-      "start_time": "00:00",
-      "end_time": "01:10",
-      "episode_description": "Os participantes continuam jogando \"Corações em Chamas\". Uma garota está em conflito às vésperas da última rodada de formação de casais."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_love-island-s05e25_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 25",
+      "start_time": "00:45",
+      "end_time": "02:05",
+      "episode_description": "Fim da Casa Amor. Participantes precisam decidir se permanecem fiéis ou se juntam a alguém novo."
+    },
+    {
+      "show_name": "Love Island",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_love-island-s05e26_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 26",
+      "start_time": "02:05",
+      "end_time": "03:10",
+      "episode_description": "Tensão chega ao limite após a formação dos novos casais, deixando alguns participantes em conflito."
+    },
+    {
+      "show_name": "Love Island",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_love-island-s05e27_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 27",
+      "start_time": "03:10",
+      "end_time": "04:15",
+      "episode_description": "O drama esquenta quando os participantes assistem à \"Noite do Cinema\" e descobrem o que aconteceu durante a Casa Amor."
     },
     {
       "show_name": "Million Dollar Listing Los Angeles",
-      "show_logo": "/wp-content/uploads/downloaded-images/e/today/br_million-dollar-listing-los-angeles-s15e05_l_m.webp",
-      "show_category": "Temporada 15 Episódio 5 - Um Conto de Dois Imóveis",
-      "start_time": "01:10",
-      "end_time": "02:00",
-      "episode_description": "Flagg e Altman competem para vender seus imóveis em Trousdale, mas Flagg vira o jogo ao se apaixonar pela propriedade de Altman."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_million-dollar-listing-los-angeles-s15e03_l_m.jpg",
+      "show_category": "Temporada 15 Episódio 3 - Arrependimento de Comprador",
+      "start_time": "04:15",
+      "end_time": "05:00",
+      "episode_description": "Tracy tenta resgatar um casal de compradores de primeira viagem que está arrependido da compra; Flagg visita a casa dos sonhos de infância que comprou sem ver; Altman está nadando em mármore enquanto tenta vender uma mansão em Pelican Crest."
     },
     {
       "show_name": "Million Dollar Listing Los Angeles",
-      "show_logo": "/wp-content/uploads/downloaded-images/e/today/br_million-dollar-listing-los-angeles-s15e06-sem-acordo-e-facil_l_m.webp",
-      "show_category": "Temporada 15 Episódio 6 - Sem Acordo É Fácil",
-      "start_time": "02:00",
-      "end_time": "03:00",
-      "episode_description": "Uma negociação entre Flagg, Tracy e Altman não leva a lugar nenhum, deixando Flagg sem imóvel."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_million-dollar-listing-los-angeles-s15e04_l_m.jpg",
+      "show_category": "Temporada 15 Episódio 4 - É Hora de Ir Embora",
+      "start_time": "05:00",
+      "end_time": "06:00",
+      "episode_description": "Tracy lida com decepções amorosas em sua vida pessoal e profissional; Altman consegue uma grande oportunidade, mas isso vem acompanhado de muita dor de cabeça."
+    },
+    {
+      "show_name": "Vanderpump Rules",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vanderpump-rules-s06e12-acidente-e-quest-es-amorosas_l_m.jpg",
+      "show_category": "Temporada 6 Episódio 12 - Acidente e Questões Amorosas",
+      "start_time": "06:00",
+      "end_time": "07:00",
+      "episode_description": "Em Big Bear, Jax quase se acidenta gravemente em uma tentativa de se exibir que acaba dando terrivelmente errado; Raquel questiona se James ainda nutre sentimentos românticos por Lala."
+    },
+    {
+      "show_name": "Vanderpump Rules",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vanderpump-rules-s06e13-vegas-baby_l_m.jpg",
+      "show_category": "Temporada 6 Episódio 13 - Vegas, Baby!",
+      "start_time": "07:00",
+      "end_time": "07:50",
+      "episode_description": "Lisa leva Sandoval e Schwartz em uma viagem de negócios a Las Vegas para projetar seu novo bar, mas quando os caras se concentram mais na festa do que no profissionalismo, Lisa questiona toda a parceria."
+    },
+    {
+      "show_name": "Vanderpump Rules",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vanderpump-rules-s06e14-tome-cuidado_l_m.jpg",
+      "show_category": "Temporada 6 Episódio 14 - Tome Cuidado",
+      "start_time": "07:50",
+      "end_time": "08:40",
+      "episode_description": "Brittany mima Jax em seu aniversário de 38 anos, mas ele mostra sua falta de maturidade quando é confrontado com uma lembrança de sua infidelidade."
+    },
+    {
+      "show_name": "Vanderpump Rules",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vanderpump-rules-s06e15-n-o-tem-nada-aqui-para-mim_l_m.jpg",
+      "show_category": "Temporada 6 Episódio 15 - Não Tem Nada Aqui para Mim",
+      "start_time": "08:40",
+      "end_time": "09:30",
+      "episode_description": "Brittany tenta colocar seu relacionamento de volta nos trilhos levando o grupo ao México, mas Jax a surpreende com a notícia de que está pensando em se mudar para a Flórida para um emprego novo."
+    },
+    {
+      "show_name": "Vanderpump Rules",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vanderpump-rules-s06e16-aventuras-no-mexico_l_m.jpg",
+      "show_category": "Temporada 6 Episódio 16 - Aventuras no México",
+      "start_time": "09:30",
+      "end_time": "10:20",
+      "episode_description": "A aventura no México continua enquanto o grupo explora um parque aquático natural, a vida noturna de Playa del Carmen e um pequeno local chamado SUR."
+    },
+    {
+      "show_name": "Vanderpump Rules",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vanderpump-rules-s06e17-a-arma-fumegante_l_m.jpg",
+      "show_category": "Temporada 6 Episódio 17 - A Arma Fumegante",
+      "start_time": "10:20",
+      "end_time": "11:10",
+      "episode_description": "A festa de Playa del Carmen continua enquanto James assume a cabine de DJ em uma boate mexicana, e Jax confronta Scheana por ter arranjado Brittany com outro homem."
+    },
+    {
+      "show_name": "Keeping Up With the Kardashians",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_keeping-up-with-the-kardashians-s20e09-keeping-up-with-the-kids_l_m.jpg",
+      "show_category": "Temporada 20 Episódio 9 - Lidando com as Crianças",
+      "start_time": "11:10",
+      "end_time": "12:00",
+      "episode_description": "Tristan percebe que Khloé está estressada com a situação que está vivendo e toma algumas atitudes para que ela se sinta mais confortável; Scott se sente forçado a compartilhar alguns de seus momentos mais profundos e sentimentais com seus filhos durante o programa; a família percebe que eles têm um problema coletivo em relação à negatividade da matriarca da família, Kris Jenner."
+    },
+    {
+      "show_name": "Keeping Up With the Kardashians",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_keeping-up-with-the-kardashians-s20e10-birthdays-and-bad-news_l_m.jpg",
+      "show_category": "Temporada 20 Episódio 10 - Aniversários e Más Notícias",
+      "start_time": "12:00",
+      "end_time": "12:50",
+      "episode_description": "Kim planeja uma mega surpresa de aniversário para sua mãe, mas recebe algumas más notícias sobre suas aulas de direito, que a fazem questionar se ela está no caminho certo para se tornar uma advogada; quando Kourtney descobre que Kendall tem devolvido secretamente todos os seus presentes, ela bola um plano para tentar pegá-la na mentira."
+    },
+    {
+      "show_name": "Keeping Up With the Kardashians",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_keeping-up-with-the-kardashians-s20e11-the-end-part-1_l_m.jpg",
+      "show_category": "Temporada 20 Episódio 11 - Final",
+      "start_time": "12:50",
+      "end_time": "13:40",
+      "episode_description": "A família parte para Lake Tahoe em sua última viagem em família, onde eles revivem algumas de suas melhores lembranças do programa; Kim acaba tendo que lidar com algumas turbulências em seu casamento."
+    },
+    {
+      "show_name": "Keeping Up With the Kardashians",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_keeping-up-with-the-kardashians-s20e12-the-end-part-2_l_m.jpg",
+      "show_category": "Temporada 20 Episódio 12 - Final",
+      "start_time": "13:40",
+      "end_time": "14:35",
+      "episode_description": "As Kardashians enterram uma cápsula do tempo para comemorar seus anos no programa."
+    },
+    {
+      "show_name": "Keeping Up With the Kardashians",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_keeping-up-with-the-kardashians-s20e13-the-final-curtain-part-1_l_m.jpg",
+      "show_category": "Temporada 20 Episódio 13 - A Grande Final",
+      "start_time": "14:35",
+      "end_time": "15:25",
+      "episode_description": "As Kardashian-Jenners se encontram com Andy Cohen para revisitar alguns dos momentos mais comentados e as perguntas não respondidas de todas as 20 temporadas."
+    },
+    {
+      "show_name": "Keeping Up With the Kardashians",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_keeping-up-with-the-kardashians-s20e14-the-final-curtain-part-2_l_m.jpg",
+      "show_category": "Temporada 20 Episódio 14 - A Grande Final",
+      "start_time": "15:25",
+      "end_time": "16:15",
+      "episode_description": "As Kardashian-Jenners se encontram com Andy Cohen para revisitar alguns dos momentos mais comentados e as perguntas não respondidas de todas as 20 temporadas."
+    },
+    {
+      "show_name": "The Kardashians: Billion Dollar Dynasty",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-kardashians-billion-dollar-dynasty-s01e01_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1",
+      "start_time": "16:15",
+      "end_time": "17:10",
+      "episode_description": "A história de como, por meio de um esforço obstinado para ganhar o máximo de publicidade possível, as Kardashians construíram uma marca familiar e se tornaram bilionárias."
+    },
+    {
+      "show_name": "The Kardashians: Billion Dollar Dynasty",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-kardashians-billion-dollar-dynasty-s01e02_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2",
+      "start_time": "17:10",
+      "end_time": "18:00",
+      "episode_description": "As Kardashians vão de polêmica em polêmica, mas sua fama e poder só aumentam."
     },
     {
       "show_name": "Botched - Desastres do Bisturi",
-      "show_logo": "/wp-content/uploads/downloaded-images/e/today/br_botched-desastres-do-bisturi_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_botched-desastres-do-bisturi_l_m.jpg",
       "show_category": "Reality",
-      "start_time": "03:00",
-      "end_time": "04:00",
+      "start_time": "18:00",
+      "end_time": "18:50",
       "episode_description": "os doutores Terry Dubrow e Paul Nassif relembram os casos mais desafiadores que enfrentaram."
     },
     {
-      "show_name": "House of Kardashian",
-      "show_logo": "/wp-content/uploads/downloaded-images/e/today/br_house-of-kardashian-s01e01-o-martelo-de-veludo_l_m.webp",
-      "show_category": "Temporada 1 Episódio 1 - O Martelo de Veludo",
-      "start_time": "04:00",
-      "end_time": "05:00",
-      "episode_description": "As ambições de Kris vêm à tona após o divórcio com Robert Kardashian - e assim nasce uma dinastia."
-    },
-    {
-      "show_name": "House of Kardashian",
-      "show_logo": "/wp-content/uploads/downloaded-images/e/today/br_house-of-kardashian-s01e02-sexo-mentiras-e-videotape_l_m.webp",
-      "show_category": "Temporada 1 Episódio 2 - Sexo, Mentiras e Videotape",
-      "start_time": "05:00",
-      "end_time": "06:00",
-      "episode_description": "Um vídeo de Kim Kardashian com conteúdo erótico é o começo de uma história que se transforma em um reality show estratosférico e acompanhado por muitos seguidores."
-    },
-    {
-      "show_name": "Keeping Up With the Kardashians",
-      "show_logo": "/wp-content/uploads/downloaded-images/e/today/br_keeping-up-with-the-kardashians-s20e05-great-ex-pectations_l_m.webp",
-      "show_category": "Temporada 20 Episódio 5 - Grandes Ex-pectativas",
-      "start_time": "06:00",
-      "end_time": "06:50",
-      "episode_description": "Kourtney estabelece alguns limites dentro de sua equipe da Poosh quando a linha entre negócios e amizade acaba ficando um pouco confusa; Caitlyn oferece ajuda a Kris em um negócio de risco, mas a família duvida que Kris vá em frente com isso; Khloe e Tristan têm uma experiência inexplicável enquanto procuram por alienígenas."
-    },
-    {
-      "show_name": "Keeping Up With the Kardashians",
-      "show_logo": "/wp-content/uploads/downloaded-images/e/today/br_keeping-up-with-the-kardashians-s20e06-summer-of-love_l_m.webp",
-      "show_category": "Temporada 20 Episódio 6 - Verão com Muito Amor",
-      "start_time": "06:50",
-      "end_time": "07:40",
-      "episode_description": "Scott finalmente admite que ainda está apaixonado por Kourtney; Khloè sai em busca de um sem-teto que causou um impacto muito grande nela anos atrás; Kim pede a ajuda de um profissional para fazer sua estreia no TikTok."
-    },
-    {
-      "show_name": "Keeping Up With the Kardashians",
-      "show_logo": "/wp-content/uploads/downloaded-images/e/today/br_keeping-up-with-the-kardashians-s20e07-the-end-of-an-era_l_m.webp",
-      "show_category": "Temporada 20 Episódio 7 - O Fim de uma Era",
-      "start_time": "07:40",
-      "end_time": "08:30",
-      "episode_description": "A família toma uma grande decisão sobre o futuro do programa e reflete sobre como o \"Keeping Up With the Kardashians\" será realmente o fim de uma era; Kris parte em uma viagem só de mulheres para relaxar sobre a decisão."
-    },
-    {
-      "show_name": "Keeping Up With the Kardashians",
-      "show_logo": "/wp-content/uploads/downloaded-images/e/today/br_keeping-up-with-the-kardashians-s20e08-season-of-change_l_m.webp",
-      "show_category": "Temporada 20 Episódio 8 - Temporada de Mudanças",
-      "start_time": "08:30",
-      "end_time": "09:20",
-      "episode_description": "Khloè se depara com alguns obstáculos inesperados ao explorar a alternativa de uma barriga de aluguel; Scott teme que a família vá se separar agora que o programa está chegando ao fim; Kim está determinada a descobrir quem está por trás da página satírica NorisBlackBook nas redes sociais."
-    },
-    {
-      "show_name": "Project Runway",
-      "show_logo": "/wp-content/uploads/downloaded-images/e/today/br_project-runway-s13e08-uma-joia-na-passarela_l_m.webp",
-      "show_category": "Temporada 13 Episódio 8 - Chuva na Passarela",
-      "start_time": "09:20",
-      "end_time": "10:05",
-      "episode_description": "Os estilistas precisam se inspirar na nova tela curva da Samsung TV para criar um look que fique bom em todos os ângulos. Mas isso não é tudo, pois também têm de se certificar de que as modelos possam arrasar na passarela debaixo de chuva."
-    },
-    {
-      "show_name": "Project Runway",
-      "show_logo": "/wp-content/uploads/downloaded-images/e/today/br_project-runway-s13e09-chuva-na-passarela_l_m.webp",
-      "show_category": "Temporada 13 Episódio 9 - Boneca American Girl",
-      "start_time": "10:05",
-      "end_time": "10:50",
-      "episode_description": "Os estilistas fazem uma visita à loja American Girl e devem criar um look moderno para meninas, inspirado em uma coleção de bonecas. Eles também precisam trabalhar com suas modelos para conseguir uma roupa que as represente da melhor forma possível."
-    },
-    {
-      "show_name": "Project Runway",
-      "show_logo": "/wp-content/uploads/downloaded-images/e/today/br_project-runway-s13e10-look-de-boneca_l_m.webp",
-      "show_category": "Temporada 13 Episódio 10 - Uma Musa na Multidão",
-      "start_time": "10:50",
-      "end_time": "11:35",
-      "episode_description": "Os estilistas precisam escolher uma completa estranha nas ruas para ser a sua musa inspiradora; as escolhidas recebem uma transformação completa, com direito a maquiagem e corte de cabelo."
-    },
-    {
-      "show_name": "Project Runway",
-      "show_logo": "/wp-content/uploads/downloaded-images/e/today/br_project-runway-s13e11-inspirac-o-das-ruas_l_m.webp",
-      "show_category": "Temporada 13 Episódio 11 - Maior Apostador",
-      "start_time": "11:35",
-      "end_time": "12:25",
-      "episode_description": "Os estilistas precisam fazer a sua melhor oferta por um contêiner e usar apenas os materiais que encontrem em seu interior para, em equipe, criar uma coleção de duas peças."
-    },
-    {
-      "show_name": "Project Runway",
-      "show_logo": "/wp-content/uploads/downloaded-images/e/today/br_project-runway-s13e12-quem-da-mais_l_m.webp",
-      "show_category": "Temporada 13 Episódio 12 - Quem Está Dentro e Quem Está Fora",
-      "start_time": "12:25",
-      "end_time": "13:15",
-      "episode_description": "Após uma volta por Nova York a bordo de um Lexus, os estilistas precisam criar um look street chic. Mas, além disso, devem redesenhar uma das roupas perdedoras da temporada."
-    },
-    {
-      "show_name": "Million Dollar Listing Los Angeles",
-      "show_logo": "/wp-content/uploads/downloaded-images/e/today/br_million-dollar-listing-los-angeles-s14e09-comiss-es-nas-alturas_l_m.webp",
-      "show_category": "Temporada 14 Episódio 9 - Comissões nas Alturas",
-      "start_time": "13:15",
-      "end_time": "14:05",
-      "episode_description": "As coisas não vão nada bem no open house de Flagg e Bobby Birchwood."
-    },
-    {
-      "show_name": "Million Dollar Listing Los Angeles",
-      "show_logo": "/wp-content/uploads/downloaded-images/e/today/br_million-dollar-listing-los-angeles-s14e10-ameaca-em-dose-tripla_l_m.webp",
-      "show_category": "Temporada 14 Episódio 10 - Ameaça em Dose Tripla",
-      "start_time": "14:05",
-      "end_time": "14:55",
-      "episode_description": "Altman convoca Tracy e Flagg para ajudá-lo a encarar um novo e épico empreendimento em Las Vegas. Os três recorrem a um filme clássico de Hollywood em busca de inspiração para planejar um evento."
-    },
-    {
-      "show_name": "Million Dollar Listing Los Angeles",
-      "show_logo": "/wp-content/uploads/downloaded-images/e/today/br_million-dollar-listing-los-angeles-s14e11-flagg-e-avers-o-em-las-vegas_l_m.webp",
-      "show_category": "Temporada 14 Episódio 11 - Flagg e Aversão em Las Vegas",
-      "start_time": "14:55",
-      "end_time": "15:45",
-      "episode_description": "Altman, Flagg e Tracy fazem uma lista tripla em Las Vegas, o que pode render comissões enormes."
-    },
-    {
-      "show_name": "Million Dollar Listing Los Angeles",
-      "show_logo": "/wp-content/uploads/downloaded-images/e/today/br_million-dollar-listing-los-angeles-s14e12-uma-noite-em-hollywood_l_m.webp",
-      "show_category": "Temporada 14 Episódio 12 - Uma Noite em Hollywood",
-      "start_time": "15:45",
-      "end_time": "16:35",
-      "episode_description": "Altman, Flagg e Tracy dão uma festa inspirada em filmes de Hollywood para lançar um empreendimento no deserto de Las Vegas."
-    },
-    {
-      "show_name": "Million Dollar Listing Los Angeles",
-      "show_logo": "/wp-content/uploads/downloaded-images/e/today/br_million-dollar-listing-los-angeles-s15e01-quando-voce-pensa-que-ja-viu-tudo_l_m.webp",
-      "show_category": "Temporada 15 Episódio 1 - Quando Você Pensa que Já Viu Tudo...",
-      "start_time": "16:35",
-      "end_time": "17:25",
-      "episode_description": "Após alguns anos recordes, o mercado imobiliário de luxo de Los Angeles é atingido por uma tempestade perfeita: altas taxas de juros, o imposto sobre mansões da ULA e baixo estoque."
-    },
-    {
-      "show_name": "Million Dollar Listing Los Angeles",
-      "show_logo": "/wp-content/uploads/downloaded-images/e/today/br_million-dollar-listing-los-angeles-s15e02-odeio-dizer-que-eu-avisei_l_m.webp",
-      "show_category": "Temporada 15 Episódio 2 - Ainda Bem que Eu Avisei",
-      "start_time": "17:25",
-      "end_time": "18:15",
-      "episode_description": "Altman e Tracy precisam enfrentar vendedores teimosos, já que seus imóveis de alto padrão não encontram compradores em um mercado em queda livre."
-    },
-    {
-      "show_name": "No Jogo",
-      "show_logo": "/wp-content/uploads/downloaded-images/e/today/br_no-jogo-s01e03_l_m.webp",
-      "show_category": "Temporada 1 Episódio 3",
-      "start_time": "18:15",
-      "end_time": "19:15",
-      "episode_description": "As atrizes exploram as identidades de suas personagens e personalizam seus uniformes com a ajuda de Lena Santana. Algumas priorizam a ousadia, enquanto outras se concentram na funcionalidade."
-    },
-    {
-      "show_name": "No Jogo",
-      "show_logo": "/wp-content/uploads/downloaded-images/e/today/br_no-jogo-s01e04_l_m.webp",
-      "show_category": "Temporada 1 Episódio 4",
-      "start_time": "19:15",
-      "end_time": "20:10",
-      "episode_description": "As participantes conhecem profissionais de saúde e ganham dicas valiosas para a prova principal em que devem atuar em cenas que envolvem conhecimentos de saúde, como troca de soro e preparação de injeção, em um cenário de emergência hospitalar."
-    },
-    {
-      "show_name": "No Jogo",
-      "show_logo": "/wp-content/uploads/downloaded-images/e/today/br_no-jogo-s01e05_l_m.webp",
-      "show_category": "Temporada 1 Episódio 5",
-      "start_time": "20:10",
-      "end_time": "21:10",
-      "episode_description": "Em uma dinâmica inicial, as candidatas fazem uma radionovela com a ajuda do músico Pedro Lima. Já na prova principal, elas seguem as marcações da diretora Jamile Marinho, atuando para as câmeras com atenção à luz e ao som."
+      "show_name": "Botched - Desastres do Bisturi",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_botched-desastres-do-bisturi_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "18:50",
+      "end_time": "19:40",
+      "episode_description": "os doutores Terry Dubrow e Paul Nassif relembram os casos mais desafiadores que enfrentaram."
     },
     {
       "show_name": "Botched - Desastres do Bisturi",
-      "show_logo": "/wp-content/uploads/downloaded-images/e/today/br_botched-desastres-do-bisturi_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_botched-desastres-do-bisturi_l_m.jpg",
       "show_category": "Reality",
-      "start_time": "21:10",
-      "end_time": "22:00",
+      "start_time": "19:40",
+      "end_time": "20:30",
       "episode_description": "os doutores Terry Dubrow e Paul Nassif relembram os casos mais desafiadores que enfrentaram."
     },
     {
       "show_name": "Botched Presents: Plastic Surgery Rewind",
-      "show_logo": "/wp-content/uploads/downloaded-images/e/today/br_botched-presents-plastic-surgery-rewind-s01e08-hora-de-curar_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_botched-presents-plastic-surgery-rewind-s01e08-hora-de-curar_l_m.jpg",
       "show_category": "Temporada 1 Episódio 8 - Hora de Curar",
-      "start_time": "22:00",
-      "end_time": "22:50",
+      "start_time": "20:30",
+      "end_time": "21:20",
       "episode_description": "Os participantes se reencontram no Retiro Rewind com seus novos visuais. Aubrey, Jessica e Sophia revelam se optaram por voltar no tempo ou não. Michelle se junta ao grupo para uma conversa sobre como essa experiência de rebobinar mudou suas vidas."
     },
     {
-      "show_name": "Love Island",
-      "show_logo": "/wp-content/uploads/downloaded-images/e/today/br_love-island-s05e23_l_m.webp",
-      "show_category": "Temporada 5 Episódio 23",
-      "start_time": "22:50",
-      "end_time": "23:50",
-      "episode_description": "As emoções ficam à flor da pele quando as garotas da Casa Amor recebem um vídeo chocante da vila."
+      "show_name": "No Jogo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_no-jogo-s01e06_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 6",
+      "start_time": "21:20",
+      "end_time": "22:20",
+      "episode_description": "As candidatas recebem uma aula de capoeira da contra mestra Érida Ferreira. A prova principal, com o convidado Rodrigo França, desafia as atrizes a improvisar um novo texto utilizando elementos de provas anteriores e um objeto pessoal surpresa."
+    },
+    {
+      "show_name": "No Jogo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_no-jogo-s01e07_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 7",
+      "start_time": "22:20",
+      "end_time": "23:15",
+      "episode_description": "As finalistas recebem mensagens de incentivo vindas de pessoas especiais para elas. Para aumentar ainda mais a emoção, na grande prova final as atrizes são surpreendidas ao saber que irão contracenar com a estrela Zezé Motta."
     },
     {
       "show_name": "Love Island",
-      "show_logo": "/wp-content/uploads/downloaded-images/e/today/br_love-island-s05e24_l_m.webp",
-      "show_category": "Temporada 5 Episódio 24",
-      "start_time": "23:50",
-      "end_time": "00:45",
-      "episode_description": "Narrador Iain Stirling apresenta cenas exclusivas não exibidas anteriormente, incluindo divertidos outtakes de jogo conduzido por Maura Higgins com os participantes, revelando dinâmicas e interações ocultas."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_love-island-s05e28_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 28",
+      "start_time": "23:15",
+      "end_time": "00:40",
+      "episode_description": "O drama atinge o ápice quando Sarah Hyland retorna com o voto do público para uma eliminação brutal."
     }
   ]
 }
