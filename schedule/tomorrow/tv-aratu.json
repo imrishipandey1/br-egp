@@ -1,52 +1,76 @@
 {
   "channel": "TV Aratu",
-  "date": "09/03/2026",
+  "date": "10/03/2026",
   "schedule": [
     {
-      "show_name": "Titãs",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_tit-s_l_m.jpg",
-      "show_category": "Drama",
+      "show_name": "The Noite com Danilo Gentili",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-noite-com-danilo-gentili_l_m.jpg",
+      "show_category": "Talk",
       "start_time": "00:00",
       "end_time": "01:00",
-      "episode_description": "Após se aventurar em carreira solo, o antigo parceiro do Batman, Dick Grayson, encontra um grupo de jovens heróis que precisam desesperadamente de um mentor."
+      "episode_description": "Talk show com alto índice de piadas por minuto, que, com muita irreverência, aborda os fatos relevantes do dia."
+    },
+    {
+      "show_name": "Operação Mesquita",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_operac-o-mesquita_l_m.jpg",
+      "show_category": "Entertainment",
+      "start_time": "01:00",
+      "end_time": "01:30",
+      "episode_description": "Descubra o lado B dos famosos, que mostram o seu cotidiano de forma curiosa e divertida por meio de entrevistas. Acompanhe ainda pessoas comuns que estão prestes a protagonizar um grande momento que pode mudar para sempre as suas vidas."
+    },
+    {
+      "show_name": "SBT PodNight",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-podnight_l_m.jpg",
+      "show_category": "Talk",
+      "start_time": "01:30",
+      "end_time": "02:00",
+      "episode_description": "Exibição de podcasts brasileiros líderes de audiência nas plataformas digitais, que abordam temas variados, de cultura e entretenimento a questões sociais."
     },
     {
       "show_name": "SBT Notícias",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-noticias_l_m.jpg",
       "show_category": "News",
-      "start_time": "01:00",
-      "end_time": "06:00",
+      "start_time": "02:00",
+      "end_time": "05:00",
       "episode_description": "Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia."
     },
     {
-      "show_name": "Aratu 24 Horas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_aratu-24-horas_l_m.jpg",
-      "show_category": "News",
-      "start_time": "06:00",
-      "end_time": "07:30",
-      "episode_description": "Programa matinal traz notícias da madrugada, reportagens e serviços. Em três blocos, aborda segurança, cultura, lazer e informações práticas."
+      "show_name": "Igreja da Graça",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_igreja-da-graca_l_m.jpg",
+      "show_category": "Religious",
+      "start_time": "05:00",
+      "end_time": "06:00",
+      "episode_description": "Acompanhe a programação da Igreja Universal da Graça de Deus."
     },
     {
       "show_name": "Se Liga Brasil",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_se-liga-brasil_l_m.jpg",
       "show_category": "News",
-      "start_time": "07:30",
-      "end_time": "08:30",
+      "start_time": "06:00",
+      "end_time": "07:00",
       "episode_description": "Um telejornal que traz as principais notícias do Brasil, notícias policiais e os temas que repercutem nas redes sociais."
+    },
+    {
+      "show_name": "Aratu 24 Horas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aratu-24-horas_l_m.jpg",
+      "show_category": "News",
+      "start_time": "07:00",
+      "end_time": "08:30",
+      "episode_description": "Programa matinal traz notícias da madrugada, reportagens e serviços. Em três blocos, aborda segurança, cultura, lazer e informações práticas."
     },
     {
       "show_name": "Primeiro Impacto",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_primeiro-impacto-1997_l_m.jpg",
       "show_category": "News",
       "start_time": "08:30",
-      "end_time": "11:00",
+      "end_time": "10:45",
       "episode_description": "Acompanhe as reportagens que trazem informações do dia a dia. Saiba o que é relevante para o cenário cotidiano por meio de análises e opiniões de colunistas."
     },
     {
       "show_name": "Alô Juca",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_alo-juca_l_m.jpg",
       "show_category": "News",
-      "start_time": "11:00",
+      "start_time": "10:45",
       "end_time": "13:45",
       "episode_description": "Cobertura das principais notícias da Bahia, prestação de serviços, entrevistas exclusivas com especialistas e autoridades, além de reportagens especiais."
     },
@@ -71,64 +95,56 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_fofocalizando_l_m.jpg",
       "show_category": "Newsmagazine",
       "start_time": "15:30",
-      "end_time": "17:00",
+      "end_time": "16:45",
       "episode_description": "Revista eletrônica com informação, humor e as principais fofocas do mundo dos famosos."
     },
     {
-      "show_name": "Coração Indomável",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_corac-o-indomavel-1_l_m.jpg",
-      "show_category": "Soap",
-      "start_time": "17:00",
-      "end_time": "18:15",
-      "episode_description": "A novela conta a história da pobre Maricruz que, após ter sido abandonada pelo marido, decide se vingar daqueles que a humilharam. Ela descobre ser filha de um homem rico, tornando-se uma mulher da alta sociedade."
-    },
-    {
-      "show_name": "Fala, Dani",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_fala-dani_l_m.jpg",
-      "show_category": "Special",
-      "start_time": "18:15",
-      "end_time": "18:30",
-      "episode_description": "Os principais acontecimentos do programa \"Alô Juca\", mas com um olhar diferente, com uma linguagem mais leve, mais próxima ao que a gente vê na internet, nas redes sociais. Com bastidores e também os memes que surgem diariamente no Juca."
+      "show_name": "Newcastle United x Barcelona",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-newcastle-united-x-barcelona_l_m.jpg",
+      "show_category": "UEFA Champions League",
+      "start_time": "16:45",
+      "end_time": "19:00",
+      "episode_description": "Todas as emoções da principal competição de futebol masculino disputada entre clubes europeus."
     },
     {
       "show_name": "Aratu Notícias",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_aratu-noticias_l_m.jpg",
       "show_category": "News",
-      "start_time": "18:30",
+      "start_time": "19:00",
       "end_time": "19:30",
       "episode_description": "As principais notícias do dia são mostradas no Aratu Notícias. Com reportagens ao vivo e muito dinamismo, o telejornal acompanha os principais fatos que acontecem no dia a dia dos baianos."
-    },
-    {
-      "show_name": "Presente de Amor",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_presente-de-amor_l_m.jpg",
-      "show_category": "Soap",
-      "start_time": "19:30",
-      "end_time": "20:30",
-      "episode_description": "Isabella é uma mulher cujo maior sonho é ser mãe. Após a morte repentina do marido, ela conhece Eugenio, um homem generoso. Suas vidas tomam um rumo dramático quando um ser angelical aparece, dando-lhes a oportunidade de se tornarem pais."
     },
     {
       "show_name": "SBT Brasil",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-brasil_l_m.jpg",
       "show_category": "News",
-      "start_time": "20:30",
-      "end_time": "21:30",
+      "start_time": "19:30",
+      "end_time": "20:45",
       "episode_description": "As principais notícias do Brasil e do mundo com análise profunda dos fatos."
+    },
+    {
+      "show_name": "Presente de Amor",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_presente-de-amor_l_m.jpg",
+      "show_category": "Soap",
+      "start_time": "20:45",
+      "end_time": "21:45",
+      "episode_description": "Isabella é uma mulher cujo maior sonho é ser mãe. Após a morte repentina do marido, ela conhece Eugenio, um homem generoso. Suas vidas tomam um rumo dramático quando um ser angelical aparece, dando-lhes a oportunidade de se tornarem pais."
     },
     {
       "show_name": "Programa do Ratinho",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_programa-do-ratinho_l_m.jpg",
       "show_category": "Variety",
-      "start_time": "21:30",
-      "end_time": "22:30",
+      "start_time": "21:45",
+      "end_time": "22:45",
       "episode_description": "O apresentador Carlos Massa leva ao público um programa alegre e repleto de atrações. Ele recebe convidados famosos e games, comédia, participação do público e quadros únicos, como o \"Jornal Racional\", \"Gol Show\" e \"Dez ou Mil\", entre outros."
     },
     {
-      "show_name": "Galvão FC",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-galv-o-fc_l_m.jpg",
-      "show_category": "",
-      "start_time": "22:30",
+      "show_name": "SBT Repórter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-reporter_l_m.jpg",
+      "show_category": "News",
+      "start_time": "22:45",
       "end_time": "",
-      "episode_description": "Galvão Bueno comanda programa que reúne informação, análise e leveza para debater os principais assuntos do futebol, conectando o público ao universo do esporte com uma linguagem moderna e envolvente."
+      "episode_description": "Com linguagem direta e aborda temas variados e de interesse coletivo, programa jornalístico mostra o que acontece no Brasil e no mundo."
     }
   ]
 }

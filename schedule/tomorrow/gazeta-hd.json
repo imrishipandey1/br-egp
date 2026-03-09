@@ -1,20 +1,28 @@
 {
   "channel": "Gazeta HD",
-  "date": "09/03/2026",
+  "date": "10/03/2026",
   "schedule": [
     {
-      "show_name": "Mesa Redonda",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_debate-mesa-redonda_l_m.jpg",
+      "show_name": "Gazeta Esportiva",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_debate-gazeta-esportiva_l_m.jpg",
       "show_category": "",
-      "start_time": "00:30",
-      "end_time": "02:30",
-      "episode_description": "O programa leva ao telespectador informações sobre os gols da rodada, bastidores, lances polêmicos e a análise crítica do jogo."
+      "start_time": "02:00",
+      "end_time": "03:00",
+      "episode_description": "Notícias e opiniões de quem mais entende, em conjunto com seu dia a dia, disponibilizando ao telespectador, em primeira mão, as principais novidades do esporte."
+    },
+    {
+      "show_name": "Jornal da Gazeta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-da-gazeta_l_m.jpg",
+      "show_category": "News",
+      "start_time": "03:00",
+      "end_time": "04:00",
+      "episode_description": "O programa apresenta as principais notícias do dia, reportagens exclusivas e análises feitas por uma equipe de comentaristas especializados em política, economia, sustentabilidade e cultura."
     },
     {
       "show_name": "Gazeta Shopping",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_gazeta-shopping_l_m.jpg",
       "show_category": "Consumer",
-      "start_time": "02:30",
+      "start_time": "04:00",
       "end_time": "06:00",
       "episode_description": "Acompanhe ofertas e lançamentos em diversos segmentos do mercado."
     },

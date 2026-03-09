@@ -1,262 +1,238 @@
 {
   "channel": "Animal Planet",
-  "date": "08/03/2026",
+  "date": "09/03/2026",
   "schedule": [
-    {
-      "show_name": "Pesca Mortal",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_pesca-mortal-s16e02-tuf-o-hagibis_l_m.jpg",
-      "show_category": "Temporada 16 Episódio 2 - Tufão Hagibis",
-      "start_time": "00:46",
-      "end_time": "01:35",
-      "episode_description": "A frota inicia a corrida para vencer os russos e o violento tufão Hagibis se abate sobre o Mar de Bering. Os capitães precisam decidir se arriscam a vida para faturar alto ou esperam a tempestade passar."
-    },
-    {
-      "show_name": "Pesca Mortal",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_pesca-mortal-s16e03-ponto-de-ebulic-o_l_m.jpg",
-      "show_category": "Temporada 16 Episódio 3 - Ponto de Ebulição",
-      "start_time": "01:35",
-      "end_time": "02:19",
-      "episode_description": "Ainda se recuperando do tufão Hagibis, a frota retoma a competição com os russos. A pressão para recuperar o tempo perdido aumenta e os capitães partem para o tudo ou nada, arriscando a vida e até uma guerra."
-    },
-    {
-      "show_name": "Patrulheiros da Natureza",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_patrulheiros-da-natureza-s05e04-arco-e-flecha_l_m.jpg",
-      "show_category": "Temporada 5 Episódio 4 - Arco e Flecha",
-      "start_time": "02:19",
-      "end_time": "03:09",
-      "episode_description": "Começa a temporada de caça com arco e flecha e os patrulheiros percorrem as reservas para evitar que os caçadores não usem armas de fogo; Boone investiga uma denúncia anônima sobre um caçador que atirou em um cervo."
-    },
-    {
-      "show_name": "Patrulheiros da Natureza",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_patrulheiros-da-natureza-s05e05-coruja-ou-galinha_l_m.jpg",
-      "show_category": "Temporada 5 Episódio 5 - Coruja ou Galinha?",
-      "start_time": "03:09",
-      "end_time": "03:58",
-      "episode_description": "Na abertura da temporada de ostras no Texas, Ben e Chelsea Bailey flagram um grupo com uma quantidade excessiva de ostras pequenas, colhidas antes do tempo; Stapleton e Richards resgatam uma coruja presa em um galinheiro."
-    },
-    {
-      "show_name": "Veterinários do Texas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_veterinarios-do-texas-s01e06_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 6 - Dia de Treinamento",
-      "start_time": "03:58",
-      "end_time": "04:47",
-      "episode_description": "Dr. Lavigne extrai tumores de um cão idoso, enquanto dr. Ross tenta salvar a pata de um coelho atacado por um cachorro; dr. Blue visita uma fazenda para castrar um burro agressivo."
-    },
-    {
-      "show_name": "Veterinários do Texas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_veterinarios-do-texas-s01e08_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 8 - Luz, Câmera, Ação!",
-      "start_time": "04:47",
-      "end_time": "05:36",
-      "episode_description": "Dr. Blue corre contra o tempo para remover filhotes presos no útero de uma cadela; dr. Ross e dr. Lavigne atendem animais com graves problemas oculares e criam um vídeo para a clínica."
-    },
-    {
-      "show_name": "O Incrível Mundo Animal",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-incrivel-mundo-animal-s01e06-a-tromba-dos-elefantes-e-animais-antigos_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 6 - A Tromba dos Elefantes e Animais Antigos",
-      "start_time": "05:36",
-      "end_time": "06:00",
-      "episode_description": "Novas descobertas científicas revelam por que os elefantes têm tromba. O motivo de alguns animais viverem muito tempo e por que os gatos ronronam."
-    },
-    {
-      "show_name": "A Família Irwin - Mordidas Extras",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-familia-irwin-mordidas-extras-s03e11-bindi-na-ativa_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 11 - Bindi na Ativa",
-      "start_time": "06:00",
-      "end_time": "06:51",
-      "episode_description": "Robert, Bindi e Terri compartilham histórias dos bastidores e fatos extras do zoológico."
-    },
-    {
-      "show_name": "Veterinários do Texas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_veterinarios-do-texas-s02e01_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 1 - Respeite os Animais",
-      "start_time": "06:51",
-      "end_time": "07:42",
-      "episode_description": "O Dr. Ross conversa com donos de um zoológico para organizar um evento na clínica para promover a conscientização sobre os animais. O Dr. Blue remove um tumor de um mestiço de pit bull."
-    },
-    {
-      "show_name": "Veterinários do Texas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_veterinarios-do-texas-s02e02_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 2 - Desafios Veterinários",
-      "start_time": "07:42",
-      "end_time": "08:34",
-      "episode_description": "Um susto interrompe o sonho do Dr. Blue de viajar de moto com seu irmão. O Dr. Ross trata um dragão-barbudo com ovos ruins. O Dr. Lavigne não sabe o que fazer com um tumor na pata de um bóxer."
-    },
-    {
-      "show_name": "Patrulheiros da Natureza",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_patrulheiros-da-natureza-s05e06-garagem-selvagem_l_m.jpg",
-      "show_category": "Temporada 5 Episódio 6 - Garagem Selvagem",
-      "start_time": "08:34",
-      "end_time": "09:26",
-      "episode_description": "Em Beaumont, os patrulheiros Boone e Iles tentam resgatar um lince encontrado em uma garagem. Em seguida, procuram um cervo abatido ilegalmente. McGee e Stapleton encontram duas carcaças de cervo em um riacho."
-    },
-    {
-      "show_name": "Patrulheiros da Natureza",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_patrulheiros-da-natureza-s05e07-cacadores-ilegais_l_m.jpg",
-      "show_category": "Temporada 5 Episódio 7 - Caçadores Ilegais",
-      "start_time": "09:26",
-      "end_time": "10:18",
-      "episode_description": "Na região de Texas Panhandle, Warden Marshall investiga a ação de caçadores ilegais com seu parceiro, Warden Lewis; na fronteira, os patrulheiros Gould e Hickerson tentam salvar um pelicano ferido."
-    },
-    {
-      "show_name": "Tubarões Pré-Históricos - Novos Mundos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_tubar-es-pre-historicos-novos-mundos_l_m.jpg",
-      "show_category": "Special",
-      "start_time": "10:18",
-      "end_time": "11:11",
-      "episode_description": "A ponta da África do Sul concentra tubarões incomuns que exibem comportamentos bizarros e uma aparência alienígena. O biólogo Forrest Galante explora o impressionante mundo dessas criaturas extraordinárias."
-    },
-    {
-      "show_name": "A Família Irwin e o Grande Tubarão-Branco",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-familia-irwin-e-o-grande-tubar-o-branco_l_m.jpg",
-      "show_category": "Special",
-      "start_time": "11:11",
-      "end_time": "12:04",
-      "episode_description": "Robert Irwin fica frente a frente com um tubarão-branco pela primeira vez. Seguindo os passos de seu pai, Robert chega o mais perto possível dessas criaturas fascinantes."
-    },
     {
       "show_name": "Pesca Mortal",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_pesca-mortal-s16e04-disparos-e-disputas_l_m.jpg",
       "show_category": "Temporada 16 Episódio 4 - Disparos e Disputas",
-      "start_time": "12:04",
-      "end_time": "12:57",
+      "start_time": "00:48",
+      "end_time": "01:37",
       "episode_description": "Diante da ameaça dos russos, Johnathan e Jake disparam uma escopeta para resolver seus problemas; uma briga de socos abala o convés do Seabrooke; Wild Bill estraga um motor; Mandy aposta na ciência para encontrar caranguejos."
     },
     {
       "show_name": "Pesca Mortal",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_pesca-mortal-s16e05-agente-duplo_l_m.jpg",
       "show_category": "Temporada 16 Episódio 5 - Agente Duplo",
-      "start_time": "12:57",
-      "end_time": "13:50",
+      "start_time": "01:37",
+      "end_time": "02:20",
       "episode_description": "O Cornelia Marie recorre a satélites para espionar os russos e Scott Campbell Jr. explora uma área de pesca abandonada. Perto de preencher sua cota, Wild Bill enfrenta um problema no motor e discute com um novato russo."
-    },
-    {
-      "show_name": "Veterinários do Texas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_veterinarios-do-texas-s02e01_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 1 - Respeite os Animais",
-      "start_time": "13:50",
-      "end_time": "14:44",
-      "episode_description": "O Dr. Ross conversa com donos de um zoológico para organizar um evento na clínica para promover a conscientização sobre os animais. O Dr. Blue remove um tumor de um mestiço de pit bull."
-    },
-    {
-      "show_name": "Veterinários do Texas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_veterinarios-do-texas-s02e02_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 2 - Desafios Veterinários",
-      "start_time": "14:44",
-      "end_time": "15:38",
-      "episode_description": "Um susto interrompe o sonho do Dr. Blue de viajar de moto com seu irmão. O Dr. Ross trata um dragão-barbudo com ovos ruins. O Dr. Lavigne não sabe o que fazer com um tumor na pata de um bóxer."
     },
     {
       "show_name": "Patrulheiros da Natureza",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_patrulheiros-da-natureza-s05e06-garagem-selvagem_l_m.jpg",
       "show_category": "Temporada 5 Episódio 6 - Garagem Selvagem",
-      "start_time": "15:38",
-      "end_time": "16:28",
+      "start_time": "02:20",
+      "end_time": "03:11",
       "episode_description": "Em Beaumont, os patrulheiros Boone e Iles tentam resgatar um lince encontrado em uma garagem. Em seguida, procuram um cervo abatido ilegalmente. McGee e Stapleton encontram duas carcaças de cervo em um riacho."
     },
     {
       "show_name": "Patrulheiros da Natureza",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_patrulheiros-da-natureza-s05e07-cacadores-ilegais_l_m.jpg",
       "show_category": "Temporada 5 Episódio 7 - Caçadores Ilegais",
-      "start_time": "16:28",
-      "end_time": "17:18",
+      "start_time": "03:11",
+      "end_time": "03:57",
       "episode_description": "Na região de Texas Panhandle, Warden Marshall investiga a ação de caçadores ilegais com seu parceiro, Warden Lewis; na fronteira, os patrulheiros Gould e Hickerson tentam salvar um pelicano ferido."
     },
     {
-      "show_name": "Tubarões Pré-Históricos - Novos Mundos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_tubar-es-pre-historicos-novos-mundos_l_m.jpg",
-      "show_category": "Special",
-      "start_time": "17:18",
-      "end_time": "18:08",
-      "episode_description": "A ponta da África do Sul concentra tubarões incomuns que exibem comportamentos bizarros e uma aparência alienígena. O biólogo Forrest Galante explora o impressionante mundo dessas criaturas extraordinárias."
+      "show_name": "Veterinários do Texas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_veterinarios-do-texas-s02e01_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 1 - Respeite os Animais",
+      "start_time": "03:57",
+      "end_time": "04:47",
+      "episode_description": "O Dr. Ross conversa com donos de um zoológico para organizar um evento na clínica para promover a conscientização sobre os animais. O Dr. Blue remove um tumor de um mestiço de pit bull."
     },
     {
-      "show_name": "A Família Irwin e o Grande Tubarão-Branco",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-familia-irwin-e-o-grande-tubar-o-branco_l_m.jpg",
+      "show_name": "Veterinários do Texas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_veterinarios-do-texas-s02e02_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 2 - Desafios Veterinários",
+      "start_time": "04:47",
+      "end_time": "05:36",
+      "episode_description": "Um susto interrompe o sonho do Dr. Blue de viajar de moto com seu irmão. O Dr. Ross trata um dragão-barbudo com ovos ruins. O Dr. Lavigne não sabe o que fazer com um tumor na pata de um bóxer."
+    },
+    {
+      "show_name": "O Incrível Mundo Animal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-incrivel-mundo-animal-s01e07-golfinhos-inteligentes-e-hienas-famintas_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 7 - Golfinhos Inteligentes e Hienas Famintas",
+      "start_time": "05:36",
+      "end_time": "06:00",
+      "episode_description": "Um jogo de imitadores submersos comprova a enorme inteligência dos golfinhos. O motivo pelo qual as hienas se alimentam de praticamente qualquer coisa e como as lagartixas desafiam a gravidade."
+    },
+    {
+      "show_name": "A Família Irwin - Mordidas Extras",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-familia-irwin-mordidas-extras-s03e12-tratando-norman_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 12 - Tratando Norman",
+      "start_time": "06:00",
+      "end_time": "06:51",
+      "episode_description": "Todos ficam comovidos quando Norman, o crocodilo preferido do zoológico, fica gravemente doente; Terri recebe filhotes de coala que foram resgatados em incêndios florestais."
+    },
+    {
+      "show_name": "Veterinários do Texas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_veterinarios-do-texas-s02e03_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 3 - Fome de Brincar",
+      "start_time": "06:51",
+      "end_time": "07:42",
+      "episode_description": "Dr. Ross e Tauvia precisam sair da casa da sua mãe; Dr. Lavigne toma uma decisão difícil sobre um mastiff que pode ter um brinquedo alojado no intestino; Dr. Blue atende um porco que adora móveis."
+    },
+    {
+      "show_name": "Veterinários do Texas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_veterinarios-do-texas-s02e04_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 4 - Um Sonho na Califórnia",
+      "start_time": "07:42",
+      "end_time": "08:34",
+      "episode_description": "Os médicos disputam quem vai à conferência de veterinários em San Diego; Dr. Blue trata o mau hálito de um pinscher miniatura; Dr. Lavigne suspeita que um gato está com uma doença infecciosa."
+    },
+    {
+      "show_name": "Patrulheiros da Natureza",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_patrulheiros-da-natureza-s05e08-invasores_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 8 - Invasores",
+      "start_time": "08:34",
+      "end_time": "09:26",
+      "episode_description": "No auge da temporada das ostras, os patrulheiros garantem o cumprimento da lei em terra e na água; Sims investiga caçadores que invadiram uma propriedade particular; os agentes investigam um carro suspeito em Cameron."
+    },
+    {
+      "show_name": "Patrulheiros da Natureza",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_patrulheiros-da-natureza-s05e09-cacando-cacadores_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 9 - Caçando Caçadores",
+      "start_time": "09:26",
+      "end_time": "10:18",
+      "episode_description": "Em Hunt, os patrulheiros McGee e Richards investigam um caso de assédio entre caçadores vizinhos. Em Guadalupe, Startz tenta resgatar uma coruja ferida. Inman e Eddins investigam denúncias de descarte ilegal de cervos."
+    },
+    {
+      "show_name": "Tubarão Voador",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tubar-o-voador_l_m.jpg",
       "show_category": "Special",
-      "start_time": "18:08",
+      "start_time": "10:18",
+      "end_time": "11:11",
+      "episode_description": "Conheça Colossus, um gigantesco tubarão-branco. Para estudar o animal de 4 metros e 1300 quilos, uma equipe de especialistas entra em seu território de caça com câmeras de alta tecnologia."
+    },
+    {
+      "show_name": "Tirando a Maior Onda com os Tubarões",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tirando-a-maior-onda-com-os-tubar-es_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "11:11",
+      "end_time": "12:04",
+      "episode_description": "Os amigos de \"Tirando a Maior Onda\" são os reis da câmera escondida e não tem medo de passar vergonha. Eles derrubam o mito de que tubarões são monstros comedores de gente."
+    },
+    {
+      "show_name": "Pesca Mortal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pesca-mortal-s16e06-intervenc-o-no-mar_l_m.jpg",
+      "show_category": "Temporada 16 Episódio 6 - Intervenção no Mar",
+      "start_time": "12:04",
+      "end_time": "12:57",
+      "episode_description": "Todos se esforçam para encerrar a temporada do caranguejo-real; Jonathan é operado em alto-mar; Junior aposta todas as fichas na perseguição ao arisco caranguejo-real dourado."
+    },
+    {
+      "show_name": "Pesca Mortal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pesca-mortal-s16e07-em-aguas-inimigas_l_m.jpg",
+      "show_category": "Temporada 16 Episódio 7 - Em Águas Inimigas",
+      "start_time": "12:57",
+      "end_time": "13:50",
+      "episode_description": "Jake e Johnathan tentam formar uma aliança com um capitão rival, Keith Colburn; Junior se arrisca em águas russas em busca do caranguejo-real-dourado; Josh aposta tudo em uma intuição; Wild Bill procura trabalho na Rússia."
+    },
+    {
+      "show_name": "Veterinários do Texas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_veterinarios-do-texas-s02e03_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 3 - Fome de Brincar",
+      "start_time": "13:50",
+      "end_time": "14:44",
+      "episode_description": "Dr. Ross e Tauvia precisam sair da casa da sua mãe; Dr. Lavigne toma uma decisão difícil sobre um mastiff que pode ter um brinquedo alojado no intestino; Dr. Blue atende um porco que adora móveis."
+    },
+    {
+      "show_name": "Veterinários do Texas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_veterinarios-do-texas-s02e04_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 4 - Um Sonho na Califórnia",
+      "start_time": "14:44",
+      "end_time": "15:38",
+      "episode_description": "Os médicos disputam quem vai à conferência de veterinários em San Diego; Dr. Blue trata o mau hálito de um pinscher miniatura; Dr. Lavigne suspeita que um gato está com uma doença infecciosa."
+    },
+    {
+      "show_name": "Patrulheiros da Natureza",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_patrulheiros-da-natureza-s05e08-invasores_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 8 - Invasores",
+      "start_time": "15:38",
+      "end_time": "16:31",
+      "episode_description": "No auge da temporada das ostras, os patrulheiros garantem o cumprimento da lei em terra e na água; Sims investiga caçadores que invadiram uma propriedade particular; os agentes investigam um carro suspeito em Cameron."
+    },
+    {
+      "show_name": "Patrulheiros da Natureza",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_patrulheiros-da-natureza-s05e09-cacando-cacadores_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 9 - Caçando Caçadores",
+      "start_time": "16:31",
+      "end_time": "17:21",
+      "episode_description": "Em Hunt, os patrulheiros McGee e Richards investigam um caso de assédio entre caçadores vizinhos. Em Guadalupe, Startz tenta resgatar uma coruja ferida. Inman e Eddins investigam denúncias de descarte ilegal de cervos."
+    },
+    {
+      "show_name": "Tubarão Voador",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tubar-o-voador_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "17:21",
+      "end_time": "18:09",
+      "episode_description": "Conheça Colossus, um gigantesco tubarão-branco. Para estudar o animal de 4 metros e 1300 quilos, uma equipe de especialistas entra em seu território de caça com câmeras de alta tecnologia."
+    },
+    {
+      "show_name": "Tirando a Maior Onda com os Tubarões",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tirando-a-maior-onda-com-os-tubar-es_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "18:09",
       "end_time": "18:58",
-      "episode_description": "Robert Irwin fica frente a frente com um tubarão-branco pela primeira vez. Seguindo os passos de seu pai, Robert chega o mais perto possível dessas criaturas fascinantes."
+      "episode_description": "Os amigos de \"Tirando a Maior Onda\" são os reis da câmera escondida e não tem medo de passar vergonha. Eles derrubam o mito de que tubarões são monstros comedores de gente."
     },
     {
-      "show_name": "Florestas Animais",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_florestas-animais-s01e03_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 3 - Austrália - Um Mundo Bizarro",
+      "show_name": "Pesca Mortal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pesca-mortal-s16e06-intervenc-o-no-mar_l_m.jpg",
+      "show_category": "Temporada 16 Episódio 6 - Intervenção no Mar",
       "start_time": "18:58",
-      "end_time": "19:23",
-      "episode_description": "Em uma floresta na Austrália, aves extravagantes constroem verdadeiras obras de arte só para conquistar um parceiro. Outras aves fazem coreografias e há também as que imitam outros animais, enquanto os rios são habitados por um animal estranho."
-    },
-    {
-      "show_name": "Florestas Animais",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_florestas-animais-s01e04_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 4 - Sudeste Asiático - Vidas Ilhadas",
-      "start_time": "19:23",
       "end_time": "19:48",
-      "episode_description": "As florestas do Sudeste Asiático guardam não só alguns dos mais belos animais do mundo, como também grandes mistérios. João refaz os passos de Alfred Russell Wallace, que junto com Charles Darwin propôs a teoria da evolução."
+      "episode_description": "Todos se esforçam para encerrar a temporada do caranguejo-real; Jonathan é operado em alto-mar; Junior aposta todas as fichas na perseguição ao arisco caranguejo-real dourado."
     },
     {
-      "show_name": "Vida no Azul",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_vida-no-azul-s01e11-o-homem-e-o-mar_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 11 - O Homem e o Mar",
+      "show_name": "Pesca Mortal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pesca-mortal-s16e07-em-aguas-inimigas_l_m.jpg",
+      "show_category": "Temporada 16 Episódio 7 - Em Águas Inimigas",
       "start_time": "19:48",
-      "end_time": "20:13",
-      "episode_description": "Acompanhe uma viagem para alguns dos locais mais remotos do planeta em busca de povos que vivem junto ao mar."
-    },
-    {
-      "show_name": "Vida no Azul",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_vida-no-azul-s01e12-conservac-o_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 12 - Conservação",
-      "start_time": "20:13",
       "end_time": "20:37",
-      "episode_description": "Descubra quais as principais ameaças à vida nos oceanos e as formas de combatê-las. Além de novas abordagens científicas, como o projeto \"De Olho nos Corais\", que monitora corais em toda costa brasileira."
+      "episode_description": "Jake e Johnathan tentam formar uma aliança com um capitão rival, Keith Colburn; Junior se arrisca em águas russas em busca do caranguejo-real-dourado; Josh aposta tudo em uma intuição; Wild Bill procura trabalho na Rússia."
     },
     {
-      "show_name": "Histórias Animais",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_historias-animais-s01e03_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 3 - A Origem dos Primatas",
+      "show_name": "Jeremy Wade - Águas Misteriosas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jeremy-wade-aguas-misteriosas-s01e04-o-misterio-da-agua-fria_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - O Mistério da Água Fria",
       "start_time": "20:37",
       "end_time": "21:29",
-      "episode_description": "João Paulo inicia uma viagem para descobrir as origens dos primatas. Uma história fascinante que se confunde com a nossa própria história. O biólogo conversa com especialistas e vai em busca de fósseis para mostrar os ancestrais dos primatas."
+      "episode_description": "A bordo de um barco de pesca comercial no Alasca, o pescador e aventureiro Jeremy Wade procura o linguado-gigante, um peixe que pesa mais de 20 quilos."
     },
     {
-      "show_name": "Histórias Animais",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_historias-animais-s01e04_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 4 - A Origem dos Primatas",
+      "show_name": "Desvendando os Oceanos com Jeremy Wade",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_desvendando-os-oceanos-com-jeremy-wade-s01e03-maldic-o-do-kraken_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3 - Maldição do Kraken",
       "start_time": "21:29",
       "end_time": "22:18",
-      "episode_description": "João Paulo continua a sua viagem para descobrir as origens dos primatas. Uma história fascinante que se confunde com a nossa própria história. O biólogo conversa com especialistas e vai em busca de fósseis para mostrar os ancestrais dos primatas."
+      "episode_description": "Jeremy Wade descobre evidências que podem comprovar a existência do lendário Kraken."
     },
     {
-      "show_name": "Vida no Azul",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_vida-no-azul-s01e11-o-homem-e-o-mar_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 11 - O Homem e o Mar",
+      "show_name": "Desvendando os Oceanos com Jeremy Wade",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_desvendando-os-oceanos-com-jeremy-wade-s01e01-a-conspirac-o-do-triangulo-das-bermudas_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - A Conspiração do Triângulo das Bermudas",
       "start_time": "22:18",
-      "end_time": "22:43",
-      "episode_description": "Acompanhe uma viagem para alguns dos locais mais remotos do planeta em busca de povos que vivem junto ao mar."
-    },
-    {
-      "show_name": "Vida no Azul",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_vida-no-azul-s01e12-conservac-o_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 12 - Conservação",
-      "start_time": "22:43",
       "end_time": "23:08",
-      "episode_description": "Descubra quais as principais ameaças à vida nos oceanos e as formas de combatê-las. Além de novas abordagens científicas, como o projeto \"De Olho nos Corais\", que monitora corais em toda costa brasileira."
+      "episode_description": "Jeremy Wade investiga se um dos desaparecimentos mais famosos no Triângulo das Bermudas foi a conspiração de um agente secreto em guerra com os Estados Unidos. Utilizando tecnologia, especialistas revelam se isso ocorreu por motivos estranhos."
     },
     {
-      "show_name": "Tubarões Pré-Históricos - Novos Mundos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_tubar-es-pre-historicos-novos-mundos_l_m.jpg",
+      "show_name": "Tubarão Voador",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tubar-o-voador_l_m.jpg",
       "show_category": "Special",
       "start_time": "23:08",
       "end_time": "23:58",
-      "episode_description": "A ponta da África do Sul concentra tubarões incomuns que exibem comportamentos bizarros e uma aparência alienígena. O biólogo Forrest Galante explora o impressionante mundo dessas criaturas extraordinárias."
+      "episode_description": "Conheça Colossus, um gigantesco tubarão-branco. Para estudar o animal de 4 metros e 1300 quilos, uma equipe de especialistas entra em seu território de caça com câmeras de alta tecnologia."
     },
     {
-      "show_name": "A Família Irwin e o Grande Tubarão-Branco",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-familia-irwin-e-o-grande-tubar-o-branco_l_m.jpg",
+      "show_name": "Tirando a Maior Onda com os Tubarões",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tirando-a-maior-onda-com-os-tubar-es_l_m.jpg",
       "show_category": "Special",
       "start_time": "23:58",
-      "end_time": "00:47",
-      "episode_description": "Robert Irwin fica frente a frente com um tubarão-branco pela primeira vez. Seguindo os passos de seu pai, Robert chega o mais perto possível dessas criaturas fascinantes."
+      "end_time": "00:48",
+      "episode_description": "Os amigos de \"Tirando a Maior Onda\" são os reis da câmera escondida e não tem medo de passar vergonha. Eles derrubam o mito de que tubarões são monstros comedores de gente."
     }
   ]
 }

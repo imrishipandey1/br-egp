@@ -1,14 +1,38 @@
 {
   "channel": "Globo",
-  "date": "09/03/2026",
+  "date": "10/03/2026",
   "schedule": [
     {
-      "show_name": "Alita - Anjo de Combate",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_alita-anjo-de-combate-2019_l_m.jpg",
-      "show_category": "Science fiction / 2019",
-      "start_time": "02:05",
+      "show_name": "Jornal da Globo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-da-globo_l_m.jpg",
+      "show_category": "News",
+      "start_time": "00:15",
+      "end_time": "01:05",
+      "episode_description": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura."
+    },
+    {
+      "show_name": "Coração Acelerado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_corac-o-acelerado_l_m.jpg",
+      "show_category": "Soap",
+      "start_time": "01:05",
+      "end_time": "01:50",
+      "episode_description": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\"."
+    },
+    {
+      "show_name": "Vai que Cola",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-1_l_m.jpg",
+      "show_category": "Comedy",
+      "start_time": "01:50",
+      "end_time": "02:25",
+      "episode_description": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede."
+    },
+    {
+      "show_name": "Um Casal Inseparável",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_um-casal-inseparavel-2021_l_m.jpg",
+      "show_category": "Romantic comedy / 2021",
+      "start_time": "02:25",
       "end_time": "04:00",
-      "episode_description": "Abandonada em um ferro-velho de Iron City, a ciborgue Alita é encontrada pelo cientista Dyson Ido. Revitalizada, ela acorda sem memória e reconhecimento do mundo em que se encontra. Determinada a conhecer seu passado e explorar suas habilidades surpreendentes de luta, Alita se torna uma poderosa caçadora de recompensas, combatendo forças mortais."
+      "episode_description": "Apesar de não ter um relacionamento como meta, Manuela se encanta por Léo. Eles iniciam um romance que tempos depois acaba. Em meio a conversas e reflexões, a dupla tenta buscar um consenso."
     },
     {
       "show_name": "Hora 1",
@@ -79,22 +103,22 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_terra-nostra-edic-o-especial_l_m.jpg",
       "show_category": "Soap",
       "start_time": "14:45",
-      "end_time": "15:30",
+      "end_time": "15:25",
       "episode_description": "Uma parte da história da formação da sociedade brasileira do início do século XX é contada a partir do romance de dois jovens italianos, Giuliana e Matteo. Eles se conhecem em 1894 a bordo do navio que transporta imigrantes para trabalhar no Brasil."
     },
     {
-      "show_name": "Agente 86",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_agente-86-2008_l_m.jpg",
-      "show_category": "Comedy / 2008 /6.5",
-      "start_time": "15:30",
-      "end_time": "17:10",
-      "episode_description": "O chefe da agência de espionagem norte-americana promove seu analista Maxwell Smart a agente de campo quando integrantes do abominável sindicato do crime KAOS atacam o controle da agência. Smart é escalado para trabalhar ao lado da veterana Agente 99. Apesar da inexperiência, a dupla tem entusiasmo de sobra para tentar frustrar os planos de Siegfried, chefe da KAOS, que deseja dominar o mundo."
+      "show_name": "90 Minutos no Paraíso",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_90-minutos-no-paraiso-2015_l_m.jpg",
+      "show_category": "Drama / 2015",
+      "start_time": "15:25",
+      "end_time": "17:15",
+      "episode_description": "Em janeiro de 1989, o pastor Don Piper é convidado a participar de uma conferência na cidade do Texas, mas sofre um grave acidente de carro antes de chegar ao seu destino. Os paramédicos chegam para prestar os primeiros socorros e encontram seu corpo inerte e já sem nenhum sinal de vida. No entanto, ele é reanimado cerca de uma hora e meia depois e tenta convencer a todos de que passou esse período apreciando o paraíso."
     },
     {
       "show_name": "Vale a Pena Ver de Novo - Rainha da Sucata",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_vale-a-pena-ver-de-novo-rainha-da-sucata_l_m.jpg",
       "show_category": "Soap",
-      "start_time": "17:10",
+      "start_time": "17:15",
       "end_time": "18:25",
       "episode_description": "A rivalidade entre Maria do Carmo, uma empresária que enriqueceu com os negócios do pai, e Laurinha Figueiroa, uma socialite falida, no universo dos novos-ricos da decadente sociedade paulistana."
     },
@@ -140,19 +164,19 @@
     },
     {
       "show_name": "Big Brother Brasil",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_big-brother-brasil-s26e57_l_m.jpg",
-      "show_category": "Temporada 26 Episódio 57",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_big-brother-brasil-s26e58_l_m.jpg",
+      "show_category": "Temporada 26 Episódio 58",
       "start_time": "22:25",
-      "end_time": "23:10",
+      "end_time": "23:35",
       "episode_description": "Um grupo de pessoas topa ficar confinado em uma espaçosa casa cenográfica, sendo vigiado por câmeras 24 horas por dia. Sem receber informações do mundo exterior, eles disputam uma série de provas e dinâmicas em busca de um prêmio milionário."
     },
     {
-      "show_name": "Falas Femininas - Quando Elas se Movimentam",
-      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_other_l_m.jpg",
-      "show_category": "Special",
-      "start_time": "23:10",
+      "show_name": "Lady Night",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lady-night_l_m.jpg",
+      "show_category": "Talk",
+      "start_time": "23:35",
       "end_time": "",
-      "episode_description": "O Dia da Mulher é uma data não só para ser celebrada, mas também para pensar em como as demandas femininas têm evoluído na sociedade. Embora o caminho ainda seja longo, é inegável a importância da informação nesse processo."
+      "episode_description": "Tatá Werneck recebe artistas em seu talk show para um bate-papo nada comum com muitas brincadeiras e bom humor."
     }
   ]
 }

@@ -1,366 +1,286 @@
 {
   "channel": "A&E",
-  "date": "09/03/2026",
+  "date": "10/03/2026",
   "schedule": [
-    {
-      "show_name": "Fama e Fentanil",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_fama-e-fentanil_l_m.jpg",
-      "show_category": "Special",
-      "start_time": "00:20",
-      "end_time": "01:50",
-      "episode_description": "Obra expõe o grande drama do fentanil. Mais de 70 mil pessoas morrem a cada ano nos EUA, de celebridades a vítimas anônimas."
-    },
-    {
-      "show_name": "Casos Arquivados - Mortes no Velho Oeste",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_casos-arquivados-mortes-no-velho-oeste-s01e01-misterio-em-cuero-texas_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 1 - Mistério em Cuero, Texas",
-      "start_time": "01:50",
-      "end_time": "02:35",
-      "episode_description": "Pam Shelly, de 31 anos, é encontrada em seu banheiro em Cuero, Texas, com um ferimento fatal de bala na cabeça. A sua morte é inicialmente considerada suicídio. No entanto, um investigador suspeita de crime e acaba desvendando o caso."
-    },
-    {
-      "show_name": "Casos Arquivados - Mortes no Velho Oeste",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_casos-arquivados-mortes-no-velho-oeste-s01e05-mentiras-amantes-e-um-crime-no-canyon_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 5 - Mentiras, Amantes e um Crime no Canyon",
-      "start_time": "02:35",
-      "end_time": "03:20",
-      "episode_description": "Assassinato de Carol Murphy em floresta do Colorado em 1987 envolve triângulo amoroso e múltiplos suspeitos. Caso só é solucionado 20 anos depois com avanço tecnológico."
-    },
-    {
-      "show_name": "Casos Arquivados",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_casos-arquivados-s01e09-circulo-de-amigos_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 9 - Círculo de Amigos",
-      "start_time": "03:20",
-      "end_time": "04:05",
-      "episode_description": "Em 1989, um pai solteiro chega em casa após o trabalho e descobre que sua filha de 18 anos está desaparecida. A polícia deixa passar horas cruciais sem procurar pela menina, cujo corpo é encontrado dois meses depois por um caçador na floresta."
-    },
-    {
-      "show_name": "Intervenção",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_intervenc-o-s25e06-canada-shannon_l_m.jpg",
-      "show_category": "Temporada 25 Episódio 6 - Canadá - Shannon",
-      "start_time": "04:05",
-      "end_time": "04:50",
-      "episode_description": "Shannon, uma dedicada cuidadora de animais, desenvolveu um vício em drogas como resultado de traumas de infância, abuso sexual e relacionamentos tóxicos. Agora, essa mistura coloca em risco seu relacionamento com a filha de três anos."
-    },
-    {
-      "show_name": "Intervenção",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_intervenc-o-s25e02-canada-tres-irm-os_l_m.jpg",
-      "show_category": "Temporada 25 Episódio 2 - Canadá - Três Irmãos",
-      "start_time": "04:50",
-      "end_time": "05:35",
-      "episode_description": "Três irmãos viciados transformam a casa de sua infância em um antro de drogas. À medida que ambos os irmãos continuam a lidar com os abusos extremos que sofreram quando crianças, a mãe afunda-se sob o efeito do stress causado por seus vícios."
-    },
-    {
-      "show_name": "Guerra no Trânsito",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_guerra-no-transito-s02e06-perseguic-o-em-alta-velocidade_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 6 - Perseguição em Alta Velocidade",
-      "start_time": "05:35",
-      "end_time": "06:00",
-      "episode_description": "Dois homens são atropelados ao confrontarem motorista; homem provoca perseguição em alta velocidade; briga leva a uma colisão frontal; motorista assusta um grupo de motociclistas; motorista guia um ganso perdido."
-    },
-    {
-      "show_name": "Guerra no Trânsito",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_guerra-no-transito-s01e05-voce-sabe-quem-eu-sou_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 5 - Você Sabe Quem Eu Sou?",
-      "start_time": "06:00",
-      "end_time": "06:24",
-      "episode_description": "Um motorista apressado do Oregon ataca um ciclista em um semáforo; uma motorista de Fort Lauderdale acossa e bate no carro que a atingiu; um motorista de caminhão bêbado aterroriza alguns viajantes na Califórnia."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s13e03-negocio-trocado_l_m.jpg",
-      "show_category": "Temporada 13 Episódio 3 - Negócio Trocado",
-      "start_time": "06:24",
-      "end_time": "06:45",
-      "episode_description": "De volta aos leilões de Montebello, Brandi e um de seus amigos lucram com sua parceria e aproveitam a maré de sorte; Darrell aproveita ao máximo o pouco que tem e Kenny enche seu cofrinho, enquanto experimenta um passatempo desconhecido."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s13e04-espelho-espelho-meu_l_m.jpg",
-      "show_category": "Temporada 13 Episódio 4 - Espelho, Espelho Meu...",
-      "start_time": "06:45",
-      "end_time": "07:06",
-      "episode_description": "Dan e Laura viajam para Santa Ana em busca de unidades melhores; Rene consegue fechar um bom negócio nas vendas do seu contêiner; Jarrod finalmente compra o contêiner que deseja e relaxa em um spa, enquanto Darrell reflete sobre a verdadeira utilidade das antiguidades."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s13e01-os-ventos-de-satanas_l_m.jpg",
-      "show_category": "Temporada 13 Episódio 1 - Os Ventos de Satanás",
-      "start_time": "07:06",
-      "end_time": "07:28",
-      "episode_description": "Separados recentemente, Brandi e Jarrod voltam a se encontrar no mesmo leilão e a tensão aumenta quando ela recebe o mesmo tratamento que Laura e ele age como uma criança mimada; Ivy treina Ivy Jr. para assumir os negócios da família."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-1_l_m.jpg",
-      "show_category": "Reality",
-      "start_time": "07:28",
-      "end_time": "07:50",
-      "episode_description": "Ivy se sente como uma profetisa do lucro e pode pagar caro, mas encontra seu caminho para o sucesso; Kenny tenta homenagear a história de San Bernardino registrando uma vitória inesperada; Brandi mostra suas habilidades com os livros."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s13e08-baguete-estilo-francesa_l_m.jpg",
-      "show_category": "Temporada 13 Episódio 8 - Baguete Estilo Francesa",
-      "start_time": "07:50",
-      "end_time": "08:12",
-      "episode_description": "Kenny chega à Califórnia e sente como se estivesse em férias na Europa. Enquanto isso, Jarrod se frustra com um contêiner aquém de suas expectativas e Rene sofre um revés quando descobre que as ferramentas de um contêiner são mais velhas."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s13e05-regra-numero-1_l_m.jpg",
-      "show_category": "Temporada 13 Episódio 5 - Regra Número 1",
-      "start_time": "08:12",
-      "end_time": "08:34",
-      "episode_description": "Ivy leva seu filho para conhecer Moreno Valley e eles recebem uma recompensa inesperada por ioiôs; Rene e Casey descobrem que seus calçados têm mais \"air\" do que Jordan; Lisa aprende a olhar além do lixo."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s13e10-uma-estranha-no-ninho_l_m.jpg",
-      "show_category": "Temporada 13 Episódio 10 - Uma Estranha no Ninho",
-      "start_time": "08:34",
-      "end_time": "08:56",
-      "episode_description": "O grupo faz de tudo no leilão final de Riverside; Darrell ouve seu sexto sentido para os esportes e consegue uma vitória; as Ivys se distraem com um engodo, mas conseguem sair no lucro no último minuto."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s13e07-guerra-de-murmurios_l_m.jpg",
-      "show_category": "Temporada 13 Episódio 7 - Guerra de Murmúrios",
-      "start_time": "08:56",
-      "end_time": "09:18",
-      "episode_description": "Kenny retorna determinado a recuperar seu título de rei, mas as coisas não acontecem como esperado e ele tem problemas para conseguir obter bons lucros; as Ivys enfrentam o frio para fazer fortuna e Lisa finalmente se torna uma compradora."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s13e09-maquinas-misteriosas_l_m.jpg",
-      "show_category": "Temporada 13 Episódio 9 - Máquinas Misteriosas",
-      "start_time": "09:18",
-      "end_time": "09:40",
-      "episode_description": "Ivy e Pops se confundem com um mecanismo misterioso; em Brea, os compradores descobrem que menos é mais; Rene mergulha de cabeça e faz uma aposta que pode sair cara; Brandi precisa vasculhar o lixo para alcançar seu objetivo."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s13e11-mais-velho-e-mais-sabio_l_m.jpg",
-      "show_category": "Temporada 13 Episódio 11 - Mais Velho e Mais Sábio",
-      "start_time": "09:40",
-      "end_time": "10:02",
-      "episode_description": "Tudo parece normal em West Covina, Califórnia, até que um Mercury Zephyr vintage de aparência maluca aparece, revelando um velho amigo; Darrell e seu amigo encontram um excelente desenhista; Ivy e seu filho parecem não conseguir escolher um caminho."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s13e13-medo-de-palhaco_l_m.jpg",
-      "show_category": "Temporada 13 Episódio 13 - Medo de Palhaço",
-      "start_time": "10:02",
-      "end_time": "10:24",
-      "episode_description": "No leilão de Victorville, Ivy e Pops tentam provar qual deles se dá melhor nos negócios; a arma secreta de Brandi consegue resultados melhores do que ela esperava e Kenny chega para alegrar o seu dia."
-    },
-    {
-      "show_name": "Casos Arquivados",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_casos-arquivados-s02e08-frio-em-denver_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 8 - Frio em Denver",
-      "start_time": "10:24",
-      "end_time": "11:09",
-      "episode_description": "Em 1980, a estagiária de rádio Helene Pruszynski é encontrada brutalmente assassinada em um campo nevado. Após 37 anos de pistas infrutíferas, os investigadores chegam ao assassino."
-    },
-    {
-      "show_name": "Casos Arquivados",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_casos-arquivados-s02e06-diabo-disfarcado_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 6 - Diabo Disfarçado",
-      "start_time": "11:09",
-      "end_time": "11:54",
-      "episode_description": "Irene Garza, uma professora de 23 anos, ex-rainha de beleza e católica devota, desaparece na noite anterior à Páscoa após se confessar. Os moradores de sua cidade fronteiriça se esforçam para encontrá-la, mas depois de uma série de pistas falsas, seu corpo é encontrado flutuando em um canal de drenagem, claramente vítima de um violento predador sexual."
-    },
-    {
-      "show_name": "As Primeiras 48 Horas - Minutos Críticos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_as-primeiras-48-horas-minutos-criticos-s02e06-negocio-pendente_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 6 - Negócio Pendente",
-      "start_time": "11:54",
-      "end_time": "12:39",
-      "episode_description": "Em Mobile, um homem é executado meses após uma discussão. No Texas, um homem é assassinado após apresentar queixa por tentativa de roubo. Em Tulsa, um membro de gangue sai à caça depois de receber um insulto."
-    },
-    {
-      "show_name": "Acumuladores Compulsivos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos_l_m.jpg",
-      "show_category": "Reality",
-      "start_time": "12:39",
-      "end_time": "13:24",
-      "episode_description": "Após uma decepção amorosa, problemas de saúde e a falta de abastecimento de água em casa, Marta começa a descuidar da sua higiene pessoal e acumular lixo."
-    },
-    {
-      "show_name": "Acumuladores Compulsivos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos-s14e05-rosela_l_m.jpg",
-      "show_category": "Temporada 14 Episódio 5 - Rosela",
-      "start_time": "13:24",
-      "end_time": "14:50",
-      "episode_description": "Roz cresceu na costa leste do Canadá com 13 irmãos e nada era desperdiçado. Quando seu primeiro casamento acabou e ela começou a namorar outro colecionador, sua casa ficou incontrolável. Com a ajuda da equipe, ela pretende arrumar sua vida."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s03e01_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 1",
-      "start_time": "14:50",
-      "end_time": "15:10",
-      "episode_description": "Um tiroteio na Carolina do Sul; uma perseguição a pé no Texas; um acidente de moto em Indiana."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s03e02_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 2",
-      "start_time": "15:10",
-      "end_time": "15:32",
-      "episode_description": "Um assalto em Illinois, uma operação policial contra drogas e armas na Carolina do Sul e um homem que saca uma arma na Flórida."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s03e03_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 3",
-      "start_time": "15:32",
-      "end_time": "15:54",
-      "episode_description": "Um homem tenta se esconder da polícia em Ohio; um homem perturbado em Illinois."
-    },
-    {
-      "show_name": "Polícia em Ação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s03e04_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 4",
-      "start_time": "15:54",
-      "end_time": "16:16",
-      "episode_description": "Uma overdose de heroína na Carolina do Sul, um homem resistindo à prisão na Flórida e indivíduos suspeitos na Carolina do Sul."
-    },
-    {
-      "show_name": "Me Diga Como Morri",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_me-diga-como-morri-s01e07-suspeita-esmagadora_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 7 - Suspeita Esmagadora",
-      "start_time": "16:16",
-      "end_time": "17:02",
-      "episode_description": "Uma jovem morre em um trágico acidente de carro e é responsabilidade do médico legista iniciar uma investigação completa para determinar se foi realmente um acidente. As primeiras evidências indicam que pode ter havido algo sombrio por trás da morte."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s13e11-mais-velho-e-mais-sabio_l_m.jpg",
-      "show_category": "Temporada 13 Episódio 11 - Mais Velho e Mais Sábio",
-      "start_time": "17:02",
-      "end_time": "17:25",
-      "episode_description": "Tudo parece normal em West Covina, Califórnia, até que um Mercury Zephyr vintage de aparência maluca aparece, revelando um velho amigo; Darrell e seu amigo encontram um excelente desenhista; Ivy e seu filho parecem não conseguir escolher um caminho."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s13e13-medo-de-palhaco_l_m.jpg",
-      "show_category": "Temporada 13 Episódio 13 - Medo de Palhaço",
-      "start_time": "17:25",
-      "end_time": "17:48",
-      "episode_description": "No leilão de Victorville, Ivy e Pops tentam provar qual deles se dá melhor nos negócios; a arma secreta de Brandi consegue resultados melhores do que ela esperava e Kenny chega para alegrar o seu dia."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s13e15-a-farra-do-darrell_l_m.jpg",
-      "show_category": "Temporada 13 Episódio 15 - A Farra do Darrell",
-      "start_time": "17:48",
-      "end_time": "18:11",
-      "episode_description": "O medo que Kenny sente por tubarões inspira uma escolha controversa de vestuário na Oceanside. Mais tarde, René traz seu exército de barganha para tentar intimidar a concorrência e eles recebem sua parte nos lucros."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s13e17-motociclista-mas-nem-tanto_l_m.jpg",
-      "show_category": "Temporada 13 Episódio 17 - Motociclista, Mas nem Tanto",
-      "start_time": "18:11",
-      "end_time": "18:34",
-      "episode_description": "Barry chega a Riverside com um licitante mascarado e desenvolve com ele uma estratégia para ganhar os leilões; Brandi e Danielle recebem bolas misteriosas que as levam para a América do Sul; René precisará de uma limpeza após abrir uma sala."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s13e16-oferta-cientifica_l_m.jpg",
-      "show_category": "Temporada 13 Episódio 16 - Oferta Científica",
-      "start_time": "18:34",
-      "end_time": "18:57",
-      "episode_description": "Lisa decide recorrer aos fatos em Placentia, mas sem querer complica as relações internacionais; Ivy e seu filho tentam ficar com uma caixa com uma misteriosa roupa esportiva; René não permite que se aproveitem dele e conquista uma grande vitória."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s13e18-um-austriaco-em-perris_l_m.jpg",
-      "show_category": "Temporada 13 Episódio 18 - Um Austríaco em Perris",
-      "start_time": "18:57",
-      "end_time": "19:20",
-      "episode_description": "Um simpático grupo de oportunistas participa de leilões de contêineres abandonados."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s13e19-um-achado-bem-legal_l_m.jpg",
-      "show_category": "Temporada 13 Episódio 19 - Um Achado Bem Legal",
-      "start_time": "19:20",
-      "end_time": "19:43",
-      "episode_description": "Em San Bernardino, surge o guerreiro interior que Ivy traz dentro de si quando enfrenta um comprador iniciante; Kenny está de olho em um armário que o deixa precisando de uma massagem; Lisa decide apostar em unidade menor."
-    },
-    {
-      "show_name": "Quem Dá Mais?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s13e20-tesouros-da-asia_l_m.jpg",
-      "show_category": "Temporada 13 Episódio 20 - Tesouros da Ásia",
-      "start_time": "19:43",
-      "end_time": "20:06",
-      "episode_description": "Em Santa Ana, Brandi deixa Danielle tomar as rédeas dos negócios e seus leilões acabam sendo uma experiência e tanto. Ivy descobre que sua aquisição pode ser um divisor de águas, e Rene faz uma aposta por um pacote interessante."
-    },
     {
       "show_name": "Quem Dá Mais?",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s13e21-vestida-para-ganhar_l_m.jpg",
       "show_category": "Temporada 13 Episódio 21 - Vestida para Ganhar",
-      "start_time": "20:06",
-      "end_time": "20:29",
+      "start_time": "00:00",
+      "end_time": "00:23",
       "episode_description": "No leilão Riverside, Brandi decide aparecer vestida para atrair todos os olhares e distrair a concorrência. Rene está disposto a apostar mais do que pode. Barry e Kenny enlouquecem quando descobrem o que tem no seu contêiner."
     },
     {
       "show_name": "Quem Dá Mais?",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s13e22-cheia-de-estilo_l_m.jpg",
       "show_category": "Temporada 13 Episódio 22 - Cheia de Estilo",
-      "start_time": "20:29",
-      "end_time": "20:52",
+      "start_time": "00:23",
+      "end_time": "00:46",
       "episode_description": "Em Lancaster, um pequeno animal pega Lisa de surpresa, mas ela consegue um novo tipo de prêmio; Ivy e Isaiah trabalham duro para esvaziar um contêiner, o que os deixa loucos por uma bebida; Darrell perde minutos valiosos devido a uma velhinha."
     },
     {
       "show_name": "Quem Dá Mais?",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s13e23-o-diabo-veste-roupa-usada_l_m.jpg",
       "show_category": "Temporada 13 Episódio 23 - O Diabo Veste Roupa Usada",
-      "start_time": "20:52",
-      "end_time": "21:15",
+      "start_time": "00:46",
+      "end_time": "01:09",
       "episode_description": "No leilão do Canyon Country, Kenny tenta subornar a concorrência e se mostra mais mundano para seus rivais; Ivy e Isaiah tentam extrair o máximo de lucro de seu contêiner, e Brandi coloca os poderes das trevas em ação."
     },
     {
       "show_name": "Quem Dá Mais?",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s16e08-o-incrivel-sr-calvin_l_m.jpg",
       "show_category": "Temporada 16 Episódio 8 - O Incrível Sr. Calvin",
-      "start_time": "21:15",
-      "end_time": "22:00",
+      "start_time": "01:09",
+      "end_time": "01:54",
       "episode_description": "Em Garden Grove, os compradores têm suas expectativas abaladas durante os leilões. Ivy descobre usos surpreendentes para equipamentos de escritório. Lisa encontra a tigela mais brilhante que já viu em sua carreira. Dusty provoca todos ao redor."
     },
     {
       "show_name": "Quem Dá Mais?",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s13e23-o-diabo-veste-roupa-usada_l_m.jpg",
       "show_category": "Temporada 13 Episódio 23 - O Diabo Veste Roupa Usada",
-      "start_time": "22:00",
-      "end_time": "22:24",
+      "start_time": "01:54",
+      "end_time": "02:16",
       "episode_description": "No leilão do Canyon Country, Kenny tenta subornar a concorrência e se mostra mais mundano para seus rivais; Ivy e Isaiah tentam extrair o máximo de lucro de seu contêiner, e Brandi coloca os poderes das trevas em ação."
     },
     {
       "show_name": "Falco",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_falco-s03e09-intoxicac-es_l_m.jpg",
       "show_category": "Temporada 3 Episódio 9 - Intoxicações",
-      "start_time": "22:24",
-      "end_time": "23:16",
+      "start_time": "02:16",
+      "end_time": "03:07",
       "episode_description": "Cadáver é encontrado asfixiado com diclorometano, deixando pista \"Lor\". Falco investiga escândalo sanitário da empresa Orfleur. Léa de Butler, número 2 da empresa, fica dividida entre silêncio e revelação, enquanto sua vida familiar afunda."
     },
     {
       "show_name": "Quem Dá Mais?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s13e19-um-achado-bem-legal_l_m.jpg",
-      "show_category": "Temporada 13 Episódio 19 - Um Achado Bem Legal",
-      "start_time": "23:16",
-      "end_time": "23:37",
-      "episode_description": "Em San Bernardino, surge o guerreiro interior que Ivy traz dentro de si quando enfrenta um comprador iniciante; Kenny está de olho em um armário que o deixa precisando de uma massagem; Lisa decide apostar em unidade menor."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s13e16-oferta-cientifica_l_m.jpg",
+      "show_category": "Temporada 13 Episódio 16 - Oferta Científica",
+      "start_time": "03:07",
+      "end_time": "03:29",
+      "episode_description": "Lisa decide recorrer aos fatos em Placentia, mas sem querer complica as relações internacionais; Ivy e seu filho tentam ficar com uma caixa com uma misteriosa roupa esportiva; René não permite que se aproveitem dele e conquista uma grande vitória."
     },
     {
       "show_name": "Quem Dá Mais?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s13e20-tesouros-da-asia_l_m.jpg",
-      "show_category": "Temporada 13 Episódio 20 - Tesouros da Ásia",
-      "start_time": "23:37",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-da-mais-s13e18-um-austriaco-em-perris_l_m.jpg",
+      "show_category": "Temporada 13 Episódio 18 - Um Austríaco em Perris",
+      "start_time": "03:29",
+      "end_time": "03:51",
+      "episode_description": "Um simpático grupo de oportunistas participa de leilões de contêineres abandonados."
+    },
+    {
+      "show_name": "Me Diga Como Morri",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_me-diga-como-morri-s01e07-suspeita-esmagadora_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 7 - Suspeita Esmagadora",
+      "start_time": "03:51",
+      "end_time": "04:36",
+      "episode_description": "Uma jovem morre em um trágico acidente de carro e é responsabilidade do médico legista iniciar uma investigação completa para determinar se foi realmente um acidente. As primeiras evidências indicam que pode ter havido algo sombrio por trás da morte."
+    },
+    {
+      "show_name": "Acumuladores Compulsivos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "04:36",
+      "end_time": "05:18",
+      "episode_description": "Tim vê valor em reaproveitar e usar materiais para todos os tipos de projetos, o que o levou a acumular uma quantidade enorme de lixo ao longo dos anos."
+    },
+    {
+      "show_name": "Guerra no Trânsito",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_guerra-no-transito-s01e11-ataque-aos-motoristas_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 11 - Ataque aos Motoristas",
+      "start_time": "05:18",
+      "end_time": "05:39",
+      "episode_description": "Um caminhoneiro fica indignado com críticas; uma motorista agressiva joga garrafas no para-brisa de um carro; uma motorista hábil faz mágica no estacionamento; um caminhoneiro esmaga tudo que encontra na estrada."
+    },
+    {
+      "show_name": "Guerra no Trânsito",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_guerra-no-transito-s01e12-sobressaltos_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 12 - Sobressaltos",
+      "start_time": "05:39",
+      "end_time": "06:00",
+      "episode_description": "Na Pensilvânia, um taxista fica dividido entre a vida e a morte quando seu passageiro o sequestra sob a mira de uma arma; enquanto está no Texas, um motorista com problemas óbvios de controle da raiva ameaça outras pessoas com um machado."
+    },
+    {
+      "show_name": "Casos Arquivados",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_casos-arquivados-s01e09-circulo-de-amigos_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 9 - Círculo de Amigos",
+      "start_time": "06:00",
+      "end_time": "06:46",
+      "episode_description": "Em 1989, um pai solteiro chega em casa após o trabalho e descobre que sua filha de 18 anos está desaparecida. A polícia deixa passar horas cruciais sem procurar pela menina, cujo corpo é encontrado dois meses depois por um caçador na floresta."
+    },
+    {
+      "show_name": "Me Diga Como Morri",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_me-diga-como-morri-s01e07-suspeita-esmagadora_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 7 - Suspeita Esmagadora",
+      "start_time": "06:46",
+      "end_time": "07:31",
+      "episode_description": "Uma jovem morre em um trágico acidente de carro e é responsabilidade do médico legista iniciar uma investigação completa para determinar se foi realmente um acidente. As primeiras evidências indicam que pode ter havido algo sombrio por trás da morte."
+    },
+    {
+      "show_name": "Investigação Criminal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_investigac-o-criminal-s10e01-pesseghini_l_m.jpg",
+      "show_category": "Temporada 10 Episódio 1 - Pesseghini",
+      "start_time": "07:31",
+      "end_time": "08:52",
+      "episode_description": "A família Pesseghini é encontrada morta. O programa apresenta a visão da polícia do caso."
+    },
+    {
+      "show_name": "Os Segredos dos Assassinatos de Chippendales",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-segredos-dos-assassinatos-de-chippendales-s01e04-a-verdade-nua-e-crua_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - A Verdade Nua e Crua",
+      "start_time": "08:52",
+      "end_time": "09:41",
+      "episode_description": "O FBI se une ao ator Ray Colon para poder encontrar o assassino de Nick De Noia. Porém, mesmo com o assassino atrás das grades, o show ainda está longe de chegar ao seu final."
+    },
+    {
+      "show_name": "Segredos das Celebridades - Sex Tapes",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_segredos-das-celebridades-sex-tapes-s01e04-colin-farrell_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - Colin Farrell",
+      "start_time": "09:41",
+      "end_time": "10:28",
+      "episode_description": "Vaza um vídeo íntimo do ator Colin Farrell com uma coelhinha da Playboy e, como existe toda uma indústria em torno de vídeos íntimos de celebridades, Dustin Diamond acha que pode voltar ao jogo com um vídeo próprio."
+    },
+    {
+      "show_name": "Casos Arquivados",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_casos-arquivados-s02e06-diabo-disfarcado_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 6 - Diabo Disfarçado",
+      "start_time": "10:28",
+      "end_time": "11:15",
+      "episode_description": "Irene Garza, uma professora de 23 anos, ex-rainha de beleza e católica devota, desaparece na noite anterior à Páscoa após se confessar. Os moradores de sua cidade fronteiriça se esforçam para encontrá-la, mas depois de uma série de pistas falsas, seu corpo é encontrado flutuando em um canal de drenagem, claramente vítima de um violento predador sexual."
+    },
+    {
+      "show_name": "Casos Arquivados",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_casos-arquivados-s02e13-olhos-de-assassino_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 13 - Olhos de Assassino",
+      "start_time": "11:15",
+      "end_time": "12:02",
+      "episode_description": "Dois homens armados cometem um assalto e atiram em Michael Temple Jr., deixando-o tetraplégico."
+    },
+    {
+      "show_name": "As Primeiras 48 Horas - Minutos Críticos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_as-primeiras-48-horas-minutos-criticos-s02e07-planos-mortais_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 7 - Planos Mortais",
+      "start_time": "12:02",
+      "end_time": "12:48",
+      "episode_description": "Conheça três histórias em que um plano mortal acaba gerando vítimas inocentes. Um homem é atraído para a morte em um apartamento abandonado; homem sem casa é espancado com uma pedra; o plano de uma mulher para ajudar sua irmã dá terrivelmente errado."
+    },
+    {
+      "show_name": "Acumuladores Compulsivos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "12:48",
+      "end_time": "13:38",
+      "episode_description": "Tim vê valor em reaproveitar e usar materiais para todos os tipos de projetos, o que o levou a acumular uma quantidade enorme de lixo ao longo dos anos."
+    },
+    {
+      "show_name": "Acumuladores Compulsivos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_acumuladores-compulsivos-s14e03-darlene_l_m.jpg",
+      "show_category": "Temporada 14 Episódio 3 - Darlene",
+      "start_time": "13:38",
+      "end_time": "15:08",
+      "episode_description": "Darlene acha que sua casa bagunçada se deve a uma desordem mística da Nova Era. Ela tem tantas coisas que acaba dormindo sob uma lona na varanda. No entanto, com a chegada do inverno ela vai precisar se mudar para não morrer de frio."
+    },
+    {
+      "show_name": "Polícia em Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s03e03_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 3",
+      "start_time": "15:08",
+      "end_time": "15:30",
+      "episode_description": "Um homem tenta se esconder da polícia em Ohio; um homem perturbado em Illinois."
+    },
+    {
+      "show_name": "Polícia em Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s03e04_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 4",
+      "start_time": "15:30",
+      "end_time": "15:52",
+      "episode_description": "Uma overdose de heroína na Carolina do Sul, um homem resistindo à prisão na Flórida e indivíduos suspeitos na Carolina do Sul."
+    },
+    {
+      "show_name": "Polícia em Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s03e05_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 5",
+      "start_time": "15:52",
+      "end_time": "16:14",
+      "episode_description": "Tiros disparados no Arizona; distúrbio doméstico na Carolina do Sul; homem drogado em Connecticut."
+    },
+    {
+      "show_name": "Polícia em Ação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_policia-em-ac-o-s03e06_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 6",
+      "start_time": "16:14",
+      "end_time": "16:36",
+      "episode_description": "Uma mulher embriagada em Indiana; uma operação antidrogas na Flórida; tiros na Carolina do Sul."
+    },
+    {
+      "show_name": "Me Diga Como Morri",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_me-diga-como-morri-s01e03-cair-em-desgraca_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3 - Cair em Desgraça",
+      "start_time": "16:36",
+      "end_time": "17:23",
+      "episode_description": "Uma mãe de três filhos é encontrada inconsciente sob a janela aberta do segundo andar, e o médico legista Dr. Dragovic rapidamente suspeita ter acontecido algo mais complexo do que aparenta. Foi realmente um acidente fatal ou esconde algo sinistro?"
+    },
+    {
+      "show_name": "Falco",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_falco-s03e09-intoxicac-es_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 9 - Intoxicações",
+      "start_time": "17:23",
+      "end_time": "18:17",
+      "episode_description": "Cadáver é encontrado asfixiado com diclorometano, deixando pista \"Lor\". Falco investiga escândalo sanitário da empresa Orfleur. Léa de Butler, número 2 da empresa, fica dividida entre silêncio e revelação, enquanto sua vida familiar afunda."
+    },
+    {
+      "show_name": "Investigação Criminal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_investigac-o-criminal-s10e01-pesseghini_l_m.jpg",
+      "show_category": "Temporada 10 Episódio 1 - Pesseghini",
+      "start_time": "18:17",
+      "end_time": "19:39",
+      "episode_description": "A família Pesseghini é encontrada morta. O programa apresenta a visão da polícia do caso."
+    },
+    {
+      "show_name": "Segredos do Bunny Ranch",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_segredos-do-bunny-ranch-s01e01-fumaca-e-ilus-es_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - Fumaça e Ilusões",
+      "start_time": "19:39",
+      "end_time": "20:26",
+      "episode_description": "Dennis Hof e seu bordel, The Moonlite Bunny Ranch, alcançaram fama mundial graças à série \"Cathouse\", da HBO. Enquanto a série retratava tudo como uma festa, ex-trabalhadoras do sexo revelam que, nos bastidores, a vida lá era tudo menos glamourosa."
+    },
+    {
+      "show_name": "Segredos das Celebridades - Sex Tapes",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_segredos-das-celebridades-sex-tapes-s01e05-farrah-abraham_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 5 - Farrah Abraham",
+      "start_time": "20:26",
+      "end_time": "21:13",
+      "episode_description": "Farrah Abraham, estrela do programa \"Teen Mom\", alcança a fama ainda muito jovem, porém sua notoriedade dispara quando um vídeo íntimo seu vaza. O que parecia impulsioná-la ao estrelato se transforma em onda de escândalos e julgamentos midiáticos."
+    },
+    {
+      "show_name": "Segredos das Celebridades - Sex Tapes",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_segredos-das-celebridades-sex-tapes-s01e06-mimi-faust-o-escandalo-da-banheira_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 6 - Mimi Faust - O Escândalo da Banheira",
+      "start_time": "21:13",
+      "end_time": "22:00",
+      "episode_description": "A estrela de reality shows Mimi Faust compartilha a história real, incluindo segredos nunca antes revelados, por trás de sua sex tape, uma das mais vendidas de todos os tempos."
+    },
+    {
+      "show_name": "Falco",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_falco-s03e10-babilonia_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 10 - Babilônia",
+      "start_time": "22:00",
+      "end_time": "22:55",
+      "episode_description": "Pauline desaparece e Falco acusa Darrigade, homem que há 25 anos transforma sua vida em inferno. Mas amigos duvidam de sua sanidade mental. Isolado, é internado em hospital psiquiátrico até provar que é vítima de armação e salvar a filha."
+    },
+    {
+      "show_name": "Segredos do Bunny Ranch",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_segredos-do-bunny-ranch-s01e01-fumaca-e-ilus-es_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - Fumaça e Ilusões",
+      "start_time": "22:55",
+      "end_time": "23:42",
+      "episode_description": "Dennis Hof e seu bordel, The Moonlite Bunny Ranch, alcançaram fama mundial graças à série \"Cathouse\", da HBO. Enquanto a série retratava tudo como uma festa, ex-trabalhadoras do sexo revelam que, nos bastidores, a vida lá era tudo menos glamourosa."
+    },
+    {
+      "show_name": "Segredos das Celebridades - Sex Tapes",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_segredos-das-celebridades-sex-tapes-s01e05-farrah-abraham_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 5 - Farrah Abraham",
+      "start_time": "23:42",
       "end_time": "",
-      "episode_description": "Em Santa Ana, Brandi deixa Danielle tomar as rédeas dos negócios e seus leilões acabam sendo uma experiência e tanto. Ivy descobre que sua aquisição pode ser um divisor de águas, e Rene faz uma aposta por um pacote interessante."
+      "episode_description": "Farrah Abraham, estrela do programa \"Teen Mom\", alcança a fama ainda muito jovem, porém sua notoriedade dispara quando um vídeo íntimo seu vaza. O que parecia impulsioná-la ao estrelato se transforma em onda de escândalos e julgamentos midiáticos."
     }
   ]
 }

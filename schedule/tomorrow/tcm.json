@@ -1,44 +1,60 @@
 {
   "channel": "TCM",
-  "date": "09/03/2026",
+  "date": "10/03/2026",
   "schedule": [
     {
-      "show_name": "O Grande Motim",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-grande-motim-1962_l_m.jpg",
-      "show_category": "Adventure / 1962",
-      "start_time": "01:05",
-      "end_time": "04:03",
-      "episode_description": "Em 1787, o navio Bounty deixa Portsmouth numa longa viagem até o Taiti. Porém, os métodos do capitão William Bligh não são bem aceitos pela tripulação, que se revolta contra ele e opta por fazer um motim durante o percurso."
+      "show_name": "O Último Turno",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-ultimo-turno-2020_l_m.jpg",
+      "show_category": "Comedy drama / 2020",
+      "start_time": "00:59",
+      "end_time": "02:27",
+      "episode_description": "Stanley é um funcionário do mundo do fast food que se prepara para seu último turno após 38 anos sem descanso. Quando lhe pedem para treinar a pessoa que vai substituí-lo, porém, a vida de Stanley dá uma guinada inesperada."
     },
     {
       "show_name": "O Preço do Talento",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_o-preco-do-talento-2019_l_m.jpg",
       "show_category": "Drama / 2019",
-      "start_time": "04:03",
-      "end_time": "05:31",
+      "start_time": "02:27",
+      "end_time": "03:55",
       "episode_description": "Otis Lort é um ator infantil que vive um relacionamento de altos e baixos com seu pai, James. O homem é alcoólatra e vive se metendo em problemas que algumas vezes o levam para a cadeia."
     },
     {
       "show_name": "Hollywood One on One",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
       "show_category": "Talk",
-      "start_time": "05:31",
-      "end_time": "05:41",
+      "start_time": "03:55",
+      "end_time": "04:05",
       "episode_description": "Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!"
     },
     {
       "show_name": "Hollywood One on One",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
       "show_category": "Talk",
-      "start_time": "05:41",
-      "end_time": "05:49",
+      "start_time": "04:05",
+      "end_time": "04:14",
       "episode_description": "Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!"
     },
     {
       "show_name": "Hollywood One on One",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
       "show_category": "Talk",
-      "start_time": "05:49",
+      "start_time": "04:14",
+      "end_time": "04:49",
+      "episode_description": "Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!"
+    },
+    {
+      "show_name": "Hollywood One on One",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
+      "show_category": "Talk",
+      "start_time": "04:49",
+      "end_time": "05:24",
+      "episode_description": "Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!"
+    },
+    {
+      "show_name": "Hollywood One on One",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
+      "show_category": "Talk",
+      "start_time": "05:24",
       "end_time": "06:00",
       "episode_description": "Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!"
     },
@@ -47,112 +63,88 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
       "show_category": "Talk",
       "start_time": "06:00",
-      "end_time": "06:34",
+      "end_time": "07:31",
       "episode_description": "Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!"
-    },
-    {
-      "show_name": "Hollywood One on One",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
-      "show_category": "Talk",
-      "start_time": "06:34",
-      "end_time": "07:09",
-      "episode_description": "Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!"
-    },
-    {
-      "show_name": "Hollywood One on One",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
-      "show_category": "Talk",
-      "start_time": "07:09",
-      "end_time": "07:22",
-      "episode_description": "Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!"
-    },
-    {
-      "show_name": "Hollywood One on One",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
-      "show_category": "Talk",
-      "start_time": "07:22",
-      "end_time": "07:34",
-      "episode_description": "Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!"
-    },
-    {
-      "show_name": "Deu Ruim",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_deu-ruim-2017_l_m.jpg",
-      "show_category": "Comedy / 2017",
-      "start_time": "07:34",
-      "end_time": "08:56",
-      "episode_description": "Marlon e Leo, dois homens com problemas financeiros e sem nenhuma experiência no mundo do crime, decidem assaltar uma casa em um condomínio fechado. Eles conseguem entrar, mas Marlon ativa acidentalmente o alarme da casa, que os prende no local com a jovem Darcy, complicando a situação ainda mais."
-    },
-    {
-      "show_name": "O Preço de um Homem",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-preco-de-um-homem-1953_l_m.jpg",
-      "show_category": "Western / 1953",
-      "start_time": "08:56",
-      "end_time": "10:30",
-      "episode_description": "Howard Kemp é um caçador de recompensas que está atrás do assassino Ben Vandergroat. Ele se reúne com um garimpeiro, Jesse Tate, e o ex-soldado da União, Roy Anderson. Jesse e Roy acham que têm o direito de receber parte da recompensa, mas se Howard dividir a recompensa não terá dinheiro para comprar as terras que almeja."
-    },
-    {
-      "show_name": "Ousadia",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_ousadia-1951_l_m.jpg",
-      "show_category": "Western / 1951",
-      "start_time": "10:30",
-      "end_time": "11:56",
-      "episode_description": "Lee é um jovem que está cheio de ressentimento contra o irmão adotivo Owen. Quando chega o momento de administrar o sítio do pai, ele prepara uma armadilha suja que desencadeia uma guerra entre os dois."
-    },
-    {
-      "show_name": "O Mistério da Felicidade",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-misterio-da-felicidade-2014_l_m.jpg",
-      "show_category": "Comedy / 2014",
-      "start_time": "11:56",
-      "end_time": "13:30",
-      "episode_description": "Santiago e Eugenio são sócios e amigos de longa data. Um dia, Eugenio desaparece sem deixar pistas. Santigo logo percebe sua ausência, mas só se dá conta da gravidade do problema quando Laura, esposa do amigo, lhe conta desesperançosa que Eugenio a deixou. Juntos, eles partem para o Brasil a fim de reunir as peças que explicam o seu desaparecimento. Mas, aos poucos, os sentimentos entre eles se confundem."
-    },
-    {
-      "show_name": "O Abraço Partido",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-abraco-partido-2004-1_l_m.jpg",
-      "show_category": "Comedy drama / 2004",
-      "start_time": "13:30",
-      "end_time": "15:13",
-      "episode_description": "Nos anos 70, o pai de Ariel foi lutar na guerra do Yom Kippur e nunca mais retornou à Argentina. Sem perspectivas no país, o jovem sonha em conseguir a cidadania polonesa para ir viver na Europa, mas seus planos mudam quando o pai volta para casa."
     },
     {
       "show_name": "Scarygirl",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_scarygirl-2023_l_m.jpg",
       "show_category": "Adventure / 2023",
-      "start_time": "15:13",
-      "end_time": "16:45",
+      "start_time": "07:31",
+      "end_time": "09:34",
       "episode_description": "Após o seu mundo ser envolvido pela escuridão, a pequena Arkie precisa superar seus medos e viajar para uma misteriosa cidade de luz para salvar seu pai de um perigoso cientista e impedir a destruição de seu planeta."
     },
     {
       "show_name": "O Dia em que Roubaram o Banco da Inglaterra",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_o-dia-em-que-roubaram-o-banco-da-inglaterra-1960_l_m.jpg",
       "show_category": "Crime drama / 1960",
-      "start_time": "16:45",
-      "end_time": "18:13",
+      "start_time": "09:34",
+      "end_time": "11:02",
       "episode_description": "Na Londres de 1901, três homens em missão pelo IRA planejam roubar todo o ouro contido nos depósitos do Banco da Inglaterra."
     },
     {
       "show_name": "Agora Seremos Felizes",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_agora-seremos-felizes-1944_l_m.jpg",
       "show_category": "Musical / 1944",
-      "start_time": "18:13",
-      "end_time": "20:09",
+      "start_time": "11:02",
+      "end_time": "12:59",
       "episode_description": "Uma jovem aguarda ansiosamente a Exposição de St. Louis, assim como seu amor pelo garoto da casa ao lado, até que seu pai ameaça mandá-los para Nova York, onde o progresso os aguarda."
+    },
+    {
+      "show_name": "Esperando o Rabecão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_esperando-o-rabec-o-1985_l_m.jpg",
+      "show_category": "Comedy / 1985",
+      "start_time": "12:59",
+      "end_time": "14:36",
+      "episode_description": "Os quatro filhos de Mamá Cora discutem sobre quem ficará encarregado de cuidar dela em sua velhice."
+    },
+    {
+      "show_name": "O Tesouro de Sierra Madre",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-tesouro-de-sierra-madre-1948-1_l_m.jpg",
+      "show_category": "Adventure / 1948",
+      "start_time": "14:36",
+      "end_time": "16:46",
+      "episode_description": "O Dr. Drew Pinsky fala sobre os vícios silenciosos que acometem mães e donas de casa, que hoje atingem números alarmantes. Casos de dependência de remédios controlados são comuns, mas vícios mais insidiosos, como o da compra, passam despercebidos."
+    },
+    {
+      "show_name": "O Décimo Homem",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-decimo-homem-2016_l_m.jpg",
+      "show_category": "Romantic comedy / 2016",
+      "start_time": "16:46",
+      "end_time": "18:10",
+      "episode_description": "Um homem conhece uma mulher enquanto visita seu pai na Argentina."
     },
     {
       "show_name": "Saudosa Maloca",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_saudosa-maloca-2023_l_m.jpg",
       "show_category": "Drama / 2023",
-      "start_time": "20:09",
-      "end_time": "22:00",
+      "start_time": "18:10",
+      "end_time": "20:02",
       "episode_description": "Em uma mesa de bar, o velho Adoniran Barbosa conta a um jovem garçom histórias de uma São Paulo que já não existe. Ele lembra com carinho da maloca onde viveu com Joca e Mato Grosso, da paixão deles por Iracema e de outros personagens eternizados em seus sambas, crônicas de uma metrópole engolida pelo apetite voraz do progresso."
     },
     {
-      "show_name": "O Grande Motim",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-grande-motim-1962_l_m.jpg",
-      "show_category": "Adventure / 1962",
+      "show_name": "O Jogo da Imitação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-jogo-da-imitac-o-2014_l_m.jpg",
+      "show_category": "Historical drama / 2014",
+      "start_time": "20:02",
+      "end_time": "22:00",
+      "episode_description": "Em 1939, a recém-criada agência de inteligência britânica MI6 recruta Alan Turing, um aluno da Universidade de Cambridge, para entender códigos nazistas, incluindo o \"Enigma\", que criptógrafos acreditavam ser inquebrável. A equipe de Turing, incluindo Joan Clarke, analisa as mensagens de \"Enigma\", enquanto ele constrói uma máquina para decifrá-las. Após desvendar as codificações, Turing se torna herói. Porém, em 1952, autoridades revelam sua homossexualidade, e a vida dele vira um pesadelo."
+    },
+    {
+      "show_name": "The Last Shift",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-last-shift-2020_l_m.jpg",
+      "show_category": "Comedy drama / 2020 /5.8",
       "start_time": "22:00",
+      "end_time": "23:33",
+      "episode_description": "Stanley é um funcionário do mundo do fast food que se prepara para seu último turno após 38 anos sem descanso. Quando lhe pedem para treinar a pessoa que vai substituí-lo, porém, a vida de Stanley dá uma guinada inesperada."
+    },
+    {
+      "show_name": "O Cidadão Ilustre",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-cidad-o-ilustre-2016_l_m.jpg",
+      "show_category": "Comedy drama / 2016",
+      "start_time": "23:33",
       "end_time": "",
-      "episode_description": "Em 1787, o navio Bounty deixa Portsmouth numa longa viagem até o Taiti. Porém, os métodos do capitão William Bligh não são bem aceitos pela tripulação, que se revolta contra ele e opta por fazer um motim durante o percurso."
+      "episode_description": "Um escritor argentino e vencedor do Prêmio Nobel, radicado há 40 anos na Europa, volta para sua terra natal, ao povoado onde nasceu e que inspirou a maioria de seus livros, para receber o título de Cidadão Ilustre da cidade."
     }
   ]
 }

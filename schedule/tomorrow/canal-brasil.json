@@ -1,206 +1,262 @@
 {
   "channel": "Canal Brasil",
-  "date": "09/03/2026",
+  "date": "10/03/2026",
   "schedule": [
     {
-      "show_name": "Noturnas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_noturnas-s01e15-fujika-di-halliday_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 15 - Fujika Di Halliday",
-      "start_time": "01:53",
-      "end_time": "02:00",
-      "episode_description": "Um mergulho na história do movimento transgênero no Brasil, relembrando momentos que ajudaram a construir a trajetória do transformismo no país."
+      "show_name": "Dormir de Olhos Abertos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_dormir-de-olhos-abertos-2024_l_m.jpg",
+      "show_category": "Drama / 2024",
+      "start_time": "00:10",
+      "end_time": "01:50",
+      "episode_description": "Distantes de suas terras natais, e alheios à cultura recifense, Xiao Xin, Fu Ang e Kai subvertem a lógica do turista desejando acumular experiências ou somar destinos em sua lista pessoal. Eles operam na lógica da subtração. Assim, caminham sempre, porém sem rumo definido. Perambulam pelas avenidas, pelo centro lotado de comerciantes e pedestres, pelas praias e calçadas."
     },
     {
-      "show_name": "Malu de Bicicleta",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_malu-de-bicicleta-2010-1_l_m.jpg",
-      "show_category": "Romance / 2010 /6.3",
-      "start_time": "02:00",
-      "end_time": "03:34",
-      "episode_description": "Empresário coleciona conquistas, mas não consegue se envolver com nenhuma mulher. Um dia, no Rio, ele é atropelado de bicicleta por Malu. Eles logo se envolvem e vivem um romance perfeito, mas uma misteriosa carta de amor abala o relacionamento."
+      "show_name": "Máquina do Desejo - 60 Anos de Teatro Oficina",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_maquina-do-desejo-60-anos-de-teatro-oficina-2021_l_m.jpg",
+      "show_category": "Documentary / 2021",
+      "start_time": "01:50",
+      "end_time": "03:40",
+      "episode_description": "Em seis décadas, o Teatro Oficina fez mais que revolucionar a linguagem teatral no país: a influência estética da companhia de José Celso Martinez Corrêa estende-se do Tropicalismo à renovação das linguagens audiovisuais brasileiras a partir dos anos 1960. Relembre uma história que envolve personalidades como Caetano Veloso, Glauber Rocha e Lina Bo Bardi, aproxima arte cênica, ecologia, arquitetura e sexualidade, e mistura arte e vida na busca de uma linguagem verdadeiramente brasileira."
     },
     {
       "show_name": "As Pragas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_as-pragas-s01e07-corinthians_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 7 - Corinthians",
-      "start_time": "03:34",
-      "end_time": "03:40",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_as-pragas-s01e05-desvalorizac-o-das-assombrac-es_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 5 - Desvalorização das Assombrações",
+      "start_time": "03:40",
+      "end_time": "03:45",
       "episode_description": "José Mojica Martins, o Zé do Caixão, roga suas famosas pragas sobre os mais diversos alvos."
     },
     {
-      "show_name": "Ainda Agarro Esta Vizinha...",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_ainda-agarro-esta-vizinha-1974-2_l_m.jpg",
-      "show_category": "Comedy / 1974 /7.1",
-      "start_time": "03:40",
-      "end_time": "05:15",
-      "episode_description": "Tatá é um típico carioca de Copacabana. Ele mora em um prédio em que acontecem muitas confusões. Um dia, surge Teresa, uma nova vizinha de janela, que deixa Tatá completamente louco de paixão."
-    },
-    {
-      "show_name": "Pornolândia",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_pornolandia_l_m.jpg",
-      "show_category": "Adults only",
-      "start_time": "05:15",
-      "end_time": "05:30",
-      "episode_description": "Márcia Dailyn fala sobre a sua trajetória até se tornar a primeira bailarina transexual do Theatro Municipal de São Paulo e destaca as dificuldades em ser uma artista no Brasil."
-    },
-    {
-      "show_name": "O que Pode um Corpo?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-que-pode-um-corpo-2020_l_m.jpg",
-      "show_category": "Documentary / 2020",
-      "start_time": "05:30",
-      "end_time": "05:44",
-      "episode_description": "Victor empresta seu corpo com deficiência para mostrar a sua vivência na sociedade e faz de si a própria tela em um universo de pintores ausentes."
-    },
-    {
-      "show_name": "Brasil",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_brasil-1981_l_m.jpg",
-      "show_category": "Documentary / 1981 /6.1",
-      "start_time": "05:44",
-      "end_time": "06:00",
-      "episode_description": "Os bastidores da gravação do disco \"Brasil\", de João Gilberto, lançado em 1981, com a participação de Caetano Veloso, Gilberto Gil e Maria Bethânia no estúdio."
-    },
-    {
-      "show_name": "A Música Segundo Tom Jobim",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-musica-segundo-tom-jobim-2012_l_m.jpg",
-      "show_category": "Documentary / 2012",
-      "start_time": "06:00",
-      "end_time": "07:30",
-      "episode_description": "Conheça a história do cantor e compositor Tom Jobim, considerado a principal força por trás da bossa nova."
-    },
-    {
-      "show_name": "Canção de Baal",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_canc-o-de-baal-2007_l_m.jpg",
-      "show_category": "Musical / 2007 /6.2",
-      "start_time": "07:30",
-      "end_time": "08:50",
-      "episode_description": "Baal é uma artista liberal que tem casos com várias mulheres e um homem, de quem morre de ciúme. Ele é convidado por Meck para um jantar em sua homenagem, é sarcástico com os convidados e atrai a mulher do amigo."
-    },
-    {
-      "show_name": "Onde a Terra Acaba",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_onde-a-terra-acaba-2001_l_m.jpg",
-      "show_category": "Documentary / 2001",
-      "start_time": "08:50",
-      "end_time": "10:05",
-      "episode_description": "Um retrato de Mário Peixoto, diretor de \"Limite\", lançado em 1931, uma das obras mais importantes do cinema brasileiro. O documentário apresenta trechos do inacabado \"Onde a Terra Acaba\", que seria o segundo longa do cineasta."
+      "show_name": "Os Homens que Eu Tive",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-homens-que-eu-tive-1973_l_m.jpg",
+      "show_category": "Drama / 1973 /6.2",
+      "start_time": "03:45",
+      "end_time": "05:06",
+      "episode_description": "Dodi é um cara de mente aberta que liberou sua esposa Piti para viverem em um casamento aberto. Quando um dos amantes de Piti se hospeda na casa dos dois, a moça se apaixona pelo rapaz e começa a manifestar um desejo de ir seguir sua vida."
     },
     {
       "show_name": "Pílulas Espelho",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_pilulas-espelho_l_m.jpg",
       "show_category": "Interview",
-      "start_time": "10:05",
-      "end_time": "10:10",
-      "episode_description": "Lázaro Ramos entrevista personalidades para debater assuntos plurais e atuais da sociedade, como democracia, cidadania, valorização da cultura negra, exclusão digital, liberdade e, também, educação e arte."
+      "start_time": "05:06",
+      "end_time": "05:10",
+      "episode_description": "A escritora nigeriana Chimamanda Adichie fala sobre a exclusão de pessoas negras da história, como a negritude é colocada de lado no Brasil e quão prejudicial pode ser uma liderança ruim na pandemia."
     },
     {
-      "show_name": "Amante Latino",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_amante-latino-1979_l_m.jpg",
-      "show_category": "Musical / 1979 /6.6",
-      "start_time": "10:10",
-      "end_time": "11:50",
-      "episode_description": "O colégio onde Sidney Magal estudou será transformado em complexo industrial, destruindo área verde e expulsando ciganos. Com sua ex-professora e os ciganos, Magal organiza um show para salvar o local, enquanto o chefão da empresa tenta impedi-los."
+      "show_name": "Meio Expediente",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_meio-expediente-2017_l_m.jpg",
+      "show_category": "Holiday / 2017",
+      "start_time": "05:10",
+      "end_time": "05:55",
+      "episode_description": "Jairo é um chefe de uma repartição pública de Brasília, onde quase todos foram premiados em um bolão de final de ano da Loteria Federal. No dia seguinte a premiação, às vésperas do Natal, a repartição está vazia, triste e com os poucos funcionários que não tiveram, por diferentes motivos, a oportunidade de investir no bilhete premiado e Jairo é um deles."
     },
     {
-      "show_name": "Amores",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_amores-1998_l_m.jpg",
-      "show_category": "Drama / 1998 /7.1",
-      "start_time": "11:50",
-      "end_time": "13:30",
-      "episode_description": "Com a aproximação da virada do século 20, um grupo de amigos discute as suas relações e questiona suas vidas, traçando um rico painel sobre as inquietações humanas, tendo a caótica rotina do Rio de Janeiro como cenário."
+      "show_name": "Arte na Capa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_arte-na-capa_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "05:55",
+      "end_time": "06:00",
+      "episode_description": "Os bastidores da criação, histórias e curiosidades de capas de discos brasileiros clássicas."
     },
     {
-      "show_name": "Retrato de Dora",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_retrato-de-dora-2014_l_m.jpg",
-      "show_category": "Documentary / 2014",
-      "start_time": "13:30",
-      "end_time": "13:45",
-      "episode_description": "Após encontrar dezenas de fotografias da avó jovem, neta pede para ouvir as histórias de sua vida."
+      "show_name": "Sinfonia da Sobrevivência",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sinfonia-da-sobrevivencia-2024_l_m.jpg",
+      "show_category": "Documentary / 2024",
+      "start_time": "06:00",
+      "end_time": "07:15",
+      "episode_description": "Em meio às chamas do mais violento incêndio florestal que atingiu o Pantanal, o documentarista Michel Coeli testemunha a luta dos animais por sobrevivência, buscando água e comida. Bombeiros e voluntários tentam minimizar os impactos do desastre ambiental, enquanto enfrentam o fogo e as burocracias do Estado."
     },
     {
-      "show_name": "Carne",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_carne-2019_l_m.jpg",
-      "show_category": "Documentary / 2019 /7.5",
-      "start_time": "13:45",
-      "end_time": "14:00",
-      "episode_description": "Crua, Mal Passada, Ao Ponto, Passada e Bem Passada. Cinco mulheres compartilham experiências íntimas e pessoais sobre sua relação com o próprio corpo desde a infância até a terceira idade."
+      "show_name": "Jardim Nova Bahia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jardim-nova-bahia-1974_l_m.jpg",
+      "show_category": "Documentary / 1974",
+      "start_time": "07:15",
+      "end_time": "07:31",
+      "episode_description": "Deutrudes Carlos da Rocha, baiano de 24 anos, negro, analfabeto, é lavador de automóveis e vive em São Paulo. Através de seu depoimento e empunhando a câmera ele nos aproxima de sua experiência e visão do mundo."
     },
     {
-      "show_name": "Luiz Gonzaga - Légua Tirana",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_luiz-gonzaga-legua-tirana-2025_l_m.jpg",
-      "show_category": "Biography / 2025",
-      "start_time": "14:00",
-      "end_time": "15:55",
-      "episode_description": "A vida e obra do icônico Luiz Gonzaga do Nascimento, conhecido como o Rei do Baião. Um mergulho desde a infância e adolescência do artista, explorando suas raízes de retirante do sertão nordestino, revelando as conexões profundas entre sua música e a rica e complexa cultura que marcou sua obra."
+      "show_name": "Assaltaram a Gramática",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_assaltaram-a-gramatica-1983_l_m.jpg",
+      "show_category": "Documentary / 1983",
+      "start_time": "07:31",
+      "end_time": "07:45",
+      "episode_description": "Antecipando a linguagem do videoclipe, o documentário traça o perfil dos poetas Francisco Alvim, Paulo Leminski, Waly Salomão e Chacal por meio de poemas e textos expressivos, apresentando-os de forma ficcional e performática."
     },
     {
-      "show_name": "Gonzaga - De Pai pra Filho",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_gonzaga-de-pai-pra-filho-2012-1_l_m.jpg",
-      "show_category": "Biography / 2012 /7.3",
-      "start_time": "15:55",
-      "end_time": "18:05",
-      "episode_description": "A história de Luiz Gonzaga, o Rei do Baião. Desde a sua origem no sertão do Nordeste, passando pelo seu estrelato, até a complicada relação com seu filho Gonzaguinha, a trajetória de vida de uma lenda da música brasileira."
+      "show_name": "A Cobra Fumou",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-cobra-fumou-2002_l_m.jpg",
+      "show_category": "Documentary / 2002 /6.9",
+      "start_time": "07:45",
+      "end_time": "09:20",
+      "episode_description": "Uma reflexão sobre a participação do Brasil na Segunda Guerra Mundial. O filme mostra depoimentos de ex-combatentes da Força Expedicionária Brasileira e imagens do arquivo histórico."
+    },
+    {
+      "show_name": "Pílulas Espelho",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pilulas-espelho_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "09:20",
+      "end_time": "09:25",
+      "episode_description": "A escritora nigeriana Chimamanda Adichie fala sobre a exclusão de pessoas negras da história, como a negritude é colocada de lado no Brasil e quão prejudicial pode ser uma liderança ruim na pandemia."
     },
     {
       "show_name": "Pastor Cláudio",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_pastor-claudio-2019_l_m.jpg",
       "show_category": "Documentary / 2019",
-      "start_time": "18:05",
-      "end_time": "19:22",
+      "start_time": "09:25",
+      "end_time": "10:45",
       "episode_description": "Um encontro histórico entre duas figuras pessoalmente antagônicas: o bispo evangélico Cláudio Guerra, responsável por assassinar e incinerar os opositores à ditadura militar brasileira, e Eduardo Passos, um psicólogo e ativista dos Direitos Humanos."
     },
     {
-      "show_name": "Noturnas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_noturnas-s01e16-isabelita-dos-patins_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 16 - Isabelita dos Patins",
-      "start_time": "19:22",
-      "end_time": "19:30",
-      "episode_description": "Um mergulho na história do movimento transgênero no Brasil, relembrando momentos que ajudaram a construir a trajetória do transformismo no país."
+      "show_name": "O Ibraim do Subúrbio",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-ibraim-do-suburbio-1976_l_m.jpg",
+      "show_category": "Comedy / 1976",
+      "start_time": "10:45",
+      "end_time": "12:05",
+      "episode_description": "Homem pobre da Zona Norte do Rio, chefe de família, Roy luta de todas as formas para sobreviver e aceita trabalhar como gargalhador profissional em uma emissora de TV; Casimiro de Abreu de Sousa vive em um mundo de fantasia em que imagina fazer parte da alta sociedade. O casamento de sua filha desperta em Casimiro a vontade de realizar tudo que sempre fantasiou."
+    },
+    {
+      "show_name": "Pílulas Espelho",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pilulas-espelho_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "12:05",
+      "end_time": "12:10",
+      "episode_description": "A escritora nigeriana Chimamanda Adichie fala sobre a exclusão de pessoas negras da história, como a negritude é colocada de lado no Brasil e quão prejudicial pode ser uma liderança ruim na pandemia."
+    },
+    {
+      "show_name": "Braços Cruzados, Máquinas Paradas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bracos-cruzados-maquinas-paradas-1979_l_m.jpg",
+      "show_category": "Documentary / 1979 /8.2",
+      "start_time": "12:10",
+      "end_time": "13:30",
+      "episode_description": "O documentário registra as eleições do Sindicato dos Metalúrgicos de São Paulo e as greves de operários ocorridas em 1978, durante a ditadura militar, originando uma forte mobilização que traria a volta da democracia ao país."
+    },
+    {
+      "show_name": "Onça",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_onca-2025_l_m.jpg",
+      "show_category": "Documentary / 2025",
+      "start_time": "13:30",
+      "end_time": "13:54",
+      "episode_description": "Retrato afetivo de um reencontro familiar no interior do Maranhão. Após a morte da avó, a diretora retorna com a família a Itapecuru-Mirim na Páscoa, revivendo tradições e os laços que fortalecem as culturas locais."
+    },
+    {
+      "show_name": "Inéditas, Dispersas e Animadas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ineditas-dispersas-e-animadas_l_m.jpg",
+      "show_category": "Talk",
+      "start_time": "13:54",
+      "end_time": "14:00",
+      "episode_description": "Grandes nomes da cultura brasileira se encontram de forma lúdica em pequenas entrevistas ilustradas."
     },
     {
       "show_name": "Cinejornal",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_cinejornal_l_m.jpg",
       "show_category": "Art",
-      "start_time": "19:30",
-      "end_time": "19:45",
+      "start_time": "14:00",
+      "end_time": "14:15",
       "episode_description": "O cinema brasileiro em pauta com as novidades e os bastidores da produção nacional, entrevistas com atores e diretores e a cobertura completa de festivais importantes em todo o país."
+    },
+    {
+      "show_name": "Esquinas - Pílulas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_esquinas-pilulas_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "14:15",
+      "end_time": "14:30",
+      "episode_description": "Reportagens documentais inspiradas na seção homônima da Revista Piauí. Personagens e eventos peculiares são colhidos pelos quatro cantos do país com uma abordagem inovadora."
+    },
+    {
+      "show_name": "Espelho - 20 Anos Depois",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_espelho-20-anos-depois-s01e332-xam-e-edvana-carvalho_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 332 - Xamã e Edvana Carvalho",
+      "start_time": "14:30",
+      "end_time": "15:00",
+      "episode_description": "Xamã relembra as suas raízes e fala sobre ancestralidade e seu amor pela música e pelo cinema."
+    },
+    {
+      "show_name": "Jia Zhangke, um Homem de Fenyang",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jia-zhangke-um-homem-de-fenyang-2014-1_l_m.jpg",
+      "show_category": "Documentary / 2014",
+      "start_time": "15:00",
+      "end_time": "16:45",
+      "episode_description": "Um retrato afetivo do chinês que, para muitos, se tornou um dos mais importantes cineastas de nosso tempo. Jia Zhangke volta aos locais onde rodou seus filmes, junto com seus atores, amigos e colaboradores, e relembra suas fontes de inspiração."
+    },
+    {
+      "show_name": "Alemão 2",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alem-o-2-2021_l_m.jpg",
+      "show_category": "Action / 2021",
+      "start_time": "16:45",
+      "end_time": "18:36",
+      "episode_description": "A comunidade do Alemão no Rio de Janeiro é conhecida pela sua alta taxa de criminalidade. Mais uma vez, uma equipe enfrenta o tráfico de drogas para tentar realizar as missões necessárias dentro do complexo."
+    },
+    {
+      "show_name": "Pílulas Espelho",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pilulas-espelho_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "18:36",
+      "end_time": "18:40",
+      "episode_description": "A escritora nigeriana Chimamanda Adichie fala sobre a exclusão de pessoas negras da história, como a negritude é colocada de lado no Brasil e quão prejudicial pode ser uma liderança ruim na pandemia."
     },
     {
       "show_name": "Um Outro Francisco",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_um-outro-francisco-2024_l_m.jpg",
       "show_category": "Documentary / 2024",
-      "start_time": "19:45",
-      "end_time": "21:00",
+      "start_time": "18:40",
+      "end_time": "19:57",
       "episode_description": "A cidade de Canindé, interior do Ceará, celebra a 2ª maior festa franciscana do mundo. Fé e devoção se encontram na celebração marcada pelas histórias dos fiéis."
     },
     {
+      "show_name": "Pílulas Espelho",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pilulas-espelho_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "19:57",
+      "end_time": "20:00",
+      "episode_description": "A escritora nigeriana Chimamanda Adichie fala sobre a exclusão de pessoas negras da história, como a negritude é colocada de lado no Brasil e quão prejudicial pode ser uma liderança ruim na pandemia."
+    },
+    {
+      "show_name": "Atravessaria a Cidade Toda de Bicicleta Só pra te Ver Dançar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_atravessaria-a-cidade-toda-de-bicicleta-so-pra-te-ver-dancar-2026_l_m.jpg",
+      "show_category": "Drama / 2026",
+      "start_time": "20:00",
+      "end_time": "20:30",
+      "episode_description": "Pedro tem 17 anos e todo mundo ao seu redor já andou de bicicleta, fumou e beijou-só ele que não."
+    },
+    {
+      "show_name": "Esquinas - Pílulas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_esquinas-pilulas_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "20:30",
+      "end_time": "20:45",
+      "episode_description": "Reportagens documentais inspiradas na seção homônima da Revista Piauí. Personagens e eventos peculiares são colhidos pelos quatro cantos do país com uma abordagem inovadora."
+    },
+    {
+      "show_name": "Choque de Cultura",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_choque-de-cultura-s06e05-auto-da-compadecida_l_m.jpg",
+      "show_category": "Temporada 6 Episódio 5 - Auto da Compadecida",
+      "start_time": "20:45",
+      "end_time": "21:00",
+      "episode_description": "Os especialistas da sétima arte debatem sobre \"O Auto da Compadecida\", mesmo com receio do linchamento nas redes, e criticam a falta de uma Cuca do Sítio do Picapau Amarelo ou um herói da Disney."
+    },
+    {
       "show_name": "Estopim",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_estopim-s01e02-crimes-conjugais_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 2 - Crimes Conjugais",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_estopim-s01e03-crimes-sexuais_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3 - Crimes Sexuais",
       "start_time": "21:00",
       "end_time": "21:45",
       "episode_description": "Programa debate sobre diversos temas, envolvendo áreas políticas, sociais e econômicas da sociedade."
     },
     {
-      "show_name": "P..a Retrato - Trabalhadoras Sexuais",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_p-a-retrato-trabalhadoras-sexuais_l_m.jpg",
-      "show_category": "Documentary",
+      "show_name": "A Batalha da Rua Maria Antônia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-batalha-da-rua-maria-antonia-2023_l_m.jpg",
+      "show_category": "Historical drama / 2023",
       "start_time": "21:45",
-      "end_time": "22:34",
-      "episode_description": "Christal Focatrua fala do aprendizado que teve na rua e a objetificação de seu corpo. O programa também aborda o fetiche da dominação e a história de trabalhadoras sexuais no Rio de Janeiro."
+      "end_time": "23:10",
+      "episode_description": "Em outubro de 1968, na Faculdade de Filosofia da USP, estudantes e professores do movimento estudantil de esquerda enfrentam os ataques do Comando de Caça aos Comunistas em um evento que ficou conhecido como a Batalha da Maria Antônia. Quando o confronto explode, gritos, coquetéis molotov, pedras, paus e bombas caseiras são atiradas. Vinte e quatro horas vividas com a paixão da juventude dos anos 1960, em defesa de um ideal, na iminência da invasão dos militares ao prédio da USP."
     },
     {
-      "show_name": "P..a Retrato - Trabalhadoras Sexuais",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_p-a-retrato-trabalhadoras-sexuais_l_m.jpg",
-      "show_category": "Documentary",
-      "start_time": "22:34",
-      "end_time": "23:19",
-      "episode_description": "Christal Focatrua fala do aprendizado que teve na rua e a objetificação de seu corpo. O programa também aborda o fetiche da dominação e a história de trabalhadoras sexuais no Rio de Janeiro."
-    },
-    {
-      "show_name": "P..a Retrato - Trabalhadoras Sexuais",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_p-a-retrato-trabalhadoras-sexuais_l_m.jpg",
-      "show_category": "Documentary",
-      "start_time": "23:19",
+      "show_name": "Maria",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_maria-2023_l_m.jpg",
+      "show_category": "Drama / 2023",
+      "start_time": "23:10",
       "end_time": "",
-      "episode_description": "Christal Focatrua fala do aprendizado que teve na rua e a objetificação de seu corpo. O programa também aborda o fetiche da dominação e a história de trabalhadoras sexuais no Rio de Janeiro."
+      "episode_description": "Maria, quando mais jovem, almejava ser uma grande cantora, mas acabou virando segurança em um edifício público de Brasília. Quando sua filha Elza é selecionada para compor o elenco de um espetáculo musical, ela vê sua paixão pela música ganhar novo fôlego. Para seguir seu sonho, precisa enfrentar seus medos e inseguranças, além da resistência de Oswaldo, seu teimoso marido."
     }
   ]
 }

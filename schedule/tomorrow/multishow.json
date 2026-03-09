@@ -1,286 +1,262 @@
 {
   "channel": "Multishow",
-  "date": "09/03/2026",
+  "date": "10/03/2026",
   "schedule": [
     {
-      "show_name": "Big Brother Brasil",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_big-brother-brasil-s26e56_l_m.jpg",
-      "show_category": "Temporada 26 Episódio 56",
-      "start_time": "00:20",
-      "end_time": "01:20",
-      "episode_description": "Um grupo de pessoas topa ficar confinado em uma espaçosa casa cenográfica, sendo vigiado por câmeras 24 horas por dia. Sem receber informações do mundo exterior, eles disputam uma série de provas e dinâmicas em busca de um prêmio milionário."
+      "show_name": "Big Show",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_big-show-s26e08_l_m.jpg",
+      "show_category": "Temporada 26 Episódio 8",
+      "start_time": "00:00",
+      "end_time": "01:00",
+      "episode_description": "Debates, jogos, entrevistas e convidados especiais, incluindo o eliminado da semana no \"BBB\"."
     },
     {
-      "show_name": "Vai que Cola",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-s03e09-ferdivamp_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 9 - Ferdivamp",
-      "start_time": "01:20",
-      "end_time": "02:05",
-      "episode_description": "Ferdinando aparece desesperado dizendo que o novo hóspede da pensão, Vladimir, é um vampiro. Todos começam a desconfiar e procurar pistas que indiquem a acusação de Ferdinando."
+      "show_name": "A Grande Família",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-grande-familia-s09e03-o-rotulo-e-a-garrafa_l_m.jpg",
+      "show_category": "Temporada 9 Episódio 3 - O Rótulo e a Garrafa",
+      "start_time": "01:00",
+      "end_time": "01:39",
+      "episode_description": "Marilda arruma o namorado dos sonhos de todas as mulheres do bairro. Por conta disso, Paulão e Agostinho tentam descredibilizar o novo namorado de Marilda. Tuco descobre um segredo do passado de Gina."
+    },
+    {
+      "show_name": "Tapas & Beijos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tapas-beijos-s01e11-sobrinha-de-armane-chega-para-atrapalhar-a-vida-de-fatima_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 11 - Sobrinha de Armane Chega para Atrapalhar a Vida de Fátima",
+      "start_time": "01:39",
+      "end_time": "02:15",
+      "episode_description": "Carol, sobrinha de Armane, quer um vestido de noiva e o tio leva a menina na Djalma Noivas. A moça rapidamente percebe que Fátima e Armane são amantes."
     },
     {
       "show_name": "Rede BBB",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_rede-bbb_l_m.jpg",
       "show_category": "Reality",
-      "start_time": "02:05",
-      "end_time": "02:20",
+      "start_time": "02:15",
+      "end_time": "02:30",
       "episode_description": "Apresenta flashes com os últimos acontecimentos da casa."
     },
     {
-      "show_name": "Tô de Graça",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_to-de-graca-s05e15-a-galinha-chorou_l_m.jpg",
-      "show_category": "Temporada 5 Episódio 15 - A Galinha Chorou",
-      "start_time": "02:20",
-      "end_time": "02:50",
-      "episode_description": "Com contas de água atrasadas e sendo cobrada por Pará, Graça vê através de Pablo uma oportunidade de ouro, ou melhor, de ovo."
+      "show_name": "Chaves",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_chaves_l_m.jpg",
+      "show_category": "Sitcom",
+      "start_time": "02:30",
+      "end_time": "02:54",
+      "episode_description": "Seu Madruga continua trabalhando para remodelar a vila. No entanto, Chaves e Quico acham que o gesso é leite de burra, o que provoca várias confusões."
     },
     {
-      "show_name": "Tô de Graça",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_to-de-graca-s05e16-n-o-me-toc_l_m.jpg",
-      "show_category": "Temporada 5 Episódio 16 - Não me TOC",
-      "start_time": "02:50",
-      "end_time": "03:21",
-      "episode_description": "Enfrentando o stress pós-traumático da traição de Moacir, que fugiu com Geralda, e a traição de Moreira, Graça desenvolve uma série de TOCs variados, deixando a rotina da casa e a vida dos filhos ainda mais caótica."
+      "show_name": "Chapolin",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_chapolin-s01e182-n-o-s-o-todos-os-que-est-o-nem-est-o-todos-os-que-s-o_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 182 - Não São Todos os que Estão, Nem Estão Todos os que São",
+      "start_time": "02:54",
+      "end_time": "03:20",
+      "episode_description": "Três loucos que vivem juntos estão sendo investigados por uma detetive. Chamado para o caso, o Chapolin Colorado acaba se metendo em uma enrascada."
     },
     {
       "show_name": "Chaves",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_chaves_l_m.jpg",
       "show_category": "Sitcom",
-      "start_time": "03:21",
-      "end_time": "03:48",
-      "episode_description": "Sem dinheiro para quitar a dívida, Seu Madruga faz um acordo com Senhor Barriga: vai engessar toda a vila em troca de desconto nos aluguéis."
+      "start_time": "03:20",
+      "end_time": "03:46",
+      "episode_description": "Seu Madruga continua trabalhando para remodelar a vila. No entanto, Chaves e Quico acham que o gesso é leite de burra, o que provoca várias confusões."
     },
     {
       "show_name": "Chapolin",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_chapolin_l_m.jpg",
-      "show_category": "Children",
-      "start_time": "03:48",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_chapolin-s01e181-o-menino-que-jogou-fora-os-brinquedos_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 181 - O Menino que Jogou Fora os Brinquedos",
+      "start_time": "03:46",
       "end_time": "04:12",
-      "episode_description": "Alguns criminosos são cúmplices da morte de Tripa Seca."
+      "episode_description": "Os brinquedos de um menino somem, e Chapolin usa suas pílulas de polegarina para encontrar o ladrão."
     },
     {
-      "show_name": "Chaves",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_chaves_l_m.jpg",
-      "show_category": "Sitcom",
+      "show_name": "Tô de Graça",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_to-de-graca-s07e03-ent-o-e-natal_l_m.jpg",
+      "show_category": "Temporada 7 Episódio 3 - Então É Natal",
       "start_time": "04:12",
-      "end_time": "04:40",
-      "episode_description": "Sem dinheiro para quitar a dívida, Seu Madruga faz um acordo com Senhor Barriga: vai engessar toda a vila em troca de desconto nos aluguéis."
+      "end_time": "04:42",
+      "episode_description": "Com a morte da líder comunitária, Graça vê a chance de assumir o cargo e arma um Natal perfeito. Mas tudo desanda quando Pablo surge de Papai Noel."
     },
     {
-      "show_name": "Chapolin",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_chapolin-s01e159-marreta-bionica-calibre-45_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 159 - Marreta Biônica Calibre 45",
-      "start_time": "04:40",
-      "end_time": "05:06",
-      "episode_description": "O perigoso Racha Cuca está de volta ao Velho Oeste e o único capaz de conseguir detê-lo é o Chapolin Colorado."
+      "show_name": "TVZ Temporada Wanessa Camargo e Gominho",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tvz-temporada-wanessa-camargo-e-gominho_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "04:42",
+      "end_time": "05:57",
+      "episode_description": "Wanessa Camargo e Gominho recebem convidados para bater um papo sobre as novidades do mundo pop."
     },
     {
-      "show_name": "Chaves",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_chaves_l_m.jpg",
-      "show_category": "Sitcom",
-      "start_time": "05:06",
-      "end_time": "05:34",
-      "episode_description": "Sem dinheiro para quitar a dívida, Seu Madruga faz um acordo com Senhor Barriga: vai engessar toda a vila em troca de desconto nos aluguéis."
+      "show_name": "Aquecimento Lollapalooza",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aquecimento-lollapalooza_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "05:57",
+      "end_time": "05:57",
+      "episode_description": "Acompanhe shows diversos das bandas que irão se apresentar no festival Lollapalooza e relembre tudo o que aconteceu nas edições anteriores."
     },
     {
-      "show_name": "Chapolin",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_chapolin-s01e160-casamento-com-bruxa-n-o-um-paciente-pelo-amor-de-deus_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 160 - Casamento com Bruxa, Não!; Um Paciente pelo Amor de Deus",
-      "start_time": "05:34",
-      "end_time": "05:34",
-      "episode_description": "Chapolin precisa ajudar uma moça que está sendo obrigada a se casar com um homem milionário; os negócios vão mal e o Dr. Chapatin faz de tudo para conseguir um paciente."
-    },
-    {
-      "show_name": "Chapolin",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_chapolin-s01e160-casamento-com-bruxa-n-o-um-paciente-pelo-amor-de-deus_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 160 - Casamento com Bruxa, Não!; Um Paciente pelo Amor de Deus",
-      "start_time": "05:34",
-      "end_time": "06:02",
-      "episode_description": "Chapolin precisa ajudar uma moça que está sendo obrigada a se casar com um homem milionário; os negócios vão mal e o Dr. Chapatin faz de tudo para conseguir um paciente."
-    },
-    {
-      "show_name": "Chaves",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_chaves_l_m.jpg",
-      "show_category": "Sitcom",
-      "start_time": "06:02",
+      "show_name": "Aquecimento Lollapalooza",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aquecimento-lollapalooza_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "05:57",
       "end_time": "06:30",
-      "episode_description": "Sem dinheiro para quitar a dívida, Seu Madruga faz um acordo com Senhor Barriga: vai engessar toda a vila em troca de desconto nos aluguéis."
+      "episode_description": "Acompanhe shows diversos das bandas que irão se apresentar no festival Lollapalooza e relembre tudo o que aconteceu nas edições anteriores."
     },
     {
       "show_name": "O Dono do Lar",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-dono-do-lar-s03e15-manjando-dos-paranaues_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 15 - Manjando dos Paranauês",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-dono-do-lar-s01e01-lavou-ta-nova_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - Lavou Tá Nova",
       "start_time": "06:30",
       "end_time": "07:00",
-      "episode_description": "Américo precisa consertar o varal da casa que arrebentou e, para não gastar dinheiro, aproveita umas cordas que estavam sobrando no quintal. O problema é que elas eram da turma de capoeira do Cris."
+      "episode_description": "Américo está cansado da máquina de lavar velha e quebrada, então resolve comprar uma nova com o cartão de sua esposa, mas estoura o limite. Luciana tenta comprar um vestido com o cartão e não consegue."
     },
     {
       "show_name": "Chaves",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_chaves_l_m.jpg",
       "show_category": "Sitcom",
       "start_time": "07:00",
-      "end_time": "07:26",
-      "episode_description": "Sem dinheiro para quitar a dívida, Seu Madruga faz um acordo com Senhor Barriga: vai engessar toda a vila em troca de desconto nos aluguéis."
-    },
-    {
-      "show_name": "Chapolin",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_chapolin-s01e226-os-duendes_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 226 - Os Duendes",
-      "start_time": "07:26",
-      "end_time": "07:52",
-      "episode_description": "Um menino conta para todos que no seu quarto há duendes. Como ninguém acredita, ele resolve chamar o Chapolin Colorado para tentar provar que é verdade."
-    },
-    {
-      "show_name": "O Dono do Lar",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-dono-do-lar-s08e11-obra-prima_l_m.jpg",
-      "show_category": "Temporada 8 Episódio 11 - Obra-Prima",
-      "start_time": "07:52",
-      "end_time": "08:00",
-      "episode_description": "Isabela, prima de Fran e Américo, se interessa por Cris e causa ciúmes em Soraia; Américo precisa esconder de Fran que quebrou um vaso supostamente valioso."
-    },
-    {
-      "show_name": "TVZ",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_tvz_l_m.jpg",
-      "show_category": "Music",
-      "start_time": "08:00",
-      "end_time": "08:30",
-      "episode_description": "Os melhores videoclipes nacionais e internacionais das paradas musicais."
-    },
-    {
-      "show_name": "Aquecimento Lollapalooza",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_aquecimento-lollapalooza_l_m.jpg",
-      "show_category": "Music",
-      "start_time": "08:30",
-      "end_time": "09:04",
-      "episode_description": "Acompanhe shows diversos das bandas que irão se apresentar no festival Lollapalooza e relembre tudo o que aconteceu nas edições anteriores."
-    },
-    {
-      "show_name": "Reclame",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_reclame-s20e01_l_m.jpg",
-      "show_category": "Temporada 20 Episódio 1",
-      "start_time": "09:04",
-      "end_time": "09:34",
-      "episode_description": "Fique por dentro dos bastidores do mundo publicitário no Brasil e confira também entrevistas com profissionais da área, making of de campanhas, filmes de maior destaque e a cobertura dos eventos do setor."
-    },
-    {
-      "show_name": "Tapas & Beijos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_tapas-beijos-s01e09-fatima-e-armane-enfrentam-problemas_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 9 - Fátima e Armane Enfrentam Problemas",
-      "start_time": "09:34",
-      "end_time": "10:07",
-      "episode_description": "A esposa de Armane desconfia que ele tem uma amante e exige atenção redobrada. Ao saber da situação, Fátima fica enciumada e não abre mão de ter o mesmo tratamento."
-    },
-    {
-      "show_name": "Tapas & Beijos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_tapas-beijos-s01e10-dia-dos-namorados-ao-som-da-banda-calypso_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 10 - Dia dos Namorados ao Som da Banda Calypso",
-      "start_time": "10:07",
-      "end_time": "10:47",
-      "episode_description": "Fátima consegue ingressos para o show da Banda Calypso no Dia dos Namorados. Ela chama Sueli, que já tem planos. Acaba convidando Armane, que não aceita o convite."
-    },
-    {
-      "show_name": "Chaves",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_chaves_l_m.jpg",
-      "show_category": "Sitcom",
-      "start_time": "10:47",
-      "end_time": "11:11",
-      "episode_description": "Sem dinheiro para quitar a dívida, Seu Madruga faz um acordo com Senhor Barriga: vai engessar toda a vila em troca de desconto nos aluguéis."
+      "end_time": "07:24",
+      "episode_description": "Seu Madruga continua trabalhando para remodelar a vila. No entanto, Chaves e Quico acham que o gesso é leite de burra, o que provoca várias confusões."
     },
     {
       "show_name": "Chapolin",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_chapolin-s01e182-n-o-s-o-todos-os-que-est-o-nem-est-o-todos-os-que-s-o_l_m.jpg",
       "show_category": "Temporada 1 Episódio 182 - Não São Todos os que Estão, Nem Estão Todos os que São",
-      "start_time": "11:11",
-      "end_time": "11:34",
+      "start_time": "07:24",
+      "end_time": "07:50",
       "episode_description": "Três loucos que vivem juntos estão sendo investigados por uma detetive. Chamado para o caso, o Chapolin Colorado acaba se metendo em uma enrascada."
     },
     {
-      "show_name": "Rede BBB",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_rede-bbb_l_m.jpg",
-      "show_category": "Reality",
-      "start_time": "11:34",
-      "end_time": "11:49",
-      "episode_description": "Apresenta flashes com os últimos acontecimentos da casa."
-    },
-    {
       "show_name": "Vai que Cola",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-s02e37-terapia-de-vidas-passadas_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 37 - Terapia de Vidas Passadas",
-      "start_time": "11:49",
-      "end_time": "12:48",
-      "episode_description": "Com a ajuda de Eloísa, Valdo trama mais. Eles convidam o mágico Roni para se passar por Pai Ronei e enganar os moradores da pensão. Velna, que tinha um encontro marcado com o mágico, desvenda o golpe."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-s13e18-a-lenda-do-rei-harmado_l_m.jpg",
+      "show_category": "Temporada 13 Episódio 18 - A Lenda do Rei Harmado",
+      "start_time": "07:50",
+      "end_time": "08:00",
+      "episode_description": "A MéierCon, feira nerd no bairro, vira a pensão ao avesso. A turma sai no tapa por ingressos e ainda rola uma disputa de cosplay da série \"A Lenda do Rei Harmado\"."
     },
     {
-      "show_name": "Toma Lá, Dá Cá",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_toma-la-da-ca-s01e18-galinha-que-come-pedra_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 18 - Galinha que Come Pedra",
-      "start_time": "12:48",
-      "end_time": "13:33",
-      "episode_description": "Celinha vira garota-propaganda de uma marca e precisa posar com Copélia, que se comporta, mas é desmascarada por Dona Álvara."
-    },
-    {
-      "show_name": "Aquecimento Lollapalooza",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_aquecimento-lollapalooza_l_m.jpg",
+      "show_name": "TVZ Temporada Wanessa Camargo e Gominho",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tvz-temporada-wanessa-camargo-e-gominho_l_m.jpg",
       "show_category": "Music",
-      "start_time": "13:33",
-      "end_time": "14:05",
-      "episode_description": "Acompanhe shows diversos das bandas que irão se apresentar no festival Lollapalooza e relembre tudo o que aconteceu nas edições anteriores."
-    },
-    {
-      "show_name": "Rede BBB",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_rede-bbb_l_m.jpg",
-      "show_category": "Reality",
-      "start_time": "14:05",
-      "end_time": "14:20",
-      "episode_description": "Apresenta flashes com os últimos acontecimentos da casa."
-    },
-    {
-      "show_name": "Tô de Graça",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_to-de-graca-s05e17-briti-em-festa_l_m.jpg",
-      "show_category": "Temporada 5 Episódio 17 - Briti em Festa",
-      "start_time": "14:20",
-      "end_time": "14:46",
-      "episode_description": "Todos se esquecem do aniversário de Briti que, arrasada, faz sua própria festa surpresa; Maico faz bico na coluna de um site gay e convida uma Drag para uma sessão de fotos na comunidade."
-    },
-    {
-      "show_name": "Tô de Graça",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_to-de-graca-s05e20-o-luxo-e-o-lixo_l_m.jpg",
-      "show_category": "Temporada 5 Episódio 20 - O Luxo e o Lixo",
-      "start_time": "14:46",
-      "end_time": "15:16",
-      "episode_description": "Maico fica obcecado com uma premiação em dinheiro oferecida por uma marca de refrigerante; o lixeiro para de passar na comunidade, e os moradores do conjunto criam um lixão bem em frente à casa de Graça."
-    },
-    {
-      "show_name": "Tô de Graça",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_to-de-graca-s05e21-mais-vale-um-ovulo-na-m-o-do-que-dois-voando_l_m.jpg",
-      "show_category": "Temporada 5 Episódio 21 - Mais Vale um Óvulo na Mão do que Dois Voando",
-      "start_time": "15:16",
-      "end_time": "15:47",
-      "episode_description": "Achando que está novamente grávida, Graça vai ao médico e descobre que os sintomas são de menopausa e que não poderá ter mais filhos."
-    },
-    {
-      "show_name": "Vai que Cola",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-s02e35-a-favorita_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 35 - A Favorita",
-      "start_time": "15:47",
-      "end_time": "16:35",
-      "episode_description": "A discórdia toma conta da pensão quando o poder muda no Morro do Cerol e passa para as mãos dos inimigos do falecido Tiziu. A facção resolve então substituir Terezinha por Velna no posto de Rainha da Bateria."
+      "start_time": "08:00",
+      "end_time": "09:15",
+      "episode_description": "Wanessa Camargo e Gominho recebem convidados para bater um papo sobre as novidades do mundo pop."
     },
     {
       "show_name": "Tapas & Beijos",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_tapas-beijos-s01e11-sobrinha-de-armane-chega-para-atrapalhar-a-vida-de-fatima_l_m.jpg",
       "show_category": "Temporada 1 Episódio 11 - Sobrinha de Armane Chega para Atrapalhar a Vida de Fátima",
-      "start_time": "16:35",
-      "end_time": "17:11",
+      "start_time": "09:15",
+      "end_time": "09:50",
       "episode_description": "Carol, sobrinha de Armane, quer um vestido de noiva e o tio leva a menina na Djalma Noivas. A moça rapidamente percebe que Fátima e Armane são amantes."
     },
     {
       "show_name": "Tapas & Beijos",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_tapas-beijos-s01e12-flagrante-no-poquer_l_m.jpg",
       "show_category": "Temporada 1 Episódio 12 - Flagrante no Pôquer",
-      "start_time": "17:11",
-      "end_time": "17:45",
+      "start_time": "09:50",
+      "end_time": "10:23",
       "episode_description": "Armane, Jurandir e Djalma jogam pôquer sem que suas mulheres saibam. Desconfiadas, Fátima, Sueli e Flavinha vão ao restaurante e decidem os enfrentar no jogo."
+    },
+    {
+      "show_name": "Chaves",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_chaves_l_m.jpg",
+      "show_category": "Sitcom",
+      "start_time": "10:23",
+      "end_time": "10:46",
+      "episode_description": "Seu Madruga continua trabalhando para remodelar a vila. No entanto, Chaves e Quico acham que o gesso é leite de burra, o que provoca várias confusões."
+    },
+    {
+      "show_name": "Chapolin",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_chapolin-s01e183-doutor-chapatin-o-bolo-que-deu-bolo_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 183 - Doutor Chapatin; O Bolo que Deu Bolo",
+      "start_time": "10:46",
+      "end_time": "11:13",
+      "episode_description": "Chapolin ajuda Florinda e o pai dela, dono de uma confeitaria, a descobrir o bolo que está envenenado; o pretendente de Florinda tenta se vingar, pois ela desistiu do casamento."
+    },
+    {
+      "show_name": "Rede BBB",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rede-bbb_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "11:13",
+      "end_time": "11:28",
+      "episode_description": "Apresenta flashes com os últimos acontecimentos da casa."
+    },
+    {
+      "show_name": "Reclame - Especial BBB 2026",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2",
+      "start_time": "11:28",
+      "end_time": "11:38",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Vai que Cola",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-s02e38-quem-mexeu-no-meu-pudim_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 38 - Quem Mexeu no Meu Pudim",
+      "start_time": "11:38",
+      "end_time": "12:26",
+      "episode_description": "Jéssica pede para Dona Jô fazer seu famoso pudim e todos se animam. Para isso, ela precisa que alguém compre os ingredientes. Sanderson se prontifica a ir ao mercado."
+    },
+    {
+      "show_name": "Toma Lá, Dá Cá",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_toma-la-da-ca-s01e19-nem-tudo-e-realidade_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 19 - Nem Tudo É Realidade",
+      "start_time": "12:26",
+      "end_time": "13:11",
+      "episode_description": "Bozena é selecionada para participar de um reality show e a notícia transforma a rotina desta diarista e de seus patrões. Já de olho no faturamento extra, Mário Jorge assina contrato com ela como seu agente, enquanto Arnaldo, clareia os dentes dela."
+    },
+    {
+      "show_name": "Aquecimento Lollapalooza",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aquecimento-lollapalooza_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "13:11",
+      "end_time": "13:45",
+      "episode_description": "Acompanhe shows diversos das bandas que irão se apresentar no festival Lollapalooza e relembre tudo o que aconteceu nas edições anteriores."
+    },
+    {
+      "show_name": "Rede BBB",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rede-bbb_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "13:45",
+      "end_time": "14:00",
+      "episode_description": "Apresenta flashes com os últimos acontecimentos da casa."
+    },
+    {
+      "show_name": "Vai que Cola",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-s02e37-terapia-de-vidas-passadas_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 37 - Terapia de Vidas Passadas",
+      "start_time": "14:00",
+      "end_time": "14:59",
+      "episode_description": "Com a ajuda de Eloísa, Valdo trama mais. Eles convidam o mágico Roni para se passar por Pai Ronei e enganar os moradores da pensão. Velna, que tinha um encontro marcado com o mágico, desvenda o golpe."
+    },
+    {
+      "show_name": "Tô de Graça",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_to-de-graca-s05e18-agua-mole-pedra-dura_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 18 - Água Mole, Pedra Dura",
+      "start_time": "14:59",
+      "end_time": "15:26",
+      "episode_description": "Um exame de sangue obriga Moreira a levar uma vida mais saudável. Com isso, ele retoma sua virilidade. Porém, o que parece bom aos olhos de Graça, pode trazer muita dor de cabeça."
+    },
+    {
+      "show_name": "Big Show",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_big-show-s26e08_l_m.jpg",
+      "show_category": "Temporada 26 Episódio 8",
+      "start_time": "15:26",
+      "end_time": "16:27",
+      "episode_description": "Debates, jogos, entrevistas e convidados especiais, incluindo o eliminado da semana no \"BBB\"."
+    },
+    {
+      "show_name": "Tapas & Beijos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tapas-beijos-s01e13-chalita-encontra-uma-namorada-na-boate-la-conga_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 13 - Chalita Encontra uma Namorada na Boate La Conga",
+      "start_time": "16:27",
+      "end_time": "17:07",
+      "episode_description": "A boate La Conga é inaugurada. Flavinha não gosta nem um pouco e organiza um abaixo-assinado. Chalita vai ao local apresentar o documento e acaba conhecendo Samanta."
+    },
+    {
+      "show_name": "Tapas & Beijos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tapas-beijos-s01e14-pc-reaparece-e-provoca-crise-no-relacionamento-de-sueli_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 14 - PC Reaparece e Provoca Crise no Relacionamento de Sueli",
+      "start_time": "17:07",
+      "end_time": "17:45",
+      "episode_description": "Sueli e Fátima vão ao forró com Flavinha e Armane. PC salva Sueli de um atropelamento e acaba indo junto. Jurandir aparece de surpresa e causa uma grande confusão."
     },
     {
       "show_name": "Rede BBB",
@@ -291,18 +267,26 @@
       "episode_description": "Apresenta flashes com os últimos acontecimentos da casa."
     },
     {
-      "show_name": "TVZ Temporada Wanessa Camargo e Gominho",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_tvz-temporada-wanessa-camargo-e-gominho_l_m.jpg",
+      "show_name": "TVZ",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tvz_l_m.jpg",
       "show_category": "Music",
       "start_time": "18:00",
-      "end_time": "19:15",
-      "episode_description": "Wanessa Camargo e Gominho recebem convidados para bater um papo sobre as novidades do mundo pop."
+      "end_time": "18:30",
+      "episode_description": "Os melhores videoclipes nacionais e internacionais das paradas musicais."
+    },
+    {
+      "show_name": "Toma Lá, Dá Cá",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_toma-la-da-ca-s01e20-o-homem-que-veio-arrochar_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 20 - O Homem que Veio Arrochar",
+      "start_time": "18:30",
+      "end_time": "19:17",
+      "episode_description": "Copélia convida o mestre espiritual Shonganashana para renovar o espírito das famílias. Mas, ele só quer mulher na sua sessão."
     },
     {
       "show_name": "Rede BBB",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_rede-bbb_l_m.jpg",
       "show_category": "Reality",
-      "start_time": "19:15",
+      "start_time": "19:17",
       "end_time": "19:30",
       "episode_description": "Apresenta flashes com os últimos acontecimentos da casa."
     },
@@ -315,65 +299,73 @@
       "episode_description": "Influenciadores e talentos da TV comentam, repercutem e espiam a casa do BBB."
     },
     {
+      "show_name": "Reclame - Especial BBB 2026",
+      "show_logo": "https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2",
+      "start_time": "20:30",
+      "end_time": "20:40",
+      "episode_description": ""
+    },
+    {
       "show_name": "Rede BBB",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_rede-bbb_l_m.jpg",
       "show_category": "Reality",
-      "start_time": "20:30",
+      "start_time": "20:40",
       "end_time": "20:45",
       "episode_description": "Apresenta flashes com os últimos acontecimentos da casa."
     },
     {
       "show_name": "A Grande Família",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-grande-familia-s09e04-a-dona-da-festa_l_m.jpg",
-      "show_category": "Temporada 9 Episódio 4 - A Dona da Festa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-grande-familia-s09e06-o-inquilino_l_m.jpg",
+      "show_category": "Temporada 9 Episódio 6 - O Inquilino",
       "start_time": "20:45",
-      "end_time": "21:19",
-      "episode_description": "Dona Nenê planeja um grande churrasco para o Para o Dia das Mães. Contudo, um problema de última hora ameaça a festa de Dona Nenê. Marilda acaba indo parar no hospital e precisa realizar uma cirurgia."
+      "end_time": "21:21",
+      "episode_description": "Bebel e Agostinho escondem um segredo da família. Dona Nenê estranha o comportamento de Bebel. Agostinho, chateado com Bebel, tenta fugir do país. Marilda é pressionada por Nenê."
     },
     {
       "show_name": "Rede BBB",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_rede-bbb_l_m.jpg",
       "show_category": "Reality",
-      "start_time": "21:19",
-      "end_time": "21:34",
+      "start_time": "21:21",
+      "end_time": "21:36",
       "episode_description": "Apresenta flashes com os últimos acontecimentos da casa."
     },
     {
       "show_name": "A Grande Família",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-grande-familia-s09e05-fazemos-qualquer-negocio_l_m.jpg",
-      "show_category": "Temporada 9 Episódio 5 - Fazemos Qualquer Negócio",
-      "start_time": "21:34",
-      "end_time": "22:08",
-      "episode_description": "Uma crise financeira abala todos da vizinhança. Agostinho e Bebel recebem uma proposta que pode mudar suas vidas; Nenê resolve montar uma sociedade com Abigail para vender biscoitos."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-grande-familia-s09e07-o-clone_l_m.jpg",
+      "show_category": "Temporada 9 Episódio 7 - O Clone",
+      "start_time": "21:36",
+      "end_time": "22:11",
+      "episode_description": "Lineu tem seu cartão de crédito clonado. Agostinho e Tuco zombam de Lineu por ele não saber se divertir. Lineu e Agostinho são flagrados por Bebel e Marilda em boate com strippers."
+    },
+    {
+      "show_name": "O Dono do Lar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-dono-do-lar-s03e20-nivel-inferior_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 20 - Nível Inferior",
+      "start_time": "22:11",
+      "end_time": "22:41",
+      "episode_description": "Crente que havia conseguido um emprego, Américo se gaba para a família, mas acaba não sendo contratado e decide ser motorista de aplicativo. O problema é que ele vai precisar usar o carro de Doralice escondido."
     },
     {
       "show_name": "Vai que Cola",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-s02e38-quem-mexeu-no-meu-pudim_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 38 - Quem Mexeu no Meu Pudim",
-      "start_time": "22:08",
-      "end_time": "22:51",
-      "episode_description": "Jéssica pede para Dona Jô fazer seu famoso pudim e todos se animam. Para isso, ela precisa que alguém compre os ingredientes. Sanderson se prontifica a ir ao mercado."
-    },
-    {
-      "show_name": "Tô de Graça",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_to-de-graca-s05e20-o-luxo-e-o-lixo_l_m.jpg",
-      "show_category": "Temporada 5 Episódio 20 - O Luxo e o Lixo",
-      "start_time": "22:51",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-s12e33-mardolinda_l_m.jpg",
+      "show_category": "Temporada 12 Episódio 33 - Mardolinda",
+      "start_time": "22:41",
       "end_time": "23:18",
-      "episode_description": "Maico fica obcecado com uma premiação em dinheiro oferecida por uma marca de refrigerante; o lixeiro para de passar na comunidade, e os moradores do conjunto criam um lixão bem em frente à casa de Graça."
+      "episode_description": "Vinda do interior, ex-namorada de Lindomar chega na pensão achando que eles ainda estão juntos. Pressionado a dar a real antes de Jéssica voltar de viagem, ele fica com dó da moça."
     },
     {
       "show_name": "Vai que Cola",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-s12e24-feliz-aniversario-dona-jo_l_m.jpg",
-      "show_category": "Temporada 12 Episódio 24 - Feliz Aniversário, Dona Jô",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-s11e10_l_m.jpg",
+      "show_category": "Temporada 11 Episódio 10 - Doida de Amor",
       "start_time": "23:18",
       "end_time": "23:30",
-      "episode_description": "Ninguém se lembra da data mais importante do ano para Dona Jô. Agora, vão ter que correr atrás do prejuízo antes que ela perceba."
+      "episode_description": "Para ir a um evento da cidade, Jéssica fica responsável por fazer mil coxinhas. O problema é que Dona Jô só tem olhos para Sid e, desta vez, não poderá ajudar a filha."
     },
     {
       "show_name": "Big Brother Brasil",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_big-brother-brasil-s26e57_l_m.jpg",
-      "show_category": "Temporada 26 Episódio 57",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_big-brother-brasil-s26e58_l_m.jpg",
+      "show_category": "Temporada 26 Episódio 58",
       "start_time": "23:30",
       "end_time": "",
       "episode_description": "Um grupo de pessoas topa ficar confinado em uma espaçosa casa cenográfica, sendo vigiado por câmeras 24 horas por dia. Sem receber informações do mundo exterior, eles disputam uma série de provas e dinâmicas em busca de um prêmio milionário."

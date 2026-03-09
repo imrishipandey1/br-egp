@@ -1,14 +1,14 @@
 {
   "channel": "National Geographic",
-  "date": "08/03/2026",
+  "date": "09/03/2026",
   "schedule": [
     {
-      "show_name": "Aeroporto - São Paulo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_aeroporto-s-o-paulo_l_m.jpg",
-      "show_category": "Crime",
+      "show_name": "Hitler - Guerra no Deserto",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hitler-guerra-no-deserto_l_m.jpg",
+      "show_category": "Special",
       "start_time": "00:50",
       "end_time": "01:50",
-      "episode_description": "No Aeroporto Internacional de Guarulhos, em São Paulo, Brasil, uma nova equipe de segurança entra em ação contra o crime. De tentativas de tráfico ilegal de drogas e de pessoas a contrabando de mercadoria e moedas, tudo pode acontecer."
+      "episode_description": "Em 1942, a Guerra do Deserto foi um conflito sangrento em que milhares de soldados lutaram em condições extremas. Revisamos as grandes campanhas militares no Norte da África."
     },
     {
       "show_name": "Mayday! Desastres Aéreos",
@@ -131,132 +131,140 @@
       "episode_description": "Saiba mais sobre os ingredientes e técnicas usados para produzir alimentos populares em várias fábricas de alimentos nos Estados Unidos da América."
     },
     {
+      "show_name": "A Fábrica de Comidas: Estados Unidos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-fabrica-de-comidas-estados-unidos_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "09:35",
+      "end_time": "10:00",
+      "episode_description": "Saiba mais sobre os ingredientes e técnicas usados para produzir alimentos populares em várias fábricas de alimentos nos Estados Unidos da América."
+    },
+    {
       "show_name": "Sabores Extremos com Gordon Ramsay",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sabores-extremos-com-gordon-ramsay_l_m.jpg",
       "show_category": "Reality",
-      "start_time": "09:35",
-      "end_time": "10:35",
+      "start_time": "10:00",
+      "end_time": "11:00",
       "episode_description": "Gordon faz expedições para explorar os diferentes sabores e lugares que o mundo tem a oferecer."
     },
     {
       "show_name": "Mayday! Desastres Aéreos",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_mayday-desastres-aereos-1_l_m.jpg",
       "show_category": "Documentary",
-      "start_time": "10:35",
-      "end_time": "11:30",
+      "start_time": "11:00",
+      "end_time": "11:55",
       "episode_description": "Acidentes catastróficos da história da aviação são meticulosamente encenados, fornecendo informações sobre o que deu errado e se os acidentes poderiam ter sido evitados."
     },
     {
-      "show_name": "Extreme E: Electric Odyssey",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_auto-racing-extreme-e-electric-odyssey_l_m.jpg",
-      "show_category": "",
-      "start_time": "11:30",
-      "end_time": "11:55",
-      "episode_description": "Os bastidores do Extreme E, uma série de corridas off-road internacionais sancionada pela FIA que usa SUVs elétricos para correr em partes remotas do mundo. Os veículos enfrentam os desafios das alterações climáticas e condições extremas."
-    },
-    {
-      "show_name": "Extreme E: Electric Odyssey",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_auto-racing-extreme-e-electric-odyssey_l_m.jpg",
-      "show_category": "",
+      "show_name": "Aeroporto - Roma",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aeroporto-roma_l_m.jpg",
+      "show_category": "Documentary",
       "start_time": "11:55",
-      "end_time": "12:20",
-      "episode_description": "Os bastidores do Extreme E, uma série de corridas off-road internacionais sancionada pela FIA que usa SUVs elétricos para correr em partes remotas do mundo. Os veículos enfrentam os desafios das alterações climáticas e condições extremas."
+      "end_time": "12:45",
+      "episode_description": "Um registro da luta contra o crime organizado no continente europeu, em um de seus terminais aéreos mais movimentados: o Aeroporto Internacional Leonardo da Vinci, Roma."
     },
     {
-      "show_name": "Restaurantes no Fim do Mundo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_restaurantes-no-fim-do-mundo_l_m.jpg",
+      "show_name": "Sobrevivendo Abaixo de Zero - Sabedoria Nativa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sobrevivendo-abaixo-de-zero-sabedoria-nativa_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "12:45",
+      "end_time": "13:40",
+      "episode_description": "No Alasca, povos indígenas devem enfrentar o clima e todos os tipos de desafios enquanto lutam para cuidar de suas terras ancestrais."
+    },
+    {
+      "show_name": "Celebridades à Prova de Tudo - O Desafio",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_celebridades-a-prova-de-tudo-o-desafio_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "13:40",
+      "end_time": "14:35",
+      "episode_description": "Bear Grylls eleva o nível ao ensinar a seus convidados habilidades essenciais de sobrevivência que eles têm que dominar e depois provar que podem usar em uma situação de alto estresse."
+    },
+    {
+      "show_name": "Sobrevivente Primitivo com Hazen Audel",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sobrevivente-primitivo-com-hazen-audel_l_m.jpg",
       "show_category": "Documentary",
-      "start_time": "12:20",
-      "end_time": "13:15",
-      "episode_description": "A chef aventureira, empreendedora e pioneira Kristen Kish viaja pelo mundo em busca de pessoas, lugares, cultura e tradições por trás dos restaurantes mais remotos do planeta."
+      "start_time": "14:35",
+      "end_time": "15:30",
+      "episode_description": "Hazen Audel viaja por alguns dos locais mais extremos do planeta em desafios solitários que o levam ao limite de seu conhecimento, resistência e habilidades. Para ter sucesso, ele conta com as antigas técnicas de povos indígenas."
     },
     {
-      "show_name": "Fuga do Campo Nazista",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_fuga-do-campo-nazista_l_m.jpg",
-      "show_category": "Special",
-      "start_time": "13:15",
-      "end_time": "14:10",
-      "episode_description": "14 de outubro de 2013 foi o 70.º aniversário de um evento que chocou o partido nazista em sua base, quando os prisioneiros judeus em Sobibor, um campo de extermínio nazista na Polônia, fizeram uma fuga sangrenta."
+      "show_name": "Africa's Deadliest",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_africa-s-deadliest_l_m.jpg",
+      "show_category": "Animals",
+      "start_time": "15:30",
+      "end_time": "16:15",
+      "episode_description": "A evolução é uma corrida mortal, onde determinadas espécies tornam-se ainda mais mortíferas. Imagens surpreendentes das criaturas mais perigosas do continente em ação."
     },
     {
-      "show_name": "Adolescentes Nazistas - Fanáticos por Hitler",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_adolescentes-nazistas-fanaticos-por-hitler_l_m.jpg",
-      "show_category": "Special",
-      "start_time": "14:10",
-      "end_time": "15:05",
-      "episode_description": "Os 20.000 adolescentes que formaram a 12ª Divisão SS Panzer foram liberados na França para deter a invasão aliada. Ensinados no regime nazista e com a promessa de dar a vida por Hitler, eles espalharam terror e destruição."
+      "show_name": "SOS Cobra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sos-cobra_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "16:15",
+      "end_time": "17:20",
+      "episode_description": "A cidade de Durban, África do Sul, é conhecida por suas praias, clima ameno e cobras. Acompanhe Simon e Nadine que estão sempre prontos para atender chamados desesperados de moradores que encontram serpentes venenosas ao redor de suas casas."
     },
     {
-      "show_name": "Hitler Toma o Ocidente",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_hitler-toma-o-ocidente_l_m.jpg",
+      "show_name": "Mayday! Desastres Aéreos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mayday-desastres-aereos-1_l_m.jpg",
       "show_category": "Documentary",
-      "start_time": "15:05",
-      "end_time": "16:00",
-      "episode_description": "Em 10 de maio de 1940, os tanques e aviões nazistas invadem a Europa Ocidental, devastando os países da Bélgica, Holanda e norte da França."
+      "start_time": "17:20",
+      "end_time": "18:15",
+      "episode_description": "Acidentes catastróficos da história da aviação são meticulosamente encenados, fornecendo informações sobre o que deu errado e se os acidentes poderiam ter sido evitados."
     },
     {
-      "show_name": "Hitler Toma o Ocidente",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_hitler-toma-o-ocidente_l_m.jpg",
+      "show_name": "Reino Animal - Diários de Lawrence Wahba",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_reino-animal-diarios-de-lawrence-wahba-1_l_m.jpg",
+      "show_category": "Animals",
+      "start_time": "18:15",
+      "end_time": "19:10",
+      "episode_description": "Wahba relata uma expedição em ordem cronológica: a chegada ao local, as dificuldades encontradas, as imagens obtidas e as lições aprendidas em relação ao animal e ao habitat em questão."
+    },
+    {
+      "show_name": "Tesouros Perdidos de Roma",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tesouros-perdidos-de-roma_l_m.jpg",
       "show_category": "Documentary",
-      "start_time": "16:00",
-      "end_time": "17:00",
-      "episode_description": "Em 10 de maio de 1940, os tanques e aviões nazistas invadem a Europa Ocidental, devastando os países da Bélgica, Holanda e norte da França."
+      "start_time": "19:10",
+      "end_time": "20:15",
+      "episode_description": "Uma equipe internacional de arqueólogos enfrenta o fascinante desafio de trazer à luz os segredos perdidos do Império Romano."
     },
     {
-      "show_name": "Testemunhos da Segunda Guerra - Itália",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_testemunhos-da-segunda-guerra-italia_l_m.jpg",
-      "show_category": "Documentary",
-      "start_time": "17:00",
-      "end_time": "18:00",
-      "episode_description": "Os Aliados miram a Itália. Os primeiros desembarques na Sicília, em 1943, e as batalhas finais nas montanhas, em abril de 1945, são relembrados pelos homens que lutaram no país."
-    },
-    {
-      "show_name": "Testemunhos da Segunda Guerra - Itália",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_testemunhos-da-segunda-guerra-italia_l_m.jpg",
-      "show_category": "Documentary",
-      "start_time": "18:00",
-      "end_time": "19:00",
-      "episode_description": "Os Aliados miram a Itália. Os primeiros desembarques na Sicília, em 1943, e as batalhas finais nas montanhas, em abril de 1945, são relembrados pelos homens que lutaram no país."
-    },
-    {
-      "show_name": "Papa x Hitler",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_papa-x-hitler_l_m.jpg",
-      "show_category": "Special",
-      "start_time": "19:00",
+      "show_name": "Aeroporto - Madri",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aeroporto-madri_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "20:15",
       "end_time": "21:00",
-      "episode_description": "Nos dias mais obscuros da Segunda Guerra Mundial, a Basílica de São Pedro foi coberta com a sombra da suástica. Mas mesmo quando o Führer o cercou, o Papa Pio XII estava planejando um contra-ataque secreto."
+      "episode_description": "Saiba mais sobre os crimes no aeroporto Madrid-Barajas, com 40 voos por hora e 129 mil passageiros por dia. Uma equipe especializada da Polícia Nacional protege o aeroporto de imigração ilegal, tráfico de pessoas e tráfico de narcóticos."
     },
     {
-      "show_name": "A Anunciar",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-anunciar_l_m.jpg",
-      "show_category": "Special",
+      "show_name": "Mercado Ilegal com Mariana Van Zeller - Submundo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mercado-ilegal-com-mariana-van-zeller-submundo_l_m.jpg",
+      "show_category": "Documentary",
       "start_time": "21:00",
       "end_time": "22:00",
-      "episode_description": "Programação a ser anunciada."
+      "episode_description": "A premiada jornalista Mariana van Zeller investiga novos submundos emergentes, incluindo o comércio de partes de corpos, assassinos de aluguel, extorsão sexual e o contrabando de pessoas através da fronteira entre os EUA e o México."
     },
     {
-      "show_name": "A Anunciar",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-anunciar_l_m.jpg",
-      "show_category": "Special",
+      "show_name": "Mercado Ilegal com Mariana van Zeller",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mercado-ilegal-com-mariana-van-zeller_l_m.jpg",
+      "show_category": "Documentary",
       "start_time": "22:00",
       "end_time": "22:55",
-      "episode_description": "Programação a ser anunciada."
+      "episode_description": "A premiada jornalista Mariana van Zeller explora o funcionamento interno dos mercados ilegais mais perigosos do submundo global. Em cada episódio, ela viaja em um antro diferente para tentar entender suas circunstâncias e contextos."
     },
     {
-      "show_name": "A Anunciar",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-anunciar_l_m.jpg",
-      "show_category": "Special",
+      "show_name": "Chefões do Narcotráfico - A Queda",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_chef-es-do-narcotrafico-a-queda_l_m.jpg",
+      "show_category": "Documentary",
       "start_time": "22:55",
       "end_time": "23:50",
-      "episode_description": "Programação a ser anunciada."
+      "episode_description": "Agentes e especialistas contam as histórias por trás das caçadas a alguns dos mais poderosos e impiedosos traficantes de drogas do mundo."
     },
     {
-      "show_name": "A Anunciar",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-anunciar_l_m.jpg",
-      "show_category": "Special",
+      "show_name": "Sabores Extremos com Gordon Ramsay",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabores-extremos-com-gordon-ramsay_l_m.jpg",
+      "show_category": "Reality",
       "start_time": "23:50",
       "end_time": "00:50",
-      "episode_description": "Programação a ser anunciada."
+      "episode_description": "Gordon faz expedições para explorar os diferentes sabores e lugares que o mundo tem a oferecer."
     }
   ]
 }

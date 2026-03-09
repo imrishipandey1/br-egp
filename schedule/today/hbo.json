@@ -1,118 +1,134 @@
 {
   "channel": "HBO",
-  "date": "08/03/2026",
+  "date": "09/03/2026",
   "schedule": [
-    {
-      "show_name": "Twisters",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_twisters-2024_l_m.jpg",
-      "show_category": "Action / 2024 /6.6",
-      "start_time": "00:00",
-      "end_time": "02:05",
-      "episode_description": "Dois caçadores de tempestades arriscam suas vidas na tentativa de testar um sistema experimental de alerta meteorológico."
-    },
-    {
-      "show_name": "Poseidon",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_poseidon-2006_l_m.jpg",
-      "show_category": "Adventure / 2006 /5.6",
-      "start_time": "02:05",
-      "end_time": "03:44",
-      "episode_description": "Um transatlântico é atingido por uma onda gigantesca. Aqueles que sobreviveram ao impacto precisam achar uma maneira de sair do enorme navio."
-    },
-    {
-      "show_name": "O Esquadrão Suicida",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-esquadr-o-suicida-2021_l_m.jpg",
-      "show_category": "Action / 2021",
-      "start_time": "03:44",
-      "end_time": "06:00",
-      "episode_description": "O governo envia os supervilões mais perigosos do mundo para a remota ilha de Corto Maltese, repleta de inimigos. Armados com armas de alta tecnologia, eles viajam pela selva perigosa em uma missão de busca e destruição com o Coronel Rick Flag."
-    },
-    {
-      "show_name": "Harry Potter e a Ordem da Fênix",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_harry-potter-e-a-ordem-da-fenix-2007-1_l_m.jpg",
-      "show_category": "Fantasy / 2007",
-      "start_time": "06:00",
-      "end_time": "08:19",
-      "episode_description": "Após um verão desastroso, Harry volta para o seu quinto ano em Hogwarts, um dos mais difíceis que terá de encarar. Pouquíssimos alunos e pais acreditam nele ou em Dumbledore sobre a volta de Voldemort, e uma série interminável de artigos circula dizendo que eles estão completamente malucos. Ainda por cima, Dolores Umbridge, a nova professora de Defesa Contra as Artes das Trevas, prova ser a pessoa mais repugnante que Harry já conheceu."
-    },
-    {
-      "show_name": "Jason Bourne",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_jason-bourne-2016_l_m.jpg",
-      "show_category": "Action / 2016",
-      "start_time": "08:19",
-      "end_time": "10:30",
-      "episode_description": "Afastado da CIA há dez anos, o agente Jason Bourne retorna ao campo de batalha para enfrentar uma rede sinistra que utiliza tecnologia e terror para se manter no poder."
-    },
-    {
-      "show_name": "Beekeeper - Rede de Vingança",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_beekeeper-rede-de-vinganca-2024_l_m.jpg",
-      "show_category": "Action / 2024",
-      "start_time": "10:30",
-      "end_time": "12:20",
-      "episode_description": "As ações brutais de vingança de um homem assume riscos de proporções nacionais quando é revelado que ele é um ex-agente de uma organização poderosa e clandestina."
-    },
-    {
-      "show_name": "Godzilla e Kong - O Novo Império",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_godzilla-e-kong-o-novo-imperio-2024_l_m.jpg",
-      "show_category": "Science fiction / 2024",
-      "start_time": "12:20",
-      "end_time": "14:20",
-      "episode_description": "Godzilla e o todo-poderoso Kong enfrentam uma ameaça colossal escondida nas profundezas do planeta, desafiando a sua própria existência e a sobrevivência da raça humana."
-    },
-    {
-      "show_name": "Como Treinar o Seu Dragão 3",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_como-treinar-o-seu-drag-o-3-2019_l_m.jpg",
-      "show_category": "Children / 2019",
-      "start_time": "14:20",
-      "end_time": "16:10",
-      "episode_description": "Soluço busca realizar seu grande sonho de encontrar um lar pacífico onde os dragões possam viver em segurança. Lá, Banguela descobre uma companheira, assim como ele. O perigo começa a rondar o lar e a dupla Banguela e Soluço é testada e precisa tomar decisões difíceis para salvar suas espécies."
-    },
-    {
-      "show_name": "Os Fantasmas Ainda se Divertem - Beetlejuice Beetlejuice",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-fantasmas-ainda-se-divertem-beetlejuice-beetlejuice-2024_l_m.jpg",
-      "show_category": "Comedy / 2024",
-      "start_time": "16:10",
-      "end_time": "17:59",
-      "episode_description": "Lydia Deetz já é adulta e mãe da adolescente Astrid, que repentinamente descobre a misteriosa maquete da cidade no sótão e abre, sem querer, o portal para a vida após a morte, mais uma vez virando a vida da família Deetz de ponta-cabeça."
-    },
-    {
-      "show_name": "Homem-Aranha - De Volta ao Lar",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_homem-aranha-de-volta-ao-lar-2017_l_m.jpg",
-      "show_category": "Action / 2017",
-      "start_time": "17:59",
-      "end_time": "20:14",
-      "episode_description": "Após lutar ao lado dos Vingadores, chegou a hora do jovem Peter Parker voltar para casa em Nova York ao lado de sua tia May. Sob o olhar atento do mentor Tony Stark, Peter começa a abraçar sua nova identidade como Homem-Aranha e combate diariamente pequenos crimes nas redondezas. Ele acredita que encontrou a missão de sua vida quando o terrível vilão Abutre surge ameaçando a cidade. O problema é que a tarefa não será tão fácil como ele imaginava."
-    },
-    {
-      "show_name": "Um Filme Minecraft",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_um-filme-minecraft-2025_l_m.jpg",
-      "show_category": "Fantasy / 2025",
-      "start_time": "20:14",
-      "end_time": "22:03",
-      "episode_description": "Um portal misterioso atrai quatro desajustados para o Overworld, uma terra das maravilhas bizarras e cúbicas que prospera com a imaginação. Para voltar para casa, eles têm que dominar o terreno enquanto embarcam em uma missão mágica com um construtor inesperado chamado Steve."
-    },
     {
       "show_name": "DTF St. Louis",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_dtf-st-louis-s01e02_l_m.jpg",
       "show_category": "Temporada 1 Episódio 2 - Pode Pegar",
-      "start_time": "22:03",
-      "end_time": "23:02",
+      "start_time": "00:37",
+      "end_time": "01:37",
       "episode_description": "Três adultos em crise de meia-idade entram em um triângulo amoroso que acaba em tragédia."
     },
     {
       "show_name": "Rooster",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_rooster-s01e01_l_m.jpg",
       "show_category": "Temporada 1 Episódio 1",
-      "start_time": "23:02",
-      "end_time": "23:44",
+      "start_time": "01:37",
+      "end_time": "02:13",
       "episode_description": "Um escritor de sucesso faz de tudo para ajudar sua filha, uma professora universitária problemática."
     },
     {
       "show_name": "Como Água para Chocolate",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_como-agua-para-chocolate-s02e04_l_m.jpg",
       "show_category": "Temporada 2 Episódio 4 - Pão do Dia dos Mortos",
-      "start_time": "23:44",
-      "end_time": "00:37",
+      "start_time": "02:13",
+      "end_time": "03:05",
       "episode_description": "Oprimida pela culpa, Tita enfrenta uma dupla pressão: a pressa de Rosaura em casá-la com o doutor Brown e a presença sufocante do fantasma de Mamãe Elena; o retorno de Gertrudis com seu filho traz consigo a revelação de um segredo; Pedro descobre uma rede de exploração ligada ao tio que o obriga a realizar um resgate inesperado; entre pratos que destilam remorso e uma confissão que não acontece, Tita recebe uma maldição de Mamãe Elena."
+    },
+    {
+      "show_name": "O Jogo da Invocação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-jogo-da-invocac-o-2023_l_m.jpg",
+      "show_category": "Horror / 2023",
+      "start_time": "03:05",
+      "end_time": "04:25",
+      "episode_description": "Adolescentes de Salem descobrem uma faca amaldiçoada que liberta um demônio. Este os força a entrar em versões horríveis e mortais de jogos infantis onde não há vencedores, apenas sobreviventes."
+    },
+    {
+      "show_name": "Anjos da Noite - Guerras de Sangue",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_anjos-da-noite-guerras-de-sangue-2016_l_m.jpg",
+      "show_category": "Fantasy / 2016",
+      "start_time": "04:25",
+      "end_time": "06:00",
+      "episode_description": "Com a ajuda de seus aliados, a vampira híbrida Selene tenta por fim à guerra eterna entre vampiros e lobisomens, mesmo que isso signifique o sacrifício total."
+    },
+    {
+      "show_name": "Rei Arthur - A Lenda da Espada",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rei-arthur-a-lenda-da-espada-2017_l_m.jpg",
+      "show_category": "Adventure / 2017",
+      "start_time": "06:00",
+      "end_time": "08:10",
+      "episode_description": "Arthur é um jovem das ruas que controla os becos de Londonium e desconhece sua predestinação até o momento em que entra em contato pela primeira vez com a Excalibur. Desafiado pela espada, ele precisa tomar difíceis decisões, enfrentar seus demônios e aprender a dominar o poder que possui para conseguir, enfim, unir seu povo e partir para a luta contra o tirano Vortigern, que destruiu sua família."
+    },
+    {
+      "show_name": "O Esquadrão Suicida",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-esquadr-o-suicida-2021_l_m.jpg",
+      "show_category": "Action / 2021",
+      "start_time": "08:10",
+      "end_time": "10:30",
+      "episode_description": "O governo envia os supervilões mais perigosos do mundo para a remota ilha de Corto Maltese, repleta de inimigos. Armados com armas de alta tecnologia, eles viajam pela selva perigosa em uma missão de busca e destruição com o Coronel Rick Flag."
+    },
+    {
+      "show_name": "Corações de Ferro",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_corac-es-de-ferro-2014-1_l_m.jpg",
+      "show_category": "War / 2014",
+      "start_time": "10:30",
+      "end_time": "12:50",
+      "episode_description": "Durante o final da Segunda Guerra Mundial, o sargento Don Wardaddy lidera um grupo de apenas cinco soldados norte-americanos encarregado de aniquilar os nazistas. Em um tanque de guerra Sherman, os homens enfrentam uma missão mortal. Apesar da desvantagem numérica, falta de armas e um soldado inexperiente, Wardaddy e seus homens se movimentam em um ataque espetacular no coração da Alemanha nazista."
+    },
+    {
+      "show_name": "SISU - Estrada da Vingança",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sisu-estrada-da-vinganca-2025_l_m.jpg",
+      "show_category": "Action / 2025",
+      "start_time": "12:50",
+      "end_time": "14:25",
+      "episode_description": "Korpi desmonta a casa onde sua família foi morta e a carrega em um caminhão para reconstruí-la em um lugar seguro. Ele logo se vê em uma violenta perseguição pelo país, enquanto o comandante do Exército Vermelho que matou sua família retorna para terminar o serviço."
+    },
+    {
+      "show_name": "Como Água para Chocolate",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_como-agua-para-chocolate-s02e04_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 4 - Pão do Dia dos Mortos",
+      "start_time": "14:25",
+      "end_time": "15:20",
+      "episode_description": "Oprimida pela culpa, Tita enfrenta uma dupla pressão: a pressa de Rosaura em casá-la com o doutor Brown e a presença sufocante do fantasma de Mamãe Elena; o retorno de Gertrudis com seu filho traz consigo a revelação de um segredo; Pedro descobre uma rede de exploração ligada ao tio que o obriga a realizar um resgate inesperado; entre pratos que destilam remorso e uma confissão que não acontece, Tita recebe uma maldição de Mamãe Elena."
+    },
+    {
+      "show_name": "Adão Negro",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ad-o-negro-2022_l_m.jpg",
+      "show_category": "Action / 2022",
+      "start_time": "15:20",
+      "end_time": "17:30",
+      "episode_description": "Teth Adam recebeu poderes divinos, que utilizou para uma vingança e, por isso, foi aprisionado. Quase 5 mil anos depois, o Adão Negro é liberto de sua tumba para lançar sua justiça cruel sobre a Terra."
+    },
+    {
+      "show_name": "Os Afro-Sambas, o Brasil de Baden e Vinicius",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-afro-sambas-o-brasil-de-baden-e-vinicius-2024_l_m.jpg",
+      "show_category": "Documentary / 2024",
+      "start_time": "17:30",
+      "end_time": "19:05",
+      "episode_description": "Lançado em 1966 por Vinícius de Moraes e Baden Powell, o disco \"Os Afro-Sambas\" é um dos mais cultuados do Brasil. Participantes da gravação original, críticos, amigos e familiares dos músicos revivem a criação dessa obra-prima. Filmado entre Salvador e Rio de Janeiro, o documentário reúne imagens de arquivo e entrevistas exclusivas com Maria Bethânia, Dori Caymmi, Russo Passapusso e Nelson Motta. Uma homenagem a um clássico que transformou a música brasileira."
+    },
+    {
+      "show_name": "Pílula de Farinha - O Escândalo que Gerou Vidas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pilula-de-farinha-o-escandalo-que-gerou-vidas-s01e03_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3 - Demônios se Alimentam de Mágoas",
+      "start_time": "19:05",
+      "end_time": "19:50",
+      "episode_description": "Um novo erro na produção do anticoncepcional agrava escândalo e reabre dúvidas sobre procedimentos do laboratório. As vítimas enfrentam partos em condições adversas, enquanto uma advogada ligada ao caso descobre que também foi afetada pelo placebo."
+    },
+    {
+      "show_name": "Rooster",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rooster-s01e01_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1",
+      "start_time": "19:50",
+      "end_time": "20:25",
+      "episode_description": "Um escritor de sucesso faz de tudo para ajudar sua filha, uma professora universitária problemática."
+    },
+    {
+      "show_name": "Shrek",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_shrek-2001_l_m.jpg",
+      "show_category": "Children / 2001 /7.9",
+      "start_time": "20:25",
+      "end_time": "22:00",
+      "episode_description": "Um ogro tem sua vida invadida por personagens de contos de fadas que acabam com a tranquilidade de seu lar. Ele faz um acordo para resgatar uma princesa."
+    },
+    {
+      "show_name": "Shazam! Fúria dos Deuses",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_shazam-furia-dos-deuses-2023_l_m.jpg",
+      "show_category": "Action / 2023",
+      "start_time": "22:00",
+      "end_time": "00:15",
+      "episode_description": "Deuses antigos chegam ao planeta Terra em busca da magia roubada deles há muito tempo. Shazam e seus aliados são forçados a entrar em uma batalha por seus superpoderes, suas vidas e o destino do mundo."
     }
   ]
 }
