@@ -1,36 +1,36 @@
 {
   "channel": "AMC Brasil",
-  "date": "10/03/2026",
+  "date": "11/03/2026",
   "schedule": [
-    {
-      "show_name": "Riddick 3",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_riddick-3-2013_l_m.jpg",
-      "show_category": "Science fiction / 2013 /6.4",
-      "start_time": "01:50",
-      "end_time": "04:00",
-      "episode_description": "Abandonado para morrer em um mundo habitado por animais selvagens, Riddick deseja retornar ao seu planeta natal. Quando dois grupos de mercenários chegam ao planeta, ele passa a usá-los para tentar conseguir uma das naves para fugir do local."
-    },
     {
       "show_name": "Machete",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_machete-2010_l_m.jpg",
       "show_category": "Action / 2010 /6.7",
-      "start_time": "04:00",
-      "end_time": "05:55",
+      "start_time": "01:20",
+      "end_time": "03:15",
       "episode_description": "Depois de quase ser morto durante uma briga violenta com um poderoso traficante, um ex-agente federal mexicano, conhecido como Machete, percorre as ruas do Texas trabalhando como operário e vigilante. Contratado para cometer um assassinato, ele é traído e forçado a fugir. Machete parte em busca de vingança e abre caminho com sangue, balas e corações partidos na sua jornada para acertar as contas."
+    },
+    {
+      "show_name": "Riddick 3",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_riddick-3-2013_l_m.jpg",
+      "show_category": "Science fiction / 2013 /6.4",
+      "start_time": "03:15",
+      "end_time": "05:25",
+      "episode_description": "Abandonado para morrer em um mundo habitado por animais selvagens, Riddick deseja retornar ao seu planeta natal. Quando dois grupos de mercenários chegam ao planeta, ele passa a usá-los para tentar conseguir uma das naves para fugir do local."
     },
     {
       "show_name": "Planet Action",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_planet-action_l_m.jpg",
       "show_category": "Entertainment",
-      "start_time": "05:55",
-      "end_time": "05:55",
+      "start_time": "05:25",
+      "end_time": "06:00",
       "episode_description": "De tiroteios com caubóis a carros explodindo e monstros rugindo, acompanhe os bastidores dos melhores filmes de ação lançados."
     },
     {
       "show_name": "Planet Action",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_planet-action_l_m.jpg",
       "show_category": "Entertainment",
-      "start_time": "05:55",
+      "start_time": "06:00",
       "end_time": "06:30",
       "episode_description": "De tiroteios com caubóis a carros explodindo e monstros rugindo, acompanhe os bastidores dos melhores filmes de ação lançados."
     },
@@ -111,72 +111,64 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_planet-action_l_m.jpg",
       "show_category": "Entertainment",
       "start_time": "11:00",
-      "end_time": "11:30",
+      "end_time": "11:25",
       "episode_description": "De tiroteios com caubóis a carros explodindo e monstros rugindo, acompanhe os bastidores dos melhores filmes de ação lançados."
     },
     {
       "show_name": "Planet Action",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_planet-action_l_m.jpg",
       "show_category": "Entertainment",
-      "start_time": "11:30",
-      "end_time": "12:00",
+      "start_time": "11:25",
+      "end_time": "11:50",
       "episode_description": "De tiroteios com caubóis a carros explodindo e monstros rugindo, acompanhe os bastidores dos melhores filmes de ação lançados."
     },
     {
-      "show_name": "Comer, Rezar, Amar",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_comer-rezar-amar-2010-1_l_m.jpg",
-      "show_category": "Drama / 2010",
-      "start_time": "12:00",
-      "end_time": "14:40",
-      "episode_description": "Liz Gilbert pensa que ela tinha tudo que queria na vida: uma casa, um marido e uma carreira de sucesso. Porém recém-divorciada e de frente para um momento de mudança, ela se sente confusa sobre o que é importante em sua vida. Ousando sair da sua zona de conforto, Liz embarca em uma busca de autodescoberta que a leva à Itália, à Índia e a Bali."
+      "show_name": "Bons Companheiros",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bons-companheiros-2023_l_m.jpg",
+      "show_category": "Action / 2023",
+      "start_time": "11:50",
+      "end_time": "14:20",
+      "episode_description": "O dublê Luo busca a ajuda de sua filha distante e do namorado dela, advogado, quando seu amado cavalo dublê pode ser leiloado para pagar suas dívidas."
     },
     {
-      "show_name": "A Hora do Desespero",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-hora-do-desespero-2021_l_m.jpg",
-      "show_category": "Thriller / 2021",
-      "start_time": "14:40",
-      "end_time": "16:30",
-      "episode_description": "Amy Carr sai para o que devia ter sido uma corrida matinal restauradora, quando uma amiga liga com notícias terríveis: a escola local que o filho de Noah frequenta foi sitiada por um atirador."
-    },
-    {
-      "show_name": "Frankenstein - Entre Anjos e Demônios",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_frankenstein-entre-anjos-e-demonios-2014-1_l_m.jpg",
-      "show_category": "Fantasy / 2014",
-      "start_time": "16:30",
-      "end_time": "18:00",
-      "episode_description": "Após enterrar o Dr. Victor Frankenstein, o monstro criado por ele é atacado por demônios, que pretendem capturá-lo. Ele consegue se salvar e segue sua vida. Porém, 200 anos depois, ele agora com o nome de Adam, acaba se envolvendo em uma guerra entre dois clãs imortais na cidade ancestral de Darkhaven."
-    },
-    {
-      "show_name": "Saideira",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_saideira-2024_l_m.jpg",
-      "show_category": "Comedy drama / 2024",
-      "start_time": "18:00",
-      "end_time": "20:00",
-      "episode_description": "Duas irmãs que não se viam há anos embarcam em uma inusitada caça ao tesouro em busca de uma preciosíssima cachaça que receberam de herança."
+      "show_name": "Amanhecer Violento",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_amanhecer-violento-2012-1_l_m.jpg",
+      "show_category": "Action / 2012",
+      "start_time": "14:20",
+      "end_time": "16:00",
+      "episode_description": "O dia estava tranquilo até um grupo de paraquedistas aterrissar no campo de futebol de um colégio. Era o início de uma invasão da Coreia do Norte ao território americano, o que gera pânico nos habitantes da cidade. Decididos a defender o local, oito jovens se escondem nas montanhas e, adotando o nome de sua equipe de futebol, planejam como revidar à invasão das forças militares inimigas."
     },
     {
       "show_name": "Missão Impossível",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_miss-o-impossivel-1996-1_l_m.jpg",
       "show_category": "Action / 1996",
-      "start_time": "20:00",
-      "end_time": "22:00",
+      "start_time": "16:00",
+      "end_time": "18:00",
       "episode_description": "O agente do governo Ethan Hunt e seu mentor, Jim Phelps, embarcam em uma missão secreta que toma um rumo desastroso: Jim é morto e Ethan torna-se o principal suspeito do assassinato. Em fuga, Hunt recruta o brilhante Luther Stickell e o piloto Franz Krieger para ajudá-lo a entrar no prédio da CIA, fortemente vigiado, a fim de pegar um arquivo de computador confidencial que pode provar a sua inocência."
     },
     {
-      "show_name": "Sem Escalas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sem-escalas-2014-1_l_m.jpg",
-      "show_category": "Action / 2014",
-      "start_time": "22:00",
-      "end_time": "23:45",
-      "episode_description": "Durante um voo de Nova York a Londres, o agente Neil Marks recebe uma série de mensagens enigmáticas, dizendo que um passageiro será morto a cada 20 minutos caso US$ 150 milhões não sejam transferidos para uma conta bancária. Inicialmente, Neil não dá atenção à ameaça, mas, quando o primeiro passageiro aparece morto, ele inicia uma investigação em pleno avião sobre quem possa ser o assassino."
+      "show_name": "Destinos Opostos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_destinos-opostos-2023_l_m.jpg",
+      "show_category": "Drama / 2023",
+      "start_time": "18:00",
+      "end_time": "19:55",
+      "episode_description": "Um milionário precisa voltar às origens no Pantanal após a morte de seu pai. Quando retorna à fazenda onde cresceu, ele precisa tomar decisões que o colocam diante de memórias e sentimentos capazes de mudar tudo o que acredita."
     },
     {
-      "show_name": "Uma Sombra na Nuvem",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_uma-sombra-na-nuvem-2020_l_m.jpg",
-      "show_category": "Action / 2020",
-      "start_time": "23:45",
-      "end_time": "01:20",
-      "episode_description": "Uma pilota de avião na Segunda Guerra Mundial viaja com documentos ultrassecretos. Ao encontrar uma presença maligna no voo, sua vida ganha novos contornos, precisando ela lutar, também, uma guerra sobrenatural."
+      "show_name": "Tomb Raider - A Origem",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tomb-raider-a-origem-2018_l_m.jpg",
+      "show_category": "Adventure / 2018",
+      "start_time": "19:55",
+      "end_time": "22:00",
+      "episode_description": "Lara Croft é a independente filha de um aventureiro excêntrico que desapareceu há anos. Com a esperança de resolver o mistério do sumiço de seu pai, Lara embarca em uma perigosa jornada para seu último destino conhecido - um túmulo lendário em uma ilha mítica que pode estar em algum lugar ao largo da costa do Japão. As apostas não podiam ser maiores, pois Lara precisa confiar em sua mente aguda, fé cega e espírito obstinado para se aventurar no desconhecido."
+    },
+    {
+      "show_name": "Apocalypto",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_apocalypto-2006_l_m.jpg",
+      "show_category": "Adventure / 2006 /7.8",
+      "start_time": "22:00",
+      "end_time": "00:35",
+      "episode_description": "No fim da civilização maia, sacrifícios humanos se tornam cada vez mais frequentes, na tentativa de aplacar a ira dos deuses. Um jovem guerreiro é capturado e, num ímpeto de bravura, empreende incrível fuga para salvar a mulher grávida e o filho."
     }
   ]
 }

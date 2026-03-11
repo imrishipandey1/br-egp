@@ -1,134 +1,118 @@
 {
   "channel": "HBO",
-  "date": "10/03/2026",
+  "date": "11/03/2026",
   "schedule": [
     {
-      "show_name": "Last Week Tonight With John Oliver",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_last-week-tonight-with-john-oliver-s13e04_l_m.jpg",
-      "show_category": "Temporada 13 Episódio 4",
-      "start_time": "00:15",
-      "end_time": "00:55",
-      "episode_description": "O carismático e britânico comentarista John Oliver oferece sua perspectiva singular e voz distinta sobre qualquer número de questões sociais, políticas ou atuais."
+      "show_name": "Anjos e Demônios",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_anjos-e-demonios-2009-2_l_m.jpg",
+      "show_category": "Action / 2009",
+      "start_time": "01:30",
+      "end_time": "03:50",
+      "episode_description": "Robert Langdon, um especialista em símbolos da Universidade de Harvard, descobre o ressurgimento de uma antiga irmandade conhecida como Illuminati, e viaja para Roma com a missão de alertar o inimigo mais odiado da seita: o Vaticano. Unindo forças com a bela cientista italiana Vittoria Vetra, o professor segue uma trilha de símbolos antigos para tentar impedir que o plano perverso da irmandade contra a Igreja Católica se concretize."
     },
     {
-      "show_name": "Aquaman",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_aquaman-2018_l_m.jpg",
-      "show_category": "Action / 2018 /7.0",
-      "start_time": "00:55",
-      "end_time": "03:20",
-      "episode_description": "A cidade de Atlantis, que já foi lar de uma das mais avançadas civilizações do mundo, agora é um reino submerso dominado pelo ganancioso Rei Orm. Com um vasto exército a seu dispor, Orm planeja conquistar tanto os demais reinos do oceano, quanto o mundo da superfície. Em seu caminho está Aquaman, meio-humano e meio-atlante, e verdadeiro herdeiro do trono. Com a ajuda da princesa Mera, Aquaman precisa recuperar o lendário Tridente de Atlan e aceitar seu destino como protetor das profundezas."
-    },
-    {
-      "show_name": "Salvar Meu Amanhã",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_salvar-meu-amanh-s01e04_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 4",
-      "start_time": "03:20",
-      "end_time": "03:55",
-      "episode_description": "Conheça as crianças que trabalham para proteger a natureza; a importância da conservação e proteção do habitat."
-    },
-    {
-      "show_name": "A Forja",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-forja-2024_l_m.jpg",
-      "show_category": "Drama / 2024",
-      "start_time": "03:55",
+      "show_name": "O Contador",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-contador-2016_l_m.jpg",
+      "show_category": "Thriller / 2016",
+      "start_time": "03:50",
       "end_time": "06:00",
-      "episode_description": "Um ano após terminar o ensino médio e sem planos, Isaiah é desafiado por sua mãe solteira e um empresário de sucesso a começar um relacionamento com Deus para traçar um rumo melhor para sua vida."
+      "episode_description": "Christian Wolff, um contador com uma condição que limita suas habilidades sociais, é extremamente dedicado, graças à facilidade que tem com números. Em seu escritório, passa a trabalhar para algumas das mais perigosas organizações criminosas do mundo. Mas, quando é contratado para vistoriar os livros contábeis da Living Robotics, Christian descobre uma fraude de milhões de dólares, colocando a sua vida e a de todos ao seu redor em risco."
     },
     {
-      "show_name": "O Jogo da Invocação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-jogo-da-invocac-o-2023_l_m.jpg",
-      "show_category": "Horror / 2023",
+      "show_name": "Inferno",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_inferno-2016_l_m.jpg",
+      "show_category": "Thriller / 2016",
       "start_time": "06:00",
-      "end_time": "07:20",
-      "episode_description": "Adolescentes de Salem descobrem uma faca amaldiçoada que liberta um demônio. Este os força a entrar em versões horríveis e mortais de jogos infantis onde não há vencedores, apenas sobreviventes."
+      "end_time": "08:05",
+      "episode_description": "O simbologista Robert Langdon e uma médica viajam pela Europa para deter o plano de um lunático de disseminar um vírus mortal."
     },
     {
-      "show_name": "Last Week Tonight With John Oliver",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_last-week-tonight-with-john-oliver-s13e04_l_m.jpg",
-      "show_category": "Temporada 13 Episódio 4",
-      "start_time": "07:20",
-      "end_time": "08:00",
-      "episode_description": "O carismático e britânico comentarista John Oliver oferece sua perspectiva singular e voz distinta sobre qualquer número de questões sociais, políticas ou atuais."
+      "show_name": "Extermínio - A Evolução",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_exterminio-a-evoluc-o-2025_l_m.jpg",
+      "show_category": "Horror / 2025",
+      "start_time": "08:05",
+      "end_time": "10:05",
+      "episode_description": "Ainda vivendo em quarentena devido ao vírus da raiva, um sobrevivente decide se aventurar no coração sombrio do continente. Ele logo descobre uma mutação que se espalhou não apenas para os infectados, mas também para outros sobreviventes."
     },
     {
-      "show_name": "O Homem Invisível",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-homem-invisivel-2020_l_m.jpg",
-      "show_category": "Horror / 2020",
-      "start_time": "08:00",
-      "end_time": "10:10",
-      "episode_description": "Depois de forjar o próprio suicídio, um cientista enlouquecido usa seu poder para se tornar invisível e aterrorizar sua ex-namorada. Quando a polícia se recusa a acreditar em sua história, ela decide resolver o assunto por conta própria."
+      "show_name": "Velozes & Furiosos 7",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_velozes-furiosos-7-2015_l_m.jpg",
+      "show_category": "Action / 2015",
+      "start_time": "10:05",
+      "end_time": "12:25",
+      "episode_description": "Um agente oferece ajuda para cuidar de Shaw em troca do resgate de um \"hacker\". Dessa vez, não se trata apenas de velocidade: a corrida é pela sobrevivência."
     },
     {
-      "show_name": "Relay - Contrato Perigoso",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_relay-contrato-perigoso-2024_l_m.jpg",
-      "show_category": "Thriller / 2024",
-      "start_time": "10:10",
-      "end_time": "12:05",
-      "episode_description": "Um intermediário é especialista em negociar subornos entre empresas e indivíduos que ameaçam arruiná-las. Quando chega uma mensagem de uma cliente em potencial, que precisa de sua proteção para sobreviver, as regras mudam rapidamente."
+      "show_name": "SISU - Estrada da Vingança",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sisu-estrada-da-vinganca-2025_l_m.jpg",
+      "show_category": "Action / 2025",
+      "start_time": "12:25",
+      "end_time": "14:00",
+      "episode_description": "Korpi desmonta a casa onde sua família foi morta e a carrega em um caminhão para reconstruí-la em um lugar seguro. Ele logo se vê em uma violenta perseguição pelo país, enquanto o comandante do Exército Vermelho que matou sua família retorna para terminar o serviço."
     },
     {
-      "show_name": "Shrek para Sempre - O Capítulo Final",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_shrek-para-sempre-o-capitulo-final-2010_l_m.jpg",
-      "show_category": "Children / 2010",
-      "start_time": "12:05",
-      "end_time": "13:45",
-      "episode_description": "Há muito tempo casado, Shrek fica com tédio e começa a ter saudades dos dias em que se sentia um ogro de verdade. Para recuperá-los, ele firma um pacto com Rumpelstiltskin e é levado a um mundo onde ogros são caçados e ele e Fiona nunca se conheceram, além de que seus amigos Burro e Gato de Botas também não o reconhecem. Shrek precisa encontrar um jeito de se livrar do contrato para recuperar sua vida normal e seu grande amor."
+      "show_name": "Rooster",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rooster-s01e01_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - Libere a Gordura Marrom",
+      "start_time": "14:00",
+      "end_time": "14:35",
+      "episode_description": "Um escritor de sucesso faz de tudo para ajudar sua filha, uma professora universitária problemática."
     },
     {
-      "show_name": "Twisters",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_twisters-2024_l_m.jpg",
-      "show_category": "Action / 2024 /6.6",
-      "start_time": "13:45",
-      "end_time": "15:50",
-      "episode_description": "Dois caçadores de tempestades arriscam suas vidas na tentativa de testar um sistema experimental de alerta meteorológico."
+      "show_name": "Se Beber, Não Case! Parte III",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_se-beber-n-o-case-parte-iii-2013_l_m.jpg",
+      "show_category": "Comedy / 2013",
+      "start_time": "14:35",
+      "end_time": "16:20",
+      "episode_description": "Depois da morte do pai, Alan decide ir para New Horizons com Phil, Stu e Doug, mas a viagem acaba sendo bruscamente interrompida pelos capangas de Marshall."
     },
     {
-      "show_name": "Órfã 2 - A Origem",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_orf-2-a-origem-2022_l_m.jpg",
-      "show_category": "Horror / 2022",
-      "start_time": "15:50",
-      "end_time": "17:30",
-      "episode_description": "Esther consegue escapar de um centro psiquiátrico onde está confinada e viaja para os Estados Unidos se passando por filha desaparecida de uma família rica. No entanto, uma mãe superprotetora fará de tudo por sua família, não importando os meios."
+      "show_name": "Um Filme Minecraft",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_um-filme-minecraft-2025_l_m.jpg",
+      "show_category": "Fantasy / 2025",
+      "start_time": "16:20",
+      "end_time": "18:10",
+      "episode_description": "Um portal misterioso atrai quatro desajustados para o Overworld, uma terra das maravilhas bizarras e cúbicas que prospera com a imaginação. Para voltar para casa, eles têm que dominar o terreno enquanto embarcam em uma missão mágica com um construtor inesperado chamado Steve."
     },
     {
-      "show_name": "Os Afro-Sambas, o Brasil de Baden e Vinicius",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-afro-sambas-o-brasil-de-baden-e-vinicius-2024_l_m.jpg",
-      "show_category": "Documentary / 2024",
-      "start_time": "17:30",
-      "end_time": "19:05",
-      "episode_description": "Lançado em 1966 por Vinícius de Moraes e Baden Powell, o disco \"Os Afro-Sambas\" é um dos mais cultuados do Brasil. Participantes da gravação original, críticos, amigos e familiares dos músicos revivem a criação dessa obra-prima. Filmado entre Salvador e Rio de Janeiro, o documentário reúne imagens de arquivo e entrevistas exclusivas com Maria Bethânia, Dori Caymmi, Russo Passapusso e Nelson Motta. Uma homenagem a um clássico que transformou a música brasileira."
-    },
-    {
-      "show_name": "Invocação do Mal",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_invocac-o-do-mal-2013-1_l_m.jpg",
-      "show_category": "Horror / 2013",
-      "start_time": "19:05",
-      "end_time": "21:00",
-      "episode_description": "Os investigadores paranormais Ed e Lorraine Warren trabalham para ajudar a família aterrorizada por uma entidade demoníaca em sua fazenda."
+      "show_name": "Pílula de Farinha - O Escândalo que Gerou Vidas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pilula-de-farinha-o-escandalo-que-gerou-vidas-s01e03_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3 - Demônios se Alimentam de Mágoas",
+      "start_time": "18:10",
+      "end_time": "18:55",
+      "episode_description": "Um novo erro na produção do anticoncepcional agrava escândalo e reabre dúvidas sobre procedimentos do laboratório. As vítimas enfrentam partos em condições adversas, enquanto uma advogada ligada ao caso descobre que também foi afetada pelo placebo."
     },
     {
       "show_name": "HBO Movies",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_hbo-movies_l_m.jpg",
       "show_category": "Variety",
-      "start_time": "21:00",
-      "end_time": "21:35",
+      "start_time": "18:55",
+      "end_time": "19:30",
       "episode_description": "Faixa de programação do canal HBO Mundi com exibição de filmes."
     },
     {
-      "show_name": "Relay - Contrato Perigoso",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_relay-contrato-perigoso-2024_l_m.jpg",
-      "show_category": "Thriller / 2024",
-      "start_time": "21:35",
-      "end_time": "23:35",
-      "episode_description": "Um intermediário é especialista em negociar subornos entre empresas e indivíduos que ameaçam arruiná-las. Quando chega uma mensagem de uma cliente em potencial, que precisa de sua proteção para sobreviver, as regras mudam rapidamente."
+      "show_name": "Bad Boys II",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bad-boys-ii-2003_l_m.jpg",
+      "show_category": "Action / 2003 /6.5",
+      "start_time": "19:30",
+      "end_time": "22:00",
+      "episode_description": "Os detetives Marcus Burnett e Mike Lowrey são escolhidos para investigar a proliferação de ecstasy na cidade de Miami. As investigações levam a um alvo maior, Johnny Tapia, um traficante cuja ambição de tomar conta do tráfico na cidade inicia uma verdadeira guerra sangrenta contra criminosos russos e haitianos. Em meio a esta situação, Lowrey passa a se interessar por Syd, irmã de Burnett, o que põe a amizade dos detetives à prova."
     },
     {
-      "show_name": "Premonição 6 - Laços de Sangue",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_premonic-o-6-lacos-de-sangue-2025_l_m.jpg",
-      "show_category": "Horror / 2025",
+      "show_name": "SISU - Estrada da Vingança",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sisu-estrada-da-vinganca-2025_l_m.jpg",
+      "show_category": "Action / 2025",
+      "start_time": "22:00",
+      "end_time": "23:35",
+      "episode_description": "Korpi desmonta a casa onde sua família foi morta e a carrega em um caminhão para reconstruí-la em um lugar seguro. Ele logo se vê em uma violenta perseguição pelo país, enquanto o comandante do Exército Vermelho que matou sua família retorna para terminar o serviço."
+    },
+    {
+      "show_name": "Contrato Perigoso",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_contrato-perigoso-2022_l_m.jpg",
+      "show_category": "Action / 2022",
       "start_time": "23:35",
-      "end_time": "01:30",
-      "episode_description": "Atormentada por um pesadelo violento e recorrente, uma estudante universitária volta para casa em busca da única pessoa que pode ser capaz de quebrar o ciclo de morte e salvar sua família do terrível destino que inevitavelmente os aguarda."
+      "end_time": "01:25",
+      "episode_description": "Ao ser dispensado dos fuzileiros navais, James Harper se junta a uma organização paramilitar para sustentar sua família da única maneira que sabe. Juntamente com sua equipe, ele viaja para a Europa para investigar uma ameaça misteriosa."
     }
   ]
 }

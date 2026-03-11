@@ -1,134 +1,158 @@
 {
   "channel": "FOX Sports",
-  "date": "10/03/2026",
+  "date": "11/03/2026",
   "schedule": [
     {
-      "show_name": "Destaques da Conmebol Libertadores",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-destaques-da-conmebol-libertadores_l_m.jpg",
-      "show_category": "",
-      "start_time": "01:30",
+      "show_name": "Botafogo x Barcelona (EQU)",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-botafogo-x-barcelona-equ_l_m.jpg",
+      "show_category": "Copa Libertadores da América",
+      "start_time": "00:00",
       "end_time": "02:00",
-      "episode_description": "Acompanhe os destaques, os melhores lances, gols e um resumo completo de tudo o que rolou nas partidas da principal competição de futebol masculino entre clubes da América do Sul: a Conmebol Libertadores."
+      "episode_description": "Todas as emoções da principal competição de futebol masculino disputada entre clubes da América do Sul, e que garante ao campeão vaga no Mundial de Clubes da FIFA."
     },
     {
       "show_name": "Linha de Passe: Mesa-Redonda",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sports-talk-linha-de-passe-mesa-redonda_l_m.jpg",
       "show_category": "",
       "start_time": "02:00",
-      "end_time": "03:00",
+      "end_time": "03:30",
       "episode_description": "Comentaristas esportivos conceituados entram em campo para uma análise completa da rodada do futebol ao estilo \"mesa redonda\", com debates acalorados e comentários de qualidade, sempre a partir de um olhar crítico e da imparcialidade."
     },
     {
-      "show_name": "FC Groningen x Ajax",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-fc-groningen-x-ajax_l_m.jpg",
-      "show_category": "Campeonato Neerlandês",
-      "start_time": "03:00",
-      "end_time": "05:00",
-      "episode_description": "Todas as emoções dos jogos da Eredivisie, a primeira divisão de futebol masculino dos Países Baixos."
-    },
-    {
-      "show_name": "Premier League Stories",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-premier-league-stories_l_m.jpg",
-      "show_category": "",
-      "start_time": "05:00",
+      "show_name": "Philadelphia Union x América (MEX)",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-philadelphia-union-x-america-mex_l_m.jpg",
+      "show_category": "CONCACAF Champions Cup",
+      "start_time": "03:30",
       "end_time": "05:30",
-      "episode_description": "Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês."
+      "episode_description": "O principal torneio de futebol masculino entre clubes da América do Norte, América Central e Caribe."
     },
     {
-      "show_name": "Destaques da Conmebol Libertadores",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-destaques-da-conmebol-libertadores_l_m.jpg",
+      "show_name": "F1: The Inside Line",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_auto-racing-f1-the-inside-line_l_m.jpg",
       "show_category": "",
       "start_time": "05:30",
       "end_time": "06:00",
-      "episode_description": "Acompanhe os destaques, os melhores lances, gols e um resumo completo de tudo o que rolou nas partidas da principal competição de futebol masculino entre clubes da América do Sul: a Conmebol Libertadores."
+      "episode_description": "Veja a cobertura completa da Fórmula 1, a maior e mais badalada categoria do automobilismo mundial. Acompanhe as principais notícias da semana, os bastidores, entrevistas exclusivas e reportagens especiais."
     },
     {
-      "show_name": "Resenha ESPN",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_resenha-espn_l_m.jpg",
+      "show_name": "Bola da Vez",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bola-da-vez_l_m.jpg",
       "show_category": "Sports talk",
       "start_time": "06:00",
       "end_time": "07:00",
-      "episode_description": "Atletas da atualidade e do passado participam de bate-papo descontraído e cheio de boas histórias."
-    },
-    {
-      "show_name": "Oklahoma City Thunder x Denver Nuggets",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_basketball-oklahoma-city-thunder-x-denver-nuggets_l_m.jpg",
-      "show_category": "NBA",
-      "start_time": "07:00",
-      "end_time": "09:00",
-      "episode_description": "Trinta equipes dos Estados Unidos e Canadá se enfrentam na principal liga de basquete do mundo."
-    },
-    {
-      "show_name": "Genoa x Roma",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-genoa-x-roma_l_m.jpg",
-      "show_category": "Campeonato Italiano",
-      "start_time": "09:00",
-      "end_time": "11:00",
-      "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
-    },
-    {
-      "show_name": "Destaques da Conmebol Libertadores",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-destaques-da-conmebol-libertadores_l_m.jpg",
-      "show_category": "",
-      "start_time": "11:00",
-      "end_time": "11:30",
-      "episode_description": "Acompanhe os destaques, os melhores lances, gols e um resumo completo de tudo o que rolou nas partidas da principal competição de futebol masculino entre clubes da América do Sul: a Conmebol Libertadores."
-    },
-    {
-      "show_name": "West Ham x Brentford",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-west-ham-x-brentford-1_l_m.jpg",
-      "show_category": "Copa da Inglaterra",
-      "start_time": "11:30",
-      "end_time": "13:30",
-      "episode_description": "Criada em 1871, a FA Cup é o torneio de futebol mais antigo do planeta. Reúne os principais times da Inglaterra contra diversos de todo país, em eliminatórias simples. São quase 800 clubes buscando uma vaga na final."
-    },
-    {
-      "show_name": "Destaques da Conmebol Sulamericana",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-destaques-da-conmebol-sulamericana_l_m.jpg",
-      "show_category": "",
-      "start_time": "13:30",
-      "end_time": "14:30",
-      "episode_description": "Os melhores lances, gols, acontecimentos e destaque na segunda competição mais importante do futebol masculino entre clubes da América do Sul."
-    },
-    {
-      "show_name": "Celta de Vigo x Real Madrid",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-celta-de-vigo-x-real-madrid_l_m.jpg",
-      "show_category": "Campeonato Espanhol",
-      "start_time": "14:30",
-      "end_time": "16:30",
-      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
-    },
-    {
-      "show_name": "Athletic Bilbao x Barcelona",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-athletic-bilbao-x-barcelona_l_m.jpg",
-      "show_category": "Campeonato Espanhol",
-      "start_time": "16:30",
-      "end_time": "18:30",
-      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
-    },
-    {
-      "show_name": "Destaques da Conmebol Sulamericana",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-destaques-da-conmebol-sulamericana_l_m.jpg",
-      "show_category": "",
-      "start_time": "18:30",
-      "end_time": "19:35",
-      "episode_description": "Os melhores lances, gols, acontecimentos e destaque na segunda competição mais importante do futebol masculino entre clubes da América do Sul."
+      "episode_description": "Grandes personalidades do esporte nacional e internacional são colocadas no \"paredão\" e respondem às perguntas de uma bancada de entrevistadores formada por jornalistas, ex-atletas ou especialistas em geral."
     },
     {
       "show_name": "Tigre x Vélez Sarsfield",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-tigre-x-velez-sarsfield_l_m.jpg",
       "show_category": "Campeonato Argentino",
-      "start_time": "19:35",
-      "end_time": "21:45",
+      "start_time": "07:00",
+      "end_time": "09:00",
       "episode_description": "Acompanhe as grandes partidas do torneio de elite do futebol argentino."
     },
     {
-      "show_name": "Sarmiento x Racing",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-sarmiento-x-racing_l_m.jpg",
-      "show_category": "Campeonato Argentino",
-      "start_time": "21:45",
-      "end_time": "00:00",
-      "episode_description": "Acompanhe as grandes partidas do torneio de elite do futebol argentino."
+      "show_name": "Paulistano x Cruzeiro",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_basketball-paulistano-x-cruzeiro_l_m.jpg",
+      "show_category": "NBB",
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "episode_description": "Todas as emoções da principal competição de basquete masculino profissional entre clubes do Brasil."
+    },
+    {
+      "show_name": "Botafogo x Barcelona (EQU)",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-botafogo-x-barcelona-equ_l_m.jpg",
+      "show_category": "Copa Libertadores da América",
+      "start_time": "11:00",
+      "end_time": "13:00",
+      "episode_description": "Todas as emoções da principal competição de futebol masculino disputada entre clubes da América do Sul, e que garante ao campeão vaga no Mundial de Clubes da FIFA."
+    },
+    {
+      "show_name": "Wolverhampton x Liverpool",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-wolverhampton-x-liverpool-1_l_m.jpg",
+      "show_category": "Copa da Inglaterra",
+      "start_time": "13:00",
+      "end_time": "14:50",
+      "episode_description": "Criada em 1871, a FA Cup é o torneio de futebol mais antigo do planeta. Reúne os principais times da Inglaterra contra diversos de todo país, em eliminatórias simples. São quase 800 clubes buscando uma vaga na final."
+    },
+    {
+      "show_name": "Atlético de Madrid x CD Tenerife",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-atletico-de-madrid-x-cd-tenerife_l_m.jpg",
+      "show_category": "Copa de la Reina",
+      "start_time": "14:50",
+      "end_time": "17:00",
+      "episode_description": "Acompanhe as emoções do torneio de futebol feminino da Espanha."
+    },
+    {
+      "show_name": "Professores do Brasil - João Sena",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_special-professores-do-brasil-jo-o-sena_l_m.jpg",
+      "show_category": "",
+      "start_time": "17:00",
+      "end_time": "17:30",
+      "episode_description": "João Sena Bonfim é pai do marchador Caio Bonfim e revelador de campeões no atletismo. Aos 70 anos, o professor de Sobradinho criou método próprio, formando atletas como Carmen de Oliveira, primeira brasileira a vencer São Silvestre."
+    },
+    {
+      "show_name": "Resenha ESPN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_resenha-espn_l_m.jpg",
+      "show_category": "Sports talk",
+      "start_time": "17:30",
+      "end_time": "18:30",
+      "episode_description": "Ex-jogador com passagem por São Paulo, Sevilla, Real Madrid, Arsenal, Roma e Cruzeiro, entre outros clubes, Júlio Baptista conta histórias inéditas dos tempos de \"Galácticos\" e fala sobre Seleção Brasileira, futuro profissional e muito mais."
+    },
+    {
+      "show_name": "Show da Rodada da EFL",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-da-efl_l_m.jpg",
+      "show_category": "",
+      "start_time": "18:30",
+      "end_time": "19:00",
+      "episode_description": "Os destaques das partidas da EFL Championship, segunda divisão de futebol masculino da Inglaterra."
+    },
+    {
+      "show_name": "Show da Rodada do Italiano",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-do-italiano_l_m.jpg",
+      "show_category": "",
+      "start_time": "19:00",
+      "end_time": "19:30",
+      "episode_description": "Os principais destaques das partidas da Lega Serie A, primeira divisão do Campeonato Italiano de futebol masculino, com os gols, melhores lances e situação da tabela de classificação após cada rodada disputada."
+    },
+    {
+      "show_name": "Show da Rodada de La Liga",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-de-la-liga_l_m.jpg",
+      "show_category": "",
+      "start_time": "19:30",
+      "end_time": "20:00",
+      "episode_description": ".Todos os gols e os principais lances da rodada de La Liga, primeira divisão do Campeonato Espanhol."
+    },
+    {
+      "show_name": "SportsCenter Abre o Jogo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_basketball-sportscenter-abre-o-jogo_l_m.jpg",
+      "show_category": "",
+      "start_time": "20:00",
+      "end_time": "20:30",
+      "episode_description": "Os últimos preparativos para Lakers x Suns e Nets x Hawks, pela temporada regular 2024-2025 da NBA."
+    },
+    {
+      "show_name": "NBA Courtside",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_basketball-nba-courtside_l_m.jpg",
+      "show_category": "",
+      "start_time": "20:30",
+      "end_time": "20:42",
+      "episode_description": "O aquecimento final das equipes e últimos preparativos para o duelo entre New York Knicks e Cleveland Cavaliers, pela rodada de abertura da temporada regular 2025-2026 da NBA, direto do Madison Square Garden, em Nova York, EUA."
+    },
+    {
+      "show_name": "Orlando Magic x Cleveland Cavaliers",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_basketball-orlando-magic-x-cleveland-cavaliers_l_m.jpg",
+      "show_category": "NBA",
+      "start_time": "20:42",
+      "end_time": "23:05",
+      "episode_description": "Trinta equipes dos Estados Unidos e Canadá se enfrentam na principal liga de basquete do mundo."
+    },
+    {
+      "show_name": "Denver Nuggets x Houston Rockets",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_basketball-denver-nuggets-x-houston-rockets_l_m.jpg",
+      "show_category": "NBA",
+      "start_time": "23:05",
+      "end_time": "01:35",
+      "episode_description": "O Denver Nuggets recebe o Houston Rockets na Ball Arena, Denver, Colorado. Em jogo válido pela Conferência Oeste, os Nuggets buscam a segunda vitória consecutiva frente aos Rockets nesta temporada. Houston tem um recorde de 8-4 fora de casa em 2025."
     }
   ]
 }
