@@ -1,94 +1,470 @@
 {
   "channel": "Cartoonito",
-  "date": "11/03/2026",
+  "date": "12/03/2026",
   "schedule": [
+    {
+      "show_name": "Pocoyo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pocoyo-s03e40-o-cafe-da-manh-do-pocoyo_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 40 - O Café da Manhã do Pocoyo",
+      "start_time": "00:06",
+      "end_time": "00:13",
+      "episode_description": "É hora de tomar café da manhã, a refeição mais importante, e Elly prepara suco, leite e cereais."
+    },
+    {
+      "show_name": "Pocoyo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pocoyo-s05e01-o-brilho_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 1 - O Brilho",
+      "start_time": "00:13",
+      "end_time": "00:20",
+      "episode_description": "Pocoyo e Pato investigam uma coisa estranha e brilhante que está sobrevoando ao redor deles. O narrador fica com medo de que seja o começo de uma invasão robótica."
+    },
     {
       "show_name": "Pocoyo",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_pocoyo_l_m.jpg",
       "show_category": "Children",
-      "start_time": "00:00",
-      "end_time": "01:00",
-      "episode_description": "Pocoyo vê Elly e Pato jogando basquete e quer se juntar a eles."
+      "start_time": "00:20",
+      "end_time": "00:28",
+      "episode_description": "Pocoyo e Nina tentam encontrar algumas invenções para ganhar tempo."
+    },
+    {
+      "show_name": "Pocoyo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pocoyo-s04e11-a-danca-da-coceira_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 11 - A Dança da Coceira",
+      "start_time": "00:28",
+      "end_time": "00:35",
+      "episode_description": "Loula está com pulgas e Nina usa seu raio redutor para eliminá-las, mas elas organizaram uma festa."
+    },
+    {
+      "show_name": "Pocoyo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pocoyo-s05e30-o-narrador-todo-poderoso_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 30 - O Narrador Todo-Poderoso",
+      "start_time": "00:35",
+      "end_time": "00:42",
+      "episode_description": "Pato quer descansar, mas o Narrador o joga em aventuras absurdas."
+    },
+    {
+      "show_name": "Pocoyo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pocoyo-s05e31-o-narrador-todo-poderoso_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 31 - O Narrador Todo-Poderoso",
+      "start_time": "00:42",
+      "end_time": "00:49",
+      "episode_description": "Pato quer descansar, mas o Narrador o joga em aventuras absurdas."
+    },
+    {
+      "show_name": "Pocoyo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pocoyo-s05e38-priszilla_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 38 - Priszilla",
+      "start_time": "00:49",
+      "end_time": "00:57",
+      "episode_description": "Priscilla quer viver um filme de ação e os amigos criam uma cidade inflável. Mas a brincadeira foge do controle."
+    },
+    {
+      "show_name": "Pocoyo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pocoyo-s05e39-priszilla_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 39 - Priszilla",
+      "start_time": "00:57",
+      "end_time": "01:04",
+      "episode_description": "Priszilla quer viver um filme de ação e os amigos criam uma cidade inflável. Mas a brincadeira foge do controle."
     },
     {
       "show_name": "Blippi",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_blippi_l_m.jpg",
       "show_category": "Children",
-      "start_time": "01:00",
-      "end_time": "01:30",
+      "start_time": "01:04",
+      "end_time": "01:16",
+      "episode_description": "É hora de dizer Abracadabra. Blippi aprende truques incríveis com um mágico poderoso."
+    },
+    {
+      "show_name": "Blippi",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_blippi_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "01:16",
+      "end_time": "01:31",
       "episode_description": "É hora de dizer Abracadabra. Blippi aprende truques incríveis com um mágico poderoso."
     },
     {
       "show_name": "Maravilhas do Blippi - Desenhos Animados Educativos para Crianças",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_maravilhas-do-blippi-desenhos-animados-educativos-para-criancas_l_m.jpg",
-      "show_category": "Children",
-      "start_time": "01:30",
-      "end_time": "02:00",
-      "episode_description": "O curioso Blippi e seus fiéis companheiros se envolvem em divertidas aventuras para responder à pergunta do dia."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_maravilhas-do-blippi-desenhos-animados-educativos-para-criancas-s01e09-montanha_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 9 - Montanha",
+      "start_time": "01:31",
+      "end_time": "01:34",
+      "episode_description": "Blippi e TABBS partem em uma aventura gelada e voam pela encosta do Monte Everest, a montanha mais alta do mundo. Eles se juntam a Betty, a Yeti, que está escalando até o topo em busca de neve fresca."
+    },
+    {
+      "show_name": "Maravilhas do Blippi - Desenhos Animados Educativos para Crianças",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_maravilhas-do-blippi-desenhos-animados-educativos-para-criancas-s01e04-castelo-de-areia_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - Castelo de Areia",
+      "start_time": "01:34",
+      "end_time": "01:37",
+      "episode_description": "É hora de se divertir com muito sol e praia. O Blippi Móvel é transformado em uma escavadeira quando Blippi decide construir um castelo de areia. Seu novo amigo Crabby, o caranguejo, o ensina a construir uma fortaleza que realmente vai durar."
+    },
+    {
+      "show_name": "Maravilhas do Blippi - Desenhos Animados Educativos para Crianças",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_maravilhas-do-blippi-desenhos-animados-educativos-para-criancas-s01e19-patos_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 19 - Patos",
+      "start_time": "01:37",
+      "end_time": "01:41",
+      "episode_description": "Blippi se aproxima de Declan, o Pato, em sua busca para descobrir como os patos flutuam. Sob a água, sobre a água, por túneis de penas e bolhas de ar, Blippi e Declan trabalham juntos para descobrir a resposta."
+    },
+    {
+      "show_name": "Maravilhas do Blippi - Desenhos Animados Educativos para Crianças",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_maravilhas-do-blippi-desenhos-animados-educativos-para-criancas-s01e13-planetas_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 13 - Planetas",
+      "start_time": "01:41",
+      "end_time": "01:44",
+      "episode_description": "Três, dois, um, decolar. O Blippi Móvel se torna uma nave espacial para desbravar os planetas do sistema solar. Merry, o meteoro, guia Blippi pela beleza do universo."
+    },
+    {
+      "show_name": "Maravilhas do Blippi - Desenhos Animados Educativos para Crianças",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_maravilhas-do-blippi-desenhos-animados-educativos-para-criancas-s01e21-morcegos_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 21 - Morcegos",
+      "start_time": "01:44",
+      "end_time": "01:48",
+      "episode_description": "Blippi e FETCH voam no escuro com Matt, o morcego, que mostra como ele usa a ecolocalização para ver e ouvir no escuro. Blippi aprende mais sobre esses fascinantes sentidos."
+    },
+    {
+      "show_name": "Maravilhas do Blippi - Desenhos Animados Educativos para Crianças",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_maravilhas-do-blippi-desenhos-animados-educativos-para-criancas-s01e24-primeiro-carro_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 24 - Primeiro Carro",
+      "start_time": "01:48",
+      "end_time": "01:51",
+      "episode_description": "Nenhum tipo de viagem é difícil demais para o Blippi Móvel, nem mesmo a viagem no tempo. Blippi volta no tempo para ver como eram os primeiros carros, nessa aventura, ele conta com a ajuda de seu bisavô."
+    },
+    {
+      "show_name": "Maravilhas do Blippi - Desenhos Animados Educativos para Crianças",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_maravilhas-do-blippi-desenhos-animados-educativos-para-criancas-s01e03-halloween_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3 - Halloween",
+      "start_time": "01:51",
+      "end_time": "01:54",
+      "episode_description": "Blippi vai a uma casa mal-assombrada para procurar T.A.B.B.S e encontra uma cabeça de abóbora falante, um esqueleto, e até mesmo voa em uma vassoura de bruxa."
+    },
+    {
+      "show_name": "Maravilhas do Blippi - Desenhos Animados Educativos para Crianças",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_maravilhas-do-blippi-desenhos-animados-educativos-para-criancas-s01e22-guindaste_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 22 - Guindaste",
+      "start_time": "01:54",
+      "end_time": "01:58",
+      "episode_description": "É o primeiro dia de trabalho de Kareem, o guindaste, e ele está muito nervoso. Felizmente, Blippi e FETCH estão lá para dar uma pequena ajuda. Trabalhando juntos, eles ajudam o amigo a fazer seu trabalho."
+    },
+    {
+      "show_name": "Maravilhas do Blippi - Desenhos Animados Educativos para Crianças",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_maravilhas-do-blippi-desenhos-animados-educativos-para-criancas-s01e14-fabrica-de-chocolate_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 14 - Fábrica de Chocolate",
+      "start_time": "01:58",
+      "end_time": "02:01",
+      "episode_description": "Blippi fica curioso sobre a produção de barras de chocolate e faz um tour com Bard, a barra de chocolate, em uma fábrica de doces. FETCH também dá uma olhada de perto no processo de produção da delícia."
+    },
+    {
+      "show_name": "Maravilhas do Blippi - Desenhos Animados Educativos para Crianças",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_maravilhas-do-blippi-desenhos-animados-educativos-para-criancas-s01e07-escova-de-dentes_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 7 - Escova de Dentes",
+      "start_time": "02:01",
+      "end_time": "02:05",
+      "episode_description": "Uma aventura noturna em uma boca adormecida faz Blippi inspecionar alguns dentes. Dentes que precisam de uma limpeza. Bill Escova mostra a Blippi como fazer a limpeza perfeita."
     },
     {
       "show_name": "Meekah",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_meekah_l_m.jpg",
-      "show_category": "Children",
-      "start_time": "02:00",
-      "end_time": "03:00",
-      "episode_description": "Meekah e seu melhor amigo Blippi vivem aventuras e exploram as maravilhas da ciência e da natureza."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_meekah-s01e18-meekah-na-fabrica-de-biscoitos-de-gengibre_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 18 - Meekah na Fábrica de Biscoitos de Gengibre",
+      "start_time": "02:05",
+      "end_time": "02:17",
+      "episode_description": "Em uma visita divertida à Gingerbread Factory, Meekah constrói uma casa de biscoito de gengibre e descobre como essas delícias são feitas."
+    },
+    {
+      "show_name": "Meekah",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_meekah-s01e23-meekah-cria-uma-peca-de-arte_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 23 - Meekah Cria uma Peça de Arte",
+      "start_time": "02:17",
+      "end_time": "02:36",
+      "episode_description": "No Nailed It DIY Studio, uma instrutora ajuda Meekah a criar uma placa colorida com seu nome."
+    },
+    {
+      "show_name": "Meekah",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_meekah-s01e19-meekah-se-diverte-no-kennedy-space-center_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 19 - Meekah se Diverte no Kennedy Space Center",
+      "start_time": "02:36",
+      "end_time": "02:49",
+      "episode_description": "Meekah visita o Kennedy Space Center, onde explora o ônibus espacial Atlantis e aprende sobre foguetes e naves."
+    },
+    {
+      "show_name": "Meekah",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_meekah-s01e05-a-aventura-aerea-e-maritima-da-meekah_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 5 - A Aventura Aérea e Marítima da Meekah",
+      "start_time": "02:49",
+      "end_time": "03:05",
+      "episode_description": "Meekah sobe a bordo do porta-aviões Intrepid e aprende sobre o importante trabalho dos marinheiros em grandes navios."
     },
     {
       "show_name": "Grizzy e os Lemmings",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_grizzy-e-os-lemmings_l_m.jpg",
-      "show_category": "Children",
-      "start_time": "03:00",
-      "end_time": "04:00",
-      "episode_description": "Em uma vasta reserva natural, a casa do guarda-florestal se torna o campo de batalha entre o urso Grizzy e a mais inofensiva e ridícula família de mamíferos que existe, os Lemmings."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_grizzy-e-os-lemmings-s02e50-ctrl-alt-bear_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 50 - Teclado Misterioso",
+      "start_time": "03:05",
+      "end_time": "03:12",
+      "episode_description": "Grizzy e os lêmingues descobrem um teclado mágico, protótipo secreto do exército canadense. Com apenas quatro teclas, selecionar, recortar, colar e deletar, o dispositivo afeta objetos e seres vivos ao redor. Uma batalha hilária se desenrola quando os personagens competem pelo controle deste poderoso artefato, causando caos e transformações inesperadas."
+    },
+    {
+      "show_name": "Grizzy e os Lemmings",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_grizzy-e-os-lemmings-s04e70-entre-bolas-e-luvas-magicas_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 70 - Entre Bolas e Luvas Mágicas",
+      "start_time": "03:12",
+      "end_time": "03:19",
+      "episode_description": "Grizzy não sabe como acabar com o novo jogo de bola dos Lemmings."
+    },
+    {
+      "show_name": "Grizzy e os Lemmings",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_grizzy-e-os-lemmings-s03e67_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 67 - Batalha Musical",
+      "start_time": "03:19",
+      "end_time": "03:26",
+      "episode_description": "Grizzy chega em casa e encontra os Lemmings dançando loucamente. Ele então os joga na selva, onde eles conhecem um papagaio capaz de reproduzir qualquer som. O pássaro se torna aliado deles e distrai Grizzy para recuperar um instrumento musical."
+    },
+    {
+      "show_name": "Grizzy e os Lemmings",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_grizzy-e-os-lemmings-s04e23_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 23",
+      "start_time": "03:26",
+      "end_time": "03:34",
+      "episode_description": "Grizzy expulsa os Lemmings, que na estação de pesquisa acabam encontrando uma cabana ultramoderna."
+    },
+    {
+      "show_name": "Grizzy e os Lemmings",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_grizzy-e-os-lemmings-s01e61-cofre_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 61 - Cofre",
+      "start_time": "03:34",
+      "end_time": "03:41",
+      "episode_description": "Grizzy coloca sua comida no cofre do guarda florestal para não ter que dividir. Ele assiste contente às tentativas fracassadas dos lêmingues de abrir o cofre, até perceber que a corrente da chave está longe de ser indestrutível."
+    },
+    {
+      "show_name": "Grizzy e os Lemmings",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_grizzy-e-os-lemmings-s02e05_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 5 - Kit de Ferramentas",
+      "start_time": "03:41",
+      "end_time": "03:48",
+      "episode_description": "Antes de tirar uma soneca, Grizzy tranca a despensa para impedir que os lêmingues entrem lá. E, para ter certeza de que eles não conseguirão entrar, Grizzy joga todas as ferramentas da casa na ravina. Os lêmingues encontram uma caixa de bloquinhos de montar e conseguem construir um martelo... e qualquer outro objeto que quiserem."
+    },
+    {
+      "show_name": "Grizzy e os Lemmings",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_grizzy-e-os-lemmings-s04e52-magia-dentro-do-frasco_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 52 - Magia Dentro do Frasco",
+      "start_time": "03:48",
+      "end_time": "03:55",
+      "episode_description": "Os Lemmings pegam um pote de Yummy de um distribuidor, mas antes de comer, Grizzy rouba o pote."
+    },
+    {
+      "show_name": "Grizzy e os Lemmings",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_grizzy-e-os-lemmings-s02e42-never-judge-a-bear-by-its-cover_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 42 - Disfarce Perfeito",
+      "start_time": "03:55",
+      "end_time": "04:02",
+      "episode_description": "Os lêmingues se apoderam de uma caixa cheia de creme de chocolate e a escondem sem que Grizzy saiba. E já que eles são muito prudentes e espertos, é impossível surpreendê-los em seu esconderijo. Até o dia em que Grizzy encontra um anel mágico que lhe permite assumir a aparência de um lêmingue."
     },
     {
       "show_name": "Hey Fuzzy Yellow",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_hey-fuzzy-yellow_l_m.jpg",
-      "show_category": "Children",
-      "start_time": "04:00",
-      "end_time": "05:00",
-      "episode_description": "Mostra como cada criança tem o direito de aprender a se expressar de uma forma natural."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hey-fuzzy-yellow-s01e22-carta-saltitante-empolgada_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 22 - Carta Saltitante Empolgada",
+      "start_time": "04:02",
+      "end_time": "04:13",
+      "episode_description": "Fuzzy Yellow recebe uma carta do viajante do espaço-tempo XYZ, detalhando um dia emocionante."
+    },
+    {
+      "show_name": "Hey Fuzzy Yellow",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hey-fuzzy-yellow-s01e45_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 45 - Sob as Abelhas Selvagens",
+      "start_time": "04:13",
+      "end_time": "04:24",
+      "episode_description": "Fuzzy Yellow e seus amigos se lembram do dia em que conheceram Buff, seu amigo selvagem favorito."
+    },
+    {
+      "show_name": "Perninha em Obras",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_perninha-em-obras-s01e14_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 14 - Garagem Mal-Assombrada",
+      "start_time": "04:24",
+      "end_time": "04:28",
+      "episode_description": "É Halloween, então a turma decora a garagem para o feriado."
+    },
+    {
+      "show_name": "Hey Fuzzy Yellow",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hey-fuzzy-yellow-s01e21-regras-do-heroi-gotas-de-chuva_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 21 - Regras do Herói Gotas de Chuva",
+      "start_time": "04:28",
+      "end_time": "04:39",
+      "episode_description": "Fuzzy Yellow e os amigos vão à praia, mas a chuva muda seus planos e um luau acontece."
+    },
+    {
+      "show_name": "Hey Fuzzy Yellow",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hey-fuzzy-yellow-s01e44_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 44 - Siga a Canção da Lanterna",
+      "start_time": "04:39",
+      "end_time": "04:51",
+      "episode_description": "Uma lanterna flutuante segue Moon, narrando cada um dos seus movimentos com uma voz operística; Fuzzy Yellow ajuda Moon a fazê-la desaparecer."
+    },
+    {
+      "show_name": "Hey Fuzzy Yellow",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hey-fuzzy-yellow-s01e34_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 34 - Nota da Garrafa Forte",
+      "start_time": "04:51",
+      "end_time": "05:02",
+      "episode_description": "Uma mensagem vazia é encontrada em uma garrafa na praia. Batata dá uma dica que pode ajudar a decifrar a mensagem, levando a um encontro com um polvo invisível que afirma ser o autor de muitas mensagens invisíveis."
     },
     {
       "show_name": "Morphle",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_morphle_l_m.jpg",
       "show_category": "Children",
-      "start_time": "05:00",
-      "end_time": "06:00",
-      "episode_description": "O levado do Orphle faz uma bagunça com os projetos de pintura de Mila, Morphle e Abril."
+      "start_time": "05:02",
+      "end_time": "05:05",
+      "episode_description": "Os bandidos e seu sobrinho, Winston, roubam o caminhão de sorvete do aniversário de Morphle."
     },
     {
-      "show_name": "Oi, Duggee!",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_oi-duggee-s04e12-o-distintivo-dos-objetos-perdidos_l_m.jpg",
-      "show_category": "Temporada 4 Episódio 12 - O Distintivo dos Objetos Perdidos",
+      "show_name": "Morphle",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_morphle_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "05:05",
+      "end_time": "05:09",
+      "episode_description": "Os bandidos e seu sobrinho, Winston, roubam o caminhão de sorvete do aniversário de Morphle."
+    },
+    {
+      "show_name": "Morphle",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_morphle_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "05:09",
+      "end_time": "05:12",
+      "episode_description": "Os bandidos e seu sobrinho, Winston, roubam o caminhão de sorvete do aniversário de Morphle."
+    },
+    {
+      "show_name": "Morphle",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_morphle-s01e327-bebe-gigante_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 327 - Bebê Gigante",
+      "start_time": "05:12",
+      "end_time": "05:16",
+      "episode_description": "Mila e Morphle acham que seria legal usar o Animal Mágico Animi para dar vida à sua boneca. Mas as coisas saem do controle quando a boneca gigante foge e instaura um caos pela cidade."
+    },
+    {
+      "show_name": "Morphle",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_morphle_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "05:16",
+      "end_time": "05:19",
+      "episode_description": "Os bandidos e seu sobrinho, Winston, roubam o caminhão de sorvete do aniversário de Morphle."
+    },
+    {
+      "show_name": "Morphle",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_morphle-s04e03-meu-onibus-vermelho-e-a-cidade-encolhida_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 3 - Meu Ônibus Vermelho e a Cidade Encolhida",
+      "start_time": "05:19",
+      "end_time": "05:23",
+      "episode_description": "Mila e Morphle, após encontrarem pessoas encolhidas na cidade, precisam voltá-las ao normal."
+    },
+    {
+      "show_name": "Morphle",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_morphle_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "05:23",
+      "end_time": "05:26",
+      "episode_description": "Os bandidos e seu sobrinho, Winston, roubam o caminhão de sorvete do aniversário de Morphle."
+    },
+    {
+      "show_name": "Pocoyo - Músicas Infantis",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pocoyo-musicas-infantis_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "05:26",
+      "end_time": "05:31",
+      "episode_description": "Divirta-se com Pocoyo e seus amigos cantando \"Dez na Cama\"."
+    },
+    {
+      "show_name": "Morphle",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_morphle_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "05:31",
+      "end_time": "05:34",
+      "episode_description": "Os bandidos e seu sobrinho, Winston, roubam o caminhão de sorvete do aniversário de Morphle."
+    },
+    {
+      "show_name": "Morphle",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_morphle-s01e179-morphle-congelado_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 179 - Morphle Congelado",
+      "start_time": "05:34",
+      "end_time": "05:38",
+      "episode_description": "Os bandidos roubam o Animal Mágico Atmo e o utilizam para congelar todos da cidade; Morphle e Mila precisam usar os poderes certos para descongelar todos e resgatar Atmo. Mas quando Morphle é congelado, Mila precisa pensar rápido para salvá-lo."
+    },
+    {
+      "show_name": "Morphle",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_morphle_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "05:38",
+      "end_time": "05:41",
+      "episode_description": "Os bandidos e seu sobrinho, Winston, roubam o caminhão de sorvete do aniversário de Morphle."
+    },
+    {
+      "show_name": "Morphle",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_morphle-s01e127-meu-robo-magico-e-hipnotizado_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 127 - Meu Robô Mágico É Hipnotizado!",
+      "start_time": "05:41",
+      "end_time": "05:45",
+      "episode_description": "Morphle é hipnotizado pelos bandidos."
+    },
+    {
+      "show_name": "Morphle",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_morphle_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "05:45",
+      "end_time": "05:48",
+      "episode_description": "Os bandidos e seu sobrinho, Winston, roubam o caminhão de sorvete do aniversário de Morphle."
+    },
+    {
+      "show_name": "Morphle",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_morphle-s01e126-morphle-meu-pincel-magico_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 126 - Morphle Vira um Pincel",
+      "start_time": "05:48",
+      "end_time": "05:52",
+      "episode_description": "Morphle se transforma em um pincel e traz de volta a cor para a cidade."
+    },
+    {
+      "show_name": "Morphle",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_morphle-s02e13-esconde-esconde-com-dinossauros_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 13 - Esconde-Esconde com Dinossauros",
+      "start_time": "05:52",
+      "end_time": "05:55",
+      "episode_description": "Morphle se transforma em diferentes tipos de dinossauros, dragões e muitos outros animais também."
+    },
+    {
+      "show_name": "Morphle",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_morphle_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "05:55",
+      "end_time": "06:00",
+      "episode_description": "Os bandidos e seu sobrinho, Winston, roubam o caminhão de sorvete do aniversário de Morphle."
+    },
+    {
+      "show_name": "Hey Duggee",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hey-duggee-s04e39-o-distintivo-da-receita_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 39 - O Distintivo da Receita",
       "start_time": "06:00",
       "end_time": "06:07",
-      "episode_description": "Tag se perde no salão dos objetos perdidos do clubinho e os escoteiros precisam encontrá-lo."
+      "episode_description": "Os escoteiros têm fome, mas não sabem o que comer para encher a barriga, por isso pedem ajuda ao Duggee. Felizmente, ele tem o seu livro de receitas."
     },
     {
       "show_name": "Oi, Duggee!",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_oi-duggee-s04e20-o-distintivo-da-similaridade_l_m.jpg",
-      "show_category": "Temporada 4 Episódio 20 - O Distintivo da Similaridade",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_oi-duggee-s04e28-o-distintivo-da-noticia_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 28 - O Distintivo da Notícia",
       "start_time": "06:07",
       "end_time": "06:14",
-      "episode_description": "Peggee e os beija-flores viajam rio acima para entregarem um pacote."
+      "episode_description": "Os escoteiros ficam animados ao descobrirem que Duggee faz seu lote anual de geleia de mirtilo."
     },
     {
       "show_name": "Oi, Duggee!",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_oi-duggee-s04e03-o-primeiro-dia-de-roly_l_m.jpg",
-      "show_category": "Temporada 4 Episódio 3 - O Primeiro Dia de Roly",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_oi-duggee-s04e29-o-distintivo-da-dificuldade_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 29 - O Distintivo da Dificuldade",
       "start_time": "06:14",
       "end_time": "06:21",
-      "episode_description": "No primeiro dia de Roly, a turma descobre como ele achou sua voz muito alta."
+      "episode_description": "Norrie admite que não consegue andar em sua nova bicicleta porque é muito difícil. Duggee a encoraja e mostra a ela que existem habilidades que ele também ainda precisa dominar, como andar de skate."
     },
     {
       "show_name": "Oi, Duggee!",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_oi-duggee-s04e27-o-distintivo-da-bola_l_m.jpg",
-      "show_category": "Temporada 4 Episódio 27 - O Distintivo da Bola",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_oi-duggee-s04e38-o-distintivo-da-natureza_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 38 - O Distintivo da Natureza",
       "start_time": "06:21",
       "end_time": "06:28",
-      "episode_description": "Os Esquilos ficam confusos ao ver Duggee sentado em uma bola, pois eles gostam de usá-la de maneira diferente. Duggee então explica aos Esquilos que não existe jeito certo ou errado de brincar e que cada um é diferente."
+      "episode_description": "Os escoteiros estão animados para aprender mais sobre a natureza e descobrem como o fazer de forma responsável com os cinco passos fáceis de Duggee."
     },
     {
       "show_name": "Bloquinho da Bea",
@@ -96,15 +472,15 @@
       "show_category": "Children",
       "start_time": "06:28",
       "end_time": "06:41",
-      "episode_description": "Bea, Ty e Danny ajudam a projetar um parquinho inclusivo no qual todos podem brincar."
+      "episode_description": "Bea e seus amigos espalham bondade e empatia com divertidas aventuras em sua comunidade."
     },
     {
       "show_name": "Bloquinho da Bea",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_bloquinho-da-bea-s01e30-passeio-cancelado_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 30 - Passeio Cancelado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bloquinho-da-bea-s01e27-o-show-continua_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 27 - O Show Continua",
       "start_time": "06:41",
       "end_time": "06:53",
-      "episode_description": "Bea fica triste quando Luisa precisa cancelar o encontro de minigolfe. Então, Danny e Lexi trabalham juntos para tentar fazê-la se sentir melhor."
+      "episode_description": "Bea, Ty e Sam organizam um show para o Dia do Idoso, mas tudo dá errado."
     },
     {
       "show_name": "Bloquinho da Bea",
@@ -112,7 +488,7 @@
       "show_category": "Children",
       "start_time": "06:53",
       "end_time": "07:06",
-      "episode_description": "Bea, Ty e Danny ajudam a projetar um parquinho inclusivo no qual todos podem brincar."
+      "episode_description": "Bea e seus amigos espalham bondade e empatia com divertidas aventuras em sua comunidade."
     },
     {
       "show_name": "Meka Builders",
@@ -120,7 +496,7 @@
       "show_category": "Children",
       "start_time": "07:06",
       "end_time": "07:18",
-      "episode_description": "É o dia da inauguração do arranha-céu e os Mechas precisam encontrar uma maneira de colocar a esfera no topo do prédio antes da cerimônia."
+      "episode_description": "Acompanhe as aventuras de Meka Elmo, Meka Come-Come e Meka Abby Cadabby, heróis capazes de resolver qualquer problema com suas habilidades robóticas."
     },
     {
       "show_name": "Meka Builders",
@@ -128,863 +504,863 @@
       "show_category": "Children",
       "start_time": "07:18",
       "end_time": "07:30",
-      "episode_description": "É o dia da inauguração do arranha-céu e os Mechas precisam encontrar uma maneira de colocar a esfera no topo do prédio antes da cerimônia."
+      "episode_description": "Acompanhe as aventuras de Meka Elmo, Meka Come-Come e Meka Abby Cadabby, heróis capazes de resolver qualquer problema com suas habilidades robóticas."
     },
     {
       "show_name": "Lucas, a Aranha",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lucas-a-aranha-s01e22-aranha-nova-na-area_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 22 - Aranha Nova na Área",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lucas-a-aranha-s01e66_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 66 - Saltadores",
       "start_time": "07:30",
       "end_time": "07:38",
-      "episode_description": "Lucas faz amizade com uma aranha de brinquedo roxa e Findley fica com ciúmes."
+      "episode_description": "Lucas é seguido por um feijão saltitante; ele encontra um verme dentro dele e precisa ajudá-lo."
     },
     {
       "show_name": "Lucas, a Aranha",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lucas-a-aranha-s01e64_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 64 - Lucas, Findley e a Formiga",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lucas-a-aranha-s01e59_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 59 - Risadinhas",
       "start_time": "07:38",
       "end_time": "07:45",
-      "episode_description": "Os heróis artrópodes encontram uma formiga bebê perdida e procuram reuni-la com sua família; Lucas e Findley logo descobrem que a formiga malandra não quer ser encontrada."
+      "episode_description": "Lucas e Findley riem de um acidente de Arlo. Eles se desculpam, mas Arlo interpreta mal a mensagem e começa a rir dos infortúnios de seus outros amigos."
     },
     {
       "show_name": "Lucas, a Aranha",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lucas-a-aranha-s01e45-arlo-e-a-cobra_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 45 - Arlo e a Cobra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lucas-a-aranha-s01e77_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 77 - Lucas, o Pirata",
       "start_time": "07:45",
       "end_time": "07:53",
-      "episode_description": "Lucas tenta convencer Arlo de que a mangueira do jardim não é uma cobra."
+      "episode_description": "Lucas e Findley partem em uma aventura pirata."
     },
     {
       "show_name": "Lucas, a Aranha",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lucas-a-aranha-s01e39-arlo-n-o-faca-isso_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 39 - Arlo, Não Faça Isso",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lucas-a-aranha-s01e40-amigos-espinhosos_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 40 - Amigos Espinhosos",
       "start_time": "07:53",
       "end_time": "08:00",
-      "episode_description": "Arlo quer observar o jardim do vizinho através de um buraco e ignora os conselhos de Lucas."
+      "episode_description": "Lucas e Arlo jogam juntos. Arlo torna-se muito competitivo e Lucas faz nova amizade com um cacto."
     },
     {
       "show_name": "Perninha em Obras",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_perninha-em-obras-s01e05-a-casa-gelada_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 5 - A Casa Gelada",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_perninha-em-obras-s02e36-hora-do-surf_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 36 - Hora do Surf",
       "start_time": "08:00",
       "end_time": "08:11",
-      "episode_description": "Os construtores são chamados para erguer uma casa de pinguim. Lola descobre que erraram no design."
+      "episode_description": "Os Looney Builders são contratados para construir um ponto de encontro na Austrália para uma competição de surfe. Perninha e Patolino querem competir, mas estão um pouco despreparados. Taz se oferece para ensiná-los."
     },
     {
       "show_name": "Perninha em Obras",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_perninha-em-obras-s01e29-luz-brilhante_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 29 - Luz Brilhante",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_perninha-em-obras-s02e33_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 33 - A Casa de Diversões do Dodô",
       "start_time": "08:11",
       "end_time": "08:23",
-      "episode_description": "O Prefeito Frangolino contrata os Looney Builders para construir um farol para Looneyburg, mas o tablet de Lola quebra e ela precisa confiar em si mesma."
+      "episode_description": "Yoyo Dodo contrata a turma de Perninha em Obras para construir uma casa de diversões para Looneyburg. A equipe pensa que ele está brincando enquanto trabalham, mas logo descobrem que não entenderam o que Yoyo realmente quer."
     },
     {
       "show_name": "Perninha em Obras",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_perninha-em-obras-s02e39-o-show-dos-fantoches_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 39 - O Show dos Fantoches",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_perninha-em-obras-s01e32-pista-de-skate_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 32 - Pista de Skate",
       "start_time": "08:23",
-      "end_time": "08:34",
-      "episode_description": "A equipe é contratada por Parth Peacock para construir marionetes e um palco de marionetes na Índia."
+      "end_time": "08:35",
+      "episode_description": "Os Looney Builders constroem uma pista de skate para as crianças, mas isso logo interfere nas atividades de Hoots Talon e seus amigos."
     },
     {
       "show_name": "Perninha em Obras",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_perninha-em-obras-s01e26-a-estrela-do-mar_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 26 - A Estrela do Mar",
-      "start_time": "08:34",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_perninha-em-obras-s01e01-o-toboagua_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - O Toboágua",
+      "start_time": "08:35",
       "end_time": "08:46",
-      "episode_description": "Moxie Manatee contrata os Looney Builders para construir uma pista de obstáculos para os Jogos da Pré-escola Sandy Shells, mas Lola não dá ouvidos à equipe."
+      "episode_description": "O prefeito Frangolino contrata os Looney Builders para construir um toboágua gigante no parque aquático de Looneyburg. Com o apoio de Pernalonga, ele faz muitas alterações nos planos iniciais, até que os problemas começam a surgir."
     },
     {
       "show_name": "Cuquín",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cuquin-s01e03-rodeio_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 3 - Rodeio",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cuquin-s01e16-boneco-de-neve_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 16 - Boneco de Neve",
       "start_time": "08:46",
       "end_time": "08:52",
-      "episode_description": "Cyan quer usar o chapéu de caubói, mas alguém o pega primeiro. Ele se imagina em um rodeio no velho oeste, onde outro chapéu de caubói o aguarda. Mas, para ganhá-lo, Cyan deve encontrar coragem para montar um dinossauro selvagem."
+      "episode_description": "Cyan quer fazer um boneco de neve, mas neva muito para ficar do lado de fora. Ele se imagina em uma paisagem nevada, onde ele e seus amigos fazem um boneco de neve. No entanto, gemidos horríveis e uma chuva de bolas de neve interrompem o plano."
     },
     {
       "show_name": "Cuquín",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cuquin-s01e15-arte-no-parque_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 15 - Arte no Parque",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cuquin-s02e13-novo-na-classe_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 13 - Novo na Classe",
       "start_time": "08:52",
       "end_time": "08:59",
-      "episode_description": "Clementina sente fome e quer uma brilhante maçã vermelha, mas não é hora do lanche ainda. Ela imagina a maçã em um pódio, em uma galeria de arte. Mas quando ela e seus amigos tentam pegá-la, o segurança Robi os impede."
+      "episode_description": "Uma criança nova chega à creche com interesses semelhantes aos de Cyan, o que faz com ele se sinta deslocado. Ao procurar ossos de dinossauro, Cyan torna-se competitivo, mas, na hora da verdade, percebe que Leo é um amigo."
     },
     {
       "show_name": "Batwheels",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_batwheels-s01e31-dupla-di-n-o-mica_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 31 - Dupla Di-Não-Mica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_batwheels-s01e33-a-noite-escura_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 33 - A Noite Escura",
       "start_time": "08:59",
       "end_time": "09:10",
-      "episode_description": "Snowy e Jestah se unem para realizar um plano misterioso com frutas congeladas raras. Batwing e Buff decidem enfrentar a dupla, mas Batwing tenta realizar a missão sozinha e coloca a si mesma e Buff em perigo."
+      "episode_description": "Para a surpresa de todos, Bam tem medo do escuro; quando a Hera Venenosa acaba com a energia em Gotham, Bam deve vencer o medo para impedi-la."
     },
     {
       "show_name": "Batwheels",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_batwheels-s02e26_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 26",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_batwheels-s01e32-para-o-batmovel_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 32 - Para o Batmóvel!",
       "start_time": "09:10",
       "end_time": "09:22",
-      "episode_description": "Buff faz um pedido para um artefato mágico para que os outros se transformem em caminhões monstros, assim como ele."
+      "episode_description": "Todos os Batwheels, com exceção do Bam, desaparecem, e ele pede ajuda a A.D.A.M., o Batmóvel original, para salvar os amigos. Ao enfrentarem a Legião do Zoom juntos, Bam passa a dar valor à forma como o carro antigo luta contra o crime."
     },
     {
       "show_name": "Batwheels",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_batwheels-s02e34-bat-amigas-para-sempre_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 34 - Bat-Amigas para Sempre",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_batwheels-s01e10-rebobinando-a-bibi_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 10 - Caverna Doce Caverna",
       "start_time": "09:22",
       "end_time": "09:33",
-      "episode_description": "Music Meister está roubando as vozes de todas as pessoas em Gotham, incluindo os Batwheels, para ajudá-lo a ganhar um show de talentos de canto."
+      "episode_description": "Depois que o Coringa inunda a Batcaverna, os Batwheels evacuam e se mudam para um estacionamento próximo. À medida que se adaptam ao lar temporário, eles aprendem lições importantes sobre família e como aproveitar tudo ao máximo."
     },
     {
       "show_name": "Batwheels",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_batwheels-s01e18-a-gatastrofe-do-bam_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 18 - A Gatástrofe do Bam",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_batwheels-s02e07_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 7 - Exibição Aérea",
       "start_time": "09:33",
       "end_time": "09:45",
-      "episode_description": "Bam faz o carro da Mulher-Gato ganhar vida, mas o veículo se mostra rebelde demais para ser contido."
+      "episode_description": "Batwing e Goldie decidem secretamente participar de uma exibição aérea em Gotham. Porém, quando Batman precisa de sua ajuda, eles devem escolher entre vencer a competição e suas responsabilidades no combate ao crime."
     },
     {
       "show_name": "Mundo Bita - Imagine-se",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_mundo-bita-imagine-se-s01e09-quando-pinta-a-harmonia_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 9 - Quando Pinta a Harmonia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mundo-bita-imagine-se-s02e07-pedir-desculpas_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 7 - Pedir Desculpas",
       "start_time": "09:45",
       "end_time": "09:52",
-      "episode_description": "No Mundo Bita, Pipa e Pepe não chegam a uma conclusão sobre qual ritmo escolher no estúdio de Pingo; no planeta Terra, Tito esconde a caneta azul; no Mundo da Imaginação, o céu perde sua cor."
+      "episode_description": "No Mundo Bita, Pepe irrita Pipa com suas brincadeiras; no Planeta Terra, Lila e Tito se desentendem devido ao boneco Billy; no Mundo da Imaginação, Bita ajuda Tito a refletir e encontrar uma solução para um problema."
     },
     {
       "show_name": "Mundo Bita - Imagine-se",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_mundo-bita-imagine-se-s02e08-que-bicho-e-esse_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 8 - Que Bicho É Esse?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mundo-bita-imagine-se-s01e03-festa-no-escuro_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3 - Festa no Escuro",
       "start_time": "09:52",
       "end_time": "09:59",
-      "episode_description": "Uma brincadeira de Pepe deixa Pipa irritada; Tito se desentende com Lila pelo boneco Billy."
+      "episode_description": "No Mundo Bita, Pipa procura objetos no porão escuro e Pepe resiste em entrar no local; no planeta Terra, Dan precisa entrar na garagem escura para pegar sua bola; no Mundo da Imaginação, Bita guia as crianças em uma aventura."
     },
     {
       "show_name": "Grizzy e os Lemmings",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_grizzy-e-os-lemmings-s02e50-ctrl-alt-bear_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 50 - Teclado Misterioso",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_grizzy-e-os-lemmings-s02e78-hocus-pocus-lemmingus_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 78 - Abracadabra",
       "start_time": "09:59",
       "end_time": "10:06",
-      "episode_description": "Grizzy e os lêmingues descobrem um teclado mágico, protótipo secreto do exército canadense. Com apenas quatro teclas, selecionar, recortar, colar e deletar, o dispositivo afeta objetos e seres vivos ao redor. Uma batalha hilária se desenrola quando os personagens competem pelo controle deste poderoso artefato, causando caos e transformações inesperadas."
+      "episode_description": "Os lêmingues encontram um velho livro de feitiços com uma fórmula que permite transformar a aparência de qualquer criatura. Eles têm a brilhante ideia de transformar um deles em um dublê da amada ursa de Grizzy."
     },
     {
       "show_name": "Grizzy e os Lemmings",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_grizzy-e-os-lemmings-s02e21_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 21 - Balões Mágicos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_grizzy-e-os-lemmings-s04e49-reforma-interativa_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 49 - Reforma Interativa",
       "start_time": "10:06",
       "end_time": "10:13",
-      "episode_description": "Grizzy assiste a uma demonstração de modelagem de bexigas na TV e decide fazer um poodle para presentear sua amada ursa. Observando Grizzy, os lêmingues descobrem que bexigas de modelagem podem ficar muito mais cheias que as bexigas comuns."
+      "episode_description": "Grizzy quer refazer o interior da cabana, então ele expulsa os Lemmings e seu trem elétrico."
     },
     {
       "show_name": "Grizzy e os Lemmings",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_grizzy-e-os-lemmings-s02e65_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 65 - Babá de Urso",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_grizzy-e-os-lemmings-s03e76_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 76 - Roubo de Carga",
       "start_time": "10:13",
-      "end_time": "10:20",
-      "episode_description": "Um chifre mágico pousa no focinho de um alce, doando-lhe graciosidade e a habilidade de voar. Ele levanta voo, deixando um rastro da cor do arco-íris para trás. Quando Grizzy vê essa criatura estranha, começa a sonhar em domá-la para presenteá-la à sua amada ursa."
+      "end_time": "10:21",
+      "episode_description": "Grizzy e os Lemmings brigam por causa da última porção de creme de chocolate. Mas o embate é interrompido quando eles se deparam com um engradado cheio de creme de chocolate na garagem."
     },
     {
       "show_name": "Grizzy e os Lemmings",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_grizzy-e-os-lemmings-s04e70-entre-bolas-e-luvas-magicas_l_m.jpg",
-      "show_category": "Temporada 4 Episódio 70 - Entre Bolas e Luvas Mágicas",
-      "start_time": "10:20",
-      "end_time": "10:27",
-      "episode_description": "Grizzy não sabe como acabar com o novo jogo de bola dos Lemmings."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_grizzy-e-os-lemmings-s03e07_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 7 - Guerra do Bambu",
+      "start_time": "10:21",
+      "end_time": "10:28",
+      "episode_description": "Grizzy desmonta o tobogã dos Lemmings e reutiliza as varas de bambu para construir uma jacuzzi. Ao encontrarem a obra de arte do urso, os Lemmings imaginam que se trata de um parque aquático gigante com um escorregador imenso."
     },
     {
       "show_name": "Grizzy e os Lemmings",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_grizzy-e-os-lemmings-s03e67_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 67 - Batalha Musical",
-      "start_time": "10:27",
-      "end_time": "10:34",
-      "episode_description": "Grizzy chega em casa e encontra os Lemmings dançando loucamente. Ele então os joga na selva, onde eles conhecem um papagaio capaz de reproduzir qualquer som. O pássaro se torna aliado deles e distrai Grizzy para recuperar um instrumento musical."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_grizzy-e-os-lemmings-s01e67-cheiro-de-travessura_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 67 - Cheiro de Travessura",
+      "start_time": "10:28",
+      "end_time": "10:35",
+      "episode_description": "Os lêmingues pegam o último pote de creme de chocolate de Grizzy. Para encontrar o esconderijo deles, Grizzy treina um guaxinim cujo olfato é tão bom quanto o de um cão farejador."
     },
     {
       "show_name": "Grizzy e os Lemmings",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_grizzy-e-os-lemmings-s04e23_l_m.jpg",
-      "show_category": "Temporada 4 Episódio 23",
-      "start_time": "10:34",
-      "end_time": "10:41",
-      "episode_description": "Grizzy expulsa os Lemmings, que na estação de pesquisa acabam encontrando uma cabana ultramoderna."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_grizzy-e-os-lemmings-s01e69-ronco_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 69 - Ronco",
+      "start_time": "10:35",
+      "end_time": "10:42",
+      "episode_description": "As vibrações emitidas pelo ronco de Grizzy dá aos lêmingues uma ideia de brincadeira. Mas, quando Grizzy muda de posição e para de roncar, os lêmingues tentam encontrar outras fontes de vibração."
     },
     {
       "show_name": "Grizzy e os Lemmings",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_grizzy-e-os-lemmings-s01e61-cofre_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 61 - Cofre",
-      "start_time": "10:41",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_grizzy-e-os-lemmings-s03e66_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 66 - O Urso, o Sapo e o Mosquito",
+      "start_time": "10:42",
       "end_time": "10:49",
-      "episode_description": "Grizzy coloca sua comida no cofre do guarda florestal para não ter que dividir. Ele assiste contente às tentativas fracassadas dos lêmingues de abrir o cofre, até perceber que a corrente da chave está longe de ser indestrutível."
+      "episode_description": "Os lemmings se divertem pulando as costas de sapos verdes enquanto Grizzy persegue alguns mosquitos."
     },
     {
       "show_name": "Blippi",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_blippi_l_m.jpg",
       "show_category": "Children",
       "start_time": "10:49",
-      "end_time": "11:02",
+      "end_time": "11:00",
       "episode_description": "É hora de dizer Abracadabra. Blippi aprende truques incríveis com um mágico poderoso."
     },
     {
       "show_name": "Pocoyo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_pocoyo-s03e21-cozinhando-com-elly_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 21 - Cozinhando com Elly",
-      "start_time": "11:02",
-      "end_time": "11:09",
-      "episode_description": "Elly acaba de fazer um bolo de aniversário para Lagarta. Pocoyo e Pato aparecem e derrubam o bolo no chão. Agora os três precisam assar outro."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pocoyo_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "11:00",
+      "end_time": "11:07",
+      "episode_description": "Pocoyo e Nina tentam encontrar algumas invenções para ganhar tempo."
     },
     {
       "show_name": "Pocoyo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_pocoyo-s04e11-a-danca-da-coceira_l_m.jpg",
-      "show_category": "Temporada 4 Episódio 11 - A Dança da Coceira",
-      "start_time": "11:09",
-      "end_time": "11:16",
-      "episode_description": "Loula está com pulgas e Nina usa seu raio redutor para eliminá-las, mas elas organizaram uma festa."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pocoyo-s04e25-ainda-falta-muito_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 25 - Ainda Falta Muito?",
+      "start_time": "11:07",
+      "end_time": "11:15",
+      "episode_description": "Elly quer aproveitar o dia de sol e decide ir à praia de carro. No caminho, encontra os amigos que se juntam à excursão. Parando à toda hora, a viagem se torna interminável."
     },
     {
       "show_name": "Pocoyo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_pocoyo-s05e38-priszilla_l_m.jpg",
-      "show_category": "Temporada 5 Episódio 38 - Priszilla",
-      "start_time": "11:16",
-      "end_time": "11:23",
-      "episode_description": "Priscilla quer viver um filme de ação e os amigos criam uma cidade inflável. Mas a brincadeira foge do controle."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pocoyo-s05e36-dakumentario_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 36 - Dakumentario",
+      "start_time": "11:15",
+      "end_time": "11:22",
+      "episode_description": "Pato busca se encaixar imitando outros patos, mas acaba perdendo sua identidade, levando-o a refletir sobre autoaceitação."
     },
     {
       "show_name": "Pocoyo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_pocoyo-s05e39-priszilla_l_m.jpg",
-      "show_category": "Temporada 5 Episódio 39 - Priszilla",
-      "start_time": "11:23",
-      "end_time": "11:30",
-      "episode_description": "Priszilla quer viver um filme de ação e os amigos criam uma cidade inflável. Mas a brincadeira foge do controle."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pocoyo-s05e27-aqui-esta-bea_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 27 - Aqui Está Bea",
+      "start_time": "11:22",
+      "end_time": "11:29",
+      "episode_description": "O mundo de Pocoyo é surpreendido pela chegada energética de sua irmã Bea, que conquista a todos. Pocoyo começa a sentir ciúmes da atenção recebida pela irmã."
     },
     {
       "show_name": "Crescendo com a Galinha Pintadinha",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_crescendo-com-a-galinha-pintadinha-s01e08-meus-amigos-da-escola_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 8 - Meus Amigos da Escola",
-      "start_time": "11:30",
-      "end_time": "11:43",
-      "episode_description": "O Pintinho Amarelinho olha um álbum de fotos dos seus amigos da escola e fica encantando como cada um é diferente e especial; as Naftalinas fazem um show de outro mundo na lua; cante a \"Dança do Patinho\"."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_crescendo-com-a-galinha-pintadinha-s01e09-pintinho-amarelinho-vai-as-compras_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 9 - Pintinho Amarelinho Vai às Compras",
+      "start_time": "11:29",
+      "end_time": "11:42",
+      "episode_description": "A Galinha Pintadinha e a turma vão ao shopping, brincam de esconde-esconde e encontram um par de óculos mágicos; o Pintinho vai procurar caracóis no jardim."
     },
     {
       "show_name": "Mundo Bita - Imagine-se",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_mundo-bita-imagine-se-s02e02-cuida-dessa-boca_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 2 - Cuida Dessa Boca",
-      "start_time": "11:43",
-      "end_time": "11:50",
-      "episode_description": "Bita leva as crianças para um passeio pelo Planeta Boca e ensina como é importante deixá-la limpa."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mundo-bita-imagine-se-s02e03-abra-as-portas-da-criatividade_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 3 - Abra as Portas da Criatividade",
+      "start_time": "11:42",
+      "end_time": "11:49",
+      "episode_description": "No Mundo da Imaginação, Bita ajuda Dan a encontrar e acessar a sua porta da criatividade."
     },
     {
       "show_name": "Mundo Bita - Imagine-se",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_mundo-bita-imagine-se-s02e04-a-verdade-e-o-melhor-caminho_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 4 - A Verdade É o Melhor Caminho",
-      "start_time": "11:50",
-      "end_time": "11:57",
-      "episode_description": "Bita guia a turminha em uma jornada no Mundo da Imaginação mostrando a importância da honestidade."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mundo-bita-imagine-se-s01e09-quando-pinta-a-harmonia_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 9 - Quando Pinta a Harmonia",
+      "start_time": "11:49",
+      "end_time": "11:56",
+      "episode_description": "No Mundo Bita, Pipa e Pepe não chegam a uma conclusão sobre qual ritmo escolher no estúdio de Pingo; no planeta Terra, Tito esconde a caneta azul; no Mundo da Imaginação, o céu perde sua cor."
     },
     {
       "show_name": "Perninha em Obras",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_perninha-em-obras-s01e05-a-casa-gelada_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 5 - A Casa Gelada",
-      "start_time": "11:57",
-      "end_time": "12:08",
-      "episode_description": "Os construtores são chamados para erguer uma casa de pinguim. Lola descobre que erraram no design."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_perninha-em-obras-s02e36-hora-do-surf_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 36 - Hora do Surf",
+      "start_time": "11:56",
+      "end_time": "12:07",
+      "episode_description": "Os Looney Builders são contratados para construir um ponto de encontro na Austrália para uma competição de surfe. Perninha e Patolino querem competir, mas estão um pouco despreparados. Taz se oferece para ensiná-los."
     },
     {
       "show_name": "Perninha em Obras",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_perninha-em-obras-s02e39-o-show-dos-fantoches_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 39 - O Show dos Fantoches",
-      "start_time": "12:08",
-      "end_time": "12:20",
-      "episode_description": "A equipe é contratada por Parth Peacock para construir marionetes e um palco de marionetes na Índia."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_perninha-em-obras-s02e33_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 33 - A Casa de Diversões do Dodô",
+      "start_time": "12:07",
+      "end_time": "12:19",
+      "episode_description": "Yoyo Dodo contrata a turma de Perninha em Obras para construir uma casa de diversões para Looneyburg. A equipe pensa que ele está brincando enquanto trabalham, mas logo descobrem que não entenderam o que Yoyo realmente quer."
     },
     {
       "show_name": "Perninha em Obras",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_perninha-em-obras-s01e26-a-estrela-do-mar_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 26 - A Estrela do Mar",
-      "start_time": "12:20",
-      "end_time": "12:31",
-      "episode_description": "Moxie Manatee contrata os Looney Builders para construir uma pista de obstáculos para os Jogos da Pré-escola Sandy Shells, mas Lola não dá ouvidos à equipe."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_perninha-em-obras-s02e11-a-discoteca_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 11 - Os Jogos Loucos",
+      "start_time": "12:19",
+      "end_time": "12:30",
+      "episode_description": "Os Looney Builders são contratados pelo prefeito Leghorn para construir o local dos Looney Games. Eles logo ficam sobrecarregados com o trabalho e precisam pedir ajuda."
     },
     {
       "show_name": "Batwheels",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_batwheels-s03e04-sizzie-strong_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 4 - Sizzie Strong",
-      "start_time": "12:31",
-      "end_time": "12:42",
-      "episode_description": "Bibi e Batgirl ficam surpresas ao encontrar Harley e Jestah no show de sua estrela pop favorita, e agora elas precisam se unir para salvar o espetáculo."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_batwheels-s03e01-gotham-temos-um-problema_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 1 - Gotham, Temos um Problema",
+      "start_time": "12:30",
+      "end_time": "12:52",
+      "episode_description": "Computador Malvado ativa seu próprio satélite e assume o controle de todos os computadores da Terra."
     },
     {
       "show_name": "Batwheels",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_batwheels-s01e14-le-concours-de-petarades_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 14 - Arranque e Desarranque",
-      "start_time": "12:42",
-      "end_time": "12:54",
-      "episode_description": "Redbird sacrifica sua tecnologia de silenciador furtivo para soar tão alto quanto os outros Batwheels, mas suas modificações saem pela culatra, quando Robin precisa de suas habilidades furtivas para pegar a ardilosa Mulher-Gato."
-    },
-    {
-      "show_name": "Batwheels",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_batwheels-s01e25-motocas-so-querem-se-divertir_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 25 - Motocas Só Querem se Divertir",
-      "start_time": "12:54",
-      "end_time": "13:05",
-      "episode_description": "Bibi quer viver de forma divertida como Jestah e decide quebrar todas as regras. Mas suas ações colocam Batgirl em perigo e Bibi precisa deixar a curtição de lado para lutar contra Arlequina."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_batwheels-s01e11_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 11 - Morcego Assustado",
+      "start_time": "12:52",
+      "end_time": "13:03",
+      "episode_description": "Batman se recusa a envolver Coringa em uma corrida, e Prank incita Bam a uma revanche; Bam tem que aprender a não ceder aos desafios do valentão e seguir o caminho certo."
     },
     {
       "show_name": "Cuquín",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cuquin-s01e06-mundo-macio_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 6 - Mundo Macio",
-      "start_time": "13:05",
-      "end_time": "13:11",
-      "episode_description": "Clementina constrói uma toca de almofadas, mas seus amigos precisam delas para a hora da história."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cuquin-s01e16-boneco-de-neve_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 16 - Boneco de Neve",
+      "start_time": "13:03",
+      "end_time": "13:10",
+      "episode_description": "Cyan quer fazer um boneco de neve, mas neva muito para ficar do lado de fora. Ele se imagina em uma paisagem nevada, onde ele e seus amigos fazem um boneco de neve. No entanto, gemidos horríveis e uma chuva de bolas de neve interrompem o plano."
     },
     {
       "show_name": "Cuquín",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cuquin-s01e01-tesouro_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 1 - Tesouro",
-      "start_time": "13:11",
-      "end_time": "13:18",
-      "episode_description": "Cuquín quer cavar, mas está chovendo. Ele então se imagina em uma ilha deserta em busca de uma pá dourada. Os Piratas Trex e Robi também querem o tesouro. Todos estão atrás do mapa, em uma corrida pelo prêmio."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cuquin-s02e12-mascara_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 12 - Máscara",
+      "start_time": "13:10",
+      "end_time": "13:16",
+      "episode_description": "Clementina não sabe o que pintar na sua máscara. Os seus amigos ajudam-na a experimentar várias máscaras de animais para ver como ficam nela. Nenhuma a convence, até que ela vê todas as máscaras juntas."
+    },
+    {
+      "show_name": "Cuquín",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cuquin-s02e13-novo-na-classe_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 13 - Novo na Classe",
+      "start_time": "13:16",
+      "end_time": "13:22",
+      "episode_description": "Uma criança nova chega à creche com interesses semelhantes aos de Cyan, o que faz com ele se sinta deslocado. Ao procurar ossos de dinossauro, Cyan torna-se competitivo, mas, na hora da verdade, percebe que Leo é um amigo."
     },
     {
       "show_name": "A Casa Mágica da Gabby",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-casa-magica-da-gabby-s08e05-caca-ao-tesouro-da-casa-magica_l_m.jpg",
-      "show_category": "Temporada 8 Episódio 5 - Caça ao Tesouro da Casa Mágica",
-      "start_time": "13:18",
-      "end_time": "13:41",
-      "episode_description": "Gabby e Pandy seguem pistas e resolvem enigmas na maravilhosa Caça ao Tesouro da Casa Mágica."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-casa-magica-da-gabby-s02e03-festa-do-pijama-da-kitty-fada_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 3 - O Safári da Casa Mágica",
+      "start_time": "13:22",
+      "end_time": "13:45",
+      "episode_description": "Gabby, Pandy e a turminha vão a um safári e trabalham juntos para encontrar um animal misterioso."
     },
     {
       "show_name": "Hey Fuzzy Yellow",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_hey-fuzzy-yellow-s01e47-cante-automaticamente-molhado_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 47 - Cante Automaticamente Molhado",
-      "start_time": "13:41",
-      "end_time": "13:52",
-      "episode_description": "Fuzzy Yellow e Marzipan descobrem poças musicais, mas as melodias que criam não impressionam o seu amigo Moon."
-    },
-    {
-      "show_name": "Hey Fuzzy Yellow",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_hey-fuzzy-yellow-s01e19-samambaia-da-vovo_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 19 - Samambaia da Vovó",
-      "start_time": "13:52",
-      "end_time": "14:03",
-      "episode_description": "Fuzzy Yellow constrói uma casa para morcegos e cuida de uma samambaia em vaso para a Vovó. Quando a samambaia fica doente, os amigos ajudam Fuzzy Yellow a revivê-la."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hey-fuzzy-yellow-s01e12-o-resgate-do-livro-espirrador_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 12 - O Resgate do Livro Espirrador",
+      "start_time": "13:45",
+      "end_time": "13:57",
+      "episode_description": "Fuzzy Yellow precisa resgatar Bao Bao de uma árvore e XYZ fornece um corcel nobre para ajudar. Porém, não é um corcel fácil de controlar."
     },
     {
       "show_name": "Booba",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_booba-s05e112-o-brincalh-o-invisivel_l_m.jpg",
-      "show_category": "Temporada 5 Episódio 112 - O Brincalhão Invisível",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_booba-s05e113-disfarce-de-halloween_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 113 - Disfarce de Halloween",
+      "start_time": "13:57",
+      "end_time": "14:03",
+      "episode_description": "Booba e os amigos escolhem disfarces iguais para o Halloween, o que pode atrapalhar a diversão."
+    },
+    {
+      "show_name": "Booba",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_booba-s05e107-queijo-magico_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 107 - Queijo Mágico",
       "start_time": "14:03",
       "end_time": "14:10",
-      "episode_description": "O Booba Fantasma apronta novamente. Desta vez, decide fazer um disfarce com os objetos dos amigos."
+      "episode_description": "Booba encontra um caldeirão mágico que prepara diferentes guloseimas."
     },
     {
       "show_name": "Booba",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_booba-s05e117-o-ovo-dourado_l_m.jpg",
-      "show_category": "Temporada 5 Episódio 117 - O Ovo Dourado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_booba-s05e121-realidade-virtual_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 121 - Realidade Virtual",
       "start_time": "14:10",
       "end_time": "14:17",
-      "episode_description": "Durante a caça aos ovos de Páscoa, Booba encontra o ovo mais estranho. Mas apanhá-lo não é fácil."
+      "episode_description": "Booba do Futuro coloca óculos VR e viaja pelos mundos, como se estivesse em jogos de arcade divertidos."
     },
     {
       "show_name": "Lucas, a Aranha",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lucas-a-aranha-s01e22-aranha-nova-na-area_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 22 - Aranha Nova na Área",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lucas-a-aranha-s01e66_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 66 - Saltadores",
       "start_time": "14:17",
-      "end_time": "14:24",
-      "episode_description": "Lucas faz amizade com uma aranha de brinquedo roxa e Findley fica com ciúmes."
+      "end_time": "14:25",
+      "episode_description": "Lucas é seguido por um feijão saltitante; ele encontra um verme dentro dele e precisa ajudá-lo."
     },
     {
       "show_name": "Lucas, a Aranha",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lucas-a-aranha-s01e64_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 64 - Lucas, Findley e a Formiga",
-      "start_time": "14:24",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lucas-a-aranha-s01e77_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 77 - Lucas, o Pirata",
+      "start_time": "14:25",
       "end_time": "14:32",
-      "episode_description": "Os heróis artrópodes encontram uma formiga bebê perdida e procuram reuni-la com sua família; Lucas e Findley logo descobrem que a formiga malandra não quer ser encontrada."
+      "episode_description": "Lucas e Findley partem em uma aventura pirata."
     },
     {
       "show_name": "Lucas, a Aranha",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lucas-a-aranha-s01e45-arlo-e-a-cobra_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 45 - Arlo e a Cobra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lucas-a-aranha-s01e14-escorregando-1_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 14 - Escorregando",
       "start_time": "14:32",
       "end_time": "14:39",
-      "episode_description": "Lucas tenta convencer Arlo de que a mangueira do jardim não é uma cobra."
+      "episode_description": "Lucas e Findley descobrem um cubo de gelo e brincam deslizando sobre ele."
     },
     {
       "show_name": "Lucas, a Aranha",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lucas-a-aranha-s01e39-arlo-n-o-faca-isso_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 39 - Arlo, Não Faça Isso",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lucas-a-aranha-s01e40-amigos-espinhosos_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 40 - Amigos Espinhosos",
       "start_time": "14:39",
       "end_time": "14:47",
-      "episode_description": "Arlo quer observar o jardim do vizinho através de um buraco e ignora os conselhos de Lucas."
+      "episode_description": "Lucas e Arlo jogam juntos. Arlo torna-se muito competitivo e Lucas faz nova amizade com um cacto."
     },
     {
       "show_name": "Pocoyo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_pocoyo-s05e38-priszilla_l_m.jpg",
-      "show_category": "Temporada 5 Episódio 38 - Priszilla",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pocoyo_l_m.jpg",
+      "show_category": "Children",
       "start_time": "14:47",
       "end_time": "14:54",
-      "episode_description": "Priscilla quer viver um filme de ação e os amigos criam uma cidade inflável. Mas a brincadeira foge do controle."
+      "episode_description": "Pocoyo e Nina tentam encontrar algumas invenções para ganhar tempo."
     },
     {
       "show_name": "Pocoyo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_pocoyo-s05e39-priszilla_l_m.jpg",
-      "show_category": "Temporada 5 Episódio 39 - Priszilla",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pocoyo-s04e25-ainda-falta-muito_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 25 - Ainda Falta Muito?",
       "start_time": "14:54",
       "end_time": "15:02",
-      "episode_description": "Priszilla quer viver um filme de ação e os amigos criam uma cidade inflável. Mas a brincadeira foge do controle."
+      "episode_description": "Elly quer aproveitar o dia de sol e decide ir à praia de carro. No caminho, encontra os amigos que se juntam à excursão. Parando à toda hora, a viagem se torna interminável."
     },
     {
       "show_name": "Perninha em Obras",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_perninha-em-obras-s01e05-a-casa-gelada_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 5 - A Casa Gelada",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_perninha-em-obras-s02e36-hora-do-surf_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 36 - Hora do Surf",
       "start_time": "15:02",
       "end_time": "15:13",
-      "episode_description": "Os construtores são chamados para erguer uma casa de pinguim. Lola descobre que erraram no design."
+      "episode_description": "Os Looney Builders são contratados para construir um ponto de encontro na Austrália para uma competição de surfe. Perninha e Patolino querem competir, mas estão um pouco despreparados. Taz se oferece para ensiná-los."
     },
     {
       "show_name": "Perninha em Obras",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_perninha-em-obras-s02e39-o-show-dos-fantoches_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 39 - O Show dos Fantoches",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_perninha-em-obras-s02e33_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 33 - A Casa de Diversões do Dodô",
       "start_time": "15:13",
       "end_time": "15:24",
-      "episode_description": "A equipe é contratada por Parth Peacock para construir marionetes e um palco de marionetes na Índia."
+      "episode_description": "Yoyo Dodo contrata a turma de Perninha em Obras para construir uma casa de diversões para Looneyburg. A equipe pensa que ele está brincando enquanto trabalham, mas logo descobrem que não entenderam o que Yoyo realmente quer."
     },
     {
       "show_name": "Perninha em Obras",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_perninha-em-obras-s01e26-a-estrela-do-mar_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 26 - A Estrela do Mar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_perninha-em-obras-s02e11-a-discoteca_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 11 - Os Jogos Loucos",
       "start_time": "15:24",
-      "end_time": "15:35",
-      "episode_description": "Moxie Manatee contrata os Looney Builders para construir uma pista de obstáculos para os Jogos da Pré-escola Sandy Shells, mas Lola não dá ouvidos à equipe."
+      "end_time": "15:36",
+      "episode_description": "Os Looney Builders são contratados pelo prefeito Leghorn para construir o local dos Looney Games. Eles logo ficam sobrecarregados com o trabalho e precisam pedir ajuda."
     },
     {
       "show_name": "Batwheels",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_batwheels-s01e31-dupla-di-n-o-mica_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 31 - Dupla Di-Não-Mica",
-      "start_time": "15:35",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_batwheels-s01e32-para-o-batmovel_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 32 - Para o Batmóvel!",
+      "start_time": "15:36",
       "end_time": "15:47",
-      "episode_description": "Snowy e Jestah se unem para realizar um plano misterioso com frutas congeladas raras. Batwing e Buff decidem enfrentar a dupla, mas Batwing tenta realizar a missão sozinha e coloca a si mesma e Buff em perigo."
+      "episode_description": "Todos os Batwheels, com exceção do Bam, desaparecem, e ele pede ajuda a A.D.A.M., o Batmóvel original, para salvar os amigos. Ao enfrentarem a Legião do Zoom juntos, Bam passa a dar valor à forma como o carro antigo luta contra o crime."
     },
     {
       "show_name": "Batwheels",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_batwheels-s02e26_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 26",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_batwheels_l_m.jpg",
+      "show_category": "Children",
       "start_time": "15:47",
-      "end_time": "15:58",
-      "episode_description": "Buff faz um pedido para um artefato mágico para que os outros se transformem em caminhões monstros, assim como ele."
+      "end_time": "15:59",
+      "episode_description": "Bam, Redbird, Bibi, Batwing e Buff aprendem lições importantes sobre trabalho em equipe e amizade, enquanto ajudam Batman, Robin e Batgirl a defenderem Gotham."
     },
     {
       "show_name": "Oi, Duggee!",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_oi-duggee-s04e34-o-distintivo-das-listas_l_m.jpg",
-      "show_category": "Temporada 4 Episódio 34 - O Distintivo das Listas",
-      "start_time": "15:58",
-      "end_time": "16:05",
-      "episode_description": "Duggee escreveu uma lista de atividades para os escoteiros, mas perdeu-a. Depois de aprenderem o que é uma lista, os esquilos querem ajudá-lo."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_oi-duggee-s04e03-o-primeiro-dia-de-roly_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 3 - O Primeiro Dia de Roly",
+      "start_time": "15:59",
+      "end_time": "16:06",
+      "episode_description": "No primeiro dia de Roly, a turma descobre como ele achou sua voz muito alta."
     },
     {
       "show_name": "Oi, Duggee!",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_oi-duggee-s04e20-o-distintivo-da-similaridade_l_m.jpg",
-      "show_category": "Temporada 4 Episódio 20 - O Distintivo da Similaridade",
-      "start_time": "16:05",
-      "end_time": "16:12",
-      "episode_description": "Peggee e os beija-flores viajam rio acima para entregarem um pacote."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_oi-duggee-s04e25-o-distintivo-da-sabedoria_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 25 - Duggee e o Distintivo do Balão",
+      "start_time": "16:06",
+      "end_time": "16:13",
+      "episode_description": "Duggee está enchendo balões para o aniversário de Tino. Os esquilos ficam preocupados pois Tino é um pouco mal-humorado, mas Duggee os convence a irem ver Tino e dar-lhe um monte de balões."
+    },
+    {
+      "show_name": "Hey Duggee",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hey-duggee-s04e39-o-distintivo-da-receita_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 39 - O Distintivo da Receita",
+      "start_time": "16:13",
+      "end_time": "16:21",
+      "episode_description": "Os escoteiros têm fome, mas não sabem o que comer para encher a barriga, por isso pedem ajuda ao Duggee. Felizmente, ele tem o seu livro de receitas."
     },
     {
       "show_name": "Oi, Duggee!",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_oi-duggee-s04e12-o-distintivo-dos-objetos-perdidos_l_m.jpg",
-      "show_category": "Temporada 4 Episódio 12 - O Distintivo dos Objetos Perdidos",
-      "start_time": "16:12",
-      "end_time": "16:20",
-      "episode_description": "Tag se perde no salão dos objetos perdidos do clubinho e os escoteiros precisam encontrá-lo."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_oi-duggee-s04e15-o-distintivo-da-ambic-o_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 15 - O Distintivo da Ambição",
+      "start_time": "16:21",
+      "end_time": "16:28",
+      "episode_description": "Os escoteiros aprendem a realizar todas as suas ambições."
     },
     {
       "show_name": "Oi, Duggee!",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_oi-duggee-s04e26-o-distintivo-do-deslocamento_l_m.jpg",
-      "show_category": "Temporada 4 Episódio 26 - O Distintivo do Deslocamento",
-      "start_time": "16:20",
-      "end_time": "16:27",
-      "episode_description": "Norrie está atrasada para o clubinho, então Duggee ensina aos esquilos o que é um deslocamento: uma jornada que pode levar as pessoas de casa para aprender, trabalhar ou brincar."
-    },
-    {
-      "show_name": "Oi, Duggee!",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_oi-duggee-s04e28-o-distintivo-da-noticia_l_m.jpg",
-      "show_category": "Temporada 4 Episódio 28 - O Distintivo da Notícia",
-      "start_time": "16:27",
-      "end_time": "16:34",
-      "episode_description": "Os escoteiros ficam animados ao descobrirem que Duggee faz seu lote anual de geleia de mirtilo."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_oi-duggee-s04e38-o-distintivo-da-natureza_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 38 - O Distintivo da Natureza",
+      "start_time": "16:28",
+      "end_time": "16:35",
+      "episode_description": "Os escoteiros estão animados para aprender mais sobre a natureza e descobrem como o fazer de forma responsável com os cinco passos fáceis de Duggee."
     },
     {
       "show_name": "Minibods",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_minibods_l_m.jpg",
       "show_category": "Children",
-      "start_time": "16:34",
-      "end_time": "16:42",
-      "episode_description": "Bubbles e Lulu fazem um espetáculo. Bubbles supera medo de palco para se apresentar para amigos."
+      "start_time": "16:35",
+      "end_time": "16:43",
+      "episode_description": "Seis amiguinhos peludos promovem o caos e transformam situações cotidianas em eventos bobos."
     },
     {
       "show_name": "Minibods",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_minibods_l_m.jpg",
-      "show_category": "Children",
-      "start_time": "16:42",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_minibods-s01e36_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 36 - Desastre no Dia do Sorteio",
+      "start_time": "16:43",
       "end_time": "16:50",
-      "episode_description": "Bubbles e Lulu fazem um espetáculo. Bubbles supera medo de palco para se apresentar para amigos."
+      "episode_description": "Newt desenha uma flor trombeta em seu bloco de desenho, mas acaba amassando."
     },
     {
       "show_name": "Minibods",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_minibods-s01e20-panico-do-ursinho-de-pelucia_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 20 - Pânico do Ursinho de Pelúcia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_minibods_l_m.jpg",
+      "show_category": "Children",
       "start_time": "16:50",
-      "end_time": "16:57",
-      "episode_description": "Pogo acidentalmente destrói a cobertura em forma de ursinho de pelúcia de Newt e tenta consertá-la antes que a amiga descubra."
+      "end_time": "16:58",
+      "episode_description": "Seis amiguinhos peludos promovem o caos e transformam situações cotidianas em eventos bobos."
     },
     {
       "show_name": "Blippi",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_blippi_l_m.jpg",
       "show_category": "Children",
-      "start_time": "16:57",
-      "end_time": "17:10",
+      "start_time": "16:58",
+      "end_time": "17:11",
       "episode_description": "É hora de dizer Abracadabra. Blippi aprende truques incríveis com um mágico poderoso."
     },
     {
       "show_name": "Perninha em Obras",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_perninha-em-obras-s01e14_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 14 - Garagem Mal-Assombrada",
-      "start_time": "17:10",
-      "end_time": "17:14",
-      "episode_description": "É Halloween, então a turma decora a garagem para o feriado."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_perninha-em-obras_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "17:11",
+      "end_time": "17:15",
+      "episode_description": "A turma brinca de pique-esconde no quartel general e Piu-Piu é quem está procurando."
+    },
+    {
+      "show_name": "Mundo Bita - Imagine-se",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mundo-bita-imagine-se-s01e03-festa-no-escuro_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3 - Festa no Escuro",
+      "start_time": "17:15",
+      "end_time": "17:22",
+      "episode_description": "No Mundo Bita, Pipa procura objetos no porão escuro e Pepe resiste em entrar no local; no planeta Terra, Dan precisa entrar na garagem escura para pegar sua bola; no Mundo da Imaginação, Bita guia as crianças em uma aventura."
+    },
+    {
+      "show_name": "Mundo Bita - Imagine-se",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mundo-bita-imagine-se-s01e01-meu-seu-nosso_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - Meu, Seu, Nosso",
+      "start_time": "17:22",
+      "end_time": "17:29",
+      "episode_description": "No Mundo Bita, Pipa e Pepe querem cuidar das plantas e disputam o regador; na Terra, a aula de música das crianças é interrompida; no Mundo da Imaginação, as crianças fazem um show animado para o bicho-papão Bóris."
+    },
+    {
+      "show_name": "Cosmo - O Cosmonauta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cosmo-o-cosmonauta_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "17:29",
+      "end_time": "17:36",
+      "episode_description": "Cosmo é um garoto comum, que adoraria ter um bichinho de estimação, mas o regulamento de seu prédio não permite. Assim, ele embarca em uma aventura intergaláctica em busca de uma criatura com quem possa dividir seu beliche."
+    },
+    {
+      "show_name": "Cosmo - O Cosmonauta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cosmo-o-cosmonauta_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "17:36",
+      "end_time": "17:43",
+      "episode_description": "Cosmo é um garoto comum, que adoraria ter um bichinho de estimação, mas o regulamento de seu prédio não permite. Assim, ele embarca em uma aventura intergaláctica em busca de uma criatura com quem possa dividir seu beliche."
+    },
+    {
+      "show_name": "Hey Fuzzy Yellow",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hey-fuzzy-yellow-s01e14-festa-do-pijama_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 14 - Festa do Pijama",
+      "start_time": "17:43",
+      "end_time": "17:54",
+      "episode_description": "Fuzzy Yellow está muito animado para dormir em uma festa do pijama. Os amigos o convencem a se acalmar observando as estrelas. Porém, a noite não está nada calma."
+    },
+    {
+      "show_name": "Hey Fuzzy Yellow",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hey-fuzzy-yellow-s01e12-o-resgate-do-livro-espirrador_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 12 - O Resgate do Livro Espirrador",
+      "start_time": "17:54",
+      "end_time": "18:06",
+      "episode_description": "Fuzzy Yellow precisa resgatar Bao Bao de uma árvore e XYZ fornece um corcel nobre para ajudar. Porém, não é um corcel fácil de controlar."
+    },
+    {
+      "show_name": "Perninha em Obras",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_perninha-em-obras-s02e36-hora-do-surf_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 36 - Hora do Surf",
+      "start_time": "18:06",
+      "end_time": "18:17",
+      "episode_description": "Os Looney Builders são contratados para construir um ponto de encontro na Austrália para uma competição de surfe. Perninha e Patolino querem competir, mas estão um pouco despreparados. Taz se oferece para ensiná-los."
+    },
+    {
+      "show_name": "Perninha em Obras",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_perninha-em-obras-s02e33_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 33 - A Casa de Diversões do Dodô",
+      "start_time": "18:17",
+      "end_time": "18:28",
+      "episode_description": "Yoyo Dodo contrata a turma de Perninha em Obras para construir uma casa de diversões para Looneyburg. A equipe pensa que ele está brincando enquanto trabalham, mas logo descobrem que não entenderam o que Yoyo realmente quer."
+    },
+    {
+      "show_name": "Batwheels",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_batwheels-s02e11_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 11",
+      "start_time": "18:28",
+      "end_time": "18:50",
+      "episode_description": "A legião de Zoom assume o controle da batcaverna de T-Rex e MOE cria um bat-robô gigante."
+    },
+    {
+      "show_name": "Batwheels",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_batwheels-s01e11_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 11 - Morcego Assustado",
+      "start_time": "18:50",
+      "end_time": "19:01",
+      "episode_description": "Batman se recusa a envolver Coringa em uma corrida, e Prank incita Bam a uma revanche; Bam tem que aprender a não ceder aos desafios do valentão e seguir o caminho certo."
+    },
+    {
+      "show_name": "Mundo Bita - Imagine-se",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mundo-bita-imagine-se-s01e02-mesmo-longe-sempre-perto_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Mesmo Longe, Sempre Perto",
+      "start_time": "19:01",
+      "end_time": "19:08",
+      "episode_description": "Bita volta de viagem no Mundo Bita trazendo frutas para Pipa e Pepe matarem a saudade do Planeta Circo; na Terra, Dan não consegue se despedir de Joca; no Mundo da Imaginação, as crianças fazem uma viagem especial."
     },
     {
       "show_name": "Mundo Bita - Imagine-se",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_mundo-bita-imagine-se-s01e07-tem-hora-pra-tudo_l_m.jpg",
       "show_category": "Temporada 1 Episódio 7 - Tem Hora pra Tudo",
-      "start_time": "17:14",
-      "end_time": "17:21",
+      "start_time": "19:08",
+      "end_time": "19:15",
       "episode_description": "No Mundo Bita, Pipa pega o álbum de figurinhas de Pepe; no planeta Terra, Tina, Lila e Tito acionam os bigodes mágicos para tirar Dan do videogame; no Mundo da Imaginação, Dan precisa passar por um circuito tecnológico."
     },
     {
-      "show_name": "Mundo Bita - Imagine-se",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_mundo-bita-imagine-se-s01e04-que-nem-gigante_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 4 - Que nem Gigante",
-      "start_time": "17:21",
-      "end_time": "17:28",
-      "episode_description": "No Mundo Bita, Pipa traz um ingrediente diferente para a macarronada do Bita, fazendo Pepe comer cenoura; no planeta Terra, Flora recebe a turminha; no Mundo da Imaginação, Lila é guiada pelo Bita em uma aventura gastronômica."
+      "show_name": "Pocoyo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pocoyo-s05e18-bobagens_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 18 - Bobagens",
+      "start_time": "19:15",
+      "end_time": "19:22",
+      "episode_description": "Uma migalhinha provoca uma briga entre Sonequita e Valentina. Pocoyo e seus amigos tentam ajudar, mas o problema não é tão pequeno como pensavam."
     },
     {
-      "show_name": "Cosmo - O Cosmonauta",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cosmo-o-cosmonauta_l_m.jpg",
+      "show_name": "Pocoyo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pocoyo_l_m.jpg",
       "show_category": "Children",
-      "start_time": "17:28",
-      "end_time": "17:35",
-      "episode_description": "Durante uma chuva de meteoros, Cosmo encontra uma nave danificada."
-    },
-    {
-      "show_name": "Cosmo - O Cosmonauta",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cosmo-o-cosmonauta_l_m.jpg",
-      "show_category": "Children",
-      "start_time": "17:35",
-      "end_time": "17:42",
-      "episode_description": "Durante uma chuva de meteoros, Cosmo encontra uma nave danificada."
-    },
-    {
-      "show_name": "Hey Fuzzy Yellow",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_hey-fuzzy-yellow-s01e06-observando-as-nuvens_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 6 - Observando as Nuvens",
-      "start_time": "17:42",
-      "end_time": "17:53",
-      "episode_description": "Fuzzy Yellow e seus amigos brincam de \"Tire uma dança do chapéu\", mas Moon se preocupa em não ser um dançarino bom o suficiente."
-    },
-    {
-      "show_name": "Hey Fuzzy Yellow",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_hey-fuzzy-yellow-s01e19-samambaia-da-vovo_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 19 - Samambaia da Vovó",
-      "start_time": "17:53",
-      "end_time": "18:04",
-      "episode_description": "Fuzzy Yellow constrói uma casa para morcegos e cuida de uma samambaia em vaso para a Vovó. Quando a samambaia fica doente, os amigos ajudam Fuzzy Yellow a revivê-la."
-    },
-    {
-      "show_name": "Perninha em Obras",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_perninha-em-obras-s01e29-luz-brilhante_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 29 - Luz Brilhante",
-      "start_time": "18:04",
-      "end_time": "18:16",
-      "episode_description": "O Prefeito Frangolino contrata os Looney Builders para construir um farol para Looneyburg, mas o tablet de Lola quebra e ela precisa confiar em si mesma."
-    },
-    {
-      "show_name": "Perninha em Obras",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_perninha-em-obras-s01e26-a-estrela-do-mar_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 26 - A Estrela do Mar",
-      "start_time": "18:16",
-      "end_time": "18:27",
-      "episode_description": "Moxie Manatee contrata os Looney Builders para construir uma pista de obstáculos para os Jogos da Pré-escola Sandy Shells, mas Lola não dá ouvidos à equipe."
-    },
-    {
-      "show_name": "Batwheels",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_batwheels-s03e04-sizzie-strong_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 4 - Sizzie Strong",
-      "start_time": "18:27",
-      "end_time": "18:39",
-      "episode_description": "Bibi e Batgirl ficam surpresas ao encontrar Harley e Jestah no show de sua estrela pop favorita, e agora elas precisam se unir para salvar o espetáculo."
-    },
-    {
-      "show_name": "Batwheels",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_batwheels-s01e14-le-concours-de-petarades_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 14 - Arranque e Desarranque",
-      "start_time": "18:39",
-      "end_time": "18:50",
-      "episode_description": "Redbird sacrifica sua tecnologia de silenciador furtivo para soar tão alto quanto os outros Batwheels, mas suas modificações saem pela culatra, quando Robin precisa de suas habilidades furtivas para pegar a ardilosa Mulher-Gato."
-    },
-    {
-      "show_name": "Batwheels",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_batwheels-s01e25-motocas-so-querem-se-divertir_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 25 - Motocas Só Querem se Divertir",
-      "start_time": "18:50",
-      "end_time": "19:01",
-      "episode_description": "Bibi quer viver de forma divertida como Jestah e decide quebrar todas as regras. Mas suas ações colocam Batgirl em perigo e Bibi precisa deixar a curtição de lado para lutar contra Arlequina."
-    },
-    {
-      "show_name": "Mundo Bita - Imagine-se",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_mundo-bita-imagine-se-s02e07-pedir-desculpas_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 7 - Pedir Desculpas",
-      "start_time": "19:01",
-      "end_time": "19:08",
-      "episode_description": "No Mundo Bita, Pepe irrita Pipa com suas brincadeiras; no Planeta Terra, Lila e Tito se desentendem devido ao boneco Billy; no Mundo da Imaginação, Bita ajuda Tito a refletir e encontrar uma solução para um problema."
-    },
-    {
-      "show_name": "Mundo Bita - Imagine-se",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_mundo-bita-imagine-se-s02e09-adeus-querida-chupeta_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 9 - Adeus, Querida Chupeta",
-      "start_time": "19:08",
-      "end_time": "19:16",
-      "episode_description": "Pepe não larga o tablet por causa do joguinho e Tina é desafiada por Tito a dar adeus à chupeta."
+      "start_time": "19:22",
+      "end_time": "19:29",
+      "episode_description": "Pocoyo e Nina tentam encontrar algumas invenções para ganhar tempo."
     },
     {
       "show_name": "Pocoyo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_pocoyo-s03e45-o-circo_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 45 - O Circo",
-      "start_time": "19:16",
-      "end_time": "19:23",
-      "episode_description": "Pocoyo, Pato e Elly montam um circo. Mas na hora do espetáculo, eles não estão muito coordenados."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pocoyo-s05e36-dakumentario_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 36 - Dakumentario",
+      "start_time": "19:29",
+      "end_time": "19:37",
+      "episode_description": "Pato busca se encaixar imitando outros patos, mas acaba perdendo sua identidade, levando-o a refletir sobre autoaceitação."
     },
     {
       "show_name": "Pocoyo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_pocoyo-s05e01-o-brilho_l_m.jpg",
-      "show_category": "Temporada 5 Episódio 1 - O Brilho",
-      "start_time": "19:23",
-      "end_time": "19:30",
-      "episode_description": "Pocoyo e Pato investigam uma coisa estranha e brilhante que está sobrevoando ao redor deles. O narrador fica com medo de que seja o começo de uma invasão robótica."
-    },
-    {
-      "show_name": "Pocoyo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_pocoyo-s05e38-priszilla_l_m.jpg",
-      "show_category": "Temporada 5 Episódio 38 - Priszilla",
-      "start_time": "19:30",
-      "end_time": "19:38",
-      "episode_description": "Priscilla quer viver um filme de ação e os amigos criam uma cidade inflável. Mas a brincadeira foge do controle."
-    },
-    {
-      "show_name": "Pocoyo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_pocoyo-s05e39-priszilla_l_m.jpg",
-      "show_category": "Temporada 5 Episódio 39 - Priszilla",
-      "start_time": "19:38",
-      "end_time": "19:45",
-      "episode_description": "Priszilla quer viver um filme de ação e os amigos criam uma cidade inflável. Mas a brincadeira foge do controle."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pocoyo-s04e26-calamidade-virtual_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 26 - Que Comece o Jogo",
+      "start_time": "19:37",
+      "end_time": "19:44",
+      "episode_description": "O marciano furioso rapta a boneca de Elly, que pede ajuda a Pocoyo. Ele transforma o resgate em um videogame, com fase final e tudo."
     },
     {
       "show_name": "Cuquín",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cuquin-s01e03-rodeio_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 3 - Rodeio",
-      "start_time": "19:45",
-      "end_time": "19:51",
-      "episode_description": "Cyan quer usar o chapéu de caubói, mas alguém o pega primeiro. Ele se imagina em um rodeio no velho oeste, onde outro chapéu de caubói o aguarda. Mas, para ganhá-lo, Cyan deve encontrar coragem para montar um dinossauro selvagem."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cuquin-s01e16-boneco-de-neve_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 16 - Boneco de Neve",
+      "start_time": "19:44",
+      "end_time": "19:50",
+      "episode_description": "Cyan quer fazer um boneco de neve, mas neva muito para ficar do lado de fora. Ele se imagina em uma paisagem nevada, onde ele e seus amigos fazem um boneco de neve. No entanto, gemidos horríveis e uma chuva de bolas de neve interrompem o plano."
     },
     {
       "show_name": "Cuquín",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cuquin-s01e15-arte-no-parque_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 15 - Arte no Parque",
-      "start_time": "19:51",
-      "end_time": "19:58",
-      "episode_description": "Clementina sente fome e quer uma brilhante maçã vermelha, mas não é hora do lanche ainda. Ela imagina a maçã em um pódio, em uma galeria de arte. Mas quando ela e seus amigos tentam pegá-la, o segurança Robi os impede."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cuquin-s02e12-mascara_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 12 - Máscara",
+      "start_time": "19:50",
+      "end_time": "19:56",
+      "episode_description": "Clementina não sabe o que pintar na sua máscara. Os seus amigos ajudam-na a experimentar várias máscaras de animais para ver como ficam nela. Nenhuma a convence, até que ela vê todas as máscaras juntas."
+    },
+    {
+      "show_name": "Cuquín",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cuquin-s02e13-novo-na-classe_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 13 - Novo na Classe",
+      "start_time": "19:56",
+      "end_time": "20:03",
+      "episode_description": "Uma criança nova chega à creche com interesses semelhantes aos de Cyan, o que faz com ele se sinta deslocado. Ao procurar ossos de dinossauro, Cyan torna-se competitivo, mas, na hora da verdade, percebe que Leo é um amigo."
     },
     {
       "show_name": "Lu e Seus Amigos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lu-e-seus-amigos_l_m.jpg",
-      "show_category": "Children",
-      "start_time": "19:58",
-      "end_time": "20:21",
-      "episode_description": "Lu não vê a hora de comemorar o Natal dos Bichinhos com seus amigos e sua família."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lu-e-seus-amigos-s01e40_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 40 - Estourando Bolhas",
+      "start_time": "20:03",
+      "end_time": "20:11",
+      "episode_description": "Lu e Barnaby brincam com bolhas de sabão. Barnaby sopra e Lu as estoura. Lu também tenta soprar, mas falha e perde o interesse. Barnaby tenta dominar as duas tarefas."
     },
     {
       "show_name": "Lu e Seus Amigos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lu-e-seus-amigos-s01e73_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 73 - Linhas Crescentes",
-      "start_time": "20:21",
-      "end_time": "20:29",
-      "episode_description": "Lu chateia Grace ao não seguir suas instruções."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lu-e-seus-amigos-s01e37-pinguinvor_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 37 - Pinguinvor!",
+      "start_time": "20:11",
+      "end_time": "20:19",
+      "episode_description": "Lu decide vender uns brinquedos; Declan causa um alvoroço quando decide não dizer mais \"por favor\"."
+    },
+    {
+      "show_name": "Lu e Seus Amigos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lu-e-seus-amigos-s01e75_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 75 - Formatura da Elodie",
+      "start_time": "20:19",
+      "end_time": "20:27",
+      "episode_description": "Os insetos celebram com Elodie seu último dia na Shell School."
+    },
+    {
+      "show_name": "Lu e Seus Amigos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lu-e-seus-amigos-s01e47_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 47 - Me Pergunta Primeiro",
+      "start_time": "20:27",
+      "end_time": "20:35",
+      "episode_description": "Lu se chateia com Barnaby após ele compartilhar alguns dos seus doces com Dermot, Dara e Declan sem pedir permissão primeiro, especialmente quando eles comem o doce que Lu mais queria."
     },
     {
       "show_name": "A Casa Mágica da Gabby",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-casa-magica-da-gabby-s08e05-caca-ao-tesouro-da-casa-magica_l_m.jpg",
-      "show_category": "Temporada 8 Episódio 5 - Caça ao Tesouro da Casa Mágica",
-      "start_time": "20:29",
-      "end_time": "20:53",
-      "episode_description": "Gabby e Pandy seguem pistas e resolvem enigmas na maravilhosa Caça ao Tesouro da Casa Mágica."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-casa-magica-da-gabby-s02e03-festa-do-pijama-da-kitty-fada_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 3 - O Safári da Casa Mágica",
+      "start_time": "20:35",
+      "end_time": "20:58",
+      "episode_description": "Gabby, Pandy e a turminha vão a um safári e trabalham juntos para encontrar um animal misterioso."
     },
     {
       "show_name": "Perninha em Obras",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_perninha-em-obras-s01e05-a-casa-gelada_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 5 - A Casa Gelada",
-      "start_time": "20:53",
-      "end_time": "21:04",
-      "episode_description": "Os construtores são chamados para erguer uma casa de pinguim. Lola descobre que erraram no design."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_perninha-em-obras-s02e36-hora-do-surf_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 36 - Hora do Surf",
+      "start_time": "20:58",
+      "end_time": "21:10",
+      "episode_description": "Os Looney Builders são contratados para construir um ponto de encontro na Austrália para uma competição de surfe. Perninha e Patolino querem competir, mas estão um pouco despreparados. Taz se oferece para ensiná-los."
     },
     {
       "show_name": "Perninha em Obras",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_perninha-em-obras-s01e29-luz-brilhante_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 29 - Luz Brilhante",
-      "start_time": "21:04",
-      "end_time": "21:15",
-      "episode_description": "O Prefeito Frangolino contrata os Looney Builders para construir um farol para Looneyburg, mas o tablet de Lola quebra e ela precisa confiar em si mesma."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_perninha-em-obras-s02e33_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 33 - A Casa de Diversões do Dodô",
+      "start_time": "21:10",
+      "end_time": "21:22",
+      "episode_description": "Yoyo Dodo contrata a turma de Perninha em Obras para construir uma casa de diversões para Looneyburg. A equipe pensa que ele está brincando enquanto trabalham, mas logo descobrem que não entenderam o que Yoyo realmente quer."
     },
     {
       "show_name": "Perninha em Obras",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_perninha-em-obras-s02e39-o-show-dos-fantoches_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 39 - O Show dos Fantoches",
-      "start_time": "21:15",
-      "end_time": "21:27",
-      "episode_description": "A equipe é contratada por Parth Peacock para construir marionetes e um palco de marionetes na Índia."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_perninha-em-obras-s01e32-pista-de-skate_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 32 - Pista de Skate",
+      "start_time": "21:22",
+      "end_time": "21:33",
+      "episode_description": "Os Looney Builders constroem uma pista de skate para as crianças, mas isso logo interfere nas atividades de Hoots Talon e seus amigos."
     },
     {
       "show_name": "Perninha em Obras",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_perninha-em-obras-s02e30-a-casa-da-bruxa_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 30 - A Casa da Bruxa",
-      "start_time": "21:27",
-      "end_time": "21:39",
-      "episode_description": "É Halloween e a turma do Looney tenta deixar a casa da bruxa Hazel mais assustadora; eles usam coisas mágicas e ficam encantados."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_perninha-em-obras-s01e01-o-toboagua_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - O Toboágua",
+      "start_time": "21:33",
+      "end_time": "21:44",
+      "episode_description": "O prefeito Frangolino contrata os Looney Builders para construir um toboágua gigante no parque aquático de Looneyburg. Com o apoio de Pernalonga, ele faz muitas alterações nos planos iniciais, até que os problemas começam a surgir."
     },
     {
       "show_name": "Perninha em Obras",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_perninha-em-obras-s01e26-a-estrela-do-mar_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 26 - A Estrela do Mar",
-      "start_time": "21:39",
-      "end_time": "21:50",
-      "episode_description": "Moxie Manatee contrata os Looney Builders para construir uma pista de obstáculos para os Jogos da Pré-escola Sandy Shells, mas Lola não dá ouvidos à equipe."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_perninha-em-obras-s01e07-correndo-na-pista_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 7 - Correndo na Pista",
+      "start_time": "21:44",
+      "end_time": "21:56",
+      "episode_description": "Os Looney Builders correm contra o tempo para construir uma nova pista para Cecil Tartaruga. Patolino fica morrendo de vontade de apostar corrida e modifica parte do circuito."
     },
     {
-      "show_name": "Perninha em Obras",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_perninha-em-obras-s01e22-prima-billy_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 22 - Prima Billy",
-      "start_time": "21:50",
-      "end_time": "22:01",
-      "episode_description": "A prima legal de Patolino, Billy, contrata os Looney Builders para construir um estúdio de arte. Mas Patolino começa a se exibir para provar que é descolado também."
+      "show_name": "Batwheels",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_batwheels-s03e01-gotham-temos-um-problema_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 1 - Gotham, Temos um Problema",
+      "start_time": "21:56",
+      "end_time": "22:17",
+      "episode_description": "Computador Malvado ativa seu próprio satélite e assume o controle de todos os computadores da Terra."
+    },
+    {
+      "show_name": "Batwheels",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_batwheels-s01e11_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 11 - Morcego Assustado",
+      "start_time": "22:17",
+      "end_time": "22:29",
+      "episode_description": "Batman se recusa a envolver Coringa em uma corrida, e Prank incita Bam a uma revanche; Bam tem que aprender a não ceder aos desafios do valentão e seguir o caminho certo."
     },
     {
       "show_name": "Batwheels",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_batwheels-s03e04-sizzie-strong_l_m.jpg",
       "show_category": "Temporada 3 Episódio 4 - Sizzie Strong",
-      "start_time": "22:01",
-      "end_time": "22:13",
+      "start_time": "22:29",
+      "end_time": "22:41",
       "episode_description": "Bibi e Batgirl ficam surpresas ao encontrar Harley e Jestah no show de sua estrela pop favorita, e agora elas precisam se unir para salvar o espetáculo."
     },
     {
       "show_name": "Batwheels",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_batwheels-s01e14-le-concours-de-petarades_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 14 - Arranque e Desarranque",
-      "start_time": "22:13",
-      "end_time": "22:25",
-      "episode_description": "Redbird sacrifica sua tecnologia de silenciador furtivo para soar tão alto quanto os outros Batwheels, mas suas modificações saem pela culatra, quando Robin precisa de suas habilidades furtivas para pegar a ardilosa Mulher-Gato."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_batwheels-s02e10-multi-meca_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 10 - Multi-Meca",
+      "start_time": "22:41",
+      "end_time": "22:52",
+      "episode_description": "Os Batwheels usam sua máquina duplicadora para fazer cópias de seu bot de reparo e aliviar o fardo do MOE, mas a Batcaverna é invadida quando a máquina quebra."
     },
     {
       "show_name": "Batwheels",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_batwheels-s02e17-um-buff-miudinho_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 17 - Um Buff Miudinho",
-      "start_time": "22:25",
-      "end_time": "22:36",
-      "episode_description": "Buff usa cinto de encolher de Elétron e acidentalmente se encolhe até ficar do tamanho de um rato."
-    },
-    {
-      "show_name": "Batwheels",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_batwheels-s01e05-rebobinando-a-bibi_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 5 - Rebobinando a Bibi",
-      "start_time": "22:36",
-      "end_time": "22:48",
-      "episode_description": "Todos ficam animados após Bibi, Batgirl e Robin capturarem o Homem-Brinquedo e seu botão de Refazer. Exceto pela própria Bibi, que fica envergonhada por não ter feito uma boa aterrissagem durante a perseguição."
-    },
-    {
-      "show_name": "Batwheels",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_batwheels-s01e13-bande-de-vroums_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 13 - O Dia do Zoom",
-      "start_time": "22:48",
-      "end_time": "22:59",
-      "episode_description": "A Legião do Zoom está cansada de sempre perder. Eles decidem imitar os Batwheels e trabalham em equipe para realizar um assalto ousado, mas é uma questão saber se eles conseguem de fato trabalhar juntos."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_batwheels-s01e30_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 30 - Rolê Improvisado",
+      "start_time": "22:52",
+      "end_time": "23:03",
+      "episode_description": "A Hera Venenosa quebra o gancho de confiança do Buff, e ele precisa aprender a improvisar e pensar em soluções criativas na hora."
     },
     {
       "show_name": "Lucas, a Aranha",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lucas-a-aranha-s01e22-aranha-nova-na-area_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 22 - Aranha Nova na Área",
-      "start_time": "22:59",
-      "end_time": "23:06",
-      "episode_description": "Lucas faz amizade com uma aranha de brinquedo roxa e Findley fica com ciúmes."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lucas-a-aranha-s01e59_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 59 - Risadinhas",
+      "start_time": "23:03",
+      "end_time": "23:11",
+      "episode_description": "Lucas e Findley riem de um acidente de Arlo. Eles se desculpam, mas Arlo interpreta mal a mensagem e começa a rir dos infortúnios de seus outros amigos."
+    },
+    {
+      "show_name": "Lucas, a Aranha",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lucas-a-aranha-s01e77_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 77 - Lucas, o Pirata",
+      "start_time": "23:11",
+      "end_time": "23:18",
+      "episode_description": "Lucas e Findley partem em uma aventura pirata."
+    },
+    {
+      "show_name": "Lucas, a Aranha",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lucas-a-aranha-s01e40-amigos-espinhosos_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 40 - Amigos Espinhosos",
+      "start_time": "23:18",
+      "end_time": "23:26",
+      "episode_description": "Lucas e Arlo jogam juntos. Arlo torna-se muito competitivo e Lucas faz nova amizade com um cacto."
     },
     {
       "show_name": "Lucas, a Aranha",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_lucas-a-aranha-s01e64_l_m.jpg",
       "show_category": "Temporada 1 Episódio 64 - Lucas, Findley e a Formiga",
-      "start_time": "23:06",
-      "end_time": "23:14",
+      "start_time": "23:26",
+      "end_time": "23:34",
       "episode_description": "Os heróis artrópodes encontram uma formiga bebê perdida e procuram reuni-la com sua família; Lucas e Findley logo descobrem que a formiga malandra não quer ser encontrada."
     },
     {
       "show_name": "Lucas, a Aranha",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lucas-a-aranha-s01e45-arlo-e-a-cobra_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 45 - Arlo e a Cobra",
-      "start_time": "23:14",
-      "end_time": "23:21",
-      "episode_description": "Lucas tenta convencer Arlo de que a mangueira do jardim não é uma cobra."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lucas-a-aranha-s01e61_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 61 - Grand Prix em Casa",
+      "start_time": "23:34",
+      "end_time": "23:41",
+      "episode_description": "Lucas e Findley correm pela casa para decidir quem é o mais rápido; Lucas vai para o céu em um avião de papel enquanto Findley vai para a estrada no carro de Lucas."
     },
     {
       "show_name": "Lucas, a Aranha",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lucas-a-aranha-s01e50-a-coruja-que-perguntava-por-que_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 50 - A Coruja que Perguntava Por Quê?",
-      "start_time": "23:21",
-      "end_time": "23:29",
-      "episode_description": "Arlo faz perguntas a Lucas, que pede para ele parar, até perceber que é importante ter paciência."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lucas-a-aranha-s01e18-o-dia-ruim-do-findley_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 18 - O Dia Ruim do Findley",
+      "start_time": "23:41",
+      "end_time": "23:49",
+      "episode_description": "Findley está convencido de que House quer o pegar."
     },
     {
       "show_name": "Lucas, a Aranha",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lucas-a-aranha-s01e54_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 54 - Luz e Bum",
-      "start_time": "23:29",
-      "end_time": "23:37",
-      "episode_description": "Lucas e Findley ficam nervosos com os raios e trovões do outro lado da janela, mas Arlo os conforta."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lucas-a-aranha-s01e02-aranha-saltadora-1_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Aranha Saltadora",
+      "start_time": "23:49",
+      "end_time": "23:56",
+      "episode_description": "Findley diz a Lucas que seu salto não é muito longo ou alto, levando Lucas a aumentar os obstáculos pulando cada vez mais alto em saltos mais desafiadores; Findley repete seu comentário e deseja que Lucas não pule tão longe."
     },
     {
       "show_name": "Lucas, a Aranha",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lucas-a-aranha-s01e75_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 75 - Esperando a Maizie",
-      "start_time": "23:37",
-      "end_time": "23:44",
-      "episode_description": "A primavera finalmente chegou e Maizie retorna ao jardim após sua hibernação de inverno."
-    },
-    {
-      "show_name": "Lucas, a Aranha",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lucas-a-aranha-s01e38-contemplando-as-nuvens_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 38 - Contemplando as Nuvens",
-      "start_time": "23:44",
-      "end_time": "23:51",
-      "episode_description": "Lucas, Arlo e Findley têm um dia de faz-de-conta observando as nuvens."
-    },
-    {
-      "show_name": "Lucas, a Aranha",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lucas-a-aranha-s01e04-n-o-toque-no-robo_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 4 - Não Toque no Robô",
-      "start_time": "23:51",
-      "end_time": "23:59",
-      "episode_description": "Lucas toca um robô em uma prateleira e aciona o mecanismo de um relógio."
-    },
-    {
-      "show_name": "Pocoyo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_pocoyo-s03e21-cozinhando-com-elly_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 21 - Cozinhando com Elly",
-      "start_time": "23:59",
-      "end_time": "00:06",
-      "episode_description": "Elly acaba de fazer um bolo de aniversário para Lagarta. Pocoyo e Pato aparecem e derrubam o bolo no chão. Agora os três precisam assar outro."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lucas-a-aranha-s01e21-voce-fala-dances_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 21 - Você Fala Dancês?",
+      "start_time": "23:56",
+      "end_time": "00:03",
+      "episode_description": "Maizie continua ignorando Lucas e Findley, mas eles descobrem que ela tem um primo."
     }
   ]
 }

@@ -1,246 +1,222 @@
 {
   "channel": "Discovery Home & Health",
-  "date": "12/03/2026",
+  "date": "13/03/2026",
   "schedule": [
     {
+      "show_name": "Meus Pés Estão me Matando",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_meus-pes-est-o-me-matando-s02e01_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 1 - Pé de Colmeia",
+      "start_time": "00:20",
+      "end_time": "01:09",
+      "episode_description": "A habilidade da doutora Ebonie é testada ao tentar diagnosticar um paciente com os pés cobertos de nódulos enormes; o doutor Brad tenta decifrar um caso perigoso e misterioso, que pode estar ligado à pele fina."
+    },
+    {
       "show_name": "Quilos Mortais",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quilos-mortais-s05e04-kirsten_l_m.jpg",
-      "show_category": "Temporada 5 Episódio 4 - Kirsten",
-      "start_time": "00:09",
-      "end_time": "01:47",
-      "episode_description": "Com mais de 270 quilos, Kirsten está quase perdendo a mobilidade. Enquanto tenta controlar a obesidade, ela também corre o risco de perder a confiança de seu único filho."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quilos-mortais-s02e05-a-historia-de-christina_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 5 - A História de Christina",
+      "start_time": "01:09",
+      "end_time": "01:57",
+      "episode_description": "Christina, de 22 anos, mora no Mississippi e não sai de casa há dois anos devido a seu tamanho. Sua família a mimou, e ela comeu até chegar a um estado que pode matá-la, se não houver mudanças."
     },
     {
       "show_name": "90 Dias para Casar - Felizes para Sempre?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_90-dias-para-casar-felizes-para-sempre-s06e11-atitude-ou-silencio-1_l_m.jpg",
-      "show_category": "Temporada 6 Episódio 11 - Atitude ou Silêncio",
-      "start_time": "01:47",
-      "end_time": "02:34",
-      "episode_description": "Michael procura Angela após o término; Natalie fica tensa antes da cirurgia; Ronald tenta provar que é um bom pai; a apresentação de Andrei dá errado; Brandon e Julia ganham uma surpresa; Jovi finalmente volta para casa."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_90-dias-para-casar-felizes-para-sempre-s06e12-banho-de-raiva-1_l_m.jpg",
+      "show_category": "Temporada 6 Episódio 12 - Banho de Raiva",
+      "start_time": "01:57",
+      "end_time": "02:44",
+      "episode_description": "Andrei descobre um segredo na reunião de família; Angela consulta uma médium sobre as intenções de Michael; Yara desrespeita a família de Jovi; Mike reclama para Natalie; Kalani teme a visita da família de Asuelu."
     },
     {
       "show_name": "Pesadelo na Cozinha",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_pesadelo-na-cozinha-s01e05_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 5 - Hooker",
-      "start_time": "02:34",
-      "end_time": "04:06",
-      "episode_description": "Na rua Augusta, a hamburgueria Hooker enfrenta problemas. O dono Cézar atribui as dificuldades à inexperiência da equipe, afirmando que seu lanche é o melhor da cidade. Resta saber se o chef Jacquin compartilha dessa opinião."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pesadelo-na-cozinha-s01e06_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 6 - Fina Farina",
+      "start_time": "02:44",
+      "end_time": "04:22",
+      "episode_description": "Erick Jacquin enfrenta um novo desafio no restaurante italiano Fina Farina, situado na Vila Mariana. O proprietário Luciano busca a expertise de Jacquin para elevar a qualidade do estabelecimento."
     },
     {
       "show_name": "Quilos Mortais",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quilos-mortais-s03e03-a-historia-de-pauline_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 3 - A História de Pauline",
-      "start_time": "04:06",
-      "end_time": "04:52",
-      "episode_description": "Com 51 anos de idade, Pauline está passando dos 300 quilos. Seu vício por comida toma todo o tempo da vida de seu filho, que se dedica a cuidar dela. Será que Pauline conseguirá superar o vício, mudar de vida e salvar a vida de ambos?"
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quilos-mortais-s03e06-a-historia-de-joe_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 6 - A História de Joe",
+      "start_time": "04:22",
+      "end_time": "05:11",
+      "episode_description": "Joe tem apenas 30 anos e está preso em um corpo de 360 quilos. Desempregado e praticamente incapaz de sair de casa, ele tenta encontrar forças para superar o passado e salvar sua vida."
     },
     {
       "show_name": "Quilos Mortais",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quilos-mortais-s03e04-a-historia-de-bettie-jo_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 4 - A História de Bettie Jo",
-      "start_time": "04:52",
-      "end_time": "05:38",
-      "episode_description": "Com apenas 24 anos e quase 320 quilos, Bettie Jo depende do marido para as necessidades mais básicas. Ela precisa perder peso, mas seu marido teme que ela o deixe depois de emagrecer."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quilos-mortais-s03e05-a-historia-de-angel_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 5 - A História de Angel",
+      "start_time": "05:11",
+      "end_time": "06:00",
+      "episode_description": "Aos 42 anos e sofrendo de obesidade mórbida, Angel corre risco de morte. Ela tenta adotar hábitos saudáveis e uma atitude positiva para participar mais da vida do marido e dos filhos."
+    },
+    {
+      "show_name": "Reformas Incríveis",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_reformas-incriveis-s03e12-por-o-renovado_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 12 - Quintal Esportivo",
+      "start_time": "06:00",
+      "end_time": "06:22",
+      "episode_description": "Chip Wade projeta um quintal repleto de atividades esportivas com um sofisticado toque italiano."
+    },
+    {
+      "show_name": "Keith & Evan - Reformando com o Coração",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_keith-evan-reformando-com-o-corac-o-s01e06-fazenda-e-escola_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 6 - Fazenda e Escola",
+      "start_time": "06:22",
+      "end_time": "07:11",
+      "episode_description": "Keith e Evan precisam contar cada centavo para as próximas reformas. E eles também vão precisar de muita engenhosidade para dar vida aos projetos de uma casa de fazenda clean e uma escola geométrica."
+    },
+    {
+      "show_name": "Irmãos à Obra - Compra e Venda",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_irm-os-a-obra-compra-e-venda-s04e15-frank-diana-1_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 15 - Frank e Diana",
+      "start_time": "07:11",
+      "end_time": "07:55",
+      "episode_description": "Os irmãos Jonathan e Drew Scott entram em ação para ajudar Frank e Diana. Com a família aumentando, o casal decide que está na hora de procurar uma casa maior. Mas, para isso, eles precisam fazer algumas concessões."
+    },
+    {
+      "show_name": "O Vestido Ideal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-vestido-ideal-s11e07-ate-que-o-vestido-nos-separe_l_m.jpg",
+      "show_category": "Temporada 11 Episódio 7 - Até que o Vestido nos Separe",
+      "start_time": "07:55",
+      "end_time": "08:21",
+      "episode_description": "Depois de perder 45 quilos, Stephanie quer exibir suas novas curvas em um vestido de casamento sexy; Christine procura um vestido branco tradicional para a cerimônia de renovação dos votos."
+    },
+    {
+      "show_name": "O Vestido Ideal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-vestido-ideal-s18e04-parentes-n-o-entram_l_m.jpg",
+      "show_category": "Temporada 18 Episódio 4 - Parentes Não Entram",
+      "start_time": "08:21",
+      "end_time": "09:11",
+      "episode_description": "Kayla procura o vestido dos sonhos ao lado dos parentes, apesar de não ter convidado nenhum deles para o casamento; Dori quer exibir um estilo próprio no grande dia, contrariando os desejos de sua mãe, Mama Dolly."
+    },
+    {
+      "show_name": "90 Dias para Casar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_90-dias-para-casar-s02e03_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 3 - Estou de Olho em Você",
+      "start_time": "09:11",
+      "end_time": "10:00",
+      "episode_description": "Danny perde o primeiro dia de Amy nos Estados Unidos; Justin surpreende os parentes com a notícia de seu noivado; Mohamed conhece o restante da família de Danielle; Daya encontra a filha de Brett."
+    },
+    {
+      "show_name": "90 Dias para Casar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_90-dias-para-casar-s02e04-futuro-incerto_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 4 - Futuro Incerto",
+      "start_time": "10:00",
+      "end_time": "10:50",
+      "episode_description": "Amy confronta Danny sobre sua família autoritária; Jason viaja para o Brasil, sem saber se Cássia irá encontrá-lo; Yamir chega ao país, e os pais de Chelsea têm muitas dúvidas sobre o futuro do casal."
+    },
+    {
+      "show_name": "Os Pequenos Johnstons",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-pequenos-johnstons-s07e07-mundo-pequeno_l_m.jpg",
+      "show_category": "Temporada 7 Episódio 7 - Mundo Pequeno",
+      "start_time": "10:50",
+      "end_time": "11:41",
+      "episode_description": "Os jovens Johnston aproveitam uma semana em São Francisco, em sua conferência anual de pessoas pequenas. Lá, Emma se reúne com seu melhor amigo, Lucca, e Anna arruma um encontro. Problemas surgem, porém, quando a família sofre um ataque público."
+    },
+    {
+      "show_name": "Os Pequenos Johnstons",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-pequenos-johnstons-s07e08-isso-e-estranho_l_m.jpg",
+      "show_category": "Temporada 7 Episódio 8 - Isso É Estranho",
+      "start_time": "11:41",
+      "end_time": "12:32",
+      "episode_description": "A família voltou para casa das duas semanas de férias na Califórnia e o início do ano letivo está se aproximando rapidamente."
+    },
+    {
+      "show_name": "Irmãos à Obra - Lar Sempre Lar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_irm-os-a-obra-lar-sempre-lar-s04e03-unindo-o-velho-ao-novo_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 3 - Unindo o Velho ao Novo",
+      "start_time": "12:32",
+      "end_time": "13:24",
+      "episode_description": "A casa antiga de um casal perdeu o encanto depois de nove anos morando nela com os filhos gêmeos. Drew e Jonathan reformulam o hall de entrada, a sala de estar, a sala de jantar e a cozinha, criando um lar que a família amará por anos."
+    },
+    {
+      "show_name": "100 Dias para Morar - Começando do Zero",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_100-dias-para-morar-comecando-do-zero-s05e06-reformas-desafiadoras_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 6 - Reformas Desafiadoras",
+      "start_time": "13:24",
+      "end_time": "14:16",
+      "episode_description": "Brian e Mika ajudam uma cabeleireira a renovar a casa de sua mãe, enquanto a mãe está na Alemanha. Ela tem um trabalho difícil tentando executar a visão de sua mãe sem a orientação dela e, além disso, precisa morar na casa durante toda a renovação."
+    },
+    {
+      "show_name": "Te Devo Essa! Reforma das Estrelas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_te-devo-essa-reforma-das-estrelas-s05e07-wilmer-valderrama_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 7 - Wilmer Valderrama",
+      "start_time": "14:16",
+      "end_time": "15:08",
+      "episode_description": "Wilmer Valderrama decide retribuir seu ex-segurança e melhor amigo."
+    },
+    {
+      "show_name": "John e Anthony - Reformando Cozinhas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_john-e-anthony-reformando-cozinhas-s02e05-cozinha-nova-em-carmichael_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 5 - Cozinha Nova em Carmichael",
+      "start_time": "15:08",
+      "end_time": "15:33",
+      "episode_description": "John e Anthony visitam Carmichael, Califórnia, para ajudar um casal jovem a transformar sua cozinha. Eles executam uma reforma do piso ao teto em um projeto de conceito aberto, incluindo uma ilha com vários níveis."
     },
     {
       "show_name": "Cozinha dos Sonhos com John e Anthony",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_cozinha-dos-sonhos-com-john-e-anthony-s01e01-beleza-rustica_l_m.jpg",
       "show_category": "Temporada 1 Episódio 1 - Beleza Rústica",
-      "start_time": "05:38",
-      "end_time": "06:00",
+      "start_time": "15:33",
+      "end_time": "15:59",
       "episode_description": "Os primos expõem o piso de tijolos de uma cozinha para revelar a beleza rústica de uma casa de arenito pardo em Hoboken."
     },
     {
-      "show_name": "Reformas Incríveis",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_reformas-incriveis-s03e01-uma-segunda-chance_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 1 - Porão Renovado",
-      "start_time": "06:00",
-      "end_time": "06:22",
-      "episode_description": "Chip Wade transforma um porão cavernoso em uma sala de estar com múltiplos usos para uma família receber visitas em grande estilo."
+      "show_name": "Casa em Obra - Do Pesadelo ao Sonho",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_casa-em-obra-do-pesadelo-ao-sonho-s01e05-reuni-o-do-ensino-medio-que-deu-errado_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 5 - Reunião do Ensino Médio que Deu Errado",
+      "start_time": "15:59",
+      "end_time": "16:50",
+      "episode_description": "O plano de um casal de transformar o porão em um ponto de encontro para os três filhos vira um desastre depois que eles contratam um amigo que desiste do serviço; Rico e sua equipe vão ajudar o atual responsável a concluir o projeto."
     },
     {
-      "show_name": "Nate e Jeremiah - Bem-Vindo ao Lar!",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_nate-e-jeremiah-bem-vindo-ao-lar-s02e08-traga-os-para-casa_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 8 - Traga-os para Casa",
-      "start_time": "06:22",
-      "end_time": "07:11",
-      "episode_description": "Um casal começa um novo capítulo, mas eles enfrentam muitas dificuldades, incluindo um incêndio elétrico que deixou a casa inabitável. Nate e Jeremiah ajudam o casal a deixar o passado para trás e reconstruir sua linda casa."
+      "show_name": "Dr. Now - Diários de Peso",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_dr-now-diarios-de-peso-s01e06-a-historia-de-caleb_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 6 - A História de Caleb",
+      "start_time": "16:50",
+      "end_time": "18:32",
+      "episode_description": "Após presenciar mortes na família, Caleb, de 20 anos e 360 kg, teme pelo seu futuro e busca no Dr. Now a chance de recuperar a saúde antes que seja tarde demais."
     },
     {
-      "show_name": "Irmãos à Obra",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_irm-os-a-obra-s13e09-susy-e-scott_l_m.jpg",
-      "show_category": "Temporada 13 Episódio 9 - Susy e Scott",
-      "start_time": "07:11",
-      "end_time": "07:55",
-      "episode_description": "Para comprar um imóvel maior para a família, Susy e Scott colocam à venda sua casa. A venda rápida do imóvel obriga a família de cinco pessoas a se apertar em um quarto de hotel enquanto procura uma casa mais espaçosa."
-    },
-    {
-      "show_name": "O Vestido Ideal",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-vestido-ideal-s14e14_l_m.jpg",
-      "show_category": "Temporada 14 Episódio 14 - Perspectiva Masculina",
-      "start_time": "07:55",
-      "end_time": "08:21",
-      "episode_description": "O astro da música country Kristian Bush ajuda as amigas de Evyn a escolherem o vestido perfeito para seu casamento em Nashville. Chelsea ainda não se decidiu, apesar de já ter experimentado 70 vestidos."
-    },
-    {
-      "show_name": "O Vestido Ideal",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-vestido-ideal-s11e04-mais-dinheiro-mais-problemas_l_m.jpg",
-      "show_category": "Temporada 11 Episódio 4 - Mais Dinheiro, Mais Problemas",
-      "start_time": "08:21",
-      "end_time": "08:46",
-      "episode_description": "Lauren quer um vestido ultra-sexy para usar na recepção; Dinheiro não é problema para a fashionista Aleshia; Kandice teme que seu vestido feito sob medida não fique perfeito."
-    },
-    {
-      "show_name": "O Vestido Ideal",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-vestido-ideal-s18e07-das-cinzas-ao-altar_l_m.jpg",
-      "show_category": "Temporada 18 Episódio 7 - Das Cinzas ao Altar",
-      "start_time": "08:46",
-      "end_time": "09:35",
-      "episode_description": "Depois de perder seu vestido de noiva nos incêndios florestais da Califórnia, Eryka espera se apaixonar por um novo modelo na Kleinfeld; Shay ajuda Ashley a se sentir sexy depois de perder mais de 45 quilos."
-    },
-    {
-      "show_name": "90 Dias para Casar",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_90-dias-para-casar-s02e01-casais-novos-vidas-novas_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 1 - Casais Novos, Vidas Novas",
-      "start_time": "09:35",
-      "end_time": "10:25",
-      "episode_description": "Com um visto provisório, seis estrangeiros viajam para os Estados Unidos para viver com seu noivo ou noiva pela primeira vez. Eles têm apenas 90 dias para decidir se querem se casar."
-    },
-    {
-      "show_name": "90 Dias para Casar",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_90-dias-para-casar-s02e02-america-cheguei_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 2 - América, Cheguei",
-      "start_time": "10:25",
-      "end_time": "11:15",
-      "episode_description": "Evelin pressiona Justin para apresentá-la à sua família; na festa de despedida de Yamir, seu gerente expõe detalhes de sua vida pessoal; Mohamed conhece o filho cético de Danielle."
-    },
-    {
-      "show_name": "Os Pequenos Johnstons",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-pequenos-johnstons-s07e05-acampamento_l_m.jpg",
-      "show_category": "Temporada 7 Episódio 5 - Acampamento",
-      "start_time": "11:15",
-      "end_time": "12:06",
-      "episode_description": "Os Johnstons acampam no quintal enquanto as reformas estão em andamento, e Amber decide deixar a família sem tecnologia, bloqueando o telefone de todos no fim de semana. Descubra se cinco adolescentes conseguem sobreviver sem tecnologia."
-    },
-    {
-      "show_name": "Os Pequenos Johnstons",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-pequenos-johnstons-s07e06-desafio-do-trailer_l_m.jpg",
-      "show_category": "Temporada 7 Episódio 6 - Desafio do Trailer",
-      "start_time": "12:06",
-      "end_time": "12:58",
-      "episode_description": "Antes que os Johnstons participassem de sua conferência anual de pequenos em San Francisco, Trent e Amber decidem começar a viagem em San Diego dirigindo um trailer."
-    },
-    {
-      "show_name": "Irmãos à Obra - Lar Sempre Lar",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_irm-os-a-obra-lar-sempre-lar-s04e02-tradic-o-de-familia-do-lar-sempre-lar_l_m.jpg",
-      "show_category": "Temporada 4 Episódio 2 - Tradição de Família do Lar Sempre Lar",
-      "start_time": "12:58",
-      "end_time": "13:50",
-      "episode_description": "Um casal adora a ideia de criar os filhos em um lar, sempre lar, mas precisam de soluções para um layout estranho. Drew e Jonathan reformulam os espaços para criar um lar propício para o caos da vida familiar."
-    },
-    {
-      "show_name": "100 Dias para Morar - Começando do Zero",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_100-dias-para-morar-comecando-do-zero-s05e04-campo-de-morangos-dos-sonhos_l_m.jpg",
-      "show_category": "Temporada 5 Episódio 4 - Um Lar Longe de Casa",
-      "start_time": "13:50",
-      "end_time": "14:42",
-      "episode_description": "Brian e Mika encontram a casa de férias dos seus sonhos em Savannah, Geórgia. O sobrado precisa de uma boa reforma para recuperar seu charme histórico, mas a obra traz algumas dores de cabeça."
-    },
-    {
-      "show_name": "Reforma dos Sonhos com os Irmãos Ford",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_reforma-dos-sonhos-com-os-irm-os-ford-s02e09-ossos-velhos-cara-nova_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 9 - Ossos Velhos, Cara Nova",
-      "start_time": "14:42",
-      "end_time": "15:08",
-      "episode_description": "Dois vidreiros chamam Leanne e Steve para transformar a casa tradicional deles em algo contemporâneo. Leanne se inspira com as artes em vidro deles e aceita o desafio, mas o piso e a escada velhos da casa ameaçam o projeto."
-    },
-    {
-      "show_name": "Reforma dos Sonhos com os Irmãos Ford",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_reforma-dos-sonhos-com-os-irm-os-ford-s02e08-casa-espanhola_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 8 - Casa Espanhola",
-      "start_time": "15:08",
-      "end_time": "15:33",
-      "episode_description": "Um casal que comprou uma casa com estilo espanhol contrata Leanne e Steve para fazê-la parecer uma casa de férias. Leanne explora o estilo mediterrâneo do imóvel e eles transformam áreas apertadas em espaços claros."
-    },
-    {
-      "show_name": "Reforma em Família com Karen e Mina",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_reforma-em-familia-com-karen-e-mina-s05e14-a-gloriosa-casa-glamorosa_l_m.jpg",
-      "show_category": "Temporada 5 Episódio 14 - A Gloriosa Casa Glamorosa",
-      "start_time": "15:33",
-      "end_time": "16:24",
-      "episode_description": "Mina e Karen compram um terreno e o que começa como uma operação de lucro rápido vira uma obra para amigos de Mina. Mas um problema persistente de encanamento pode somar tempo e enormes custos ao projeto."
-    },
-    {
-      "show_name": "Salvando Reformas com Jasmine Roth",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_salvando-reformas-com-jasmine-roth-s03e05-em-meio-a-fumaca_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 5 - Em Meio à Fumaça",
-      "start_time": "16:24",
-      "end_time": "17:15",
-      "episode_description": "Faz mais de dois anos que a cozinha de uma família pegou fogo e eles só pedem delivery. Jasmine precisa criar uma cozinha atemporal e transformar esse inferno de casa em uma casa de fazenda contemporânea com conceito aberto."
-    },
-    {
-      "show_name": "Quilos Mortais",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quilos-mortais-s02e04-a-historia-de-chuck_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 4 - A História de Chuck",
-      "start_time": "17:15",
-      "end_time": "18:06",
-      "episode_description": "Chuck descontou na comida a ador de perder a primeira esposa assassinada. Pesando 317 quilos, seu estado chegou ao extremo e ele precisa correr contra o tempo para salvar sua vida, seu novo casamento e ter a oportunidade de ver o filho crescer."
-    },
-    {
-      "show_name": "Quilos Mortais",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quilos-mortais-s05e08-diana_l_m.jpg",
-      "show_category": "Temporada 5 Episódio 8 - Michael",
-      "start_time": "18:06",
+      "show_name": "S.O.S. Restaurante",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_s-o-s-restaurante-s22e07-no-limite_l_m.jpg",
+      "show_category": "Temporada 22 Episódio 7 - No Limite",
+      "start_time": "18:32",
       "end_time": "19:48",
-      "episode_description": "Michael pesa 286 quilos, o que trouxe complicações para toda a família. Se ele não aprender a controlar a compulsão alimentar, perder peso e enfrentar a origem do problema, ele poderá perder tudo."
+      "episode_description": "Robert Irvine enfrenta um desafio em Opelika, Alabama: salvar um restaurante localizado em um posto de gasolina; a saúde da proprietária, Penny, e seu sonho de vida estão se deteriorando, e ela precisa fazer grandes mudanças."
     },
     {
-      "show_name": "Dra. Emma - Uma Questão de Pele",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_dra-emma-uma-quest-o-de-pele-s08e01_l_m.jpg",
-      "show_category": "Temporada 8 Episódio 1",
+      "show_name": "Pesadelo na Cozinha com Gordon Ramsay",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pesadelo-na-cozinha-com-gordon-ramsay-s01e01-bel-aire_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - Bel Aire",
       "start_time": "19:48",
-      "end_time": "20:39",
-      "episode_description": "Chloe, de 19 anos, recebe o diagnóstico de uma grave e dolorosa doença de pele que coloca em risco seu sonho de ser cabeleireira."
+      "end_time": "20:38",
+      "episode_description": "Gordon Ramsay ajuda dois irmãos a resolverem seus conflitos para salvar seus restaurantes."
     },
     {
-      "show_name": "Dr. Pimple Popper: Breaking Out",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_dr-pimple-popper-breaking-out-s01e08_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 8",
-      "start_time": "20:39",
-      "end_time": "21:30",
-      "episode_description": "A Dra. Lee pede à Dra. Zoe que ajude a tratar a pele ressecada de Mary Ann, que tem pavor de agulhas; a mãe de Isaiah está preocupada porque ele está ignorando o caroço crescente na parte inferior da coluna."
+      "show_name": "Pesadelo na Cozinha",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pesadelo-na-cozinha-s05e04-bar-do-pio-s-o-paulo-sp_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 4 - Bar do Pio - São Paulo/SP",
+      "start_time": "20:38",
+      "end_time": "22:16",
+      "episode_description": "No Bar do Pio, Eleni vive em conflito com o filho, e a crise familiar vira crise no salão. Jacquin tenta reorganizar a casa."
     },
     {
-      "show_name": "Sobre Essa Pele",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sobre-essa-pele-s02e03-daniele-e-patricia_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 3 - Daniele e Patricia",
-      "start_time": "21:30",
-      "end_time": "21:54",
-      "episode_description": "As tatuadoras Raquel Gauthier e Margarita Sultanova transformam cicatrizes em arte e esperança. O foco são histórias de mulheres que carregam marcas causadas por acidentes, violência, cirurgias ou até mesmo adquiridas desde o nascimento."
+      "show_name": "Pesadelo na Cozinha",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pesadelo-na-cozinha-s04e04_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 4 - Alternativa Casa do Natural",
+      "start_time": "22:16",
+      "end_time": "23:54",
+      "episode_description": "Na Vila Madalena, um dos bairros mais badalados de São Paulo, o Alternativa clama por uma ajudinha do Jacquin. A casa, que já esteve no mapa como um dos maiores empórios de comida vegetariana do Brasil, hoje passa por sérios perrengues."
     },
     {
-      "show_name": "Sobre Essa Pele",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sobre-essa-pele-s02e01-maria-e-ana-paula_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 1 - Maria e Ana Paula",
-      "start_time": "21:54",
-      "end_time": "22:22",
-      "episode_description": "As tatuadoras Raquel Gauthier e Margarita Sultanova transformam cicatrizes em arte e esperança. O foco são histórias de mulheres que carregam marcas causadas por acidentes, violência, cirurgias ou até mesmo adquiridas desde o nascimento."
-    },
-    {
-      "show_name": "Dra. Cathy - Devolvendo a Autoestima",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_dra-cathy-devolvendo-a-autoestima-s02e10_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 10 - Fogo Líquido",
-      "start_time": "22:22",
-      "end_time": "23:14",
-      "episode_description": "Dra. Cathy ajuda um homem marcado por um ataque de ácido. Durante uma consulta de rotina com uma adorável jovem sapateadora, a Dra. Cathy nota um sintoma preocupante, uma lesão suspeita em seu couro cabeludo."
-    },
-    {
-      "show_name": "Cirurgiões - No Limite da Vida",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cirurgi-es-no-limite-da-vida-s06e06-tudo-ou-nada_l_m.jpg",
-      "show_category": "Temporada 6 Episódio 6 - Tudo ou Nada",
-      "start_time": "23:14",
+      "show_name": "Sim, Chef!",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sim-chef-s01e01-fanaticos-por-controle_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - Fanáticos por Controle",
+      "start_time": "23:54",
       "end_time": "",
-      "episode_description": "Três cirurgiões operam juntos um motociclista gravemente ferido no centro de traumatologia do Hospital Universitário Southampton. O acidente deixa lesões que mudarão sua vida."
+      "episode_description": "Doze chefs talentosos chegam na cozinha para trabalhar em si mesmos e em sua culinária. Primeiro, eles trabalham em equipes para criar um menu de quatro pratos para os jurados."
     }
   ]
 }

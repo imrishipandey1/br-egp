@@ -1,238 +1,254 @@
 {
   "channel": "Discovery Theater",
-  "date": "11/03/2026",
+  "date": "12/03/2026",
   "schedule": [
+    {
+      "show_name": "Alasca: Perigo no Ar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_alasca-perigo-no-ar-s02e10-entrega-especial_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 10 - Entrega Especial",
+      "start_time": "00:00",
+      "end_time": "00:48",
+      "episode_description": "Um grupo de jovens constrói uma pista de skates para crianças. Ariel testa um novo avião. O piloto Erik Snuggerud enfrenta uma turbulência para concluir uma entrega especial."
+    },
+    {
+      "show_name": "Rota Perigosa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rota-perigosa-s02e01_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 1 - Carga Mexicana",
+      "start_time": "00:48",
+      "end_time": "01:36",
+      "episode_description": "Prestes a perder um contrato importante com um chef famoso, Todd viaja ao estado mais perigoso do México em busca de um café lendário. Quando seu contato é assassinado, Todd precisa se adaptar para salvar sua vida."
+    },
+    {
+      "show_name": "Ouro Selvagem",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ouro-selvagem-s02e03-juntos-mas-separados_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 3 - Juntos, mas Separados",
+      "start_time": "01:36",
+      "end_time": "02:24",
+      "episode_description": "Scott e George encaram enormes desafios em lugares opostos do mundo; George é forçado a arriscar sua vida em um acordo perigoso envolvendo ouro; Scott precisa decidir se algum dia irá voltar para Gana."
+    },
+    {
+      "show_name": "A Maldição do Ouro Perdido",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-maldic-o-do-ouro-perdido-s01e04-a-tempestade_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - A Tempestade",
+      "start_time": "02:24",
+      "end_time": "03:12",
+      "episode_description": "Um mapa misterioso marcado com sinais de dólar indica um novo local de prospecção. Uma descoberta surpreendente divide a equipe e as primeiras chuvas da temporada atrapalham os trabalhos."
+    },
+    {
+      "show_name": "No Rastro do Pé-Grande",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_no-rastro-do-pe-grande-s03e07-onde-a-lenda-surgiu_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 7 - Onde a Lenda Surgiu",
+      "start_time": "03:12",
+      "end_time": "04:00",
+      "episode_description": "A equipe se impressiona com um avistamento, mas sua melhor pista escapa entre seus dedos. Uma nova pista leva Bryce a encerrar sua expedição no estado de Washington e explorar uma nova área em busca do pé-grande."
+    },
+    {
+      "show_name": "No Rastro do Pé-Grande",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_no-rastro-do-pe-grande-s03e08-sons-apavorantes_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 8 - Sons Apavorantes",
+      "start_time": "04:00",
+      "end_time": "04:48",
+      "episode_description": "A equipe registra um uivo diferente de tudo que já ouviram no seu novo acampamento na Califórnia. Bryce descobre um possível acobertamento do governo norte-americano envolvendo avistamentos de pés-grandes."
+    },
     {
       "show_name": "Caçadores de Pítons",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_cacadores-de-pitons-s02e04-a-m-e-de-todas-as-serpentes-1_l_m.jpg",
       "show_category": "Temporada 2 Episódio 4 - Ponto de Estrangulamento",
-      "start_time": "00:00",
-      "end_time": "00:48",
+      "start_time": "04:48",
+      "end_time": "05:36",
       "episode_description": "Dusty e sua equipe visitam uma obra abandonada no norte de Everglades, onde pítons estão matando animais selvagens. Quando machuca o pé e é obrigado a voltar sozinho, Dusty se vê frente a frente com uma cobra monstruosa."
     },
     {
       "show_name": "Monstros da Montanha",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_monstros-da-montanha-s06e11-tocha-torcida_l_m.jpg",
       "show_category": "Temporada 6 Episódio 11 - Tocha Torcida",
-      "start_time": "00:48",
-      "end_time": "01:36",
+      "start_time": "05:36",
+      "end_time": "05:36",
+      "episode_description": "A equipe procura por Jeff após ele ser atraído por uma misteriosa figura. A caçada os leva a um par de tochas feitas à mão, que iluminam o folclore Cherokee em torno de Spearfinger."
+    },
+    {
+      "show_name": "Monstros da Montanha",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_monstros-da-montanha-s06e11-tocha-torcida_l_m.jpg",
+      "show_category": "Temporada 6 Episódio 11 - Tocha Torcida",
+      "start_time": "05:36",
+      "end_time": "06:24",
       "episode_description": "A equipe procura por Jeff após ele ser atraído por uma misteriosa figura. A caçada os leva a um par de tochas feitas à mão, que iluminam o folclore Cherokee em torno de Spearfinger."
     },
     {
       "show_name": "Guerreiros do Pacífico",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_guerreiros-do-pacifico-s01e03_l_m.jpg",
       "show_category": "Temporada 1 Episódio 3 - No Centro da Escuridão",
-      "start_time": "01:36",
-      "end_time": "02:24",
+      "start_time": "06:24",
+      "end_time": "07:12",
       "episode_description": "Jon Jon precisa impressionar um nativo para ter acesso a uma área de caça secreta dos marlins; Isaac se embrenha nas matas de Oahu; Adam e Jason enfrentam os mares revoltos de Kauai."
     },
     {
       "show_name": "Isto É Ciência - Com Mark Rober",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_isto-e-ciencia-com-mark-rober-s01e04-piscinas-estranhas_l_m.jpg",
       "show_category": "Temporada 1 Episódio 4 - Piscinas Estranhas",
-      "start_time": "02:24",
-      "end_time": "03:12",
+      "start_time": "07:12",
+      "end_time": "08:00",
+      "episode_description": "Mark faz um teste e mergulha em três piscinas diferentes: uma com 25 milhões de bolinhas de gel, outra de areia líquida e por fim, uma cheia de gelatina."
+    },
+    {
+      "show_name": "No Rastro do Pé-Grande",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_no-rastro-do-pe-grande-s03e07-onde-a-lenda-surgiu_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 7 - Onde a Lenda Surgiu",
+      "start_time": "08:00",
+      "end_time": "08:48",
+      "episode_description": "A equipe se impressiona com um avistamento, mas sua melhor pista escapa entre seus dedos. Uma nova pista leva Bryce a encerrar sua expedição no estado de Washington e explorar uma nova área em busca do pé-grande."
+    },
+    {
+      "show_name": "No Rastro do Pé-Grande",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_no-rastro-do-pe-grande-s03e08-sons-apavorantes_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 8 - Sons Apavorantes",
+      "start_time": "08:48",
+      "end_time": "09:36",
+      "episode_description": "A equipe registra um uivo diferente de tudo que já ouviram no seu novo acampamento na Califórnia. Bryce descobre um possível acobertamento do governo norte-americano envolvendo avistamentos de pés-grandes."
+    },
+    {
+      "show_name": "Caçadores de Pítons",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cacadores-de-pitons-s02e04-a-m-e-de-todas-as-serpentes-1_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 4 - Ponto de Estrangulamento",
+      "start_time": "09:36",
+      "end_time": "10:24",
+      "episode_description": "Dusty e sua equipe visitam uma obra abandonada no norte de Everglades, onde pítons estão matando animais selvagens. Quando machuca o pé e é obrigado a voltar sozinho, Dusty se vê frente a frente com uma cobra monstruosa."
+    },
+    {
+      "show_name": "Monstros da Montanha",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_monstros-da-montanha-s06e11-tocha-torcida_l_m.jpg",
+      "show_category": "Temporada 6 Episódio 11 - Tocha Torcida",
+      "start_time": "10:24",
+      "end_time": "11:12",
+      "episode_description": "A equipe procura por Jeff após ele ser atraído por uma misteriosa figura. A caçada os leva a um par de tochas feitas à mão, que iluminam o folclore Cherokee em torno de Spearfinger."
+    },
+    {
+      "show_name": "Guerreiros do Pacífico",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_guerreiros-do-pacifico-s01e03_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3 - No Centro da Escuridão",
+      "start_time": "11:12",
+      "end_time": "12:00",
+      "episode_description": "Jon Jon precisa impressionar um nativo para ter acesso a uma área de caça secreta dos marlins; Isaac se embrenha nas matas de Oahu; Adam e Jason enfrentam os mares revoltos de Kauai."
+    },
+    {
+      "show_name": "Isto É Ciência - Com Mark Rober",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_isto-e-ciencia-com-mark-rober-s01e04-piscinas-estranhas_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - Piscinas Estranhas",
+      "start_time": "12:00",
+      "end_time": "12:48",
       "episode_description": "Mark faz um teste e mergulha em três piscinas diferentes: uma com 25 milhões de bolinhas de gel, outra de areia líquida e por fim, uma cheia de gelatina."
     },
     {
       "show_name": "Pesca Mortal",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_pesca-mortal-s14e15-novato-ao-mar_l_m.jpg",
       "show_category": "Temporada 14 Episódio 15 - Novato ao Mar",
-      "start_time": "03:12",
-      "end_time": "04:00",
+      "start_time": "12:48",
+      "end_time": "13:36",
       "episode_description": "A tripulação do Summer Bay tenta resgatar um novato das águas geladas do Mar de Bering; o Saga e o Cornelia Marie enfrentam ondas gigantescas e Mandy recolhe seu primeiro covo."
     },
     {
       "show_name": "Pesca Mortal",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_pesca-mortal-s14e16-guerras-territoriais_l_m.jpg",
       "show_category": "Temporada 14 Episódio 16 - Guerras Territoriais",
-      "start_time": "04:00",
-      "end_time": "04:48",
+      "start_time": "13:36",
+      "end_time": "14:24",
       "episode_description": "Sig Hansen obriga Mandy a invadir a área do Cornelia Marie, deflagrando uma guerra pelos caranguejos; quando os covos do Cornelia Marie se enroscam nos do Northwestern, Casey toma medidas extremas para defender seu território."
     },
     {
       "show_name": "Capitães da Lagosta",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_capit-es-da-lagosta-s01e04-no-limite-1_l_m.jpg",
       "show_category": "Temporada 1 Episódio 4 - No Limite",
-      "start_time": "04:48",
-      "end_time": "05:36",
+      "start_time": "14:24",
+      "end_time": "15:12",
       "episode_description": "Uma onda alta atinge o Direction; Norbert arma uma verdadeira batalha com um pescador; Tim briga com sua tripulação inexperiente após um perigoso acidente no convés; Keith obriga a tripulação do Captain Bligh a trabalhar dois dias sem dormir."
     },
     {
       "show_name": "Megacargas",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_megacargas-s01e02_l_m.jpg",
       "show_category": "Temporada 1 Episódio 2",
-      "start_time": "05:36",
-      "end_time": "05:36",
-      "episode_description": "Em Palma de Majorca, Mark McGrane precisa transportar um superiate de 14 milhões de dólares para a Flórida durante a temporada de furacões."
-    },
-    {
-      "show_name": "Megacargas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_megacargas-s01e02_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 2",
-      "start_time": "05:36",
-      "end_time": "06:24",
+      "start_time": "15:12",
+      "end_time": "16:00",
       "episode_description": "Em Palma de Majorca, Mark McGrane precisa transportar um superiate de 14 milhões de dólares para a Flórida durante a temporada de furacões."
     },
     {
       "show_name": "Rumo ao Desconhecido",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_rumo-ao-desconhecido-s07e08-o-segredo_l_m.jpg",
       "show_category": "Temporada 7 Episódio 8 - O Segredo",
-      "start_time": "06:24",
-      "end_time": "07:12",
+      "start_time": "16:00",
+      "end_time": "16:48",
       "episode_description": "Josh Gates tenta desvendar um mistério que ninguém conseguiu solucionar em 40 anos. Josh viaja no tempo usando a realidade aumentada e recorre a uma rede de detetives obcecados pelo assunto."
     },
     {
       "show_name": "Rumo ao Desconhecido",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_rumo-ao-desconhecido-s08e03-em-busca-dos-ancestrais-humanos_l_m.jpg",
       "show_category": "Temporada 8 Episódio 3 - Em Busca dos Ancestrais Humanos",
-      "start_time": "07:12",
-      "end_time": "08:00",
-      "episode_description": "Josh Gates viaja pelo mundo para tentar desvendar um mistério fundamental: as origens da humanidade. Ele investiga como o ser humano sobreviveu até agora e o que isso significa para o futuro da espécie."
-    },
-    {
-      "show_name": "Pesca Mortal",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_pesca-mortal-s14e15-novato-ao-mar_l_m.jpg",
-      "show_category": "Temporada 14 Episódio 15 - Novato ao Mar",
-      "start_time": "08:00",
-      "end_time": "08:48",
-      "episode_description": "A tripulação do Summer Bay tenta resgatar um novato das águas geladas do Mar de Bering; o Saga e o Cornelia Marie enfrentam ondas gigantescas e Mandy recolhe seu primeiro covo."
-    },
-    {
-      "show_name": "Pesca Mortal",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_pesca-mortal-s14e16-guerras-territoriais_l_m.jpg",
-      "show_category": "Temporada 14 Episódio 16 - Guerras Territoriais",
-      "start_time": "08:48",
-      "end_time": "09:36",
-      "episode_description": "Sig Hansen obriga Mandy a invadir a área do Cornelia Marie, deflagrando uma guerra pelos caranguejos; quando os covos do Cornelia Marie se enroscam nos do Northwestern, Casey toma medidas extremas para defender seu território."
-    },
-    {
-      "show_name": "Capitães da Lagosta",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_capit-es-da-lagosta-s01e04-no-limite-1_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 4 - No Limite",
-      "start_time": "09:36",
-      "end_time": "10:24",
-      "episode_description": "Uma onda alta atinge o Direction; Norbert arma uma verdadeira batalha com um pescador; Tim briga com sua tripulação inexperiente após um perigoso acidente no convés; Keith obriga a tripulação do Captain Bligh a trabalhar dois dias sem dormir."
-    },
-    {
-      "show_name": "Megacargas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_megacargas-s01e02_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 2",
-      "start_time": "10:24",
-      "end_time": "11:12",
-      "episode_description": "Em Palma de Majorca, Mark McGrane precisa transportar um superiate de 14 milhões de dólares para a Flórida durante a temporada de furacões."
-    },
-    {
-      "show_name": "Rumo ao Desconhecido",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_rumo-ao-desconhecido-s07e08-o-segredo_l_m.jpg",
-      "show_category": "Temporada 7 Episódio 8 - O Segredo",
-      "start_time": "11:12",
-      "end_time": "12:00",
-      "episode_description": "Josh Gates tenta desvendar um mistério que ninguém conseguiu solucionar em 40 anos. Josh viaja no tempo usando a realidade aumentada e recorre a uma rede de detetives obcecados pelo assunto."
-    },
-    {
-      "show_name": "Rumo ao Desconhecido",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_rumo-ao-desconhecido-s08e03-em-busca-dos-ancestrais-humanos_l_m.jpg",
-      "show_category": "Temporada 8 Episódio 3 - Em Busca dos Ancestrais Humanos",
-      "start_time": "12:00",
-      "end_time": "12:48",
+      "start_time": "16:48",
+      "end_time": "17:36",
       "episode_description": "Josh Gates viaja pelo mundo para tentar desvendar um mistério fundamental: as origens da humanidade. Ele investiga como o ser humano sobreviveu até agora e o que isso significa para o futuro da espécie."
     },
     {
       "show_name": "Mistérios no Museu",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_misterios-no-museu-s11e07-na-corda-bamba_l_m.jpg",
       "show_category": "Temporada 11 Episódio 7 - Na Corda Bamba",
-      "start_time": "12:48",
-      "end_time": "13:36",
+      "start_time": "17:36",
+      "end_time": "18:24",
       "episode_description": "Don Wildman avalia o maior feito na corda bamba da história, investiga até onde Thomas Jefferson foi para preservar a reputação dos Estados Unidos, e desvenda uma das mais bizarras farsas que o mundo já viu."
     },
     {
-      "show_name": "Mistérios no Museu",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_misterios-no-museu-s11e09-carne-pre-historica_l_m.jpg",
-      "show_category": "Temporada 11 Episódio 9 - Carne Pré-histórica",
-      "start_time": "13:36",
-      "end_time": "14:24",
-      "episode_description": "Don Wildman descobre a verdade por trás de um truque culinário que chocou o mundo, inspeciona um vaso sanitário que inspirou uma quebra de tabu e examina uma escultura que lembra a história de amor mais trágica de todos os tempos."
+      "show_name": "Histórias Animais",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_historias-animais-s01e03_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3 - A Origem dos Primatas",
+      "start_time": "18:24",
+      "end_time": "19:12",
+      "episode_description": "João Paulo inicia uma viagem para descobrir as origens dos primatas. Uma história fascinante que se confunde com a nossa própria história. O biólogo conversa com especialistas e vai em busca de fósseis para mostrar os ancestrais dos primatas."
     },
     {
       "show_name": "Mistérios da História",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_misterios-da-historia-s02e09-sequestro-de-martinho-lutero-bruxas-de-belvoir-rainha-secreta_l_m.jpg",
       "show_category": "Temporada 2 Episódio 9 - Sequestro de Martinho Lutero; Bruxas de Belvoir; Rainha Secreta",
-      "start_time": "14:24",
-      "end_time": "15:12",
+      "start_time": "19:12",
+      "end_time": "20:00",
       "episode_description": "Um castelo alemão vira o refúgio improvável de uma das figuras mais icônicas do cristianismo; uma propriedade britânica é palco de um conto enfeitiçante; um romance secreto envolve o dono de um castelo francês."
     },
     {
       "show_name": "Cidade Fantasma - Terror em Montana",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_cidade-fantasma-terror-em-montana-s02e03-eu-sou-a-escurid-o_l_m.jpg",
       "show_category": "Temporada 2 Episódio 3 - Eu Sou a Escuridão",
-      "start_time": "15:12",
-      "end_time": "16:00",
+      "start_time": "20:00",
+      "end_time": "20:48",
       "episode_description": "Scott Di Lalla se junta à briga enquanto Tim e Sapphire usam a hipnose para descobrirem segredos do passado da família Broussard. Porém, uma ligação espiritual sinistra atrapalha o experimento; frustrados, a equipe busca a escuridão em hospitais."
     },
     {
-      "show_name": "Pesca Mortal",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_pesca-mortal-s14e13-batismo-de-fogo_l_m.jpg",
-      "show_category": "Temporada 14 Episódio 13 - Batismo de Fogo",
-      "start_time": "16:00",
-      "end_time": "16:48",
-      "episode_description": "Mandy enfrenta um batismo de fogo em seu primeiro turno no convés do Northwestern; a tripulação do Wizard discute com um marinheiro indolente; com poucas iscas e o mar revolto, Wild Bill muda sua estratégia."
-    },
-    {
-      "show_name": "Pesca Mortal",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_pesca-mortal-s14e14-a-tempestade-da-superlua_l_m.jpg",
-      "show_category": "Temporada 14 Episódio 14 - A Tempestade da Superlua",
-      "start_time": "16:48",
-      "end_time": "17:36",
-      "episode_description": "Uma tempestade durante uma superlua intensifica as correntes submarinas, causando o rompimento dos cabos dos covos; a Guarda Costeira empreende uma perigosa missão de resgate quando um novato de Wild Bill é lançado ao mar."
-    },
-    {
-      "show_name": "Alasca - A Última Fronteira",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_alasca-a-ultima-fronteira-s10e09-presa-de-quintal_l_m.jpg",
-      "show_category": "Temporada 10 Episódio 9 - Presa de Quintal",
-      "start_time": "17:36",
-      "end_time": "19:12",
-      "episode_description": "O outono se aproxima e os Kilchers correm contra o tempo; um alce ronda a propriedade e Eivin precisa proteger sua família; Atz Sr. vai caçar um urso e quase perde o cavalo; Otto inicia seu projeto de prevenção de incêndios."
-    },
-    {
-      "show_name": "Histórias Animais",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_historias-animais-s01e02_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 2 - Os Segredos das Aves Dançarinas",
-      "start_time": "19:12",
-      "end_time": "20:00",
-      "episode_description": "João Paulo Krajewski embarca em uma jornada repleta de aventuras pelas florestas do Brasil e da Austrália em busca de algumas das criaturas mais impressionantes e encantadoras da natureza: as aves dançarinas."
-    },
-    {
       "show_name": "Nos Trilhos do Alasca",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_nos-trilhos-do-alasca-s02e03-rota-de-colis-o_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 3 - Rota de Colisão",
-      "start_time": "20:00",
-      "end_time": "20:48",
-      "episode_description": "A quase 500 quilômetros do Círculo Ártico, Cathy e Larry enfrentam temperaturas congelantes, que podem deixá-los sem água. J.T. Evans cria um plano para trazer um pouco dos trópicos para o Alasca."
-    },
-    {
-      "show_name": "Alasca ao Extremo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_alasca-ao-extremo-s04e02_l_m.jpg",
-      "show_category": "Temporada 4 Episódio 2 - Travessia em Gelo Fino",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_nos-trilhos-do-alasca-s02e04-zona-de-avalanche_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 4 - Zona de Avalanche",
       "start_time": "20:48",
       "end_time": "21:36",
-      "episode_description": "Jeremy atravessa um rio congelado em uma escavadeira de duas toneladas; uma missão de sobrevivência."
+      "episode_description": "Josh e Annie precisam afastar sua cabana de um rio prestes a transbordar. Ron Hudson e Ashley trocam um telhado antes da chegada de uma tempestade. Uma avalanche ameaça descarrilar um trem."
     },
     {
-      "show_name": "Polônia - A Última Fronteira",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_polonia-a-ultima-fronteira-s03e10_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 10",
+      "show_name": "Criadores de Sonhos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_criadores-de-sonhos-s02e05-a-cruz_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 5 - A Cruz",
       "start_time": "21:36",
       "end_time": "22:24",
-      "episode_description": "Um olhar sobre as histórias extraordinárias de madeireiros, engenheiros florestais e outros habitantes que vivem na região mais inóspita e selvagem da Polônia: as montanhas de Bieszczady."
+      "episode_description": "Os rapazes viajam para o norte da Califórnia para recolher enormes troncos de sequoias caídas. De volta à oficina, eles usam a madeira para fazer a réplica de uma cruz para a missão de San Antonio."
     },
     {
-      "show_name": "Alasca - A Última Fronteira",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_alasca-a-ultima-fronteira-s10e10-a-dor-da-perda_l_m.jpg",
-      "show_category": "Temporada 10 Episódio 10 - A Dor da Perda",
+      "show_name": "Destiladores",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_destiladores-s10e19-a-capital-do-moonshine-esta-de-volta_l_m.jpg",
+      "show_category": "Temporada 10 Episódio 19 - A Capital do Moonshine Está de Volta",
       "start_time": "22:24",
+      "end_time": "23:12",
+      "episode_description": "Josh, Tickle e os Law constroem uma destilaria inédita na Virgínia desde os tempos de Amos Law; Jerry falta ao trabalho e Mike baixa a guarda; Mark e Digger descobrem que um rival terá de prestar contas à justiça."
+    },
+    {
+      "show_name": "Destiladores",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_destiladores-s10e20-fartura-na-floresta_l_m.jpg",
+      "show_category": "Temporada 10 Episódio 20 - Fartura na Floresta",
+      "start_time": "23:12",
       "end_time": "00:00",
-      "episode_description": "Com o chalé Fox quase finalizado, Atz Sr. reúne os sete irmãos Kilcher para terminar o interior de seu legado. Jane, August e Etienne embarcam na última viagem de pesca do ano e Eivin sofre uma perda devastadora."
+      "episode_description": "Com oito alambiques produzindo a todo vapor, Tickle precisa da senhora Tickle; Mark e Digger envelhecem seu uísque no mar; Tim se envolve em um contrabando épico, enquanto Mike e Jerry enfrentam a lei."
     }
   ]
 }

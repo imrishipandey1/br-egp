@@ -1,36 +1,60 @@
 {
   "channel": "TCM",
-  "date": "11/03/2026",
+  "date": "12/03/2026",
   "schedule": [
     {
-      "show_name": "A Mulher do Dia",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-mulher-do-dia-1942_l_m.jpg",
-      "show_category": "Comedy / 1942",
-      "start_time": "01:25",
-      "end_time": "03:19",
-      "episode_description": "O casamento de Tess e Sam é colocado à prova quando ela, feminista reconhecida, é eleita Mulher do Ano. A partir desse momento, o marido começa a se sentir negligenciado."
+      "show_name": "O Lobista",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-lobista-s01e01-martillos-contra-el-mal_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1",
+      "start_time": "00:40",
+      "end_time": "01:33",
+      "episode_description": "Um negócio rotineiro complica a vida do lobista Matías Franco quando um cliente morre em circunstâncias misteriosas. Enquanto Matías tenta reaver o relacionamento com seu irmão, ele conhece uma garçonete que o ilude com a possibilidade de um novo relacionamento."
     },
     {
       "show_name": "A Menina do Guarda-Volume",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_a-menina-do-guarda-volume-2015-2_l_m.jpg",
       "show_category": "Crime drama / 2015",
-      "start_time": "03:19",
-      "end_time": "05:07",
+      "start_time": "01:33",
+      "end_time": "03:21",
       "episode_description": "Abandonada quando bebê em um guarda-volumes de uma estação de metrô, Il-Young foi criada por uma família de mafiosos e educada como uma criminosa. Ao conhecer o filho de um devedor, ela começa a desenvolver sentimentos não-familiares."
+    },
+    {
+      "show_name": "Capital humano",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_capital-humano-2019_l_m.jpg",
+      "show_category": "Drama / 2019",
+      "start_time": "03:21",
+      "end_time": "04:54",
+      "episode_description": "Os mundos de duas famílias totalmente diferentes colidem quando seus filhos começam um relacionamento. As relações se tornam conturbadas depois de que o casal se envolve em um evento fatal."
     },
     {
       "show_name": "Hollywood One on One",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
       "show_category": "Talk",
-      "start_time": "05:07",
-      "end_time": "05:42",
+      "start_time": "04:54",
+      "end_time": "05:28",
       "episode_description": "Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!"
     },
     {
       "show_name": "Hollywood One on One",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
       "show_category": "Talk",
-      "start_time": "05:42",
+      "start_time": "05:28",
+      "end_time": "05:38",
+      "episode_description": "Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!"
+    },
+    {
+      "show_name": "Hollywood One on One",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
+      "show_category": "Talk",
+      "start_time": "05:38",
+      "end_time": "05:47",
+      "episode_description": "Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!"
+    },
+    {
+      "show_name": "Hollywood One on One",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
+      "show_category": "Talk",
+      "start_time": "05:47",
       "end_time": "06:00",
       "episode_description": "Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!"
     },
@@ -39,80 +63,88 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
       "show_category": "Talk",
       "start_time": "06:00",
-      "end_time": "07:39",
+      "end_time": "06:40",
       "episode_description": "Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!"
-    },
-    {
-      "show_name": "O Tesouro de Sierra Madre",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-tesouro-de-sierra-madre-1948-1_l_m.jpg",
-      "show_category": "Adventure / 1948",
-      "start_time": "07:39",
-      "end_time": "09:49",
-      "episode_description": "O Dr. Drew Pinsky fala sobre os vícios silenciosos que acometem mães e donas de casa, que hoje atingem números alarmantes. Casos de dependência de remédios controlados são comuns, mas vícios mais insidiosos, como o da compra, passam despercebidos."
-    },
-    {
-      "show_name": "O Décimo Homem",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-decimo-homem-2016_l_m.jpg",
-      "show_category": "Romantic comedy / 2016",
-      "start_time": "09:49",
-      "end_time": "11:13",
-      "episode_description": "Um homem conhece uma mulher enquanto visita seu pai na Argentina."
-    },
-    {
-      "show_name": "Legião Invencível",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_legi-o-invencivel-1949_l_m.jpg",
-      "show_category": "Western / 1949 /7.4",
-      "start_time": "11:13",
-      "end_time": "13:00",
-      "episode_description": "O último trabalho do capitão da cavalaria Nathan Brittles antes da aposentadoria, é acalmar as relações com os índios Cheyenne e Arapaho. Ao mesmo tempo, ele deve transportar a esposa e a sobrinha de seu comandante para um destino seguro. Após suas missões estagnarem, Brittles decide ter uma reunião cara a cara com um importante chefe indígena, a fim de evitar uma guerra iminente."
-    },
-    {
-      "show_name": "O Jogo da Imitação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-jogo-da-imitac-o-2014_l_m.jpg",
-      "show_category": "Historical drama / 2014",
-      "start_time": "13:00",
-      "end_time": "14:57",
-      "episode_description": "Em 1939, a recém-criada agência de inteligência britânica MI6 recruta Alan Turing, um aluno da Universidade de Cambridge, para entender códigos nazistas, incluindo o \"Enigma\", que criptógrafos acreditavam ser inquebrável. A equipe de Turing, incluindo Joan Clarke, analisa as mensagens de \"Enigma\", enquanto ele constrói uma máquina para decifrá-las. Após desvendar as codificações, Turing se torna herói. Porém, em 1952, autoridades revelam sua homossexualidade, e a vida dele vira um pesadelo."
-    },
-    {
-      "show_name": "Noturno",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_noturno-1946_l_m.jpg",
-      "show_category": "Crime drama / 1946",
-      "start_time": "14:57",
-      "end_time": "16:27",
-      "episode_description": "O detetive Joe Warner investiga o assassinato do compositor mulherengo Keith Vincent. Evidências apontam para, suicídio e este acaba sendo o veredito oficial, porém Joe não acredita e continua a investigar obsessivamente."
     },
     {
       "show_name": "Cidade sem Lei",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_cidade-sem-lei-1945_l_m.jpg",
       "show_category": "Western / 1945",
-      "start_time": "16:27",
-      "end_time": "18:19",
+      "start_time": "06:40",
+      "end_time": "08:34",
       "episode_description": "Dançarina que trabalha para o dono do saloon e vilão de San Antonio - um bandido que vende gado roubado - se apaixona por um cowboy forasteiro que chega para recuperar seu rebanho e fazer uma limpeza na cidade."
     },
     {
       "show_name": "A Filha da Noiva",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_a-filha-da-noiva-2023_l_m.jpg",
       "show_category": "Romantic comedy / 2023",
-      "start_time": "18:19",
-      "end_time": "20:04",
+      "start_time": "08:34",
+      "end_time": "10:19",
       "episode_description": "Diane e sua filha Kate são melhores amigas, mas o relacionamento das duas vira de pernas para o ar quando a jovem tenta arruinar os planos de casamento de Diane e o noivo Bruce."
     },
     {
-      "show_name": "Saideira",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_saideira-2024_l_m.jpg",
-      "show_category": "Comedy drama / 2024",
-      "start_time": "20:04",
-      "end_time": "22:00",
-      "episode_description": "Duas irmãs que não se viam há anos embarcam em uma inusitada caça ao tesouro em busca de uma preciosíssima cachaça que receberam de herança."
+      "show_name": "Nasce uma Estrela",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_nasce-uma-estrela-1954_l_m.jpg",
+      "show_category": "Musical / 1954",
+      "start_time": "10:19",
+      "end_time": "13:26",
+      "episode_description": "Astro de cinema em decadência conhece atriz que deseja tornar-se uma estrela e a ajuda. Após trabalharem juntos em um musical, os dois se casam. O sucesso crescente da esposa e o declínio de sua própria carreira o levam a recorrer ao alcoolismo."
     },
     {
-      "show_name": "O Cidadão Ilustre",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-cidad-o-ilustre-2016_l_m.jpg",
-      "show_category": "Comedy drama / 2016",
+      "show_name": "Casa de Chá do Luar de Agosto",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_casa-de-cha-do-luar-de-agosto-1956_l_m.jpg",
+      "show_category": "Comedy / 1956",
+      "start_time": "13:26",
+      "end_time": "15:33",
+      "episode_description": "Depois do fim da Segunda Guerra, as Forças Armadas dos EUA ocupam uma ilha no Japão. Ao lidar com a cultura e as tradições locais, o capitão Fisby tenta criar uma escola, mas os habitantes têm outra ideia em mente. Eles querem uma casa de chá."
+    },
+    {
+      "show_name": "Fuga de Pretória",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_fuga-de-pretoria-2020_l_m.jpg",
+      "show_category": "Thriller / 2020",
+      "start_time": "15:33",
+      "end_time": "17:18",
+      "episode_description": "Baseado em fatos sobre os ativistas sul-africanos Tim Jenkins e Stephen Lee, que decidem escapar da prisão de máxima segurança de Pretória após receberem sentenças por distribuir panfletos políticos nos anos 70, durante o apartheid."
+    },
+    {
+      "show_name": "Intriga Internacional",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_intriga-internacional-1959-1_l_m.jpg",
+      "show_category": "Thriller / 1959",
+      "start_time": "17:18",
+      "end_time": "19:38",
+      "episode_description": "Um caso de falsa identidade faz com que um espião estrangeiro persiga um homem inocente de Nova York até o Monte Rushmore."
+    },
+    {
+      "show_name": "Longa Jornada Noite Adentro",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_longa-jornada-noite-adentro-2018_l_m.jpg",
+      "show_category": "Mystery / 2018",
+      "start_time": "19:38",
+      "end_time": "22:00",
+      "episode_description": "Luo Hongwu retorna a Kaili, a cidade natal da qual fugiu 12 anos antes. Enquanto as lembranças de uma mulher enigmática e bonita ressurgem - uma mulher que ele amava e que ele nunca foi capaz de esquecer - Luo Hongwu começa sua busca por ela. Passado e presente, a realidade e o sonho se entrelaçam em uma incrível história."
+    },
+    {
+      "show_name": "Signos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_signos-s01e16-castor-e-polux_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 16 - Castor e Pólux",
       "start_time": "22:00",
-      "end_time": "00:01",
-      "episode_description": "Um escritor argentino e vencedor do Prêmio Nobel, radicado há 40 anos na Europa, volta para sua terra natal, ao povoado onde nasceu e que inspirou a maioria de seus livros, para receber o título de Cidadão Ilustre da cidade."
+      "end_time": "22:41",
+      "episode_description": "Após sua fuga, Antonio aproveita a peregrinação dos Penitentes para voltar à cidade como incógnito e reencontrar-se com sua família. O plano de vingança que começou com a morte do padre da cidade dois anos atrás só poderá terminar com uma nova morte."
+    },
+    {
+      "show_name": "O Lobista",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-lobista-s01e01-martillos-contra-el-mal_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1",
+      "start_time": "22:41",
+      "end_time": "23:35",
+      "episode_description": "Um negócio rotineiro complica a vida do lobista Matías Franco quando um cliente morre em circunstâncias misteriosas. Enquanto Matías tenta reaver o relacionamento com seu irmão, ele conhece uma garçonete que o ilude com a possibilidade de um novo relacionamento."
+    },
+    {
+      "show_name": "Criaturas do Farol",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_criaturas-do-farol-2024_l_m.jpg",
+      "show_category": "Thriller / 2024",
+      "start_time": "23:35",
+      "end_time": "01:12",
+      "episode_description": "Uma jovem naufraga em uma ilha e é resgatada pelo único habitante do lugar: o faroleiro."
     }
   ]
 }

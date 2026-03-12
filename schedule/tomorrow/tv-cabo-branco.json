@@ -1,46 +1,38 @@
 {
   "channel": "TV Cabo Branco",
-  "date": "12/03/2026",
+  "date": "13/03/2026",
   "schedule": [
-    {
-      "show_name": "Jornal da Globo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-da-globo_l_m.jpg",
-      "show_category": "News",
-      "start_time": "00:05",
-      "end_time": "00:55",
-      "episode_description": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura."
-    },
     {
       "show_name": "Coração Acelerado",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_corac-o-acelerado_l_m.jpg",
       "show_category": "Soap",
-      "start_time": "00:55",
-      "end_time": "01:40",
+      "start_time": "00:15",
+      "end_time": "01:00",
       "episode_description": "Agrado Garcia, uma cantora e compositora talentosa, batalha para conquistar uma carreira de sucesso. João Raul se torna grande astro sertanejo e usa suas redes sociais para procurar a \"garota do seu passado\"."
     },
     {
       "show_name": "Vai que Cola",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-1_l_m.jpg",
       "show_category": "Comedy",
-      "start_time": "01:40",
-      "end_time": "02:25",
+      "start_time": "01:00",
+      "end_time": "01:25",
       "episode_description": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede."
     },
     {
-      "show_name": "Vai que Cola",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-1_l_m.jpg",
-      "show_category": "Comedy",
-      "start_time": "02:25",
-      "end_time": "03:10",
-      "episode_description": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede."
+      "show_name": "L.O.C.A.",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_l-o-c-a-2021_l_m.jpg",
+      "show_category": "Comedy / 2021",
+      "start_time": "01:25",
+      "end_time": "02:45",
+      "episode_description": "Em uma das reuniões da L.O.C.A., Liga das Obsessivas Compulsivas por Amor, Manoela, Elena e Rebeca acabam se conhecendo melhor quase por acidente e percebem que possuem mais em comum do que esperavam: as três sofreram grandes decepções amorosas e resolvem se juntar para uma grande vingança."
     },
     {
-      "show_name": "Vai que Cola",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-1_l_m.jpg",
-      "show_category": "Comedy",
-      "start_time": "03:10",
+      "show_name": "Muito Gelo e Dois Dedos d'Água",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_muito-gelo-e-dois-dedos-d-agua-2006-1_l_m.jpg",
+      "show_category": "Comedy / 2006",
+      "start_time": "02:45",
       "end_time": "04:00",
-      "episode_description": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede."
+      "episode_description": "Roberta e Suzana são irmãs e nutrem um desejo de vingança em relação à avó, que atormentava ambas na infância com conceitos rígidos de etiqueta e educação. Anos depois, elas decidem sequestrá-la e levá-la para a casa de praia da família. Com elas, viajam Renato, um advogado que é amigo de Roberta e não sabe que a avó dela está no porta-malas, e Francisco, médico e marido de Suzana, que estranha a repentina viagem da esposa e acredita que ela está fazendo uso de entorpecentes."
     },
     {
       "show_name": "Hora 1",
@@ -115,18 +107,18 @@
       "episode_description": "Uma parte da história da formação da sociedade brasileira do início do século XX é contada a partir do romance de dois jovens italianos, Giuliana e Matteo. Eles se conhecem em 1894 a bordo do navio que transporta imigrantes para trabalhar no Brasil."
     },
     {
-      "show_name": "Vidas Passadas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_vidas-passadas-2023_l_m.jpg",
-      "show_category": "Romance / 2023",
+      "show_name": "Saneamento Básico, o Filme",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_saneamento-basico-o-filme-2007-1_l_m.jpg",
+      "show_category": "Comedy / 2007",
       "start_time": "15:30",
-      "end_time": "17:10",
-      "episode_description": "Um casal de amigos de infância profundamente conectados se separa após a família dela se mudar da Coreia do Sul. Duas décadas depois, a dupla se reencontra em Nova York e confronta noções de destino, amor e escolhas."
+      "end_time": "17:15",
+      "episode_description": "Uma pequena comunidade de descendentes de imigrantes italianos do interior do estado do Rio Grande do Sul recorre a um vídeo caseiro para tentar resolver os problemas básicos de saneamento que afetam seu povo."
     },
     {
       "show_name": "Vale a Pena Ver de Novo - Rainha da Sucata",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_vale-a-pena-ver-de-novo-rainha-da-sucata_l_m.jpg",
       "show_category": "Soap",
-      "start_time": "17:10",
+      "start_time": "17:15",
       "end_time": "18:25",
       "episode_description": "A rivalidade entre Maria do Carmo, uma empresária que enriqueceu com os negócios do pai, e Laurinha Figueiroa, uma socialite falida, no universo dos novos-ricos da decadente sociedade paulistana."
     },
@@ -136,7 +128,7 @@
       "show_category": "Drama",
       "start_time": "18:25",
       "end_time": "19:10",
-      "episode_description": "Candinho e seu fiel companheiro, Policarpo, voltaram para novas aventuras na cidade grande. Apesar de toda riqueza que o cerca, Candinho enfrenta uma nova saga: a busca pelo filho perdido."
+      "episode_description": "Candinho conta para Dita e Margarida sobre a morte de Filó e o desaparecimento do bebê; Araújo acusa Celso de lhe propor um negócio escuso; Zé dos Porcos afirma a Quincas que jamais se casará novamente; Medéia chega à casa de Quinzinho e Cunegundes."
     },
     {
       "show_name": "JPB2",
@@ -172,17 +164,25 @@
     },
     {
       "show_name": "Big Brother Brasil",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_big-brother-brasil-s26e60_l_m.jpg",
-      "show_category": "Temporada 26 Episódio 60",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_big-brother-brasil-s26e61_l_m.jpg",
+      "show_category": "Temporada 26 Episódio 61",
       "start_time": "22:25",
-      "end_time": "23:25",
+      "end_time": "23:00",
       "episode_description": "Um grupo de pessoas topa ficar confinado em uma espaçosa casa cenográfica, sendo vigiado por câmeras 24 horas por dia. Sem receber informações do mundo exterior, eles disputam uma série de provas e dinâmicas em busca de um prêmio milionário."
+    },
+    {
+      "show_name": "Globo Repórter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_globo-reporter-1_l_m.jpg",
+      "show_category": "Newsmagazine",
+      "start_time": "23:00",
+      "end_time": "23:50",
+      "episode_description": "O programa apresenta reportagens especiais sobre atualidades, saúde, ciência, natureza e muita aventura, com destinos exóticos do Brasil e do mundo."
     },
     {
       "show_name": "Jornal da Globo",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-da-globo_l_m.jpg",
       "show_category": "News",
-      "start_time": "23:25",
+      "start_time": "23:50",
       "end_time": "",
       "episode_description": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura."
     }

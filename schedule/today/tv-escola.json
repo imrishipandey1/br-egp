@@ -1,6 +1,6 @@
 {
   "channel": "TV Escola",
-  "date": "11/03/2026",
+  "date": "12/03/2026",
   "schedule": [
     {
       "show_name": "Caminhos da Reportagem",
@@ -11,52 +11,36 @@
       "episode_description": "Um programa que oferece uma visão diferente, instigante e complexa de grandes histórias, por meio de viagens feitas pelo país e pelo mundo."
     },
     {
-      "show_name": "Adolescentes e o Mundo Digital",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_adolescentes-e-o-mundo-digital_l_m.jpg",
-      "show_category": "Special",
-      "start_time": "00:30",
-      "end_time": "01:00",
-      "episode_description": "Bate-papo entre adolescentes e especialistas sobre os desafios no contexto das redes sociais. Eles falam sobre tempestade hormonal, desenvolvimento integral, clima escolar, saúde mental e masculinidades."
-    },
-    {
-      "show_name": "Sal a Gosto",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sal-a-gosto_l_m.jpg",
-      "show_category": "Drama",
-      "start_time": "01:00",
-      "end_time": "01:30",
-      "episode_description": "A história da família Freitas, que enfrenta a falência de seu restaurante, divórcio, chegada inesperada de um sobrinho e a pandemia. Unidos, eles buscam superar os desafios e preservar seus sonhos."
-    },
-    {
-      "show_name": "Teóphilo Ottoni, a Revolução",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_teophilo-ottoni-a-revoluc-o_l_m.jpg",
-      "show_category": "Action",
-      "start_time": "01:30",
-      "end_time": "02:00",
-      "episode_description": "No ano de 1842, a revolução liberal liderada em Minas Gerais pelo jovem deputado Teófilo Benedito Ottoni, se arrasta pelas ruas e causa enormes estragos."
-    },
-    {
-      "show_name": "Sementes da Educação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sementes-da-educac-o_l_m.jpg",
-      "show_category": "Documentary",
-      "start_time": "02:00",
-      "end_time": "02:30",
-      "episode_description": "Mesmo com recursos escassos, algumas escolas conseguiram inovar os métodos educacionais."
-    },
-    {
       "show_name": "Inclusão para Valer",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_inclus-o-para-valer_l_m.jpg",
       "show_category": "Educational",
-      "start_time": "02:30",
-      "end_time": "03:00",
+      "start_time": "00:30",
+      "end_time": "01:00",
       "episode_description": "Uma visão abrangente e educativa sobre os desafios e avanços na inclusão de pessoas com deficiência, promovendo a construção de uma sociedade mais justa e inclusiva."
     },
     {
-      "show_name": "Olha Elas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_olha-elas_l_m.jpg",
-      "show_category": "Bus./financial",
-      "start_time": "03:00",
+      "show_name": "Quando Elas se Movimentam",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quando-elas-se-movimentam-2024_l_m.jpg",
+      "show_category": "Documentary / 2024",
+      "start_time": "01:00",
+      "end_time": "02:30",
+      "episode_description": "Três personagens de diferentes regiões que manifestam e corporificam a conquista dos direitos da população brasileira, viabilizados e garantidos pelas leis aprovadas pelo senado federal."
+    },
+    {
+      "show_name": "Vida de Merendeira",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vida-de-merendeira_l_m.jpg",
+      "show_category": "Reality",
+      "start_time": "02:30",
+      "end_time": "03:30",
+      "episode_description": "Merendeiras de escolas cozinham receitas deliciosas e mostram como alimentam suas comunidades."
+    },
+    {
+      "show_name": "Estúdio Ciência",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_estudio-ciencia_l_m.jpg",
+      "show_category": "Science",
+      "start_time": "03:30",
       "end_time": "04:00",
-      "episode_description": "Bate-papos com histórias que visam inspirar outras empreendedoras que atuam em todo o país. Convidadas falam sobre a participação das mulheres em todos os espaços, empreendedorismo feminino e preto, combate à violência contra a mulher e muito mais."
+      "episode_description": "O Doutor em Física e divulgador científico Marcelo Schappo recebe convidados no estúdio da TV UFSC para uma conversa descontraída de cientista para cientista, levando informação e curiosidades para o público."
     },
     {
       "show_name": "Se Liga na Educação - Enem",
@@ -67,12 +51,12 @@
       "episode_description": "Acompanhe as aulas produzidas pela Secretaria de Estado de Educação de Minas Gerais."
     },
     {
-      "show_name": "Entrelinhas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_entrelinhas_l_m.jpg",
-      "show_category": "Educational",
+      "show_name": "Trilha de Letras",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_trilha-de-letras_l_m.jpg",
+      "show_category": "Interview",
       "start_time": "05:15",
       "end_time": "05:45",
-      "episode_description": "O universo dos livros e das diversas formas da leitura no mundo contemporâneo. Obras de diversos gêneros e autores são indicadas. Personalidades da arte literária também são entrevistadas."
+      "episode_description": "O escritor, tradutor e roteirista Stefano Volp compartilha as influências que moldaram sua expressão artística, fala sobre o público jovem adulto e expõe questões ligadas às comunidades negra e LGBTQIA+."
     },
     {
       "show_name": "Heroínas Negras Brasileiras",
@@ -91,20 +75,12 @@
       "episode_description": "Interprogramas que apresentam, de forma clara e acessível, iniciativas e políticas públicas do governo federal."
     },
     {
-      "show_name": "Inclusão para Valer",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_inclus-o-para-valer_l_m.jpg",
-      "show_category": "Educational",
+      "show_name": "Vida de Merendeira",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vida-de-merendeira_l_m.jpg",
+      "show_category": "Reality",
       "start_time": "06:00",
-      "end_time": "06:30",
-      "episode_description": "Uma visão abrangente e educativa sobre os desafios e avanços na inclusão de pessoas com deficiência, promovendo a construção de uma sociedade mais justa e inclusiva."
-    },
-    {
-      "show_name": "Sementes da Educação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sementes-da-educac-o_l_m.jpg",
-      "show_category": "Documentary",
-      "start_time": "06:30",
       "end_time": "07:00",
-      "episode_description": "Mesmo com recursos escassos, algumas escolas conseguiram inovar os métodos educacionais."
+      "episode_description": "Merendeiras de escolas cozinham receitas deliciosas e mostram como alimentam suas comunidades."
     },
     {
       "show_name": "Palaloos",
@@ -168,7 +144,7 @@
       "show_category": "Children",
       "start_time": "08:30",
       "end_time": "09:00",
-      "episode_description": "A natureza é matéria-prima para essas crianças que moram na comunidade de Tatajuba, no Ceará. Através do telefone de lata, elas contam como caçam calangos, caranguejos e siris, o que pescam, como constroem carrinhos e mostram como as mãos delicadas de uma menina costuram um enxoval completo de roupinhas para as bonecas. Tem também a brincadeira do Reisado guiada por um único adulto que mescla espontâneo e tradição entre versos e gestos dessa manifestação popular."
+      "episode_description": "Os ventos cearenses na Comunidade de Tatajuba sopram forte enquanto crianças contam como constroem suas canoas de isopor ou da raiz de timbaúba para competir em regatas no mar. Do mar à terra, fazem suas arminhas de folha de coqueiro e se misturam nas areias das dunas em velozes descidas com talas de madeira. Ao cair da tarde a pequena comunidade é povoada de brincadeiras de elástico, jogo de futebol e uma vastidão de contação de histórias que assombram a criançada."
     },
     {
       "show_name": "Manual de Sobrevivência da Literatura Brasileira",
@@ -187,12 +163,20 @@
       "episode_description": "Acompanhe as aulas produzidas pela Secretaria de Estado de Educação de Minas Gerais."
     },
     {
-      "show_name": "Trilha de Letras",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_trilha-de-letras_l_m.jpg",
-      "show_category": "Interview",
+      "show_name": "Português Daqui, Português de Lá",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_portugues-daqui-portugues-de-la_l_m.jpg",
+      "show_category": "Educational",
       "start_time": "10:45",
+      "end_time": "11:00",
+      "episode_description": "Um olhar para as regras, a história e a beleza da língua portuguesa."
+    },
+    {
+      "show_name": "Português Daqui, Português de Lá",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_portugues-daqui-portugues-de-la_l_m.jpg",
+      "show_category": "Educational",
+      "start_time": "11:00",
       "end_time": "11:15",
-      "episode_description": "O escritor, tradutor e roteirista Stefano Volp compartilha as influências que moldaram sua expressão artística, fala sobre o público jovem adulto e expõe questões ligadas às comunidades negra e LGBTQIA+."
+      "episode_description": "Um olhar para as regras, a história e a beleza da língua portuguesa."
     },
     {
       "show_name": "Heroínas Negras Brasileiras",
@@ -211,36 +195,20 @@
       "episode_description": "Interprogramas que apresentam, de forma clara e acessível, iniciativas e políticas públicas do governo federal."
     },
     {
-      "show_name": "Game Dev Brasil",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_game-dev-brasil_l_m.jpg",
+      "show_name": "Programa Humanidades",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_programa-humanidades_l_m.jpg",
       "show_category": "Documentary",
       "start_time": "11:30",
-      "end_time": "12:00",
-      "episode_description": "Todas as novidades e também os bastidores sobre o desenvolvimento de jogos no Brasil."
-    },
-    {
-      "show_name": "Estúdio Ciência",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_estudio-ciencia_l_m.jpg",
-      "show_category": "Science",
-      "start_time": "12:00",
       "end_time": "12:30",
-      "episode_description": "O Doutor em Física e divulgador científico Marcelo Schappo recebe convidados no estúdio da TV UFSC para uma conversa descontraída de cientista para cientista, levando informação e curiosidades para o público."
+      "episode_description": "Série que aborda temas da atualidade com muita reflexão, busca pessoal e questionamento crítico."
     },
     {
-      "show_name": "Sementes da Educação",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sementes-da-educac-o_l_m.jpg",
-      "show_category": "Documentary",
+      "show_name": "Vida de Merendeira",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vida-de-merendeira_l_m.jpg",
+      "show_category": "Reality",
       "start_time": "12:30",
-      "end_time": "13:00",
-      "episode_description": "Mesmo com recursos escassos, algumas escolas conseguiram inovar os métodos educacionais."
-    },
-    {
-      "show_name": "Inclusão para Valer",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_inclus-o-para-valer_l_m.jpg",
-      "show_category": "Educational",
-      "start_time": "13:00",
       "end_time": "13:30",
-      "episode_description": "Uma visão abrangente e educativa sobre os desafios e avanços na inclusão de pessoas com deficiência, promovendo a construção de uma sociedade mais justa e inclusiva."
+      "episode_description": "Merendeiras de escolas cozinham receitas deliciosas e mostram como alimentam suas comunidades."
     },
     {
       "show_name": "Palaloos",
@@ -296,7 +264,7 @@
       "show_category": "Children",
       "start_time": "14:45",
       "end_time": "15:15",
-      "episode_description": "A natureza é matéria-prima para essas crianças que moram na comunidade de Tatajuba, no Ceará. Através do telefone de lata, elas contam como caçam calangos, caranguejos e siris, o que pescam, como constroem carrinhos e mostram como as mãos delicadas de uma menina costuram um enxoval completo de roupinhas para as bonecas. Tem também a brincadeira do Reisado guiada por um único adulto que mescla espontâneo e tradição entre versos e gestos dessa manifestação popular."
+      "episode_description": "Os ventos cearenses na Comunidade de Tatajuba sopram forte enquanto crianças contam como constroem suas canoas de isopor ou da raiz de timbaúba para competir em regatas no mar. Do mar à terra, fazem suas arminhas de folha de coqueiro e se misturam nas areias das dunas em velozes descidas com talas de madeira. Ao cair da tarde a pequena comunidade é povoada de brincadeiras de elástico, jogo de futebol e uma vastidão de contação de histórias que assombram a criançada."
     },
     {
       "show_name": "Manual de Sobrevivência da Literatura Brasileira",
@@ -331,12 +299,20 @@
       "episode_description": "Acompanhe as aulas produzidas pela Secretaria de Estado de Educação de Minas Gerais."
     },
     {
-      "show_name": "Trilha de Letras",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_trilha-de-letras_l_m.jpg",
-      "show_category": "Interview",
+      "show_name": "Português Daqui, Português de Lá",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_portugues-daqui-portugues-de-la_l_m.jpg",
+      "show_category": "Educational",
       "start_time": "17:15",
+      "end_time": "17:30",
+      "episode_description": "Um olhar para as regras, a história e a beleza da língua portuguesa."
+    },
+    {
+      "show_name": "Português Daqui, Português de Lá",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_portugues-daqui-portugues-de-la_l_m.jpg",
+      "show_category": "Educational",
+      "start_time": "17:30",
       "end_time": "17:45",
-      "episode_description": "O escritor, tradutor e roteirista Stefano Volp compartilha as influências que moldaram sua expressão artística, fala sobre o público jovem adulto e expõe questões ligadas às comunidades negra e LGBTQIA+."
+      "episode_description": "Um olhar para as regras, a história e a beleza da língua portuguesa."
     },
     {
       "show_name": "Heroínas Negras Brasileiras",
@@ -355,20 +331,12 @@
       "episode_description": "Interprogramas que apresentam, de forma clara e acessível, iniciativas e políticas públicas do governo federal."
     },
     {
-      "show_name": "Game Dev Brasil",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_game-dev-brasil_l_m.jpg",
+      "show_name": "Programa Humanidades",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_programa-humanidades_l_m.jpg",
       "show_category": "Documentary",
       "start_time": "18:00",
-      "end_time": "18:30",
-      "episode_description": "Todas as novidades e também os bastidores sobre o desenvolvimento de jogos no Brasil."
-    },
-    {
-      "show_name": "Estúdio Ciência",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_estudio-ciencia_l_m.jpg",
-      "show_category": "Science",
-      "start_time": "18:30",
       "end_time": "19:00",
-      "episode_description": "O Doutor em Física e divulgador científico Marcelo Schappo recebe convidados no estúdio da TV UFSC para uma conversa descontraída de cientista para cientista, levando informação e curiosidades para o público."
+      "episode_description": "Série que aborda temas da atualidade com muita reflexão, busca pessoal e questionamento crítico."
     },
     {
       "show_name": "Caminhos da Reportagem",
@@ -379,52 +347,52 @@
       "episode_description": "Um programa que oferece uma visão diferente, instigante e complexa de grandes histórias, por meio de viagens feitas pelo país e pelo mundo."
     },
     {
+      "show_name": "Escola que Protege",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_escola-que-protege_l_m.jpg",
+      "show_category": "Public affairs",
+      "start_time": "19:30",
+      "end_time": "20:30",
+      "episode_description": "Debate sobre práticas restaurativas na educação, prevenção da violência, ampliação de escuta e fomento de ambientes acolhedores no ambiente escolar."
+    },
+    {
       "show_name": "Vida de Merendeira",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_vida-de-merendeira_l_m.jpg",
       "show_category": "Reality",
-      "start_time": "19:30",
-      "end_time": "20:30",
-      "episode_description": "Merendeiras de escolas cozinham receitas deliciosas e mostram como alimentam suas comunidades."
-    },
-    {
-      "show_name": "Inclusão para Valer",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_inclus-o-para-valer_l_m.jpg",
-      "show_category": "Educational",
       "start_time": "20:30",
-      "end_time": "21:00",
-      "episode_description": "Uma visão abrangente e educativa sobre os desafios e avanços na inclusão de pessoas com deficiência, promovendo a construção de uma sociedade mais justa e inclusiva."
+      "end_time": "21:30",
+      "episode_description": "Merendeiras de escolas cozinham receitas deliciosas e mostram como alimentam suas comunidades."
     },
     {
       "show_name": "Faróis do Brasil",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_farois-do-brasil_l_m.jpg",
       "show_category": "Art",
-      "start_time": "21:00",
-      "end_time": "21:30",
+      "start_time": "21:30",
+      "end_time": "22:00",
       "episode_description": "A Ilha de Santana se localiza em meio a uma reserva de fauna e flora. Além disso, abriga o Farol de Macaé, com sua lanterna centenária, que tem um alcance luminoso de até 28 milhas náuticas (aproximadamente 52 km)."
     },
     {
-      "show_name": "Fortes do Brasil",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_fortes-do-brasil_l_m.jpg",
+      "show_name": "Cinco Mulheres do Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cinco-mulheres-do-brasil_l_m.jpg",
       "show_category": "History",
-      "start_time": "21:30",
-      "end_time": "22:00",
-      "episode_description": "A série, produzida em parceria com a Marinha do Brasil, conta a história dos principais fortes do país e suas particularidades."
-    },
-    {
-      "show_name": "Quando Elas se Movimentam",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quando-elas-se-movimentam-2024_l_m.jpg",
-      "show_category": "Documentary / 2024",
       "start_time": "22:00",
-      "end_time": "23:30",
-      "episode_description": "Três personagens de diferentes regiões que manifestam e corporificam a conquista dos direitos da população brasileira, viabilizados e garantidos pelas leis aprovadas pelo senado federal."
+      "end_time": "22:30",
+      "episode_description": "A história de figuras femininas que desafiaram limites sociais e culturais em suas épocas, incluindo Anita Garibaldi, Maria Quitéria e Chiquinha Gonzaga."
     },
     {
-      "show_name": "Estações",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_estac-es_l_m.jpg",
-      "show_category": "History",
-      "start_time": "23:30",
+      "show_name": "Sal a Gosto",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sal-a-gosto_l_m.jpg",
+      "show_category": "Drama",
+      "start_time": "22:30",
+      "end_time": "23:00",
+      "episode_description": "A história da família Freitas, que enfrenta a falência de seu restaurante, divórcio, chegada inesperada de um sobrinho e a pandemia. Unidos, eles buscam superar os desafios e preservar seus sonhos."
+    },
+    {
+      "show_name": "Escola que Protege",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_escola-que-protege_l_m.jpg",
+      "show_category": "Public affairs",
+      "start_time": "23:00",
       "end_time": "00:00",
-      "episode_description": "O programa apresenta aspectos históricos, patrimoniais, culturais e memórias de personagens que trabalharam ou viveram no entorno das estações ferroviárias, além de refletir sobre o futuro e a importância desses locais."
+      "episode_description": "Debate sobre práticas restaurativas na educação, prevenção da violência, ampliação de escuta e fomento de ambientes acolhedores no ambiente escolar."
     }
   ]
 }

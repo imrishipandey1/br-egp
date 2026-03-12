@@ -1,126 +1,134 @@
 {
   "channel": "HBO Signature",
-  "date": "11/03/2026",
+  "date": "12/03/2026",
   "schedule": [
     {
-      "show_name": "Phil Spector",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_phil-spector-2013_l_m.jpg",
-      "show_category": "Docudrama / 2013 /6.3",
-      "start_time": "00:34",
-      "end_time": "02:14",
-      "episode_description": "O filme mostra a intensa relação entre o lendário produtor musical Phil Spector e sua advogada Linda Kenney Baden, que o defendeu durante seu primeiro julgamento pelo assassinato de Lana Clarkson."
+      "show_name": "Bessie",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bessie-2015_l_m.jpg",
+      "show_category": "Docudrama / 2015 /7.1",
+      "start_time": "00:00",
+      "end_time": "02:00",
+      "episode_description": "Queen Latifah interpreta a lendária cantora Bessie Smith, apelidada da Imperatriz do Blues. Um retrato brilhante de um espírito determinado tirado do anonimato pelo talento e amor à música."
     },
     {
-      "show_name": "537 Votos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_537-votos_l_m.jpg",
+      "show_name": "O Ataque à Maratona de Boston",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-ataque-a-maratona-de-boston_l_m.jpg",
       "show_category": "Special",
-      "start_time": "02:14",
-      "end_time": "04:04",
-      "episode_description": "Uma discussão sobre as circunstâncias em torno do resultado contestado e sem precedentes da eleição presidencial de 2000 nos Estados Unidos."
+      "start_time": "02:00",
+      "end_time": "03:55",
+      "episode_description": "Acompanhe a dramática história do ataque terrorista na maratona de Boston em abril de 2013, por meio das experiências de pessoas cujas vidas foram afetadas. Vídeos de câmeras de segurança, entrevistas exclusivas com sobreviventes e familiares, com oficiais, investigadores e repórteres do The Boston Globe, que ganharam o prêmio Pulitzer pela cobertura do ataque."
     },
     {
-      "show_name": "King no Deserto",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_king-no-deserto-2018_l_m.jpg",
-      "show_category": "Documentary / 2018",
-      "start_time": "04:04",
+      "show_name": "Vida de Crime - 1984 - 2020",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vida-de-crime-1984-2020-2021_l_m.jpg",
+      "show_category": "Documentary / 2021",
+      "start_time": "03:55",
       "end_time": "06:00",
-      "episode_description": "Um olhar esclarecedor sobre os últimos anos de vida do Dr. Martin Luther King Jr. O filme mostra o caráter inabalável de King, sua doutrina radical de não-violência e sua luta interna."
+      "episode_description": "Examinando os altos e baixos dos ciclos viciosos do vício em drogas e do crime de rua em uma das partes mais difíceis de Nova Jersey."
     },
     {
-      "show_name": "Mary Tyler Moore - A Dama da TV",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_mary-tyler-moore-a-dama-da-tv-2023_l_m.jpg",
-      "show_category": "Documentary / 2023",
+      "show_name": "Jayne Mansfield, Minha Mãe",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jayne-mansfield-minha-m-e-2025_l_m.jpg",
+      "show_category": "Documentary / 2025",
       "start_time": "06:00",
-      "end_time": "08:05",
-      "episode_description": "Esse documentário constrói um retrato íntimo da carreira da atriz Mary Tyler Moore, revelando a figura complexa e empática que revolucionou a representação da mulher na mídia."
+      "end_time": "07:54",
+      "episode_description": "A atriz Mariska Hargitay tinha três anos de idade quando sua mãe, Jayne Mansfield, morreu tragicamente em um acidente de carro. Agora ela busca conhecer, compreender e abraçar sua mãe pela primeira vez."
     },
     {
-      "show_name": "Robin Williams - Entre na Minha Mente",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_robin-williams-entre-na-minha-mente-2018_l_m.jpg",
-      "show_category": "Documentary / 2018",
-      "start_time": "08:05",
-      "end_time": "10:10",
-      "episode_description": "Um divertido, íntimo e comovedor retrato de um dos comediantes mais queridos e inventivos do mundo, Robin Williams. O filme explora sua extraordinária vida e carreira e revela o que o levou a dar voz a personagens em sua mente, até sua trágica morte."
-    },
-    {
-      "show_name": "A Inventora - À Procura de Sangue no Vale do Silício",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-inventora-a-procura-de-sangue-no-vale-do-silicio-2019_l_m.jpg",
-      "show_category": "Documentary / 2019",
-      "start_time": "10:10",
-      "end_time": "12:18",
-      "episode_description": "Com uma nova invenção que prometia revolucionar os testes sanguíneos, Elizabeth Holmes tornou-se a bilionária mais jovem do mundo, e vista como o próximo Steve Jobs. Porém, apenas dois anos depois, sua empresa multibilionária é dissolvida."
-    },
-    {
-      "show_name": "Mary Tyler Moore - A Dama da TV",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_mary-tyler-moore-a-dama-da-tv-2023_l_m.jpg",
-      "show_category": "Documentary / 2023",
-      "start_time": "12:18",
-      "end_time": "14:23",
-      "episode_description": "Esse documentário constrói um retrato íntimo da carreira da atriz Mary Tyler Moore, revelando a figura complexa e empática que revolucionou a representação da mulher na mídia."
-    },
-    {
-      "show_name": "Game Change",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_game-change-2012_l_m.jpg",
-      "show_category": "Docudrama / 2012 /7.4",
-      "start_time": "14:23",
-      "end_time": "16:28",
-      "episode_description": "A governadora do Alaska Sarah Palin torna-se candidata à vice-presidência de John McCain na campanha de 2008."
-    },
-    {
-      "show_name": "O Diabo Não Tem Descanso",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-diabo-n-o-tem-descanso-2024_l_m.jpg",
+      "show_name": "Febre Espacial",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_febre-espacial-2024_l_m.jpg",
       "show_category": "Documentary / 2024",
-      "start_time": "16:28",
-      "end_time": "17:08",
-      "episode_description": "Tracii trabalha para garantir a segurança de mulheres que buscam aborto diante das novas restrições. Obra acompanha a equipe que continua a prestar serviços médicos em um ambiente onde as clínicas frequentemente enfrentam ameaças diárias."
+      "start_time": "07:54",
+      "end_time": "09:34",
+      "episode_description": "Uma crônica da disputa entre os empresários espaciais Chris Kemp e Peter Beck. Competindo para quebrar o domínio cósmico de Elon Musk, eles correm para revolucionar a exploração espacial."
     },
     {
-      "show_name": "Recontagem",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_recontagem-2008_l_m.jpg",
-      "show_category": "Docudrama / 2008 /7.5",
-      "start_time": "17:08",
-      "end_time": "19:14",
-      "episode_description": "Durante as eleições presidenciais de 2000, Al Gore concede a presidência para George W. Bush, mas repudia-se quando fica sabendo das irregularidades na contagem de votos na Flórida. O estrategista democrático Ron Klain e Michael Whouley correm para a Flórida para descobrir a verdade e os Republicanos sob James Baker também tentam fazer o mesmo."
+      "show_name": "Má Educação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ma-educac-o-2019_l_m.jpg",
+      "show_category": "Comedy drama / 2019",
+      "start_time": "09:34",
+      "end_time": "11:29",
+      "episode_description": "O sistema educacional dos Estados Unidos é abalado quando é descoberto o maior escândalo de apropriação indébita de fundos de escolas públicas na história do país."
     },
     {
-      "show_name": "White House Plumbers",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_white-house-plumbers-s01e01_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 1 - O Roubo de Beverly Hills",
-      "start_time": "19:14",
-      "end_time": "20:12",
-      "episode_description": "Um ano antes da infame operação Watergate, E. Howard Hunt e G. Gordon Liddy são designados para investigar o vazamento dos Papéis do Pentágono, reunindo uma equipe de cubanos; Hunt e sua esposa Dorothy conhecem os Liddy."
+      "show_name": "Terrorismo Americano - O Atentado de Oklahoma City",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_terrorismo-americano-o-atentado-de-oklahoma-city_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "11:29",
+      "end_time": "13:19",
+      "episode_description": "Explora os perigos da escalada da violência doméstica nos Estados Unidos, analisando o atentado a bomba na cidade de Oklahoma em 1995, o ato mais mortal de terrorismo doméstico no país."
     },
     {
-      "show_name": "White House Plumbers",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_white-house-plumbers-s01e02_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 2 - Por Favor, Destrua Isso, Hein?",
-      "start_time": "20:12",
-      "end_time": "21:00",
-      "episode_description": "Hunt e Dorothy entretêm Liddy e sua esposa Fran em seu clube de campo e seus filhos Lisa e Saint John pintam um retrato nada perfeito da família; em conflito com o procurador-geral de Nixon, John Mitchell, Hunt e Liddy têm a chance de se redimirem."
+      "show_name": "Filho Nativo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_filho-nativo-2019_l_m.jpg",
+      "show_category": "Drama / 2019",
+      "start_time": "13:19",
+      "end_time": "15:03",
+      "episode_description": "Um jovem afro-americano envolve-se em um mundo sedutor de dinheiro e poder trabalhando como motorista de um rico empresário em Chicago."
     },
     {
-      "show_name": "White House Plumbers",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_white-house-plumbers-s01e03_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 3 - Não Beba o Uísque no Watergate",
-      "start_time": "21:00",
-      "end_time": "21:56",
-      "episode_description": "Hunt, Liddy e os cubanos tentam invadir os escritórios dos Democratas no Watergate para plantar aparelhos de escuta para a Casa Branca."
+      "show_name": "The Night Of",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-night-of-s01e01_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - The Beach",
+      "start_time": "15:03",
+      "end_time": "16:23",
+      "episode_description": "Um estudante americano de origem paquistanesa busca ajuda jurídica após ser envolvido em um assassinato em Nova York."
     },
     {
-      "show_name": "White House Plumbers",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_white-house-plumbers-s01e04_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 4 - A Esposa do Escritor",
-      "start_time": "21:56",
-      "end_time": "22:54",
-      "episode_description": "Recuperando-se das prisões no Watergate, Hunt pede a ajuda de Saint John para descartar as evidências; Liddy avisa o procurador-geral que os roubos podem estar ligados ao presidente; Dorothy assume o controle para proteger sua família e os Liddys."
+      "show_name": "The Night Of",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-night-of-s01e02_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Subtle Beast",
+      "start_time": "16:23",
+      "end_time": "17:23",
+      "episode_description": "Enquanto o advogado John Stone aconselha Naz, o detetive Dennis Box investiga o crime."
     },
     {
-      "show_name": "White House Plumbers",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_white-house-plumbers-s01e05-true-believers_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 5 - Verdadeiros Fiéis",
-      "start_time": "22:54",
+      "show_name": "The Night Of",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-night-of-s01e03_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3 - A Dark Crate",
+      "start_time": "17:23",
+      "end_time": "18:23",
+      "episode_description": "Enquanto aguarda em Rikers, Naz percebe que sua sobrevivência, ou talvez morte, depende de um colega de prisão."
+    },
+    {
+      "show_name": "The Night Of",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-night-of-s01e04_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - The Art of War",
+      "start_time": "18:23",
+      "end_time": "19:23",
+      "episode_description": "O advogado John Stone trabalha para revelar informações sobre o crime."
+    },
+    {
+      "show_name": "The Night Of",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-night-of-s01e05_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 5 - The Season of the Witch",
+      "start_time": "19:23",
+      "end_time": "20:23",
+      "episode_description": "Box reconstitui o paradeiro e os passos de Naz na noite do assassinato."
+    },
+    {
+      "show_name": "The Night Of",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-night-of-s01e06_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 6 - Samson and Delilah",
+      "start_time": "20:23",
+      "end_time": "21:23",
+      "episode_description": "A promotora Helen Weiss se prepara para o julgamento que se aproxima; a aliança entre Naz e Freddy continua."
+    },
+    {
+      "show_name": "The Night Of",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-night-of-s01e07_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 7 - Ordinary Death",
+      "start_time": "21:23",
+      "end_time": "22:23",
+      "episode_description": "No julgamento, a defesa de Nasir Khan apresenta a sua visão do caso."
+    },
+    {
+      "show_name": "The Night Of",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-night-of-s01e08_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 8 - The Call of the Wild",
+      "start_time": "22:23",
       "end_time": "00:00",
-      "episode_description": "Liddy avisa John Dean que Hunt pode ceder; Kevan pede que seu pai seja sincero em seu depoimento no Senado, mas pode ser tarde demais."
+      "episode_description": "Stone é colocado sob os holofotes quando uma controvérsia envolvendo a defesa surge."
     }
   ]
 }

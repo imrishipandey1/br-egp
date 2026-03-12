@@ -1,102 +1,110 @@
 {
   "channel": "Telecine Action",
-  "date": "11/03/2026",
+  "date": "12/03/2026",
   "schedule": [
+    {
+      "show_name": "O Sobrevivente",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-sobrevivente-2021_l_m.jpg",
+      "show_category": "Action / 2021",
+      "start_time": "00:00",
+      "end_time": "01:40",
+      "episode_description": "Um ano após a queda da civilização por uma epidemia viral, ex-agente do FBI precisa proteger uma jovem imune à doença de um perigoso criminoso."
+    },
+    {
+      "show_name": "Medida Provisória",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_medida-provisoria-2020_l_m.jpg",
+      "show_category": "Drama / 2020",
+      "start_time": "01:40",
+      "end_time": "03:35",
+      "episode_description": "Em uma iniciativa de reparação pelo passado escravocrata, o governo brasileiro decreta uma medida provisória e provoca uma reação imediata no Congresso Nacional. Os parlamentares aprovam uma medida que obriga os cidadãos negros a se mudar para a África na intenção de retomar as suas origens. A aprovação afeta diretamente a vida do casal formado pela médica Capitu e pelo advogado Antonio, além de seu primo, o jornalista André, que mora com eles no mesmo apartamento."
+    },
+    {
+      "show_name": "Estrada Perdida",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_estrada-perdida-1997_l_m.jpg",
+      "show_category": "Thriller / 1997",
+      "start_time": "03:35",
+      "end_time": "06:00",
+      "episode_description": "Um músico é acusado de assassinar sua esposa em casa. Ele sabe que não foi ele, mas ao ver as fitas da câmera de segurança, sua opinião muda, e não consegue entender o que aconteceu até descobrir a verdade."
+    },
+    {
+      "show_name": "Queima de Arquivo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_queima-de-arquivo-1996_l_m.jpg",
+      "show_category": "Action / 1996 /6.0",
+      "start_time": "06:00",
+      "end_time": "08:05",
+      "episode_description": "Agente do governo especializado, John Kruger é encarregado de proteger uma testemunha-chave que sabe tudo sobre uma empresa de armas que pretende vender um fuzil revolucionário no mercado negro."
+    },
     {
       "show_name": "Agente das Sombras",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_agente-das-sombras-2022_l_m.jpg",
       "show_category": "Action / 2022",
-      "start_time": "01:35",
-      "end_time": "03:25",
+      "start_time": "08:05",
+      "end_time": "10:00",
       "episode_description": "Travis Block trabalha para o FBI, mas não é um agente comum. Ele se move pelo mundo das sombras, pelos bastidores, ajudando agentes secretos que se veem em uma situação da qual não conseguem escapar. Ele acaba envolvido em uma conspiração quando um agente secreto questiona os seus superiores. Agora, cabe a Block encontrar esse sujeito, e também descobrir se não está sendo usado pelo homem em quem confia."
     },
     {
-      "show_name": "Halloween Ends",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_halloween-ends-2022_l_m.jpg",
-      "show_category": "Holiday / 2022 /5.0",
-      "start_time": "03:25",
-      "end_time": "05:25",
-      "episode_description": "Depois de seu último encontro com Michael Myers, Laurie Strode finalmente decide se libertar e abraçar a vida. No entanto, um assassinato local desencadeia uma onda de violência e terror, forçando-a a enfrentar o mal que ela não pode controlar."
+      "show_name": "Fogo Contra Fogo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_fogo-contra-fogo-1995_l_m.jpg",
+      "show_category": "Crime drama / 1995",
+      "start_time": "10:00",
+      "end_time": "13:00",
+      "episode_description": "Em Los Angeles, um detetive ilustre e um ladrão sofisticado se enfrentam e compreendem que precisam um do outro. A linha que separa criminosos e policiais nem sempre é bem definida."
     },
     {
-      "show_name": "O Exorcista",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-exorcista-1973-1_l_m.jpg",
-      "show_category": "Horror / 1973",
-      "start_time": "05:25",
-      "end_time": "05:25",
-      "episode_description": "Atriz vai gradativamente tomando consciência de que a sua filha de 12 anos está tendo um comportamento completamente assustador. Ela decide pedir ajuda a um padre, que também é um psiquiatra, e ele chega à conclusão de que a garota está possuída pelo demônio. Ele solicita a ajuda de um segundo sacerdote, especialista em exorcismo, para tentar livrar a menina desta terrível possessão."
+      "show_name": "Fúria de Titãs",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_furia-de-tit-s-2010_l_m.jpg",
+      "show_category": "Fantasy / 2010 /5.8",
+      "start_time": "13:00",
+      "end_time": "14:50",
+      "episode_description": "Perseu descobre que é o filho mortal de Zeus, mas recusa-se a aceitar tal condição. Ele encontra-se entre a batalha dos deuses e sem ajuda para salvar a cidade e sua família da vingança de seu tio Hades, o deus do submundo. Sem nada a perder, Perseu lidera um grupo de guerreiros em uma perigosa missão para prevenir que Hades cause uma devastação na Terra."
     },
     {
-      "show_name": "O Exorcista",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-exorcista-1973-1_l_m.jpg",
-      "show_category": "Horror / 1973",
-      "start_time": "05:25",
-      "end_time": "07:35",
-      "episode_description": "Atriz vai gradativamente tomando consciência de que a sua filha de 12 anos está tendo um comportamento completamente assustador. Ela decide pedir ajuda a um padre, que também é um psiquiatra, e ele chega à conclusão de que a garota está possuída pelo demônio. Ele solicita a ajuda de um segundo sacerdote, especialista em exorcismo, para tentar livrar a menina desta terrível possessão."
-    },
-    {
-      "show_name": "Velozes e Furiosos 6",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_velozes-e-furiosos-6-2013_l_m.jpg",
-      "show_category": "Thriller / 2013",
-      "start_time": "07:35",
-      "end_time": "09:50",
-      "episode_description": "Após roubo no Rio de Janeiro que rendeu 100 milhões, Dom e sua equipe se separaram. Hobbs convoca Dom para reunir um grupo de elite em Londres contra mercenários liderados por alguém apoiado por Letty, ex-namorada de Dom que ele pensava estar morta."
-    },
-    {
-      "show_name": "Caçada Mortal",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cacada-mortal-2014-1_l_m.jpg",
-      "show_category": "Crime drama / 2014",
-      "start_time": "09:50",
-      "end_time": "11:50",
-      "episode_description": "O ex-policial Matthew Scudder, assombrado pela morte de uma criança, trabalha como detetive particular em Nova York. Oito anos depois, ajuda um traficante a encontrar os assassinos de sua esposa, descobrindo uma conspiração que ameaça muitas vidas."
-    },
-    {
-      "show_name": "Halloween Ends",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_halloween-ends-2022_l_m.jpg",
-      "show_category": "Holiday / 2022 /5.0",
-      "start_time": "11:50",
-      "end_time": "13:50",
-      "episode_description": "Depois de seu último encontro com Michael Myers, Laurie Strode finalmente decide se libertar e abraçar a vida. No entanto, um assassinato local desencadeia uma onda de violência e terror, forçando-a a enfrentar o mal que ela não pode controlar."
-    },
-    {
-      "show_name": "The Last Samurai",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-last-samurai-2003_l_m.jpg",
-      "show_category": "Adventure / 2003 /7.8",
-      "start_time": "13:50",
+      "show_name": "Espiral - O Legado de Jogos Mortais",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_espiral-o-legado-de-jogos-mortais-2021_l_m.jpg",
+      "show_category": "Horror / 2021",
+      "start_time": "14:50",
       "end_time": "16:30",
-      "episode_description": "O soldado Nathan Algren deixa os Estados Unidos rumo ao Japão feudal. Na tentativa de derrotar um comandante, é capturado. Algren sabe o destino de prisioneiros inimigos, mas fica surpreso ao ser poupado e se sente atraído pelo estilo de vida dos samurais, entre outras coisas."
+      "episode_description": "O detetive Zeke Banks investiga o caso de um assassino em série que está seguindo os passos de Jigsaw. Involuntariamente, ele se vê preso no centro do jogo mórbido do homicida."
     },
     {
-      "show_name": "O Demolidor",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-demolidor-1993-1_l_m.jpg",
-      "show_category": "Science fiction / 1993",
+      "show_name": "Máquina Mortífera",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_maquina-mortifera-1987-1_l_m.jpg",
+      "show_category": "Action / 1987",
       "start_time": "16:30",
-      "end_time": "18:35",
-      "episode_description": "O policial John Spartan e o violento bandido Simon Phoenix são condenados a um encarceramento congelado conhecido como CryoPrison. Quando Spartan é finalmente descongelado 36 anos depois, já é 2032, e Los Angeles é agora uma utopia pacifista chamada San Angeles. Porém, com Phoenix novamente à solta, Spartan deve colaborar com uma policial do futuro, Lenina, para apreender o assassino."
+      "end_time": "18:30",
+      "episode_description": "Após perder a esposa, o detetive Martin Riggs torna-se temerário e suicida. Transferido, entra em conflito com Roger Murtaugh, veterano do departamento. Juntos, descobrem um cartel de drogas e formam um vínculo em situações perigosas."
     },
     {
-      "show_name": "A Sereia - Lago dos Mortos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-sereia-lago-dos-mortos-2018_l_m.jpg",
-      "show_category": "Fantasy / 2018",
-      "start_time": "18:35",
-      "end_time": "20:10",
-      "episode_description": "Uma sereia malvada se apaixona por Roman, noivo de Marina, e tenta mantê-lo longe dela em seu Reino da Morte debaixo d'água."
+      "show_name": "Sem Fôlego",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sem-folego-2021_l_m.jpg",
+      "show_category": "Action / 2021",
+      "start_time": "18:30",
+      "end_time": "20:05",
+      "episode_description": "O investigador Alex é enviado à pequena cidade de Santa Brígida para resolver o assassinato do filho de uma família rica. Surpreendido por outros crimes parecidos, sua investigação toma um rumo sombrio."
     },
     {
-      "show_name": "Os Mercenários",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-mercenarios-2010-1_l_m.jpg",
-      "show_category": "Action / 2010",
-      "start_time": "20:10",
+      "show_name": "+Velozes +Furiosos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_velozes-furiosos-2003-1_l_m.jpg",
+      "show_category": "Action / 2003",
+      "start_time": "20:05",
       "end_time": "22:00",
-      "episode_description": "Um grupo de mercenários, liderado por Barney Ross e composto de seus homens de confiança, aceita uma missão que parece rotineira: uma operação secreta, a mando da Igreja, para invadir o país sul-americano de Vilena e derrubar seu ditador. Não demora muito para o grupo perceber que a missão é uma operação suicida. Presos em uma perigosa teia de traições, mas sabendo que um inocente está em perigo, Barney e seus homens decidem finalizar o trabalho."
+      "episode_description": "O ex-policial Brian O'Conner se muda de Los Angeles para Miami para recomeçar sua vida. Ele acaba se envolvendo em rachas na sua nova cidade com seu amigo Tej e Suki. Suas aventuras terminam quando ele é preso e faz um acordo com agentes do FBI. Brian tem a missão muito perigosa de prender um poderoso chefe do cartel das drogas."
     },
     {
-      "show_name": "O Especialista",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-especialista-1994-1_l_m.jpg",
-      "show_category": "Action / 1994",
+      "show_name": "O Último Caçador de Bruxas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-ultimo-cacador-de-bruxas-2015_l_m.jpg",
+      "show_category": "Fantasy / 2015",
       "start_time": "22:00",
-      "end_time": "00:00",
-      "episode_description": "Mulher contrata um especialista em explosivos para realizar plano de vingança contra os gângsters que mataram seus pais. Ray Quick trabalhava para a C.I.A., mas largou tudo depois que uma operação fracassada contra um traficante de drogas provocou a morte de uma criança. Agora, o perito em explosivos que vive em Miami é persuadido por uma mulher obcecada que quer se vingar de uma poderosa família do crime organizado."
+      "end_time": "23:55",
+      "episode_description": "Kaulder é um caçador de bruxas amaldiçoado a viver eternamente. Um dia, uma nova ameaça surge e coloca a humanidade em risco. Agora, ele precisa contar com a ajuda da jovem bruxa Chloe para enfrentar o mal."
+    },
+    {
+      "show_name": "Vingança Fatal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vinganca-fatal-2014_l_m.jpg",
+      "show_category": "Action / 2014",
+      "start_time": "23:55",
+      "end_time": "01:45",
+      "episode_description": "Um mestre das artes marciais e ex-fuzileiro naval vai ao Brasil para caçar os homens que assassinaram sua irmã e chega a uma cidade dominada pela Yakuza."
     }
   ]
 }
