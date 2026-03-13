@@ -1,28 +1,52 @@
 {
   "channel": "TCM",
-  "date": "13/03/2026",
+  "date": "14/03/2026",
   "schedule": [
     {
-      "show_name": "Human Capital",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_human-capital-2019_l_m.jpg",
-      "show_category": "Drama / 2019 /5.7",
-      "start_time": "01:12",
-      "end_time": "02:49",
+      "show_name": "Capital humano",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_capital-humano-2019_l_m.jpg",
+      "show_category": "Drama / 2019",
+      "start_time": "01:07",
+      "end_time": "02:40",
       "episode_description": "Os mundos de duas famílias totalmente diferentes colidem quando seus filhos começam um relacionamento. As relações se tornam conturbadas depois de que o casal se envolve em um evento fatal."
     },
     {
       "show_name": "A Lista de Beijos",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_a-lista-de-beijos-2023_l_m.jpg",
       "show_category": "Comedy / 2023",
-      "start_time": "02:49",
-      "end_time": "04:21",
+      "start_time": "02:40",
+      "end_time": "04:02",
       "episode_description": "Quando um rumor expõe sua falta de técnica para beijar, Camille, uma adolescente de 16 anos com pouca experiência romântica, planeja beijar os estudantes mais desejados da escola para desmentir os boatos."
     },
     {
       "show_name": "Hollywood One on One",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
       "show_category": "Talk",
-      "start_time": "04:21",
+      "start_time": "04:02",
+      "end_time": "04:36",
+      "episode_description": "Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!"
+    },
+    {
+      "show_name": "Hollywood One on One",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
+      "show_category": "Talk",
+      "start_time": "04:36",
+      "end_time": "05:11",
+      "episode_description": "Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!"
+    },
+    {
+      "show_name": "Hollywood One on One",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
+      "show_category": "Talk",
+      "start_time": "05:11",
+      "end_time": "05:46",
+      "episode_description": "Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!"
+    },
+    {
+      "show_name": "Hollywood One on One",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
+      "show_category": "Talk",
+      "start_time": "05:46",
       "end_time": "06:00",
       "episode_description": "Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!"
     },

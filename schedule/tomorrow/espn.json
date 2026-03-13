@@ -1,142 +1,134 @@
 {
   "channel": "ESPN Brasil",
-  "date": "13/03/2026",
+  "date": "14/03/2026",
   "schedule": [
     {
-      "show_name": "Boca Juniors x San Lorenzo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-boca-juniors-x-san-lorenzo-2_l_m.jpg",
-      "show_category": "Campeonato Argentino",
-      "start_time": "00:30",
-      "end_time": "02:30",
-      "episode_description": "Acompanhe as grandes partidas do torneio de elite do futebol argentino."
-    },
-    {
-      "show_name": "Bola da Vez",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_bola-da-vez_l_m.jpg",
+      "show_name": "Resenha ESPN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_resenha-espn_l_m.jpg",
       "show_category": "Sports talk",
-      "start_time": "02:30",
-      "end_time": "03:30",
-      "episode_description": "Grandes personalidades do esporte nacional e internacional são colocadas no \"paredão\" e respondem às perguntas de uma bancada de entrevistadores formada por jornalistas, ex-atletas ou especialistas em geral."
-    },
-    {
-      "show_name": "Destaques da Conmebol Sulamericana",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-destaques-da-conmebol-sulamericana_l_m.jpg",
-      "show_category": "",
-      "start_time": "03:30",
-      "end_time": "04:30",
-      "episode_description": "Os melhores lances, gols, acontecimentos e destaque na segunda competição mais importante do futebol masculino entre clubes da América do Sul."
-    },
-    {
-      "show_name": "Athletic Bilbao x Barcelona",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-athletic-bilbao-x-barcelona_l_m.jpg",
-      "show_category": "Campeonato Espanhol",
-      "start_time": "04:30",
-      "end_time": "04:30",
-      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
-    },
-    {
-      "show_name": "Athletic Bilbao x Barcelona",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-athletic-bilbao-x-barcelona_l_m.jpg",
-      "show_category": "Campeonato Espanhol",
-      "start_time": "04:30",
-      "end_time": "06:30",
-      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
-    },
-    {
-      "show_name": "Linha de Passe: Mesa-Redonda",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sports-talk-linha-de-passe-mesa-redonda_l_m.jpg",
-      "show_category": "",
-      "start_time": "06:30",
-      "end_time": "08:00",
-      "episode_description": "Comentaristas esportivos conceituados entram em campo para uma análise completa da rodada do futebol ao estilo \"mesa redonda\", com debates acalorados e comentários de qualidade, sempre a partir de um olhar crítico e da imparcialidade."
-    },
-    {
-      "show_name": "SportsCenter",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-sportscenter_l_m.jpg",
-      "show_category": "",
-      "start_time": "08:00",
-      "end_time": "09:00",
-      "episode_description": "Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abdicar do bom humor."
-    },
-    {
-      "show_name": "Huracán x River Plate",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-huracan-x-river-plate_l_m.jpg",
-      "show_category": "Campeonato Argentino",
-      "start_time": "09:00",
-      "end_time": "11:00",
-      "episode_description": "Acompanhe as grandes partidas do torneio de elite do futebol argentino."
-    },
-    {
-      "show_name": "SportsCenter",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-sportscenter_l_m.jpg",
-      "show_category": "",
-      "start_time": "11:00",
-      "end_time": "13:00",
-      "episode_description": "Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abdicar do bom humor."
-    },
-    {
-      "show_name": "F Show",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-f-show_l_m.jpg",
-      "show_category": "",
-      "start_time": "13:00",
-      "end_time": "15:00",
-      "episode_description": "O programa debate os principais acontecimentos do mundo do futebol de forma acalorada porém inteligente, mesclando jornalismo, opinião e entretenimento."
-    },
-    {
-      "show_name": "Mundo F",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-mundo-f_l_m.jpg",
-      "show_category": "",
-      "start_time": "15:00",
-      "end_time": "16:30",
-      "episode_description": "Os principais assuntos que são notícia no futebol internacional abordados com linguagem contemporânea; grandes temas, clubes e personagens são destacados por especialistas que trazem informação e opinião."
-    },
-    {
-      "show_name": "SportsCenter",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-sportscenter_l_m.jpg",
-      "show_category": "",
-      "start_time": "16:30",
-      "end_time": "17:30",
-      "episode_description": "Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abdicar do bom humor."
-    },
-    {
-      "show_name": "Equipe F",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-equipe-f_l_m.jpg",
-      "show_category": "",
-      "start_time": "17:30",
-      "end_time": "19:30",
-      "episode_description": "Especialistas comentam os principais acontecimentos notícia no futebol brasileiro."
-    },
-    {
-      "show_name": "SportsCenter",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-sportscenter_l_m.jpg",
-      "show_category": "",
-      "start_time": "19:30",
-      "end_time": "21:00",
-      "episode_description": "Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abdicar do bom humor."
+      "start_time": "00:00",
+      "end_time": "01:00",
+      "episode_description": "Ex-jogador com passagem por São Paulo, Sevilla, Real Madrid, Arsenal, Roma e Cruzeiro, entre outros clubes, Júlio Baptista conta histórias inéditas dos tempos de \"Galácticos\" e fala sobre Seleção Brasileira, futuro profissional e muito mais."
     },
     {
       "show_name": "Mina de Passe",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_mina-de-passe_l_m.jpg",
       "show_category": "Sports talk",
-      "start_time": "21:00",
-      "end_time": "22:00",
+      "start_time": "01:00",
+      "end_time": "02:00",
       "episode_description": "Acompanhe tudo sobre o futebol feminino."
     },
     {
-      "show_name": "Resenha ESPN",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_resenha-espn_l_m.jpg",
-      "show_category": "Sports talk",
-      "start_time": "22:00",
-      "end_time": "23:00",
-      "episode_description": "Ex-jogador com passagem por São Paulo, Sevilla, Real Madrid, Arsenal, Roma e Cruzeiro, entre outros clubes, Júlio Baptista conta histórias inéditas dos tempos de \"Galácticos\" e fala sobre Seleção Brasileira, futuro profissional e muito mais."
+      "show_name": "Campeonato Inglês - Segunda Divisão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-campeonato-ingles-segunda-divis-o_l_m.jpg",
+      "show_category": "Campeonato Inglês - Segunda Divisão",
+      "start_time": "02:00",
+      "end_time": "04:00",
+      "episode_description": "Vinte e quatro equipes brigam pelo acesso à Premier League na segunda divisão do futebol inglês."
+    },
+    {
+      "show_name": "Boca Juniors x San Lorenzo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-boca-juniors-x-san-lorenzo-2_l_m.jpg",
+      "show_category": "Campeonato Argentino",
+      "start_time": "04:00",
+      "end_time": "06:00",
+      "episode_description": "Acompanhe as grandes partidas do torneio de elite do futebol argentino."
+    },
+    {
+      "show_name": "Premier League Stories",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-premier-league-stories_l_m.jpg",
+      "show_category": "",
+      "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": "Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês."
+    },
+    {
+      "show_name": "Campeonato Espanhol",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-campeonato-espanhol-3_l_m.jpg",
+      "show_category": "Campeonato Espanhol",
+      "start_time": "06:30",
+      "end_time": "06:50",
+      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
     },
     {
       "show_name": "SportsCenter",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-sportscenter_l_m.jpg",
       "show_category": "",
-      "start_time": "23:00",
-      "end_time": "",
+      "start_time": "06:50",
+      "end_time": "07:00",
       "episode_description": "Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abdicar do bom humor."
+    },
+    {
+      "show_name": "Campeonato Inglês",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-campeonato-ingles-1_l_m.jpg",
+      "show_category": "Campeonato Inglês",
+      "start_time": "07:00",
+      "end_time": "08:50",
+      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
+    },
+    {
+      "show_name": "Mundo Premier League",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mundo-premier-league_l_m.jpg",
+      "show_category": "Soccer",
+      "start_time": "08:50",
+      "end_time": "09:20",
+      "episode_description": "Um panorama completo sobre o Campeonato Inglês ao redor do mundo. As últimas notícias, curiosidades, entrevistas com jogadores e técnicos e histórias sobre a paixão do torcedor pelo futebol inglês."
+    },
+    {
+      "show_name": "Campeonato Inglês",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-campeonato-ingles-1_l_m.jpg",
+      "show_category": "Campeonato Inglês",
+      "start_time": "09:20",
+      "end_time": "12:00",
+      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
+    },
+    {
+      "show_name": "Campeonato Inglês",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-campeonato-ingles-1_l_m.jpg",
+      "show_category": "Campeonato Inglês",
+      "start_time": "12:00",
+      "end_time": "14:30",
+      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
+    },
+    {
+      "show_name": "Campeonato Inglês",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-campeonato-ingles-1_l_m.jpg",
+      "show_category": "Campeonato Inglês",
+      "start_time": "14:30",
+      "end_time": "16:55",
+      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
+    },
+    {
+      "show_name": "Campeonato Espanhol",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-campeonato-espanhol-3_l_m.jpg",
+      "show_category": "Campeonato Espanhol",
+      "start_time": "16:55",
+      "end_time": "19:00",
+      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
+    },
+    {
+      "show_name": "ESPN FC 1ª Edição",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-espn-fc-1-edic-o_l_m.jpg",
+      "show_category": "",
+      "start_time": "19:00",
+      "end_time": "20:00",
+      "episode_description": "Fique por dentro dos principais temas e personagens notícia no futebol internacional, com uma linguagem contemporânea falada nas redes."
+    },
+    {
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-sportscenter_l_m.jpg",
+      "show_category": "",
+      "start_time": "20:00",
+      "end_time": "22:00",
+      "episode_description": "Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abdicar do bom humor."
+    },
+    {
+      "show_name": "Bola da Vez",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bola-da-vez_l_m.jpg",
+      "show_category": "Sports talk",
+      "start_time": "22:00",
+      "end_time": "",
+      "episode_description": "Ex-tenista profissional que passou a ocupar cargo executivo de relação com atletas após a aposentadoria, o brasileiro André Sá fala sobre os diferentes momentos da carreira, metas profissionais e muito mais."
     }
   ]
 }

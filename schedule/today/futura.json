@@ -1,110 +1,102 @@
 {
   "channel": "Futura",
-  "date": "12/03/2026",
+  "date": "13/03/2026",
   "schedule": [
     {
-      "show_name": "Na Trilha da Energia",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_na-trilha-da-energia-s03e03-a-energia-sera-verde_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 3 - A Energia Será Verde",
-      "start_time": "00:00",
-      "end_time": "00:30",
-      "episode_description": "Hidrogênio verde japonês olha para o futuro. Tecnologia e pesquisa para desenvolvimento sustentável."
+      "show_name": "Identidade Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_identidade-brasil_l_m.jpg",
+      "show_category": "Educational",
+      "start_time": "00:15",
+      "end_time": "00:45",
+      "episode_description": "Reflexões contemporâneas sobre educação, cultura, ciência, tecnologia e inovação com base no conhecimento de especialistas."
     },
     {
-      "show_name": "A Trilha Transcarioca",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-trilha-transcarioca-s01e02-arte-e-historia_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 2 - Arte e História",
-      "start_time": "00:30",
-      "end_time": "01:00",
-      "episode_description": "Os verdadeiros tesouros históricos e artísticos revelados no trajeto da Trilha Transcarioca, que cruza o Rio de Janeiro por um percurso de cerca de 180 km, da Barra de Guaratiba até o Morro da Urca, aos pés do Pão de Açúcar."
+      "show_name": "Quando Elas se Movimentam",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quando-elas-se-movimentam-2024_l_m.jpg",
+      "show_category": "Documentary / 2024",
+      "start_time": "00:45",
+      "end_time": "02:05",
+      "episode_description": "Três personagens de diferentes regiões que manifestam e corporificam a conquista dos direitos da população brasileira, viabilizados e garantidos pelas leis aprovadas pelo senado federal."
     },
     {
-      "show_name": "A(u)tores",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-u-tores-s04e07-mario-de-andrade-por-hugo-germano_l_m.jpg",
-      "show_category": "Temporada 4 Episódio 7 - Mario de Andrade por Hugo Germano",
-      "start_time": "01:00",
-      "end_time": "01:30",
-      "episode_description": "O ator Hugo Germano se destacou pela crítica e público em sua atuação no espetáculo Macunaíma, agora fala sobre sua adaptação e a obra de Mário de Andrade."
+      "show_name": "Boas Práticas da Rede",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_boas-praticas-da-rede-s01e04-get-elza-soares_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - GET Elza Soares",
+      "start_time": "02:05",
+      "end_time": "02:15",
+      "episode_description": "O projeto \"Genius\", de robótica sustentável, elaborado pela professora Letícia Coelho, tem como finalidade contextualizar as habilidades curriculares e apresentar novas formas de aprendizagem junto aos alunos do quinto ano."
     },
     {
       "show_name": "Som e Prosa",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_som-e-prosa_l_m.jpg",
       "show_category": "Music",
-      "start_time": "01:30",
-      "end_time": "01:45",
+      "start_time": "02:15",
+      "end_time": "02:30",
       "episode_description": "A cada semana, artistas e compositores se apresentam e discutem seus repertórios, tradições e novidades do cenário da música."
     },
     {
-      "show_name": "Entrevista - Infâncias",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_entrevista-infancias_l_m.jpg",
-      "show_category": "Interview",
-      "start_time": "01:45",
-      "end_time": "02:00",
-      "episode_description": "Cássia Bittens é mestra em Literatura e criadora de um projeto de leitura para bebês. Ela fala sobre a importância de ler para os pequenos e proporcionar a eles o contato com livros desde a primeira infância."
-    },
-    {
-      "show_name": "(In)Confidências",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_in-confidencias-s01e01-adelia-prado_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 1 - Adélia Prado",
-      "start_time": "02:00",
-      "end_time": "02:15",
-      "episode_description": "Como nasce uma poeta: a gratidão de existir. Adélia Prado conta sobre processos de criação."
-    },
-    {
-      "show_name": "E Aí, Professor?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_e-ai-professor-s03e06-consciencia-cidad-na-era-digital_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 6 - Consciência Cidadã na Era Digital",
-      "start_time": "02:15",
-      "end_time": "02:30",
-      "episode_description": "Especialistas analisam desafios e caminhos para fortalecer a cidadania digital, e como garantir acesso e combater a desinformação."
-    },
-    {
-      "show_name": "PCDPOD",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_pcdpod-s01e04-hahaha-ta-rindo-de-que_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 4 - Hahaha, Tá Rindo de quê?",
+      "show_name": "Caça Joia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_caca-joia-s03e10-manu-guedelha_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 10 - Manu Guedelha",
       "start_time": "02:30",
-      "end_time": "03:30",
-      "episode_description": "Jota Marques e o humorista, Gigante Léo, discutem os limites do humor e o despreparo do sistema educacional brasileiro para lidar comas diferenças."
+      "end_time": "02:45",
+      "episode_description": "Chinaina visita a escola de teatro e dança da Universidade Federal do Pará para entrevistar Malu Guedelha. Ao final, o programa apresenta o clipe de \"Na Canção de Você\"."
     },
     {
-      "show_name": "Natureza Forte",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_natureza-forte-s02e10-o-beneficiamento-de-frutos-no-semiarido_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 10 - O Beneficiamento de Frutos no Semiárido",
+      "show_name": "Territórios",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_territorios-s01e05-isabela-godoi_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 5 - Isabela Godoi",
+      "start_time": "02:45",
+      "end_time": "03:00",
+      "episode_description": "Conheça Isabela Godoi, cineasta, batuqueira, poeta e aprendiz de curandeira, cidadã do mundo, uma teia de ancestralidades, habitante de Niterói, que é a cidade que escolheu para ser seu lar."
+    },
+    {
+      "show_name": "Brasil da Paz",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_brasil-da-paz_l_m.jpg",
+      "show_category": "Community",
+      "start_time": "03:00",
+      "end_time": "03:30",
+      "episode_description": "Uma sociedade de paz depende de justiça social e redução da violência. No interior de Minas Gerais, uma iniciativa humaniza a segurança pública. Em Recife, políticas públicas mudam áreas vulneráveis."
+    },
+    {
+      "show_name": "Sementes da Educação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sementes-da-educac-o-s02e10-servico-de-tecnologia-alternativa-serta_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 10 - Serviço de Tecnologia Alternativa - SERTA",
       "start_time": "03:30",
       "end_time": "04:00",
-      "episode_description": "Lídio trocou a capital por Parnamirim e, na caatinga, transformou frutas e ervas locais em cachaças, picles e doces. Ele criou uma fábrica com a esposa que impulsiona a economia e quebra barreiras no semiárido."
+      "episode_description": "O SERTA oferece o curso técnico de Agroecologia voltado para jovens e adultos de diversas regiões do Nordeste. Localizada em Pernambuco, a escola funciona em Glória do Goitá, na Zona da Mata, e em Ibimirim, no Sertão."
     },
     {
       "show_name": "Eco Brasil",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_eco-brasil-s01e03-mitos-e-verdades-sobre-a-amazonia_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 3 - Mitos e Verdades Sobre a Amazônia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_eco-brasil-s01e04-vida-nas-mega-cidades_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - Vida nas Mega Cidades",
       "start_time": "04:00",
       "end_time": "04:25",
-      "episode_description": "Em uma visita aos Karipunas, o programa apresenta um leque de possibilidades na Amazônia, a floresta que tem a maior área de vegetação tropical do mundo."
+      "episode_description": "Na megalópole São Paulo é urgente diminuir a poluição, o trânsito e o estresse, com um planejamento urbano mais sustentável. A arquiteta Fernanda Bárbara desenvolve projetos que melhoram o relacionamento entre as pessoas e a natureza."
     },
     {
       "show_name": "Amazônia: Novas Histórias",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_amazonia-novas-historias-s01e05-educac-o_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 5 - Educação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_amazonia-novas-historias-s01e06-pesca_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 6 - Pesca",
       "start_time": "04:25",
       "end_time": "04:35",
-      "episode_description": "Características geográficas, distância dos centros, falta de transporte e até de energia elétrica: uma situação histórica que vem se modificando com investimento e auxílio de novas tecnologias."
+      "episode_description": "A pesca se destaca como alternativa de renda para as comunidades locais, proporcionando uma forma sustentável de produção alimentar e econômica."
     },
     {
       "show_name": "Reload",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_reload-s01e07-brasil-e-meio-ambiente_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 7 - Brasil e Meio Ambiente",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_reload-s01e08-reload-de-boa_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 8 - Reload de Boa",
       "start_time": "04:35",
       "end_time": "04:45",
-      "episode_description": "Se tem uma coisa que não vai muito bem no Brasil é a preservação do meio ambiente. Descubra mais sobre os principais atores envolvidos nesse tema, tanto na destruição quanto na preservação."
+      "episode_description": "O programa traz um monte de histórias bacanas para lembrar a gente que sim, o mundo tem jeito."
     },
     {
       "show_name": "Sou Chorinho",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sou-chorinho-s01e04-expans-o-do-choro_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 4 - Expansão do Choro",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sou-chorinho-s01e05-juventude-no-choro_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 5 - Juventude no Choro",
       "start_time": "04:45",
       "end_time": "05:15",
-      "episode_description": "Saiba mais sobre a proporção em que o choro atingiu, saindo do Rio de Janeiro e ganhando o Brasil e o mundo, por meio do rádio, TV, universidades, conservatórios, escolas de música, clubes de choro, teatros, parques e em lugares inusitados."
+      "episode_description": "Conheça jovens que estudam e desenvolvem o choro na sua vida musical. Veja também a inclusão das mulheres no choro e influências que inspiram a juventude a continuar tocando choro e perspectivas sobre o futuro do ritmo."
     },
     {
       "show_name": "Entrevista - Educação no Centenário de Paulo Freire",
@@ -116,19 +108,19 @@
     },
     {
       "show_name": "Canal da História",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_canal-da-historia-s01e22-leila-diniz_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 22 - Leila Diniz",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_canal-da-historia-s01e23-jo-o-saldanha_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 23 - João Saldanha",
       "start_time": "05:25",
       "end_time": "05:45",
-      "episode_description": "Uma entrevista para O Pasquim foi o estopim para a Lei da Censura Prévia do governo militar. Leila Diniz fala sobre a ditadura, a revolução dos costumes dos anos 60 e 70 e também sobre cinema."
+      "episode_description": "João Saldanha, responsável pela escalação da base do time da copa de 1970, vem ao programa para falar sobre como o governo ditatorial no Brasil, influiu no esporte símbolo da nação brasileira."
     },
     {
       "show_name": "Ciência para Todos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_ciencia-para-todos-s02e02-agricultura-e-carbono_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 2 - Agricultura e Carbono",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ciencia-para-todos-s02e03-o-museu-do-ipiranga-revive_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 3 - O Museu do Ipiranga Revive",
       "start_time": "05:45",
       "end_time": "06:00",
-      "episode_description": "Com o crescimento populacional, o Brasil precisa aumentar a produção de alimentos. Métodos inovadores de agricultura que não causem danos ambientais se apresentam como soluções."
+      "episode_description": "Após o fechamento do Museu do Ipiranga em 2013, um longo processo de restauração que aliou arte e ciência foi fundamental para a sua reabertura quase uma década depois."
     },
     {
       "show_name": "Novo Telecurso - Ensino Fundamental",
@@ -147,12 +139,12 @@
       "episode_description": "As teleaulas abordam o conteúdo pedagógico do Ensino Médio e são destinadas a jovens e adultos. O objetivo é levar educação para aqueles que não possuem acesso formal e presencial."
     },
     {
-      "show_name": "Conexão",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_conex-o_l_m.jpg",
-      "show_category": "Educational",
+      "show_name": "Mutirão Saúde",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mutir-o-saude-s01e04_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - Jhennyfer",
       "start_time": "06:30",
       "end_time": "07:00",
-      "episode_description": "Entrevistas, depoimentos e participações ao vivo trazem assuntos de grande importância para a construção da cidadania, por meio de uma linguagem simplificada."
+      "episode_description": "Jhennyfer enfrenta a transição para a vida adulta em meio a faculdade e trabalho. Após uma crise de ansiedade e diagnóstico de pangastrite, precisa de ajuda com dieta, apoio emocional e socialização."
     },
     {
       "show_name": "O Dia em que me Tornei Mais Forte",
@@ -164,75 +156,75 @@
     },
     {
       "show_name": "Tuiga",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_tuiga-s02e24-caverna-magica_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 24 - Caverna Mágica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tuiga-s02e26-ultimo-dodo_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 26 - Último Dodô",
       "start_time": "07:05",
       "end_time": "07:10",
-      "episode_description": "A turma entra em uma caverna misteriosa para descansar após pular o carnaval, mas acabam encontrando pedras mágicas que aguardam a chegada da Pepita de Ouro. A Canjica coberta de purpurina parece muito essa tal de Pepita."
+      "episode_description": "Todos achavam que os dodôs já estavam extintos, mas parece que o último dodô resolveu dar as caras atrás de fama e fortuna. Ao fazer uma entrega na delegacia do Pinscher Brandon, a equipe investiga a tal celebridade."
     },
     {
       "show_name": "Tuiga",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_tuiga-s02e05-assistencia-tecnica_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 5 - Assistência Técnica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tuiga-s02e07-pap-papagaio_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 7 - Pap Papagaio",
       "start_time": "07:10",
       "end_time": "07:15",
-      "episode_description": "Em frente a uma grande antena de radiotelescópio, a caixa de correio parece estar muito doente. Sem saber o que fazer, Tuiga pede ajuda ao operador do telescópio, um macaco cientista."
+      "episode_description": "No fundo do mar, Canjica conhece Pap, um peixe papagaio muito cantante. Pap está se escondendo de sua família, porque não quer ser nomeado o próximo líder, com medo de se tornar um chato assim como seu pai, o atual chefe."
     },
     {
       "show_name": "O Diário de Mika",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-diario-de-mika-s02e59-xiii-e-agora_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 59 - Xiii! E Agora?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-diario-de-mika-s02e60-falando-diferente_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 60 - Falando Diferente",
       "start_time": "07:15",
       "end_time": "07:25",
-      "episode_description": "Mika corta o cabelo e maquia Lisa, sua boneca, porém a garota não gosta do resultado e se arrepende do que fez. Ela fica bastante chateada, mas Lilá a ajuda a lidar com a situação."
-    },
-    {
-      "show_name": "Contos do Iéti",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_contos-do-ieti-s04e44-um-rato-chamado-julian_l_m.jpg",
-      "show_category": "Temporada 4 Episódio 44 - Um Rato Chamado Julian",
-      "start_time": "07:25",
-      "end_time": "07:30",
-      "episode_description": "Nina está jogando damas e Leon está brincando, mas ler uma história juntos é mais divertido."
+      "episode_description": "Um aluno novo entra na sala de Mika, mas ela não entende o que ele diz porque ele fala uma língua diferente. Com a ajuda de Blablá, a garota tenta encontrar formas de se comunicar com seu novo amigo."
     },
     {
       "show_name": "Contos do Iéti",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_contos-do-ieti-s04e45-o-varal-de-orbie_l_m.jpg",
       "show_category": "Temporada 4 Episódio 45 - O Varal de Orbie",
-      "start_time": "07:30",
-      "end_time": "07:40",
+      "start_time": "07:25",
+      "end_time": "07:30",
       "episode_description": "Iéti conta a história de um menino que puxa um varal com força e voa para o alto."
     },
     {
+      "show_name": "Contos do Iéti",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_contos-do-ieti-s01e08-poka-e-mia_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 8 - Poka e Mia",
+      "start_time": "07:30",
+      "end_time": "07:40",
+      "episode_description": "Nina e Leon querem que Yetili leia para eles um dos livros de Poka & Mia, mas eles não conseguem decidir qual; Yetili sugere que eles tirem a sorte e Nina escolha a história."
+    },
+    {
       "show_name": "Tainá e os Guardiões da Amazônia",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_taina-e-os-guardi-es-da-amazonia-s01e12-urubuzada-real_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 12 - Urubuzada Real",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_taina-e-os-guardi-es-da-amazonia-s01e13-a-sucuri-comilona_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 13 - Que Fome, Sofia",
       "start_time": "07:40",
       "end_time": "07:50",
-      "episode_description": "Tainá e seus amigos partem apressados para atender o cru-cru, quando descobrem que eram somente os primos do Pepe querendo brincar. Os amigos resolvem brincar com eles, mas os dois urubus-reis se acham melhores que todo mundo e sempre querem ganhar."
+      "episode_description": "Tainá não quer comer, só quer brincar, e mal consegue atender o novo chamado do cru-cru. Sofia, a sucuri comilona, fica presa em uma árvore de tão estufada que ela está. Os amigos tentam de todo jeito, mas a sucuri está muito barriguda."
     },
     {
       "show_name": "MYTIKAH - O Livro dos Heróis",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_mytikah-o-livro-dos-herois-s02e08-jorge-isaacs_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 8 - Jorge Isaacs",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mytikah-o-livro-dos-herois-s02e09-violeta-parra_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 9 - Violeta Parra",
       "start_time": "07:50",
       "end_time": "08:00",
-      "episode_description": "Manga precisa escrever uma redação para a escola, mas está sem ideias. Mytikah aparece para contar a história do autor Jorge Isaacs, que tem como inspiração as belezas e cultura de seu país, a Colômbia."
+      "episode_description": "Mytikah leva Manga e Leco para conhecer a pequena Violeta Parra e sua família, no Chile. Violeta tem como propósito registrar as músicas folclóricas para além da oralidade e, com a ajuda das crianças, abre um museu em sua casa."
     },
     {
-      "show_name": "O Mundo que Sei",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-mundo-que-sei-s01e01_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 1 - De Onde Eu Venho?",
+      "show_name": "Queimamufa!",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_queimamufa-s02e06-o-misterio-do-arco-iris_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 6 - O Mistério do Arco-Íris",
       "start_time": "08:00",
       "end_time": "08:15",
-      "episode_description": "Crianças são convocadas para uma viagem a uma base espacial na órbita da Terra, onde falam o que sabem sobre o mundo para Solo, uma inteligência alienígena que teve um sonho com o nosso planeta e viajou 50 anos-luz para saber tudo sobre ele."
+      "episode_description": "Carol e Kauê aprendem na M.U.F.A. sobre o processo de adoção, após se questionarem como são parecidos com os pais. Em casa, eles entendem as diversas formas de ser uma família."
     },
     {
       "show_name": "Tuca, o Mestre Cuca",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_tuca-o-mestre-cuca-s01e21-a-coragem-da-pri_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 21 - A Coragem da Pri",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tuca-o-mestre-cuca-s01e22-o-pudim-de-amendoim_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 22 - O Pudim de Amendoim",
       "start_time": "08:15",
       "end_time": "08:25",
-      "episode_description": "Pri é a mais corajosa da turma e adora exibir a própria coragem para todos. Porém, após um pequeno acidente, ela percebe que muita coisa pode dar errado e, assim, passa a tomar cuidado demais com tudo o que vê pela frente."
+      "episode_description": "Após receber uma carta da vó Maga que fala sobre amendoim, Tuca e seus amigos decidem fazer uma festa temática, com amendoim como ingrediente principal. Porém, durante os preparativos, Bruno não parece nada empolgado com a ideia."
     },
     {
       "show_name": "Tuca, o Mestre Cuca",
@@ -251,356 +243,324 @@
       "episode_description": "Conheça histórias de crianças fortes de todo o mundo."
     },
     {
-      "show_name": "Juro que Vi",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_juro-que-vi-1_l_m.jpg",
-      "show_category": "Children",
+      "show_name": "Jogo Duro",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jogo-duro-s02e02_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 2",
       "start_time": "08:35",
-      "end_time": "08:45",
-      "episode_description": "A história de amor impossível entre uma mulher que se apaixona por um homem baixinho que, na verdade, é um boto-cor-de-rosa."
-    },
-    {
-      "show_name": "Quintal TV",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_quintal-tv-s03e09-amizade_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 9 - Amizade",
-      "start_time": "08:45",
       "end_time": "09:00",
-      "episode_description": "A amizade é fonte de autoestima e estabilidade emocional. Programa mostra como cultivar amizades saudáveis e lidar com conflitos com empatia e comunicação."
+      "episode_description": "Durante a Semana do Livro, a Equipe Mahaki procura uma dupla para jogar com Mickey."
     },
     {
       "show_name": "MYTIKAH - O Livro dos Heróis",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_mytikah-o-livro-dos-herois-s02e06-tupac-amaru-ii_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 6 - Túpac Amaru II",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mytikah-o-livro-dos-herois-s02e07-carlos-gardel_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 7 - Carlos Gardel",
       "start_time": "09:00",
       "end_time": "09:10",
-      "episode_description": "Mytikah leva os irmãos Manga e Leco para o Peru, onde conhecem José Gabriel. Ele conta sobre Túpac Amaru e sua resistência à invasão espanhola. As crianças incentivam José Gabriel a seguir os passos de seus antepassados."
+      "episode_description": "Manga está tendo dificuldades para tocar sua flauta quando Mytikah os leva para conhecer a história de Carlos Gardel. Ele apresenta o Tango para as crianças, que o apoiam a tornar-se o primeiro cantor de Tango da história."
     },
     {
       "show_name": "O Diário de Mika",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-diario-de-mika-s02e60-falando-diferente_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 60 - Falando Diferente",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-diario-de-mika-s02e61-hora-da-refeic-o_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 61 - Hora da Refeição",
       "start_time": "09:10",
       "end_time": "09:15",
-      "episode_description": "Um aluno novo entra na sala de Mika, mas ela não entende o que ele diz porque ele fala uma língua diferente. Com a ajuda de Blablá, a garota tenta encontrar formas de se comunicar com seu novo amigo."
+      "episode_description": "Mika fica brava porque não quer almoçar na hora em que sua mãe mandou. Em vez disso ela prefere brincar com Bobby, o coelhinho que sua amiga Gabi deixou para que ela tomasse conta no fim de semana. Porém, Lilá ajuda a garota a perceber que tem hora para comer e hora para brincar."
     },
     {
       "show_name": "Tuiga",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_tuiga-s02e26-ultimo-dodo_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 26 - Último Dodô",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tuiga-s02e02-pandepre_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 2 - Pandeprê",
       "start_time": "09:15",
       "end_time": "09:20",
-      "episode_description": "Todos achavam que os dodôs já estavam extintos, mas parece que o último dodô resolveu dar as caras atrás de fama e fortuna. Ao fazer uma entrega na delegacia do Pinscher Brandon, a equipe investiga a tal celebridade."
+      "episode_description": "Tuiga e sua família precisam fazer uma entrega para um panda, o que deixa todo mundo esperançoso por ganhar um abraço de um animal tão fofo. No entanto, eles descobrem que comer só bambu deixa o panda um tanto gasoso."
     },
     {
       "show_name": "Tuiga",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_tuiga-s02e07-pap-papagaio_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 7 - Pap Papagaio",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tuiga-s02e09-novo-golpe_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 9 - Novo Golpe",
       "start_time": "09:20",
       "end_time": "09:30",
-      "episode_description": "No fundo do mar, Canjica conhece Pap, um peixe papagaio muito cantante. Pap está se escondendo de sua família, porque não quer ser nomeado o próximo líder, com medo de se tornar um chato assim como seu pai, o atual chefe."
+      "episode_description": "Sócrates, o corvo, recebe uma pedra dorminhoca em vez da caixa de som que pediu para sua festa. Tuiga precisa investigar se foi um engano ou um golpe. Ela se esforça para resolver o mal-entendido e proteger sua reputação como entregadora."
     },
     {
-      "show_name": "A Caverna de Petra",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-caverna-de-petra-s02e01-saudades_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 1 - Saudades",
+      "show_name": "Matemágica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_matemagica-s01e04_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4",
       "start_time": "09:30",
-      "end_time": "09:45",
-      "episode_description": "Depois que seu melhor amigo humano André partiu para outra cidade, Petra sente um aperto em seu peito. Com a ajuda de Oblivious, a garota mágica decide apagar suas próprias memórias."
+      "end_time": "09:40",
+      "episode_description": "O matemágico Eric transforma um pássaro em peixe, ensina a medir grandes alturas com o polegar e mostra que o zero é o número mais poderoso do universo."
     },
     {
-      "show_name": "Queimamufa!",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_queimamufa-s02e06-o-misterio-do-arco-iris_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 6 - O Mistério do Arco-Íris",
-      "start_time": "09:45",
+      "show_name": "Comer, Beber e Aprender",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comer-beber-e-aprender-s01e04-quilombo-agreste_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - Quilombo Agreste",
+      "start_time": "09:40",
       "end_time": "10:00",
-      "episode_description": "Carol e Kauê aprendem na M.U.F.A. sobre o processo de adoção, após se questionarem como são parecidos com os pais. Em casa, eles entendem as diversas formas de ser uma família."
-    },
-    {
-      "show_name": "Natureza Forte",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_natureza-forte-s02e10-o-beneficiamento-de-frutos-no-semiarido_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 10 - O Beneficiamento de Frutos no Semiárido",
-      "start_time": "10:00",
-      "end_time": "10:30",
-      "episode_description": "Lídio trocou a capital por Parnamirim e, na caatinga, transformou frutas e ervas locais em cachaças, picles e doces. Ele criou uma fábrica com a esposa que impulsiona a economia e quebra barreiras no semiárido."
-    },
-    {
-      "show_name": "A(u)tores",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-u-tores-s04e07-mario-de-andrade-por-hugo-germano_l_m.jpg",
-      "show_category": "Temporada 4 Episódio 7 - Mario de Andrade por Hugo Germano",
-      "start_time": "10:30",
-      "end_time": "11:00",
-      "episode_description": "O ator Hugo Germano se destacou pela crítica e público em sua atuação no espetáculo Macunaíma, agora fala sobre sua adaptação e a obra de Mário de Andrade."
-    },
-    {
-      "show_name": "Giro Universidades",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_giro-universidades_l_m.jpg",
-      "show_category": "Educational",
-      "start_time": "11:00",
-      "end_time": "11:15",
-      "episode_description": "O Giro traz projetos da UFF. O \"rolê da vacina\" aborda acesso a saúde com jovens, o Pré-Luiz Gama promove pré-vestibular social, o Espaço Avançado proporciona lazer para idosos, e o Prossain desenvolve oficinas para pessoas LGBTs."
-    },
-    {
-      "show_name": "Sou Chorinho",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sou-chorinho-s01e04-expans-o-do-choro_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 4 - Expansão do Choro",
-      "start_time": "11:15",
-      "end_time": "11:45",
-      "episode_description": "Saiba mais sobre a proporção em que o choro atingiu, saindo do Rio de Janeiro e ganhando o Brasil e o mundo, por meio do rádio, TV, universidades, conservatórios, escolas de música, clubes de choro, teatros, parques e em lugares inusitados."
-    },
-    {
-      "show_name": "Canal da História",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_canal-da-historia-s01e23-jo-o-saldanha_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 23 - João Saldanha",
-      "start_time": "11:45",
-      "end_time": "12:00",
-      "episode_description": "João Saldanha, responsável pela escalação da base do time da copa de 1970, vem ao programa para falar sobre como o governo ditatorial no Brasil, influiu no esporte símbolo da nação brasileira."
-    },
-    {
-      "show_name": "Boas Práticas da Rede",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_boas-praticas-da-rede-s01e04-get-elza-soares_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 4 - GET Elza Soares",
-      "start_time": "12:00",
-      "end_time": "12:15",
-      "episode_description": "O projeto \"Genius\", de robótica sustentável, elaborado pela professora Letícia Coelho, tem como finalidade contextualizar as habilidades curriculares e apresentar novas formas de aprendizagem junto aos alunos do quinto ano."
-    },
-    {
-      "show_name": "Desafio nas Escolas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_desafio-nas-escolas-s04e02-pitching-ce-jose-leite-lopes-nave_l_m.jpg",
-      "show_category": "Temporada 4 Episódio 2 - Pitching - CE José Leite Lopes (NAVE)",
-      "start_time": "12:15",
-      "end_time": "12:30",
-      "episode_description": "O colégio é referência no programa NAVE, iniciativa que prepara estudantes para o mercado da inovação e empreendedorismo. O desafio é aprimorar projetos desenvolvidos na escola e apresentar um pitching."
-    },
-    {
-      "show_name": "E Aí, Professor?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_e-ai-professor-s03e06-consciencia-cidad-na-era-digital_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 6 - Consciência Cidadã na Era Digital",
-      "start_time": "12:30",
-      "end_time": "12:45",
-      "episode_description": "Especialistas analisam desafios e caminhos para fortalecer a cidadania digital, e como garantir acesso e combater a desinformação."
-    },
-    {
-      "show_name": "Conversas que Inspiram",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_conversas-que-inspiram-s02e03-desconstruindo-preconceitos_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 3 - Desconstruindo Preconceitos",
-      "start_time": "12:45",
-      "end_time": "13:00",
-      "episode_description": "Thalita Gelenske aprofunda o debate sobre vieses inconscientes, mostrando como estereótipos afetam a representatividade LGBTQIA+ e reforçando que todos temos preconceitos a desconstruir."
-    },
-    {
-      "show_name": "Hora de Agir",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_hora-de-agir-s05e36-saude-em-risco-num-clima-que-mudou_l_m.jpg",
-      "show_category": "Temporada 5 Episódio 36 - Saúde em Risco num Clima que Mudou",
-      "start_time": "13:00",
-      "end_time": "13:30",
-      "episode_description": "Em um planeta quente, poluído e desigual, a saúde sempre está em risco."
-    },
-    {
-      "show_name": "Sabores da Floresta",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabores-da-floresta-s02e06-camar-o_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 6 - Camarão",
-      "start_time": "13:30",
-      "end_time": "14:00",
-      "episode_description": "Na Ilha de Mosqueiro, próximo a Belém, o chef Thiago Castanho percorre estradas e rios para encontrar um dos ingredientes mais importantes da culinária paraense: o camarão."
+      "episode_description": "Com sua mãe, Helena visita o Quilombo Agreste. Aprende sobre a farinha de mandioca feita ali e participa de uma dança de roda, enquanto ouve a história das mulheres na cozinha, sobre oralidade e ancestralidade."
     },
     {
       "show_name": "Da Nascente à Foz",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_da-nascente-a-foz-s02e02_l_m.jpg",
       "show_category": "Temporada 2 Episódio 2 - Alto Rio Solimões",
-      "start_time": "14:00",
-      "end_time": "14:30",
+      "start_time": "10:00",
+      "end_time": "10:30",
       "episode_description": "Na tríplice fronteira entre Brasil, Colômbia e Peru o exército brasileiro tem muito trabalho para defender o rio Solimões. E o povo Tikuna forma o elo entre a agroecologia e o Hip Hop."
     },
     {
-      "show_name": "Manual de Sobrevivência para o Século 21",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_manual-de-sobrevivencia-para-o-seculo-21_l_m.jpg",
-      "show_category": "Entertainment",
-      "start_time": "14:30",
-      "end_time": "15:00",
-      "episode_description": "O plástico está por toda parte, até mesmo nos corpos humanos. Marcos se une a projetos de limpeza e a catadores para enfrentarem a onda de plástico que ameaça o planeta."
+      "show_name": "Expresso Futuro",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_expresso-futuro-s09e06-silencio_l_m.jpg",
+      "show_category": "Temporada 9 Episódio 6 - Silêncio",
+      "start_time": "10:30",
+      "end_time": "11:00",
+      "episode_description": "Na Estônia, Ronaldo Lemos revela como um pequeno país se tornou referência mundial em tecnologia, educação, cultura e equilíbrio com a natureza."
     },
     {
-      "show_name": "Brasil 2050",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_brasil-2050-s03e10-amazonia_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 10 - Amazônia",
-      "start_time": "15:00",
-      "end_time": "15:30",
-      "episode_description": "A maioria dos brasileiros quando questionada é a favor da conservação da Amazônia e da proteção das populações tradicionais. No entanto, a vontade de cuidar da Amazônia não se transforma em política que proteja a maior floresta tropical do mundo."
-    },
-    {
-      "show_name": "Tem Clima pra Isso?",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_tem-clima-pra-isso_l_m.jpg",
-      "show_category": "Environment",
-      "start_time": "15:30",
-      "end_time": "16:00",
-      "episode_description": "Greenwashing é uma falsa propaganda de sustentabilidade. Programa ajuda a identificar práticas enganosas na busca por comunicações mais justas."
-    },
-    {
-      "show_name": "Eco Brasil",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_eco-brasil-s01e04-vida-nas-mega-cidades_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 4 - Vida nas Mega Cidades",
-      "start_time": "16:00",
-      "end_time": "16:25",
-      "episode_description": "Na megalópole São Paulo é urgente diminuir a poluição, o trânsito e o estresse, com um planejamento urbano mais sustentável. A arquiteta Fernanda Bárbara desenvolve projetos que melhoram o relacionamento entre as pessoas e a natureza."
+      "show_name": "Som e Prosa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_som-e-prosa_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "11:00",
+      "end_time": "11:15",
+      "episode_description": "A cada semana, artistas e compositores se apresentam e discutem seus repertórios, tradições e novidades do cenário da música."
     },
     {
       "show_name": "Sou Chorinho",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sou-chorinho-s01e05-juventude-no-choro_l_m.jpg",
       "show_category": "Temporada 1 Episódio 5 - Juventude no Choro",
-      "start_time": "16:25",
-      "end_time": "16:55",
+      "start_time": "11:15",
+      "end_time": "11:45",
       "episode_description": "Conheça jovens que estudam e desenvolvem o choro na sua vida musical. Veja também a inclusão das mulheres no choro e influências que inspiram a juventude a continuar tocando choro e perspectivas sobre o futuro do ritmo."
     },
     {
-      "show_name": "Bicos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_bicos-s01e14-marcos-do-pife_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 14 - Marcos do Pífe",
-      "start_time": "16:55",
-      "end_time": "17:05",
-      "episode_description": "Marcos do Pife combina sua paixão pela música com trabalhos como encanador e pedreiro."
-    },
-    {
-      "show_name": "Amazônia: Novas Histórias",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_amazonia-novas-historias-s01e05-educac-o_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 5 - Educação",
-      "start_time": "17:05",
-      "end_time": "17:15",
-      "episode_description": "Características geográficas, distância dos centros, falta de transporte e até de energia elétrica: uma situação histórica que vem se modificando com investimento e auxílio de novas tecnologias."
-    },
-    {
-      "show_name": "Caça Joia",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_caca-joia-s03e10-manu-guedelha_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 10 - Manu Guedelha",
-      "start_time": "17:15",
-      "end_time": "17:30",
-      "episode_description": "Chinaina visita a escola de teatro e dança da Universidade Federal do Pará para entrevistar Malu Guedelha. Ao final, o programa apresenta o clipe de \"Na Canção de Você\"."
-    },
-    {
-      "show_name": "Sabores da Floresta",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabores-da-floresta-s01e11-pirarucu_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 11 - Pirarucu",
-      "start_time": "17:30",
-      "end_time": "18:00",
-      "episode_description": "Um dos maiores peixes de água doce do Brasil, o sabor marcante do pirarucu faz dele um dos ingredientes mais consumidos no Norte. O chef Thiago Castanho viaja até Santarém em busca deste gigante."
-    },
-    {
-      "show_name": "Bicos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_bicos-s01e01-rosa-campelo_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 1 - Rosa Campelo",
-      "start_time": "18:00",
-      "end_time": "18:15",
-      "episode_description": "Rosa Campelo é uma produtora musical que se reinventou após perder seu emprego, reciclando materiais e organizando oficinas."
-    },
-    {
-      "show_name": "Ciência para Todos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_ciencia-para-todos-s03e05-a-importancia-da-polinizac-o_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 5 - A Importância da Polinização",
-      "start_time": "18:15",
-      "end_time": "18:30",
-      "episode_description": "Vários cultivos são dependentes ou beneficiados pela polinização. Nesse cenário, as abelhas se destacam, sendo fundamentais para a produção agrícola."
-    },
-    {
-      "show_name": "Dinos do Brasil",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_dinos-do-brasil-s01e02-as-riquezas-do-araripe_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 2 - As Riquezas do Araripe",
-      "start_time": "18:30",
-      "end_time": "19:00",
-      "episode_description": "Em Cariri cearense, na Chapada do Araripe, uma das mais ricas regiões fossilíferas do mundo, há o laboratório da Universidade Regional (URCA) e o Museu de Paleontologia."
-    },
-    {
-      "show_name": "Amazônia: Novas Histórias",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_amazonia-novas-historias-s01e06-pesca_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 6 - Pesca",
-      "start_time": "19:00",
-      "end_time": "19:10",
-      "episode_description": "A pesca se destaca como alternativa de renda para as comunidades locais, proporcionando uma forma sustentável de produção alimentar e econômica."
-    },
-    {
-      "show_name": "Desafio nas Escolas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_desafio-nas-escolas-s04e02-pitching-ce-jose-leite-lopes-nave_l_m.jpg",
-      "show_category": "Temporada 4 Episódio 2 - Pitching - CE José Leite Lopes (NAVE)",
-      "start_time": "19:10",
-      "end_time": "19:30",
-      "episode_description": "O colégio é referência no programa NAVE, iniciativa que prepara estudantes para o mercado da inovação e empreendedorismo. O desafio é aprimorar projetos desenvolvidos na escola e apresentar um pitching."
-    },
-    {
-      "show_name": "(In)Confidências",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_in-confidencias-s01e03-joel-zito-araujo_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 3 - Joel Zito Araújo",
-      "start_time": "19:30",
-      "end_time": "19:45",
-      "episode_description": "A formação de um cineasta ativista: o diretor Joel Zito Araújo conta sobre trajetória no cinema."
-    },
-    {
-      "show_name": "Territórios",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_territorios-s01e05-isabela-godoi_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 5 - Isabela Godoi",
-      "start_time": "19:45",
-      "end_time": "20:00",
-      "episode_description": "Conheça Isabela Godoi, cineasta, batuqueira, poeta e aprendiz de curandeira, cidadã do mundo, uma teia de ancestralidades, habitante de Niterói, que é a cidade que escolheu para ser seu lar."
-    },
-    {
-      "show_name": "Preto Tá na Moda",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_preto-ta-na-moda-s01e05-diego-gama-moda-e-forma_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 5 - Diego Gama - Moda É Forma",
-      "start_time": "20:00",
-      "end_time": "20:30",
-      "episode_description": "Diego Gama, estilista que trabalha com diferentes materiais e enxerga roupas como qualquer coisa que possa ser vestida, fala das várias formas da moda de se conectar com as pessoas por meio de seu trabalho."
-    },
-    {
-      "show_name": "Inspira Fundo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_inspira-fundo_l_m.jpg",
-      "show_category": "Public affairs",
-      "start_time": "20:30",
-      "end_time": "20:45",
-      "episode_description": "A entrada no mercado de trabalho para imigrantes e refugiados enfrenta barreiras como o idioma e o preconceito. Mas existem iniciativas que estão lutando para qualificar essas pessoas e criar uma ponte em direção às empresas."
+      "show_name": "Canal da História",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_canal-da-historia-s01e24-mario-juruna_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 24 - Mário Juruna",
+      "start_time": "11:45",
+      "end_time": "12:00",
+      "episode_description": "Mário Juruna, o primeiro deputado federal indígena da história, fala da luta dos povos indígenas, que continua desde o fim do governo militar e durante a reabertura política."
     },
     {
       "show_name": "Diz Aí - Juventudes",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_diz-ai-juventudes_l_m.jpg",
       "show_category": "Public affairs",
-      "start_time": "20:45",
-      "end_time": "21:00",
+      "start_time": "12:00",
+      "end_time": "12:15",
       "episode_description": "Serra Pelada, no Pará, foi o maior garimpo a céu aberto do mundo. Hoje, jovens desse território buscam ressignificar as narrativas conectando as vivências do presente com o passado e os sonhos de futuro."
     },
     {
-      "show_name": "Canal da Quebrada",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_canal-da-quebrada_l_m.jpg",
-      "show_category": "Variety",
-      "start_time": "21:00",
-      "end_time": "21:30",
-      "episode_description": "MC Martina, cria do Complexo do Alemão, do Rio de Janeiro, e Jana Fernandes, da Zona Norte da capital paulista, se juntam para contar histórias de inovação protagonizadas por moradores das periferias."
+      "show_name": "Assunto na Mesa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_assunto-na-mesa-s03e05-transformac-o-digital-em-casa_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 5 - Transformação Digital em Casa",
+      "start_time": "12:15",
+      "end_time": "12:45",
+      "episode_description": "A tecnologia tem transformado o espaço doméstico e a convivência dentro dele, criando novas formas de interação, trabalho, lazer e cuidado no cotidiano das famílias."
     },
     {
-      "show_name": "Mutirão Saúde",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_mutir-o-saude-s01e04_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 4 - Jhennyfer",
-      "start_time": "21:30",
-      "end_time": "22:00",
-      "episode_description": "Jhennyfer enfrenta a transição para a vida adulta em meio a faculdade e trabalho. Após uma crise de ansiedade e diagnóstico de pangastrite, precisa de ajuda com dieta, apoio emocional e socialização."
-    },
-    {
-      "show_name": "Brasil da Paz",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_brasil-da-paz_l_m.jpg",
-      "show_category": "Community",
-      "start_time": "22:00",
-      "end_time": "22:30",
-      "episode_description": "Uma sociedade de paz depende de justiça social e redução da violência. No interior de Minas Gerais, uma iniciativa humaniza a segurança pública. Em Recife, políticas públicas mudam áreas vulneráveis."
-    },
-    {
-      "show_name": "PCDPOD",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_pcdpod-s01e05-arte-e-acesso_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 5 - Arte e Acesso",
-      "start_time": "22:30",
-      "end_time": "23:50",
-      "episode_description": "Giovanna Andreo, Léo Castilho e Rafa Brunelli discutem os acessos à arte por pessoas com deficiência e a acessibilidade de eventos culturais."
+      "show_name": "Entrevista - Infâncias",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_entrevista-infancias_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "12:45",
+      "end_time": "13:00",
+      "episode_description": "Cássia Bittens é mestra em Literatura e criadora de um projeto de leitura para bebês. Ela fala sobre a importância de ler para os pequenos e proporcionar a eles o contato com livros desde a primeira infância."
     },
     {
       "show_name": "Pequenas Empresas & Grandes Negócios",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_pequenas-empresas-grandes-negocios-2_l_m.jpg",
       "show_category": "Bus./financial",
-      "start_time": "23:50",
-      "end_time": "00:15",
+      "start_time": "13:00",
+      "end_time": "13:30",
       "episode_description": "Informações e reportagens de grande interesse para empreendedores, pequenos e médios empresários."
+    },
+    {
+      "show_name": "Canal da Quebrada",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_canal-da-quebrada_l_m.jpg",
+      "show_category": "Variety",
+      "start_time": "13:30",
+      "end_time": "14:00",
+      "episode_description": "MC Martina, cria do Complexo do Alemão, do Rio de Janeiro, e Jana Fernandes, da Zona Norte da capital paulista, se juntam para contar histórias de inovação protagonizadas por moradores das periferias."
+    },
+    {
+      "show_name": "PCDPOD",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pcdpod-s01e05-arte-e-acesso_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 5 - Arte e Acesso",
+      "start_time": "14:00",
+      "end_time": "15:30",
+      "episode_description": "Giovanna Andreo, Léo Castilho e Rafa Brunelli discutem os acessos à arte por pessoas com deficiência e a acessibilidade de eventos culturais."
+    },
+    {
+      "show_name": "Mutirão Saúde",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mutir-o-saude-s01e04_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - Jhennyfer",
+      "start_time": "15:30",
+      "end_time": "16:00",
+      "episode_description": "Jhennyfer enfrenta a transição para a vida adulta em meio a faculdade e trabalho. Após uma crise de ansiedade e diagnóstico de pangastrite, precisa de ajuda com dieta, apoio emocional e socialização."
+    },
+    {
+      "show_name": "Eco Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_eco-brasil-s01e05-desvendando-a-economia-circular_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 5 - Desvendando a Economia Circular",
+      "start_time": "16:00",
+      "end_time": "16:25",
+      "episode_description": "O que é economia circular e como ela ajuda a reduzir o lixo? Chefe de cozinha que reaproveita restos orgânicos, aparelhos eletrônicos consertados e redução de resíduos são os primeiros passos para isso."
+    },
+    {
+      "show_name": "Sou Carimbó",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sou-carimbo-s01e01-origem-do-carimbo_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - Origem do Carimbó",
+      "start_time": "16:25",
+      "end_time": "16:55",
+      "episode_description": "Descubra a origem do Carimbó, ritmo de sonoridade com procedência indígena e cultura africana."
+    },
+    {
+      "show_name": "Bicos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bicos-s01e15-iandra-felix_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 15 - Iandra Félix",
+      "start_time": "16:55",
+      "end_time": "17:05",
+      "episode_description": "Iandra trabalha em uma agência de marketing e faz freelas como social media e cantora em cerimônias."
+    },
+    {
+      "show_name": "Amazônia: Novas Histórias",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_amazonia-novas-historias-s01e06-pesca_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 6 - Pesca",
+      "start_time": "17:05",
+      "end_time": "17:15",
+      "episode_description": "A pesca se destaca como alternativa de renda para as comunidades locais, proporcionando uma forma sustentável de produção alimentar e econômica."
+    },
+    {
+      "show_name": "Conversas que Inspiram",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_conversas-que-inspiram-s02e03-desconstruindo-preconceitos_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 3 - Desconstruindo Preconceitos",
+      "start_time": "17:15",
+      "end_time": "17:30",
+      "episode_description": "Thalita Gelenske aprofunda o debate sobre vieses inconscientes, mostrando como estereótipos afetam a representatividade LGBTQIA+ e reforçando que todos temos preconceitos a desconstruir."
+    },
+    {
+      "show_name": "Sabores da Floresta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabores-da-floresta-s01e12-maniva_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 12 - Maniva",
+      "start_time": "17:30",
+      "end_time": "18:00",
+      "episode_description": "O chef Thiago Castanho viaja até Santo Antônio do Tauá para conhecer a folha moída da mandioca, conhecida como maniva, o ingrediente protagonista em um prato de origem indígena: a maniçoba."
+    },
+    {
+      "show_name": "A Trilha Transcarioca",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-trilha-transcarioca-s01e02-arte-e-historia_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Arte e História",
+      "start_time": "18:00",
+      "end_time": "18:30",
+      "episode_description": "Os verdadeiros tesouros históricos e artísticos revelados no trajeto da Trilha Transcarioca, que cruza o Rio de Janeiro por um percurso de cerca de 180 km, da Barra de Guaratiba até o Morro da Urca, aos pés do Pão de Açúcar."
+    },
+    {
+      "show_name": "Afroturismo - O Rio que Deságua na África",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_afroturismo-o-rio-que-desagua-na-africa-s01e10_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 10 - Jardins Secretos do Valongo",
+      "start_time": "18:30",
+      "end_time": "19:00",
+      "episode_description": "Uma jornada pelos Jardins Suspensos do Valongo, que revela um tesouro histórico e arquitetônico pouco conhecido."
+    },
+    {
+      "show_name": "Amazônia: Novas Histórias",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_amazonia-novas-historias-s01e07-carbono-neutro_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 7 - Carbono Neutro",
+      "start_time": "19:00",
+      "end_time": "19:10",
+      "episode_description": "O Programa Carbono Neutro Idesam neutraliza emissões de gases de efeito estufa por meio do plantio de árvores nativas em Sistemas Agroflorestais na Reserva de Desenvolvimento Sustentável do Uatumã."
+    },
+    {
+      "show_name": "Giro Universidades",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_giro-universidades_l_m.jpg",
+      "show_category": "Educational",
+      "start_time": "19:10",
+      "end_time": "19:30",
+      "episode_description": "O Giro traz projetos da UFF. O \"rolê da vacina\" aborda acesso a saúde com jovens, o Pré-Luiz Gama promove pré-vestibular social, o Espaço Avançado proporciona lazer para idosos, e o Prossain desenvolve oficinas para pessoas LGBTs."
+    },
+    {
+      "show_name": "Futurando",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_futurando_l_m.jpg",
+      "show_category": "Educational",
+      "start_time": "19:30",
+      "end_time": "20:00",
+      "episode_description": "Conheça projetos inovadores desenvolvidos ao redor do mundo e as pessoas que estão por trás dessas iniciativas. Os temas são variados: pesquisas espaciais, inovações da medicina e esforços para criar metrópoles sustentáveis."
+    },
+    {
+      "show_name": "Brasil da Paz",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_brasil-da-paz_l_m.jpg",
+      "show_category": "Community",
+      "start_time": "20:00",
+      "end_time": "20:30",
+      "episode_description": "Uma sociedade de paz depende de justiça social e redução da violência. No interior de Minas Gerais, uma iniciativa humaniza a segurança pública. Em Recife, políticas públicas mudam áreas vulneráveis."
+    },
+    {
+      "show_name": "Conexão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_conex-o_l_m.jpg",
+      "show_category": "Educational",
+      "start_time": "20:30",
+      "end_time": "21:00",
+      "episode_description": "Entrevistas, depoimentos e participações ao vivo trazem assuntos de grande importância para a construção da cidadania, por meio de uma linguagem simplificada."
+    },
+    {
+      "show_name": "Som e Prosa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_som-e-prosa_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "21:00",
+      "end_time": "21:15",
+      "episode_description": "A cada semana, artistas e compositores se apresentam e discutem seus repertórios, tradições e novidades do cenário da música."
+    },
+    {
+      "show_name": "Caça Joia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_caca-joia-s03e11-meio-amargo_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 11 - Meio Amargo",
+      "start_time": "21:15",
+      "end_time": "21:30",
+      "episode_description": "Chinaina visita uma das lojas de discos mais importantes da cidade para entrevistar a banda de rock Meio Amargo. Depois do papo, você confere o clipe de \"Loja de Departamentos\"."
+    },
+    {
+      "show_name": "Sou Quilombola",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sou-quilombola_l_m.jpg",
+      "show_category": "Community",
+      "start_time": "21:30",
+      "end_time": "22:00",
+      "episode_description": "Dizer \"sou quilombola\" é mais que uma afirmação, é um manifesto. O episódio pulsa com a voz da juventude que ressignifica o passado, ocupa o presente e demarca o futuro, transformando a herança dos ancestrais em resistência e orgulho."
+    },
+    {
+      "show_name": "Natureza Forte",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_natureza-forte-s02e01-esculturas-do-semiarido_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 1 - Esculturas do Semiárido",
+      "start_time": "22:00",
+      "end_time": "22:30",
+      "episode_description": "Carrancas e esculturas realistas revelam a força criativa do sertão, onde artistas como Carina Lacerda e Ranilson Viana misturam tradição e inovação em suas obras, dando forma à cultura local."
+    },
+    {
+      "show_name": "A(u)tores",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-u-tores-s04e08-cazuza-por-emilio-dantas_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 8 - Cazuza por Emílio Dantas",
+      "start_time": "22:30",
+      "end_time": "23:00",
+      "episode_description": "Emílio Dantas, ator e músico que interpretou Cazuza no espetáculo musical que rodou o Brasil, compartilha seu processo e a valorização das letras e poesias das canções do artista."
+    },
+    {
+      "show_name": "Claquete",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_claquete-s02e03-invas-o-ou-contatos-imediatos-do-terceiro-mundo_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 3 - Invasão ou Contatos Imediatos do Terceiro Mundo",
+      "start_time": "23:00",
+      "end_time": "23:30",
+      "episode_description": "Programa exibe e discute o curta \"Invasão ou Contatos Imediatos do Terceiro Mundo\", em que OVNIs surgem no Recife e documentaristas buscam entender o impacto na população."
+    },
+    {
+      "show_name": "LGBT+60: Corpos que Resistem",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lgbt-60-corpos-que-resistem_l_m.jpg",
+      "show_category": "Gay/lesbian",
+      "start_time": "23:30",
+      "end_time": "23:45",
+      "episode_description": "Verdadeiro fenômeno na internet, Ana Carolina Apocalypse tem mais de 300 mil seguidores nas redes sociais e comemora seu aniversário de 65 anos."
+    },
+    {
+      "show_name": "Preto Tá na Moda",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_preto-ta-na-moda-s01e05-diego-gama-moda-e-forma_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 5 - Diego Gama - Moda É Forma",
+      "start_time": "23:45",
+      "end_time": "00:15",
+      "episode_description": "Diego Gama, estilista que trabalha com diferentes materiais e enxerga roupas como qualquer coisa que possa ser vestida, fala das várias formas da moda de se conectar com as pessoas por meio de seu trabalho."
     }
   ]
 }

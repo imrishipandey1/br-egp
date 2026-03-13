@@ -1,6 +1,6 @@
 {
   "channel": "TV SENADO",
-  "date": "13/03/2026",
+  "date": "14/03/2026",
   "schedule": [
     {
       "show_name": "Por Onde Anda Makunaíma?",
@@ -72,7 +72,7 @@
       "show_category": "Entertainment",
       "start_time": "06:00",
       "end_time": "07:00",
-      "episode_description": "Acompanhe o processo de reforma e qualificação urbana sofridos pela Praça Roosevelt, no centro de São Paulo, e a diversidade dos frequentadores da região."
+      "episode_description": "Arquitetos e moradores elucidam o processo de construção das quadras de Brasília, projeto urbanístico desenvolvido pelo arquiteto Lúcio Costa."
     },
     {
       "show_name": "Coleções",
@@ -128,7 +128,7 @@
       "show_category": "Politics",
       "start_time": "13:30",
       "end_time": "14:00",
-      "episode_description": "Acompanhe as últimas notícias do Senado, entre as transmissões ao vivo das reuniões das comissões, do plenário e os programas de grade da emissora."
+      "episode_description": "Acompanhe o resumo da atividade legislativa da semana no Senado."
     },
     {
       "show_name": "Reunião de Comissão",
@@ -144,7 +144,7 @@
       "show_category": "Politics",
       "start_time": "19:30",
       "end_time": "20:00",
-      "episode_description": "Acompanhe as últimas notícias do Senado, entre as transmissões ao vivo das reuniões das comissões, do plenário e os programas de grade da emissora."
+      "episode_description": "Acompanhe o resumo da atividade legislativa da semana no Senado."
     },
     {
       "show_name": "Parlamento Brasil",
@@ -163,12 +163,36 @@
       "episode_description": "Veja entrevistas com a participação do público sobre os grandes temas em pauta no país."
     },
     {
-      "show_name": "Senadoc",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_senadoc_l_m.jpg",
-      "show_category": "Politics",
+      "show_name": "A Dupla Jornada",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-dupla-jornada-1976_l_m.jpg",
+      "show_category": "Documentary / 1976",
       "start_time": "21:00",
+      "end_time": "21:57",
+      "episode_description": "Filmado em fábricas no México e na Argentina, e em minas na Bolívia e Venezuela, o filme examina as condições da mão de obra feminina como força de trabalho na América Latina."
+    },
+    {
+      "show_name": "Senado, a História que Transformou o Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_senado-a-historia-que-transformou-o-brasil_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "21:57",
+      "end_time": "22:52",
+      "episode_description": "Senado é palco de disputas históricas pela igualdade de gênero. Mesmo sendo minoria, mulheres conquistam direitos importantes."
+    },
+    {
+      "show_name": "Quem me Representa?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quem-me-representa_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "22:52",
+      "end_time": "23:20",
+      "episode_description": "Uma discussão sobre representatividade de eleitores, movimentos sociais e organizações no Congresso."
+    },
+    {
+      "show_name": "Tempo de Luta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tempo-de-luta-s01e01-amor-identidade-e-maternidade_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - Amor, Identidade e Maternidade",
+      "start_time": "23:20",
       "end_time": "",
-      "episode_description": "Espaço da TV Senado dedicado a documentários."
+      "episode_description": "Como a revolução feminista vem transformando a América Latina, desafiando normas e criando outras formas de pensar, sentir e viver."
     }
   ]
 }
