@@ -3,196 +3,260 @@
   "date": "14/03/2026",
   "schedule": [
     {
-      "show_name": "Comissão",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_comiss-o_l_m.webp",
+      "show_name": "Parlamento Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
       "show_category": "Politics",
       "start_time": "00:00",
-      "end_time": "06:00",
-      "episode_description": "O programa transmite as discussões e votações do plenário."
+      "end_time": "00:30",
+      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
     },
     {
-      "show_name": "Câmara Debate",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_camara-debate_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "06:00",
-      "end_time": "06:30",
-      "episode_description": "A cada programa, dois parlamentares discutem os grandes temas que movimentam os trabalhos na Câmara dos Deputados."
+      "show_name": "Escolher Dá Trabalho",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_escolher-da-trabalho-1_l_m.jpg",
+      "show_category": "Educational",
+      "start_time": "00:30",
+      "end_time": "01:00",
+      "episode_description": "O programa aborda projetos de vida dos estudantes e leva-os a refletir sobre seus caminhos profissionais e a necessidade de investir desde cedo em suas escolhas."
     },
     {
-      "show_name": "Palavra Aberta",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_palavra-aberta-1_l_m.webp",
-      "show_category": "Interview",
-      "start_time": "06:30",
-      "end_time": "06:45",
-      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
-    },
-    {
-      "show_name": "Palavra Aberta",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_palavra-aberta-1_l_m.webp",
-      "show_category": "Interview",
-      "start_time": "06:45",
-      "end_time": "07:00",
-      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
-    },
-    {
-      "show_name": "Documentário TV Câmara",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_documentario-tv-camara_l_m.webp",
+      "show_name": "Canal Saúde",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_canal-saude_l_m.jpg",
       "show_category": "Documentary",
-      "start_time": "07:00",
-      "end_time": "07:30",
-      "episode_description": "Veja documentários sobre aspectos importantes da história e da sociedade."
+      "start_time": "01:00",
+      "end_time": "01:30",
+      "episode_description": "Acompanhe alguns documentários sobre temas relacionados à saúde."
     },
     {
-      "show_name": "Palavra Aberta",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_palavra-aberta-1_l_m.webp",
-      "show_category": "Interview",
-      "start_time": "07:30",
-      "end_time": "07:45",
-      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
-    },
-    {
-      "show_name": "Palavra Aberta",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_palavra-aberta-1_l_m.webp",
-      "show_category": "Interview",
-      "start_time": "07:45",
-      "end_time": "08:00",
-      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
-    },
-    {
-      "show_name": "Painel Eletrônico",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_painel-eletronico_l_m.webp",
-      "show_category": "News",
-      "start_time": "08:00",
-      "end_time": "09:00",
-      "episode_description": "Acompanhe as notícias e reportagens da Câmara dos Deputados, debates e votações do parlamentares."
-    },
-    {
-      "show_name": "Bora Entender?",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_bora-entender_l_m.webp",
-      "show_category": "Documentary",
-      "start_time": "09:00",
-      "end_time": "10:00",
-      "episode_description": "Explicação didática de temas que estão presentes no debate político, de forma imparcial, apresentando todas as visões envolvidas, para que o público entenda a questão e tire suas próprias conclusões."
-    },
-    {
-      "show_name": "Câmara Agora",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_camara-agora_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "10:00",
-      "end_time": "12:00",
-      "episode_description": "Uma cobertura especial e flashes ao vivo de tudo o que acontece na Câmera dos Deputados."
-    },
-    {
-      "show_name": "Participação Popular",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_participac-o-popular-1_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "12:00",
-      "end_time": "13:00",
-      "episode_description": "O programa reúne deputados, analistas e o público ao vivo para saber o que o cidadão comum acha dos temas discutidos no Congresso."
-    },
-    {
-      "show_name": "Câmara Debate",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_camara-debate_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "13:00",
-      "end_time": "13:30",
-      "episode_description": "A cada programa, dois parlamentares discutem os grandes temas que movimentam os trabalhos na Câmara dos Deputados."
-    },
-    {
-      "show_name": "Direto da Câmara",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_direto-da-camara_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "13:30",
-      "end_time": "14:00",
-      "episode_description": "As atividades dos deputados federais direto de Brasília."
+      "show_name": "MultiRio",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_multirio_l_m.jpg",
+      "show_category": "Educational",
+      "start_time": "01:30",
+      "end_time": "02:00",
+      "episode_description": "Assista às produções de escolas, professores e alunos da rede municipal de ensino do Rio de Janeiro. Os programas, animações e vinhetas exibidos são ideais para crianças, adolescentes e educadores."
     },
     {
       "show_name": "Comissão",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_comiss-o_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "14:00",
-      "end_time": "18:00",
+      "start_time": "02:00",
+      "end_time": "02:00",
       "episode_description": "O programa transmite as discussões e votações do plenário."
     },
     {
-      "show_name": "Participação Popular",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_participac-o-popular-1_l_m.webp",
+      "show_name": "Comissão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "18:00",
-      "end_time": "19:00",
-      "episode_description": "O programa reúne deputados, analistas e o público ao vivo para saber o que o cidadão comum acha dos temas discutidos no Congresso."
+      "start_time": "02:00",
+      "end_time": "07:30",
+      "episode_description": "O programa transmite as discussões e votações do plenário."
     },
     {
-      "show_name": "Fatos e Opiniões",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_fatos-e-opini-es-1_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "19:00",
-      "end_time": "19:30",
-      "episode_description": "Este programa transmite as discussões e votações do Plenário e das comissões, com o objetivo de dar maior transparência à rede de elaboração das leis que regem o dia a dia da nossa sociedade."
-    },
-    {
-      "show_name": "Câmara Debate",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_camara-debate_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "19:30",
-      "end_time": "20:00",
-      "episode_description": "A cada programa, dois parlamentares discutem os grandes temas que movimentam os trabalhos na Câmara dos Deputados."
-    },
-    {
-      "show_name": "Ponto de Vista",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_ponto-de-vista-2009_l_m.webp",
-      "show_category": "History",
-      "start_time": "20:00",
-      "end_time": "20:30",
-      "episode_description": "Convidados especiais discutem a respeito de temas relevantes da história mundial."
-    },
-    {
-      "show_name": "Elas Pautam",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_elas-pautam_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "20:30",
-      "end_time": "21:00",
-      "episode_description": "O programa conta com a participação de duas parlamentares, em uma conversa informal sobre temas diversos de interesse da bancada feminina."
+      "show_name": "Dia de Campo na TV",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_dia-de-campo-na-tv-1_l_m.jpg",
+      "show_category": "Agriculture",
+      "start_time": "07:30",
+      "end_time": "08:00",
+      "episode_description": "Acompanhe as principais novidades sobre tecnologia rural e urbana. Os temas são apresentados de forma clara e acessível por meio de entrevistas e reportagens sobre práticas e inovações tecnológicas."
     },
     {
       "show_name": "Expressão Nacional",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_express-o-nacional-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_express-o-nacional-1_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "21:00",
-      "end_time": "22:00",
+      "start_time": "08:00",
+      "end_time": "09:00",
       "episode_description": "Confira os debates sobre grandes temas da agenda nacional, com deputados e representantes do Governo e da sociedade civil."
     },
     {
-      "show_name": "Mar Brasileiro",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_mar-brasileiro_l_m.webp",
-      "show_category": "Special",
-      "start_time": "22:00",
-      "end_time": "23:00",
-      "episode_description": "A importância da conservação e do uso sustentável dos oceanos, mares e de todo recurso marinho que o país tem à disposição e que é tão importante para a economia."
+      "show_name": "Comunidade em Cena",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comunidade-em-cena-1_l_m.jpg",
+      "show_category": "Environment",
+      "start_time": "09:00",
+      "end_time": "09:30",
+      "episode_description": "Documentários que divulgam experiências comunitárias bem-sucedidas, produzidos em parceria com TVs Comunitárias, a partir do apoio do Canal Saúde/Fiocruz."
     },
     {
-      "show_name": "Câmara Debate",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_camara-debate_l_m.webp",
+      "show_name": "Elas Pautam",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_elas-pautam_l_m.jpg",
       "show_category": "Politics",
-      "start_time": "23:00",
-      "end_time": "23:30",
-      "episode_description": "A cada programa, dois parlamentares discutem os grandes temas que movimentam os trabalhos na Câmara dos Deputados."
+      "start_time": "09:30",
+      "end_time": "10:00",
+      "episode_description": "O programa conta com a participação de duas parlamentares, em uma conversa informal sobre temas diversos de interesse da bancada feminina."
+    },
+    {
+      "show_name": "Curta AgroEcologia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_curta-agroecologia-2_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "10:00",
+      "end_time": "10:30",
+      "episode_description": "Documentários que divulgam experiências comunitárias bem sucedidas, produzidos em parceria com TVs Comunitárias, a partir de apoio do Canal Saúde."
+    },
+    {
+      "show_name": "Comissão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "10:30",
+      "end_time": "14:30",
+      "episode_description": "O programa transmite as discussões e votações do plenário."
+    },
+    {
+      "show_name": "Representativas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_representativas_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "14:30",
+      "end_time": "15:00",
+      "episode_description": "Confira temas de interesse público a partir do olhar de deputadas e mulheres da sociedade civil."
     },
     {
       "show_name": "Documentário TV Câmara",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_documentario-tv-camara_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_documentario-tv-camara_l_m.jpg",
       "show_category": "Documentary",
-      "start_time": "23:30",
-      "end_time": "23:45",
+      "start_time": "15:00",
+      "end_time": "16:00",
+      "episode_description": "Veja documentários sobre aspectos importantes da história e da sociedade."
+    },
+    {
+      "show_name": "Canal Saúde",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_canal-saude_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "16:00",
+      "end_time": "16:30",
+      "episode_description": "Acompanhe alguns documentários sobre temas relacionados à saúde."
+    },
+    {
+      "show_name": "Curta AgroEcologia",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_curta-agroecologia-2_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "16:30",
+      "end_time": "17:00",
+      "episode_description": "Documentários que divulgam experiências comunitárias bem sucedidas, produzidos em parceria com TVs Comunitárias, a partir de apoio do Canal Saúde."
+    },
+    {
+      "show_name": "Palavra Aberta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "17:00",
+      "end_time": "17:15",
+      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
+    },
+    {
+      "show_name": "Palavra Aberta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "17:15",
+      "end_time": "17:30",
+      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
+    },
+    {
+      "show_name": "Parlamento Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "17:30",
+      "end_time": "18:00",
+      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
+    },
+    {
+      "show_name": "Documentário TV Câmara",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_documentario-tv-camara_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "18:00",
+      "end_time": "18:30",
+      "episode_description": "Veja documentários sobre aspectos importantes da história e da sociedade."
+    },
+    {
+      "show_name": "Comunidade em Cena",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comunidade-em-cena-1_l_m.jpg",
+      "show_category": "Environment",
+      "start_time": "18:30",
+      "end_time": "19:00",
+      "episode_description": "Documentários que divulgam experiências comunitárias bem-sucedidas, produzidos em parceria com TVs Comunitárias, a partir do apoio do Canal Saúde/Fiocruz."
+    },
+    {
+      "show_name": "Documentário TV Câmara",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_documentario-tv-camara_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "19:00",
+      "end_time": "20:00",
+      "episode_description": "Veja documentários sobre aspectos importantes da história e da sociedade."
+    },
+    {
+      "show_name": "MultiRio",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_multirio_l_m.jpg",
+      "show_category": "Educational",
+      "start_time": "20:00",
+      "end_time": "20:30",
+      "episode_description": "Assista às produções de escolas, professores e alunos da rede municipal de ensino do Rio de Janeiro. Os programas, animações e vinhetas exibidos são ideais para crianças, adolescentes e educadores."
+    },
+    {
+      "show_name": "Escolher Dá Trabalho",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_escolher-da-trabalho-1_l_m.jpg",
+      "show_category": "Educational",
+      "start_time": "20:30",
+      "end_time": "21:00",
+      "episode_description": "O programa aborda projetos de vida dos estudantes e leva-os a refletir sobre seus caminhos profissionais e a necessidade de investir desde cedo em suas escolhas."
+    },
+    {
+      "show_name": "Palavra Aberta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "21:00",
+      "end_time": "21:15",
+      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
+    },
+    {
+      "show_name": "Palavra Aberta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "21:15",
+      "end_time": "21:30",
+      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
+    },
+    {
+      "show_name": "Elas Pautam",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_elas-pautam_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "21:30",
+      "end_time": "22:00",
+      "episode_description": "O programa conta com a participação de duas parlamentares, em uma conversa informal sobre temas diversos de interesse da bancada feminina."
+    },
+    {
+      "show_name": "Qual a Questão?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_qual-a-quest-o_l_m.jpg",
+      "show_category": "Public affairs",
+      "start_time": "22:00",
+      "end_time": "22:30",
+      "episode_description": "Discussões sobre grandes temas da agenda nacional que mexem com o dia a dia dos brasileiros, como educação, economia, meio ambiente, empregos, tecnologia e saúde. Com participação de especialistas e representantes da sociedade civil."
+    },
+    {
+      "show_name": "Documentário TV Câmara",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_documentario-tv-camara_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "22:30",
+      "end_time": "23:00",
       "episode_description": "Veja documentários sobre aspectos importantes da história e da sociedade."
     },
     {
       "show_name": "Palavra Aberta",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-camara/tomorrow/br_palavra-aberta-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
       "show_category": "Interview",
-      "start_time": "23:45",
-      "end_time": "",
+      "start_time": "23:00",
+      "end_time": "23:15",
       "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
+    },
+    {
+      "show_name": "Palavra Aberta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "23:15",
+      "end_time": "23:30",
+      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
+    },
+    {
+      "show_name": "Canal Saúde",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_canal-saude_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "23:30",
+      "end_time": "",
+      "episode_description": "Acompanhe alguns documentários sobre temas relacionados à saúde."
     }
   ]
 }

@@ -3,124 +3,108 @@
   "date": "14/03/2026",
   "schedule": [
     {
-      "show_name": "Nasce uma Estrela",
-      "show_logo": "/wp-content/uploads/downloaded-images/telecine-pipoca/tomorrow/br_nasce-uma-estrela-2018_l_m.webp",
-      "show_category": "Romance / 2018",
-      "start_time": "01:25",
-      "end_time": "03:50",
-      "episode_description": "Jackson Maine é um cantor no auge da fama. Um dia, após deixar uma apresentação, ele para em um bar para beber. Lá, Jackson conhece Ally, uma insegura cantora que ganha a vida trabalhando em um restaurante. Ele se encanta por ela e seu talento. Mais tarde, os dois acabam se casando. Ao mesmo tempo em que Ally desponta para o estrelato, Jackson vive uma crise pessoal e profissional devido aos problemas com o álcool. Os momentos opostos acabam por minar o relacionamento amoroso do casal."
+      "show_name": "Umbrella",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_umbrella-2019_l_m.jpg",
+      "show_category": "Drama / 2019",
+      "start_time": "02:35",
+      "end_time": "02:55",
+      "episode_description": "Joseph é um menino que vive em um orfanato e, por memórias afetivas, sonha em ter um guarda-chuva amarelo. O encontro com uma jovem garota que acompanha a mãe até o local para fazer doações lhe dá novas perspectivas de pensamento."
+    },
+    {
+      "show_name": "Hellboy",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hellboy-2019_l_m.jpg",
+      "show_category": "Action / 2019 /5.2",
+      "start_time": "02:55",
+      "end_time": "05:00",
+      "episode_description": "Uma antiga feiticeira volta à vida decidida a vingar-se de uma traição do passado. Dividido entre o mundo sobrenatural e humano, o lendário meio-demônio Hellboy recebe a missão de conter essa ameaça e salvar o mundo."
+    },
+    {
+      "show_name": "As Viúvas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_as-viuvas-2018_l_m.jpg",
+      "show_category": "Thriller / 2018",
+      "start_time": "05:00",
+      "end_time": "05:00",
+      "episode_description": "Um tiroteio deixa quatro criminosos mortos durante uma tentativa de assalto em Chicago. Suas viúvas, cheias de dívidas, decidem juntar forças e dar seu próprio golpe para garantir um futuro para suas famílias."
+    },
+    {
+      "show_name": "As Viúvas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_as-viuvas-2018_l_m.jpg",
+      "show_category": "Thriller / 2018",
+      "start_time": "05:00",
+      "end_time": "07:15",
+      "episode_description": "Um tiroteio deixa quatro criminosos mortos durante uma tentativa de assalto em Chicago. Suas viúvas, cheias de dívidas, decidem juntar forças e dar seu próprio golpe para garantir um futuro para suas famílias."
+    },
+    {
+      "show_name": "Roubo do Cão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_roubo-do-c-o-2025_l_m.jpg",
+      "show_category": "Comedy / 2025",
+      "start_time": "07:15",
+      "end_time": "08:35",
+      "episode_description": "Luciana e a chihuahua Rita Lee são melhores amigas. Após a cadelinha virar uma celebridade, Luciana precisará enfrentar bandidos atrapalhados contratados para roubá-la."
     },
     {
       "show_name": "Ingresso para o Paraíso",
-      "show_logo": "/wp-content/uploads/downloaded-images/telecine-pipoca/tomorrow/br_ingresso-para-o-paraiso-2022_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ingresso-para-o-paraiso-2022_l_m.jpg",
       "show_category": "Romantic comedy / 2022",
-      "start_time": "03:50",
-      "end_time": "05:40",
+      "start_time": "08:35",
+      "end_time": "10:25",
       "episode_description": "Um homem e sua ex-esposa correm para Bali para impedir que sua filha se case. Enquanto tentam sabotar desesperadamente o casamento, a dupla brigona logo se vê reacendendo velhos sentimentos que um dia os fizeram felizes juntos."
     },
     {
-      "show_name": "Na Mira do Perigo",
-      "show_logo": "/wp-content/uploads/downloaded-images/telecine-pipoca/tomorrow/br_na-mira-do-perigo-2021_l_m.webp",
-      "show_category": "Action / 2021",
-      "start_time": "05:40",
-      "end_time": "05:40",
-      "episode_description": "A história de um fazendeiro que vive na fronteira do Arizona e se torna o improvável defensor de um jovem mexicano que foge desesperadamente dos assassinos do cartel que o perseguiram até os Estados Unidos."
-    },
-    {
-      "show_name": "Na Mira do Perigo",
-      "show_logo": "/wp-content/uploads/downloaded-images/telecine-pipoca/tomorrow/br_na-mira-do-perigo-2021_l_m.webp",
-      "show_category": "Action / 2021",
-      "start_time": "05:40",
-      "end_time": "07:30",
-      "episode_description": "A história de um fazendeiro que vive na fronteira do Arizona e se torna o improvável defensor de um jovem mexicano que foge desesperadamente dos assassinos do cartel que o perseguiram até os Estados Unidos."
-    },
-    {
-      "show_name": "Só Mais Uma Frase",
-      "show_logo": "/wp-content/uploads/downloaded-images/telecine-pipoca/tomorrow/br_so-mais-uma-frase-2022_l_m.webp",
-      "show_category": "Drama / 2022",
-      "start_time": "07:30",
-      "end_time": "07:55",
-      "episode_description": "Um casal vive o fim de sua relação desgastada de quinze anos. Ao longo dos encontros semanais com a advogada, eles relembram o passado e questionam o futuro juntos."
-    },
-    {
-      "show_name": "Comer, Rezar, Amar",
-      "show_logo": "/wp-content/uploads/downloaded-images/telecine-pipoca/tomorrow/br_comer-rezar-amar-2010-1_l_m.webp",
-      "show_category": "Drama / 2010",
-      "start_time": "07:55",
-      "end_time": "10:20",
-      "episode_description": "Liz Gilbert pensa que ela tinha tudo que queria na vida: uma casa, um marido e uma carreira de sucesso. Porém recém-divorciada e de frente para um momento de mudança, ela se sente confusa sobre o que é importante em sua vida. Ousando sair da sua zona de conforto, Liz embarca em uma busca de autodescoberta que a leva à Itália, à Índia e a Bali."
-    },
-    {
-      "show_name": "Agente 86",
-      "show_logo": "/wp-content/uploads/downloaded-images/telecine-pipoca/tomorrow/br_agente-86-2008_l_m.webp",
-      "show_category": "Comedy / 2008 /6.5",
-      "start_time": "10:20",
-      "end_time": "12:15",
-      "episode_description": "O chefe da agência de espionagem norte-americana promove seu analista Maxwell Smart a agente de campo quando integrantes do abominável sindicato do crime KAOS atacam o controle da agência. Smart é escalado para trabalhar ao lado da veterana Agente 99. Apesar da inexperiência, a dupla tem entusiasmo de sobra para tentar frustrar os planos de Siegfried, chefe da KAOS, que deseja dominar o mundo."
-    },
-    {
-      "show_name": "Cartas para Julieta",
-      "show_logo": "/wp-content/uploads/downloaded-images/telecine-pipoca/tomorrow/br_cartas-para-julieta-2010_l_m.webp",
-      "show_category": "Romantic comedy / 2010 /6.5",
-      "start_time": "12:15",
-      "end_time": "14:05",
-      "episode_description": "Em visita à cidade italiana de Verona com seu noivo ocupado, uma jovem chamada Sophie visita um muro onde os desiludidos deixam cartas para a trágica heroína de Shakespeare, Julieta Capuleto. Ao encontrar uma dessas cartas, de 1957, a jovem decide escrever à autora, Claire. Inspirada pela atitude de Sophie, Claire decide procurar por seu antigo amor."
-    },
-    {
-      "show_name": "Policial em Apuros 2",
-      "show_logo": "/wp-content/uploads/downloaded-images/telecine-pipoca/tomorrow/br_policial-em-apuros-2-2016_l_m.webp",
-      "show_category": "Comedy / 2016",
-      "start_time": "14:05",
-      "end_time": "15:55",
-      "episode_description": "Ben Barber deseja tornar-se um detetive, assim como James Payton, seu futuro cunhado. Relutantemente, James leva Ben para Miami em busca de pistas sobre um cartel de drogas. Durante a investigação, eles encontram evidências que implicam um respeitado empresário. Cabe a James e Ben provarem que o executivo carismático, Antonio Papa, é um violento senhor do crime que comanda o tráfico de drogas no Sul da Flórida."
-    },
-    {
-      "show_name": "Jogador Nº 1",
-      "show_logo": "/wp-content/uploads/downloaded-images/telecine-pipoca/tomorrow/br_jogador-n-1-2018_l_m.webp",
-      "show_category": "Science fiction / 2018",
-      "start_time": "15:55",
-      "end_time": "18:20",
-      "episode_description": "Em 2045, Wade Watts, assim como o resto da humanidade, prefere a realidade virtual do jogo OASIS ao mundo real. James Halliday, o excêntrico criador do jogo, morre e deixa sua fortuna inestimável para a primeira pessoa que descobrir a chave de um quebra-cabeça diabólico que ele arquitetou. Para vencer, Watts precisa abandonar a existência virtual e experimentar o amor e a realidade."
-    },
-    {
-      "show_name": "Minha Fera",
-      "show_logo": "/wp-content/uploads/downloaded-images/telecine-pipoca/tomorrow/br_minha-fera-2024_l_m.webp",
-      "show_category": "Romantic comedy / 2024",
-      "start_time": "18:20",
-      "end_time": "20:10",
-      "episode_description": "Laura precisa lidar com um câncer e um término de namoro. Ela vê seu mundo ficar ainda mais caótico quando encontra um charmoso monstro dentro de seu armário."
-    },
-    {
-      "show_name": "Arranha-Céu - Coragem sem Limite",
-      "show_logo": "/wp-content/uploads/downloaded-images/telecine-pipoca/tomorrow/br_arranha-ceu-coragem-sem-limite-2018_l_m.webp",
-      "show_category": "Action / 2018",
-      "start_time": "20:10",
-      "end_time": "21:55",
-      "episode_description": "Will Sawyer, veterano de guerra norte-americano e ex-líder de operações de resgate do FBI, trabalha avaliando a segurança de arranha-céus. Na China, ele é acusado de ter colocado o edifício mais alto e seguro de Hong Kong em chamas. Agora, o ex-agente precisa encontrar os culpados pelo incêndio, salvar sua família que está presa dentro do prédio e limpar seu nome."
+      "show_name": "Shrek",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_shrek-2001_l_m.jpg",
+      "show_category": "Children / 2001 /7.9",
+      "start_time": "10:25",
+      "end_time": "11:55",
+      "episode_description": "Um ogro tem sua vida invadida por personagens de contos de fadas que acabam com a tranquilidade de seu lar. Ele faz um acordo para resgatar uma princesa."
     },
     {
       "show_name": "Filme",
-      "show_logo": "/wp-content/uploads/downloaded-images/telecine-pipoca/tomorrow/br_filme-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_filme-1_l_m.jpg",
       "show_category": "Variety",
-      "start_time": "21:55",
-      "end_time": "22:00",
+      "start_time": "11:55",
+      "end_time": "12:00",
       "episode_description": "Acompanhe uma produção cinematográfica."
     },
     {
-      "show_name": "Os Farofeiros",
-      "show_logo": "/wp-content/uploads/downloaded-images/telecine-pipoca/tomorrow/br_os-farofeiros-2018_l_m.webp",
-      "show_category": "Comedy / 2018",
-      "start_time": "22:00",
-      "end_time": "23:50",
-      "episode_description": "Quatro colegas de trabalho se programam para curtir o feriado prolongado em uma casa de praia. Lá, eles descobrem que se meteram em uma tremenda roubada."
+      "show_name": "Nasce uma Estrela",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_nasce-uma-estrela-2018_l_m.jpg",
+      "show_category": "Romance / 2018",
+      "start_time": "12:00",
+      "end_time": "14:25",
+      "episode_description": "Jackson Maine é um cantor no auge da fama. Um dia, após deixar uma apresentação, ele para em um bar para beber. Lá, Jackson conhece Ally, uma insegura cantora que ganha a vida trabalhando em um restaurante. Ele se encanta por ela e seu talento. Mais tarde, os dois acabam se casando. Ao mesmo tempo em que Ally desponta para o estrelato, Jackson vive uma crise pessoal e profissional devido aos problemas com o álcool. Os momentos opostos acabam por minar o relacionamento amoroso do casal."
     },
     {
-      "show_name": "Missão: Impossível - Acerto de Contas Parte 1",
-      "show_logo": "/wp-content/uploads/downloaded-images/telecine-pipoca/tomorrow/br_miss-o-impossivel-acerto-de-contas-parte-1-2023_l_m.webp",
-      "show_category": "Action / 2023",
-      "start_time": "23:50",
+      "show_name": "Bastardos Inglórios",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bastardos-inglorios-2009-1_l_m.jpg",
+      "show_category": "War / 2009",
+      "start_time": "14:25",
+      "end_time": "17:05",
+      "episode_description": "Durante a Segunda Guerra Mundial, na França, judeus americanos espalham o terror entre o terceiro Reich. Ao mesmo tempo, Shosanna, uma judia que fugiu dos nazistas, planeja vingança quando um evento em seu cinema reunirá os líderes do partido."
+    },
+    {
+      "show_name": "Matrix",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_matrix-1999_l_m.jpg",
+      "show_category": "Science fiction / 1999 /8.7",
+      "start_time": "17:05",
+      "end_time": "19:25",
+      "episode_description": "O jovem programador Thomas Anderson é atormentado por estranhos pesadelos em que está sempre conectado por cabos a um imenso sistema de computadores do futuro. À medida que o sonho se repete, ele começa a desconfiar da realidade. Thomas conhece os misteriosos Morpheus e Trinity e descobre que é vítima de um sistema inteligente e artificial chamado Matrix, que manipula a mente das pessoas e cria a ilusão de um mundo real enquanto usa os cérebros e corpos dos indivíduos para produzir energia."
+    },
+    {
+      "show_name": "O Regresso",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-regresso-2015_l_m.jpg",
+      "show_category": "Adventure / 2015",
+      "start_time": "19:25",
+      "end_time": "22:00",
+      "episode_description": "Após ser atacado por um urso, o caçador Hugh Glass é abandonado na floresta por seu companheiro John Fitzgerald. Apesar de muito ferido, Glass consegue sobreviver e vai em busca de vingança."
+    },
+    {
+      "show_name": "Gladiador",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_gladiador-2000_l_m.jpg",
+      "show_category": "Historical drama / 2000 /8.5",
+      "start_time": "22:00",
       "end_time": "",
-      "episode_description": "Ethan Hunt e sua equipe devem rastrear uma nova arma que pode ameaçar toda a humanidade se cair em mãos erradas. Com o destino do mundo em jogo, se inicia uma corrida mortal ao redor do globo. Confrontado por um inimigo misterioso e poderoso, Ethan é forçado a considerar que talvez nada importe mais do que a missão, nem mesmo as vidas daqueles com quem ele mais se importa."
+      "episode_description": "Maximus é um poderoso general romano, amado pelo povo e pelo imperador Marcus Aurelius. Antes de sua morte, o imperador desperta a ira de seu filho Commodus ao tornar pública a sua predileção em deixar o trono para Maximus. Sedento pelo poder, Commodus mata seu pai, assume a coroa e ordena a morte de Maximus, que consegue fugir antes de ser pego, e passa a se esconder como um escravo e gladiador enquanto vai atrás de vingança."
     }
   ]
 }

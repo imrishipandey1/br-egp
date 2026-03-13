@@ -3,140 +3,172 @@
   "date": "14/03/2026",
   "schedule": [
     {
-      "show_name": "Linha de Passe: Mesa-Redonda",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_sports-talk-linha-de-passe-mesa-redonda_l_m.webp",
+      "show_name": "Premier League Stories",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-premier-league-stories_l_m.jpg",
+      "show_category": "",
+      "start_time": "01:00",
+      "end_time": "01:30",
+      "episode_description": "Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês."
+    },
+    {
+      "show_name": "Show da Rodada da EFL",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-da-efl_l_m.jpg",
       "show_category": "",
       "start_time": "01:30",
-      "end_time": "03:00",
-      "episode_description": "Comentaristas esportivos conceituados entram em campo para uma análise completa da rodada do futebol ao estilo \"mesa redonda\", com debates acalorados e comentários de qualidade, sempre a partir de um olhar crítico e da imparcialidade."
+      "end_time": "02:00",
+      "episode_description": "Os destaques das partidas da EFL Championship, segunda divisão de futebol masculino da Inglaterra."
     },
     {
       "show_name": "Show da Rodada do Italiano",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-show-da-rodada-do-italiano_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-do-italiano_l_m.jpg",
       "show_category": "",
-      "start_time": "03:00",
-      "end_time": "03:30",
+      "start_time": "02:00",
+      "end_time": "02:30",
       "episode_description": "Os principais destaques das partidas da Lega Serie A, primeira divisão do Campeonato Italiano de futebol masculino, com os gols, melhores lances e situação da tabela de classificação após cada rodada disputada."
     },
     {
-      "show_name": "Fiorentina x Parma",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-fiorentina-x-parma_l_m.webp",
-      "show_category": "Campeonato Italiano",
-      "start_time": "03:30",
-      "end_time": "05:30",
-      "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
-    },
-    {
       "show_name": "Show da Rodada de La Liga",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-show-da-rodada-de-la-liga_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-de-la-liga_l_m.jpg",
       "show_category": "",
-      "start_time": "05:30",
-      "end_time": "06:00",
+      "start_time": "02:30",
+      "end_time": "03:00",
       "episode_description": ".Todos os gols e os principais lances da rodada de La Liga, primeira divisão do Campeonato Espanhol."
     },
     {
-      "show_name": "Bola da Vez",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_bola-da-vez_l_m.webp",
-      "show_category": "Sports talk",
-      "start_time": "06:00",
-      "end_time": "07:00",
-      "episode_description": "Ex-tenista profissional que passou a ocupar cargo executivo de relação com atletas após a aposentadoria, o brasileiro André Sá fala sobre os diferentes momentos da carreira, metas profissionais e muito mais."
-    },
-    {
-      "show_name": "Denver Nuggets x Houston Rockets",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_basketball-denver-nuggets-x-houston-rockets_l_m.webp",
-      "show_category": "NBA",
-      "start_time": "07:00",
-      "end_time": "09:00",
-      "episode_description": "O Denver Nuggets recebe o Houston Rockets na Ball Arena, Denver, Colorado. Em jogo válido pela Conferência Oeste, os Nuggets buscam a segunda vitória consecutiva frente aos Rockets nesta temporada. Houston tem um recorde de 8-4 fora de casa em 2025."
-    },
-    {
-      "show_name": "Tigre x Vélez Sarsfield",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-tigre-x-velez-sarsfield_l_m.webp",
-      "show_category": "Campeonato Argentino",
-      "start_time": "09:00",
-      "end_time": "11:00",
-      "episode_description": "Acompanhe as grandes partidas do torneio de elite do futebol argentino."
-    },
-    {
-      "show_name": "Botafogo x Barcelona (EQU)",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-botafogo-x-barcelona-equ_l_m.webp",
-      "show_category": "Copa Libertadores da América",
-      "start_time": "11:00",
-      "end_time": "13:00",
-      "episode_description": "Todas as emoções da principal competição de futebol masculino disputada entre clubes da América do Sul, e que garante ao campeão vaga no Mundial de Clubes da FIFA."
-    },
-    {
-      "show_name": "Sporting Cristal x Carabobo FC",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-sporting-cristal-x-carabobo-fc_l_m.webp",
-      "show_category": "Copa Libertadores da América",
-      "start_time": "13:00",
-      "end_time": "15:00",
-      "episode_description": "Todas as emoções da principal competição de futebol masculino disputada entre clubes da América do Sul, e que garante ao campeão vaga no Mundial de Clubes da FIFA."
-    },
-    {
-      "show_name": "Newcastle United x Manchester City",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-newcastle-united-x-manchester-city-2_l_m.webp",
-      "show_category": "Copa da Inglaterra",
-      "start_time": "15:00",
-      "end_time": "17:00",
-      "episode_description": "Criada em 1871, a FA Cup é o torneio de futebol mais antigo do planeta. Reúne os principais times da Inglaterra contra diversos de todo país, em eliminatórias simples. São quase 800 clubes buscando uma vaga na final."
+      "show_name": "Inside Serie A",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-inside-serie-a_l_m.jpg",
+      "show_category": "",
+      "start_time": "03:00",
+      "end_time": "03:30",
+      "episode_description": "Uma previsão sobre os próximos jogos do Campeonato Italiano."
     },
     {
       "show_name": "Campeonato Espanhol",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-campeonato-espanhol-3_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-campeonato-espanhol-3_l_m.jpg",
       "show_category": "Campeonato Espanhol",
-      "start_time": "17:00",
-      "end_time": "19:00",
+      "start_time": "03:30",
+      "end_time": "05:30",
       "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
     },
     {
       "show_name": "F1: The Inside Line",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_auto-racing-f1-the-inside-line_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_auto-racing-f1-the-inside-line_l_m.jpg",
       "show_category": "",
-      "start_time": "19:00",
-      "end_time": "19:30",
+      "start_time": "05:30",
+      "end_time": "06:00",
       "episode_description": "Veja a cobertura completa da Fórmula 1, a maior e mais badalada categoria do automobilismo mundial. Acompanhe as principais notícias da semana, os bastidores, entrevistas exclusivas e reportagens especiais."
     },
     {
-      "show_name": "Vem Aí: MotoGP - Etapa de Goiânia",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_special-vem-ai-motogp-etapa-de-goiania_l_m.webp",
+      "show_name": "Resenha ESPN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_resenha-espn_l_m.jpg",
+      "show_category": "Sports talk",
+      "start_time": "06:00",
+      "end_time": "07:00",
+      "episode_description": "Ex-jogador com passagem por São Paulo, Sevilla, Real Madrid, Arsenal, Roma e Cruzeiro, entre outros clubes, Júlio Baptista conta histórias inéditas dos tempos de \"Galácticos\" e fala sobre Seleção Brasileira, futuro profissional e muito mais."
+    },
+    {
+      "show_name": "Campeonato Espanhol",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-campeonato-espanhol-3_l_m.jpg",
+      "show_category": "Campeonato Espanhol",
+      "start_time": "07:00",
+      "end_time": "09:00",
+      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
+    },
+    {
+      "show_name": "MunDu Meneses",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mundu-meneses-1_l_m.jpg",
+      "show_category": "Sports talk",
+      "start_time": "09:00",
+      "end_time": "09:25",
+      "episode_description": "Eduardo de Meneses comanda um bate-papo cheio de futebol, música e humor com convidados especiais."
+    },
+    {
+      "show_name": "Copa da Inglaterra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-copa-da-inglaterra_l_m.jpg",
+      "show_category": "Copa da Inglaterra",
+      "start_time": "09:25",
+      "end_time": "11:30",
+      "episode_description": "Criada em 1871, a FA Cup é o torneio de futebol mais antigo do planeta. Reúne os principais times da Inglaterra contra diversos de todo país, em eliminatórias simples. São quase 800 clubes buscando uma vaga na final."
+    },
+    {
+      "show_name": "SportsCenter Abre o Jogo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sports-talk-sportscenter-abre-o-jogo_l_m.jpg",
       "show_category": "",
-      "start_time": "19:30",
-      "end_time": "19:45",
-      "episode_description": "Uma prévia da segunda etapa da temporada 2026 da MotoGP, que será disputada no Autódromo Internacional Ayrton Senna, em Goiânia, marcando a primeira corrida da categoria realizada no Brasil desde 2004."
+      "start_time": "11:30",
+      "end_time": "11:55",
+      "episode_description": "Os preparativos para os principais eventos esportivos do Brasil e do mundo."
     },
     {
-      "show_name": "Corinthians x Bauru",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_basketball-corinthians-x-bauru_l_m.webp",
-      "show_category": "NBB",
-      "start_time": "19:45",
-      "end_time": "22:00",
-      "episode_description": "Todas as emoções da principal competição de basquete masculino profissional entre clubes do Brasil."
+      "show_name": "Copa do Rei",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-copa-do-rei-1_l_m.jpg",
+      "show_category": "Copa do Rei",
+      "start_time": "11:55",
+      "end_time": "13:55",
+      "episode_description": "Disputada desde 1903, envolve os maiores times de Espanha. Entre os anos de 1931 e 1938, o torneio mudou de nome para Copa Presidente da República e, entre 1939 a 1976, se tornou Copa do Generalíssimo. Em 1977, antigo nome retornou para ficar."
     },
     {
-      "show_name": "NBA Action",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_basketball-nba-action_l_m.webp",
+      "show_name": "Copa do Rei",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-copa-do-rei-1_l_m.jpg",
+      "show_category": "Copa do Rei",
+      "start_time": "13:55",
+      "end_time": "16:10",
+      "episode_description": "Disputada desde 1903, envolve os maiores times de Espanha. Entre os anos de 1931 e 1938, o torneio mudou de nome para Copa Presidente da República e, entre 1939 a 1976, se tornou Copa do Generalíssimo. Em 1977, antigo nome retornou para ficar."
+    },
+    {
+      "show_name": "SportsCenter Abre o Jogo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sports-talk-sportscenter-abre-o-jogo_l_m.jpg",
       "show_category": "",
-      "start_time": "22:00",
-      "end_time": "22:30",
-      "episode_description": "Acompanhe as melhores jogadas da semana e últimas notícias sobre a maior liga de basquete do mundo."
+      "start_time": "16:10",
+      "end_time": "16:35",
+      "episode_description": "Os preparativos para os principais eventos esportivos do Brasil e do mundo."
     },
     {
-      "show_name": "Premier League Stories",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-premier-league-stories_l_m.webp",
+      "show_name": "Campeonato Italiano",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-campeonato-italiano-1_l_m.jpg",
+      "show_category": "Campeonato Italiano",
+      "start_time": "16:35",
+      "end_time": "18:45",
+      "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
+    },
+    {
+      "show_name": "Momento ESPN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_documentary-momento-espn_l_m.jpg",
       "show_category": "",
-      "start_time": "22:30",
-      "end_time": "23:00",
-      "episode_description": "Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês."
+      "start_time": "18:45",
+      "end_time": "19:00",
+      "episode_description": ""
     },
     {
-      "show_name": "Campeonato Inglês - Segunda Divisão",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/tomorrow/br_soccer-campeonato-ingles-segunda-divis-o_l_m.webp",
-      "show_category": "Campeonato Inglês - Segunda Divisão",
-      "start_time": "23:00",
+      "show_name": "Resenha ESPN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_resenha-espn_l_m.jpg",
+      "show_category": "Sports talk",
+      "start_time": "19:00",
+      "end_time": "20:00",
+      "episode_description": "Ex-jogador com passagem por São Paulo, Sevilla, Real Madrid, Arsenal, Roma e Cruzeiro, entre outros clubes, Júlio Baptista conta histórias inéditas dos tempos de \"Galácticos\" e fala sobre Seleção Brasileira, futuro profissional e muito mais."
+    },
+    {
+      "show_name": "F1: The Inside Line",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_auto-racing-f1-the-inside-line_l_m.jpg",
+      "show_category": "",
+      "start_time": "20:00",
+      "end_time": "20:30",
+      "episode_description": "Veja a cobertura completa da Fórmula 1, a maior e mais badalada categoria do automobilismo mundial. Acompanhe as principais notícias da semana, os bastidores, entrevistas exclusivas e reportagens especiais."
+    },
+    {
+      "show_name": "Rally Dakar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_auto-racing-rally-dakar_l_m.jpg",
+      "show_category": "",
+      "start_time": "20:30",
+      "end_time": "21:30",
+      "episode_description": "Pilotos amadores e profissionais competem na mais longa prova de rali do mundo: o Rally Dakar."
+    },
+    {
+      "show_name": "NBA",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_basketball-nba_l_m.jpg",
+      "show_category": "NBA",
+      "start_time": "21:30",
       "end_time": "",
-      "episode_description": "Vinte e quatro equipes brigam pelo acesso à Premier League na segunda divisão do futebol inglês."
+      "episode_description": "Trinta equipes dos Estados Unidos e Canadá se enfrentam na principal liga de basquete do mundo."
     }
   ]
 }
