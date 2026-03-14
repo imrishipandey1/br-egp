@@ -1,20 +1,20 @@
 {
   "channel": "Futura",
-  "date": "13/03/2026",
+  "date": "14/03/2026",
   "schedule": [
     {
       "show_name": "Identidade Brasil",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_identidade-brasil_l_m.jpg",
       "show_category": "Educational",
-      "start_time": "00:15",
-      "end_time": "00:45",
+      "start_time": "00:22",
+      "end_time": "00:50",
       "episode_description": "Reflexões contemporâneas sobre educação, cultura, ciência, tecnologia e inovação com base no conhecimento de especialistas."
     },
     {
       "show_name": "Quando Elas se Movimentam",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_quando-elas-se-movimentam-2024_l_m.jpg",
       "show_category": "Documentary / 2024",
-      "start_time": "00:45",
+      "start_time": "00:50",
       "end_time": "02:05",
       "episode_description": "Três personagens de diferentes regiões que manifestam e corporificam a conquista dos direitos da população brasileira, viabilizados e garantidos pelas leis aprovadas pelo senado federal."
     },
@@ -32,7 +32,7 @@
       "show_category": "Music",
       "start_time": "02:15",
       "end_time": "02:30",
-      "episode_description": "A cada semana, artistas e compositores se apresentam e discutem seus repertórios, tradições e novidades do cenário da música."
+      "episode_description": "O incrível violonista e compositor Igor Lazier é o convidado especial. Bacharel em Música Popular pela Unespar, Igor compartilha suas inspirações e experiências musicais."
     },
     {
       "show_name": "Caça Joia",
@@ -320,7 +320,7 @@
       "show_category": "Music",
       "start_time": "11:00",
       "end_time": "11:15",
-      "episode_description": "A cada semana, artistas e compositores se apresentam e discutem seus repertórios, tradições e novidades do cenário da música."
+      "episode_description": "O incrível violonista e compositor Igor Lazier é o convidado especial. Bacharel em Música Popular pela Unespar, Igor compartilha suas inspirações e experiências musicais."
     },
     {
       "show_name": "Sou Chorinho",
@@ -383,8 +383,16 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_pcdpod-s01e05-arte-e-acesso_l_m.jpg",
       "show_category": "Temporada 1 Episódio 5 - Arte e Acesso",
       "start_time": "14:00",
-      "end_time": "15:30",
+      "end_time": "15:20",
       "episode_description": "Giovanna Andreo, Léo Castilho e Rafa Brunelli discutem os acessos à arte por pessoas com deficiência e a acessibilidade de eventos culturais."
+    },
+    {
+      "show_name": "Diz Aí - Juventudes",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_diz-ai-juventudes_l_m.jpg",
+      "show_category": "Public affairs",
+      "start_time": "15:20",
+      "end_time": "15:30",
+      "episode_description": "Serra Pelada, no Pará, foi o maior garimpo a céu aberto do mundo. Hoje, jovens desse território buscam ressignificar as narrativas conectando as vivências do presente com o passado e os sonhos de futuro."
     },
     {
       "show_name": "Mutirão Saúde",
@@ -504,7 +512,7 @@
       "show_category": "Music",
       "start_time": "21:00",
       "end_time": "21:15",
-      "episode_description": "A cada semana, artistas e compositores se apresentam e discutem seus repertórios, tradições e novidades do cenário da música."
+      "episode_description": "O incrível violonista e compositor Igor Lazier é o convidado especial. Bacharel em Música Popular pela Unespar, Igor compartilha suas inspirações e experiências musicais."
     },
     {
       "show_name": "Caça Joia",

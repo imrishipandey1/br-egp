@@ -1,12 +1,28 @@
 {
   "channel": "TV Câmara",
-  "date": "13/03/2026",
+  "date": "14/03/2026",
   "schedule": [
     {
       "show_name": "Comissão",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o_l_m.jpg",
       "show_category": "Politics",
       "start_time": "00:00",
+      "end_time": "03:00",
+      "episode_description": "O programa transmite as discussões e votações do plenário."
+    },
+    {
+      "show_name": "Sessão Solene",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sess-o-solene-1_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "03:00",
+      "end_time": "04:00",
+      "episode_description": "Discussões e votações do plenário e das comissões com maior transparência à rede de elaboração das leis que regem o dia a dia da sociedade."
+    },
+    {
+      "show_name": "Comissão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o_l_m.jpg",
+      "show_category": "Politics",
+      "start_time": "04:00",
       "end_time": "06:00",
       "episode_description": "O programa transmite as discussões e votações do plenário."
     },
@@ -79,8 +95,16 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_camara-agora_l_m.jpg",
       "show_category": "Politics",
       "start_time": "10:00",
-      "end_time": "12:00",
+      "end_time": "11:30",
       "episode_description": "Uma cobertura especial e flashes ao vivo de tudo o que acontece na Câmera dos Deputados."
+    },
+    {
+      "show_name": "Documentário TV Câmara",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_documentario-tv-camara_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "11:30",
+      "end_time": "12:00",
+      "episode_description": "Veja documentários sobre aspectos importantes da história e da sociedade."
     },
     {
       "show_name": "Participação Popular",
@@ -111,8 +135,16 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_comiss-o_l_m.jpg",
       "show_category": "Politics",
       "start_time": "14:00",
-      "end_time": "18:00",
+      "end_time": "17:40",
       "episode_description": "O programa transmite as discussões e votações do plenário."
+    },
+    {
+      "show_name": "Documentário TV Câmara",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_documentario-tv-camara_l_m.jpg",
+      "show_category": "Documentary",
+      "start_time": "17:40",
+      "end_time": "18:00",
+      "episode_description": "Veja documentários sobre aspectos importantes da história e da sociedade."
     },
     {
       "show_name": "Participação Popular",
@@ -183,16 +215,8 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_documentario-tv-camara_l_m.jpg",
       "show_category": "Documentary",
       "start_time": "23:30",
-      "end_time": "23:45",
-      "episode_description": "Veja documentários sobre aspectos importantes da história e da sociedade."
-    },
-    {
-      "show_name": "Palavra Aberta",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-aberta-1_l_m.jpg",
-      "show_category": "Interview",
-      "start_time": "23:45",
       "end_time": "00:00",
-      "episode_description": "Programa semanal de entrevista em formato descontraído, evidenciando aspectos da vida do entrevistado, tratando de assuntos voltados para cultura, economia, cidadania. O objetivo é apresentar exemplos populares de sucesso."
+      "episode_description": "Veja documentários sobre aspectos importantes da história e da sociedade."
     }
   ]
 }

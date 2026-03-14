@@ -1,62 +1,446 @@
 {
   "channel": "Cartoonito",
-  "date": "14/03/2026",
+  "date": "15/03/2026",
   "schedule": [
+    {
+      "show_name": "Peppa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_peppa-s02e13_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 13 - Engarrafamento",
+      "start_time": "00:00",
+      "end_time": "00:07",
+      "episode_description": "Peppa e sua família estão presos em um congestionamento. Como não conseguem chegar à casa do avô para o almoço, o almoço vai até eles... em um carrinho de mão."
+    },
+    {
+      "show_name": "Pocoyo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pocoyo-s03e30-acorde-pocoyo_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 30 - Acorde, Pocoyo!",
+      "start_time": "00:07",
+      "end_time": "00:14",
+      "episode_description": "O dia começa e Pato acorda alegre, enquanto Pocoyo não consegue levantar. Aos poucos, ele vai despertando, mas quando mais está se divertindo é hora de dormir outra vez."
+    },
     {
       "show_name": "Pocoyo",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_pocoyo_l_m.jpg",
       "show_category": "Children",
-      "start_time": "00:00",
-      "end_time": "01:00",
-      "episode_description": "Pocoyo e Nina tentam encontrar algumas invenções para ganhar tempo."
+      "start_time": "00:14",
+      "end_time": "00:22",
+      "episode_description": "Conheça o menino Pocoyo, curioso e engraçado, que adora brincar e explorar o mundo ao seu redor."
+    },
+    {
+      "show_name": "Pocoyo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pocoyo-s03e50-a-fazenda_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 50 - A Fazenda",
+      "start_time": "00:22",
+      "end_time": "00:30",
+      "episode_description": "Pocoyo, Elly e Pato estão na horta onde plantaram tomates, cenouras e alfaces. Chega o momento de colher e comer, quando de repente as verduras começam a se mover sozinhas."
+    },
+    {
+      "show_name": "Pocoyo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pocoyo-s05e32-o-perdoado_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 32 - O Perdoado",
+      "start_time": "00:30",
+      "end_time": "00:37",
+      "episode_description": "Pocoyo vira estrela de filme e esquece amigos. Ao notar seu erro, tenta reparar antes da estreia."
+    },
+    {
+      "show_name": "Pocoyo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pocoyo-s05e33-o-perdoado_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 33 - O Perdoado",
+      "start_time": "00:37",
+      "end_time": "00:44",
+      "episode_description": "Pocoyo vira estrela de filme e esquece amigos. Ao notar seu erro, tenta reparar antes da estreia."
+    },
+    {
+      "show_name": "Pocoyo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pocoyo-s05e38-priszilla_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 38 - Priszilla",
+      "start_time": "00:44",
+      "end_time": "00:52",
+      "episode_description": "Priscilla quer viver um filme de ação e os amigos criam uma cidade inflável. Mas a brincadeira foge do controle."
+    },
+    {
+      "show_name": "Pocoyo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pocoyo-s05e39-priszilla_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 39 - Priszilla",
+      "start_time": "00:52",
+      "end_time": "00:59",
+      "episode_description": "Priszilla quer viver um filme de ação e os amigos criam uma cidade inflável. Mas a brincadeira foge do controle."
     },
     {
       "show_name": "Blippi",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_blippi_l_m.jpg",
       "show_category": "Children",
-      "start_time": "01:00",
-      "end_time": "01:30",
+      "start_time": "00:59",
+      "end_time": "01:13",
+      "episode_description": "É hora de dizer Abracadabra. Blippi aprende truques incríveis com um mágico poderoso."
+    },
+    {
+      "show_name": "Blippi",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_blippi_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "01:13",
+      "end_time": "01:26",
       "episode_description": "É hora de dizer Abracadabra. Blippi aprende truques incríveis com um mágico poderoso."
     },
     {
       "show_name": "Maravilhas do Blippi - Desenhos Animados Educativos para Crianças",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_maravilhas-do-blippi-desenhos-animados-educativos-para-criancas_l_m.jpg",
-      "show_category": "Children",
-      "start_time": "01:30",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_maravilhas-do-blippi-desenhos-animados-educativos-para-criancas-s01e20-ninho-de-passaro_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 20 - Ninho de Pássaro",
+      "start_time": "01:26",
+      "end_time": "01:29",
+      "episode_description": "Uma tempestade destrói o ninho de Jodie, o gaio-azul. Mas Blippi, FETCH e Jodie aparecem para ajudar. Enquanto FETCH cuida dos ovos, Jodie e Blippi partem em uma missão para adquirir os materiais necessários para a reconstrução."
+    },
+    {
+      "show_name": "Maravilhas do Blippi - Desenhos Animados Educativos para Crianças",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_maravilhas-do-blippi-desenhos-animados-educativos-para-criancas-s01e08-mel_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 8 - Mel",
+      "start_time": "01:29",
+      "end_time": "01:32",
+      "episode_description": "Blippi e FETCH voam numa colmeia muito agitada, onde encontram Bijou, a abelha-operária. Com um talento para rimar e fazer mel, Bijou canta sobre o delicioso doce."
+    },
+    {
+      "show_name": "Maravilhas do Blippi - Desenhos Animados Educativos para Crianças",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_maravilhas-do-blippi-desenhos-animados-educativos-para-criancas-s01e26-esquilos_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 26 - Esquilos",
+      "start_time": "01:32",
+      "end_time": "01:36",
+      "episode_description": "O esquilo Sparky enterra suas nozes pelo parque e Blippi a ajuda a encontrá-las."
+    },
+    {
+      "show_name": "Maravilhas do Blippi - Desenhos Animados Educativos para Crianças",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_maravilhas-do-blippi-desenhos-animados-educativos-para-criancas-s01e11-flocos-de-neve_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 11 - Flocos de Neve",
+      "start_time": "01:36",
+      "end_time": "01:39",
+      "episode_description": "É um dia gelado e Blippi, com muito frio, sobe para o céu para descobrir como os flocos de neve são feitos. Bem alto nas nuvens de inverno, ele ajuda Mimi a construir cristais de gelo e se transformar em um incrível floco de neve."
+    },
+    {
+      "show_name": "Maravilhas do Blippi - Desenhos Animados Educativos para Crianças",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_maravilhas-do-blippi-desenhos-animados-educativos-para-criancas-s01e12-panda_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 12 - Panda",
+      "start_time": "01:39",
+      "end_time": "01:43",
+      "episode_description": "Blippi passeia por uma bela floresta tropical e conhece Bai, um panda gigante faminto. Ele apresenta Blippi a uma variedade de animais enquanto mastiga sua comida favorita, o bambu."
+    },
+    {
+      "show_name": "Maravilhas do Blippi - Desenhos Animados Educativos para Crianças",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_maravilhas-do-blippi-desenhos-animados-educativos-para-criancas-s01e18-espirrar_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 18 - Espirrar",
+      "start_time": "01:43",
+      "end_time": "01:46",
+      "episode_description": "Blippi se encolhe e entra em um nariz para descobrir o que leva alguém a espirrar. Um pedaço de pólen muito malicioso mostra como esse fenômeno acontece."
+    },
+    {
+      "show_name": "Maravilhas do Blippi - Desenhos Animados Educativos para Crianças",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_maravilhas-do-blippi-desenhos-animados-educativos-para-criancas-s01e09-montanha_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 9 - Montanha",
+      "start_time": "01:46",
+      "end_time": "01:49",
+      "episode_description": "Blippi e TABBS partem em uma aventura gelada e voam pela encosta do Monte Everest, a montanha mais alta do mundo. Eles se juntam a Betty, a Yeti, que está escalando até o topo em busca de neve fresca."
+    },
+    {
+      "show_name": "Maravilhas do Blippi - Desenhos Animados Educativos para Crianças",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_maravilhas-do-blippi-desenhos-animados-educativos-para-criancas-s01e04-castelo-de-areia_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - Castelo de Areia",
+      "start_time": "01:49",
+      "end_time": "01:53",
+      "episode_description": "É hora de se divertir com muito sol e praia. O Blippi Móvel é transformado em uma escavadeira quando Blippi decide construir um castelo de areia. Seu novo amigo Crabby, o caranguejo, o ensina a construir uma fortaleza que realmente vai durar."
+    },
+    {
+      "show_name": "Maravilhas do Blippi - Desenhos Animados Educativos para Crianças",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_maravilhas-do-blippi-desenhos-animados-educativos-para-criancas-s01e19-patos_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 19 - Patos",
+      "start_time": "01:53",
+      "end_time": "01:56",
+      "episode_description": "Blippi se aproxima de Declan, o Pato, em sua busca para descobrir como os patos flutuam. Sob a água, sobre a água, por túneis de penas e bolhas de ar, Blippi e Declan trabalham juntos para descobrir a resposta."
+    },
+    {
+      "show_name": "Maravilhas do Blippi - Desenhos Animados Educativos para Crianças",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_maravilhas-do-blippi-desenhos-animados-educativos-para-criancas-s01e13-planetas_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 13 - Planetas",
+      "start_time": "01:56",
       "end_time": "02:00",
-      "episode_description": "O curioso Blippi e seus fiéis companheiros se envolvem em divertidas aventuras para responder à pergunta do dia."
+      "episode_description": "Três, dois, um, decolar. O Blippi Móvel se torna uma nave espacial para desbravar os planetas do sistema solar. Merry, o meteoro, guia Blippi pela beleza do universo."
     },
     {
       "show_name": "Meekah",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_meekah_l_m.jpg",
-      "show_category": "Children",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_meekah-s01e20-meekah-descobre-os-dinossauros_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 20 - Meekah Descobre os Dinossauros",
       "start_time": "02:00",
-      "end_time": "03:00",
-      "episode_description": "Meekah e seu melhor amigo Blippi vivem aventuras e exploram as maravilhas da ciência e da natureza."
+      "end_time": "02:13",
+      "episode_description": "Meekah aprende sobre os dinossauros no Museu Americano de História Natural e sai em busca de um simpático T-Rex."
+    },
+    {
+      "show_name": "Meekah",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_meekah-s01e09-meekah-e-as-bolhas_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 9 - Meekah e as Bolhas",
+      "start_time": "02:13",
+      "end_time": "02:29",
+      "episode_description": "Meekah visita o BubblePOP para aprender a fazer bolhas e se divertir de montão em uma festa animada."
+    },
+    {
+      "show_name": "Meekah",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_meekah-s01e16-dia-de-brincadeiras-da-meekah-no-billy-beez_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 16 - Dia de Brincadeiras da Meekah no Billy Beez",
+      "start_time": "02:29",
+      "end_time": "02:41",
+      "episode_description": "No parquinho, Blippi monta uma caça ao tesouro divertida para Meekah. Tem até um escorregador de arco-íris e uma horta."
+    },
+    {
+      "show_name": "Meekah",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_meekah-s01e04-meekah-no-skyzone-salto-mortal_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - Meekah no Skyzone - Salto Mortal",
+      "start_time": "02:41",
+      "end_time": "02:54",
+      "episode_description": "Meekah dá pulos de alegria nas camas elásticas do parque Sky Zone e aprende a dar um salto mortal com segurança."
     },
     {
       "show_name": "Grizzy e os Lemmings",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_grizzy-e-os-lemmings_l_m.jpg",
-      "show_category": "Children",
-      "start_time": "03:00",
-      "end_time": "04:00",
-      "episode_description": "Em uma vasta reserva natural, a casa do guarda-florestal se torna o campo de batalha entre o urso Grizzy e a mais inofensiva e ridícula família de mamíferos que existe, os Lemmings."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_grizzy-e-os-lemmings-s03e25_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 25 - Desafio de Equipes",
+      "start_time": "02:54",
+      "end_time": "03:01",
+      "episode_description": "Um helicóptero vem à praia e deixa para trás muitos suprimentos de comida e uma disputa em aberto."
+    },
+    {
+      "show_name": "Grizzy e os Lemmings",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_grizzy-e-os-lemmings-s04e12-seja-como-for_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 12 - Seja Como For",
+      "start_time": "03:01",
+      "end_time": "03:08",
+      "episode_description": "Durante uma luta, Grizzy e os Lemmings arremessam o seu último pote de chocolate na floresta."
+    },
+    {
+      "show_name": "Grizzy e os Lemmings",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_grizzy-e-os-lemmings-s03e39_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 39 - Cabine no Gelo",
+      "start_time": "03:08",
+      "end_time": "03:15",
+      "episode_description": "Os Lemmings transformam a cabana em um escorregador de gelo gigante enquanto Grizzy vai pescar."
+    },
+    {
+      "show_name": "Grizzy e os Lemmings",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_grizzy-e-os-lemmings-s04e19_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 19 - Refeição Rápida",
+      "start_time": "03:15",
+      "end_time": "03:22",
+      "episode_description": "Grizzy e os Lemmings ficam morrendo de fome após um caminhão entregar caixas de cubos de comida compacta para a estação de pesquisa."
+    },
+    {
+      "show_name": "Grizzy e os Lemmings",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_grizzy-e-os-lemmings-s04e20_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 20 - Domando Animais (Virtuais)",
+      "start_time": "03:22",
+      "end_time": "03:30",
+      "episode_description": "Os Lemmings andam de um lado para o outro procurando animais virtuais para capturar com seu tablet."
+    },
+    {
+      "show_name": "Grizzy e os Lemmings",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_grizzy-e-os-lemmings-s04e39_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 39 - Cabine Interplanetária",
+      "start_time": "03:30",
+      "end_time": "03:37",
+      "episode_description": "Grizzy não consegue dormir porque está muito quente e decide confiscar os ventiladores que os Lemmings usam para alimentar sua nave espacial falsa. Totalmente imersos em seu jogo, os Lemmings tentam repelir o alienígena Grizzy com laser."
+    },
+    {
+      "show_name": "Grizzy e os Lemmings",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_grizzy-e-os-lemmings-s03e53_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 53 - 1 + 1 = 1",
+      "start_time": "03:37",
+      "end_time": "03:44",
+      "episode_description": "Grizzy entra em confronto com os Lemmings e vai parar em uma sala na torre do castelo, onde ele acidentalmente aciona um mecanismo e descobre um grande baú mágico."
+    },
+    {
+      "show_name": "Grizzy e os Lemmings",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_grizzy-e-os-lemmings-s02e16-lemming-beach_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 16 - A Praia dos Lemmings",
+      "start_time": "03:44",
+      "end_time": "03:51",
+      "episode_description": "Uma nova cama de bronzeamento artificial ganha um lugar de honra no meio da cabana. Grizzy põe na cabeça que um bronzeado cheio de classe o ajudará a chamar a atenção de sua amada ursa."
+    },
+    {
+      "show_name": "Grizzy e os Lemmings",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_grizzy-e-os-lemmings-s01e77-grizzy-o-feiticeiro_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 77 - Grizzy, o Feiticeiro",
+      "start_time": "03:51",
+      "end_time": "03:58",
+      "episode_description": "Em uma caixa que caiu da caravana de um circo, os lêmingues encontram uma vareta mágica capaz de encantar os objetos e lhes conceder vida. Grizzy tem certeza de que a vareta lhe pouparia muito trabalho, mas o problema é arrancá-las dos lêmingues."
+    },
+    {
+      "show_name": "Grizzy e os Lemmings",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_grizzy-e-os-lemmings-s04e56-inteligencia-artificial-burrice-natural_l_m.jpg",
+      "show_category": "Temporada 4 Episódio 56 - Inteligência Artificial, Burrice Natural",
+      "start_time": "03:58",
+      "end_time": "04:05",
+      "episode_description": "Uma inteligência artificial se conecta com o urso de pelúcia do Grizzy, que ganha vida."
     },
     {
       "show_name": "Hey Fuzzy Yellow",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_hey-fuzzy-yellow_l_m.jpg",
-      "show_category": "Children",
-      "start_time": "04:00",
-      "end_time": "05:00",
-      "episode_description": "Mostra como cada criança tem o direito de aprender a se expressar de uma forma natural."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hey-fuzzy-yellow-s01e46-cor-do-pincel-de-sobressalto_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 46 - Cor do Pincel de Sobressalto",
+      "start_time": "04:05",
+      "end_time": "04:16",
+      "episode_description": "Fuzzy Yellow assusta Bao Bao, e Bao Bao fica branco. Intrigado, Bao Bao se oferece para ser uma tela para todos os amigos pintar."
+    },
+    {
+      "show_name": "Hey Fuzzy Yellow",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hey-fuzzy-yellow-s01e11-campeonato-de-pudim_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 11 - Campeonato de Pudim",
+      "start_time": "04:16",
+      "end_time": "04:28",
+      "episode_description": "Fuzzy Yellow e Bennu coletam pinhas lindas. Mas um mini tornado as suga e XYZ ajuda a recuperá-las."
+    },
+    {
+      "show_name": "Hey Fuzzy Yellow",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hey-fuzzy-yellow-s01e07-banquete-das-tartarugas-escondidas_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 7 - Banquete das Tartarugas Escondidas",
+      "start_time": "04:28",
+      "end_time": "04:40",
+      "episode_description": "Depois de um encontro com uma tartaruga, os amigos de Fuzzy Yellow se reúnem para o Banquete das Frutas Favoritas. Mas as uvas de Fuzzy Yellow desaparecem."
+    },
+    {
+      "show_name": "Hey Fuzzy Yellow",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hey-fuzzy-yellow-s01e48-almofada-do-ceu-girassol_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 48 - Almofada do Céu Girassol",
+      "start_time": "04:40",
+      "end_time": "04:51",
+      "episode_description": "Fuzzy Yellow e Patoto desejam um novo tipo de chuva que não seja molhada. A nuvem Wisp tenta vários métodos surpreendentes para atender ao pedido deles."
+    },
+    {
+      "show_name": "Hey Fuzzy Yellow",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hey-fuzzy-yellow-s01e20-esculturas-de-lama_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 20 - Esculturas de Lama",
+      "start_time": "04:51",
+      "end_time": "05:02",
+      "episode_description": "O amigos fazem esculturas de lama e Fuzzy Yellow decide posar para eles."
     },
     {
       "show_name": "Morphle",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_morphle_l_m.jpg",
       "show_category": "Children",
-      "start_time": "05:00",
+      "start_time": "05:02",
+      "end_time": "05:05",
+      "episode_description": "Morphle, o melhor amigo de Mila, é um bichinho que consegue se transformar em qualquer coisa. Juntos, eles vivem altas aventuras e aprendem se divertindo."
+    },
+    {
+      "show_name": "Morphle",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_morphle_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "05:05",
+      "end_time": "05:09",
+      "episode_description": "Morphle, o melhor amigo de Mila, é um bichinho que consegue se transformar em qualquer coisa. Juntos, eles vivem altas aventuras e aprendem se divertindo."
+    },
+    {
+      "show_name": "Morphle",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_morphle-s02e19-mudanca_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 19 - Mudança",
+      "start_time": "05:09",
+      "end_time": "05:12",
+      "episode_description": "Morphle acha que Mila e seu pai estão se mudando; Mila e Morphle fazem de tudo para ficar juntos."
+    },
+    {
+      "show_name": "Morphle",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_morphle_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "05:12",
+      "end_time": "05:16",
+      "episode_description": "Morphle, o melhor amigo de Mila, é um bichinho que consegue se transformar em qualquer coisa. Juntos, eles vivem altas aventuras e aprendem se divertindo."
+    },
+    {
+      "show_name": "Morphle",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_morphle-s02e22-fogo-na-churrasqueira_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 22 - Fogo na Churrasqueira",
+      "start_time": "05:16",
+      "end_time": "05:19",
+      "episode_description": "O Sr. Vanderboos tenta fazer um churrasco, mas Mila e Morphle, como bombeiros, apagam o fogo."
+    },
+    {
+      "show_name": "Morphle",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_morphle_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "05:19",
+      "end_time": "05:22",
+      "episode_description": "Morphle, o melhor amigo de Mila, é um bichinho que consegue se transformar em qualquer coisa. Juntos, eles vivem altas aventuras e aprendem se divertindo."
+    },
+    {
+      "show_name": "Morphle",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_morphle_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "05:22",
+      "end_time": "05:26",
+      "episode_description": "Morphle, o melhor amigo de Mila, é um bichinho que consegue se transformar em qualquer coisa. Juntos, eles vivem altas aventuras e aprendem se divertindo."
+    },
+    {
+      "show_name": "Perninha em Obras",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_perninha-em-obras_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "05:26",
+      "end_time": "05:31",
+      "episode_description": "Pernalonga, Patolino, Lola, Piu-Piu e Gaguinho botam as mãos à obra em projetos malucos inéditos."
+    },
+    {
+      "show_name": "Morphle",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_morphle-s02e06-a-mistura-dos-animais_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 6 - A Mistura dos Animais",
+      "start_time": "05:31",
+      "end_time": "05:34",
+      "episode_description": "Um passeio normal ao Santuário de Animais vira um caos quando as mentes dos animais são trocadas."
+    },
+    {
+      "show_name": "O Mundo Mágico de Morphle e Mila",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-mundo-magico-de-morphle-e-mila_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "05:34",
+      "end_time": "05:38",
+      "episode_description": "Mila e Morphle investigam um avistamento de tubarão na praia e precisam proteger seus amigos."
+    },
+    {
+      "show_name": "Morphle",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_morphle_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "05:38",
+      "end_time": "05:41",
+      "episode_description": "Morphle, o melhor amigo de Mila, é um bichinho que consegue se transformar em qualquer coisa. Juntos, eles vivem altas aventuras e aprendem se divertindo."
+    },
+    {
+      "show_name": "Morphle",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_morphle-s02e23-mila-esta-doente_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 23 - Mila Está Doente",
+      "start_time": "05:41",
+      "end_time": "05:45",
+      "episode_description": "Mila está com um resfriado tão forte que Morphle não entende as transformações que ela pede."
+    },
+    {
+      "show_name": "Morphle",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_morphle-s01e208-ursinhos-por-toda-parte_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 208 - Ursinhos por Toda Parte",
+      "start_time": "05:45",
+      "end_time": "05:48",
+      "episode_description": "A Professora Paula cria uma invenção divertida que transforma as pessoas em ursinhos de pelúcia. Mas quando os bandidos a roubam, as coisas saem do controle, pois eles transformam todos de Pettysburg em ursinhos."
+    },
+    {
+      "show_name": "Morphle",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_morphle_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "05:48",
+      "end_time": "05:51",
+      "episode_description": "Morphle, o melhor amigo de Mila, é um bichinho que consegue se transformar em qualquer coisa. Juntos, eles vivem altas aventuras e aprendem se divertindo."
+    },
+    {
+      "show_name": "Morphle",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_morphle_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "05:51",
+      "end_time": "05:55",
+      "episode_description": "Morphle, o melhor amigo de Mila, é um bichinho que consegue se transformar em qualquer coisa. Juntos, eles vivem altas aventuras e aprendem se divertindo."
+    },
+    {
+      "show_name": "Morphle",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_morphle_l_m.jpg",
+      "show_category": "Children",
+      "start_time": "05:55",
       "end_time": "06:00",
-      "episode_description": "Os bandidos e seu sobrinho, Winston, roubam o caminhão de sorvete do aniversário de Morphle."
+      "episode_description": "Morphle, o melhor amigo de Mila, é um bichinho que consegue se transformar em qualquer coisa. Juntos, eles vivem altas aventuras e aprendem se divertindo."
     },
     {
       "show_name": "O Show de Tom & Jerry",
@@ -608,7 +992,7 @@
       "show_category": "Children",
       "start_time": "17:29",
       "end_time": "17:32",
-      "episode_description": "Compartilhar, repartir e dividir é usar a generosidade para fazer bem a outras pessoas. Embarque nesta canção de vibraçães positivas com a turminha do Mundo Bita."
+      "episode_description": "O Sr. Pitágoras, o Bita e toda a turminha convidam a criançada a uma viagem pelo universo dos números. É muito bom saber que a matemática está por todo lugar e nos ajuda a compreender o espaço em que vivemos."
     },
     {
       "show_name": "Mundo Bita",
@@ -616,7 +1000,7 @@
       "show_category": "Children",
       "start_time": "17:32",
       "end_time": "17:36",
-      "episode_description": "Compartilhar, repartir e dividir é usar a generosidade para fazer bem a outras pessoas. Embarque nesta canção de vibraçães positivas com a turminha do Mundo Bita."
+      "episode_description": "O Sr. Pitágoras, o Bita e toda a turminha convidam a criançada a uma viagem pelo universo dos números. É muito bom saber que a matemática está por todo lugar e nos ajuda a compreender o espaço em que vivemos."
     },
     {
       "show_name": "Mundo Bita",

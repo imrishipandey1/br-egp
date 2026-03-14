@@ -1,6 +1,6 @@
 {
   "channel": "TV SENADO",
-  "date": "14/03/2026",
+  "date": "15/03/2026",
   "schedule": [
     {
       "show_name": "A Voz de Ruy",
@@ -76,11 +76,11 @@
     },
     {
       "show_name": "Boto Fé",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_boto-fe_l_m.jpg",
-      "show_category": "Documentary",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_boto-fe-s01e01-candomble_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 1 - Candomblé",
       "start_time": "07:00",
       "end_time": "07:30",
-      "episode_description": "Conheça melhor algumas das religiões mais praticadas no Brasil. Cada crença é revelada pela experiência pessoal de seus fiéis, com o complemento de vozes de representantes religiosos."
+      "episode_description": "Roger Cipó, fotógrafo e professor de capoeira, fala sobre o candomblé, uma das religiões de matriz africana mais praticadas no Brasil. Ele se divide entre o toque para os orixás e registros fotográficos que divulgam a cultura do candomblé país afora."
     },
     {
       "show_name": "Super Libris",
@@ -104,7 +104,7 @@
       "show_category": "Politics",
       "start_time": "08:30",
       "end_time": "09:00",
-      "episode_description": "Acompanhe o resumo da atividade legislativa da semana no Senado."
+      "episode_description": "Acompanhe as últimas notícias do Senado, entre as transmissões ao vivo das reuniões das comissões, do plenário e os programas de grade da emissora."
     },
     {
       "show_name": "EcoSenado",
@@ -184,7 +184,7 @@
       "show_category": "Politics",
       "start_time": "13:30",
       "end_time": "14:00",
-      "episode_description": "Acompanhe o resumo da atividade legislativa da semana no Senado."
+      "episode_description": "Acompanhe as últimas notícias do Senado, entre as transmissões ao vivo das reuniões das comissões, do plenário e os programas de grade da emissora."
     },
     {
       "show_name": "Galáxias - Olhares Sobre o Brasil",
@@ -192,7 +192,7 @@
       "show_category": "Educational",
       "start_time": "14:00",
       "end_time": "14:30",
-      "episode_description": "Saiba como se formaram os diferentes padrões de identidade nacional do Brasil ao longo do tempo e o quanto a enorme diversidade de raças, costumes e cenários do país torna complexa, talvez impossível, a tarefa de definir o povo brasileiro."
+      "episode_description": "Assista a bate papos sobre temas da sociedade brasileira contemporânea, com reflexões a respeito dos aspectos importantes da vida do país."
     },
     {
       "show_name": "Leituras",
@@ -267,20 +267,36 @@
       "episode_description": "O programa apresenta diversos eventos culturais como teatro, música e outras formas de expressão do povo brasileiro."
     },
     {
-      "show_name": "Senadoc",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_senadoc_l_m.jpg",
-      "show_category": "Politics",
+      "show_name": "Quando Elas se Movimentam",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quando-elas-se-movimentam-2024_l_m.jpg",
+      "show_category": "Documentary / 2024",
       "start_time": "21:00",
-      "end_time": "23:00",
-      "episode_description": "Espaço da TV Senado dedicado a documentários."
+      "end_time": "22:25",
+      "episode_description": "Três personagens de diferentes regiões que manifestam e corporificam a conquista dos direitos da população brasileira, viabilizados e garantidos pelas leis aprovadas pelo senado federal."
     },
     {
-      "show_name": "Cleo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cleo_l_m.jpg",
+      "show_name": "Palavra de Mulher",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-de-mulher-1_l_m.jpg",
       "show_category": "Special",
-      "start_time": "23:00",
+      "start_time": "22:25",
+      "end_time": "23:10",
+      "episode_description": "Conheça as histórias de 26 mulheres que integraram a Assembleia Constituinte de 1988 e ajudaram a garantir a igualdade de direitos perante a lei."
+    },
+    {
+      "show_name": "Lugar de Mulher É na Política",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lugar-de-mulher-e-na-politica_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "23:10",
+      "end_time": "23:40",
+      "episode_description": "O parlamento brasileiro tem só cerca de dez por cento das cadeiras ocupadas por mulheres. Por meio de entrevistas com deputadas e senadoras, conheça a realidade da participação feminina no Poder Legislativo."
+    },
+    {
+      "show_name": "Samba das Cumades",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_samba-das-cumades_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "23:40",
       "end_time": "",
-      "episode_description": "Um breve retrato da vida e obra de Cleonice Berardinelli, ou simplesmente Dona Cleo, imortal da Academia Brasileira de Letras e uma das maiores intelectuais brasileiras."
+      "episode_description": "Um grupo de mulheres mostra toda a sua força e ancestralidade através de uma roda de sampa de raiz, quebrando a percepção de que o gênero musical é um ambiente masculino."
     }
   ]
 }

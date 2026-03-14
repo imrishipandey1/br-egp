@@ -1,36 +1,52 @@
 {
   "channel": "TCM",
-  "date": "14/03/2026",
+  "date": "15/03/2026",
   "schedule": [
     {
       "show_name": "Outros Pecados",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_outros-pecados-s01e10-o-relogio_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 10 - O Relógio",
-      "start_time": "00:34",
-      "end_time": "01:30",
-      "episode_description": "Abel e Ricardo são amigos e cantores. Ricardo sente que Abel é mais bonito e talentoso e começa a achar que está sendo traído por ele. Ele decide bolar um plano com sua mãe para enfraquecer Abel."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_outros-pecados-s01e06-conto-de-inverno_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 6 - Conto de Inverno",
+      "start_time": "00:29",
+      "end_time": "01:18",
+      "episode_description": "Lola é atriz, mulher de Gonçalo. O casal tem um filho de seis anos. Ele é atleta e viajou para Londres quando seu filho nasceu para continuar sua carreira esportiva. Em uma viagem turbulenta, Gonçalo a vê em uma estreia e enlouquece de ciúme."
     },
     {
       "show_name": "A Lista de Beijos",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_a-lista-de-beijos-2023_l_m.jpg",
       "show_category": "Comedy / 2023",
-      "start_time": "01:30",
-      "end_time": "03:02",
+      "start_time": "01:18",
+      "end_time": "02:40",
       "episode_description": "Quando um rumor expõe sua falta de técnica para beijar, Camille, uma adolescente de 16 anos com pouca experiência romântica, planeja beijar os estudantes mais desejados da escola para desmentir os boatos."
     },
     {
       "show_name": "Auntie Mame",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_auntie-mame-1958_l_m.jpg",
       "show_category": "Comedy / 1958 /7.9",
-      "start_time": "03:02",
-      "end_time": "05:27",
+      "start_time": "02:40",
+      "end_time": "05:04",
       "episode_description": "Mame é a tia do jovem Patrick Dennis. O garoto fica sob os cuidados de sua tia após a morte de seu pai milionário. Mame, que acredita que a vida deve ser vivida ao máximo, coloca o jovem sob sua asa extravagante, para grande desgosto de Dwight Babcock, o tutor designado pelo pai do garoto. Patrick e Mame começam a nutrir admiração e afeto um pelo outro, passando pela Grande Depressão juntos."
     },
     {
       "show_name": "Hollywood One on One",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
       "show_category": "Talk",
-      "start_time": "05:27",
+      "start_time": "05:04",
+      "end_time": "05:38",
+      "episode_description": "Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!"
+    },
+    {
+      "show_name": "Hollywood One on One",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
+      "show_category": "Talk",
+      "start_time": "05:38",
+      "end_time": "05:47",
+      "episode_description": "Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!"
+    },
+    {
+      "show_name": "Hollywood One on One",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
+      "show_category": "Talk",
+      "start_time": "05:47",
       "end_time": "06:00",
       "episode_description": "Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!"
     },
@@ -39,94 +55,102 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
       "show_category": "Talk",
       "start_time": "06:00",
-      "end_time": "06:30",
+      "end_time": "06:34",
+      "episode_description": "Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!"
+    },
+    {
+      "show_name": "Hollywood One on One",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hollywood-one-on-one_l_m.jpg",
+      "show_category": "Talk",
+      "start_time": "06:34",
+      "end_time": "06:49",
       "episode_description": "Hollywood One on One takes you to the stars with exclusive interviews and a behind the scenes look at the hottest movies now in theaters!"
     },
     {
       "show_name": "A Árvore dos Desejos",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_a-arvore-dos-desejos-2019_l_m.jpg",
       "show_category": "Children / 2019",
-      "start_time": "06:30",
-      "end_time": "08:06",
+      "start_time": "06:49",
+      "end_time": "08:17",
       "episode_description": "Kerry, um jovem gambá de Cidade Santuário, comete um erro ao fazer um pedido e congela a cidade inteira, ameaçando a vida de todos os residentes. Agora, ele precisa reverter os danos e salvar sua casa e a mágica Árvore dos Desejos."
     },
     {
       "show_name": "Inferno nos Trópicos",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_inferno-nos-tropicos-1947_l_m.jpg",
       "show_category": "Drama / 1947",
-      "start_time": "08:06",
-      "end_time": "10:19",
+      "start_time": "08:17",
+      "end_time": "10:31",
       "episode_description": "Johnny Munroe é contratado para construir uma perigosa estrada de ferro em uma montanha dos Andes. Preocupado com a segurança dos trabalhadores e a viabilidade do projeto, Munroe tem seus conflitos éticos potencializados ao se apaixonar por Maura."
     },
     {
       "show_name": "As Leis de Família",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_as-leis-de-familia-2006_l_m.jpg",
       "show_category": "Drama / 2006",
-      "start_time": "10:19",
-      "end_time": "12:04",
+      "start_time": "10:31",
+      "end_time": "12:08",
       "episode_description": "Um argentino tem dificuldades em se comunicar com o pai, que é um respeitado advogado e um modelo difícil a ser seguido. O filme explora as barreiras emocionais que normalmente bloqueiam o diálogo íntimo entre pais e filhos."
     },
     {
       "show_name": "Suspeita",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_suspeita-1941_l_m.jpg",
       "show_category": "Thriller / 1941",
-      "start_time": "12:04",
-      "end_time": "13:47",
+      "start_time": "12:08",
+      "end_time": "13:50",
       "episode_description": "O charmoso apostador Johnnie Aysgarth corteja num trem a rica e tímida Lina McLaidlaw, que foge e casa com ele apesar da desaprovação do pai. Quando um amigo de Johnnie morre, ela teme que o marido pense em matá-la para ficar com sua herança."
     },
     {
       "show_name": "Quatro Destinos",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_quatro-destinos-1949_l_m.jpg",
       "show_category": "Drama / 1949 /7.3",
-      "start_time": "13:47",
-      "end_time": "15:53",
+      "start_time": "13:50",
+      "end_time": "15:57",
       "episode_description": "Meg, Jo, Amy e Beth são quatro irmãs que têm entre doze e dezesseis anos. Elas vivem com a mãe, enquanto o pai luta na Guerra Civil. Meg, a mais velha, age como a segunda mãe do grupo. Jo, a mais dinâmica, gosta de escrever sobre suas aventuras."
     },
     {
       "show_name": "Os Três Mosqueteiros",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_os-tres-mosqueteiros-1948-1_l_m.jpg",
       "show_category": "Adventure / 1948",
-      "start_time": "15:53",
-      "end_time": "18:02",
+      "start_time": "15:57",
+      "end_time": "18:06",
       "episode_description": "Com a esperança de se tornar um mosqueteiro, D'Artagnan vai a Paris. Mas o jovem espadachim acaba enfrentando vários obstáculos e, ao unir forças com Athos, Porthos e Aramis, tenta impedir que os planos ambiciosos de Richelieu se concretizem."
     },
     {
       "show_name": "Cantando na Chuva",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_cantando-na-chuva-1952-1_l_m.jpg",
       "show_category": "Musical comedy / 1952",
-      "start_time": "18:02",
-      "end_time": "19:49",
+      "start_time": "18:06",
+      "end_time": "19:51",
       "episode_description": "Don Lockwood e Lina Lamont são estrelas do cinema mudo e agem como um casal pela imprensa. Quando o cinema falado surge, enfrentam um grande desafio, adaptar-se à nova tecnologia para preservar suas carreiras, apesar da voz inadequada de Lina."
     },
     {
-      "show_name": "Super-Homem 2: A Aventura Continua",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_super-homem-2-a-aventura-continua-1980_l_m.jpg",
+      "show_name": "Superman II - A Aventura Continua",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_superman-ii-a-aventura-continua-1980-1_l_m.jpg",
       "show_category": "Adventure / 1980",
-      "start_time": "19:49",
+      "start_time": "19:51",
       "end_time": "22:00",
       "episode_description": "Superman precisa combater novamente os planos mirabolantes do terrível Lex Luthor, que acaba de sair da prisão. Ao mesmo tempo, o herói trava uma batalha contra três prisioneiros perigosíssimos vindos do extinto planeta Krípton que desejam dominar a Terra. Prisioneiros que, sob a energia amarela do Sol, adquiriram os mesmos poderes que o herói."
     },
     {
       "show_name": "Outros Pecados",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_outros-pecados-s01e09-a-rainha-dos-casamentos_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 9 - A Rainha dos Casamentos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_outros-pecados-s01e05-vermelho_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 5 - Vermelho",
       "start_time": "22:00",
-      "end_time": "22:57",
-      "episode_description": "Florence, uma planejadora de casamentos de sucesso, está prestes a se casar com o noivo com quem ela sempre sonhou. Ela conhece Guillermo, o arquiteto de sua casa dos sonhos, e entra em uma crise que a faz repensar sua escolha."
+      "end_time": "22:53",
+      "episode_description": "Santiago é pai de família, marido e dono de dois restaurantes. Ele tem uma vida tranquila e sem grandes sobressaltos, mas um dia é sequestrado a caminho de casa e sua vida muda para sempre."
     },
     {
       "show_name": "Outros Pecados",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_outros-pecados-s01e10-o-relogio_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 10 - O Relógio",
-      "start_time": "22:57",
-      "end_time": "23:54",
-      "episode_description": "Abel e Ricardo são amigos e cantores. Ricardo sente que Abel é mais bonito e talentoso e começa a achar que está sendo traído por ele. Ele decide bolar um plano com sua mãe para enfraquecer Abel."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_outros-pecados-s01e06-conto-de-inverno_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 6 - Conto de Inverno",
+      "start_time": "22:53",
+      "end_time": "23:42",
+      "episode_description": "Lola é atriz, mulher de Gonçalo. O casal tem um filho de seis anos. Ele é atleta e viajou para Londres quando seu filho nasceu para continuar sua carreira esportiva. Em uma viagem turbulenta, Gonçalo a vê em uma estreia e enlouquece de ciúme."
     },
     {
       "show_name": "Cidadão Kane",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_cidad-o-kane-1941_l_m.jpg",
       "show_category": "Drama / 1941",
-      "start_time": "23:54",
+      "start_time": "23:42",
       "end_time": "",
       "episode_description": "Um jornalista investiga o significado de \"rosebud\", última palavra do magnata da imprensa Charles Foster Kane. Através de flashbacks e entrevistas com pessoas próximas, ele reconstrói a vida do poderoso homem que construiu um império midiático."
     }

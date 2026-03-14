@@ -1,6 +1,6 @@
 {
   "channel": "ESPN Brasil",
-  "date": "14/03/2026",
+  "date": "15/03/2026",
   "schedule": [
     {
       "show_name": "Resenha ESPN",
@@ -43,92 +43,116 @@
       "episode_description": "Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês."
     },
     {
-      "show_name": "Campeonato Espanhol",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-campeonato-espanhol-3_l_m.jpg",
+      "show_name": "Alavés x Villarreal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-alaves-x-villarreal_l_m.jpg",
       "show_category": "Campeonato Espanhol",
       "start_time": "06:30",
-      "end_time": "06:50",
+      "end_time": "08:25",
       "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
     },
     {
       "show_name": "SportsCenter",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-sportscenter_l_m.jpg",
       "show_category": "",
-      "start_time": "06:50",
-      "end_time": "07:00",
+      "start_time": "08:25",
+      "end_time": "09:25",
       "episode_description": "Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abdicar do bom humor."
     },
     {
-      "show_name": "Campeonato Inglês",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-campeonato-ingles-1_l_m.jpg",
+      "show_name": "Coventry City x Southampton",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-coventry-city-x-southampton_l_m.jpg",
+      "show_category": "Campeonato Inglês - Segunda Divisão",
+      "start_time": "09:25",
+      "end_time": "11:30",
+      "episode_description": "Da Coventry Building Society Arena, em Coventry, Inglaterra."
+    },
+    {
+      "show_name": "SportsCenter Abre o Jogo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sports-talk-sportscenter-abre-o-jogo_l_m.jpg",
+      "show_category": "",
+      "start_time": "11:30",
+      "end_time": "11:50",
+      "episode_description": "Destaques e preparativos para a partida válida pela maior liga de basquete profissional do mundo."
+    },
+    {
+      "show_name": "Burnley x Bournemouth",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-burnley-x-bournemouth_l_m.jpg",
       "show_category": "Campeonato Inglês",
-      "start_time": "07:00",
-      "end_time": "08:50",
+      "start_time": "11:50",
+      "end_time": "14:00",
       "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
     },
     {
-      "show_name": "Mundo Premier League",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_mundo-premier-league_l_m.jpg",
-      "show_category": "Soccer",
-      "start_time": "08:50",
-      "end_time": "09:20",
-      "episode_description": "Um panorama completo sobre o Campeonato Inglês ao redor do mundo. As últimas notícias, curiosidades, entrevistas com jogadores e técnicos e histórias sobre a paixão do torcedor pelo futebol inglês."
+      "show_name": "SportsCenter Abre o Jogo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sports-talk-sportscenter-abre-o-jogo_l_m.jpg",
+      "show_category": "",
+      "start_time": "14:00",
+      "end_time": "14:20",
+      "episode_description": "Destaques e preparativos para a partida válida pela maior liga de basquete profissional do mundo."
     },
     {
-      "show_name": "Campeonato Inglês",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-campeonato-ingles-1_l_m.jpg",
+      "show_name": "Arsenal x Everton",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-arsenal-x-everton_l_m.jpg",
       "show_category": "Campeonato Inglês",
-      "start_time": "09:20",
-      "end_time": "12:00",
+      "start_time": "14:20",
+      "end_time": "16:30",
       "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
     },
     {
-      "show_name": "Campeonato Inglês",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-campeonato-ingles-1_l_m.jpg",
-      "show_category": "Campeonato Inglês",
-      "start_time": "12:00",
-      "end_time": "14:30",
-      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
+      "show_name": "SportsCenter Abre o Jogo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sports-talk-sportscenter-abre-o-jogo_l_m.jpg",
+      "show_category": "",
+      "start_time": "16:30",
+      "end_time": "16:50",
+      "episode_description": "Destaques e preparativos para a partida válida pela maior liga de basquete profissional do mundo."
     },
     {
-      "show_name": "Campeonato Inglês",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-campeonato-ingles-1_l_m.jpg",
+      "show_name": "West Ham x Manchester City",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-west-ham-x-manchester-city-1_l_m.jpg",
       "show_category": "Campeonato Inglês",
-      "start_time": "14:30",
-      "end_time": "16:55",
-      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
-    },
-    {
-      "show_name": "Campeonato Espanhol",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-campeonato-espanhol-3_l_m.jpg",
-      "show_category": "Campeonato Espanhol",
-      "start_time": "16:55",
+      "start_time": "16:50",
       "end_time": "19:00",
-      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
+      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
     },
     {
-      "show_name": "ESPN FC 1ª Edição",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-espn-fc-1-edic-o_l_m.jpg",
+      "show_name": "Equipe F",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-equipe-f_l_m.jpg",
       "show_category": "",
       "start_time": "19:00",
-      "end_time": "20:00",
-      "episode_description": "Fique por dentro dos principais temas e personagens notícia no futebol internacional, com uma linguagem contemporânea falada nas redes."
-    },
-    {
-      "show_name": "SportsCenter",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-sportscenter_l_m.jpg",
-      "show_category": "",
-      "start_time": "20:00",
-      "end_time": "22:00",
-      "episode_description": "Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abdicar do bom humor."
+      "end_time": "20:30",
+      "episode_description": "Especialistas comentam os principais acontecimentos notícia no futebol brasileiro."
     },
     {
       "show_name": "Bola da Vez",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_bola-da-vez_l_m.jpg",
       "show_category": "Sports talk",
+      "start_time": "20:30",
+      "end_time": "21:30",
+      "episode_description": "Grandes personalidades do esporte nacional e internacional são colocadas no \"paredão\" e respondem às perguntas de uma bancada de entrevistadores formada por jornalistas, ex-atletas ou especialistas em geral."
+    },
+    {
+      "show_name": "Premier League Stories",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-premier-league-stories_l_m.jpg",
+      "show_category": "",
+      "start_time": "21:30",
+      "end_time": "22:00",
+      "episode_description": "Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês."
+    },
+    {
+      "show_name": "Inside Serie A",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-inside-serie-a_l_m.jpg",
+      "show_category": "",
       "start_time": "22:00",
+      "end_time": "22:30",
+      "episode_description": "Uma previsão sobre os próximos jogos do Campeonato Italiano."
+    },
+    {
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-sportscenter_l_m.jpg",
+      "show_category": "",
+      "start_time": "22:30",
       "end_time": "",
-      "episode_description": "Ex-tenista profissional que passou a ocupar cargo executivo de relação com atletas após a aposentadoria, o brasileiro André Sá fala sobre os diferentes momentos da carreira, metas profissionais e muito mais."
+      "episode_description": "Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abdicar do bom humor."
     }
   ]
 }
