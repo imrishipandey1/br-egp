@@ -3,132 +3,108 @@
   "date": "15/03/2026",
   "schedule": [
     {
-      "show_name": "Mickey 17",
-      "show_logo": "/wp-content/uploads/downloaded-images/max-up/tomorrow/br_mickey-17-2025_l_m.webp",
-      "show_category": "Science fiction / 2025 /6.8",
-      "start_time": "00:05",
-      "end_time": "02:25",
-      "episode_description": "Um colaborador é enviado em uma expedição humana para colonizar o mundo gelado de Niflheim. Após uma iteração morrer, um novo corpo é regenerado com a maioria de suas memórias intactas."
-    },
-    {
-      "show_name": "Como Água para Chocolate",
-      "show_logo": "/wp-content/uploads/downloaded-images/max-up/tomorrow/br_como-agua-para-chocolate-s02e04_l_m.webp",
-      "show_category": "Temporada 2 Episódio 4 - Pão do Dia dos Mortos",
-      "start_time": "02:25",
-      "end_time": "03:19",
-      "episode_description": "Oprimida pela culpa, Tita enfrenta uma dupla pressão: a pressa de Rosaura em casá-la com o doutor Brown e a presença sufocante do fantasma de Mamãe Elena; o retorno de Gertrudis com seu filho traz consigo a revelação de um segredo; Pedro descobre uma rede de exploração ligada ao tio que o obriga a realizar um resgate inesperado; entre pratos que destilam remorso e uma confissão que não acontece, Tita recebe uma maldição de Mamãe Elena."
-    },
-    {
-      "show_name": "Sarah Silverman - Alguém que Você Ama",
-      "show_logo": "/wp-content/uploads/downloaded-images/max-up/tomorrow/br_sarah-silverman-alguem-que-voce-ama_l_m.webp",
-      "show_category": "Special",
-      "start_time": "03:19",
-      "end_time": "04:18",
-      "episode_description": "Sarah Silverman apresenta seu novo especial de comédia, no qual discute religião, política e papel higiênico, e prova ser a maior de todos os tempos, ou pelo menos entre as quatro maiores."
-    },
-    {
-      "show_name": "Uma Festa de Arromba",
-      "show_logo": "/wp-content/uploads/downloaded-images/max-up/tomorrow/br_uma-festa-de-arromba-2023_l_m.webp",
-      "show_category": "Comedy / 2023",
-      "start_time": "04:18",
-      "end_time": "06:00",
-      "episode_description": "Estudante do ensino médio decide entrar em uma festa exclusiva na casa de seu amigo, que se transforma em uma noite selvagem de hip-hop, dança e diversão."
-    },
-    {
-      "show_name": "A Informante",
-      "show_logo": "/wp-content/uploads/downloaded-images/max-up/tomorrow/br_a-informante-2024_l_m.webp",
-      "show_category": "Biography / 2024",
-      "start_time": "06:00",
-      "end_time": "07:45",
-      "episode_description": "Uma jovem brilhante e desajustada do Texas vê sua moral desafiada enquanto serve na Força Aérea dos Estados Unidos e trabalha como contratada pela NSA."
-    },
-    {
-      "show_name": "Last Week Tonight With John Oliver",
-      "show_logo": "/wp-content/uploads/downloaded-images/max-up/tomorrow/br_last-week-tonight-with-john-oliver-s13e04_l_m.webp",
-      "show_category": "Temporada 13 Episódio 4",
-      "start_time": "07:45",
-      "end_time": "08:35",
-      "episode_description": "O carismático e britânico comentarista John Oliver oferece sua perspectiva singular e voz distinta sobre qualquer número de questões sociais, políticas ou atuais."
-    },
-    {
-      "show_name": "Juntos pelo Acaso",
-      "show_logo": "/wp-content/uploads/downloaded-images/max-up/tomorrow/br_juntos-pelo-acaso-2010-1_l_m.webp",
-      "show_category": "Romantic comedy / 2010",
-      "start_time": "08:35",
-      "end_time": "10:31",
-      "episode_description": "Holly Berenson e Eric Messer saem em um encontro arranjado pelos seus melhores amigos Peter e Alisson, mas acaba sendo um desastre. A única coisa que eles têm em comum é a paixão pela afilhada Sophie. Só que um acidente fatal deixa a menina órfã dos pais e a dupla é designada para cuidar da pequenina. Obrigados a permanecerem juntos para cuidar dela, eles enfrentam as dificuldades típicas de quem passa a ser pai e mãe de uma hora para outra e começam, aos poucos, a se entender melhor."
-    },
-    {
-      "show_name": "Os Outros Caras",
-      "show_logo": "/wp-content/uploads/downloaded-images/max-up/tomorrow/br_os-outros-caras-2010-1_l_m.webp",
-      "show_category": "Comedy / 2010",
-      "start_time": "10:31",
-      "end_time": "12:20",
-      "episode_description": "Gamble e Hoitz são detetives da polícia de Nova York que não fazem alarde com o seu trabalho diário atrás de uma escrivaninha. Gamble aprecia a sua função, mas Hoitz está ansioso para voltar para as ruas. Quando um caso aparentemente insignificante acaba se revelando um grande negócio, os dois policiais têm a oportunidade de provar finalmente a seus companheiros que eles têm capacidade."
-    },
-    {
-      "show_name": "Cada um Tem a Gêmea que Merece",
-      "show_logo": "/wp-content/uploads/downloaded-images/max-up/tomorrow/br_cada-um-tem-a-gemea-que-merece-2011-1_l_m.webp",
-      "show_category": "Comedy / 2011",
-      "start_time": "12:20",
-      "end_time": "13:53",
-      "episode_description": "Jack, um publicitário de sucesso com uma linda família, enlouquece com a visita de sua irmã gêmea Jill no dia de Ação de Graças. As coisas ficam ainda mais fora de controle quando Jill decide ficar mais tempo."
-    },
-    {
-      "show_name": "A Grande Viagem da Sua Vida",
-      "show_logo": "/wp-content/uploads/downloaded-images/max-up/tomorrow/br_a-grande-viagem-da-sua-vida-2025_l_m.webp",
-      "show_category": "Romance / 2025",
-      "start_time": "13:53",
-      "end_time": "15:43",
-      "episode_description": "A narrativa imaginativa de dois estranhos e da extraordinária jornada emocional que os conecta."
-    },
-    {
-      "show_name": "DTF St. Louis",
-      "show_logo": "/wp-content/uploads/downloaded-images/max-up/tomorrow/br_dtf-st-louis-s01e02_l_m.webp",
-      "show_category": "Temporada 1 Episódio 2 - Pode Pegar",
-      "start_time": "15:43",
-      "end_time": "16:42",
-      "episode_description": "Após se conhecerem em uma festa, Clark se dá bem rapidamente com Carol, esposa de Floyd. Mais tarde, os detetives Homer e Plumb investigam mais a fundo o relacionamento de Clark com Carol, e o tempo que Floyd passou no aplicativo DTF."
-    },
-    {
-      "show_name": "De Repente 30",
-      "show_logo": "/wp-content/uploads/downloaded-images/max-up/tomorrow/br_de-repente-30-2004_l_m.webp",
-      "show_category": "Romantic comedy / 2004 /6.1",
-      "start_time": "16:42",
-      "end_time": "18:21",
-      "episode_description": "Jenna Rink é uma garota que está descontente com sua própria idade. Em seu 13º aniversário, ela faz um pedido: virar adulta. O pedido milagrosamente se torna realidade e, no dia seguinte, Jenna acorda com 30 anos."
-    },
-    {
       "show_name": "As Trambiqueiras",
-      "show_logo": "/wp-content/uploads/downloaded-images/max-up/tomorrow/br_as-trambiqueiras-2021_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_as-trambiqueiras-2021_l_m.jpg",
       "show_category": "Comedy / 2021",
-      "start_time": "18:21",
-      "end_time": "20:13",
+      "start_time": "02:00",
+      "end_time": "03:53",
       "episode_description": "Uma dona de casa e sua melhor amiga começam um esquema ilegal de cupons de desconto, que rouba milhões de dólares de grandes corporações. Um policial e um inspetor postal tentam detê-las."
     },
     {
-      "show_name": "Os Outros Caras",
-      "show_logo": "/wp-content/uploads/downloaded-images/max-up/tomorrow/br_os-outros-caras-2010-1_l_m.webp",
-      "show_category": "Comedy / 2010",
-      "start_time": "20:13",
-      "end_time": "22:02",
-      "episode_description": "Gamble e Hoitz são detetives da polícia de Nova York que não fazem alarde com o seu trabalho diário atrás de uma escrivaninha. Gamble aprecia a sua função, mas Hoitz está ansioso para voltar para as ruas. Quando um caso aparentemente insignificante acaba se revelando um grande negócio, os dois policiais têm a oportunidade de provar finalmente a seus companheiros que eles têm capacidade."
+      "show_name": "Outra Chance Para o Amor",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_outra-chance-para-o-amor-2024_l_m.jpg",
+      "show_category": "Romance / 2024",
+      "start_time": "03:53",
+      "end_time": "06:00",
+      "episode_description": "O jovem arquiteto Dawson Gage perde sua melhor amiga, London Quinn. Em meio a sua angústia, é forçado a iniciar a impossível busca pela irmã gêmea secreta de London. Mas, ao longo do caminho, Dawson não planeja se apaixonar."
     },
     {
-      "show_name": "A Grande Viagem da Sua Vida",
-      "show_logo": "/wp-content/uploads/downloaded-images/max-up/tomorrow/br_a-grande-viagem-da-sua-vida-2025_l_m.webp",
-      "show_category": "Romance / 2025",
-      "start_time": "22:02",
-      "end_time": "23:54",
-      "episode_description": "A narrativa imaginativa de dois estranhos e da extraordinária jornada emocional que os conecta."
+      "show_name": "Divisão de Homicídios",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_divis-o-de-homicidios-2003_l_m.jpg",
+      "show_category": "Action / 2003 /5.3",
+      "start_time": "06:00",
+      "end_time": "08:00",
+      "episode_description": "Dois detetives de homicídios do Departamento de Polícia de Los Angeles - um deles um veterano que se aventura com imóveis e o outro ator nas horas vagas - investigam o assassinato brutal de integrantes de um grupo de rap. É um caso repleto de perigos mesmo sem as complicações e distrações da carreira paralela dos policiais."
     },
     {
-      "show_name": "Um Senhor Estagiário",
-      "show_logo": "/wp-content/uploads/downloaded-images/max-up/tomorrow/br_um-senhor-estagiario-2015_l_m.webp",
-      "show_category": "Comedy drama / 2015",
-      "start_time": "23:54",
+      "show_name": "Amor de Ano Novo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_amor-de-ano-novo-2024_l_m.jpg",
+      "show_category": "Romance / 2024",
+      "start_time": "08:00",
+      "end_time": "10:04",
+      "episode_description": "Minnie e Quinn são dois jovens que, apesar levarem vidas diferentes, parecem ter uma conexão especial desde o dia em que nasceram."
+    },
+    {
+      "show_name": "De Repente É Amor",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_de-repente-e-amor-2005_l_m.jpg",
+      "show_category": "Romantic comedy / 2005 /6.6",
+      "start_time": "10:04",
+      "end_time": "11:55",
+      "episode_description": "Oliver e Emily se conhecem em um avião e sentem uma conexão instantânea, mas concordam que não foram feitos um para o outro. À medida que os anos passam e vivem suas vidas separadamente, o destino os reúne várias vezes e, com isso, eles se tornam bons amigos. Toda vez que um deles quer algo mais da relação, o outro parece satisfeito em ser apenas amigo."
+    },
+    {
+      "show_name": "A Agenda Secreta do Meu Namorado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-agenda-secreta-do-meu-namorado-2004_l_m.jpg",
+      "show_category": "Romantic comedy / 2004 /5.2",
+      "start_time": "11:55",
+      "end_time": "13:45",
+      "episode_description": "Stacey trabalha na produção de um programa diurno de TV apresentado por Kippie Kann. Stacey está chateada com seu namorado Derek porque ele não quer falar sobre seus relacionamentos passados. Com o encorajamento de sua colega de trabalho Barb, ela rouba o telefone de Derek e consegue entrevistar suas ex-namoradas com o pretexto de que elas irão aparecer no show. Porém, as coisas se complicam quando Stacey fica amiga de uma delas."
+    },
+    {
+      "show_name": "Shrek 2",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_shrek-2-2004_l_m.jpg",
+      "show_category": "Children / 2004 /7.2",
+      "start_time": "13:45",
+      "end_time": "15:19",
+      "episode_description": "Shrek e Fiona acabaram de voltar da lua de mel e vivem felizes em sua casa no pântano. O casal recebe um convite dos pais da princesa, que querem conhecer o novo genro, para um jantar no castelo. Eles ficaram sabendo que Fiona havia se casado com o seu verdadeiro amor, mas o que eles ainda não sabem é que este amor é um ogro mal-educado de mais de 300 quilos, que conta com um burro falante como melhor amigo."
+    },
+    {
+      "show_name": "O Segurança Fora de Controle",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-seguranca-fora-de-controle-2009-1_l_m.jpg",
+      "show_category": "Comedy / 2009",
+      "start_time": "15:19",
+      "end_time": "16:50",
+      "episode_description": "Ronnie Barnhardt leva seu trabalho de chefe de segurança do shopping Forest Ridge muito a sério. Quando um exibicionista perturba a tranquilidade do shopping, Ronnie vê a oportunidade de demonstrar o quanto é eficiente."
+    },
+    {
+      "show_name": "Professora sem Classe",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_professora-sem-classe-2011-1_l_m.jpg",
+      "show_category": "Romantic comedy / 2011",
+      "start_time": "16:50",
+      "end_time": "18:25",
+      "episode_description": "Para a maioria, o ensino é uma profissão honrosa, exceto para Elizabeth. A desbocada e embriagada professora mal pode esperar para se casar com um homem rico e largar o emprego, mas assim que seu namorado a deixa, ela precisa repensar sobre seus planos. Quando Scott Delacorte, um professor substituto bonito e rico chega à escola, Elizabeth encontra nele uma saída para sua situação, mas terá de enfrentar a forte concorrência de Amy, uma colega popular e alegre."
+    },
+    {
+      "show_name": "Quero Matar Meu Chefe",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quero-matar-meu-chefe-2011-1_l_m.jpg",
+      "show_category": "Comedy / 2011",
+      "start_time": "18:25",
+      "end_time": "20:05",
+      "episode_description": "Nick, Kurt e Dale sofrem nas mãos de seus chefes Dave, Bobby e Julia, respectivamente. Juntos, eles resolvem colocar em ação um plano para eliminá-los."
+    },
+    {
+      "show_name": "Quero Matar Meu Chefe 2",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quero-matar-meu-chefe-2-2014-1_l_m.jpg",
+      "show_category": "Comedy / 2014",
+      "start_time": "20:05",
+      "end_time": "21:59",
+      "episode_description": "Nick, Kurt e Dale estão cansados de receber ordens e abrem seu próprio negócio, de forma que eles mesmos sejam seus chefes. No entanto, quando a companhia começa a deslanchar, um investidor os engana e rouba a empresa. Sem ter como recorrer por meios legais, o trio decide partir para um ato desesperado: sequestrar o filho do investidor e, com o dinheiro do resgate, pagar a dívida contraída e manter a empresa."
+    },
+    {
+      "show_name": "Shrek 2",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_shrek-2-2004_l_m.jpg",
+      "show_category": "Children / 2004 /7.2",
+      "start_time": "21:59",
+      "end_time": "23:35",
+      "episode_description": "Shrek e Fiona acabaram de voltar da lua de mel e vivem felizes em sua casa no pântano. O casal recebe um convite dos pais da princesa, que querem conhecer o novo genro, para um jantar no castelo. Eles ficaram sabendo que Fiona havia se casado com o seu verdadeiro amor, mas o que eles ainda não sabem é que este amor é um ogro mal-educado de mais de 300 quilos, que conta com um burro falante como melhor amigo."
+    },
+    {
+      "show_name": "Professora sem Classe",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_professora-sem-classe-2011-1_l_m.jpg",
+      "show_category": "Romantic comedy / 2011",
+      "start_time": "23:35",
       "end_time": "",
-      "episode_description": "Começar um novo emprego pode ser um grande desafio, especialmente para alguém aposentado. Tentando voltar ao mercado de trabalho, o viúvo Ben Whittaker, de 70 anos, aproveita a oportunidade para se tornar um estagiário sênior em um site de moda. Ben logo se torna popular entre seus colegas de trabalho mais jovens, incluindo Jules Ostin, a chefe e fundadora da empresa. O charme, a sabedoria e o senso de humor de Whittaker o ajudam a desenvolver um vínculo especial e uma bela amizade com Jules."
+      "episode_description": "Para a maioria, o ensino é uma profissão honrosa, exceto para Elizabeth. A desbocada e embriagada professora mal pode esperar para se casar com um homem rico e largar o emprego, mas assim que seu namorado a deixa, ela precisa repensar sobre seus planos. Quando Scott Delacorte, um professor substituto bonito e rico chega à escola, Elizabeth encontra nele uma saída para sua situação, mas terá de enfrentar a forte concorrência de Amy, uma colega popular e alegre."
     }
   ]
 }

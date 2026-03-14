@@ -3,138 +3,154 @@
   "date": "14/03/2026",
   "schedule": [
     {
-      "show_name": "Boca Juniors x San Lorenzo",
-      "show_logo": "/wp-content/uploads/downloaded-images/espn/today/br_soccer-boca-juniors-x-san-lorenzo-2_l_m.webp",
-      "show_category": "Campeonato Argentino",
-      "start_time": "00:30",
-      "end_time": "02:30",
-      "episode_description": "Acompanhe as grandes partidas do torneio de elite do futebol argentino."
-    },
-    {
-      "show_name": "Bola da Vez",
-      "show_logo": "/wp-content/uploads/downloaded-images/espn/today/br_bola-da-vez_l_m.webp",
-      "show_category": "Sports talk",
-      "start_time": "02:30",
-      "end_time": "03:30",
-      "episode_description": "Grandes personalidades do esporte nacional e internacional são colocadas no \"paredão\" e respondem às perguntas de uma bancada de entrevistadores formada por jornalistas, ex-atletas ou especialistas em geral."
-    },
-    {
-      "show_name": "Destaques da Conmebol Sulamericana",
-      "show_logo": "/wp-content/uploads/downloaded-images/espn/today/br_soccer-destaques-da-conmebol-sulamericana_l_m.webp",
-      "show_category": "",
-      "start_time": "03:30",
-      "end_time": "04:30",
-      "episode_description": "Os melhores lances, gols, acontecimentos e destaque na segunda competição mais importante do futebol masculino entre clubes da América do Sul."
-    },
-    {
-      "show_name": "Athletic Bilbao x Barcelona",
-      "show_logo": "/wp-content/uploads/downloaded-images/espn/today/br_soccer-athletic-bilbao-x-barcelona_l_m.webp",
-      "show_category": "Campeonato Espanhol",
-      "start_time": "04:30",
-      "end_time": "04:30",
-      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
-    },
-    {
-      "show_name": "Athletic Bilbao x Barcelona",
-      "show_logo": "/wp-content/uploads/downloaded-images/espn/today/br_soccer-athletic-bilbao-x-barcelona_l_m.webp",
-      "show_category": "Campeonato Espanhol",
-      "start_time": "04:30",
-      "end_time": "06:30",
-      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
-    },
-    {
-      "show_name": "Linha de Passe: Mesa-Redonda",
-      "show_logo": "/wp-content/uploads/downloaded-images/espn/today/br_sports-talk-linha-de-passe-mesa-redonda_l_m.webp",
-      "show_category": "",
-      "start_time": "06:30",
-      "end_time": "08:00",
-      "episode_description": "Comentaristas esportivos conceituados entram em campo para uma análise completa da rodada do futebol ao estilo \"mesa redonda\", com debates acalorados e comentários de qualidade, sempre a partir de um olhar crítico e da imparcialidade."
-    },
-    {
-      "show_name": "SportsCenter",
-      "show_logo": "/wp-content/uploads/downloaded-images/espn/today/br_soccer-sportscenter_l_m.webp",
-      "show_category": "",
-      "start_time": "08:00",
-      "end_time": "09:00",
-      "episode_description": "Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abdicar do bom humor."
-    },
-    {
-      "show_name": "Huracán x River Plate",
-      "show_logo": "/wp-content/uploads/downloaded-images/espn/today/br_soccer-huracan-x-river-plate_l_m.webp",
-      "show_category": "Campeonato Argentino",
-      "start_time": "09:00",
-      "end_time": "11:00",
-      "episode_description": "Acompanhe as grandes partidas do torneio de elite do futebol argentino."
-    },
-    {
-      "show_name": "SportsCenter",
-      "show_logo": "/wp-content/uploads/downloaded-images/espn/today/br_soccer-sportscenter_l_m.webp",
-      "show_category": "",
-      "start_time": "11:00",
-      "end_time": "13:00",
-      "episode_description": "Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abdicar do bom humor."
-    },
-    {
-      "show_name": "F Show",
-      "show_logo": "/wp-content/uploads/downloaded-images/espn/today/br_soccer-f-show_l_m.webp",
-      "show_category": "",
-      "start_time": "13:00",
-      "end_time": "15:00",
-      "episode_description": "O programa debate os principais acontecimentos do mundo do futebol de forma acalorada porém inteligente, mesclando jornalismo, opinião e entretenimento."
-    },
-    {
-      "show_name": "Mundo F",
-      "show_logo": "/wp-content/uploads/downloaded-images/espn/today/br_soccer-mundo-f_l_m.webp",
-      "show_category": "",
-      "start_time": "15:00",
-      "end_time": "16:30",
-      "episode_description": "Os principais assuntos que são notícia no futebol internacional abordados com linguagem contemporânea; grandes temas, clubes e personagens são destacados por especialistas que trazem informação e opinião."
-    },
-    {
-      "show_name": "SportsCenter",
-      "show_logo": "/wp-content/uploads/downloaded-images/espn/today/br_soccer-sportscenter_l_m.webp",
-      "show_category": "",
-      "start_time": "16:30",
-      "end_time": "17:30",
-      "episode_description": "Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abdicar do bom humor."
-    },
-    {
-      "show_name": "Equipe F",
-      "show_logo": "/wp-content/uploads/downloaded-images/espn/today/br_soccer-equipe-f_l_m.webp",
-      "show_category": "",
-      "start_time": "17:30",
-      "end_time": "19:30",
-      "episode_description": "Especialistas comentam os principais acontecimentos notícia no futebol brasileiro."
-    },
-    {
-      "show_name": "SportsCenter",
-      "show_logo": "/wp-content/uploads/downloaded-images/espn/today/br_soccer-sportscenter_l_m.webp",
-      "show_category": "",
-      "start_time": "19:30",
-      "end_time": "21:00",
-      "episode_description": "Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abdicar do bom humor."
-    },
-    {
-      "show_name": "Mina de Passe",
-      "show_logo": "/wp-content/uploads/downloaded-images/espn/today/br_mina-de-passe_l_m.webp",
-      "show_category": "Sports talk",
-      "start_time": "21:00",
-      "end_time": "22:00",
-      "episode_description": "Acompanhe tudo sobre o futebol feminino."
-    },
-    {
       "show_name": "Resenha ESPN",
-      "show_logo": "/wp-content/uploads/downloaded-images/espn/today/br_resenha-espn_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_resenha-espn_l_m.jpg",
       "show_category": "Sports talk",
-      "start_time": "22:00",
-      "end_time": "23:00",
+      "start_time": "00:00",
+      "end_time": "01:00",
       "episode_description": "Ex-jogador com passagem por São Paulo, Sevilla, Real Madrid, Arsenal, Roma e Cruzeiro, entre outros clubes, Júlio Baptista conta histórias inéditas dos tempos de \"Galácticos\" e fala sobre Seleção Brasileira, futuro profissional e muito mais."
     },
     {
-      "show_name": "SportsCenter",
-      "show_logo": "/wp-content/uploads/downloaded-images/espn/today/br_soccer-sportscenter_l_m.webp",
+      "show_name": "Mina de Passe",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mina-de-passe_l_m.jpg",
+      "show_category": "Sports talk",
+      "start_time": "01:00",
+      "end_time": "02:00",
+      "episode_description": "Acompanhe tudo sobre o futebol feminino."
+    },
+    {
+      "show_name": "Campeonato Inglês - Segunda Divisão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-campeonato-ingles-segunda-divis-o_l_m.jpg",
+      "show_category": "Campeonato Inglês - Segunda Divisão",
+      "start_time": "02:00",
+      "end_time": "04:00",
+      "episode_description": "Vinte e quatro equipes brigam pelo acesso à Premier League na segunda divisão do futebol inglês."
+    },
+    {
+      "show_name": "Boca Juniors x San Lorenzo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-boca-juniors-x-san-lorenzo-2_l_m.jpg",
+      "show_category": "Campeonato Argentino",
+      "start_time": "04:00",
+      "end_time": "06:00",
+      "episode_description": "Acompanhe as grandes partidas do torneio de elite do futebol argentino."
+    },
+    {
+      "show_name": "Premier League Stories",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-premier-league-stories_l_m.jpg",
       "show_category": "",
-      "start_time": "23:00",
+      "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": "Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês."
+    },
+    {
+      "show_name": "Alavés x Villarreal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-alaves-x-villarreal_l_m.jpg",
+      "show_category": "Campeonato Espanhol",
+      "start_time": "06:30",
+      "end_time": "08:25",
+      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
+    },
+    {
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-sportscenter_l_m.jpg",
+      "show_category": "",
+      "start_time": "08:25",
+      "end_time": "09:25",
+      "episode_description": "Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abdicar do bom humor."
+    },
+    {
+      "show_name": "Coventry City x Southampton",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-coventry-city-x-southampton_l_m.jpg",
+      "show_category": "Campeonato Inglês - Segunda Divisão",
+      "start_time": "09:25",
+      "end_time": "11:30",
+      "episode_description": "Da Coventry Building Society Arena, em Coventry, Inglaterra."
+    },
+    {
+      "show_name": "SportsCenter Abre o Jogo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sports-talk-sportscenter-abre-o-jogo_l_m.jpg",
+      "show_category": "",
+      "start_time": "11:30",
+      "end_time": "11:50",
+      "episode_description": "Destaques e preparativos para a partida válida pela maior liga de basquete profissional do mundo."
+    },
+    {
+      "show_name": "Burnley x Bournemouth",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-burnley-x-bournemouth_l_m.jpg",
+      "show_category": "Campeonato Inglês",
+      "start_time": "11:50",
+      "end_time": "14:00",
+      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
+    },
+    {
+      "show_name": "SportsCenter Abre o Jogo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sports-talk-sportscenter-abre-o-jogo_l_m.jpg",
+      "show_category": "",
+      "start_time": "14:00",
+      "end_time": "14:20",
+      "episode_description": "Destaques e preparativos para a partida válida pela maior liga de basquete profissional do mundo."
+    },
+    {
+      "show_name": "Arsenal x Everton",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-arsenal-x-everton_l_m.jpg",
+      "show_category": "Campeonato Inglês",
+      "start_time": "14:20",
+      "end_time": "16:30",
+      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
+    },
+    {
+      "show_name": "SportsCenter Abre o Jogo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sports-talk-sportscenter-abre-o-jogo_l_m.jpg",
+      "show_category": "",
+      "start_time": "16:30",
+      "end_time": "16:50",
+      "episode_description": "Destaques e preparativos para a partida válida pela maior liga de basquete profissional do mundo."
+    },
+    {
+      "show_name": "West Ham x Manchester City",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-west-ham-x-manchester-city-1_l_m.jpg",
+      "show_category": "Campeonato Inglês",
+      "start_time": "16:50",
+      "end_time": "19:00",
+      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
+    },
+    {
+      "show_name": "Equipe F",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-equipe-f_l_m.jpg",
+      "show_category": "",
+      "start_time": "19:00",
+      "end_time": "20:30",
+      "episode_description": "Especialistas comentam os principais acontecimentos notícia no futebol brasileiro."
+    },
+    {
+      "show_name": "Bola da Vez",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bola-da-vez_l_m.jpg",
+      "show_category": "Sports talk",
+      "start_time": "20:30",
+      "end_time": "21:30",
+      "episode_description": "Grandes personalidades do esporte nacional e internacional são colocadas no \"paredão\" e respondem às perguntas de uma bancada de entrevistadores formada por jornalistas, ex-atletas ou especialistas em geral."
+    },
+    {
+      "show_name": "Premier League Stories",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-premier-league-stories_l_m.jpg",
+      "show_category": "",
+      "start_time": "21:30",
+      "end_time": "22:00",
+      "episode_description": "Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês."
+    },
+    {
+      "show_name": "Inside Serie A",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-inside-serie-a_l_m.jpg",
+      "show_category": "",
+      "start_time": "22:00",
+      "end_time": "22:30",
+      "episode_description": "Uma previsão sobre os próximos jogos do Campeonato Italiano."
+    },
+    {
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-sportscenter_l_m.jpg",
+      "show_category": "",
+      "start_time": "22:30",
       "end_time": "00:00",
       "episode_description": "Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abdicar do bom humor."
     }

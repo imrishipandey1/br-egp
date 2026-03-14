@@ -3,100 +3,116 @@
   "date": "15/03/2026",
   "schedule": [
     {
-      "show_name": "Pecadores",
-      "show_logo": "/wp-content/uploads/downloaded-images/hbo/tomorrow/br_pecadores-2025_l_m.webp",
+      "show_name": "Planeta dos Macacos - O Reinado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_planeta-dos-macacos-o-reinado-2024_l_m.jpg",
+      "show_category": "Science fiction / 2024",
+      "start_time": "00:30",
+      "end_time": "03:02",
+      "episode_description": "Muitas sociedades de macacos cresceram desde quando César levou seu povo a um oásis, enquanto os humanos foram reduzidos a sobreviver e se esconder nas sombras. Um líder macaco começa a escravizar outros grupos para encontrar tecnologia humana, enquanto um jovem macaco, que viu seu clã ser capturado, embarca em uma viagem para encontrar a liberdade, sendo uma jovem humana a chave para todos."
+    },
+    {
+      "show_name": "Invocação do Mal 4 - O Último Ritual",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_invocac-o-do-mal-4-o-ultimo-ritual-2025_l_m.jpg",
       "show_category": "Horror / 2025",
-      "start_time": "00:25",
-      "end_time": "02:45",
+      "start_time": "03:02",
+      "end_time": "05:25",
+      "episode_description": "Os investigadores paranormais Ed e Lorraine Warren tentam banir um demônio da casa de uma família."
+    },
+    {
+      "show_name": "State of Play",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_state-of-play-s02e02-chance-de-lutar_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 2 - Chance de Lutar",
+      "start_time": "05:25",
+      "end_time": "06:00",
+      "episode_description": "O perfil de um boxeador de 35 anos que tenta conseguir um título mundial antes do final de sua carreira. Como imigrante mexicano, sua luta o faz pensar se somente a habilidade faz o atleta ou se as circunstâncias têm um papel importante."
+    },
+    {
+      "show_name": "O Jogo da Invocação",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-jogo-da-invocac-o-2023_l_m.jpg",
+      "show_category": "Horror / 2023",
+      "start_time": "06:00",
+      "end_time": "07:20",
+      "episode_description": "Adolescentes de Salem descobrem uma faca amaldiçoada que liberta um demônio. Este os força a entrar em versões horríveis e mortais de jogos infantis onde não há vencedores, apenas sobreviventes."
+    },
+    {
+      "show_name": "Shazam! Fúria dos Deuses",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_shazam-furia-dos-deuses-2023_l_m.jpg",
+      "show_category": "Action / 2023",
+      "start_time": "07:20",
+      "end_time": "09:35",
+      "episode_description": "Deuses antigos chegam ao planeta Terra em busca da magia roubada deles há muito tempo. Shazam e seus aliados são forçados a entrar em uma batalha por seus superpoderes, suas vidas e o destino do mundo."
+    },
+    {
+      "show_name": "Pets - A Vida Secreta dos Bichos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pets-a-vida-secreta-dos-bichos-2016_l_m.jpg",
+      "show_category": "Children / 2016",
+      "start_time": "09:35",
+      "end_time": "11:05",
+      "episode_description": "Max, um cão da raça terrier, precisa aprender a conviver com Duke, o novo cão do seu dono. Os dois acabam na carrocinha e agora, juntos nas ruas de Nova York, conhecem um adorável coelho branco, líder de um exército de animais abandonados."
+    },
+    {
+      "show_name": "Tropa de Elite",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tropa-de-elite-2007-1_l_m.jpg",
+      "show_category": "Action / 2007",
+      "start_time": "11:05",
+      "end_time": "13:05",
+      "episode_description": "Nascimento, capitão da tropa de elite do Rio de Janeiro, é escolhido para chefiar uma das equipes cuja missão é apaziguar o Morro do Turano. Ele precisa cumprir as ordens enquanto procura por um substituto para ficar em seu lugar. Em meio a um tiroteio, Nascimento e sua equipe resgatam Neto e Matias, dois aspirantes a oficiais da PM. Ansiosos para entrar em ação, os dois se candidatam ao curso de formação do Batalhão de Operações Policiais Especiais."
+    },
+    {
+      "show_name": "A Hora do Mal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-hora-do-mal-2025_l_m.jpg",
+      "show_category": "Horror / 2025",
+      "start_time": "13:05",
+      "end_time": "15:20",
+      "episode_description": "Todas as crianças da mesma sala de aula, exceto uma, desaparecem misteriosamente na mesma noite e exatamente no mesmo horário. A comunidade fica se perguntando quem ou o que está por trás do desaparecimento."
+    },
+    {
+      "show_name": "Pecadores",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pecadores-2025_l_m.jpg",
+      "show_category": "Horror / 2025",
+      "start_time": "15:20",
+      "end_time": "17:40",
       "episode_description": "Dois irmãos gêmeos tentam deixar suas vidas problemáticas para trás e retornam à sua cidade natal para recomeçar. Lá, eles descobrem que um mal ainda maior está à espreita para recebê-los de volta."
     },
     {
-      "show_name": "Legião",
-      "show_logo": "/wp-content/uploads/downloaded-images/hbo/tomorrow/br_legi-o-2010_l_m.webp",
-      "show_category": "Horror / 2010 /5.1",
-      "start_time": "02:45",
-      "end_time": "04:30",
-      "episode_description": "Deus perde a fé na humanidade e envia seu exército de anjos para iniciar o Apocalipse. Porém, o arcanjo Miguel traz esperança ao anunciar que o bebê da garçonete de uma lanchonete precisa ser protegido para garantir a sobrevivência da raça humana."
+      "show_name": "Uma Batalha Após a Outra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_uma-batalha-apos-a-outra-2025_l_m.jpg",
+      "show_category": "Thriller / 2025",
+      "start_time": "17:40",
+      "end_time": "20:25",
+      "episode_description": "Um ex-membro de um grupo busca ajuda de outros revolucionários para encontrar sua filha."
     },
     {
-      "show_name": "A Aparição",
-      "show_logo": "/wp-content/uploads/downloaded-images/hbo/tomorrow/br_a-aparic-o-2012-1_l_m.webp",
-      "show_category": "Horror / 2012",
-      "start_time": "04:30",
-      "end_time": "06:00",
-      "episode_description": "Um casal é assombrado por um espírito do mal, invocado durante uma experiência na universidade. A entidade se alimenta do medo e a única esperança dos jovens é um pesquisador paranormal que vai tentar ajudá-los."
+      "show_name": "SISU - Estrada da Vingança",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sisu-estrada-da-vinganca-2025_l_m.jpg",
+      "show_category": "Action / 2025",
+      "start_time": "20:25",
+      "end_time": "22:02",
+      "episode_description": "Korpi desmonta a casa onde sua família foi morta e a carrega em um caminhão para reconstruí-la em um lugar seguro. Ele logo se vê em uma violenta perseguição pelo país, enquanto o comandante do Exército Vermelho que matou sua família retorna para terminar o serviço."
     },
     {
-      "show_name": "A Bússola de Ouro",
-      "show_logo": "/wp-content/uploads/downloaded-images/hbo/tomorrow/br_a-bussola-de-ouro-2007-1_l_m.webp",
-      "show_category": "Children / 2007",
-      "start_time": "06:00",
-      "end_time": "08:00",
-      "episode_description": "A órfã Lyra Belacqua vive em um mundo paralelo onde as almas dos humanos se manifestam na forma animal, e são chamadas de daemons. Ela descobre que diversas crianças estão desaparecendo, entre elas seu melhor amigo Roger, então vai com Pantalaimon, seu daemon, em busca de respostas. Com a ajuda de um instrumento ancestral e amigos que faz no caminho, Lyra parte em uma jornada que pode mudar o mundo para sempre."
+      "show_name": "DTF St. Louis",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_dtf-st-louis-s01e03_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3",
+      "start_time": "22:02",
+      "end_time": "23:02",
+      "episode_description": "Clark e Floyd descobrem que estão estagnados em seus casamentos e exploram um novo aplicativo de encontros para viver aventuras casuais."
     },
     {
-      "show_name": "Megatubarão 2",
-      "show_logo": "/wp-content/uploads/downloaded-images/hbo/tomorrow/br_megatubar-o-2-2023_l_m.webp",
-      "show_category": "Science fiction / 2023",
-      "start_time": "08:00",
-      "end_time": "10:00",
-      "episode_description": "Jonas Taylor lidera uma equipe de pesquisa em um mergulho exploratório nas profundezas do oceano. Enfrentando tubarões pré-históricos colossais e saqueadores ambientais implacáveis, eles devem fugir e nadar mais que seus impiedosos predadores."
+      "show_name": "Rooster",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rooster-s01e02_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 2 - Calças",
+      "start_time": "23:02",
+      "end_time": "23:37",
+      "episode_description": "Um escritor de sucesso faz de tudo para ajudar sua filha, uma professora universitária problemática."
     },
     {
-      "show_name": "A Garota da Vez",
-      "show_logo": "/wp-content/uploads/downloaded-images/hbo/tomorrow/br_a-garota-da-vez-2023_l_m.webp",
-      "show_category": "Crime drama / 2023",
-      "start_time": "10:00",
-      "end_time": "11:40",
-      "episode_description": "Na década de 1970, em Los Angeles, onda de assassinatos ganha manchetes. Uma jovem que deseja se tornar atriz e um assassino em série se cruzam durante episódio de programa de namoro na TV."
-    },
-    {
-      "show_name": "Aquaman",
-      "show_logo": "/wp-content/uploads/downloaded-images/hbo/tomorrow/br_aquaman-2018_l_m.webp",
-      "show_category": "Action / 2018 /7.0",
-      "start_time": "11:40",
-      "end_time": "14:10",
-      "episode_description": "A cidade de Atlantis, que já foi lar de uma das mais avançadas civilizações do mundo, agora é um reino submerso dominado pelo ganancioso Rei Orm. Com um vasto exército a seu dispor, Orm planeja conquistar tanto os demais reinos do oceano, quanto o mundo da superfície. Em seu caminho está Aquaman, meio-humano e meio-atlante, e verdadeiro herdeiro do trono. Com a ajuda da princesa Mera, Aquaman precisa recuperar o lendário Tridente de Atlan e aceitar seu destino como protetor das profundezas."
-    },
-    {
-      "show_name": "Órfã 2 - A Origem",
-      "show_logo": "/wp-content/uploads/downloaded-images/hbo/tomorrow/br_orf-2-a-origem-2022_l_m.webp",
-      "show_category": "Horror / 2022",
-      "start_time": "14:10",
-      "end_time": "15:55",
-      "episode_description": "Esther consegue escapar de um centro psiquiátrico onde está confinada e viaja para os Estados Unidos se passando por filha desaparecida de uma família rica. No entanto, uma mãe superprotetora fará de tudo por sua família, não importando os meios."
-    },
-    {
-      "show_name": "Entrevista com o Demônio",
-      "show_logo": "/wp-content/uploads/downloaded-images/hbo/tomorrow/br_entrevista-com-o-demonio-2023_l_m.webp",
-      "show_category": "Horror / 2023",
-      "start_time": "15:55",
-      "end_time": "17:35",
-      "episode_description": "Em 1977, uma transmissão televisiva liberta o mal nas salas de estar dos que assistem."
-    },
-    {
-      "show_name": "Jurassic World - O Mundo dos Dinossauros",
-      "show_logo": "/wp-content/uploads/downloaded-images/hbo/tomorrow/br_jurassic-world-o-mundo-dos-dinossauros-2015_l_m.webp",
-      "show_category": "Adventure / 2015",
-      "start_time": "17:35",
-      "end_time": "19:45",
-      "episode_description": "O Parque dos Dinossauros está aberto para visitação, e o público tem a chance de ver de perto as mais diversas espécies. No entanto, um desses animais, resultado de experiência genética, desenvolve alta inteligência e se torna uma ameaça para todos."
-    },
-    {
-      "show_name": "Jurassic World - Reino Ameaçado",
-      "show_logo": "/wp-content/uploads/downloaded-images/hbo/tomorrow/br_jurassic-world-reino-ameacado-2018_l_m.webp",
-      "show_category": "Adventure / 2018",
-      "start_time": "19:45",
-      "end_time": "22:00",
-      "episode_description": "Três anos após o fechamento do Jurassic World, um vulcão prestes a entrar em erupção põe em risco a vida na ilha Nublar. Não há mais qualquer presença humana no local e os dinossauros vivem livremente. Claire e Owen decidem resgatar os animais e retornam à ilha para a missão. Lá, a dupla encontra novas e aterrorizantes raças de dinossauros gigantes ao descobrir uma conspiração que ameaça todo o planeta."
-    },
-    {
-      "show_name": "Planeta dos Macacos - O Reinado",
-      "show_logo": "/wp-content/uploads/downloaded-images/hbo/tomorrow/br_planeta-dos-macacos-o-reinado-2024_l_m.webp",
-      "show_category": "Science fiction / 2024",
-      "start_time": "22:00",
+      "show_name": "Como Água para Chocolate",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_como-agua-para-chocolate-s02e05_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 5",
+      "start_time": "23:37",
       "end_time": "",
-      "episode_description": "Muitas sociedades de macacos cresceram desde quando César levou seu povo a um oásis, enquanto os humanos foram reduzidos a sobreviver e se esconder nas sombras. Um líder macaco começa a escravizar outros grupos para encontrar tecnologia humana, enquanto um jovem macaco, que viu seu clã ser capturado, embarca em uma viagem para encontrar a liberdade, sendo uma jovem humana a chave para todos."
+      "episode_description": "Convencida de sua gravidez, Tita enfrenta o dilema de sustentar uma mentira salvadora ou revelar uma verdade capaz de destruir tudo; o retorno de Jesús traz esperança para Fina; uma receita de feijão provoca confissões que obrigam Tita a se abrir com o doutor Brown; Pedro decide expor os crimes de seu tio ao general Vargas, sem saber que suas ações o colocarão na mira de uma represália iminente."
     }
   ]
 }

@@ -3,32 +3,72 @@
   "date": "15/03/2026",
   "schedule": [
     {
-      "show_name": "Hora H",
-      "show_logo": "/wp-content/uploads/downloaded-images/cnn-brasil/tomorrow/br_hora-h_l_m.webp",
+      "show_name": "CNN Prime Time",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cnn-prime-time_l_m.jpg",
       "show_category": "News",
-      "start_time": "01:30",
-      "end_time": "03:30",
-      "episode_description": "Um jornal com a missão de abordar o que mais importa no noticiário, responder às questões relevantes sobre o fato e entregar ao telespectador o aprofundamento necessário para entender os impactos para a sociedade."
+      "start_time": "01:00",
+      "end_time": "02:00",
+      "episode_description": "Acompanhe os fatos mais importantes do dia no Brasil e no mundo em um jornal dinâmico e com repórteres espalhados pelo país, EUA e Europa. Veja notícias de Brasília com análises, além do fechamento do mercado financeiro e assuntos econômicos."
+    },
+    {
+      "show_name": "Hot Market",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hot-market_l_m.jpg",
+      "show_category": "Bus./financial",
+      "start_time": "02:00",
+      "end_time": "02:45",
+      "episode_description": "Discussão sobre juros, contas públicas, eleições, tecnologia e mercado de trabalho do Brasil e do mundo, com entrevista com nomes de destaque do mercado."
+    },
+    {
+      "show_name": "Boletim Agora CNN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_boletim-agora-cnn_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "02:45",
+      "end_time": "02:50",
+      "episode_description": "As principais notícias do dia transmitidas pelo canal CNN Brasil."
     },
     {
       "show_name": "O Grande Debate",
-      "show_logo": "/wp-content/uploads/downloaded-images/cnn-brasil/tomorrow/br_o-grande-debate_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-grande-debate_l_m.jpg",
       "show_category": "Debate",
-      "start_time": "03:30",
-      "end_time": "04:00",
+      "start_time": "02:50",
+      "end_time": "03:50",
       "episode_description": "Acompanhe discussões de temas importantes da sociedade com pontos de vista diferentes."
     },
     {
+      "show_name": "Boletim Agora CNN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_boletim-agora-cnn_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "03:50",
+      "end_time": "03:55",
+      "episode_description": "As principais notícias do dia transmitidas pelo canal CNN Brasil."
+    },
+    {
+      "show_name": "WW",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ww_l_m.jpg",
+      "show_category": "Talk",
+      "start_time": "03:55",
+      "end_time": "04:55",
+      "episode_description": "O jornalista William Waack recebe convidados para debater os temas mais relevantes que ocupam as manchetes do Brasil e do mundo durante a semana."
+    },
+    {
+      "show_name": "Boletim Agora CNN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_boletim-agora-cnn_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "04:55",
+      "end_time": "05:00",
+      "episode_description": "As principais notícias do dia transmitidas pelo canal CNN Brasil."
+    },
+    {
       "show_name": "CNN Prime Time",
-      "show_logo": "/wp-content/uploads/downloaded-images/cnn-brasil/tomorrow/br_cnn-prime-time_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cnn-prime-time_l_m.jpg",
       "show_category": "News",
-      "start_time": "04:00",
+      "start_time": "05:00",
       "end_time": "06:00",
       "episode_description": "Acompanhe os fatos mais importantes do dia no Brasil e no mundo em um jornal dinâmico e com repórteres espalhados pelo país, EUA e Europa. Veja notícias de Brasília com análises, além do fechamento do mercado financeiro e assuntos econômicos."
     },
     {
       "show_name": "Newsroom",
-      "show_logo": "/wp-content/uploads/downloaded-images/cnn-brasil/tomorrow/br_newsroom_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_newsroom_l_m.jpg",
       "show_category": "News",
       "start_time": "06:00",
       "end_time": "09:30",
@@ -36,147 +76,131 @@
     },
     {
       "show_name": "Agora CNN",
-      "show_logo": "/wp-content/uploads/downloaded-images/cnn-brasil/tomorrow/br_agora-cnn_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_agora-cnn_l_m.jpg",
       "show_category": "News",
       "start_time": "09:30",
-      "end_time": "13:15",
+      "end_time": "13:00",
       "episode_description": "Reportagens para começar o dia com as informações que importam."
     },
     {
+      "show_name": "Domingol com Benja",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_domingol-com-benja_l_m.jpg",
+      "show_category": "Sports talk",
+      "start_time": "13:00",
+      "end_time": "15:00",
+      "episode_description": "Benjamin Back comanda uma análise dos melhores lances das rodadas do sábado e o pré-jogo do domingo."
+    },
+    {
+      "show_name": "Agora CNN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_agora-cnn_l_m.jpg",
+      "show_category": "News",
+      "start_time": "15:00",
+      "end_time": "15:55",
+      "episode_description": "Reportagens para começar o dia com as informações que importam."
+    },
+    {
+      "show_name": "O Grande Debate",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-grande-debate_l_m.jpg",
+      "show_category": "Debate",
+      "start_time": "15:55",
+      "end_time": "16:55",
+      "episode_description": "Acompanhe discussões de temas importantes da sociedade com pontos de vista diferentes."
+    },
+    {
+      "show_name": "Boletim Agora CNN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_boletim-agora-cnn_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "16:55",
+      "end_time": "17:00",
+      "episode_description": "As principais notícias do dia transmitidas pelo canal CNN Brasil."
+    },
+    {
+      "show_name": "CNN Sinais Vitais - Dr. Kalil Entrevista",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cnn-sinais-vitais-dr-kalil-entrevista_l_m.jpg",
+      "show_category": "Health",
+      "start_time": "17:00",
+      "end_time": "17:30",
+      "episode_description": "Por meio de entrevistas, grandes personalidades discutem temas ligados à área da saúde no Brasil. Dr. Kalil visa discutir e democratizar temas relacionados à saúde cotidiana, ao bem-estar, à longevidade e a novas pesquisas."
+    },
+    {
+      "show_name": "Agora CNN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_agora-cnn_l_m.jpg",
+      "show_category": "News",
+      "start_time": "17:30",
+      "end_time": "19:00",
+      "episode_description": "Reportagens para começar o dia com as informações que importam."
+    },
+    {
+      "show_name": "O Grande Debate",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-grande-debate_l_m.jpg",
+      "show_category": "Debate",
+      "start_time": "19:00",
+      "end_time": "20:00",
+      "episode_description": "Acompanhe discussões de temas importantes da sociedade com pontos de vista diferentes."
+    },
+    {
+      "show_name": "CNN Prime Time",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cnn-prime-time_l_m.jpg",
+      "show_category": "News",
+      "start_time": "20:00",
+      "end_time": "20:45",
+      "episode_description": "Acompanhe os fatos mais importantes do dia no Brasil e no mundo em um jornal dinâmico e com repórteres espalhados pelo país, EUA e Europa. Veja notícias de Brasília com análises, além do fechamento do mercado financeiro e assuntos econômicos."
+    },
+    {
+      "show_name": "É Negócio",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_e-negocio_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "20:45",
+      "end_time": "21:15",
+      "episode_description": "O jornalista Carlos Sambrana recebe semanalmente grandes líderes do mundo empresarial. O universo dos negócios e das finanças, os desafios da economia e inovação são os principais temas abordados pelo apresentador e seus convidados especiais."
+    },
+    {
+      "show_name": "CNN Esportes S/A",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_interview-cnn-esportes-s-a_l_m.jpg",
+      "show_category": "",
+      "start_time": "21:15",
+      "end_time": "21:57",
+      "episode_description": "Acompanhe temas e entrevistas que buscam mostrar o lado business do mundo do futebol."
+    },
+    {
+      "show_name": "Boletim Agora CNN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_boletim-agora-cnn_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "21:57",
+      "end_time": "22:00",
+      "episode_description": "As principais notícias do dia transmitidas pelo canal CNN Brasil."
+    },
+    {
       "show_name": "WW",
-      "show_logo": "/wp-content/uploads/downloaded-images/cnn-brasil/tomorrow/br_ww_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ww_l_m.jpg",
       "show_category": "Talk",
-      "start_time": "13:15",
-      "end_time": "14:15",
+      "start_time": "22:00",
+      "end_time": "23:12",
       "episode_description": "O jornalista William Waack recebe convidados para debater os temas mais relevantes que ocupam as manchetes do Brasil e do mundo durante a semana."
     },
     {
       "show_name": "Boletim Agora CNN",
-      "show_logo": "/wp-content/uploads/downloaded-images/cnn-brasil/tomorrow/br_boletim-agora-cnn_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_boletim-agora-cnn_l_m.jpg",
       "show_category": "Special",
-      "start_time": "14:15",
-      "end_time": "14:30",
-      "episode_description": "As principais notícias do dia transmitidas pelo canal CNN Brasil."
-    },
-    {
-      "show_name": "CNN Esportes S/A",
-      "show_logo": "/wp-content/uploads/downloaded-images/cnn-brasil/tomorrow/br_interview-cnn-esportes-s-a_l_m.webp",
-      "show_category": "",
-      "start_time": "14:30",
-      "end_time": "15:15",
-      "episode_description": "Acompanhe temas e entrevistas que buscam mostrar o lado business do mundo do futebol."
-    },
-    {
-      "show_name": "Boletim Agora CNN",
-      "show_logo": "/wp-content/uploads/downloaded-images/cnn-brasil/tomorrow/br_boletim-agora-cnn_l_m.webp",
-      "show_category": "Special",
-      "start_time": "15:15",
-      "end_time": "15:30",
+      "start_time": "23:12",
+      "end_time": "23:15",
       "episode_description": "As principais notícias do dia transmitidas pelo canal CNN Brasil."
     },
     {
       "show_name": "Hot Market",
-      "show_logo": "/wp-content/uploads/downloaded-images/cnn-brasil/tomorrow/br_hot-market_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hot-market_l_m.jpg",
       "show_category": "Bus./financial",
-      "start_time": "15:30",
-      "end_time": "16:15",
+      "start_time": "23:15",
+      "end_time": "23:45",
       "episode_description": "Discussão sobre juros, contas públicas, eleições, tecnologia e mercado de trabalho do Brasil e do mundo, com entrevista com nomes de destaque do mercado."
     },
     {
-      "show_name": "Agora CNN",
-      "show_logo": "/wp-content/uploads/downloaded-images/cnn-brasil/tomorrow/br_agora-cnn_l_m.webp",
-      "show_category": "News",
-      "start_time": "16:15",
-      "end_time": "17:15",
-      "episode_description": "Reportagens para começar o dia com as informações que importam."
-    },
-    {
-      "show_name": "É Negócio",
-      "show_logo": "/wp-content/uploads/downloaded-images/cnn-brasil/tomorrow/br_e-negocio_l_m.webp",
-      "show_category": "Interview",
-      "start_time": "17:15",
-      "end_time": "17:45",
-      "episode_description": "O jornalista Carlos Sambrana recebe semanalmente grandes líderes do mundo empresarial. O universo dos negócios e das finanças, os desafios da economia e inovação são os principais temas abordados pelo apresentador e seus convidados especiais."
-    },
-    {
-      "show_name": "Boletim Agora CNN",
-      "show_logo": "/wp-content/uploads/downloaded-images/cnn-brasil/tomorrow/br_boletim-agora-cnn_l_m.webp",
-      "show_category": "Special",
-      "start_time": "17:45",
-      "end_time": "18:00",
-      "episode_description": "As principais notícias do dia transmitidas pelo canal CNN Brasil."
-    },
-    {
-      "show_name": "CNN Esportes S/A",
-      "show_logo": "/wp-content/uploads/downloaded-images/cnn-brasil/tomorrow/br_interview-cnn-esportes-s-a_l_m.webp",
-      "show_category": "",
-      "start_time": "18:00",
-      "end_time": "18:45",
-      "episode_description": "Acompanhe temas e entrevistas que buscam mostrar o lado business do mundo do futebol."
-    },
-    {
-      "show_name": "Agora CNN",
-      "show_logo": "/wp-content/uploads/downloaded-images/cnn-brasil/tomorrow/br_agora-cnn_l_m.webp",
-      "show_category": "News",
-      "start_time": "18:45",
-      "end_time": "19:30",
-      "episode_description": "Reportagens para começar o dia com as informações que importam."
-    },
-    {
-      "show_name": "CNN Sinais Vitais - Dr. Kalil Entrevista",
-      "show_logo": "/wp-content/uploads/downloaded-images/cnn-brasil/tomorrow/br_cnn-sinais-vitais-dr-kalil-entrevista_l_m.webp",
-      "show_category": "Health",
-      "start_time": "19:30",
-      "end_time": "20:00",
-      "episode_description": "Por meio de entrevistas, grandes personalidades discutem temas ligados à área da saúde no Brasil. Dr. Kalil visa discutir e democratizar temas relacionados à saúde cotidiana, ao bem-estar, à longevidade e a novas pesquisas."
-    },
-    {
       "show_name": "CNN Prime Time",
-      "show_logo": "/wp-content/uploads/downloaded-images/cnn-brasil/tomorrow/br_cnn-prime-time_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cnn-prime-time_l_m.jpg",
       "show_category": "News",
-      "start_time": "20:00",
-      "end_time": "21:00",
-      "episode_description": "Acompanhe os fatos mais importantes do dia no Brasil e no mundo em um jornal dinâmico e com repórteres espalhados pelo país, EUA e Europa. Veja notícias de Brasília com análises, além do fechamento do mercado financeiro e assuntos econômicos."
-    },
-    {
-      "show_name": "O Grande Debate",
-      "show_logo": "/wp-content/uploads/downloaded-images/cnn-brasil/tomorrow/br_o-grande-debate_l_m.webp",
-      "show_category": "Debate",
-      "start_time": "21:00",
-      "end_time": "22:00",
-      "episode_description": "Acompanhe discussões de temas importantes da sociedade com pontos de vista diferentes."
-    },
-    {
-      "show_name": "CNN Viagem & Gastronomia",
-      "show_logo": "/wp-content/uploads/downloaded-images/cnn-brasil/tomorrow/br_cnn-viagem-gastronomia-1_l_m.webp",
-      "show_category": "Travel",
-      "start_time": "22:00",
-      "end_time": "22:45",
-      "episode_description": "Fique por dentro de notícias e serviços relacionados ao universo do lifestyle, turismo e culinária."
-    },
-    {
-      "show_name": "Boletim Agora CNN",
-      "show_logo": "/wp-content/uploads/downloaded-images/cnn-brasil/tomorrow/br_boletim-agora-cnn_l_m.webp",
-      "show_category": "Special",
-      "start_time": "22:45",
-      "end_time": "22:50",
-      "episode_description": "As principais notícias do dia transmitidas pelo canal CNN Brasil."
-    },
-    {
-      "show_name": "CNN Prime Time",
-      "show_logo": "/wp-content/uploads/downloaded-images/cnn-brasil/tomorrow/br_cnn-prime-time_l_m.webp",
-      "show_category": "News",
-      "start_time": "22:50",
-      "end_time": "23:50",
-      "episode_description": "Acompanhe os fatos mais importantes do dia no Brasil e no mundo em um jornal dinâmico e com repórteres espalhados pelo país, EUA e Europa. Veja notícias de Brasília com análises, além do fechamento do mercado financeiro e assuntos econômicos."
-    },
-    {
-      "show_name": "Boletim Agora CNN",
-      "show_logo": "/wp-content/uploads/downloaded-images/cnn-brasil/tomorrow/br_boletim-agora-cnn_l_m.webp",
-      "show_category": "Special",
-      "start_time": "23:50",
+      "start_time": "23:45",
       "end_time": "",
-      "episode_description": "As principais notícias do dia transmitidas pelo canal CNN Brasil."
+      "episode_description": "Acompanhe os fatos mais importantes do dia no Brasil e no mundo em um jornal dinâmico e com repórteres espalhados pelo país, EUA e Europa. Veja notícias de Brasília com análises, além do fechamento do mercado financeiro e assuntos econômicos."
     }
   ]
 }

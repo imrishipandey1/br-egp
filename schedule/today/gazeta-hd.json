@@ -4,7 +4,7 @@
   "schedule": [
     {
       "show_name": "Gazeta Esportiva",
-      "show_logo": "/wp-content/uploads/downloaded-images/gazeta-hd/today/br_debate-gazeta-esportiva_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_debate-gazeta-esportiva_l_m.jpg",
       "show_category": "",
       "start_time": "02:00",
       "end_time": "03:00",
@@ -12,7 +12,7 @@
     },
     {
       "show_name": "Jornal da Gazeta",
-      "show_logo": "/wp-content/uploads/downloaded-images/gazeta-hd/today/br_jornal-da-gazeta_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-da-gazeta_l_m.jpg",
       "show_category": "News",
       "start_time": "03:00",
       "end_time": "04:00",
@@ -20,7 +20,7 @@
     },
     {
       "show_name": "Gazeta Shopping",
-      "show_logo": "/wp-content/uploads/downloaded-images/gazeta-hd/today/br_gazeta-shopping_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_gazeta-shopping_l_m.jpg",
       "show_category": "Consumer",
       "start_time": "04:00",
       "end_time": "06:00",
@@ -28,63 +28,71 @@
     },
     {
       "show_name": "Igreja Universal do Reino de Deus",
-      "show_logo": "/wp-content/uploads/downloaded-images/gazeta-hd/today/br_igreja-universal-do-reino-de-deus-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_igreja-universal-do-reino-de-deus-1_l_m.jpg",
       "show_category": "Religious",
       "start_time": "06:00",
-      "end_time": "13:00",
+      "end_time": "08:00",
       "episode_description": "Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus."
     },
     {
-      "show_name": "Gazeta News",
-      "show_logo": "/wp-content/uploads/downloaded-images/gazeta-hd/today/br_gazeta-news_l_m.webp",
-      "show_category": "News",
-      "start_time": "13:00",
-      "end_time": "14:00",
-      "episode_description": "O jornal é um resumo de final de tarde, criado para transmitir os fatos mais importantes ocorridos desde o amanhecer."
+      "show_name": "Gazeta Motors",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_gazeta-motors_l_m.jpg",
+      "show_category": "Auto",
+      "start_time": "08:00",
+      "end_time": "09:00",
+      "episode_description": "O programa tem o objetivo de criar uma conexão objetiva entre o consumidor e o empreendedor."
     },
     {
-      "show_name": "Fofoca Aí",
-      "show_logo": "/wp-content/uploads/downloaded-images/gazeta-hd/today/br_fofoca-ai_l_m.webp",
-      "show_category": "Entertainment",
-      "start_time": "14:00",
-      "end_time": "15:30",
-      "episode_description": "O programa aborda assuntos sobre celebridades e bastidores da TV, com uma linguagem descontraída e bem-humorada."
+      "show_name": "Gazeta Shopping",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_gazeta-shopping_l_m.jpg",
+      "show_category": "Consumer",
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "episode_description": "Acompanhe ofertas e lançamentos em diversos segmentos do mercado."
     },
     {
-      "show_name": "Mulheres",
-      "show_logo": "/wp-content/uploads/downloaded-images/gazeta-hd/today/br_mulheres_l_m.webp",
+      "show_name": "Gazeta Imóveis",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_gazeta-imoveis_l_m.jpg",
+      "show_category": "Shopping",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "episode_description": "O programa oferece informações sobre o mercado imobiliário e estabelece uma comunicação entre o empreendedor e o consumidor."
+    },
+    {
+      "show_name": "Gazeta Motors",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_gazeta-motors_l_m.jpg",
+      "show_category": "Auto",
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "episode_description": "O programa tem o objetivo de criar uma conexão objetiva entre o consumidor e o empreendedor."
+    },
+    {
+      "show_name": "O Melhor do Mulheres",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-melhor-do-mulheres_l_m.jpg",
       "show_category": "Variety",
-      "start_time": "15:30",
-      "end_time": "17:45",
-      "episode_description": "O programa traz especialistas nas áreas de culinária, moda, beleza, atualidades, lazer e direito do consumidor, entre outros assuntos de grande interesse da mulher."
+      "start_time": "13:00",
+      "end_time": "17:00",
+      "episode_description": "Reprise dos melhores momentos do \"Mulheres\", programa da TV Gazeta."
     },
     {
-      "show_name": "Gazeta News",
-      "show_logo": "/wp-content/uploads/downloaded-images/gazeta-hd/today/br_gazeta-news_l_m.webp",
-      "show_category": "News",
-      "start_time": "17:45",
+      "show_name": "Gazeta Motors",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_gazeta-motors_l_m.jpg",
+      "show_category": "Auto",
+      "start_time": "17:00",
       "end_time": "18:00",
-      "episode_description": "O jornal é um resumo de final de tarde, criado para transmitir os fatos mais importantes ocorridos desde o amanhecer."
+      "episode_description": "O programa tem o objetivo de criar uma conexão objetiva entre o consumidor e o empreendedor."
     },
     {
-      "show_name": "Gazeta Esportiva",
-      "show_logo": "/wp-content/uploads/downloaded-images/gazeta-hd/today/br_debate-gazeta-esportiva_l_m.webp",
-      "show_category": "",
+      "show_name": "Gazeta Shopping",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_gazeta-shopping_l_m.jpg",
+      "show_category": "Consumer",
       "start_time": "18:00",
-      "end_time": "19:00",
-      "episode_description": "Notícias e opiniões de quem mais entende, em conjunto com seu dia a dia, disponibilizando ao telespectador, em primeira mão, as principais novidades do esporte."
-    },
-    {
-      "show_name": "Jornal da Gazeta",
-      "show_logo": "/wp-content/uploads/downloaded-images/gazeta-hd/today/br_jornal-da-gazeta_l_m.webp",
-      "show_category": "News",
-      "start_time": "19:00",
       "end_time": "20:00",
-      "episode_description": "O programa apresenta as principais notícias do dia, reportagens exclusivas e análises feitas por uma equipe de comentaristas especializados em política, economia, sustentabilidade e cultura."
+      "episode_description": "Acompanhe ofertas e lançamentos em diversos segmentos do mercado."
     },
     {
       "show_name": "Igreja Universal do Reino de Deus",
-      "show_logo": "/wp-content/uploads/downloaded-images/gazeta-hd/today/br_igreja-universal-do-reino-de-deus-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_igreja-universal-do-reino-de-deus-1_l_m.jpg",
       "show_category": "Religious",
       "start_time": "20:00",
       "end_time": "02:00",
