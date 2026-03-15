@@ -3,156 +3,132 @@
   "date": "15/03/2026",
   "schedule": [
     {
-      "show_name": "Premier League Stories",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-premier-league-stories_l_m.webp",
-      "show_category": "",
-      "start_time": "01:00",
-      "end_time": "01:30",
-      "episode_description": "Um panorama completo sobre a Premier League ao redor do mundo. As últimas notícias, entrevistas, curiosidades e histórias sobre a paixão do torcedor pelo futebol inglês."
-    },
-    {
-      "show_name": "Show da Rodada da EFL",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-show-da-rodada-da-efl_l_m.webp",
-      "show_category": "",
-      "start_time": "01:30",
+      "show_name": "West Ham x Manchester City",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-west-ham-x-manchester-city-1_l_m.jpg",
+      "show_category": "Campeonato Inglês",
+      "start_time": "00:00",
       "end_time": "02:00",
-      "episode_description": "Os destaques das partidas da EFL Championship, segunda divisão de futebol masculino da Inglaterra."
-    },
-    {
-      "show_name": "Show da Rodada do Italiano",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-show-da-rodada-do-italiano_l_m.webp",
-      "show_category": "",
-      "start_time": "02:00",
-      "end_time": "02:30",
-      "episode_description": "Os principais destaques das partidas da Lega Serie A, primeira divisão do Campeonato Italiano de futebol masculino, com os gols, melhores lances e situação da tabela de classificação após cada rodada disputada."
-    },
-    {
-      "show_name": "Show da Rodada de La Liga",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-show-da-rodada-de-la-liga_l_m.webp",
-      "show_category": "",
-      "start_time": "02:30",
-      "end_time": "03:00",
-      "episode_description": ".Todos os gols e os principais lances da rodada de La Liga, primeira divisão do Campeonato Espanhol."
-    },
-    {
-      "show_name": "Inside Serie A",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-inside-serie-a_l_m.webp",
-      "show_category": "",
-      "start_time": "03:00",
-      "end_time": "03:30",
-      "episode_description": "Uma previsão sobre os próximos jogos do Campeonato Italiano."
-    },
-    {
-      "show_name": "FC Badalona x Barcelona",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-fc-badalona-x-barcelona_l_m.webp",
-      "show_category": "Copa de la Reina",
-      "start_time": "03:30",
-      "end_time": "05:30",
-      "episode_description": "Acompanhe as emoções do torneio de futebol feminino da Espanha."
+      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
     },
     {
       "show_name": "F1: The Inside Line",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/today/br_auto-racing-f1-the-inside-line_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_auto-racing-f1-the-inside-line_l_m.jpg",
       "show_category": "",
-      "start_time": "05:30",
-      "end_time": "06:00",
+      "start_time": "02:00",
+      "end_time": "02:30",
       "episode_description": "Veja a cobertura completa da Fórmula 1, a maior e mais badalada categoria do automobilismo mundial. Acompanhe as principais notícias da semana, os bastidores, entrevistas exclusivas e reportagens especiais."
     },
     {
-      "show_name": "Resenha ESPN",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/today/br_resenha-espn_l_m.webp",
-      "show_category": "Sports talk",
-      "start_time": "06:00",
-      "end_time": "07:00",
-      "episode_description": "Atletas da atualidade e do passado participam de bate-papo descontraído e cheio de boas histórias."
+      "show_name": "Atlético de Madrid x Getafe",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-atletico-de-madrid-x-getafe_l_m.jpg",
+      "show_category": "Campeonato Espanhol",
+      "start_time": "02:30",
+      "end_time": "04:30",
+      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
     },
     {
-      "show_name": "Corinthians x Bauru",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/today/br_basketball-corinthians-x-bauru_l_m.webp",
-      "show_category": "NBB",
-      "start_time": "07:00",
+      "show_name": "Anthony Olascuaga x Jukiya Iimura",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_boxing-anthony-olascuaga-x-jukiya-iimura_l_m.jpg",
+      "show_category": "Boxe Internacional",
+      "start_time": "04:30",
+      "end_time": "04:30",
+      "episode_description": "Pugilistas se encaram em ringues por todo o planeta nos principais combates da \"nobre arte\"."
+    },
+    {
+      "show_name": "Anthony Olascuaga x Jukiya Iimura",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_boxing-anthony-olascuaga-x-jukiya-iimura_l_m.jpg",
+      "show_category": "Boxe Internacional",
+      "start_time": "04:30",
       "end_time": "09:00",
-      "episode_description": "Todas as emoções da principal competição de basquete masculino profissional entre clubes do Brasil."
+      "episode_description": "Pugilistas se encaram em ringues por todo o planeta nos principais combates da \"nobre arte\"."
     },
     {
-      "show_name": "Alavés x Villarreal",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-alaves-x-villarreal_l_m.webp",
+      "show_name": "Real Madrid x Elche CF",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-real-madrid-x-elche-cf_l_m.jpg",
       "show_category": "Campeonato Espanhol",
       "start_time": "09:00",
       "end_time": "10:50",
       "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
     },
     {
-      "show_name": "Internazionale x Atalanta",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-internazionale-x-atalanta_l_m.webp",
-      "show_category": "Campeonato Italiano",
+      "show_name": "Crystal Palace x Leeds United",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-crystal-palace-x-leeds-united_l_m.jpg",
+      "show_category": "Campeonato Inglês",
       "start_time": "10:50",
       "end_time": "13:00",
-      "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
-    },
-    {
-      "show_name": "Show da Rodada da EFL",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-show-da-rodada-da-efl_l_m.webp",
-      "show_category": "",
-      "start_time": "13:00",
-      "end_time": "13:30",
-      "episode_description": "Os destaques das partidas da EFL Championship, segunda divisão de futebol masculino da Inglaterra."
-    },
-    {
-      "show_name": "SportsCenter Abre o Jogo",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/today/br_sports-talk-sportscenter-abre-o-jogo_l_m.webp",
-      "show_category": "",
-      "start_time": "13:30",
-      "end_time": "13:50",
-      "episode_description": "Destaques e preparativos para a partida válida pela maior liga de basquete profissional do mundo."
-    },
-    {
-      "show_name": "Napoli x Lecce",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-napoli-x-lecce_l_m.webp",
-      "show_category": "Campeonato Italiano",
-      "start_time": "13:50",
-      "end_time": "16:00",
-      "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
-    },
-    {
-      "show_name": "Resenha ESPN",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/today/br_resenha-espn_l_m.webp",
-      "show_category": "Sports talk",
-      "start_time": "16:00",
-      "end_time": "17:00",
-      "episode_description": "Atletas da atualidade e do passado participam de bate-papo descontraído e cheio de boas histórias."
-    },
-    {
-      "show_name": "F1: The Inside Line",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/today/br_auto-racing-f1-the-inside-line_l_m.webp",
-      "show_category": "",
-      "start_time": "17:00",
-      "end_time": "17:25",
-      "episode_description": "Veja a cobertura completa da Fórmula 1, a maior e mais badalada categoria do automobilismo mundial. Acompanhe as principais notícias da semana, os bastidores, entrevistas exclusivas e reportagens especiais."
-    },
-    {
-      "show_name": "Arouca x Benfica",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-arouca-x-benfica-1_l_m.webp",
-      "show_category": "Campeonato Português",
-      "start_time": "17:25",
-      "end_time": "19:30",
-      "episode_description": "Todas as emoções da principal competição de futebol masculino entre clubes de Portugal."
-    },
-    {
-      "show_name": "Arsenal x Everton",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/today/br_soccer-arsenal-x-everton_l_m.webp",
-      "show_category": "Campeonato Inglês",
-      "start_time": "19:30",
-      "end_time": "21:30",
       "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
     },
     {
-      "show_name": "Los Angeles Lakers x Denver Nuggets",
-      "show_logo": "/wp-content/uploads/downloaded-images/fox-sports/today/br_basketball-los-angeles-lakers-x-denver-nuggets_l_m.webp",
+      "show_name": "Professores do Brasil - João Sena",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_special-professores-do-brasil-jo-o-sena_l_m.jpg",
+      "show_category": "",
+      "start_time": "13:00",
+      "end_time": "13:30",
+      "episode_description": "João Sena Bonfim é pai do marchador Caio Bonfim e revelador de campeões no atletismo. Aos 70 anos, o professor de Sobradinho criou método próprio, formando atletas como Carmen de Oliveira, primeira brasileira a vencer São Silvestre."
+    },
+    {
+      "show_name": "SportsCenter Abre o Jogo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_basketball-sportscenter-abre-o-jogo_l_m.jpg",
+      "show_category": "",
+      "start_time": "13:30",
+      "end_time": "14:00",
+      "episode_description": "Os últimos preparativos para Lakers x Suns e Nets x Hawks, pela temporada regular 2024-2025 da NBA."
+    },
+    {
+      "show_name": "Oklahoma City Thunder x Minnesota Timberwolves",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_basketball-oklahoma-city-thunder-x-minnesota-timberwolves_l_m.jpg",
       "show_category": "NBA",
-      "start_time": "21:30",
-      "end_time": "00:00",
+      "start_time": "14:00",
+      "end_time": "16:30",
       "episode_description": "Trinta equipes dos Estados Unidos e Canadá se enfrentam na principal liga de basquete do mundo."
+    },
+    {
+      "show_name": "Momento ESPN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_documentary-momento-espn_l_m.jpg",
+      "show_category": "",
+      "start_time": "16:30",
+      "end_time": "16:45",
+      "episode_description": ""
+    },
+    {
+      "show_name": "GP de Las Vegas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_auto-racing-gp-de-las-vegas-1_l_m.jpg",
+      "show_category": "NASCAR Cup Series",
+      "start_time": "16:45",
+      "end_time": "20:30",
+      "episode_description": "Todas as emoções da principal competição de velocidade da categoria stock car dos Estados Unidos."
+    },
+    {
+      "show_name": "Clássicos ESPN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_documentary-classicos-espn_l_m.jpg",
+      "show_category": "",
+      "start_time": "20:30",
+      "end_time": "21:00",
+      "episode_description": "O programa resgata conteúdo histórico dos arquivos da ESPN no Brasil e reconta a trajetória de grandes expoentes do esporte através de produções antigas do canal."
+    },
+    {
+      "show_name": "Inside Serie A",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-inside-serie-a_l_m.jpg",
+      "show_category": "",
+      "start_time": "21:00",
+      "end_time": "21:30",
+      "episode_description": "Uma previsão sobre os próximos jogos do Campeonato Italiano."
+    },
+    {
+      "show_name": "Momento ESPN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_documentary-momento-espn_l_m.jpg",
+      "show_category": "",
+      "start_time": "21:30",
+      "end_time": "21:50",
+      "episode_description": ""
+    },
+    {
+      "show_name": "Unión de Santa Fe x Boca Juniors",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-union-de-santa-fe-x-boca-juniors_l_m.jpg",
+      "show_category": "Campeonato Argentino",
+      "start_time": "21:50",
+      "end_time": "00:00",
+      "episode_description": "Acompanhe as grandes partidas do torneio de elite do futebol argentino."
     }
   ]
 }

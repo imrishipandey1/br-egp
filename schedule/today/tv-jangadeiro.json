@@ -3,24 +3,24 @@
   "date": "15/03/2026",
   "schedule": [
     {
-      "show_name": "Operação Mesquita",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_operac-o-mesquita_l_m.webp",
-      "show_category": "Entertainment",
-      "start_time": "00:45",
-      "end_time": "01:15",
-      "episode_description": "Descubra o lado B dos famosos, que mostram o seu cotidiano de forma curiosa e divertida por meio de entrevistas. Acompanhe ainda pessoas comuns que estão prestes a protagonizar um grande momento que pode mudar para sempre as suas vidas."
+      "show_name": "Programa do João no SBT",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_programa-do-jo-o-no-sbt_l_m.jpg",
+      "show_category": "Variety",
+      "start_time": "00:00",
+      "end_time": "01:00",
+      "episode_description": "João Silva apresenta entrevistas que revelam novas facetas de figuras consagradas. Além disso, o programa promove encontros emocionantes e quadros divertidos que mesclam jogos e histórias."
     },
     {
-      "show_name": "SBT PodNight",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_sbt-podnight_l_m.webp",
-      "show_category": "Talk",
-      "start_time": "01:15",
+      "show_name": "Notícias Impressionantes",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_noticias-impressionantes_l_m.jpg",
+      "show_category": "News",
+      "start_time": "01:00",
       "end_time": "02:00",
-      "episode_description": "Exibição de podcasts brasileiros líderes de audiência nas plataformas digitais, que abordam temas variados, de cultura e entretenimento a questões sociais."
+      "episode_description": "Acompanhe uma série de vídeos curiosos da internet que aconteceram no Brasil e no mundo."
     },
     {
       "show_name": "SBT Notícias",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_sbt-noticias_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-noticias_l_m.jpg",
       "show_category": "News",
       "start_time": "02:00",
       "end_time": "05:00",
@@ -28,179 +28,99 @@
     },
     {
       "show_name": "SBT Notícias",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_sbt-noticias_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-noticias_l_m.jpg",
       "show_category": "News",
       "start_time": "05:00",
-      "end_time": "06:00",
+      "end_time": "05:00",
       "episode_description": "Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia."
     },
     {
-      "show_name": "Sábado Animado",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_sabado-animado-1_l_m.webp",
-      "show_category": "Children",
-      "start_time": "06:00",
-      "end_time": "08:30",
-      "episode_description": "O programa apresenta desenhos animados, atrações e jogos divertidos que contam com a participação do público de casa."
+      "show_name": "SBT Notícias",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-noticias_l_m.jpg",
+      "show_category": "News",
+      "start_time": "05:00",
+      "end_time": "07:00",
+      "episode_description": "Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia."
     },
     {
-      "show_name": "Vozes do Cooperativismo",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_vozes-do-cooperativismo_l_m.webp",
-      "show_category": "Bus./financial",
+      "show_name": "Pé na Estrada",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pe-na-estrada-2008_l_m.jpg",
+      "show_category": "Travel",
+      "start_time": "07:00",
+      "end_time": "07:30",
+      "episode_description": "O melhor do turismo paranaense, com aventuras, esportes radicais e locais encantadores."
+    },
+    {
+      "show_name": "SBT Sports",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_news-sbt-sports_l_m.jpg",
+      "show_category": "",
+      "start_time": "07:30",
+      "end_time": "08:30",
+      "episode_description": "Os principais acontecimentos das competições esportivas mais importantes do Brasil e do mundo, com análises dos jogos e comentários de especialistas."
+    },
+    {
+      "show_name": "Show do Motor",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_show-do-motor_l_m.jpg",
+      "show_category": "Auto",
       "start_time": "08:30",
       "end_time": "09:00",
-      "episode_description": "Programa divulga histórias do cooperativismo do Estado do Ceará, com entrevistas, debates e casos de sucesso do setor que movimenta sete bilhões de reais por ano."
+      "episode_description": "Atração voltada ao universo dos carros e novidades do mercado automotivo."
     },
     {
-      "show_name": "Inovação e Negócios",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_inovac-o-e-negocios_l_m.webp",
-      "show_category": "Bus./financial",
+      "show_name": "Totolec Show",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_totolec-show_l_m.jpg",
+      "show_category": "Game show",
       "start_time": "09:00",
-      "end_time": "09:30",
-      "episode_description": "O economista Daniel Demétrio recebe convidados e discute tudo sobre inovação e negócios."
+      "end_time": "10:00",
+      "episode_description": "Confira os resultados do concurso de prognósticos administrado pela Loteria do estado do Ceará."
     },
     {
-      "show_name": "Sábado Animado",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_sabado-animado-1_l_m.webp",
-      "show_category": "Children",
-      "start_time": "09:30",
-      "end_time": "11:00",
-      "episode_description": "O programa apresenta desenhos animados, atrações e jogos divertidos que contam com a participação do público de casa."
+      "show_name": "Carros e Consórcios",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_carros-e-consorcios_l_m.jpg",
+      "show_category": "Consumer",
+      "start_time": "10:00",
+      "end_time": "10:30",
+      "episode_description": "Confira ofertas de carros com a facilidade e credibilidade das grandes concessionárias."
     },
     {
-      "show_name": "SBT Notícias - 1ª Edição",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_sbt-noticias-1-edic-o_l_m.webp",
-      "show_category": "News",
-      "start_time": "11:00",
-      "end_time": "12:00",
-      "episode_description": "Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia."
-    },
-    {
-      "show_name": "Loteria dos Sonhos",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_loteria-dos-sonhos_l_m.webp",
-      "show_category": "Game show",
-      "start_time": "12:00",
-      "end_time": "12:05",
-      "episode_description": "Todos os resultados da Loteria Estadual do Ceará."
-    },
-    {
-      "show_name": "Futebolês",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_sports-talk-futeboles_l_m.webp",
-      "show_category": "",
-      "start_time": "12:05",
-      "end_time": "12:35",
-      "episode_description": "Acompanhe a melhor cobertura sobre a Copa do Nordeste e a Copa do Mundo de futebol de 2018."
-    },
-    {
-      "show_name": "Alto Astral",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_alto-astral-1_l_m.webp",
+      "show_name": "Acontece na TV",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_acontece-na-tv_l_m.jpg",
       "show_category": "Entertainment",
-      "start_time": "12:35",
-      "end_time": "13:05",
-      "episode_description": "A apresentadora Teresa D'Ávila conversa sobre diferentes temas no programa."
+      "start_time": "10:30",
+      "end_time": "11:00",
+      "episode_description": "Fique por dentro dos melhores eventos e dos temas da atualidade."
     },
     {
-      "show_name": "Todo Mundo Ama",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_todo-mundo-ama_l_m.webp",
-      "show_category": "Variety",
-      "start_time": "13:05",
-      "end_time": "13:55",
-      "episode_description": "O programa traz personagens curiosos, dicas de saúde e beleza, comunidade, famosos e boas histórias."
-    },
-    {
-      "show_name": "Loteria dos Sonhos",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_loteria-dos-sonhos_l_m.webp",
+      "show_name": "Sorteio da Tele Sena",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sorteio-da-tele-sena-1_l_m.jpg",
       "show_category": "Game show",
-      "start_time": "13:55",
-      "end_time": "14:00",
-      "episode_description": "Todos os resultados da Loteria Estadual do Ceará."
+      "start_time": "11:00",
+      "end_time": "11:15",
+      "episode_description": "A Tele Sena é um título de capitalização que dá prêmios em dinheiro. Os consumidores podem adquirir sua Tele Sena em casas lotéricas ou agências dos correios."
     },
     {
-      "show_name": "SBT Notícias - 1ª Edição",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_sbt-noticias-1-edic-o_l_m.webp",
-      "show_category": "News",
-      "start_time": "14:00",
-      "end_time": "14:45",
-      "episode_description": "Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia."
-    },
-    {
-      "show_name": "Eita Lucas!",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_eita-lucas_l_m.webp",
-      "show_category": "Travel",
-      "start_time": "14:45",
-      "end_time": "15:45",
-      "episode_description": "Lucas Guimarães viaja por todo o Brasil conhecendo pessoas e contando suas histórias de vida e distribuindo prêmios por onde passa. Ele também bate um papo com celebridades em uma grande e divertida mistura."
-    },
-    {
-      "show_name": "Casos de Família",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_casos-de-familia-1_l_m.webp",
-      "show_category": "Talk",
-      "start_time": "15:45",
-      "end_time": "16:45",
-      "episode_description": "Conflitos que acontecem entre parentes, vizinhos e até no ambiente de trabalho são abordados e resolvidos diante de uma plateia, com uma psicóloga como supervisora."
-    },
-    {
-      "show_name": "Vovó... Zona",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_vovo-zona-2000-1_l_m.webp",
-      "show_category": "Comedy / 2000",
-      "start_time": "16:45",
+      "show_name": "Domingo Legal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_domingo-legal-1_l_m.jpg",
+      "show_category": "Variety",
+      "start_time": "11:15",
       "end_time": "18:15",
-      "episode_description": "Agente durão do FBI chega ao extremo para ficar na pista de um ladrão violento que fugiu da prisão. Enquanto se disfarça de avó obesa com uma língua afiada, ele é forçado a usar todas as suas habilidades, desde cozinhar a cuidar de crianças."
+      "episode_description": "Programa de auditório com músicas, celebridades, notícias e reportagens, comandado pelo apresentador Celso Portiolli."
     },
     {
-      "show_name": "SBT Notícias - 2ª Edição",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_sbt-noticias-2-edic-o_l_m.webp",
-      "show_category": "News",
+      "show_name": "Roda a Roda Jequiti",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_roda-a-roda-jequiti-1_l_m.jpg",
+      "show_category": "Game show",
       "start_time": "18:15",
       "end_time": "19:05",
-      "episode_description": "Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia."
+      "episode_description": "Um programa único que possibilita aos participantes concorrerem a prêmios especiais em barras de ouro."
     },
     {
-      "show_name": "Entretantos",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_entretantos_l_m.webp",
-      "show_category": "Interview",
-      "start_time": "19:05",
-      "end_time": "19:25",
-      "episode_description": "Entretanto apresenta entrevistas, opiniões e informação sobre política e cultura no Ceará. O programa conta com apresentadores alternados: Nonato Albuquerque e Iury Costa abordam política e atualidades, enquanto Bosco Barroso recebe personalidades."
-    },
-    {
-      "show_name": "Loteria dos Sonhos",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_loteria-dos-sonhos_l_m.webp",
-      "show_category": "Game show",
-      "start_time": "19:25",
-      "end_time": "19:30",
-      "episode_description": "Todos os resultados da Loteria Estadual do Ceará."
-    },
-    {
-      "show_name": "Presente de Amor",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_presente-de-amor_l_m.webp",
-      "show_category": "Soap",
-      "start_time": "19:30",
-      "end_time": "20:30",
-      "episode_description": "Isabella é uma mulher cujo maior sonho é ser mãe. Após a morte repentina do marido, ela conhece Eugenio, um homem generoso. Suas vidas tomam um rumo dramático quando um ser angelical aparece, dando-lhes a oportunidade de se tornarem pais."
-    },
-    {
-      "show_name": "SBT Brasil",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_sbt-brasil_l_m.webp",
-      "show_category": "News",
-      "start_time": "20:30",
-      "end_time": "21:30",
-      "episode_description": "As principais notícias do Brasil e do mundo com análise profunda dos fatos."
-    },
-    {
-      "show_name": "Esquadrão da Moda",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_esquadr-o-da-moda_l_m.webp",
-      "show_category": "Fashion",
-      "start_time": "21:30",
-      "end_time": "22:30",
-      "episode_description": "Mulheres consideradas sem estilo são indicadas por amigos e familiares para participar do programa. Uma equipe de especialistas ensina como se vestir bem e, principalmente, o que não usar."
-    },
-    {
-      "show_name": "Sabadou com Virginia",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-jangadeiro/today/br_sabadou-com-virginia_l_m.webp",
+      "show_name": "Programa Silvio Santos com Patrícia Abravanel",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_programa-silvio-santos-com-patricia-abravanel-1_l_m.jpg",
       "show_category": "Variety",
-      "start_time": "22:30",
+      "start_time": "19:05",
       "end_time": "00:00",
-      "episode_description": "Convidados das mais diversas áreas chegam para encontro repletos de games, musicais, boas histórias e muita interação com a plateia e o público de casa."
+      "episode_description": "Patricia Abravanel comanda um divertido programa, interagindo com o público e levando muita alegria para toda a família nas tardes dos domingos."
     }
   ]
 }

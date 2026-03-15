@@ -3,132 +3,140 @@
   "date": "16/03/2026",
   "schedule": [
     {
-      "show_name": "Bola da Vez",
-      "show_logo": "/wp-content/uploads/downloaded-images/espn/tomorrow/br_bola-da-vez_l_m.webp",
-      "show_category": "Sports talk",
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-sportscenter_l_m.jpg",
+      "show_category": "",
       "start_time": "00:00",
       "end_time": "01:00",
-      "episode_description": "Grandes personalidades do esporte nacional e internacional são colocadas no \"paredão\" e respondem às perguntas de uma bancada de entrevistadores formada por jornalistas, ex-atletas ou especialistas em geral."
-    },
-    {
-      "show_name": "Real Madrid x Elche CF",
-      "show_logo": "/wp-content/uploads/downloaded-images/espn/tomorrow/br_soccer-real-madrid-x-elche-cf_l_m.webp",
-      "show_category": "Campeonato Espanhol",
-      "start_time": "01:00",
-      "end_time": "03:00",
-      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
-    },
-    {
-      "show_name": "Clássicos ESPN",
-      "show_logo": "/wp-content/uploads/downloaded-images/espn/tomorrow/br_documentary-classicos-espn_l_m.webp",
-      "show_category": "",
-      "start_time": "03:00",
-      "end_time": "03:30",
-      "episode_description": "O programa resgata conteúdo histórico dos arquivos da ESPN no Brasil e reconta a trajetória de grandes expoentes do esporte através de produções antigas do canal."
-    },
-    {
-      "show_name": "Internazionale x Atalanta",
-      "show_logo": "/wp-content/uploads/downloaded-images/espn/tomorrow/br_soccer-internazionale-x-atalanta_l_m.webp",
-      "show_category": "Campeonato Italiano",
-      "start_time": "03:30",
-      "end_time": "05:30",
-      "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
-    },
-    {
-      "show_name": "SportsCenter",
-      "show_logo": "/wp-content/uploads/downloaded-images/espn/tomorrow/br_soccer-sportscenter_l_m.webp",
-      "show_category": "",
-      "start_time": "05:30",
-      "end_time": "05:30",
       "episode_description": "Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abdicar do bom humor."
-    },
-    {
-      "show_name": "SportsCenter",
-      "show_logo": "/wp-content/uploads/downloaded-images/espn/tomorrow/br_soccer-sportscenter_l_m.webp",
-      "show_category": "",
-      "start_time": "05:30",
-      "end_time": "07:00",
-      "episode_description": "Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abdicar do bom humor."
-    },
-    {
-      "show_name": "Chelsea x Newcastle United",
-      "show_logo": "/wp-content/uploads/downloaded-images/espn/tomorrow/br_soccer-chelsea-x-newcastle-united-1_l_m.webp",
-      "show_category": "Campeonato Inglês",
-      "start_time": "07:00",
-      "end_time": "08:55",
-      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
-    },
-    {
-      "show_name": "London City Lionesses x Arsenal",
-      "show_logo": "/wp-content/uploads/downloaded-images/espn/tomorrow/br_soccer-london-city-lionesses-x-arsenal_l_m.webp",
-      "show_category": "Campeonato Inglês Feminino",
-      "start_time": "08:55",
-      "end_time": "10:55",
-      "episode_description": "Todas as emoções da principal competição de futebol feminino entre clubes da Inglaterra."
-    },
-    {
-      "show_name": "Nottingham Forest x Fulham",
-      "show_logo": "/wp-content/uploads/downloaded-images/espn/tomorrow/br_soccer-nottingham-forest-x-fulham-1_l_m.webp",
-      "show_category": "Campeonato Inglês",
-      "start_time": "10:55",
-      "end_time": "13:00",
-      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
-    },
-    {
-      "show_name": "SportsCenter Abre o Jogo",
-      "show_logo": "/wp-content/uploads/downloaded-images/espn/tomorrow/br_sports-talk-sportscenter-abre-o-jogo_l_m.webp",
-      "show_category": "",
-      "start_time": "13:00",
-      "end_time": "13:20",
-      "episode_description": "Destaques e preparativos para a partida válida pela maior liga de basquete profissional do mundo."
-    },
-    {
-      "show_name": "Liverpool x Tottenham Hotspur",
-      "show_logo": "/wp-content/uploads/downloaded-images/espn/tomorrow/br_soccer-liverpool-x-tottenham-hotspur_l_m.webp",
-      "show_category": "Campeonato Inglês",
-      "start_time": "13:20",
-      "end_time": "15:30",
-      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
     },
     {
       "show_name": "Resenha ESPN",
-      "show_logo": "/wp-content/uploads/downloaded-images/espn/tomorrow/br_resenha-espn_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_resenha-espn_l_m.jpg",
       "show_category": "Sports talk",
-      "start_time": "15:30",
-      "end_time": "16:30",
+      "start_time": "01:00",
+      "end_time": "02:00",
       "episode_description": "Atletas da atualidade e do passado participam de bate-papo descontraído e cheio de boas histórias."
     },
     {
-      "show_name": "Lazio x Milan",
-      "show_logo": "/wp-content/uploads/downloaded-images/espn/tomorrow/br_soccer-lazio-x-milan_l_m.webp",
-      "show_category": "Campeonato Italiano",
-      "start_time": "16:30",
-      "end_time": "18:45",
-      "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
-    },
-    {
-      "show_name": "Equipe F",
-      "show_logo": "/wp-content/uploads/downloaded-images/espn/tomorrow/br_soccer-equipe-f_l_m.webp",
-      "show_category": "",
-      "start_time": "18:45",
-      "end_time": "20:30",
-      "episode_description": "Especialistas comentam os principais acontecimentos notícia no futebol brasileiro."
-    },
-    {
-      "show_name": "Barcelona x Sevilla",
-      "show_logo": "/wp-content/uploads/downloaded-images/espn/tomorrow/br_soccer-barcelona-x-sevilla_l_m.webp",
+      "show_name": "Atlético de Madrid x Getafe",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-atletico-de-madrid-x-getafe_l_m.jpg",
       "show_category": "Campeonato Espanhol",
-      "start_time": "20:30",
-      "end_time": "22:30",
+      "start_time": "02:00",
+      "end_time": "04:00",
       "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
     },
     {
-      "show_name": "Linha de Passe: Mesa-Redonda",
-      "show_logo": "/wp-content/uploads/downloaded-images/espn/tomorrow/br_sports-talk-linha-de-passe-mesa-redonda_l_m.webp",
+      "show_name": "Show da Rodada de La Liga",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-de-la-liga_l_m.jpg",
       "show_category": "",
-      "start_time": "22:30",
-      "end_time": "",
+      "start_time": "04:00",
+      "end_time": "04:30",
+      "episode_description": ".Todos os gols e os principais lances da rodada de La Liga, primeira divisão do Campeonato Espanhol."
+    },
+    {
+      "show_name": "Lazio x Milan",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-lazio-x-milan_l_m.jpg",
+      "show_category": "Campeonato Italiano",
+      "start_time": "04:30",
+      "end_time": "04:30",
+      "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
+    },
+    {
+      "show_name": "Lazio x Milan",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-lazio-x-milan_l_m.jpg",
+      "show_category": "Campeonato Italiano",
+      "start_time": "04:30",
+      "end_time": "06:30",
+      "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
+    },
+    {
+      "show_name": "Linha de Passe: Mesa-Redonda",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sports-talk-linha-de-passe-mesa-redonda_l_m.jpg",
+      "show_category": "",
+      "start_time": "06:30",
+      "end_time": "08:00",
       "episode_description": "Comentaristas esportivos conceituados entram em campo para uma análise completa da rodada do futebol ao estilo \"mesa redonda\", com debates acalorados e comentários de qualidade, sempre a partir de um olhar crítico e da imparcialidade."
+    },
+    {
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-sportscenter_l_m.jpg",
+      "show_category": "",
+      "start_time": "08:00",
+      "end_time": "09:00",
+      "episode_description": "Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abdicar do bom humor."
+    },
+    {
+      "show_name": "Liverpool x Tottenham Hotspur",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-liverpool-x-tottenham-hotspur_l_m.jpg",
+      "show_category": "Campeonato Inglês",
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
+    },
+    {
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-sportscenter_l_m.jpg",
+      "show_category": "",
+      "start_time": "11:00",
+      "end_time": "13:00",
+      "episode_description": "Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abdicar do bom humor."
+    },
+    {
+      "show_name": "F Show",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-f-show_l_m.jpg",
+      "show_category": "",
+      "start_time": "13:00",
+      "end_time": "15:00",
+      "episode_description": "O programa debate os principais acontecimentos do mundo do futebol de forma acalorada porém inteligente, mesclando jornalismo, opinião e entretenimento."
+    },
+    {
+      "show_name": "Mundo F",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-mundo-f_l_m.jpg",
+      "show_category": "",
+      "start_time": "15:00",
+      "end_time": "16:30",
+      "episode_description": "Os principais assuntos que são notícia no futebol internacional abordados com linguagem contemporânea; grandes temas, clubes e personagens são destacados por especialistas que trazem informação e opinião."
+    },
+    {
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-sportscenter_l_m.jpg",
+      "show_category": "",
+      "start_time": "16:30",
+      "end_time": "17:30",
+      "episode_description": "Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abdicar do bom humor."
+    },
+    {
+      "show_name": "Equipe F",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-equipe-f_l_m.jpg",
+      "show_category": "",
+      "start_time": "17:30",
+      "end_time": "20:00",
+      "episode_description": "Especialistas comentam os principais acontecimentos notícia no futebol brasileiro."
+    },
+    {
+      "show_name": "SportsCenter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-sportscenter_l_m.jpg",
+      "show_category": "",
+      "start_time": "20:00",
+      "end_time": "22:00",
+      "episode_description": "Os principais fatos do mundo esportivo, com as imagens que marcaram o dia, temas fundamentais e polêmicos. Informação apurada e opinião transparente, sem abdicar do bom humor."
+    },
+    {
+      "show_name": "Linha de Passe: Mesa-Redonda",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sports-talk-linha-de-passe-mesa-redonda_l_m.jpg",
+      "show_category": "",
+      "start_time": "22:00",
+      "end_time": "23:00",
+      "episode_description": "Comentaristas esportivos conceituados entram em campo para uma análise completa da rodada do futebol ao estilo \"mesa redonda\", com debates acalorados e comentários de qualidade, sempre a partir de um olhar crítico e da imparcialidade."
+    },
+    {
+      "show_name": "Resenha ESPN",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_resenha-espn_l_m.jpg",
+      "show_category": "Sports talk",
+      "start_time": "23:00",
+      "end_time": "",
+      "episode_description": "Atletas da atualidade e do passado participam de bate-papo descontraído e cheio de boas histórias."
     }
   ]
 }

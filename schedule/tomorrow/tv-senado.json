@@ -4,7 +4,7 @@
   "schedule": [
     {
       "show_name": "Contraplano",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_contraplano_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_contraplano_l_m.jpg",
       "show_category": "Debate",
       "start_time": "00:00",
       "end_time": "01:00",
@@ -12,87 +12,71 @@
     },
     {
       "show_name": "Espaço Cultural",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_espaco-cultural-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_espaco-cultural-1_l_m.jpg",
       "show_category": "Music",
       "start_time": "01:00",
       "end_time": "02:00",
       "episode_description": "O programa apresenta diversos eventos culturais como teatro, música e outras formas de expressão do povo brasileiro."
     },
     {
-      "show_name": "Quando Elas se Movimentam",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_quando-elas-se-movimentam-2024_l_m.webp",
-      "show_category": "Documentary / 2024",
+      "show_name": "Rolê - Histórias dos Rolezinhos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_role-historias-dos-rolezinhos-2021_l_m.jpg",
+      "show_category": "Documentary / 2021",
       "start_time": "02:00",
       "end_time": "03:25",
+      "episode_description": "O documentário analisa os ecos entre diferentes contextos e práticas de resistência política e subjetiva, endereçando a abissal desigualdade social e racial que se atualiza diariamente no país."
+    },
+    {
+      "show_name": "A Última Abolição",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-ultima-abolic-o-2018_l_m.jpg",
+      "show_category": "Documentary / 2018",
+      "start_time": "03:25",
+      "end_time": "04:52",
+      "episode_description": "O documentário aborda a escravidão no Brasil com especial enfoque no período da abolição, destacando os movimentos abolicionistas, seus aliados e inimigos."
+    },
+    {
+      "show_name": "Quando Elas se Movimentam",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quando-elas-se-movimentam-2024_l_m.jpg",
+      "show_category": "Documentary / 2024",
+      "start_time": "04:52",
+      "end_time": "04:52",
+      "episode_description": "Três personagens de diferentes regiões que manifestam e corporificam a conquista dos direitos da população brasileira, viabilizados e garantidos pelas leis aprovadas pelo senado federal."
+    },
+    {
+      "show_name": "Quando Elas se Movimentam",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_quando-elas-se-movimentam-2024_l_m.jpg",
+      "show_category": "Documentary / 2024",
+      "start_time": "04:52",
+      "end_time": "06:16",
       "episode_description": "Três personagens de diferentes regiões que manifestam e corporificam a conquista dos direitos da população brasileira, viabilizados e garantidos pelas leis aprovadas pelo senado federal."
     },
     {
       "show_name": "Palavra de Mulher",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_palavra-de-mulher-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_palavra-de-mulher-1_l_m.jpg",
       "show_category": "Special",
-      "start_time": "03:25",
-      "end_time": "04:08",
+      "start_time": "06:16",
+      "end_time": "07:00",
       "episode_description": "Conheça as histórias de 26 mulheres que integraram a Assembleia Constituinte de 1988 e ajudaram a garantir a igualdade de direitos perante a lei."
     },
     {
-      "show_name": "Lugar de Mulher É na Política",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_lugar-de-mulher-e-na-politica_l_m.webp",
-      "show_category": "Special",
-      "start_time": "04:08",
-      "end_time": "04:38",
-      "episode_description": "O parlamento brasileiro tem só cerca de dez por cento das cadeiras ocupadas por mulheres. Por meio de entrevistas com deputadas e senadoras, conheça a realidade da participação feminina no Poder Legislativo."
-    },
-    {
-      "show_name": "A Dupla Jornada",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_a-dupla-jornada-1976_l_m.webp",
-      "show_category": "Documentary / 1976",
-      "start_time": "04:38",
-      "end_time": "05:33",
-      "episode_description": "Filmado em fábricas no México e na Argentina, e em minas na Bolívia e Venezuela, o filme examina as condições da mão de obra feminina como força de trabalho na América Latina."
-    },
-    {
-      "show_name": "Senado, a História que Transformou o Brasil",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_senado-a-historia-que-transformou-o-brasil_l_m.webp",
-      "show_category": "Documentary",
-      "start_time": "05:33",
-      "end_time": "05:33",
-      "episode_description": "Senado é palco de disputas históricas pela igualdade de gênero. Mesmo sendo minoria, mulheres conquistam direitos importantes."
-    },
-    {
-      "show_name": "Senado, a História que Transformou o Brasil",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_senado-a-historia-que-transformou-o-brasil_l_m.webp",
-      "show_category": "Documentary",
-      "start_time": "05:33",
-      "end_time": "06:30",
-      "episode_description": "Senado é palco de disputas históricas pela igualdade de gênero. Mesmo sendo minoria, mulheres conquistam direitos importantes."
-    },
-    {
-      "show_name": "Quem me Representa?",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_quem-me-representa_l_m.webp",
-      "show_category": "Special",
-      "start_time": "06:30",
-      "end_time": "07:00",
-      "episode_description": "Uma discussão sobre representatividade de eleitores, movimentos sociais e organizações no Congresso."
-    },
-    {
-      "show_name": "Boto Fé",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_boto-fe-s01e07-santo-daime_l_m.webp",
-      "show_category": "Temporada 1 Episódio 7 - Santo Daime",
+      "show_name": "Deu Bola",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_deu-bola_l_m.jpg",
+      "show_category": "Soccer",
       "start_time": "07:00",
       "end_time": "07:30",
-      "episode_description": "Nascido no interior da floresta amazônica, o Santo Daime hoje é uma religião praticada em vários países. A servidora pública Silvana Marques conta como a doutrina baseada nos poderes da bebida Ayahuasca entrou na sua vida há mais de 20 anos."
+      "episode_description": "Uma investigação sobre o que é a fisiologia, que se preocupa em entender como o organismo funciona, e como ela pode ajudar os atletas do futebol."
     },
     {
-      "show_name": "Super Libris",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_super-libris_l_m.webp",
-      "show_category": "Educational",
+      "show_name": "Parlamento Brasil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_parlamento-brasil_l_m.jpg",
+      "show_category": "Politics",
       "start_time": "07:30",
       "end_time": "08:00",
-      "episode_description": "O programa entrevista o escritor, cineasta, tradutor e roteirista gaúcho Tabajara Ruas, autor de \"Os Varões Assinalados\" e \"Netto Perde Sua Alma\"."
+      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
     },
     {
       "show_name": "Cidadania",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_cidadania_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidadania_l_m.jpg",
       "show_category": "Interview",
       "start_time": "08:00",
       "end_time": "08:30",
@@ -100,187 +84,67 @@
     },
     {
       "show_name": "Senado Notícias",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_senado-noticias_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_senado-noticias_l_m.jpg",
       "show_category": "Politics",
       "start_time": "08:30",
       "end_time": "09:00",
       "episode_description": "Acompanhe as últimas notícias do Senado, entre as transmissões ao vivo das reuniões das comissões, do plenário e os programas de grade da emissora."
     },
     {
-      "show_name": "EcoSenado",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_ecosenado-1_l_m.webp",
-      "show_category": "Environment",
+      "show_name": "Reunião de Comissão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_reuni-o-de-comiss-o_l_m.jpg",
+      "show_category": "Politics",
       "start_time": "09:00",
-      "end_time": "09:30",
-      "episode_description": "Assuntos relevantes e impactam o meio ambiente com participação de especialistas, políticos, biólogos e lideranças comunitárias."
-    },
-    {
-      "show_name": "Que Brasil É Este?",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_que-brasil-e-este_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "09:30",
-      "end_time": "10:00",
-      "episode_description": "No ano do Bicentenário da Independência do Brasil, uma série de entrevistas com personalidades."
-    },
-    {
-      "show_name": "Concertos em Geral",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_concertos-em-geral_l_m.webp",
-      "show_category": "Music",
-      "start_time": "10:00",
-      "end_time": "11:00",
-      "episode_description": "Interpretações de grandes obras da música clássica universal, com informações e curiosidades sobre os instrumentos, a vida e a obra dos compositores."
-    },
-    {
-      "show_name": "Espaço Cultural",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_espaco-cultural-1_l_m.webp",
-      "show_category": "Music",
-      "start_time": "11:00",
-      "end_time": "12:00",
-      "episode_description": "O programa apresenta diversos eventos culturais como teatro, música e outras formas de expressão do povo brasileiro."
-    },
-    {
-      "show_name": "Parlamento Brasil",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_parlamento-brasil_l_m.webp",
-      "show_category": "Politics",
-      "start_time": "12:00",
-      "end_time": "12:30",
-      "episode_description": "O programa aborda diversos temas nacionais de grande repercussão no cotidiano dos cidadãos brasileiros."
-    },
-    {
-      "show_name": "Em Discussão",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_em-discuss-o-2_l_m.webp",
-      "show_category": "Educational",
-      "start_time": "12:30",
-      "end_time": "13:00",
-      "episode_description": "As principais discussões realizadas nas audiências públicas promovidas pelo Senado."
-    },
-    {
-      "show_name": "EcoSenado",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_ecosenado-1_l_m.webp",
-      "show_category": "Environment",
-      "start_time": "13:00",
       "end_time": "13:30",
-      "episode_description": "Assuntos relevantes e impactam o meio ambiente com participação de especialistas, políticos, biólogos e lideranças comunitárias."
+      "episode_description": "Acompanhe as comissões do Senado Federal no Congresso Nacional do Brasil."
     },
     {
-      "show_name": "Que Brasil É Este?",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_que-brasil-e-este_l_m.webp",
+      "show_name": "Senado Notícias",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_senado-noticias_l_m.jpg",
       "show_category": "Politics",
       "start_time": "13:30",
       "end_time": "14:00",
-      "episode_description": "No ano do Bicentenário da Independência do Brasil, uma série de entrevistas com personalidades."
+      "episode_description": "Acompanhe as últimas notícias do Senado, entre as transmissões ao vivo das reuniões das comissões, do plenário e os programas de grade da emissora."
     },
     {
-      "show_name": "Galáxias - Olhares Sobre o Brasil",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_galaxias-olhares-sobre-o-brasil_l_m.webp",
-      "show_category": "Educational",
+      "show_name": "Sessão Plenária",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sess-o-plenaria-1_l_m.jpg",
+      "show_category": "Politics",
       "start_time": "14:00",
-      "end_time": "14:30",
-      "episode_description": "Assista a bate papos sobre temas da sociedade brasileira contemporânea, com reflexões a respeito dos aspectos importantes da vida do país."
-    },
-    {
-      "show_name": "Leituras",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_leituras_l_m.webp",
-      "show_category": "Art",
-      "start_time": "14:30",
-      "end_time": "15:00",
-      "episode_description": "Análise e divulgação da literatura brasileira. Entrevistas com escritores e análises de obras literárias, com espaço para todas as correntes criativas."
-    },
-    {
-      "show_name": "Espaço Cultural",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_espaco-cultural-1_l_m.webp",
-      "show_category": "Music",
-      "start_time": "15:00",
-      "end_time": "16:00",
-      "episode_description": "O programa apresenta diversos eventos culturais como teatro, música e outras formas de expressão do povo brasileiro."
-    },
-    {
-      "show_name": "Habitar/Habitat",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_habitar-habitat_l_m.webp",
-      "show_category": "Documentary",
-      "start_time": "16:00",
-      "end_time": "17:00",
-      "episode_description": "O programa mostra o cotidiano dos militares em três faróis brasileiros: Farol Cabo Frio, na Ilha de Cabo Frio, Rio de Janeiro; Farol de São Tomé, Campo de Goytacazes, Rio de Janeiro e Farol de Abrolhos, Ilha de Santa Bárbara, Bahia."
-    },
-    {
-      "show_name": "EcoSenado",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_ecosenado-1_l_m.webp",
-      "show_category": "Environment",
-      "start_time": "17:00",
-      "end_time": "17:30",
-      "episode_description": "Assuntos relevantes e impactam o meio ambiente com participação de especialistas, políticos, biólogos e lideranças comunitárias."
-    },
-    {
-      "show_name": "Deu Bola",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_deu-bola_l_m.webp",
-      "show_category": "Soccer",
-      "start_time": "17:30",
-      "end_time": "18:00",
-      "episode_description": "Uma investigação sobre o que é a fisiologia, que se preocupa em entender como o organismo funciona, e como ela pode ajudar os atletas do futebol."
-    },
-    {
-      "show_name": "Concertos em Geral",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_concertos-em-geral_l_m.webp",
-      "show_category": "Music",
-      "start_time": "18:00",
-      "end_time": "19:00",
-      "episode_description": "Interpretações de grandes obras da música clássica universal, com informações e curiosidades sobre os instrumentos, a vida e a obra dos compositores."
-    },
-    {
-      "show_name": "Leituras",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_leituras_l_m.webp",
-      "show_category": "Art",
-      "start_time": "19:00",
       "end_time": "19:30",
-      "episode_description": "Análise e divulgação da literatura brasileira. Entrevistas com escritores e análises de obras literárias, com espaço para todas as correntes criativas."
+      "episode_description": "Transmissão das discussões e votações do Plenário e das comissões, dando maior transparência à rede de elaboração das leis que regem o dia-a-dia da sociedade."
     },
     {
-      "show_name": "Deu Bola",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_deu-bola_l_m.webp",
-      "show_category": "Soccer",
+      "show_name": "Senado Notícias",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_senado-noticias_l_m.jpg",
+      "show_category": "Politics",
       "start_time": "19:30",
       "end_time": "20:00",
-      "episode_description": "Uma investigação sobre o que é a fisiologia, que se preocupa em entender como o organismo funciona, e como ela pode ajudar os atletas do futebol."
+      "episode_description": "Acompanhe as últimas notícias do Senado, entre as transmissões ao vivo das reuniões das comissões, do plenário e os programas de grade da emissora."
     },
     {
-      "show_name": "Espaço Cultural",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_espaco-cultural-1_l_m.webp",
-      "show_category": "Music",
+      "show_name": "Assunto de Estado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_assunto-de-estado_l_m.jpg",
+      "show_category": "Politics",
       "start_time": "20:00",
+      "end_time": "20:30",
+      "episode_description": "Espaço para que senadores comentem questões regionais e locais e preste contas aos eleitores."
+    },
+    {
+      "show_name": "Em Discussão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_em-discuss-o-2_l_m.jpg",
+      "show_category": "Educational",
+      "start_time": "20:30",
       "end_time": "21:00",
-      "episode_description": "O programa apresenta diversos eventos culturais como teatro, música e outras formas de expressão do povo brasileiro."
+      "episode_description": "As principais discussões realizadas nas audiências públicas promovidas pelo Senado."
     },
     {
-      "show_name": "A Dupla Jornada",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_a-dupla-jornada-1976_l_m.webp",
-      "show_category": "Documentary / 1976",
+      "show_name": "Reunião de Comissão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_reuni-o-de-comiss-o_l_m.jpg",
+      "show_category": "Politics",
       "start_time": "21:00",
-      "end_time": "21:58",
-      "episode_description": "Filmado em fábricas no México e na Argentina, e em minas na Bolívia e Venezuela, o filme examina as condições da mão de obra feminina como força de trabalho na América Latina."
-    },
-    {
-      "show_name": "Senado, a História que Transformou o Brasil",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_senado-a-historia-que-transformou-o-brasil_l_m.webp",
-      "show_category": "Documentary",
-      "start_time": "21:58",
-      "end_time": "22:55",
-      "episode_description": "Senado é palco de disputas históricas pela igualdade de gênero. Mesmo sendo minoria, mulheres conquistam direitos importantes."
-    },
-    {
-      "show_name": "Quem me Representa?",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_quem-me-representa_l_m.webp",
-      "show_category": "Special",
-      "start_time": "22:55",
-      "end_time": "23:25",
-      "episode_description": "Uma discussão sobre representatividade de eleitores, movimentos sociais e organizações no Congresso."
-    },
-    {
-      "show_name": "Tela Brasil",
-      "show_logo": "/wp-content/uploads/downloaded-images/tv-senado/tomorrow/br_tela-brasil_l_m.webp",
-      "show_category": "Documentary",
-      "start_time": "23:25",
       "end_time": "",
-      "episode_description": "O programa mostra o folclore, artes, músicas e religiões do Brasil."
+      "episode_description": "Acompanhe as comissões do Senado Federal no Congresso Nacional do Brasil."
     }
   ]
 }

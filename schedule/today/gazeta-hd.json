@@ -3,24 +3,16 @@
   "date": "15/03/2026",
   "schedule": [
     {
-      "show_name": "Gazeta Esportiva",
-      "show_logo": "/wp-content/uploads/downloaded-images/gazeta-hd/today/br_debate-gazeta-esportiva_l_m.webp",
-      "show_category": "",
+      "show_name": "Gazeta Shopping",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_gazeta-shopping_l_m.jpg",
+      "show_category": "Consumer",
       "start_time": "02:00",
-      "end_time": "03:00",
-      "episode_description": "Notícias e opiniões de quem mais entende, em conjunto com seu dia a dia, disponibilizando ao telespectador, em primeira mão, as principais novidades do esporte."
-    },
-    {
-      "show_name": "Jornal da Gazeta",
-      "show_logo": "/wp-content/uploads/downloaded-images/gazeta-hd/today/br_jornal-da-gazeta_l_m.webp",
-      "show_category": "News",
-      "start_time": "03:00",
       "end_time": "04:00",
-      "episode_description": "O programa apresenta as principais notícias do dia, reportagens exclusivas e análises feitas por uma equipe de comentaristas especializados em política, economia, sustentabilidade e cultura."
+      "episode_description": "Acompanhe ofertas e lançamentos em diversos segmentos do mercado."
     },
     {
       "show_name": "Gazeta Shopping",
-      "show_logo": "/wp-content/uploads/downloaded-images/gazeta-hd/today/br_gazeta-shopping_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_gazeta-shopping_l_m.jpg",
       "show_category": "Consumer",
       "start_time": "04:00",
       "end_time": "06:00",
@@ -28,75 +20,83 @@
     },
     {
       "show_name": "Igreja Universal do Reino de Deus",
-      "show_logo": "/wp-content/uploads/downloaded-images/gazeta-hd/today/br_igreja-universal-do-reino-de-deus-1_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_igreja-universal-do-reino-de-deus-1_l_m.jpg",
       "show_category": "Religious",
       "start_time": "06:00",
       "end_time": "08:00",
       "episode_description": "Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus."
     },
     {
-      "show_name": "Gazeta Motors",
-      "show_logo": "/wp-content/uploads/downloaded-images/gazeta-hd/today/br_gazeta-motors_l_m.webp",
-      "show_category": "Auto",
-      "start_time": "08:00",
-      "end_time": "09:00",
-      "episode_description": "O programa tem o objetivo de criar uma conexão objetiva entre o consumidor e o empreendedor."
-    },
-    {
       "show_name": "Gazeta Shopping",
-      "show_logo": "/wp-content/uploads/downloaded-images/gazeta-hd/today/br_gazeta-shopping_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_gazeta-shopping_l_m.jpg",
       "show_category": "Consumer",
-      "start_time": "09:00",
+      "start_time": "08:00",
       "end_time": "11:00",
       "episode_description": "Acompanhe ofertas e lançamentos em diversos segmentos do mercado."
     },
     {
-      "show_name": "Gazeta Imóveis",
-      "show_logo": "/wp-content/uploads/downloaded-images/gazeta-hd/today/br_gazeta-imoveis_l_m.webp",
-      "show_category": "Shopping",
+      "show_name": "Gazeta Motors",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_gazeta-motors_l_m.jpg",
+      "show_category": "Auto",
       "start_time": "11:00",
       "end_time": "12:00",
+      "episode_description": "O programa tem o objetivo de criar uma conexão objetiva entre o consumidor e o empreendedor."
+    },
+    {
+      "show_name": "Gazeta Imóveis",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_gazeta-imoveis_l_m.jpg",
+      "show_category": "Shopping",
+      "start_time": "12:00",
+      "end_time": "13:00",
       "episode_description": "O programa oferece informações sobre o mercado imobiliário e estabelece uma comunicação entre o empreendedor e o consumidor."
     },
     {
+      "show_name": "TCR South America",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_auto-racing-tcr-south-america_l_m.jpg",
+      "show_category": "TCR South America",
+      "start_time": "13:00",
+      "end_time": "14:00",
+      "episode_description": "Acompanhe as emoções do campeonato sul-americano de velocidade com carros de turismo."
+    },
+    {
       "show_name": "Gazeta Motors",
-      "show_logo": "/wp-content/uploads/downloaded-images/gazeta-hd/today/br_gazeta-motors_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_gazeta-motors_l_m.jpg",
       "show_category": "Auto",
-      "start_time": "12:00",
-      "end_time": "13:00",
+      "start_time": "14:00",
+      "end_time": "16:00",
       "episode_description": "O programa tem o objetivo de criar uma conexão objetiva entre o consumidor e o empreendedor."
     },
     {
       "show_name": "O Melhor do Mulheres",
-      "show_logo": "/wp-content/uploads/downloaded-images/gazeta-hd/today/br_o-melhor-do-mulheres_l_m.webp",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-melhor-do-mulheres_l_m.jpg",
       "show_category": "Variety",
-      "start_time": "13:00",
-      "end_time": "17:00",
+      "start_time": "16:00",
+      "end_time": "20:30",
       "episode_description": "Reprise dos melhores momentos do \"Mulheres\", programa da TV Gazeta."
     },
     {
-      "show_name": "Gazeta Motors",
-      "show_logo": "/wp-content/uploads/downloaded-images/gazeta-hd/today/br_gazeta-motors_l_m.webp",
-      "show_category": "Auto",
-      "start_time": "17:00",
-      "end_time": "18:00",
-      "episode_description": "O programa tem o objetivo de criar uma conexão objetiva entre o consumidor e o empreendedor."
+      "show_name": "Programa Seguro",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_programa-seguro_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "20:30",
+      "end_time": "21:00",
+      "episode_description": "Muitas Informações claras, simples e objetivas, por meio de entrevistas e respostas aos telespectadores, explicam ao consumidor a importância e a necessidade de contratar esse tipo de serviço."
     },
     {
-      "show_name": "Gazeta Shopping",
-      "show_logo": "/wp-content/uploads/downloaded-images/gazeta-hd/today/br_gazeta-shopping_l_m.webp",
-      "show_category": "Consumer",
-      "start_time": "18:00",
-      "end_time": "20:00",
-      "episode_description": "Acompanhe ofertas e lançamentos em diversos segmentos do mercado."
+      "show_name": "Mesa Redonda",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_debate-mesa-redonda_l_m.jpg",
+      "show_category": "",
+      "start_time": "21:00",
+      "end_time": "23:00",
+      "episode_description": "O programa leva ao telespectador informações sobre os gols da rodada, bastidores, lances polêmicos e a análise crítica do jogo."
     },
     {
-      "show_name": "Igreja Universal do Reino de Deus",
-      "show_logo": "/wp-content/uploads/downloaded-images/gazeta-hd/today/br_igreja-universal-do-reino-de-deus-1_l_m.webp",
-      "show_category": "Religious",
-      "start_time": "20:00",
-      "end_time": "02:00",
-      "episode_description": "Acompanhe momentos de fé proporcionados pela Igreja Universal do Reino de Deus."
+      "show_name": "TCR South America",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_auto-racing-tcr-south-america_l_m.jpg",
+      "show_category": "TCR South America",
+      "start_time": "23:00",
+      "end_time": "00:00",
+      "episode_description": "Acompanhe as emoções do campeonato sul-americano de velocidade com carros de turismo."
     }
   ]
 }
