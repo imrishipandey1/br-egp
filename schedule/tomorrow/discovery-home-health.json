@@ -1,44 +1,60 @@
 {
   "channel": "Discovery Home & Health",
-  "date": "15/03/2026",
+  "date": "16/03/2026",
   "schedule": [
+    {
+      "show_name": "Reformando com Estilo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_reformando-com-estilo-s05e05-voce-gosta-de-mim_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 5 - Você Gosta de Mim?",
+      "start_time": "00:15",
+      "end_time": "01:06",
+      "episode_description": "Alison assume o papel de terapeuta para um casal em conflito que quer dobrar o tamanho de sua casa. Ela projeta uma cozinha enorme, uma suíte com um closet invejável e um quarto novo para a filha do casal."
+    },
+    {
+      "show_name": "Cozinha dos Sonhos com John e Anthony",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cozinha-dos-sonhos-com-john-e-anthony-s02e04-guerreiros-de-fim-de-semana_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 4 - Guerreiros de Fim de Semana",
+      "start_time": "01:06",
+      "end_time": "01:31",
+      "episode_description": "Uma reforma tem um desfecho desastroso e deixa Lynn mais de oito meses sem cozinha. Ela consegue preparar três refeições por dia para seu filho de oito anos, mas precisa da ajuda de Anthony Carrino e John Colaneri para solucionar o problema."
+    },
     {
       "show_name": "Cozinha dos Sonhos com John e Anthony",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_cozinha-dos-sonhos-com-john-e-anthony-s02e03-surpresa-na-toscana_l_m.jpg",
       "show_category": "Temporada 2 Episódio 3 - Surpresa na Toscana",
-      "start_time": "00:13",
-      "end_time": "00:35",
+      "start_time": "01:31",
+      "end_time": "01:54",
       "episode_description": "Uma mulher tem lembranças doces de quando seu pai preparava pratos italianos em sua cozinha na Toscana durante sua infância. John e Anthony, com a ajuda de Beth Stern, criam o projeto de uma nova cozinha."
     },
     {
       "show_name": "100 Dias para Morar - Começando do Zero",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_100-dias-para-morar-comecando-do-zero_l_m.jpg",
       "show_category": "Home improvement",
-      "start_time": "00:35",
-      "end_time": "01:22",
+      "start_time": "01:54",
+      "end_time": "02:42",
       "episode_description": "Brian e Mika, um casal de noivos, toma a sua primeira decisão importante em 90 dias ou menos."
     },
     {
       "show_name": "Irmãos à Obra - Lar Sempre Lar",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_irm-os-a-obra-lar-sempre-lar-s07e02_l_m.jpg",
       "show_category": "Temporada 7 Episódio 2 - Retorno às Origens",
-      "start_time": "01:22",
-      "end_time": "02:10",
+      "start_time": "02:42",
+      "end_time": "03:31",
       "episode_description": "Após se conhecerem na casa de sua infância há 20 anos, namorados do ensino médio agora estão casados e se mudando para a mesma casa; Jonathan e Drew ajudam a transformar a cozinha e as principais áreas de lazer."
     },
     {
       "show_name": "90 Dias - Tô na Caça!",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_90-dias-to-na-caca-s01e14-confiss-es_l_m.jpg",
       "show_category": "Temporada 1 Episódio 14 - Confissões",
-      "start_time": "02:10",
-      "end_time": "03:48",
+      "start_time": "03:31",
+      "end_time": "05:12",
       "episode_description": "O elenco se reúne em Nova York para contar o que realmente aconteceu em Tulum e o que rolou depois."
     },
     {
       "show_name": "90 Dias na Cama - Tô na Caça!",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_90-dias-na-cama-to-na-caca-s01e14-confiss-es_l_m.jpg",
       "show_category": "Temporada 1 Episódio 14 - Confissões",
-      "start_time": "03:48",
+      "start_time": "05:12",
       "end_time": "06:00",
       "episode_description": "Alguns dos solteiros favoritos do público festejam enquanto reagem aos momentos mais loucos."
     },
@@ -47,144 +63,152 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_reformas-incriveis-s04e02_l_m.jpg",
       "show_category": "Temporada 4 Episódio 2 - Vaga para Festa",
       "start_time": "06:00",
-      "end_time": "06:26",
+      "end_time": "06:23",
       "episode_description": "Depois do nascimento dos dois filhos, um casal se vê sem espaço na casa para aproveitar o tempo livre. Então a garagem vazia se torna o local de festa dos adultos."
     },
     {
       "show_name": "Salvando Reformas com Jasmine Roth",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_salvando-reformas-com-jasmine-roth-s03e03-n-o-ha-angulos-certos_l_m.jpg",
       "show_category": "Temporada 3 Episódio 3 - Não Há Ângulos Certos",
-      "start_time": "06:26",
-      "end_time": "07:14",
+      "start_time": "06:23",
+      "end_time": "07:11",
       "episode_description": "Confiantes por terem reformado um chalé, o casal vê sua esperança acabar quando assume um projeto mais complicado. Jasmine precisa tentar encaixar o estilo praiano eclético deles em uma cozinha e sala de estar funcionais."
     },
     {
       "show_name": "Salvando Reformas com Jasmine Roth",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_salvando-reformas-com-jasmine-roth-s03e04-um-assunto-de-familia_l_m.jpg",
       "show_category": "Temporada 3 Episódio 4 - Um Assunto de Família",
-      "start_time": "07:14",
-      "end_time": "08:02",
+      "start_time": "07:11",
+      "end_time": "07:59",
       "episode_description": "Depois de perder 75 mil dólares com um empreiteiro desonesto, um casal quer reformar a casa de infância dela. Jasmine precisa restaurar a fé e o espaço apertado com um banheiro luxuoso, sala multifuncional e sala de jantar."
     },
     {
       "show_name": "Restaurando Casas com Dave e Jenny",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_restaurando-casas-com-dave-e-jenny-s04e13-casal-da-california-ganha-casa-dos-sonhos_l_m.jpg",
       "show_category": "Temporada 4 Episódio 13 - Casal da Califórnia Ganha Casa dos Sonhos",
-      "start_time": "08:02",
-      "end_time": "08:52",
+      "start_time": "07:59",
+      "end_time": "08:47",
       "episode_description": "Uma família da Califórnia vai para o Arkansas, mas a casa precisa ser reformada antes de se mudarem. Dave e Jenny transformam o imóvel antigo na casa dos sonhos, no estilo californiano e com um espaço exclusivo para crianças."
     },
     {
       "show_name": "Restaurando Casas com Dave e Jenny",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_restaurando-casas-com-dave-e-jenny-s04e14_l_m.jpg",
       "show_category": "Temporada 4 Episódio 14 - Casa Excêntrica Ganha Transformação Moderna",
-      "start_time": "08:52",
-      "end_time": "09:36",
+      "start_time": "08:47",
+      "end_time": "09:31",
       "episode_description": "Um casal de Seattle se muda para Bentonville para trabalhar, e sua nova casa tem um interior bizarro e excêntrico que não combina com seu estilo pessoal; Dave e Jenny procuram transformar o espaço com elementos de design aconchegantes."
     },
     {
       "show_name": "Gordon Ramsay - Serviço Secreto",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_gordon-ramsay-servico-secreto-s01e04-macgregor-s_l_m.jpg",
       "show_category": "Temporada 1 Episódio 4 - MacGregor's",
-      "start_time": "09:36",
-      "end_time": "10:24",
+      "start_time": "09:31",
+      "end_time": "10:17",
       "episode_description": "Gordon precisa orquestrar um novo começo para o dono de um restaurante especializado em peixes na Baía de Chesapeake."
     },
     {
       "show_name": "Gordon Ramsay - Do Inferno ao Paraíso em 24h",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_gordon-ramsay-do-inferno-ao-paraiso-em-24h-s01e04-sherman_l_m.jpg",
       "show_category": "Temporada 1 Episódio 4 - Sherman",
-      "start_time": "10:24",
-      "end_time": "11:11",
+      "start_time": "10:17",
+      "end_time": "11:04",
       "episode_description": "Em Greenville, no Mississippi, Gordon tem apenas 24 horas para dar a Sherman's, um estabelecimento familiar, um interior refinado e um menu modernizado."
     },
     {
       "show_name": "Pesadelo na Cozinha",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_pesadelo-na-cozinha-s05e04-bar-do-pio-s-o-paulo-sp_l_m.jpg",
       "show_category": "Temporada 5 Episódio 4 - Bar do Pio - São Paulo/SP",
-      "start_time": "11:11",
-      "end_time": "12:51",
+      "start_time": "11:04",
+      "end_time": "12:34",
       "episode_description": "No Bar do Pio, Eleni vive em conflito com o filho, e a crise familiar vira crise no salão. Jacquin tenta reorganizar a casa."
     },
     {
       "show_name": "S.O.S. Restaurante",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_s-o-s-restaurante-s22e05-lideranca-inspirada_l_m.jpg",
       "show_category": "Temporada 22 Episódio 5 - Liderança Inspirada",
-      "start_time": "12:51",
-      "end_time": "13:42",
+      "start_time": "12:34",
+      "end_time": "13:22",
       "episode_description": "Maurice tem orgulho de seu restaurante, mas sua falta de liderança e incapacidade de inspirar sua equipe ameaçam destruir o negócio. Se Robert não conseguir ensiná-lo a liderar com eficácia, seu negócio não sobreviverá."
     },
     {
       "show_name": "Reforma em Família com Karen e Mina",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_reforma-em-familia-com-karen-e-mina-s07e01-chale-vintage_l_m.jpg",
       "show_category": "Temporada 7 Episódio 1 - Chalé Vintage",
-      "start_time": "13:42",
-      "end_time": "14:34",
+      "start_time": "13:22",
+      "end_time": "14:10",
       "episode_description": "Mina e Karen reformam uma casa pitoresca com jeito de chalé. Para revender o imóvel com lucro, elas precisam descobrir como adicionar detalhes atraentes sem que o imóvel perca seu charme vintage."
     },
     {
       "show_name": "Reformando com Estilo",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_reformando-com-estilo-s03e08-luxo-suburbano_l_m.jpg",
       "show_category": "Temporada 3 Episódio 8 - Luxo Suburbano",
-      "start_time": "14:34",
-      "end_time": "15:26",
+      "start_time": "14:10",
+      "end_time": "14:58",
       "episode_description": "Alison ajuda uma família de Chicago a entender códigos de construção e a driblar a falta de materiais; ela transforma uma casa antiquada no subúrbio em uma residência invejável."
     },
     {
       "show_name": "Irmãos à Obra - Compra e Venda",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_irm-os-a-obra-compra-e-venda-s07e15_l_m.jpg",
       "show_category": "Temporada 7 Episódio 15 - Julie e Jason",
-      "start_time": "15:26",
-      "end_time": "16:18",
+      "start_time": "14:58",
+      "end_time": "15:46",
       "episode_description": "Julie, Jason e seus filhos não querem se mudar, mas o novo zoneamento escolar os obriga a encontrar um novo lar a poucas ruas da casa atual e em apenas alguns meses."
     },
     {
       "show_name": "Dr. Now - Diários de Peso",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_dr-now-diarios-de-peso-s01e01-a-historia-de-chelsey_l_m.jpg",
       "show_category": "Temporada 1 Episódio 1 - A História de Chelsey",
-      "start_time": "16:18",
-      "end_time": "18:00",
+      "start_time": "15:46",
+      "end_time": "17:19",
       "episode_description": "Chelsey evitou o programa do Dr. Now desde a infância. Aos 25 anos, quer deixar um lar doentio e precisa provar que está pronta para mudar."
     },
     {
       "show_name": "Operação Transplante",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_operac-o-transplante-s01e01-amor-compativel_l_m.jpg",
       "show_category": "Temporada 1 Episódio 1 - Amor Compatível",
-      "start_time": "18:00",
-      "end_time": "19:00",
+      "start_time": "17:19",
+      "end_time": "18:11",
       "episode_description": "Uma equipe luta para encontrar um fígado para salvar um paciente com cirrose e médicos precisam comprovar a compatibilidade entre um casal."
     },
     {
       "show_name": "90 Dias para Casar - Felizes para Sempre?",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_90-dias-para-casar-felizes-para-sempre-s09e11-ninguem-coloca-o-bebe-num-canto_l_m.jpg",
       "show_category": "Temporada 9 Episódio 11 - Ninguém Coloca o Bebê num Canto",
-      "start_time": "19:00",
-      "end_time": "20:40",
+      "start_time": "18:11",
+      "end_time": "19:47",
       "episode_description": "Kara e Guillermo tomam uma decisão final sobre o relacionamento; Jasmine revela a Gino que uma grande mudança está por vir."
     },
     {
       "show_name": "90 Dias para Casar - Felizes para Sempre?",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_90-dias-para-casar-felizes-para-sempre-1_l_m.jpg",
       "show_category": "Reality",
-      "start_time": "20:40",
-      "end_time": "21:30",
+      "start_time": "19:47",
+      "end_time": "20:34",
       "episode_description": "Como estão os casais que participaram das temporadas anteriores de \"90 Dias para Casar\"."
     },
     {
       "show_name": "90 Dias para Casar - Felizes para Sempre?",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_90-dias-para-casar-felizes-para-sempre-s09e12-mamma-mia-la-vamos-nos-de-novo_l_m.jpg",
       "show_category": "Temporada 9 Episódio 12 - Mamma Mia! Lá Vamos Nós de Novo",
-      "start_time": "21:30",
-      "end_time": "23:12",
+      "start_time": "20:34",
+      "end_time": "22:09",
       "episode_description": "Brandon e Julia tomam uma decisão, para desgosto de Ron e Betty; Matt e Jasmine descobrem o sexo do bebê."
     },
     {
       "show_name": "90 Dias para Casar - Felizes para Sempre?",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_90-dias-para-casar-felizes-para-sempre-1_l_m.jpg",
       "show_category": "Reality",
-      "start_time": "23:12",
-      "end_time": "",
+      "start_time": "22:09",
+      "end_time": "22:56",
       "episode_description": "Como estão os casais que participaram das temporadas anteriores de \"90 Dias para Casar\"."
+    },
+    {
+      "show_name": "Pesadelo na Cozinha",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pesadelo-na-cozinha-s05e04-bar-do-pio-s-o-paulo-sp_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 4 - Bar do Pio - São Paulo/SP",
+      "start_time": "22:56",
+      "end_time": "",
+      "episode_description": "No Bar do Pio, Eleni vive em conflito com o filho, e a crise familiar vira crise no salão. Jacquin tenta reorganizar a casa."
     }
   ]
 }

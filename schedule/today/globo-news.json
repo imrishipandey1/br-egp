@@ -1,6 +1,6 @@
 {
   "channel": "Globo News",
-  "date": "14/03/2026",
+  "date": "15/03/2026",
   "schedule": [
     {
       "show_name": "Jornal GloboNews - Edição da Meia-Noite",
@@ -55,8 +55,16 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-globonews-edic-o-das-7-horas-1_l_m.jpg",
       "show_category": "News",
       "start_time": "07:00",
-      "end_time": "08:00",
+      "end_time": "07:30",
       "episode_description": "Acompanhe os principais fatos que acontecem no Brasil e no Mundo."
+    },
+    {
+      "show_name": "GloboNews Especial",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_globonews-especial_l_m.jpg",
+      "show_category": "Public affairs",
+      "start_time": "07:30",
+      "end_time": "08:00",
+      "episode_description": "O programa analisa questões que em um primeiro momento podem parecer desconexas, mas que têm em comum o fato de ajudar a entender melhor o mundo atual e a formar opinião."
     },
     {
       "show_name": "Jornal GloboNews - Edição das 8 Horas",
@@ -147,12 +155,12 @@
       "episode_description": "Aline Midlej e um time de comentaristas apresentam e analisam os bastidores das notícias."
     },
     {
-      "show_name": "GloboNews Documentário",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_globonews-documentario_l_m.jpg",
-      "show_category": "Documentary",
+      "show_name": "GloboNews Documento",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_globonews-documento_l_m.jpg",
+      "show_category": "News",
       "start_time": "23:00",
       "end_time": "00:30",
-      "episode_description": "O objetivo do programa é fortalecer o mercado audiovisual brasileiro, aproximando o público dos documentários de qualidade realizados no país."
+      "episode_description": "Confira reportagens polêmicas sobre fatos sociais, políticos e históricos que movem o mundo."
     }
   ]
 }

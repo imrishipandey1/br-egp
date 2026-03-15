@@ -1,6 +1,6 @@
 {
   "channel": "Globo News",
-  "date": "15/03/2026",
+  "date": "16/03/2026",
   "schedule": [
     {
       "show_name": "Jornal GloboNews - Edição da Meia-Noite",
@@ -27,20 +27,28 @@
       "episode_description": "André Trigueiro abre espaço para as experiências que transformam para melhor a vida das pessoas e das cidades, com uso inteligente e sustentável dos recursos naturais."
     },
     {
-      "show_name": "Jornal GloboNews - Edição das 3 Horas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-globonews-edic-o-das-3-horas-1_l_m.jpg",
-      "show_category": "News",
+      "show_name": "GloboNews Especial",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_globonews-especial_l_m.jpg",
+      "show_category": "Public affairs",
       "start_time": "03:00",
-      "end_time": "04:30",
-      "episode_description": "Acompanhe os principais fatos que acontecem no Brasil e no Mundo."
+      "end_time": "03:30",
+      "episode_description": "O programa analisa questões que em um primeiro momento podem parecer desconexas, mas que têm em comum o fato de ajudar a entender melhor o mundo atual e a formar opinião."
     },
     {
       "show_name": "Liderança S/A",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_lideranca-s-a-s03e50_l_m.jpg",
       "show_category": "Temporada 3 Episódio 50",
-      "start_time": "04:30",
-      "end_time": "05:00",
+      "start_time": "03:30",
+      "end_time": "04:00",
       "episode_description": "Presidentes de empresas e CEOs compartilham experiências, dificuldades e aprendizados sobre liderança. E contam como chegaram ao maior cargo da empresa."
+    },
+    {
+      "show_name": "GloboNews Documento",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_globonews-documento_l_m.jpg",
+      "show_category": "News",
+      "start_time": "04:00",
+      "end_time": "05:00",
+      "episode_description": "Confira reportagens polêmicas sobre fatos sociais, políticos e históricos que movem o mundo."
     },
     {
       "show_name": "Jornal das Dez",
@@ -120,37 +128,37 @@
       "show_category": "Bus./financial",
       "start_time": "14:20",
       "end_time": "15:00",
-      "episode_description": "Informações e reportagens de grande interesse para empreendedores, pequenos e médios empresários."
+      "episode_description": "Da criatividade à solução: o \"PEGN\" apresenta empreendedores que reinventam seus negócios com experiência e inovação. São histórias que unem arte, reciclagem, ciência e comunidade para transformar desafios em oportunidades."
     },
     {
       "show_name": "Jornal GloboNews - Edição das 15 Horas",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-globonews-edic-o-das-15-horas-1_l_m.jpg",
       "show_category": "News",
       "start_time": "15:00",
-      "end_time": "18:00",
+      "end_time": "17:00",
       "episode_description": "Acompanhe os principais fatos que acontecem no Brasil e no mundo."
     },
     {
       "show_name": "Jornal GloboNews - Edição das 18 Horas",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-globonews-edic-o-das-18-horas-1_l_m.jpg",
       "show_category": "News",
-      "start_time": "18:00",
-      "end_time": "19:30",
+      "start_time": "17:00",
+      "end_time": "17:30",
       "episode_description": "Natuza Nery apresenta a cobertura completa de tudo o que foi destaque ao longo do dia, no Brasil e no mundo, e um time de comentaristas analisa os principais acontecimentos do momento."
     },
     {
       "show_name": "GloboNews Internacional",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_globonews-internacional_l_m.jpg",
       "show_category": "Interview",
-      "start_time": "19:30",
-      "end_time": "20:00",
+      "start_time": "17:30",
+      "end_time": "18:00",
       "episode_description": "Guga Chacra, Marcelo Lins e um time de convidados colocam em perspectiva o que é notícia no mundo e os temas de grande impacto internacional."
     },
     {
       "show_name": "Jornal GloboNews - Edição das 18 Horas",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-globonews-edic-o-das-18-horas-1_l_m.jpg",
       "show_category": "News",
-      "start_time": "20:00",
+      "start_time": "18:00",
       "end_time": "22:00",
       "episode_description": "Natuza Nery apresenta a cobertura completa de tudo o que foi destaque ao longo do dia, no Brasil e no mundo, e um time de comentaristas analisa os principais acontecimentos do momento."
     },
@@ -159,24 +167,8 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-das-dez-1_l_m.jpg",
       "show_category": "News",
       "start_time": "22:00",
-      "end_time": "23:05",
-      "episode_description": "Aline Midlej e um time de comentaristas apresentam e analisam os bastidores das notícias."
-    },
-    {
-      "show_name": "Liderança S/A",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lideranca-s-a-s03e50_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 50",
-      "start_time": "23:05",
-      "end_time": "23:35",
-      "episode_description": "Presidentes de empresas e CEOs compartilham experiências, dificuldades e aprendizados sobre liderança. E contam como chegaram ao maior cargo da empresa."
-    },
-    {
-      "show_name": "Fantástico",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_fantastico_l_m.jpg",
-      "show_category": "Newsmagazine",
-      "start_time": "23:35",
       "end_time": "",
-      "episode_description": "Em forma de revista eletrônica, o programa mistura jornalismo, denúncia, esporte, humor, dramaturgia, música e ciência."
+      "episode_description": "Aline Midlej e um time de comentaristas apresentam e analisam os bastidores das notícias."
     }
   ]
 }
