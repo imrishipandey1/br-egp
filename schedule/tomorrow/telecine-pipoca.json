@@ -1,110 +1,118 @@
 {
   "channel": "Telecine Pipoca",
-  "date": "16/03/2026",
+  "date": "17/03/2026",
   "schedule": [
+    {
+      "show_name": "Meninas Malvadas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_meninas-malvadas-2024_l_m.jpg",
+      "show_category": "Musical comedy / 2024",
+      "start_time": "00:10",
+      "end_time": "02:05",
+      "episode_description": "Uma nova estudante é recebida no topo da cadeia social por um grupo de elite de garotas populares chamadas as Plásticas. No entanto, quando ela comete o erro de se apaixonar pelo ex-namorado da rainha do grupo, ela se vê na mira delas."
+    },
+    {
+      "show_name": "Um Maluco no Golfe",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_um-maluco-no-golfe-1996-1_l_m.jpg",
+      "show_category": "Comedy / 1996",
+      "start_time": "02:05",
+      "end_time": "03:45",
+      "episode_description": "Happy Gilmore quer ser um jogador profissional de hóquei, mas acaba descobrindo que tem um talento muito especial para jogar golfe. O satírico e desbocado atleta acaba ganhando dinheiro suficiente para poder ajudar a sua avó, que está prestes a perder a casa por falta de pagamento de impostos. O problema é que esse maluco se torna um herói improvável para o esporte, o que desagrada bastante os golfistas, tão educados e elegantes."
+    },
+    {
+      "show_name": "Cães de Guerra",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_c-es-de-guerra-2024_l_m.jpg",
+      "show_category": "Action / 2024",
+      "start_time": "03:45",
+      "end_time": "05:30",
+      "episode_description": "Após uma missão dar errado, apenas um mercenário de um grupo sobrevive para vingar seus irmãos. Enfrentando perigos e traições, ele precisa lutar até o fim para buscar justiça e se redimir."
+    },
     {
       "show_name": "Shrek",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_shrek-2001_l_m.jpg",
       "show_category": "Children / 2001 /7.9",
-      "start_time": "01:20",
-      "end_time": "02:50",
+      "start_time": "05:30",
+      "end_time": "05:30",
       "episode_description": "Um ogro tem sua vida invadida por personagens de contos de fadas que acabam com a tranquilidade de seu lar. Ele faz um acordo para resgatar uma princesa."
+    },
+    {
+      "show_name": "Shrek",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_shrek-2001_l_m.jpg",
+      "show_category": "Children / 2001 /7.9",
+      "start_time": "05:30",
+      "end_time": "07:05",
+      "episode_description": "Um ogro tem sua vida invadida por personagens de contos de fadas que acabam com a tranquilidade de seu lar. Ele faz um acordo para resgatar uma princesa."
+    },
+    {
+      "show_name": "De Volta para o Futuro",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_de-volta-para-o-futuro-1985-1_l_m.jpg",
+      "show_category": "Comedy / 1985",
+      "start_time": "07:05",
+      "end_time": "09:05",
+      "episode_description": "O adolescente Marty McFly é transportado para o ano de 1955 quando uma experiência do excêntrico cientista Doc Brown é malsucedida. Marty viaja pelo tempo em um carro modificado e acaba conhecendo seus pais ainda jovens. O problema é que ele pode deixar de existir porque interferiu na rotina dos pais, que correm o risco de não se apaixonarem mais. Para complicar ainda mais a situação, Marty precisa voltar para casa a tempo de salvar o cientista."
+    },
+    {
+      "show_name": "Loucas pra Casar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_loucas-pra-casar-2015-1_l_m.jpg",
+      "show_category": "Comedy / 2015 /6.0",
+      "start_time": "09:05",
+      "end_time": "11:00",
+      "episode_description": "Perto do dia de seus casamentos, três mulheres descobrem que estão noivas do mesmo homem. Agora, precisam decidir se vão brigar por ele ou se juntar em uma vingança."
+    },
+    {
+      "show_name": "Júnior",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_junior-1994-1_l_m.jpg",
+      "show_category": "Comedy / 1994",
+      "start_time": "11:00",
+      "end_time": "13:00",
+      "episode_description": "Dois cientistas estão em busca de uma nova droga para evitar o aborto espontâneo de embriões implantados. Ao desenvolvê-la, decidem experimentá-la em um deles, e a consequência é a primeira gravidez masculina."
+    },
+    {
+      "show_name": "Crepúsculo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_crepusculo-2008_l_m.jpg",
+      "show_category": "Romance / 2008 /5.2",
+      "start_time": "13:00",
+      "end_time": "15:10",
+      "episode_description": "A estudante Bella Swan conhece Edward Cullen, um belo, mas misterioso adolescente. Edward é um vampiro, cuja família não bebe sangue, e Bella, longe de ficar assustada, se envolve em um romance perigoso com sua alma gêmea imortal."
+    },
+    {
+      "show_name": "Um Maluco no Golfe",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_um-maluco-no-golfe-1996-1_l_m.jpg",
+      "show_category": "Comedy / 1996",
+      "start_time": "15:10",
+      "end_time": "16:50",
+      "episode_description": "Happy Gilmore quer ser um jogador profissional de hóquei, mas acaba descobrindo que tem um talento muito especial para jogar golfe. O satírico e desbocado atleta acaba ganhando dinheiro suficiente para poder ajudar a sua avó, que está prestes a perder a casa por falta de pagamento de impostos. O problema é que esse maluco se torna um herói improvável para o esporte, o que desagrada bastante os golfistas, tão educados e elegantes."
     },
     {
       "show_name": "Pânico no Lago - Projeto Anaconda",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_panico-no-lago-projeto-anaconda-2015-1_l_m.jpg",
       "show_category": "Horror / 2015",
-      "start_time": "02:50",
-      "end_time": "04:30",
+      "start_time": "16:50",
+      "end_time": "18:30",
       "episode_description": "Anacondas grandes o bastante para esmagar um carro utilitário. Crocodilos fortes o bastante para pularem em lanchas. Quando não estão atrás de presas humanas, estão dispostos a atacar mutuamente."
     },
     {
-      "show_name": "The Last Samurai",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-last-samurai-2003_l_m.jpg",
-      "show_category": "Adventure / 2003 /7.8",
-      "start_time": "04:30",
-      "end_time": "04:30",
-      "episode_description": "O soldado Nathan Algren deixa os Estados Unidos rumo ao Japão feudal. Na tentativa de derrotar um comandante, é capturado. Algren sabe o destino de prisioneiros inimigos, mas fica surpreso ao ser poupado e se sente atraído pelo estilo de vida dos samurais, entre outras coisas."
-    },
-    {
-      "show_name": "The Last Samurai",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-last-samurai-2003_l_m.jpg",
-      "show_category": "Adventure / 2003 /7.8",
-      "start_time": "04:30",
-      "end_time": "07:05",
-      "episode_description": "O soldado Nathan Algren deixa os Estados Unidos rumo ao Japão feudal. Na tentativa de derrotar um comandante, é capturado. Algren sabe o destino de prisioneiros inimigos, mas fica surpreso ao ser poupado e se sente atraído pelo estilo de vida dos samurais, entre outras coisas."
-    },
-    {
-      "show_name": "Viagem das Garotas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_viagem-das-garotas-2017_l_m.jpg",
-      "show_category": "Comedy / 2017",
-      "start_time": "07:05",
-      "end_time": "09:15",
-      "episode_description": "Quatro amigas de longa data viajam para New Orleans para o Essence Festival, onde irmandades são retomadas, lados selvagens são redescobertos, e há muita dança, bebida e romance."
-    },
-    {
-      "show_name": "Bridget Jones - No Limite da Razão",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_bridget-jones-no-limite-da-raz-o-2004-1_l_m.jpg",
-      "show_category": "Romantic comedy / 2004",
-      "start_time": "09:15",
-      "end_time": "11:10",
-      "episode_description": "Bridget se sente confusa e vê a felicidade com Mark ameaçada quando seu ex-chefe volta a assediá-la, e uma atraente advogada passa a ser a nova colega de trabalho de seu namorado."
-    },
-    {
-      "show_name": "Riquinho",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_riquinho-1994_l_m.jpg",
-      "show_category": "Children / 1994",
-      "start_time": "11:10",
-      "end_time": "12:55",
-      "episode_description": "Riquinho Rico é o menino mais rico do mundo, mas, apesar de ser amado por seus pais, ele não é totalmente feliz, pois não tem muitos amigos. Quando seus pais desaparecem, após o avião deles cair, Riquinho suspeita que um executivo das Indústrias Rico seja o responsável pelo acidente, já que planeja assumir o controle de todas as empresas Rico. Porém, com a ajuda de seu fiel mordomo e de alguns amigos, Riquinho tem um plano para combater o maléfico esquema do executivo e salvar seus pais."
-    },
-    {
-      "show_name": "Roubo do Cão",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_roubo-do-c-o-2025_l_m.jpg",
-      "show_category": "Comedy / 2025",
-      "start_time": "12:55",
-      "end_time": "14:15",
-      "episode_description": "Luciana e a chihuahua Rita Lee são melhores amigas. Após a cadelinha virar uma celebridade, Luciana precisará enfrentar bandidos atrapalhados contratados para roubá-la."
-    },
-    {
-      "show_name": "Dupla Explosiva",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_dupla-explosiva-2017_l_m.jpg",
-      "show_category": "Action / 2017",
-      "start_time": "14:15",
-      "end_time": "16:20",
-      "episode_description": "Michael, um guarda-costas de elite, e Darius, um assassino de aluguel, se odeiam há anos. Quando Darius vira testemunha da Corte Internacional de Justiça, Michael tem que proteger seu desafeto."
-    },
-    {
-      "show_name": "Van Helsing - O Caçador de Monstros",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_van-helsing-o-cacador-de-monstros-2004-2_l_m.jpg",
-      "show_category": "Fantasy / 2004",
-      "start_time": "16:20",
-      "end_time": "18:30",
-      "episode_description": "O famoso monstro e assassino Gabriel Van Helsing é mandado para a Transilvânia para ajudar o último da linhagem dos Valerious em derrotar o Conde Drácula. Anna Valerious conta que Drácula formou uma aliança profana com o monstro do Dr. Frankenstein e está impondo uma maldição sobre sua família. Anna e Van Helsing estão determinados a destruir seu inimigo em comum, mas descobrem alguns segredos perturbadores ao longo do caminho."
-    },
-    {
-      "show_name": "Arranha-Céu - Coragem sem Limite",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_arranha-ceu-coragem-sem-limite-2018_l_m.jpg",
-      "show_category": "Action / 2018",
+      "show_name": "Vitória",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vitoria-2025_l_m.jpg",
+      "show_category": "Crime drama / 2025",
       "start_time": "18:30",
-      "end_time": "20:15",
-      "episode_description": "Will Sawyer, veterano de guerra norte-americano e ex-líder de operações de resgate do FBI, trabalha avaliando a segurança de arranha-céus. Na China, ele é acusado de ter colocado o edifício mais alto e seguro de Hong Kong em chamas. Agora, o ex-agente precisa encontrar os culpados pelo incêndio, salvar sua família que está presa dentro do prédio e limpar seu nome."
+      "end_time": "20:30",
+      "episode_description": "Vitória é uma senhora solitária que, aflita com a violência que passa a tomar conta da sua vizinhança, começa a filmar da janela de seu apartamento. A idosa registra a movimentação de traficantes de drogas da região durante meses, com a intenção de cooperar com o trabalho da polícia. A atitude consegue chamar a atenção de um jornalista, que faz amizade com Vitória e tenta ajudá-la nessa missão."
     },
     {
-      "show_name": "Os Mercenários 4",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-mercenarios-4-2023_l_m.jpg",
-      "show_category": "Action / 2023",
-      "start_time": "20:15",
+      "show_name": "O Roubo de 88",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-roubo-de-88-2023_l_m.jpg",
+      "show_category": "Crime drama / 2023",
+      "start_time": "20:30",
       "end_time": "22:00",
-      "episode_description": "A equipe enfrenta um traficante de armas que comanda um enorme exército privado. Munidos com todas as armas inimagináveis, os Mercenários são a última linha de defesa do mundo."
+      "episode_description": "Um gênio do crime decide fazer um último trabalho antes de ir para a prisão e recruta um grupo de funcionários de um banco para roubar US$ 80 milhões em um ataque ousado ao sistema bancário Americano."
     },
     {
-      "show_name": "Mad Max - Estrada da Fúria",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_mad-max-estrada-da-furia-2015_l_m.jpg",
-      "show_category": "Action / 2015",
+      "show_name": "John Wick 4: Baba Yaga",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_john-wick-4-baba-yaga-2023_l_m.jpg",
+      "show_category": "Action / 2023",
       "start_time": "22:00",
       "end_time": "",
-      "episode_description": "Em um mundo pós-apocalíptico, Max Rockatansky acredita que a melhor forma de sobreviver é não depender de ninguém. Porém, após ser capturado pelo tirano Immortan Joe e seus rebeldes, Max se vê no meio de uma guerra mortal iniciada pela Imperatriz Furiosa, que tenta salvar um grupo de garotas. Também tentando fugir, Max aceita ajudá-la."
+      "episode_description": "O ex-assassino de aluguel John Wick é procurado pelo mundo todo e a recompensa por sua captura aumenta cada vez mais. Wick descobre um caminho para derrotar a Alta Cúpula, mas antes de conquistar sua liberdade, ele precisa enfrentar um novo inimigo com alianças poderosas e forças que transformam velhos amigos em inimigos."
     }
   ]
 }

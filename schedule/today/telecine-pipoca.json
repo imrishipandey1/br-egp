@@ -1,118 +1,110 @@
 {
   "channel": "Telecine Pipoca",
-  "date": "15/03/2026",
+  "date": "16/03/2026",
   "schedule": [
+    {
+      "show_name": "Shrek",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_shrek-2001_l_m.jpg",
+      "show_category": "Children / 2001 /7.9",
+      "start_time": "01:20",
+      "end_time": "02:50",
+      "episode_description": "Um ogro tem sua vida invadida por personagens de contos de fadas que acabam com a tranquilidade de seu lar. Ele faz um acordo para resgatar uma princesa."
+    },
+    {
+      "show_name": "Pânico no Lago - Projeto Anaconda",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_panico-no-lago-projeto-anaconda-2015-1_l_m.jpg",
+      "show_category": "Horror / 2015",
+      "start_time": "02:50",
+      "end_time": "04:30",
+      "episode_description": "Anacondas grandes o bastante para esmagar um carro utilitário. Crocodilos fortes o bastante para pularem em lanchas. Quando não estão atrás de presas humanas, estão dispostos a atacar mutuamente."
+    },
+    {
+      "show_name": "The Last Samurai",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-last-samurai-2003_l_m.jpg",
+      "show_category": "Adventure / 2003 /7.8",
+      "start_time": "04:30",
+      "end_time": "04:30",
+      "episode_description": "O soldado Nathan Algren deixa os Estados Unidos rumo ao Japão feudal. Na tentativa de derrotar um comandante, é capturado. Algren sabe o destino de prisioneiros inimigos, mas fica surpreso ao ser poupado e se sente atraído pelo estilo de vida dos samurais, entre outras coisas."
+    },
+    {
+      "show_name": "The Last Samurai",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-last-samurai-2003_l_m.jpg",
+      "show_category": "Adventure / 2003 /7.8",
+      "start_time": "04:30",
+      "end_time": "07:05",
+      "episode_description": "O soldado Nathan Algren deixa os Estados Unidos rumo ao Japão feudal. Na tentativa de derrotar um comandante, é capturado. Algren sabe o destino de prisioneiros inimigos, mas fica surpreso ao ser poupado e se sente atraído pelo estilo de vida dos samurais, entre outras coisas."
+    },
+    {
+      "show_name": "Viagem das Garotas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_viagem-das-garotas-2017_l_m.jpg",
+      "show_category": "Comedy / 2017",
+      "start_time": "07:05",
+      "end_time": "09:15",
+      "episode_description": "Quatro amigas de longa data viajam para New Orleans para o Essence Festival, onde irmandades são retomadas, lados selvagens são redescobertos, e há muita dança, bebida e romance."
+    },
+    {
+      "show_name": "Bridget Jones - No Limite da Razão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bridget-jones-no-limite-da-raz-o-2004-1_l_m.jpg",
+      "show_category": "Romantic comedy / 2004",
+      "start_time": "09:15",
+      "end_time": "11:10",
+      "episode_description": "Bridget se sente confusa e vê a felicidade com Mark ameaçada quando seu ex-chefe volta a assediá-la, e uma atraente advogada passa a ser a nova colega de trabalho de seu namorado."
+    },
+    {
+      "show_name": "Riquinho",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_riquinho-1994_l_m.jpg",
+      "show_category": "Children / 1994",
+      "start_time": "11:10",
+      "end_time": "12:55",
+      "episode_description": "Riquinho Rico é o menino mais rico do mundo, mas, apesar de ser amado por seus pais, ele não é totalmente feliz, pois não tem muitos amigos. Quando seus pais desaparecem, após o avião deles cair, Riquinho suspeita que um executivo das Indústrias Rico seja o responsável pelo acidente, já que planeja assumir o controle de todas as empresas Rico. Porém, com a ajuda de seu fiel mordomo e de alguns amigos, Riquinho tem um plano para combater o maléfico esquema do executivo e salvar seus pais."
+    },
+    {
+      "show_name": "Roubo do Cão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_roubo-do-c-o-2025_l_m.jpg",
+      "show_category": "Comedy / 2025",
+      "start_time": "12:55",
+      "end_time": "14:15",
+      "episode_description": "Luciana e a chihuahua Rita Lee são melhores amigas. Após a cadelinha virar uma celebridade, Luciana precisará enfrentar bandidos atrapalhados contratados para roubá-la."
+    },
+    {
+      "show_name": "Dupla Explosiva",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_dupla-explosiva-2017_l_m.jpg",
+      "show_category": "Action / 2017",
+      "start_time": "14:15",
+      "end_time": "16:20",
+      "episode_description": "Michael, um guarda-costas de elite, e Darius, um assassino de aluguel, se odeiam há anos. Quando Darius vira testemunha da Corte Internacional de Justiça, Michael tem que proteger seu desafeto."
+    },
+    {
+      "show_name": "Van Helsing - O Caçador de Monstros",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_van-helsing-o-cacador-de-monstros-2004-2_l_m.jpg",
+      "show_category": "Fantasy / 2004",
+      "start_time": "16:20",
+      "end_time": "18:30",
+      "episode_description": "O famoso monstro e assassino Gabriel Van Helsing é mandado para a Transilvânia para ajudar o último da linhagem dos Valerious em derrotar o Conde Drácula. Anna Valerious conta que Drácula formou uma aliança profana com o monstro do Dr. Frankenstein e está impondo uma maldição sobre sua família. Anna e Van Helsing estão determinados a destruir seu inimigo em comum, mas descobrem alguns segredos perturbadores ao longo do caminho."
+    },
+    {
+      "show_name": "Arranha-Céu - Coragem sem Limite",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_arranha-ceu-coragem-sem-limite-2018_l_m.jpg",
+      "show_category": "Action / 2018",
+      "start_time": "18:30",
+      "end_time": "20:15",
+      "episode_description": "Will Sawyer, veterano de guerra norte-americano e ex-líder de operações de resgate do FBI, trabalha avaliando a segurança de arranha-céus. Na China, ele é acusado de ter colocado o edifício mais alto e seguro de Hong Kong em chamas. Agora, o ex-agente precisa encontrar os culpados pelo incêndio, salvar sua família que está presa dentro do prédio e limpar seu nome."
+    },
+    {
+      "show_name": "Os Mercenários 4",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-mercenarios-4-2023_l_m.jpg",
+      "show_category": "Action / 2023",
+      "start_time": "20:15",
+      "end_time": "22:00",
+      "episode_description": "A equipe enfrenta um traficante de armas que comanda um enorme exército privado. Munidos com todas as armas inimagináveis, os Mercenários são a última linha de defesa do mundo."
+    },
     {
       "show_name": "Mad Max - Estrada da Fúria",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_mad-max-estrada-da-furia-2015_l_m.jpg",
       "show_category": "Action / 2015",
-      "start_time": "00:35",
-      "end_time": "02:40",
+      "start_time": "22:00",
+      "end_time": "00:10",
       "episode_description": "Em um mundo pós-apocalíptico, Max Rockatansky acredita que a melhor forma de sobreviver é não depender de ninguém. Porém, após ser capturado pelo tirano Immortan Joe e seus rebeldes, Max se vê no meio de uma guerra mortal iniciada pela Imperatriz Furiosa, que tenta salvar um grupo de garotas. Também tentando fugir, Max aceita ajudá-la."
-    },
-    {
-      "show_name": "O Diabo que Conheces",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-diabo-que-conheces-2022_l_m.jpg",
-      "show_category": "Crime drama / 2022",
-      "start_time": "02:40",
-      "end_time": "04:40",
-      "episode_description": "O ex-presidiário Marcus Cowans tenta virar a página com o apoio de sua família. Depois de saber que um de seus irmãos pode estar envolvido em um crime horrível, Marcus precisa lidar com os limites da lealdade. Ele e sua família, cada vez mais cansados das falhas do sistema de justiça, logo acabam na mira de um detetive experiente."
-    },
-    {
-      "show_name": "O Peso do Talento",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-peso-do-talento-2022_l_m.jpg",
-      "show_category": "Comedy / 2022",
-      "start_time": "04:40",
-      "end_time": "04:40",
-      "episode_description": "O ator Nicolas Cage aceita relutantemente a oferta de um milhão de dólares para ficar na ilha de luxo de um superfã para sua festa de aniversário, mas as coisas tomam um rumo inesperado e ele acaba em uma aventura de um de seus filmes de ação."
-    },
-    {
-      "show_name": "O Peso do Talento",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-peso-do-talento-2022_l_m.jpg",
-      "show_category": "Comedy / 2022",
-      "start_time": "04:40",
-      "end_time": "06:30",
-      "episode_description": "O ator Nicolas Cage aceita relutantemente a oferta de um milhão de dólares para ficar na ilha de luxo de um superfã para sua festa de aniversário, mas as coisas tomam um rumo inesperado e ele acaba em uma aventura de um de seus filmes de ação."
-    },
-    {
-      "show_name": "Big Pai, Big Filho 2",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_big-pai-big-filho-2-2020_l_m.jpg",
-      "show_category": "Children / 2020",
-      "start_time": "06:30",
-      "end_time": "08:05",
-      "episode_description": "O Pé Grande desaparece sem deixar rastros enquanto protege uma reserva de vida selvagem, o que leva Adam, sua mãe e seus amigos animais ao Alasca para resgatá-lo."
-    },
-    {
-      "show_name": "Confia - Sonho de Cria",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_confia-sonho-de-cria-2024_l_m.jpg",
-      "show_category": "Drama / 2024",
-      "start_time": "08:05",
-      "end_time": "09:40",
-      "episode_description": "Nando trabalha como entregador em uma lanchonete de Copacabana e sonha em ser uma estrela do trap, mas não tem muitas oportunidades. Até que ele conhece Jaque, uma moça acostumada desde cedo a se virar para sobreviver - nem sempre da forma mais convencional. Jaque acredita no potencial de Nando e decide, à sua maneira, lançá-lo como artista."
-    },
-    {
-      "show_name": "Patrulha Canina - Um Filme Superpoderoso",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_patrulha-canina-um-filme-superpoderoso-2023_l_m.jpg",
-      "show_category": "Children / 2023",
-      "start_time": "09:40",
-      "end_time": "11:10",
-      "episode_description": "Os filhotes da Patrulha Canina ganham poderes após um meteoro mágico cair na cidade. Para um deles, é um grande sonho que se tornou realidade, mas a felicidade dos patrulheiros pode estar ameaçada quando o maior inimigo dos filhotes foge da prisão."
-    },
-    {
-      "show_name": "Jogador Nº 1",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_jogador-n-1-2018_l_m.jpg",
-      "show_category": "Science fiction / 2018",
-      "start_time": "11:10",
-      "end_time": "13:35",
-      "episode_description": "Em 2045, Wade Watts, assim como o resto da humanidade, prefere a realidade virtual do jogo OASIS ao mundo real. James Halliday, o excêntrico criador do jogo, morre e deixa sua fortuna inestimável para a primeira pessoa que descobrir a chave de um quebra-cabeça diabólico que ele arquitetou. Para vencer, Watts precisa abandonar a existência virtual e experimentar o amor e a realidade."
-    },
-    {
-      "show_name": "Largo Winch: O Preço do Dinheiro",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_largo-winch-o-preco-do-dinheiro-2024_l_m.jpg",
-      "show_category": "Action / 2024",
-      "start_time": "13:35",
-      "end_time": "15:15",
-      "episode_description": "Largo Winch fica devastado ao descobrir o sequestro de seu filho. Em busca de justiça e respostas, ele segue uma trilha de traições e segredos."
-    },
-    {
-      "show_name": "Agente 86",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_agente-86-2008_l_m.jpg",
-      "show_category": "Comedy / 2008 /6.5",
-      "start_time": "15:15",
-      "end_time": "17:15",
-      "episode_description": "O chefe da agência de espionagem norte-americana promove seu analista Maxwell Smart a agente de campo quando integrantes do abominável sindicato do crime KAOS atacam o controle da agência. Smart é escalado para trabalhar ao lado da veterana Agente 99. Apesar da inexperiência, a dupla tem entusiasmo de sobra para tentar frustrar os planos de Siegfried, chefe da KAOS, que deseja dominar o mundo."
-    },
-    {
-      "show_name": "Missão: Impossível - Acerto de Contas Parte 1",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_miss-o-impossivel-acerto-de-contas-parte-1-2023_l_m.jpg",
-      "show_category": "Action / 2023",
-      "start_time": "17:15",
-      "end_time": "20:00",
-      "episode_description": "Ethan Hunt e sua equipe devem rastrear uma nova arma que pode ameaçar toda a humanidade se cair em mãos erradas. Com o destino do mundo em jogo, se inicia uma corrida mortal ao redor do globo. Confrontado por um inimigo misterioso e poderoso, Ethan é forçado a considerar que talvez nada importe mais do que a missão, nem mesmo as vidas daqueles com quem ele mais se importa."
-    },
-    {
-      "show_name": "Faster - No Limite da Velocidade",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_faster-no-limite-da-velocidade-2025_l_m.jpg",
-      "show_category": "Action / 2025",
-      "start_time": "20:00",
-      "end_time": "21:40",
-      "episode_description": "Max sempre viveu pela velocidade. Em um mundo que a rejeitou, um ex-piloto ousado mantém a fé e persegue um único objetivo: torná-la a mais rápida de todas."
-    },
-    {
-      "show_name": "Hellboy",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_hellboy-2019_l_m.jpg",
-      "show_category": "Action / 2019 /5.2",
-      "start_time": "21:40",
-      "end_time": "23:40",
-      "episode_description": "Uma antiga feiticeira volta à vida decidida a vingar-se de uma traição do passado. Dividido entre o mundo sobrenatural e humano, o lendário meio-demônio Hellboy recebe a missão de conter essa ameaça e salvar o mundo."
-    },
-    {
-      "show_name": "Caça às Bruxas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_caca-as-bruxas-2011_l_m.jpg",
-      "show_category": "Action / 2011",
-      "start_time": "23:40",
-      "end_time": "01:20",
-      "episode_description": "Os cavaleiros Behmen e Felton retornam das Cruzadas e encontram sua terra natal destruída pela peste-negra. A Igreja acredita que a praga tenha sido causada por bruxaria e obriga os cavaleiros a conduzir uma jovem bruxa a um monastério, onde será julgada pela suspeita de ser a causadora da epidemia. Mas o caminho será bastante tortuoso e, mesmo antes de chegar ao destino, eles descobrem que estão diante de forças sobrenaturais e que o mal está além de toda e qualquer compreensão."
     }
   ]
 }

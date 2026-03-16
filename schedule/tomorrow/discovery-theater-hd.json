@@ -1,238 +1,246 @@
 {
   "channel": "Discovery Theater",
-  "date": "16/03/2026",
+  "date": "17/03/2026",
   "schedule": [
+    {
+      "show_name": "Capitães da Lagosta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_capit-es-da-lagosta-s01e05-pesca-abundante-1_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 5 - Pesca Abundante",
+      "start_time": "00:00",
+      "end_time": "00:48",
+      "episode_description": "Com a chegada do clima frio e a pesca mais fácil e abundante, os pescadores de lagostas entram em ação; Tim inicia uma batalha com um marinheiro rebelde; Grant entrega o controle de seu barco e Keith decide arriscar usando iscas velhas."
+    },
+    {
+      "show_name": "Megacargas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_megacargas-s01e03_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 3",
+      "start_time": "00:48",
+      "end_time": "01:36",
+      "episode_description": "Em Southampton, o oficial da Marinha Gary Olden libera a passagem para o Mathilde. Com 400 metros de comprimento e carregando quase 18 mil contêineres, é o maior navio a atracar no porto."
+    },
+    {
+      "show_name": "Rumo ao Desconhecido",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rumo-ao-desconhecido-s08e04_l_m.jpg",
+      "show_category": "Temporada 8 Episódio 4 - Revelando Ancestrais Antigos",
+      "start_time": "01:36",
+      "end_time": "02:24",
+      "episode_description": "Josh Gates viaja para a África para se aproximar de um parente distante e escalar penhascos perigosos, tudo para responder à pergunta sobre a origem dos humanos."
+    },
+    {
+      "show_name": "Rumo ao Desconhecido",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_rumo-ao-desconhecido-s07e10-em-busca-do-corac-o-do-sult-o_l_m.jpg",
+      "show_category": "Temporada 7 Episódio 10 - Em Busca do Coração do Sultão",
+      "start_time": "02:24",
+      "end_time": "03:12",
+      "episode_description": "Quatro anos após procurar o lendário coração do sultão Solimão, o Magnífico, Josh Gates visita as ruínas da cidade otomana de Turbek em busca de novos indícios de sua existência."
+    },
+    {
+      "show_name": "Mistérios no Museu",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_misterios-no-museu-s11e11-o-verdadeiro-santo-graal_l_m.jpg",
+      "show_category": "Temporada 11 Episódio 11 - O Verdadeiro Santo graal",
+      "start_time": "03:12",
+      "end_time": "04:00",
+      "episode_description": "Don Wildman analisa uma série de mortes misteriosas na Casa Branca, investiga a história de uma mulher que fez um mergulho pioneiro e um cálice antigo que poderia ser o elusivo Santo Graal."
+    },
+    {
+      "show_name": "Mistérios no Museu",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_misterios-no-museu-s11e13-o-exercito-dos-mortos_l_m.jpg",
+      "show_category": "Temporada 11 Episódio 13 - O Exército dos Mortos",
+      "start_time": "04:00",
+      "end_time": "04:48",
+      "episode_description": "Don Wildman investiga a história desconhecida por trás de uma lenda literária, analisa o conto inspirador por trás de um grupo de heróis novatos e investiga um exército de fantasmas romanos."
+    },
     {
       "show_name": "Mistérios da História",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_misterios-da-historia-s02e10-a-bela-e-a-fera-homempassaro-da-escocia-e-mestre-do-disfarce_l_m.jpg",
       "show_category": "Temporada 2 Episódio 10 - A Bela e a Fera, Homempássaro da Escócia e Mestre do Disfarce",
-      "start_time": "00:00",
-      "end_time": "00:48",
+      "start_time": "04:48",
+      "end_time": "05:36",
       "episode_description": "Um castelo francês é palco de um dos romances mais amados e conhecidos do mundo. Um cientista realiza uma experiência em um castelo escocês. Uma perseguição desesperada termina em uma mansão."
     },
     {
       "show_name": "Cidade Fantasma - Terror em Montana",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_cidade-fantasma-terror-em-montana-s02e04-a-invocac-o_l_m.jpg",
       "show_category": "Temporada 2 Episódio 4 - A Invocação",
-      "start_time": "00:48",
-      "end_time": "01:36",
+      "start_time": "05:36",
+      "end_time": "05:36",
+      "episode_description": "Para convencer a equipe fragmentada de que eles estão lutando contra Belzebu, Tim os leva a um epicentro de sofrimento, a Antiga Prisão Estadual de Montana. A experiência leva Tim a cruzar uma linha perigosa e invocar o demônio de alto escalão."
+    },
+    {
+      "show_name": "Cidade Fantasma - Terror em Montana",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidade-fantasma-terror-em-montana-s02e04-a-invocac-o_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 4 - A Invocação",
+      "start_time": "05:36",
+      "end_time": "06:24",
       "episode_description": "Para convencer a equipe fragmentada de que eles estão lutando contra Belzebu, Tim os leva a um epicentro de sofrimento, a Antiga Prisão Estadual de Montana. A experiência leva Tim a cruzar uma linha perigosa e invocar o demônio de alto escalão."
     },
     {
       "show_name": "Pesca Mortal",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_pesca-mortal-s14e15-novato-ao-mar_l_m.jpg",
       "show_category": "Temporada 14 Episódio 15 - Novato ao Mar",
-      "start_time": "01:36",
-      "end_time": "02:24",
+      "start_time": "06:24",
+      "end_time": "07:12",
       "episode_description": "A tripulação do Summer Bay tenta resgatar um novato das águas geladas do Mar de Bering; o Saga e o Cornelia Marie enfrentam ondas gigantescas e Mandy recolhe seu primeiro covo."
     },
     {
       "show_name": "Pesca Mortal",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_pesca-mortal-s14e16-guerras-territoriais_l_m.jpg",
       "show_category": "Temporada 14 Episódio 16 - Guerras Territoriais",
-      "start_time": "02:24",
-      "end_time": "03:12",
+      "start_time": "07:12",
+      "end_time": "08:00",
+      "episode_description": "Sig Hansen obriga Mandy a invadir a área do Cornelia Marie, deflagrando uma guerra pelos caranguejos; quando os covos do Cornelia Marie se enroscam nos do Northwestern, Casey toma medidas extremas para defender seu território."
+    },
+    {
+      "show_name": "Mistérios no Museu",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_misterios-no-museu-s11e11-o-verdadeiro-santo-graal_l_m.jpg",
+      "show_category": "Temporada 11 Episódio 11 - O Verdadeiro Santo graal",
+      "start_time": "08:00",
+      "end_time": "08:48",
+      "episode_description": "Don Wildman analisa uma série de mortes misteriosas na Casa Branca, investiga a história de uma mulher que fez um mergulho pioneiro e um cálice antigo que poderia ser o elusivo Santo Graal."
+    },
+    {
+      "show_name": "Mistérios no Museu",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_misterios-no-museu-s11e13-o-exercito-dos-mortos_l_m.jpg",
+      "show_category": "Temporada 11 Episódio 13 - O Exército dos Mortos",
+      "start_time": "08:48",
+      "end_time": "09:36",
+      "episode_description": "Don Wildman investiga a história desconhecida por trás de uma lenda literária, analisa o conto inspirador por trás de um grupo de heróis novatos e investiga um exército de fantasmas romanos."
+    },
+    {
+      "show_name": "Mistérios da História",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_misterios-da-historia-s02e10-a-bela-e-a-fera-homempassaro-da-escocia-e-mestre-do-disfarce_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 10 - A Bela e a Fera, Homempássaro da Escócia e Mestre do Disfarce",
+      "start_time": "09:36",
+      "end_time": "10:24",
+      "episode_description": "Um castelo francês é palco de um dos romances mais amados e conhecidos do mundo. Um cientista realiza uma experiência em um castelo escocês. Uma perseguição desesperada termina em uma mansão."
+    },
+    {
+      "show_name": "Cidade Fantasma - Terror em Montana",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cidade-fantasma-terror-em-montana-s02e04-a-invocac-o_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 4 - A Invocação",
+      "start_time": "10:24",
+      "end_time": "11:12",
+      "episode_description": "Para convencer a equipe fragmentada de que eles estão lutando contra Belzebu, Tim os leva a um epicentro de sofrimento, a Antiga Prisão Estadual de Montana. A experiência leva Tim a cruzar uma linha perigosa e invocar o demônio de alto escalão."
+    },
+    {
+      "show_name": "Pesca Mortal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pesca-mortal-s14e15-novato-ao-mar_l_m.jpg",
+      "show_category": "Temporada 14 Episódio 15 - Novato ao Mar",
+      "start_time": "11:12",
+      "end_time": "12:00",
+      "episode_description": "A tripulação do Summer Bay tenta resgatar um novato das águas geladas do Mar de Bering; o Saga e o Cornelia Marie enfrentam ondas gigantescas e Mandy recolhe seu primeiro covo."
+    },
+    {
+      "show_name": "Pesca Mortal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pesca-mortal-s14e16-guerras-territoriais_l_m.jpg",
+      "show_category": "Temporada 14 Episódio 16 - Guerras Territoriais",
+      "start_time": "12:00",
+      "end_time": "12:48",
       "episode_description": "Sig Hansen obriga Mandy a invadir a área do Cornelia Marie, deflagrando uma guerra pelos caranguejos; quando os covos do Cornelia Marie se enroscam nos do Northwestern, Casey toma medidas extremas para defender seu território."
     },
     {
       "show_name": "Alasca - A Última Fronteira",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_alasca-a-ultima-fronteira-s10e10-a-dor-da-perda_l_m.jpg",
       "show_category": "Temporada 10 Episódio 10 - A Dor da Perda",
-      "start_time": "03:12",
-      "end_time": "04:48",
+      "start_time": "12:48",
+      "end_time": "14:24",
       "episode_description": "Com o chalé Fox quase finalizado, Atz Sr. reúne os sete irmãos Kilcher para terminar o interior de seu legado. Jane, August e Etienne embarcam na última viagem de pesca do ano e Eivin sofre uma perda devastadora."
     },
     {
       "show_name": "Rota Perigosa",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_rota-perigosa-s02e01_l_m.jpg",
       "show_category": "Temporada 2 Episódio 1 - Carga Mexicana",
-      "start_time": "04:48",
-      "end_time": "05:36",
+      "start_time": "14:24",
+      "end_time": "15:12",
       "episode_description": "Prestes a perder um contrato importante com um chef famoso, Todd viaja ao estado mais perigoso do México em busca de um café lendário. Quando seu contato é assassinado, Todd precisa se adaptar para salvar sua vida."
     },
     {
       "show_name": "Nos Trilhos do Alasca",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_nos-trilhos-do-alasca-s02e04-zona-de-avalanche_l_m.jpg",
       "show_category": "Temporada 2 Episódio 4 - Zona de Avalanche",
-      "start_time": "05:36",
-      "end_time": "05:36",
-      "episode_description": "Josh e Annie precisam afastar sua cabana de um rio prestes a transbordar. Ron Hudson e Ashley trocam um telhado antes da chegada de uma tempestade. Uma avalanche ameaça descarrilar um trem."
-    },
-    {
-      "show_name": "Nos Trilhos do Alasca",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_nos-trilhos-do-alasca-s02e04-zona-de-avalanche_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 4 - Zona de Avalanche",
-      "start_time": "05:36",
-      "end_time": "06:24",
+      "start_time": "15:12",
+      "end_time": "16:00",
       "episode_description": "Josh e Annie precisam afastar sua cabana de um rio prestes a transbordar. Ron Hudson e Ashley trocam um telhado antes da chegada de uma tempestade. Uma avalanche ameaça descarrilar um trem."
     },
     {
       "show_name": "Mistérios da História",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_misterios-da-historia-s02e10-a-bela-e-a-fera-homempassaro-da-escocia-e-mestre-do-disfarce_l_m.jpg",
       "show_category": "Temporada 2 Episódio 10 - A Bela e a Fera, Homempássaro da Escócia e Mestre do Disfarce",
-      "start_time": "06:24",
-      "end_time": "07:12",
+      "start_time": "16:00",
+      "end_time": "16:48",
       "episode_description": "Um castelo francês é palco de um dos romances mais amados e conhecidos do mundo. Um cientista realiza uma experiência em um castelo escocês. Uma perseguição desesperada termina em uma mansão."
     },
     {
       "show_name": "Mistérios no Museu",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_misterios-no-museu-s15e10-tommy-terrivel-avi-o-desaparecido-e-o-corajoso-blondin_l_m.jpg",
       "show_category": "Temporada 15 Episódio 10 - Tommy Terrível, Avião Desaparecido e o Corajoso Blondin",
-      "start_time": "07:12",
-      "end_time": "08:00",
-      "episode_description": "Don mostra um relógio de bolso usado por um gângster implacável da década de 1920 em Chicago; um avião que desapareceu no céu da Austrália depois de encontrar um óvni; e o primeiro homem a desbravar as cataratas do Niágara."
-    },
-    {
-      "show_name": "Alasca - A Última Fronteira",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_alasca-a-ultima-fronteira-s10e10-a-dor-da-perda_l_m.jpg",
-      "show_category": "Temporada 10 Episódio 10 - A Dor da Perda",
-      "start_time": "08:00",
-      "end_time": "09:36",
-      "episode_description": "Com o chalé Fox quase finalizado, Atz Sr. reúne os sete irmãos Kilcher para terminar o interior de seu legado. Jane, August e Etienne embarcam na última viagem de pesca do ano e Eivin sofre uma perda devastadora."
-    },
-    {
-      "show_name": "Rota Perigosa",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_rota-perigosa-s02e01_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 1 - Carga Mexicana",
-      "start_time": "09:36",
-      "end_time": "10:24",
-      "episode_description": "Prestes a perder um contrato importante com um chef famoso, Todd viaja ao estado mais perigoso do México em busca de um café lendário. Quando seu contato é assassinado, Todd precisa se adaptar para salvar sua vida."
-    },
-    {
-      "show_name": "Nos Trilhos do Alasca",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_nos-trilhos-do-alasca-s02e04-zona-de-avalanche_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 4 - Zona de Avalanche",
-      "start_time": "10:24",
-      "end_time": "11:12",
-      "episode_description": "Josh e Annie precisam afastar sua cabana de um rio prestes a transbordar. Ron Hudson e Ashley trocam um telhado antes da chegada de uma tempestade. Uma avalanche ameaça descarrilar um trem."
-    },
-    {
-      "show_name": "Mistérios da História",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_misterios-da-historia-s02e10-a-bela-e-a-fera-homempassaro-da-escocia-e-mestre-do-disfarce_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 10 - A Bela e a Fera, Homempássaro da Escócia e Mestre do Disfarce",
-      "start_time": "11:12",
-      "end_time": "12:00",
-      "episode_description": "Um castelo francês é palco de um dos romances mais amados e conhecidos do mundo. Um cientista realiza uma experiência em um castelo escocês. Uma perseguição desesperada termina em uma mansão."
-    },
-    {
-      "show_name": "Mistérios no Museu",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_misterios-no-museu-s15e10-tommy-terrivel-avi-o-desaparecido-e-o-corajoso-blondin_l_m.jpg",
-      "show_category": "Temporada 15 Episódio 10 - Tommy Terrível, Avião Desaparecido e o Corajoso Blondin",
-      "start_time": "12:00",
-      "end_time": "12:48",
+      "start_time": "16:48",
+      "end_time": "17:36",
       "episode_description": "Don mostra um relógio de bolso usado por um gângster implacável da década de 1920 em Chicago; um avião que desapareceu no céu da Austrália depois de encontrar um óvni; e o primeiro homem a desbravar as cataratas do Niágara."
     },
     {
       "show_name": "Rumo ao Desconhecido",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_rumo-ao-desconhecido-s08e04_l_m.jpg",
       "show_category": "Temporada 8 Episódio 4 - Revelando Ancestrais Antigos",
-      "start_time": "12:48",
-      "end_time": "13:36",
-      "episode_description": "Josh Gates viaja para a África para se aproximar de um parente distante e escalar penhascos perigosos, tudo para responder a pergunta sobre a origem dos humanos."
+      "start_time": "17:36",
+      "end_time": "18:24",
+      "episode_description": "Josh Gates viaja para a África para se aproximar de um parente distante e escalar penhascos perigosos, tudo para responder à pergunta sobre a origem dos humanos."
     },
     {
-      "show_name": "Rumo ao Desconhecido",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_rumo-ao-desconhecido-s07e10-em-busca-do-corac-o-do-sult-o_l_m.jpg",
-      "show_category": "Temporada 7 Episódio 10 - Em Busca do Coração do Sultão",
-      "start_time": "13:36",
-      "end_time": "14:24",
-      "episode_description": "Quatro anos após procurar o lendário coração do sultão Solimão, o Magnífico, Josh Gates visita as ruínas da cidade otomana de Turbek em busca de novos indícios de sua existência."
+      "show_name": "Histórias Animais",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_historias-animais-s01e04_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - A Origem dos Primatas",
+      "start_time": "18:24",
+      "end_time": "19:12",
+      "episode_description": "João Paulo continua a sua viagem para descobrir as origens dos primatas. Uma história fascinante que se confunde com a nossa própria história. O biólogo conversa com especialistas e vai em busca de fósseis para mostrar os ancestrais dos primatas."
     },
     {
       "show_name": "O Mestre das Espadas",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_o-mestre-das-espadas-s01e02-o-matador-de-drag-es_l_m.jpg",
       "show_category": "Temporada 1 Episódio 2 - O Matador de Dragões",
-      "start_time": "14:24",
-      "end_time": "15:12",
+      "start_time": "19:12",
+      "end_time": "20:00",
       "episode_description": "Um excêntrico cavaleiro contrata Irish Mike para fabricar uma espada em forma de dragão que cospe fogo. Erik aposta com Mike que pode criar sua própria arma: um punho de aço."
     },
     {
       "show_name": "Cidade Fantasma - Terror em Montana",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_cidade-fantasma-terror-em-montana-s01e02-saia-daqui_l_m.jpg",
       "show_category": "Temporada 1 Episódio 2 - Saia Daqui!",
-      "start_time": "15:12",
-      "end_time": "16:00",
+      "start_time": "20:00",
+      "end_time": "20:48",
       "episode_description": "Tim e Sapphire descobrem ligações entre a história sangrenta de Anaconda, Montana, e o rancho; uma jornada às montanhas em busca de um poço misterioso deixa a médium Sarah Lemos temendo pela segurança de todos."
     },
     {
-      "show_name": "Nos Trilhos do Alasca",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_nos-trilhos-do-alasca-s02e04-zona-de-avalanche_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 4 - Zona de Avalanche",
-      "start_time": "16:00",
-      "end_time": "16:48",
-      "episode_description": "Josh e Annie precisam afastar sua cabana de um rio prestes a transbordar. Ron Hudson e Ashley trocam um telhado antes da chegada de uma tempestade. Uma avalanche ameaça descarrilar um trem."
-    },
-    {
-      "show_name": "Criadores de Sonhos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_criadores-de-sonhos-s02e05-a-cruz_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 5 - A Cruz",
-      "start_time": "16:48",
-      "end_time": "17:36",
-      "episode_description": "Os rapazes viajam para o norte da Califórnia para recolher enormes troncos de sequoias caídas. De volta à oficina, eles usam a madeira para fazer a réplica de uma cruz para a missão de San Antonio."
-    },
-    {
-      "show_name": "Destiladores",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_destiladores-s10e19-a-capital-do-moonshine-esta-de-volta_l_m.jpg",
-      "show_category": "Temporada 10 Episódio 19 - A Capital do Moonshine Está de Volta",
-      "start_time": "17:36",
-      "end_time": "18:24",
-      "episode_description": "Josh, Tickle e os Law constroem uma destilaria inédita na Virgínia desde os tempos de Amos Law; Jerry falta ao trabalho e Mike baixa a guarda; Mark e Digger descobrem que um rival terá de prestar contas à justiça."
-    },
-    {
-      "show_name": "Histórias Animais",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_historias-animais-s01e03_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 3 - A Origem dos Primatas",
-      "start_time": "18:24",
-      "end_time": "19:12",
-      "episode_description": "João Paulo inicia uma viagem para descobrir as origens dos primatas. Uma história fascinante que se confunde com a nossa própria história. O biólogo conversa com especialistas e vai em busca de fósseis para mostrar os ancestrais dos primatas."
-    },
-    {
-      "show_name": "Os Reis do Esgoto",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_os-reis-do-esgoto-s01e04-deja-vu-de-meleca_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 4 - Déjà-vu de Meleca",
-      "start_time": "19:12",
-      "end_time": "20:00",
-      "episode_description": "Um entupimento misterioso obstrui toda a linha de esgoto do bairro do centro; os destroços de uma forte tempestade; uma caixa de gordura de restaurante precisa urgentemente de limpeza."
-    },
-    {
-      "show_name": "Garimpeiros de Ruínas - Melhores Negócios",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_garimpeiros-de-ruinas-melhores-negocios-s01e10_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 10",
-      "start_time": "20:00",
-      "end_time": "20:48",
-      "episode_description": "Drew Pritchard já visitou todo tipo de edifícios para encontrar os melhores objetos e antiguidades do norte de Gales, mas só alguns ele classifica como lugares incríveis de fato."
-    },
-    {
-      "show_name": "Guerreiros do Pacífico",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_guerreiros-do-pacifico-s01e04_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 4 - História do Oeste",
+      "show_name": "Ouro Selvagem",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ouro-selvagem-s02e04-de-volta-a-gana_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 4 - De Volta a Gana",
       "start_time": "20:48",
       "end_time": "21:36",
-      "episode_description": "Adam e Jason seguem enfrentando os mares revoltos de Kauai; no oeste de Oahu, a competição esquenta; Isaac une esforços com Kimi para caçar Mahi Mahi; os irmãos Uyeda fisgam um marlim de 65 quilos."
+      "episode_description": "Scott e George se reencontram e tentam achar um jeito de lavar o ouro. Dave Thomas sugere uma solução que sairá muito caro, e planeja pegar a maioria do ouro deles."
     },
     {
-      "show_name": "Isto É Ciência - Com Mark Rober",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_isto-e-ciencia-com-mark-rober-s01e05-brinquedos-gigantescos_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 5 - Brinquedos Gigantescos",
+      "show_name": "A Maldição do Ouro Perdido",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-maldic-o-do-ouro-perdido-s01e05-segredos-revelados_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 5 - Segredos Revelados",
       "start_time": "21:36",
       "end_time": "22:24",
-      "episode_description": "Mark analisa os maiores brinquedos que já fez: o maior lançador Nerf do mundo, o maior lançador de água e um gigantesco lançador de bolas de neve."
+      "episode_description": "Daryl consegue novas informações sobre o ouro da geleira Terrarosa, mas só vai revelá-las se puder acompanhar Adam e Evan. Fred recebe uma misteriosa ligação de um explorador."
     },
     {
-      "show_name": "Pesca Mortal",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_pesca-mortal-s14e17-porto-inseguro_l_m.jpg",
-      "show_category": "Temporada 14 Episódio 17 - Porto Inseguro",
+      "show_name": "No Rastro do Pé-Grande",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_no-rastro-do-pe-grande-s03e09-rastros-do-inferno_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 9 - Rastros do Inferno",
       "start_time": "22:24",
       "end_time": "23:12",
-      "episode_description": "Uma tempestade ártica atinge a frota, obrigando os capitães a enfrentar ondas enormes; um novato corre perigo pela segunda vez no Summer Bay; o Saga busca abrigo em St. Paul, mas a força da maré quebra a âncora de Jake."
+      "episode_description": "Russell encontra pegadas recentes nos trilhos de uma ferrovia abandonada; Ronny e Mireya ouvem uma série de sons inexplicáveis na floresta; Bryce descobre informações arrepiantes sobre um pé-grande do norte da Califórnia."
     },
     {
-      "show_name": "Pesca Mortal",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_pesca-mortal-s14e18-sangue-e-agua_l_m.jpg",
-      "show_category": "Temporada 14 Episódio 18 - Sangue e Água",
+      "show_name": "No Rastro do Pé-Grande",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_no-rastro-do-pe-grande-s03e10-dividir-e-conquistar_l_m.jpg",
+      "show_category": "Temporada 3 Episódio 10 - Dividir e Conquistar",
       "start_time": "23:12",
       "end_time": "",
-      "episode_description": "Quando ondas enormes ameaçam virar os barcos, Jake e Sean precisam tomar decisões difíceis; Wild Bill enfrenta um dilema que pode encerrar sua carreira; o retorno inesperado de Keith ao Wizard retira seu irmão do comando."
+      "episode_description": "Russell recorre a um aliado improvável para perseguir um estranho predador; Bryce investiga encontros da equipe com esferas flutuantes; após uma invasão no acampamento, Ronny e Mireya rastreiam uma criatura na floresta."
     }
   ]
 }

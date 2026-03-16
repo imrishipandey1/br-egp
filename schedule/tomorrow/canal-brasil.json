@@ -1,198 +1,190 @@
 {
   "channel": "Canal Brasil",
-  "date": "16/03/2026",
+  "date": "17/03/2026",
   "schedule": [
+    {
+      "show_name": "O Som ao Redor",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-som-ao-redor-2012-1_l_m.jpg",
+      "show_category": "Drama / 2012",
+      "start_time": "00:05",
+      "end_time": "02:15",
+      "episode_description": "A vida em uma rua de classe média na zona sul do Recife toma um rumo inesperado após a chegada de uma empresa de segurança particular. A presença do grupo traz tranquilidade para alguns, mas provoca muita tensão para outros. Enquanto isso, Bia, casada e mãe de duas crianças, precisa achar uma maneira de lidar com os latidos constantes do cão de seu vizinho."
+    },
+    {
+      "show_name": "Eletrodoméstica",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_eletrodomestica-2005_l_m.jpg",
+      "show_category": "Comedy / 2005 /5.9",
+      "start_time": "02:15",
+      "end_time": "02:40",
+      "episode_description": "No dia em que chega uma TV de 29 polegadas à casa de uma família pernambucana, a dona de casa se ocupa com tarefas corriqueiras, enquanto espera ansiosamente pelo fim do trabalho da máquina de lavar."
+    },
+    {
+      "show_name": "Aquarius",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aquarius-2016_l_m.jpg",
+      "show_category": "Drama / 2016 /7.9",
+      "start_time": "02:40",
+      "end_time": "05:05",
+      "episode_description": "Aos 65 anos, Clara é uma jornalista aposentada, viúva e mãe de três filhos adultos. Ela mora em um apartamento na orla da praia em Recife, onde viveu boa parte de sua vida. Uma construtora adquiriu todos os outros apartamentos do prédio e está decidida a comprar o dela. Ao se recusar a vendê-lo, Clara sofre todo tipo de assédio e ameaça para mudar de ideia."
+    },
+    {
+      "show_name": "Vinil Verde",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_vinil-verde-2004_l_m.jpg",
+      "show_category": "Fantasy / 2004",
+      "start_time": "05:05",
+      "end_time": "05:25",
+      "episode_description": "Uma menina é presenteada com vinis coloridos. Deslumbrada com as cores, encanta-se quando escuta as músicas na vitrola. Porém, ela é proibida de ouvir o vinil verde, o que mais desperta a sua curiosidade."
+    },
+    {
+      "show_name": "Crítico",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_critico-2008_l_m.jpg",
+      "show_category": "Documentary / 2008 /7.4",
+      "start_time": "05:25",
+      "end_time": "05:25",
+      "episode_description": "Críticos e cineastas discutem o cinema a partir do interessante conflito entre artista e observador. Eles debatem as reações às opiniões e a difícil imparcialidade em um diálogo entre profissionais de atuações opostas."
+    },
+    {
+      "show_name": "Crítico",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_critico-2008_l_m.jpg",
+      "show_category": "Documentary / 2008 /7.4",
+      "start_time": "05:25",
+      "end_time": "06:40",
+      "episode_description": "Críticos e cineastas discutem o cinema a partir do interessante conflito entre artista e observador. Eles debatem as reações às opiniões e a difícil imparcialidade em um diálogo entre profissionais de atuações opostas."
+    },
+    {
+      "show_name": "Noite de Sexta, Manhã de Sábado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_noite-de-sexta-manh-de-sabado-2006_l_m.jpg",
+      "show_category": "Drama / 2006",
+      "start_time": "06:40",
+      "end_time": "07:00",
+      "episode_description": "Um casal vê na tecnologia uma forma de superar a distância física. Entre a madrugada na capital pernambucana e a tarde no continente europeu, os dois sustentam a relação em uma conversa pelo celular."
+    },
+    {
+      "show_name": "Barão Vermelho - Por que a Gente É Assim?",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bar-o-vermelho-por-que-a-gente-e-assim-2016-1_l_m.jpg",
+      "show_category": "Documentary / 2016 /7.5",
+      "start_time": "07:00",
+      "end_time": "08:50",
+      "episode_description": "A história e o processo criativo da banda de rock Barão Vermelho, que nasceu em 1981 e conquistou uma legião de fãs. Também é mostrada a parceria entre o vocalista Cazuza e o guitarrista Frejat, entre outros assuntos."
+    },
+    {
+      "show_name": "Baile Perfumado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_baile-perfumado-1996_l_m.jpg",
+      "show_category": "Drama / 1996 /7.2",
+      "start_time": "08:50",
+      "end_time": "10:25",
+      "episode_description": "Amigo íntimo do Padre Cícero, o mascate libanês Benjamin Abrahão decide filmar Lampião e todo seu bando. Ele acredita que pode fazer uma verdadeira fortuna com o filme. Depois de alguns contatos iniciais, Abrahão conversa diretamente com o famoso cangaceiro e expõe sua ideia de filmá-los, mas os sonhos do mascate são prejudicados pela ditadura do Estado Novo."
+    },
+    {
+      "show_name": "Maria - Ninguém Sabe Quem Sou Eu",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_maria-ninguem-sabe-quem-sou-eu-2022_l_m.jpg",
+      "show_category": "Documentary / 2022",
+      "start_time": "10:25",
+      "end_time": "12:10",
+      "episode_description": "Em um depoimento inédito e exclusivo gravado no teatro do Hotel Copacabana Palace entrecortado por imagens de arquivo, a cantora Maria Bethânia, que completou 55 anos de carreira em 2020, faz um passeio por sua trajetória."
+    },
+    {
+      "show_name": "Terror Mandelão",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_terror-mandel-o-2024_l_m.jpg",
+      "show_category": "Documentary / 2024",
+      "start_time": "12:10",
+      "end_time": "13:25",
+      "episode_description": "Aborda o som, a tecnologia e o mercado de trabalho dos bailes funk das quebradas de São Paulo. Acompanha a caminhada do DJ K, um dos principais DJs do Baile do Helipa, a maior favela da cidade, e seu amigo MC Zero K, que emplacou o seu primeiro hit da vida após dez anos insistindo na carreira. Mostra os altos e baixos enfrentados pelos jovens na luta para viver da sua música."
+    },
     {
       "show_name": "Pílulas Espelho",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_pilulas-espelho_l_m.jpg",
       "show_category": "Interview",
-      "start_time": "00:41",
-      "end_time": "00:45",
+      "start_time": "13:25",
+      "end_time": "13:30",
       "episode_description": "Lázaro Ramos entrevista personalidades para debater assuntos plurais e atuais da sociedade, como democracia, cidadania, valorização da cultura negra, exclusão digital, liberdade e, também, educação e arte."
     },
     {
-      "show_name": "Sobrepostas - Corpo e Desejo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sobrepostas-corpo-e-desejo-s02e06-isabel-dias_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 6 - Isabel Dias",
-      "start_time": "00:45",
-      "end_time": "01:00",
-      "episode_description": "Isabel Dias destaca que adora viver a velhice, explorar a sua sexualidade e conta como por muito tempo se sentiu culpada por explorar os seus desejos."
-    },
-    {
-      "show_name": "302",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_302_l_m.jpg",
-      "show_category": "Documentary",
-      "start_time": "01:00",
-      "end_time": "01:15",
-      "episode_description": "A carioca Monique fala sobre as mudanças que ocorreram em sua vida após o nascimento do filho, o processo de reconexão com a sua feminilidade, e as dificuldades na relação com o pai."
-    },
-    {
-      "show_name": "Dormir de Olhos Abertos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_dormir-de-olhos-abertos-2024_l_m.jpg",
-      "show_category": "Drama / 2024",
-      "start_time": "01:15",
-      "end_time": "02:55",
-      "episode_description": "Distantes de suas terras natais, e alheios à cultura recifense, Xiao Xin, Fu Ang e Kai subvertem a lógica do turista desejando acumular experiências ou somar destinos em sua lista pessoal. Eles operam na lógica da subtração. Assim, caminham sempre, porém sem rumo definido. Perambulam pelas avenidas, pelo centro lotado de comerciantes e pedestres, pelas praias e calçadas."
-    },
-    {
-      "show_name": "Tolerância",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_tolerancia-2000_l_m.jpg",
-      "show_category": "Drama / 2000",
-      "start_time": "02:55",
-      "end_time": "04:45",
-      "episode_description": "Duas pessoas apaixonadas percebem que, na prática, suas teorias libertárias não funcionam quando a emoção está em jogo."
-    },
-    {
-      "show_name": "Cabeça a Prêmio",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cabeca-a-premio-2009_l_m.jpg",
-      "show_category": "Drama / 2009 /5.7",
-      "start_time": "04:45",
-      "end_time": "04:45",
-      "episode_description": "A família Menezes é uma família poderosa de criadores de animais do Centro-Oeste e sempre estiveram à frente de todas as transações ilegais na região. Nos últimos tempos, eles têm observado como o sistema que os protegeu durante tantos anos se desintegra lentamente. Mirão Menezes vive à mercê da indústria do narcotráfico, das autoridades cada vez mais abusivas e da permanente e violenta luta pelo poder com seu irmão Abílio."
-    },
-    {
-      "show_name": "Cabeça a Prêmio",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cabeca-a-premio-2009_l_m.jpg",
-      "show_category": "Drama / 2009 /5.7",
-      "start_time": "04:45",
-      "end_time": "06:25",
-      "episode_description": "A família Menezes é uma família poderosa de criadores de animais do Centro-Oeste e sempre estiveram à frente de todas as transações ilegais na região. Nos últimos tempos, eles têm observado como o sistema que os protegeu durante tantos anos se desintegra lentamente. Mirão Menezes vive à mercê da indústria do narcotráfico, das autoridades cada vez mais abusivas e da permanente e violenta luta pelo poder com seu irmão Abílio."
-    },
-    {
-      "show_name": "O Fim de uma Era",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-fim-de-uma-era-2015-1_l_m.jpg",
-      "show_category": "Docudrama / 2015",
-      "start_time": "06:25",
-      "end_time": "07:40",
-      "episode_description": "Quatro pessoas se lembram do passado para tentar compreender a inexplicável experiência que tiveram."
-    },
-    {
-      "show_name": "Che - Memórias de um Ano Secreto",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_che-memorias-de-um-ano-secreto-2018_l_m.jpg",
-      "show_category": "Documentary / 2018",
-      "start_time": "07:40",
-      "end_time": "09:00",
-      "episode_description": "Em dezembro de 1965, no auge da Guerra Fria, Che Guevara desaparece misteriosamente. Com uma identidade falsa, ele vai escoltado por ex-agentes do Serviço de Inteligência Cubano que agora revelam detalhes inéditos da operação."
-    },
-    {
-      "show_name": "Panca de Valente",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_panca-de-valente-1968_l_m.jpg",
-      "show_category": "Comedy / 1968",
-      "start_time": "09:00",
-      "end_time": "10:35",
-      "episode_description": "Em uma cidade do interior, Costa Larga age impunemente. Para garantir seus golpes, o bandido coloca como delegado o indivíduo mais incapaz do vilarejo. No entanto, Costa Larga não contava que ele se transformaria em um fiel cumpridor da lei."
-    },
-    {
-      "show_name": "Fado Tropical",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_fado-tropical-2019_l_m.jpg",
-      "show_category": "Drama / 2019",
-      "start_time": "10:35",
-      "end_time": "12:10",
-      "episode_description": "Após anos separados, os irmãos brasileiros Isabel e Antonio se reencontram na cidade de Lisboa, Portugal. Agora, a dupla decide embarcar em uma viagem emocionante pelo país natal de seu pai, que faleceu recentemente."
-    },
-    {
-      "show_name": "Memória Sufocada",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_memoria-sufocada-2023_l_m.jpg",
-      "show_category": "Documentary / 2023",
-      "start_time": "12:10",
-      "end_time": "13:30",
-      "episode_description": "Documentário investiga o passado do coronel Brilhante Ustra, militar condenado por tortura durante a ditadura militar. Por meio de buscas on-line, o passado do Brasil é reconstruído."
-    },
-    {
-      "show_name": "Memórias da Chibata",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_memorias-da-chibata_l_m.jpg",
-      "show_category": "Special",
-      "start_time": "13:30",
-      "end_time": "13:45",
-      "episode_description": "Juca é um menino negro que vê sua mãe e seus amigos apanharem de seu padrasto. Ao descobrir que é bisneto de João Cândido, o líder da Revolta da Chibata, o garoto decide tomar uma atitude radical."
-    },
-    {
-      "show_name": "Eu me Chamo Darwin",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_eu-me-chamo-darwin-2025_l_m.jpg",
+      "show_name": "Meça Três Vezes Antes de Cortar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_meca-tres-vezes-antes-de-cortar-2025_l_m.jpg",
       "show_category": "Documentary / 2025",
-      "start_time": "13:45",
-      "end_time": "14:00",
-      "episode_description": "Uma reflexão sobre a identidade com base na memória. Quem somos, como somos vistos e como os pequenos gestos podem estar carregados de sentidos e intenções - às vezes ocultas, às vezes nem tanto."
-    },
-    {
-      "show_name": "Augusto Boal e o Teatro do Oprimido",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_augusto-boal-e-o-teatro-do-oprimido-2010_l_m.jpg",
-      "show_category": "Documentary / 2010 /5.7",
-      "start_time": "14:00",
-      "end_time": "15:05",
-      "episode_description": "A trajetória de Augusto Boal, teatrólogo brasileiro cuja obra é difundida em todo o mundo. O dramaturgo foi o criador de técnicas inovadoras, como a dos Teatros do Oprimido, de Arena e o Invisível."
-    },
-    {
-      "show_name": "Ainda Não É Amanhã",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_ainda-n-o-e-amanh-2024_l_m.jpg",
-      "show_category": "Drama / 2024",
-      "start_time": "15:05",
-      "end_time": "16:25",
-      "episode_description": "Janaína é uma garota de 18 anos que vive com sua mãe e avó em um conjunto habitacional na periferia de Recife. Ela é a primeira de sua família que pode obter um diploma universitário, mas uma gravidez indesejada ameaça seus planos."
-    },
-    {
-      "show_name": "Três Verões",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_tres-ver-es-2019_l_m.jpg",
-      "show_category": "Comedy drama / 2019",
-      "start_time": "16:25",
-      "end_time": "18:00",
-      "episode_description": "Edgar e Marta formam um rico casal que, em todo verão, entre o Natal e o Ano Novo, recebe amigos e família para festas em sua mansão à beira-mar. Entretanto, quem de fato organiza a casa e gerência os empregados é Madalena, que sonha em comprar um terreno para poder abrir seu próprio negócio. Com isso, ela pede ajuda ao patrão, que lhe empresta dinheiro para ser descontado mensalmente de seu salário, sem imaginar no quanto seria envolvida em seus negócios."
-    },
-    {
-      "show_name": "Libelu - Abaixo a Ditadura",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_libelu-abaixo-a-ditadura-2020_l_m.jpg",
-      "show_category": "Documentary / 2020",
-      "start_time": "18:00",
-      "end_time": "19:30",
-      "episode_description": "Liberdade e Luta foi um grupo trotskista universitário surgido em 1976. Impulsionada por uma organização clandestina, a tendência estudantil ganhou fama ao retomar ao lema \"abaixo a ditadura\". Seus integrantes eram famosos pela irreverência e abertura cultural. Entre os anos 1970 e 1980, Libelu se tornou adjetivo, sinônimo de radicalismo e, para adversários, inconsequência política. O documentário mostra onde estão e o que pensam os jovens trotskistas que foram às ruas contra os generais."
-    },
-    {
-      "show_name": "Cinejornal",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cinejornal_l_m.jpg",
-      "show_category": "Art",
-      "start_time": "19:30",
-      "end_time": "19:54",
-      "episode_description": "O cinema brasileiro em pauta com as novidades e os bastidores da produção nacional, entrevistas com atores e diretores e a cobertura completa de festivais importantes em todo o país."
+      "start_time": "13:30",
+      "end_time": "13:53",
+      "episode_description": "Releitura do Bumba Meu Boi mistura biografia e identidade. Personagens buscam um boi raro e sua língua, em dança com seres encantados, num ritual de desejo, alimento e revolução."
     },
     {
       "show_name": "Guard Dog & Bill Plympton no Brasil",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_guard-dog-bill-plympton-no-brasil_l_m.jpg",
       "show_category": "Children",
-      "start_time": "19:54",
-      "end_time": "20:00",
+      "start_time": "13:53",
+      "end_time": "14:00",
       "episode_description": "Um ansioso e neurótico cãozinho se desgarra de seu dono Plympton e parte rumo a pequenas aventuras ao chegar no Brasil."
     },
     {
-      "show_name": "Elena",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_elena-2012_l_m.jpg",
-      "show_category": "Documentary / 2012 /7.8",
-      "start_time": "20:00",
-      "end_time": "21:23",
-      "episode_description": "Petra Costa busca sua irmã, Elena, que foi a Nova York 20 anos atrás realizar o sonho de ser atriz."
+      "show_name": "Cinejornal",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cinejornal_l_m.jpg",
+      "show_category": "Art",
+      "start_time": "14:00",
+      "end_time": "14:23",
+      "episode_description": "O cinema brasileiro em pauta com as novidades e os bastidores da produção nacional, entrevistas com atores e diretores e a cobertura completa de festivais importantes em todo o país."
     },
     {
-      "show_name": "Noturnas - Memórias do Transformismo Carioca",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_noturnas-memorias-do-transformismo-carioca_l_m.jpg",
-      "show_category": "Documentary",
-      "start_time": "21:23",
-      "end_time": "21:30",
-      "episode_description": ""
+      "show_name": "Inéditas, Dispersas e Animadas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ineditas-dispersas-e-animadas_l_m.jpg",
+      "show_category": "Talk",
+      "start_time": "14:23",
+      "end_time": "14:30",
+      "episode_description": "Grandes nomes da cultura brasileira se encontram de forma lúdica em pequenas entrevistas ilustradas."
     },
     {
-      "show_name": "Bacurau",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_bacurau-2019_l_m.jpg",
-      "show_category": "Science fiction / 2019 /7.9",
-      "start_time": "21:30",
-      "end_time": "23:40",
-      "episode_description": "Os moradores de Bacurau, um pequeno povoado do sertão brasileiro, descobrem que a comunidade não consta mais em qualquer mapa. Aos poucos, eles percebem algo estranho na região: enquanto drones passeiam pelos céus, estrangeiros chegam à cidade. Quando carros são baleados e cadáveres começam a aparecer, Teresa, Domingas, Acácio, Plínio, Lunga e outros habitantes chegam à conclusão de que estão sendo atacados. Agora, o grupo precisa identificar o inimigo e criar coletivamente um meio de defesa."
+      "show_name": "Espelho - 20 Anos Depois",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_espelho-20-anos-depois-s01e333-clara-moneke-e-juan-paiva_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 333 - Clara Moneke e Juan Paiva",
+      "start_time": "14:30",
+      "end_time": "15:00",
+      "episode_description": "Moldado em formato de entrevistas, o programa propõe conversas aprofundadas sobre identidade, cultura e questões sociais a partir das experiências de seus convidados."
     },
     {
-      "show_name": "Recife Frio",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_recife-frio-2009_l_m.jpg",
-      "show_category": "Science fiction / 2009 /7.0",
-      "start_time": "23:40",
+      "show_name": "Libelu - Abaixo a Ditadura",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_libelu-abaixo-a-ditadura-2020_l_m.jpg",
+      "show_category": "Documentary / 2020",
+      "start_time": "15:00",
+      "end_time": "16:30",
+      "episode_description": "Liberdade e Luta foi um grupo trotskista universitário surgido em 1976. Impulsionada por uma organização clandestina, a tendência estudantil ganhou fama ao retomar ao lema \"abaixo a ditadura\". Seus integrantes eram famosos pela irreverência e abertura cultural. Entre os anos 1970 e 1980, Libelu se tornou adjetivo, sinônimo de radicalismo e, para adversários, inconsequência política. O documentário mostra onde estão e o que pensam os jovens trotskistas que foram às ruas contra os generais."
+    },
+    {
+      "show_name": "Eu, Pecador",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_eu-pecador-2021_l_m.jpg",
+      "show_category": "Documentary / 2021",
+      "start_time": "16:30",
+      "end_time": "18:00",
+      "episode_description": "Conheça a história de Agnaldo Timóteo, talentoso cantor e político polêmico. As marcantes trajetórias de sua carreira, shows impecáveis e a sua última campanha eleitoral para vereador no Rio."
+    },
+    {
+      "show_name": "Mangueira em 2 Tempos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mangueira-em-2-tempos-2021_l_m.jpg",
+      "show_category": "Documentary / 2021",
+      "start_time": "18:00",
+      "end_time": "19:30",
+      "episode_description": "Depois de 30 anos, o filme revisita amigos de infância do vídeo \"Mangueira do Amanhã\", sobre a escola de samba mirim. Suas histórias revelam a vida dos moradores das favelas do RJ e seus surpreendentes destinos."
+    },
+    {
+      "show_name": "Tropa de Elite 2 - O Inimigo Agora É Outro",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tropa-de-elite-2-o-inimigo-agora-e-outro-2010-2_l_m.jpg",
+      "show_category": "Action / 2010",
+      "start_time": "19:30",
+      "end_time": "21:25",
+      "episode_description": "Depois de uma operação fracassada, Nascimento é afastado do Bope e agora trabalha como subsecretário de Inteligência na Secretaria de Segurança Pública do Rio de Janeiro. No novo cargo, o ex-capitão é arrastado para uma disputa política sangrenta que envolve funcionários do governo e grupos paramilitares."
+    },
+    {
+      "show_name": "Praia do Futuro",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_praia-do-futuro-2014-1_l_m.jpg",
+      "show_category": "Drama / 2014",
+      "start_time": "21:25",
+      "end_time": "23:10",
+      "episode_description": "Donato trabalha como salva-vidas e seu irmão caçula tem grande admiração por ele devido à coragem demonstrada ao se atirar no mar para resgatar desconhecidos. Um deles é Konrad, um alemão de olhos azuis que muda por completo a vida de Donato."
+    },
+    {
+      "show_name": "Carandiru",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_carandiru-2003_l_m.jpg",
+      "show_category": "Crime drama / 2003 /7.6",
+      "start_time": "23:10",
       "end_time": "",
-      "episode_description": "Um meteorito cai sobre Recife e a cidade começa a enfrentar baixas temperaturas. O local sofre com os efeitos deste acontecimento sobrenatural e deixa de ser tropical para incluir até pinguins em sua região."
+      "episode_description": "Médico sanitarista se oferece para realizar o trabalho de prevenção ao vírus HIV no Carandiru, maior presídio da América Latina, durante a década de 1990. Ele convive diariamente com a dura realidade dos detentos e presencia a violência agravada pela superlotação, a precariedade dos serviços prestados e a animalização dos presos. Paradoxalmente, ele conhece o sistema de organização interna e o lado frágil, romântico e sonhador dos homens cumprindo pena."
     }
   ]
 }

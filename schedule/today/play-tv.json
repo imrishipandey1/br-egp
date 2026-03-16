@@ -1,278 +1,326 @@
 {
   "channel": "Play TV",
-  "date": "15/03/2026",
+  "date": "16/03/2026",
   "schedule": [
+    {
+      "show_name": "MangaQ",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_mangaq-1_l_m.jpg",
+      "show_category": "",
+      "start_time": "00:00",
+      "end_time": "00:30",
+      "episode_description": ""
+    },
     {
       "show_name": "Operação Zenkai",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_operac-o-zenkai_l_m.jpg",
       "show_category": "Entertainment",
-      "start_time": "00:00",
-      "end_time": "00:15",
+      "start_time": "00:30",
+      "end_time": "01:45",
       "episode_description": "Debates sobre o universo otaku, analisando clássicos e atualidades da cultura pop."
     },
     {
-      "show_name": "Galactica: Astronave de Combate",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_galactica-astronave-de-combate-1979_l_m.jpg",
-      "show_category": "Science fiction / 1979",
-      "start_time": "00:15",
-      "end_time": "02:45",
-      "episode_description": "Após a destruição das Doze Colônias da Humanidade, a última grande nave lidera uma frota improvisada de fugitivos em uma busca desesperada pelo lendário planeta Terra."
-    },
-    {
-      "show_name": "Caliente",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_caliente_l_m.jpg",
-      "show_category": "Music",
-      "start_time": "02:45",
-      "end_time": "02:50",
-      "episode_description": "Verão, calor, balada, pegação e muita música para embalar tudo isso. Sua madrugada fica mais quente com esta seleção dos clipes mais sensuais dos artistas do momento."
-    },
-    {
-      "show_name": "Caliente",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_caliente_l_m.jpg",
-      "show_category": "Music",
-      "start_time": "02:50",
-      "end_time": "02:55",
-      "episode_description": "Verão, calor, balada, pegação e muita música para embalar tudo isso. Sua madrugada fica mais quente com esta seleção dos clipes mais sensuais dos artistas do momento."
-    },
-    {
-      "show_name": "Caliente",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_caliente_l_m.jpg",
-      "show_category": "Music",
-      "start_time": "02:55",
+      "show_name": "Operação Zenkai",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_operac-o-zenkai_l_m.jpg",
+      "show_category": "Entertainment",
+      "start_time": "01:45",
       "end_time": "03:00",
-      "episode_description": "Verão, calor, balada, pegação e muita música para embalar tudo isso. Sua madrugada fica mais quente com esta seleção dos clipes mais sensuais dos artistas do momento."
+      "episode_description": "Debates sobre o universo otaku, analisando clássicos e atualidades da cultura pop."
     },
     {
-      "show_name": "Caliente",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_caliente_l_m.jpg",
-      "show_category": "Music",
+      "show_name": "Yosuga no Sora: In Solitude Where We Are Least Alone",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_yosuga-no-sora-in-solitude-where-we-are-least-alone-s01e10_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 10",
       "start_time": "03:00",
-      "end_time": "03:05",
+      "end_time": "03:30",
+      "episode_description": "Haruka tenta conversar com Sora sobre seu relacionamento com Nao, mas desta vez Sora está sempre em seus pensamentos."
+    },
+    {
+      "show_name": "Fascinada por Garotas Mágicas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_fascinada-por-garotas-magicas-s01e10_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 10",
+      "start_time": "03:30",
+      "end_time": "04:00",
+      "episode_description": "Utena realiza sua transformação, mas descobre que virou vilã. Ao confrontar as garotas mágicas, ela sente a mudança: seu sonho de heroína se destroça quando sua natureza sádica aflora."
+    },
+    {
+      "show_name": "Caliente",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_caliente_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "04:00",
+      "end_time": "04:05",
       "episode_description": "Verão, calor, balada, pegação e muita música para embalar tudo isso. Sua madrugada fica mais quente com esta seleção dos clipes mais sensuais dos artistas do momento."
     },
     {
       "show_name": "Caliente",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_caliente_l_m.jpg",
       "show_category": "Music",
-      "start_time": "03:05",
-      "end_time": "03:10",
+      "start_time": "04:05",
+      "end_time": "04:10",
       "episode_description": "Verão, calor, balada, pegação e muita música para embalar tudo isso. Sua madrugada fica mais quente com esta seleção dos clipes mais sensuais dos artistas do momento."
     },
     {
       "show_name": "Caliente",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_caliente_l_m.jpg",
       "show_category": "Music",
-      "start_time": "03:10",
-      "end_time": "03:15",
-      "episode_description": "Verão, calor, balada, pegação e muita música para embalar tudo isso. Sua madrugada fica mais quente com esta seleção dos clipes mais sensuais dos artistas do momento."
-    },
-    {
-      "show_name": "Ponto Kpop",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_ponto-kpop_l_m.jpg",
-      "show_category": "Talk",
-      "start_time": "03:15",
+      "start_time": "04:10",
       "end_time": "04:15",
-      "episode_description": "Novidades e curiosidades do universo da música pop sul-coreana."
+      "episode_description": "Verão, calor, balada, pegação e muita música para embalar tudo isso. Sua madrugada fica mais quente com esta seleção dos clipes mais sensuais dos artistas do momento."
     },
     {
-      "show_name": "Crossplay",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_crossplay_l_m.jpg",
-      "show_category": "Variety",
+      "show_name": "Caliente",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_caliente_l_m.jpg",
+      "show_category": "Music",
       "start_time": "04:15",
-      "end_time": "05:15",
-      "episode_description": "Programa mostra os maiores sucessos da Ubisoft TV, com dublagens de jogos, entrevistas com influenciadores e muito mais."
+      "end_time": "04:20",
+      "episode_description": "Verão, calor, balada, pegação e muita música para embalar tudo isso. Sua madrugada fica mais quente com esta seleção dos clipes mais sensuais dos artistas do momento."
     },
     {
-      "show_name": "Interferência 90s",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_interferencia-90s_l_m.jpg",
+      "show_name": "Caliente",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_caliente_l_m.jpg",
       "show_category": "Music",
-      "start_time": "05:15",
-      "end_time": "05:20",
-      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 1990."
+      "start_time": "04:20",
+      "end_time": "04:25",
+      "episode_description": "Verão, calor, balada, pegação e muita música para embalar tudo isso. Sua madrugada fica mais quente com esta seleção dos clipes mais sensuais dos artistas do momento."
     },
     {
-      "show_name": "Interferência 90s",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_interferencia-90s_l_m.jpg",
+      "show_name": "Caliente",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_caliente_l_m.jpg",
       "show_category": "Music",
-      "start_time": "05:20",
-      "end_time": "05:25",
-      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 1990."
-    },
-    {
-      "show_name": "Interferência 90s",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_interferencia-90s_l_m.jpg",
-      "show_category": "Music",
-      "start_time": "05:25",
-      "end_time": "05:30",
-      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 1990."
+      "start_time": "04:25",
+      "end_time": "04:30",
+      "episode_description": "Verão, calor, balada, pegação e muita música para embalar tudo isso. Sua madrugada fica mais quente com esta seleção dos clipes mais sensuais dos artistas do momento."
     },
     {
       "show_name": "Clip K",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_clip-k_l_m.jpg",
       "show_category": "Music",
-      "start_time": "05:30",
-      "end_time": "05:35",
+      "start_time": "04:30",
+      "end_time": "04:35",
       "episode_description": "Sequência de clipes de música pop coreana, o chamado k-pop. O gênero musical originado na Coreia do Sul se caracteriza pela variedade de elementos audiovisuais em suas exibições, em shows e vídeos."
     },
     {
       "show_name": "Clip K",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_clip-k_l_m.jpg",
       "show_category": "Music",
-      "start_time": "05:35",
-      "end_time": "05:40",
+      "start_time": "04:35",
+      "end_time": "04:40",
       "episode_description": "Sequência de clipes de música pop coreana, o chamado k-pop. O gênero musical originado na Coreia do Sul se caracteriza pela variedade de elementos audiovisuais em suas exibições, em shows e vídeos."
     },
     {
       "show_name": "Clip K",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_clip-k_l_m.jpg",
       "show_category": "Music",
-      "start_time": "05:40",
-      "end_time": "05:45",
+      "start_time": "04:40",
+      "end_time": "04:45",
       "episode_description": "Sequência de clipes de música pop coreana, o chamado k-pop. O gênero musical originado na Coreia do Sul se caracteriza pela variedade de elementos audiovisuais em suas exibições, em shows e vídeos."
     },
     {
       "show_name": "Clip K",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_clip-k_l_m.jpg",
       "show_category": "Music",
-      "start_time": "05:45",
-      "end_time": "05:50",
+      "start_time": "04:45",
+      "end_time": "04:50",
       "episode_description": "Sequência de clipes de música pop coreana, o chamado k-pop. O gênero musical originado na Coreia do Sul se caracteriza pela variedade de elementos audiovisuais em suas exibições, em shows e vídeos."
     },
     {
       "show_name": "Clip K",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_clip-k_l_m.jpg",
       "show_category": "Music",
-      "start_time": "05:50",
-      "end_time": "05:55",
+      "start_time": "04:50",
+      "end_time": "04:55",
       "episode_description": "Sequência de clipes de música pop coreana, o chamado k-pop. O gênero musical originado na Coreia do Sul se caracteriza pela variedade de elementos audiovisuais em suas exibições, em shows e vídeos."
     },
     {
       "show_name": "Clip K",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_clip-k_l_m.jpg",
       "show_category": "Music",
-      "start_time": "05:55",
-      "end_time": "06:00",
+      "start_time": "04:55",
+      "end_time": "05:00",
       "episode_description": "Sequência de clipes de música pop coreana, o chamado k-pop. O gênero musical originado na Coreia do Sul se caracteriza pela variedade de elementos audiovisuais em suas exibições, em shows e vídeos."
     },
     {
       "show_name": "Interferência 80s",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_interferencia-80s_l_m.jpg",
       "show_category": "Music",
-      "start_time": "06:00",
-      "end_time": "06:30",
+      "start_time": "05:00",
+      "end_time": "05:05",
+      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 1980."
+    },
+    {
+      "show_name": "Interferência 80s",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_interferencia-80s_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "05:05",
+      "end_time": "05:10",
+      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 1980."
+    },
+    {
+      "show_name": "Interferência 80s",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_interferencia-80s_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "05:10",
+      "end_time": "05:15",
+      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 1980."
+    },
+    {
+      "show_name": "Interferência 80s",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_interferencia-80s_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "05:15",
+      "end_time": "05:20",
+      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 1980."
+    },
+    {
+      "show_name": "Interferência 80s",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_interferencia-80s_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "05:20",
+      "end_time": "05:25",
+      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 1980."
+    },
+    {
+      "show_name": "Interferência 80s",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_interferencia-80s_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "05:25",
+      "end_time": "05:30",
       "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 1980."
     },
     {
       "show_name": "Interferência 90s",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_interferencia-90s_l_m.jpg",
       "show_category": "Music",
-      "start_time": "06:30",
-      "end_time": "07:00",
+      "start_time": "05:30",
+      "end_time": "05:35",
       "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 1990."
     },
     {
-      "show_name": "Interferência 00s",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_interferencia-00s_l_m.jpg",
+      "show_name": "Interferência 90s",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_interferencia-90s_l_m.jpg",
       "show_category": "Music",
+      "start_time": "05:35",
+      "end_time": "05:40",
+      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 1990."
+    },
+    {
+      "show_name": "Interferência 90s",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_interferencia-90s_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "05:40",
+      "end_time": "05:45",
+      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 1990."
+    },
+    {
+      "show_name": "Interferência 90s",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_interferencia-90s_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "05:45",
+      "end_time": "05:50",
+      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 1990."
+    },
+    {
+      "show_name": "Interferência 90s",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_interferencia-90s_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "05:50",
+      "end_time": "05:55",
+      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 1990."
+    },
+    {
+      "show_name": "Interferência 90s",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_interferencia-90s_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "05:55",
+      "end_time": "06:00",
+      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 1990."
+    },
+    {
+      "show_name": "Clip K",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_clip-k_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "06:00",
+      "end_time": "06:30",
+      "episode_description": "Sequência de clipes de música pop coreana, o chamado k-pop. O gênero musical originado na Coreia do Sul se caracteriza pela variedade de elementos audiovisuais em suas exibições, em shows e vídeos."
+    },
+    {
+      "show_name": "Interferência 80s",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_interferencia-80s_l_m.jpg",
+      "show_category": "Music",
+      "start_time": "06:30",
+      "end_time": "07:00",
+      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 1980."
+    },
+    {
+      "show_name": "Ponto Pop",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ponto-pop_l_m.jpg",
+      "show_category": "Talk",
       "start_time": "07:00",
       "end_time": "07:30",
-      "episode_description": "Uma seleção de clipes clássicos e sucessos inesquecíveis da década de 2000."
-    },
-    {
-      "show_name": "100% Brasil",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_100-brasil_l_m.jpg",
-      "show_category": "Music",
-      "start_time": "07:30",
-      "end_time": "08:00",
-      "episode_description": "Exibição de sequência de videoclipes de artistas brasileiros."
-    },
-    {
-      "show_name": "Oi! Tonbo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_oi-tonbo-s01e10-condic-es-para-um-buraco-grandioso_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 10 - Condições para um Buraco Grandioso",
-      "start_time": "08:00",
-      "end_time": "08:30",
-      "episode_description": "Igarashi enfrenta Kuta, o projetista apaixonado por golfe, em uma batalha de inteligência com suas estratégias. Tonbo, por outro lado, completa o percurso com tacadas criativas que superam as expectativas de Kuta."
-    },
-    {
-      "show_name": "Needless",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_needless-s01e05_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 5",
-      "start_time": "08:30",
-      "end_time": "09:00",
-      "episode_description": "Ao entrarem na Montanha de Ferro, Blade e a equipe recebem ajuda de uma pequena maravilha tecnológica; a fortaleza é invadida por um trio de assassinas mortais chamadas Girl Squadron."
-    },
-    {
-      "show_name": "Anime Onegai",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_anime-onegai_l_m.jpg",
-      "show_category": "Variety",
-      "start_time": "09:00",
-      "end_time": "10:00",
-      "episode_description": "Todas as novidades do universo otaku e episódios dos animes do momento."
-    },
-    {
-      "show_name": "Anime Onegai",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_anime-onegai_l_m.jpg",
-      "show_category": "Variety",
-      "start_time": "10:00",
-      "end_time": "11:00",
-      "episode_description": "Todas as novidades do universo otaku e episódios dos animes do momento."
-    },
-    {
-      "show_name": "Crossplay",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_crossplay_l_m.jpg",
-      "show_category": "Variety",
-      "start_time": "11:00",
-      "end_time": "12:00",
-      "episode_description": "Programa mostra os maiores sucessos da Ubisoft TV, com dublagens de jogos, entrevistas com influenciadores e muito mais."
+      "episode_description": "Confira as atualidades do universo da música pop e fique em sintonia com os últimos lançamentos, curiosidades e a carreira dos nomes mais tocados nas FMs do mundo todo."
     },
     {
       "show_name": "Nerd Rank",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_nerd-rank_l_m.jpg",
       "show_category": "Variety",
-      "start_time": "12:00",
-      "end_time": "12:30",
+      "start_time": "07:30",
+      "end_time": "08:00",
       "episode_description": "Dudu Saad dá sua opinião sobre animes, conta curiosidades e cria listas."
+    },
+    {
+      "show_name": "Anime Onegai",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_anime-onegai_l_m.jpg",
+      "show_category": "Variety",
+      "start_time": "08:00",
+      "end_time": "09:00",
+      "episode_description": "Todas as novidades do universo otaku e episódios dos animes do momento."
+    },
+    {
+      "show_name": "Sonic X",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sonic-x-s02e09-escape-da-ilha-pris-o_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 9 - Escape da Ilha Prisão",
+      "start_time": "09:00",
+      "end_time": "09:30",
+      "episode_description": "Sonic está detido em uma prisão de segurança máxima na prisão da ilha, graças a Shadow e Eggman; Vampira e Sombra procuram as esmeraldas do caos."
     },
     {
       "show_name": "Sonic X",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sonic-x-s02e10-uma-ameaca-do-espaco-exterior_l_m.jpg",
       "show_category": "Temporada 2 Episódio 10 - Uma Ameaça do Espaço Exterior",
-      "start_time": "12:30",
-      "end_time": "13:00",
+      "start_time": "09:30",
+      "end_time": "10:00",
       "episode_description": "Sonic vai procurar por Chris. Eggman sequestrou Chris depois que a prisão da ilha é destruída."
     },
     {
-      "show_name": "K'artistas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_k-artistas_l_m.jpg",
+      "show_name": "Operação Zenkai",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_operac-o-zenkai_l_m.jpg",
+      "show_category": "Entertainment",
+      "start_time": "10:00",
+      "end_time": "11:15",
+      "episode_description": "Debates sobre o universo otaku, analisando clássicos e atualidades da cultura pop."
+    },
+    {
+      "show_name": "Debate Placar",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-debate-placar_l_m.jpg",
       "show_category": "",
+      "start_time": "11:15",
+      "end_time": "13:00",
+      "episode_description": "Comentaristas de diferentes gerações e com visões distintas debatem o futebol com informação, relevância e leveza. Com foco nos clubes paulistas, o programa promove debates intensos e descontraídos."
+    },
+    {
+      "show_name": "Placar Aberto",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_placar-aberto_l_m.jpg",
+      "show_category": "Sports talk",
       "start_time": "13:00",
-      "end_time": "13:15",
-      "episode_description": ""
+      "end_time": "14:45",
+      "episode_description": "As principais noticias e análises do futebol carioca, comandado pela revista Placar."
     },
     {
       "show_name": "Play News",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_play-news-s02e34_l_m.jpg",
       "show_category": "Temporada 2 Episódio 34",
-      "start_time": "13:15",
-      "end_time": "13:30",
-      "episode_description": "Informações atualizadas sobre a cultura pop, com precisão e bom humor, uma mescla de notícia e entretenimento de maneira única."
-    },
-    {
-      "show_name": "Gamescom",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_gamescom-s01e02-rpg_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 2 - RPG",
-      "start_time": "13:30",
-      "end_time": "14:00",
-      "episode_description": "Profissionais dos games exploram como funciona o mercado dos fãs."
-    },
-    {
-      "show_name": "Ponto Kpop",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_ponto-kpop_l_m.jpg",
-      "show_category": "Talk",
-      "start_time": "14:00",
+      "start_time": "14:45",
       "end_time": "15:00",
-      "episode_description": "Novidades e curiosidades do universo da música pop sul-coreana."
+      "episode_description": "Informações atualizadas sobre a cultura pop, com precisão e bom humor, uma mescla de notícia e entretenimento de maneira única."
     },
     {
       "show_name": "Orientique Tapetes",
@@ -283,44 +331,52 @@
       "episode_description": "Tapetes persas e orientais de altíssima qualidade com selo de confiança e garantia."
     },
     {
-      "show_name": "Operação Zenkai",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_operac-o-zenkai_l_m.jpg",
+      "show_name": "W7M TV",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_w7m-tv_l_m.jpg",
       "show_category": "Entertainment",
       "start_time": "18:00",
-      "end_time": "19:15",
-      "episode_description": "Debates sobre o universo otaku, analisando clássicos e atualidades da cultura pop."
-    },
-    {
-      "show_name": "História dos Games",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_historia-dos-games-s01e02-anos-80_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 2 - Anos 80",
-      "start_time": "19:15",
-      "end_time": "19:30",
-      "episode_description": "Os jogos eletrônicos que encantam há décadas têm muitas histórias para contar. Matheus Carvalho descobre curiosidades e aprende sobre diversos games."
-    },
-    {
-      "show_name": "MangaQ",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_mangaq-1_l_m.jpg",
-      "show_category": "",
-      "start_time": "19:30",
-      "end_time": "20:00",
-      "episode_description": ""
+      "end_time": "18:30",
+      "episode_description": "Baptista Miranda e influenciadores desafiam todos os limites em um programa repleto de ousadia."
     },
     {
       "show_name": "Nerd Rank",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_nerd-rank_l_m.jpg",
       "show_category": "Variety",
-      "start_time": "20:00",
-      "end_time": "20:30",
+      "start_time": "18:30",
+      "end_time": "19:00",
       "episode_description": "Dudu Saad dá sua opinião sobre animes, conta curiosidades e cria listas."
     },
     {
-      "show_name": "Operação Zenkai",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_operac-o-zenkai_l_m.jpg",
-      "show_category": "Entertainment",
+      "show_name": "Ponto Kpop",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_ponto-kpop_l_m.jpg",
+      "show_category": "Talk",
+      "start_time": "19:00",
+      "end_time": "20:00",
+      "episode_description": "Novidades e curiosidades do universo da música pop sul-coreana."
+    },
+    {
+      "show_name": "Game Over",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_game-over_l_m.jpg",
+      "show_category": "Gaming",
+      "start_time": "20:00",
+      "end_time": "20:30",
+      "episode_description": "Acompanhe as melhores análises, entrevistas, matérias, trailers e tudo sobre o mundo dos games."
+    },
+    {
+      "show_name": "Crossplay",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_crossplay_l_m.jpg",
+      "show_category": "Variety",
       "start_time": "20:30",
+      "end_time": "21:30",
+      "episode_description": "Programa mostra os maiores sucessos da Ubisoft TV, com dublagens de jogos, entrevistas com influenciadores e muito mais."
+    },
+    {
+      "show_name": "Play News",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_play-news-s02e34_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 34",
+      "start_time": "21:30",
       "end_time": "21:45",
-      "episode_description": "Debates sobre o universo otaku, analisando clássicos e atualidades da cultura pop."
+      "episode_description": "Informações atualizadas sobre a cultura pop, com precisão e bom humor, uma mescla de notícia e entretenimento de maneira única."
     },
     {
       "show_name": "Operação Zenkai",
@@ -331,12 +387,12 @@
       "episode_description": "Debates sobre o universo otaku, analisando clássicos e atualidades da cultura pop."
     },
     {
-      "show_name": "Crossplay",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_crossplay_l_m.jpg",
-      "show_category": "Variety",
+      "show_name": "Operação Zenkai",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_operac-o-zenkai_l_m.jpg",
+      "show_category": "Entertainment",
       "start_time": "23:00",
       "end_time": "00:00",
-      "episode_description": "Programa mostra os maiores sucessos da Ubisoft TV, com dublagens de jogos, entrevistas com influenciadores e muito mais."
+      "episode_description": "Debates sobre o universo otaku, analisando clássicos e atualidades da cultura pop."
     }
   ]
 }

@@ -1,398 +1,422 @@
 {
   "channel": "Food Network",
-  "date": "15/03/2026",
+  "date": "16/03/2026",
   "schedule": [
     {
       "show_name": "Giada Faz a Festa",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_giada-faz-a-festa-s04e13-brunch-de-pascoa_l_m.jpg",
-      "show_category": "Temporada 4 Episódio 13 - Brunch de Páscoa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_giada-faz-a-festa-s05e02-jantar-com-tv_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 2 - Jantar com TV",
       "start_time": "00:07",
-      "end_time": "00:30",
-      "episode_description": "Giada de Laurentiis prepara um brunch de Páscoa para a família com recriações de pratos italianos."
+      "end_time": "00:31",
+      "episode_description": "Giada convida amigos para assistir à televisão e faz bandejas individuais para cada um, com castanhas temperadas, sanduíches de linguiça, cookies de chocolate recheados e mais."
     },
     {
       "show_name": "Receitas Caseiras da Valerie",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_receitas-caseiras-da-valerie-s09e07-massa-perfeita_l_m.jpg",
-      "show_category": "Temporada 9 Episódio 7 - Massa Perfeita",
-      "start_time": "00:30",
-      "end_time": "00:54",
-      "episode_description": "Inspirada em uma aula de culinária que teve na Itália, Valerie convida amigos para uma refeição de clássicos italianos feitos ao seu estilo. Eles bebem coquetéis de rum e vermute enquanto comem rollatini de abobrinha."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_receitas-caseiras-da-valerie-s09e09-terca-do-taco_l_m.jpg",
+      "show_category": "Temporada 9 Episódio 9 - Terça do Taco",
+      "start_time": "00:31",
+      "end_time": "00:55",
+      "episode_description": "Valerie Bertinelli faz uma terça-feira do taco, com coberturas e acompanhamentos para seus convidados Anjelah Johnson e Manwell Reyes. Ela faz frango tinga, carnitas e arroz com limão e coentro."
     },
     {
       "show_name": "Receitas Caseiras da Valerie",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_receitas-caseiras-da-valerie-s09e08-festa-no-quintal_l_m.jpg",
-      "show_category": "Temporada 9 Episódio 8 - Festa no Quintal",
-      "start_time": "00:54",
-      "end_time": "01:18",
-      "episode_description": "Valerie dá as boas-vindas ao verão com uma festa praiana no estilo italiano. Ela faz marisco frito, salada de macarrão e antepasto, sanduíches e fogos de artifício congelados para sobremesa."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_receitas-caseiras-da-valerie-s09e10-aniversario-do-john_l_m.jpg",
+      "show_category": "Temporada 9 Episódio 10 - Aniversário do John",
+      "start_time": "00:55",
+      "end_time": "01:19",
+      "episode_description": "Valerie ajuda sua amiga Melissa Peterman a fazer uma festa de aniversário. O menu inclui vieiras salteadas na manteiga de limão, focaccia de azeitona e alecrim e negroni clássico para beber."
     },
     {
       "show_name": "Refeição em 30 Minutos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_refeic-o-em-30-minutos-s29e31-frango-ao-curry-apimentado_l_m.jpg",
-      "show_category": "Temporada 29 Episódio 31 - Jantar no Sofá",
-      "start_time": "01:18",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_refeic-o-em-30-minutos-s29e34-apetite-de-luxo_l_m.jpg",
+      "show_category": "Temporada 29 Episódio 34 - Apetite de Luxo",
+      "start_time": "01:19",
       "end_time": "01:42",
-      "episode_description": "Rachael Ray dá um up nos sanduíches com seu BGT: bacon, guacamole e tomate com batata e jalapeño com chorizo. O jalapeño recheado contrasta com o guacamole refrescante repleto de bacon e tomates com um toque cítrico."
+      "episode_description": "Cancele a reserva no restaurante e prepare uma refeição cinco estrelas com três pratos. Rachael Ray prepara bruschetta de ricota e nozes, salada de escarola com erva-doce, e o prato principal: parafuso com ragu de carne e linguiça."
     },
     {
       "show_name": "Refeição em 30 Minutos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_refeic-o-em-30-minutos-s29e39-n-o-acredito-que-hoje-tem-pizza_l_m.jpg",
-      "show_category": "Temporada 29 Episódio 39 - Não Acredito que Hoje Tem Pizza",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_refeic-o-em-30-minutos-s29e38-file-a-moda-italiana_l_m.jpg",
+      "show_category": "Temporada 29 Episódio 38 - Filé à Moda Italiana",
       "start_time": "01:42",
-      "end_time": "02:02",
-      "episode_description": "A pizza de abobrinha sem pepperoni de Rachael Ray tem um segredo: não leva pepperoni de verdade. Mas ela vem cheia de sabor, graças à páprica defumada e ao toque de mel picante. Para acompanhar, uma salada de legumes."
-    },
-    {
-      "show_name": "Brunch com Bobby",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_brunch-com-bobby-s07e02_l_m.jpg",
-      "show_category": "Temporada 7 Episódio 2 - Churrasco em Nova York",
-      "start_time": "02:02",
-      "end_time": "02:22",
-      "episode_description": "Bobby faz um brunch com as sobras de sua churrascaria favorita, Mighty Quinn's; ele faz torta de carne de porco desfiada, um sanduíche de carne, ovos e queijo, batatas fritas caseiras defumadas e um milkshake de torta de creme de banana com cravos."
-    },
-    {
-      "show_name": "Brunch com Bobby",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_brunch-com-bobby-s07e03_l_m.jpg",
-      "show_category": "Temporada 7 Episódio 3 - Entre os Pães",
-      "start_time": "02:22",
-      "end_time": "02:42",
-      "episode_description": "Bobby cria sanduíches de café da manhã inspirados em suas coisas favoritas."
-    },
-    {
-      "show_name": "Na Rota do Sabor",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_na-rota-do-sabor-s09e13_l_m.jpg",
-      "show_category": "Temporada 9 Episódio 13 - Melhor Comida Mexicana",
-      "start_time": "02:42",
-      "end_time": "03:29",
-      "episode_description": "Conheça oito ótimos restaurantes mexicanos com pratos ambiciosos que vão além do habitual."
-    },
-    {
-      "show_name": "Lanchonetes Clássicas com Guy Fieri",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s29e13-receitas-regionais_l_m.jpg",
-      "show_category": "Temporada 29 Episódio 13 - Receitas Regionais",
-      "start_time": "03:29",
-      "end_time": "03:49",
-      "episode_description": "Guy Fieri explora os sabores de pratos regionais. Em San Antonio, Texas, ele prova um cardápio com receitas típicas. Em Santa Rosa, Califórnia, ele encontra um restaurante que serve especialidades de Michoacán."
-    },
-    {
-      "show_name": "Lanchonetes Clássicas com Guy Fieri",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s29e16-toque-cultural_l_m.jpg",
-      "show_category": "Temporada 29 Episódio 16 - Toque Cultural",
-      "start_time": "03:49",
-      "end_time": "04:09",
-      "episode_description": "Guy Fieri explora a culinária mundial com toques originais, incluindo especialidades escandinavas em Salt Lake City, uma pizza indiana e uma fusão da cozinha chinesa com a norte-americana em Nova Orleans."
-    },
-    {
-      "show_name": "Lanchonetes Clássicas com Guy Fieri",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s29e19-porc-es-saborosas_l_m.jpg",
-      "show_category": "Temporada 29 Episódio 19 - Porções Saborosas",
-      "start_time": "04:09",
-      "end_time": "04:30",
-      "episode_description": "Guy experimenta vários tipos de porções, incluindo especialidades tchecas em Salt Lake City, uma lanchonete que serve carne preparada na cerveja e um local badalado em Atlanta com tacos de verdade."
-    },
-    {
-      "show_name": "Na Rota do Sabor",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_na-rota-do-sabor-s01e02-paraiso-da-pizza_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 2 - Paraíso da Pizza 3",
-      "start_time": "04:30",
-      "end_time": "05:17",
-      "episode_description": "Conheça a pizza favorita dos Estados Unidos, com pedaços de carne de caranguejo e mozzarella."
-    },
-    {
-      "show_name": "Na Rota do Sabor",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_na-rota-do-sabor-s09e04_l_m.jpg",
-      "show_category": "Temporada 9 Episódio 4 - Festa da Pizza",
-      "start_time": "05:17",
-      "end_time": "06:00",
-      "episode_description": "Para experimentar pizzas com outro sabor além de pepperoni, conheça as oito melhores pizzarias dos Estados Unidos, onde eles entregam pizzas que superam as expectativas."
-    },
-    {
-      "show_name": "Duelo com Bobby Flay",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_duelo-com-bobby-flay-s36e10-prontos-para-o-tapete-vermelho_l_m.jpg",
-      "show_category": "Temporada 36 Episódio 10 - Prontos para o Tapete Vermelho",
-      "start_time": "06:00",
-      "end_time": "06:24",
-      "episode_description": "A chef Katie Lee Biegel e o ícone da moda Carson Kressley se vestem com elegância, enquanto os chefs Rob Reinsmith e Manny Barella fazem de tudo para derrotar Bobby Flay."
-    },
-    {
-      "show_name": "Chopped - O Desafio",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_chopped-o-desafio-s14e05-campe-o-chopped_l_m.jpg",
-      "show_category": "Temporada 14 Episódio 5 - Campeão Chopped",
-      "start_time": "06:24",
-      "end_time": "07:10",
-      "episode_description": "Uma mistura pronta para martíni de maçã, um imponente corte de carne e vinho doce configuram os ingredientes para o prato de entrada; os chefs impressionam os juízes, criando sobremesas bem diferentes com salgadinho de milho e cereja Maraschino."
-    },
-    {
-      "show_name": "Food Truck - A Grande Corrida",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_food-truck-a-grande-corrida-s15e02-estac-o-quente-local-frio_l_m.jpg",
-      "show_category": "Temporada 15 Episódio 2 - Estação Quente, Local Frio",
-      "start_time": "07:10",
-      "end_time": "08:25",
-      "episode_description": "Oito equipes competem no calor de Los Angeles, um mercado brutal para os food trucks. As coisas ficam ainda mais difíceis quando o convidado especial e vencedor da temporada all-star, Lime Truck, desafia todos para uma competição."
-    },
-    {
-      "show_name": "Lanchonetes Clássicas com Guy Fieri",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s30e02-conforto-para-a-alma_l_m.jpg",
-      "show_category": "Temporada 30 Episódio 2 - Conforto para a Alma",
-      "start_time": "08:25",
-      "end_time": "08:47",
-      "episode_description": "Guy Fieri experimenta deliciosos pratos que \"confortam a alma\", incluindo iguarias típicas do sul dos Estados Unidos em Atlanta, receitas da culinária asiática-americana em Utah e o cardápio de uma churrascaria popular em Austin, no Texas."
-    },
-    {
-      "show_name": "Lanchonetes Clássicas com Guy Fieri",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s30e04-sabores-de-nova-orleans_l_m.jpg",
-      "show_category": "Temporada 30 Episódio 4 - Sabores de Nova Orleans",
-      "start_time": "08:47",
-      "end_time": "09:07",
-      "episode_description": "Guy Fieri passeia pelos sabores de Nova Orleans. Ele conhece um açougue que vende ingredientes originais para pratos caseiros, visita um restaurante de frutos do mar e outro que prepara um po' boy com ostras temperadas."
-    },
-    {
-      "show_name": "Lanchonetes Clássicas com Guy Fieri",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s30e03-sanduiches-roqueiros_l_m.jpg",
-      "show_category": "Temporada 30 Episódio 3 - Sanduíches Roqueiros",
-      "start_time": "09:07",
-      "end_time": "09:30",
-      "episode_description": "Guy Fieri experimenta sanduíches deliciosos em um bar de rock, visita um restaurante no Texas cujas especialidades são inspiradas no hip-hop dos anos 90, e uma padaria que serve frango cubano em Pasco, Washington."
-    },
-    {
-      "show_name": "Lanchonetes Clássicas com Guy Fieri",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s30e08-delicias-italianas_l_m.jpg",
-      "show_category": "Temporada 30 Episódio 8 - Delícias Italianas",
-      "start_time": "09:30",
-      "end_time": "09:50",
-      "episode_description": "Guy Fieri visita um restaurante coreano de tacos que funde sabores originais e serve fritas bulgogi; ele também vai a uma pizzaria que serve um saboroso pastrami, rolinhos de caramelo e strombolis de dar água na boca."
-    },
-    {
-      "show_name": "Na Rota do Sabor",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_na-rota-do-sabor-s09e08_l_m.jpg",
-      "show_category": "Temporada 9 Episódio 8 - Restaurantes Italianos",
-      "start_time": "09:50",
-      "end_time": "10:36",
-      "episode_description": "Oito ótimos lugares para obter comida italiana autêntica na América, de ingredientes frescos a inovadores sabores em pratos clássicos."
+      "end_time": "02:03",
+      "episode_description": "Com a versão de Rachael Ray do clássico carne com batatas, os convidados não irão embora. Ela prepara filé com alecrim, cogumelos ao molho marsala e fritas à francesa com molho de gorgonzola."
     },
     {
       "show_name": "Brunch com Bobby",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_brunch-com-bobby-s07e04_l_m.jpg",
       "show_category": "Temporada 7 Episódio 4 - Receitas Novas!",
-      "start_time": "10:36",
-      "end_time": "10:57",
+      "start_time": "02:03",
+      "end_time": "02:22",
       "episode_description": "Bobby Flay compartilha algumas de suas receitas favoritas do seu novo livro receitas saudáveis."
     },
     {
       "show_name": "Brunch com Bobby",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_brunch-com-bobby-s07e05_l_m.jpg",
       "show_category": "Temporada 7 Episódio 5 - Bobby Ama Biscoitos",
-      "start_time": "10:57",
-      "end_time": "11:18",
+      "start_time": "02:22",
+      "end_time": "02:42",
       "episode_description": "Bobby Flay dá vida nova a receitas clássicas em uma aula de como fazer de biscoitos."
     },
     {
-      "show_name": "Cozinhando no Quintal com Michael Symon",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cozinhando-no-quintal-com-michael-symon-s01e02-classicos-reconfortantes-e-coqueteis-de-fruta_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 2 - Clássicos Reconfortantes e Coquetéis de Fruta",
-      "start_time": "11:18",
-      "end_time": "11:42",
-      "episode_description": "Provando que é possível fazer tudo na churrasqueira, Michael Symon prepara um macarrão com queijo repleto de presunto defumado, cream cheese, gouda e pecorino. Enquanto Michael prepara um doce de maçã grelhado, Liz cria um ponche de vodca."
-    },
-    {
-      "show_name": "Cozinhando no Quintal com Michael Symon",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cozinhando-no-quintal-com-michael-symon-s01e03-costela-do-papai-e-biscoitos-decadentes_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 3 - Costela do Papai e Biscoitos Decadentes",
-      "start_time": "11:42",
-      "end_time": "12:04",
-      "episode_description": "Michael transforma a churrasqueira em um defumador para fazer a costela preferida de seu pai. Depois, Michael prepara Salada de Batata Grelhada, enquanto sua esposa, Liz, faz biscoitos gigantes com bastante chocolate, pretzel crocante e sal marinho."
-    },
-    {
-      "show_name": "Sabor na Brasa",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabor-na-brasa-s06e11-carne-heavy-metal_l_m.jpg",
-      "show_category": "Temporada 6 Episódio 11 - Carne Heavy Metal",
-      "start_time": "12:04",
-      "end_time": "12:26",
-      "episode_description": "Roger se impressiona com duas das instalações mais metalizadas que já viu. Ele conhece dois irmãos que usam blocos de concreto para assar um veado inteiro e um engenheiro com uma mega churrasqueira recordista."
-    },
-    {
-      "show_name": "Sabor na Brasa",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabor-na-brasa-s06e12-engenhoca-maluca_l_m.jpg",
-      "show_category": "Temporada 6 Episódio 12 - Engenhoca Maluca",
-      "start_time": "12:26",
-      "end_time": "12:47",
-      "episode_description": "Roger viaja de costa a costa para conhecer algumas loucas engenhocas customizadas. Ele se diverte com um balanço de carne, em Sacramento, e assa um cordeiro inteiro em uma rotisserie de 1,5 metro movida à mão, em Nova Jersey."
-    },
-    {
       "show_name": "Na Rota do Sabor",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_na-rota-do-sabor-s01e02-paraiso-da-pizza_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 2 - Paraíso da Pizza 3",
-      "start_time": "12:47",
-      "end_time": "13:29",
-      "episode_description": "Conheça a pizza favorita dos Estados Unidos, com pedaços de carne de caranguejo e mozzarella."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_na-rota-do-sabor-s09e08_l_m.jpg",
+      "show_category": "Temporada 9 Episódio 8 - Restaurantes Italianos",
+      "start_time": "02:42",
+      "end_time": "03:29",
+      "episode_description": "Oito ótimos lugares para obter comida italiana autêntica na América, de ingredientes frescos a inovadores sabores em pratos clássicos."
     },
     {
-      "show_name": "Na Rota do Sabor",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_na-rota-do-sabor-s09e04_l_m.jpg",
-      "show_category": "Temporada 9 Episódio 4 - Festa da Pizza",
-      "start_time": "13:29",
-      "end_time": "14:15",
-      "episode_description": "Para experimentar pizzas com outro sabor além de pepperoni, conheça as oito melhores pizzarias dos Estados Unidos, onde eles entregam pizzas que superam as expectativas."
+      "show_name": "Lanchonetes Clássicas com Guy Fieri",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s30e02-conforto-para-a-alma_l_m.jpg",
+      "show_category": "Temporada 30 Episódio 2 - Conforto para a Alma",
+      "start_time": "03:29",
+      "end_time": "03:49",
+      "episode_description": "Guy Fieri experimenta deliciosos pratos que \"confortam a alma\", incluindo iguarias típicas do sul dos Estados Unidos em Atlanta, receitas da culinária asiática-americana em Utah e o cardápio de uma churrascaria popular em Austin, no Texas."
     },
     {
-      "show_name": "Receitas da Ina - De Volta ao Básico",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_receitas-da-ina-de-volta-ao-basico-s13e04-jantar-grego_l_m.jpg",
-      "show_category": "Temporada 13 Episódio 4 - Jantar Grego",
-      "start_time": "14:15",
-      "end_time": "14:38",
-      "episode_description": "Ina prepara um cardápio inspirado na Grécia feito com ingredientes comuns encontrados nos mercados. Ela faz uma salada grega, as spanakopitas, os kebabs de cordeiro marinado e o tzatziki simples com pão sírio tostado e crocante."
+      "show_name": "Lanchonetes Clássicas com Guy Fieri",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s30e04-sabores-de-nova-orleans_l_m.jpg",
+      "show_category": "Temporada 30 Episódio 4 - Sabores de Nova Orleans",
+      "start_time": "03:49",
+      "end_time": "04:09",
+      "episode_description": "Guy Fieri passeia pelos sabores de Nova Orleans. Ele conhece um açougue que vende ingredientes originais para pratos caseiros, visita um restaurante de frutos do mar e outro que prepara um po' boy com ostras temperadas."
     },
     {
-      "show_name": "Receitas da Ina - De Volta ao Básico",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_receitas-da-ina-de-volta-ao-basico-s13e05-amigos-s-o-para-isso_l_m.jpg",
-      "show_category": "Temporada 13 Episódio 5 - Amigos São para Isso",
-      "start_time": "14:38",
-      "end_time": "15:02",
-      "episode_description": "Ina vai ao resgate de amigos que querem impressionar colegas com uma maravilhosa refeição depois do trabalho com panzanella grega, lombinho de porco marinado em ervas e crocante de ameixas. Afinal, amigos são para isso."
-    },
-    {
-      "show_name": "Cake Boss",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cake-boss-s08e09_l_m.jpg",
-      "show_category": "Temporada 8 Episódio 9 - Jogadores, Advogados e Pegadinhas",
-      "start_time": "15:02",
-      "end_time": "15:26",
-      "episode_description": "O time da padaria ajuda o técnico Buddy a fazer um bolo especial para a instituição de caridade do treinador do NY Giants, Tom Coughlin. Marissa decide se vingar com uma pegadinha."
-    },
-    {
-      "show_name": "Cake Boss",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_cake-boss-s08e04_l_m.jpg",
-      "show_category": "Temporada 8 Episódio 4 - Operação Bolo Tanque",
-      "start_time": "15:26",
-      "end_time": "15:50",
-      "episode_description": "Para comemorar o 237o. aniversário do Exército americano, Buddy cria dois bolos especiais. Um deles irá impressionar as tropas reunidas no Times Square e o outro viajará milhares de quilômetros para chegar até as tropas que estão no Afeganistão."
-    },
-    {
-      "show_name": "A Disputa dos Confeiteiros - Primavera",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-disputa-dos-confeiteiros-primavera-s06e05-turne-mundial-dos-trolls_l_m.jpg",
-      "show_category": "Temporada 6 Episódio 5 - Turnê Mundial dos Trolls",
-      "start_time": "15:50",
-      "end_time": "16:35",
-      "episode_description": "Os sete cozinheiros restantes se juntam à turnê mundial de Trolls e são desafiados a criar docinhos pequenos e coloridos. Depois, recebem entradas VIP para um show de rock e criam bolos com tema de grupo musical de Trolls."
-    },
-    {
-      "show_name": "A Guerra dos Bolos",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-guerra-dos-bolos-s02e02-dr-seuss_l_m.jpg",
-      "show_category": "Temporada 2 Episódio 2 - Dr. Seuss",
-      "start_time": "16:35",
-      "end_time": "17:21",
-      "episode_description": "Dr. Seuss é homenageado com uma festa para seu novo livro, What Pet Should I Get?. Apenas um confeiteiro terá sua criação como destaque da festa e também ganhará dez mil dólares."
-    },
-    {
-      "show_name": "A Guerra dos Cupcakes",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-guerra-dos-cupcakes-s06e01_l_m.jpg",
-      "show_category": "Temporada 6 Episódio 1 - Kate Walsh",
-      "start_time": "17:21",
-      "end_time": "18:07",
-      "episode_description": "Quatro confeiteiros competem pela chance de servir cupcakes na festa de lançamento do perfume \"Bilionário Namorado\". A jurada convidada é quem lança a fragrância, Kate Walsh, estrela da série \"Private Practice\"."
-    },
-    {
-      "show_name": "A Guerra dos Cupcakes",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-guerra-dos-cupcakes-s06e02_l_m.jpg",
-      "show_category": "Temporada 6 Episódio 2 - Angry Birds",
-      "start_time": "18:07",
-      "end_time": "18:53",
-      "episode_description": "A festa de lançamento do aplicativo Angry Birds Space promete agitar a cidade de Seattle. E os participantes vão fazer de tudo para que os seus cupcakes especiais sejam servidos nesse importante evento."
+      "show_name": "Lanchonetes Clássicas com Guy Fieri",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s30e03-sanduiches-roqueiros_l_m.jpg",
+      "show_category": "Temporada 30 Episódio 3 - Sanduíches Roqueiros",
+      "start_time": "04:09",
+      "end_time": "04:29",
+      "episode_description": "Guy Fieri experimenta sanduíches deliciosos em um bar de rock, visita um restaurante no Texas cujas especialidades são inspiradas no hip-hop dos anos 90, e uma padaria que serve frango cubano em Pasco, Washington."
     },
     {
       "show_name": "Show de Cozinha",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_show-de-cozinha-s16e10-e-muita-massa_l_m.jpg",
       "show_category": "Temporada 16 Episódio 10 - É Muita Massa",
-      "start_time": "18:53",
-      "end_time": "19:37",
+      "start_time": "04:29",
+      "end_time": "05:15",
       "episode_description": "Os pratos do programa estão cheios de massa, incluindo o macarrão com pesto de espinafre, nozes e uva-passa branca de Jeff Mauro. As melhores massas saudáveis combinam perfeitamente com o molho rápido amatriciana de Katie Lee."
     },
     {
       "show_name": "Kitchen Boss",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_kitchen-boss-s01e06-pratos-preferidos_l_m.jpg",
       "show_category": "Temporada 1 Episódio 6 - Festa da Massa",
-      "start_time": "19:37",
-      "end_time": "19:59",
+      "start_time": "05:15",
+      "end_time": "05:37",
       "episode_description": "Buddy e sua irmã Lisa adoram massas. Juntos, eles cozinham e relembram das massas caseiras que suas avós preparavam. No cardápio, alguns dos pratos que mais gostavam, como nhoque caseiro de batata com molho de cogumelos e rigatoni com vodca."
     },
     {
       "show_name": "Kitchen Boss",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_kitchen-boss-s01e26-pratos-de-carne_l_m.jpg",
       "show_category": "Temporada 1 Episódio 26 - Massas Clássicas",
-      "start_time": "19:59",
-      "end_time": "20:21",
+      "start_time": "05:37",
+      "end_time": "06:00",
       "episode_description": "Buddy reinventa os pratos clássicos de massas, como o macarrão à bolonhesa, o espaguete à carbonara, a salada orzo e a massa ao molho pesto. Mama e Sérgio ajudam Buddy nos preparativos."
     },
     {
       "show_name": "Duelo com Bobby Flay",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_duelo-com-bobby-flay-s09e09-a-revanche_l_m.jpg",
-      "show_category": "Temporada 9 Episódio 9 - A Revanche",
-      "start_time": "20:21",
-      "end_time": "20:45",
-      "episode_description": "Dono de um restaurante no Maine, Mark Gaier chega para vingar a derrota anterior de seu parceiro, mas o chef e banqueteiro Christopher Covelli não está disposto a entregar os pontos. Debi Mazar e Jet Tila conduzem a disputa."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_duelo-com-bobby-flay-s36e12-disputa-em-dia-de-jogo_l_m.jpg",
+      "show_category": "Temporada 36 Episódio 12 - Disputa em Dia de Jogo",
+      "start_time": "06:00",
+      "end_time": "06:25",
+      "episode_description": "O chef Eddie Jackson e Ian Rapoport, da NFL Network, trabalham com os chefs Nick Shipp e Natalie Blake para tentar atrapalhar os planos de Bobby Flay."
     },
     {
       "show_name": "Duelo com Bobby Flay",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_duelo-com-bobby-flay-s09e10-idade-e-so-um-numero_l_m.jpg",
-      "show_category": "Temporada 9 Episódio 10 - Idade É Só um Número",
-      "start_time": "20:45",
-      "end_time": "21:08",
-      "episode_description": "Sunny Anderson se une a Kimberly Schlapman, vencedora do Grammy, para vencer Bobby Flay. Elas arriscam tudo com o experiente chef Kevin des Chenes e uma das mais jovens adversárias de Bobby Flay, a chef Jenny Dorsey."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_duelo-com-bobby-flay-s36e07-rir-e-o-melhor-remedio_l_m.jpg",
+      "show_category": "Temporada 36 Episódio 7 - Rir É o Melhor Remédio",
+      "start_time": "06:25",
+      "end_time": "06:47",
+      "episode_description": "A chef Antonia Lofaso e a comediante Leslie Jones fazem loucuras divertidas, enquanto os chefs Josh Elliot e Vicky Colas tentam rir por último e derrotar Bobby Flay."
     },
     {
-      "show_name": "Homem vs. Comida",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_homem-vs-comida-s08e10-miami-florida_l_m.jpg",
-      "show_category": "Temporada 8 Episódio 10 - Miami, Flórida",
-      "start_time": "21:08",
-      "end_time": "21:28",
-      "episode_description": "Em Miami, Flórida, Casey Webb experimenta um hambúrguer de três camadas pela primeira vez. Em seguida, ele se delicia com um sorvete inovador de inspiração cubana, aromatizado com cream cheese, goiaba e biscoitos."
+      "show_name": "Chopped - O Desafio",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_chopped-o-desafio-s14e06-campe-o-chopped-final_l_m.jpg",
+      "show_category": "Temporada 14 Episódio 6 - Campeão Chopped - Final",
+      "start_time": "06:47",
+      "end_time": "07:35",
+      "episode_description": "De olho no prêmio de 50 mil dólares, os chefs se animam com algumas surpresas frescas na cesta, mas a competição dá uma guinada quando eles recebem viscosos escargots para o desafio; os finalistas devem criar sobremesas usando suco de cenoura e mel."
     },
     {
-      "show_name": "Homem vs. Comida",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_homem-vs-comida-s08e16-manchester-new-hampshire_l_m.jpg",
-      "show_category": "Temporada 8 Episódio 16 - Manchester, New Hampshire",
-      "start_time": "21:28",
-      "end_time": "21:48",
-      "episode_description": "Em Manchester, Casey Webb experimenta uma porção épica de churrasco no KC's Rib Shack; no restaurante favorito dos locais, o Mr. Mac's Mac and Cheese, ele só tem olhos para sua obra-prima, o Deluxe Cheeseburger Mac."
+      "show_name": "Food Truck - A Grande Corrida",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_food-truck-a-grande-corrida-s15e03-troca-polemica_l_m.jpg",
+      "show_category": "Temporada 15 Episódio 3 - Troca Polêmica",
+      "start_time": "07:35",
+      "end_time": "08:19",
+      "episode_description": "Em Venice Beach, as equipes são apresentadas para a chef Antonia Lofaso. Ela desafia os times e propõe a criação de um prato exclusivo que reflita quem eles realmente são. Uma troca de parceiros entre equipes aumenta a tensão."
     },
     {
-      "show_name": "Bobby e Giada na Itália",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_bobby-e-giada-na-italia-s01e04-regi-o-dos-vinhos_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 4 - Região dos Vinhos",
-      "start_time": "21:48",
-      "end_time": "22:33",
-      "episode_description": "Bobby Flay e Giada De Laurentiis buscam ingredientes locais de qualidade e visitam uma vinícola nas montanhas da Toscana. Eles aprendem a arte da apicultura e usam os ingredientes para preparar uma refeição épica em meio à belíssima paisagem."
+      "show_name": "Lanchonetes Clássicas com Guy Fieri",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s31e02-cervejas-com-linguica_l_m.jpg",
+      "show_category": "Temporada 31 Episódio 2 - Cervejas com Linguiça",
+      "start_time": "08:19",
+      "end_time": "08:44",
+      "episode_description": "Em Atlanta, Guy Fieri visita um restaurante asiático que serve barriga de porco e frango frito em woks; no Canadá, em Vancouver, um restaurante serve panquecas de pato; e um bar de Washington combina cervejas com linguiças caseiras."
     },
     {
-      "show_name": "Um Dia de Chef",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_um-dia-de-chef-s03e03-cafe-da-manh-caprichado_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 3 - Café da Manhã Caprichado",
-      "start_time": "22:33",
-      "end_time": "23:00",
-      "episode_description": "Thiago só faz macarrão instantâneo. Para comer outra coisa, ele depende da mãe e do food truck de um amigo que frequenta todos os dias. Para se virar melhor na cozinha, Thiago quer aprender receitas rápidas e para qualquer hora."
+      "show_name": "Lanchonetes Clássicas com Guy Fieri",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s31e03-renascimento-na-california_l_m.jpg",
+      "show_category": "Temporada 31 Episódio 3 - Renascimento na Califórnia",
+      "start_time": "08:44",
+      "end_time": "09:05",
+      "episode_description": "Nesta viagem, Guy Fieri celebra a cena gastronômica de Chico, Califórnia, enquanto moradores e donos de restaurantes se recuperam dos incêndios que assolaram a região."
     },
     {
-      "show_name": "Um Dia de Chef",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_um-dia-de-chef-s03e04-ragu-de-carne-com-polenta-cremosa_l_m.jpg",
-      "show_category": "Temporada 3 Episódio 4 - Ragu de Carne com Polenta Cremosa",
-      "start_time": "23:00",
-      "end_time": "23:27",
-      "episode_description": "Para Joice, até um ovo frito é um desafio no fogão. Para não viver refém dos PFs e de entrega, ela precisa aprender novas técnicas na cozinha. Emmanuel propõe uma receita italiana que faz Joice se emocionar."
+      "show_name": "Lanchonetes Clássicas com Guy Fieri",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s31e05-cafe-com-hamburguer_l_m.jpg",
+      "show_category": "Temporada 31 Episódio 5 - Café com Hambúrguer",
+      "start_time": "09:05",
+      "end_time": "09:29",
+      "episode_description": "Guy Fieri toma café em um restaurante na Califórnia que serve rabanadas; em Washington, ele experimenta um delicioso gravlax e um hambúrguer com um toque original."
+    },
+    {
+      "show_name": "Lanchonetes Clássicas com Guy Fieri",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s31e06-pratos-incomuns_l_m.jpg",
+      "show_category": "Temporada 31 Episódio 6 - Pratos Incomuns",
+      "start_time": "09:29",
+      "end_time": "09:50",
+      "episode_description": "Guy Fieri cai na estrada para experimentar pratos fora do comum, incluindo um bao (pãozinho chinês) com frango frito em Chico, Califórnia; barriga de porco e cordeiro em Vancouver e uma lasanha de batata-doce em Washington."
+    },
+    {
+      "show_name": "Comidas Exóticas",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_comidas-exoticas-s08e01-madrid_l_m.jpg",
+      "show_category": "Temporada 8 Episódio 1 - Madrid",
+      "start_time": "09:50",
+      "end_time": "10:38",
+      "episode_description": "Andrew vai para Madrid, uma cidade com uma identidade culinária dinâmica, que continua sendo moldada pelo passado. De omeletes de miúdos a um relógio feito com fígado de pato, a Espanha está repleta de sabores estimulantes."
+    },
+    {
+      "show_name": "Brunch com Bobby",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_brunch-com-bobby-s07e06_l_m.jpg",
+      "show_category": "Temporada 7 Episódio 6 - Hora de Revelar o Crepe!",
+      "start_time": "10:38",
+      "end_time": "11:01",
+      "episode_description": "Bobby mostra crepes básicos perfeitos para brunch e depois adiciona seus próprios sabores."
+    },
+    {
+      "show_name": "Brunch com Bobby",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_brunch-com-bobby-s07e07-o-domingo-de-sophies_l_m.jpg",
+      "show_category": "Temporada 7 Episódio 7 - O Domingo de Sophies",
+      "start_time": "11:01",
+      "end_time": "11:21",
+      "episode_description": "Bobby Flay fala de futebol com sua filha Sophie e depois faz um brunch perfeito."
+    },
+    {
+      "show_name": "Cozinhando no Quintal com Michael Symon",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cozinhando-no-quintal-com-michael-symon-s01e07-a-emoc-o-da-pizza-na-churrasqueira_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 7 - A Emoção da Pizza na Churrasqueira",
+      "start_time": "11:21",
+      "end_time": "11:47",
+      "episode_description": "Michael Symon transforma sua churrasqueira em um forno de pizza, usando carvão e frigideiras de ferro fundido para assar sua massa caseira e fazer pizza sem molho grelhada e um calzone de três queijos enquanto sua esposa prepara biscoitos florentine."
+    },
+    {
+      "show_name": "Cozinhando no Quintal com Michael Symon",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cozinhando-no-quintal-com-michael-symon-s01e08-isso-e-grego-para-mim_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 8 - Isso É Grego para Mim",
+      "start_time": "11:47",
+      "end_time": "12:09",
+      "episode_description": "A ascendência grega de Michael Symon fica evidente em seu hambúrguer de cordeiro com Tzatziki. Sua esposa, Liz, cria um Spritz de Ouzo que combina perfeitamente com o hambúrguer e a salada de melancia e feta."
+    },
+    {
+      "show_name": "Sabor na Brasa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabor-na-brasa-s06e13-a-chapa-esquenta-no-havai_l_m.jpg",
+      "show_category": "Temporada 6 Episódio 13 - A Chapa Esquenta no Havaí",
+      "start_time": "12:09",
+      "end_time": "12:31",
+      "episode_description": "Roger vai de ilha em ilha para conhecer as delícias do Havaí. Ele aquece um imu, em um tradicional forno subterrâneo, em Oahu, e defuma frango, costelas e peixe fresco no barril, em Kauai."
+    },
+    {
+      "show_name": "Sabor na Brasa",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sabor-na-brasa-s06e14-festivais-da-brasa_l_m.jpg",
+      "show_category": "Temporada 6 Episódio 14 - Festivais da Brasa",
+      "start_time": "12:31",
+      "end_time": "12:54",
+      "episode_description": "Roger visita três festivais que têm filas de devotos do churrasco."
+    },
+    {
+      "show_name": "Show de Cozinha",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_show-de-cozinha-s16e10-e-muita-massa_l_m.jpg",
+      "show_category": "Temporada 16 Episódio 10 - É Muita Massa",
+      "start_time": "12:54",
+      "end_time": "13:34",
+      "episode_description": "Os pratos do programa estão cheios de massa, incluindo o macarrão com pesto de espinafre, nozes e uva-passa branca de Jeff Mauro. As melhores massas saudáveis combinam perfeitamente com o molho rápido amatriciana de Katie Lee."
+    },
+    {
+      "show_name": "Kitchen Boss",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_kitchen-boss-s01e06-pratos-preferidos_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 6 - Festa da Massa",
+      "start_time": "13:34",
+      "end_time": "13:59",
+      "episode_description": "Buddy e sua irmã Lisa adoram massas. Juntos, eles cozinham e relembram das massas caseiras que suas avós preparavam. No cardápio, alguns dos pratos que mais gostavam, como nhoque caseiro de batata com molho de cogumelos e rigatoni com vodca."
+    },
+    {
+      "show_name": "Kitchen Boss",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_kitchen-boss-s01e26-pratos-de-carne_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 26 - Massas Clássicas",
+      "start_time": "13:59",
+      "end_time": "14:25",
+      "episode_description": "Buddy reinventa os pratos clássicos de massas, como o macarrão à bolonhesa, o espaguete à carbonara, a salada orzo e a massa ao molho pesto. Mama e Sérgio ajudam Buddy nos preparativos."
+    },
+    {
+      "show_name": "Receitas da Ina - De Volta ao Básico",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_receitas-da-ina-de-volta-ao-basico-s13e06-cafe-da-manh-de-aniversario-com-churrasco_l_m.jpg",
+      "show_category": "Temporada 13 Episódio 6 - Café da Manhã de Aniversário com Churrasco",
+      "start_time": "14:25",
+      "end_time": "14:49",
+      "episode_description": "Em uma festa de café da manhã para comemorar a manhã seguinte de uma festa de aniversário, tem ovos mexidos de cozimento lento com queijo de cabra, batatas hash brown no estilo country, maionese de mostarda e até kebabs de tomates grelhados."
+    },
+    {
+      "show_name": "Receitas da Ina - De Volta ao Básico",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_receitas-da-ina-de-volta-ao-basico-s13e07-massa-perfeita_l_m.jpg",
+      "show_category": "Temporada 13 Episódio 7 - Massa Perfeita",
+      "start_time": "14:49",
+      "end_time": "15:13",
+      "episode_description": "Ina decide fazer massas, trazendo novas ideias e receitas de cozimento rápido para a família ou amigos. Ela compartilha suas receitas de salada de massa com tomates e feta, massa com queijo e lagosta e dois molhos: molho pesto e molho marinara."
+    },
+    {
+      "show_name": "Cake Boss",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cake-boss-s08e05_l_m.jpg",
+      "show_category": "Temporada 8 Episódio 5 - Abracadabra",
+      "start_time": "15:13",
+      "end_time": "15:36",
+      "episode_description": "Buddy precisa criar um bolo com tema de mágica para impressionar o ilusionista Dan Sperry, que o desafiou a fazê-lo sem instruções, a não ser um enigma guardado em seu interior."
+    },
+    {
+      "show_name": "Cake Boss",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_cake-boss-s08e08_l_m.jpg",
+      "show_category": "Temporada 8 Episódio 8 - Carrossel",
+      "start_time": "15:36",
+      "end_time": "16:00",
+      "episode_description": "Buddy cria um bolo com formato de carrossel de 900 quilos para um parque de diversões de Atlantic City. Com delicados cavalos de chocolate e motores giratórios, resta saber se o bolo chegará inteiro."
+    },
+    {
+      "show_name": "A Disputa dos Confeiteiros - Primavera",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-disputa-dos-confeiteiros-primavera-s06e06-limpeza-de-primavera_l_m.jpg",
+      "show_category": "Temporada 6 Episódio 6 - Limpeza de Primavera",
+      "start_time": "16:00",
+      "end_time": "16:45",
+      "episode_description": "Os seis competidores restantes são desafiados a fazer criações minimalistas sem o uso de flores e farinha. Depois, os cozinheiros escolhem um item de uma venda de garagem que será sua e inspiração para uma bela sobremesa."
+    },
+    {
+      "show_name": "A Guerra dos Bolos",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-guerra-dos-bolos-s02e03-kung-fu-panda-3_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 3 - Kung Fu Panda 3",
+      "start_time": "16:45",
+      "end_time": "17:29",
+      "episode_description": "Po, o panda mestre de kung fu, vai para casa pela primeira vez em \"Kung Fu Panda 3\", e uma grande festa vai ser feita para comemorar o lançamento do filme. Quatro confeiteiros se enfrentam para impressionar os diretores da animação."
+    },
+    {
+      "show_name": "A Guerra dos Cupcakes",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-guerra-dos-cupcakes-s06e03_l_m.jpg",
+      "show_category": "Temporada 6 Episódio 3 - A Reserva Ecológica",
+      "start_time": "17:29",
+      "end_time": "18:14",
+      "episode_description": "Quatro confeiteiros disputam uma chance de servir seus cupcakes em um baile de gala da organização de conservação dos animais, WildAid. A jurada da vez é a atriz Minnie Driver."
+    },
+    {
+      "show_name": "A Guerra dos Cupcakes",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-guerra-dos-cupcakes-s06e04_l_m.jpg",
+      "show_category": "Temporada 6 Episódio 4 - Chá de Bebê",
+      "start_time": "18:14",
+      "end_time": "19:00",
+      "episode_description": "A atriz Kristin Cavallari espera cupcakes deliciosos dos quatro confeiteiros da vez, que disputam a chance de servir suas receitas no chá de bebê da estrela."
+    },
+    {
+      "show_name": "Receitas da Toscana",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_receitas-da-toscana-s05e02_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 2 - Show de Moda",
+      "start_time": "19:00",
+      "end_time": "19:22",
+      "episode_description": "Debi Mazar adora moda, e leva sua filha Giulia ao estúdio do estilista Zac Posen; Gabriele Corcos vai ao Fulton Fish Market para comprar frutos-do-mar frescos para o jantar."
+    },
+    {
+      "show_name": "Receitas da Toscana",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_receitas-da-toscana-s05e03_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 3 - Jantar na James Beard",
+      "start_time": "19:22",
+      "end_time": "19:45",
+      "episode_description": "Gabriele e Debi são convidados a cozinhar na James Beard House, em Nova York, que recebe eventos comandados por figuras importantes da comunidade culinária. É uma grande honra e o casal quer que seja inesquecível."
+    },
+    {
+      "show_name": "Receitas da Toscana",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_receitas-da-toscana-s05e04-treinamento_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 4 - Treinamento",
+      "start_time": "19:45",
+      "end_time": "20:08",
+      "episode_description": "Gabriele e Debi reservam um dia para preparar a família para a possibilidade de um desastre, como um furacão."
+    },
+    {
+      "show_name": "Receitas da Toscana",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_receitas-da-toscana-s05e06-ferias_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 6 - Férias",
+      "start_time": "20:08",
+      "end_time": "20:30",
+      "episode_description": "Evalina e Giulia, filhas de Debi e Gabriele, curtem seu último dia de aula enquanto os pais passam a tarde em Red Hook. Depois, a família cozinha uma refeição especial para comemorar as férias e o início do verão."
+    },
+    {
+      "show_name": "Duelo com Bobby Flay",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_duelo-com-bobby-flay-s09e11-entrando-em-campo_l_m.jpg",
+      "show_category": "Temporada 9 Episódio 11 - Entrando em Campo",
+      "start_time": "20:30",
+      "end_time": "20:54",
+      "episode_description": "Alex Guarnaschelli, de Chopped, e o âncora esportivo Kenny Mayne, se aliam para derrotar Bobby Flay. Seus testas-de-ferro, os chefs Jeff Williams e Kevin Templeton, competem para ver quem enfrentará Bobby."
+    },
+    {
+      "show_name": "Duelo com Bobby Flay",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_duelo-com-bobby-flay-s09e13-o-compromisso-de-bobby_l_m.jpg",
+      "show_category": "Temporada 9 Episódio 13 - O Compromisso de Bobby",
+      "start_time": "20:54",
+      "end_time": "21:18",
+      "episode_description": "Haylie Duff e Curtis Stone não pretendem facilitar para seu amigo Bobby Flay. Na disputa para encarar o chef, estão os veteranos Todd Gray, de Washington, D.C., e o banqueteiro gabonês Serge Pambo."
+    },
+    {
+      "show_name": "Lanchonetes Clássicas com Guy Fieri",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s45e11_l_m.jpg",
+      "show_category": "Temporada 45 Episódio 11",
+      "start_time": "21:18",
+      "end_time": "21:40",
+      "episode_description": "Na Flórida, um lugar dá um toque mediterrâneo a deliciosos hambúrgueres; um restaurante local imperdível serve especialidades porto-riquenhas; em Las Vegas, um restaurante mexicano tem tacos de birria incríveis."
+    },
+    {
+      "show_name": "Lanchonetes Clássicas com Guy Fieri",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lanchonetes-classicas-com-guy-fieri-s45e12_l_m.jpg",
+      "show_category": "Temporada 45 Episódio 12",
+      "start_time": "21:40",
+      "end_time": "22:02",
+      "episode_description": "Guy vai a Boise, Idaho, onde um restaurante russo serve um cordeiro de dar água na boca, e um restaurante paquistanês prepara cabrito. Na Flórida, um mestre do churrasco dá seu toque especial à linguiça recheada com macarrão com queijo e brisket."
+    },
+    {
+      "show_name": "O Melhor Sabor da Cidade",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-melhor-sabor-da-cidade-s01e04-placerville_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 4 - Placerville",
+      "start_time": "22:02",
+      "end_time": "22:49",
+      "episode_description": "Noah Cappe, Aarti Sequeira e Joe Sasto decidem conhecer os melhores restaurantes em Placerville, Califórnia. Com opções como churrasco, comida romana, ostras e pratos de garimpeiros, a coisa dificulta quando eles tentam escolher o que é melhor."
+    },
+    {
+      "show_name": "Tudo Fácil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tudo-facil-s01e05-sabores-do-mexico_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 5 - Sabores do México",
+      "start_time": "22:49",
+      "end_time": "23:16",
+      "episode_description": "Carol Fiorentino é sua guia por uma viagem por sabores e cores da surpreendente culinária mexicana. O itinerário feito por ela parte das tortillas e totopos, passa pela guacamole, visita o tradicionalíssimo pozole e termina com deliciosos churros."
+    },
+    {
+      "show_name": "Tudo Fácil",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tudo-facil-s01e06-trivial-cheio-de-graca_l_m.jpg",
+      "show_category": "Temporada 1 Episódio 6 - Trivial Cheio de Graça",
+      "start_time": "23:16",
+      "end_time": "23:43",
+      "episode_description": "A cozinha trivial é boa demais para cair na mesmice. Carol Fiorentino ensina a variar o tradicionalíssimo arroz, feijão e bife a cavalo e ainda mostra uma receita de bolo de sorvete para ganhar espaço regular no seu cardápio."
     },
     {
       "show_name": "Giada Faz a Festa",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_giada-faz-a-festa-s05e01-novas-massas_l_m.jpg",
-      "show_category": "Temporada 5 Episódio 1 - Novas Massas",
-      "start_time": "23:27",
-      "end_time": "23:49",
-      "episode_description": "Giada convida amigos para criar formatos de massa do zero. Eles se deliciam com um menu que inclui as receitas preferidas de sua família: um tipo de nhoque da Sardenha com camarão e rúcula e pappardelle com ragu de linguiça."
-    },
-    {
-      "show_name": "Giada Faz a Festa",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_giada-faz-a-festa-s05e02-jantar-com-tv_l_m.jpg",
-      "show_category": "Temporada 5 Episódio 2 - Jantar com TV",
-      "start_time": "23:49",
-      "end_time": "00:12",
-      "episode_description": "Giada convida amigos para assistir à televisão e faz bandejas individuais para cada um, com castanhas temperadas, sanduíches de linguiça, cookies de chocolate recheados e mais."
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_giada-faz-a-festa-s05e03-piquenique-na-praia_l_m.jpg",
+      "show_category": "Temporada 5 Episódio 3 - Piquenique na Praia",
+      "start_time": "23:43",
+      "end_time": "00:05",
+      "episode_description": "Giada e sua família e amigos passam o dia na praia, jogando bola e curtindo um piquenique. Ela prepara petisco fáceis, como paninis de pizza, salada agridoce, homus de batata doce e mais."
     }
   ]
 }
