@@ -1,20 +1,36 @@
 {
   "channel": "TV Aratu",
-  "date": "16/03/2026",
+  "date": "17/03/2026",
   "schedule": [
     {
-      "show_name": "Titãs",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_tit-s_l_m.jpg",
-      "show_category": "Drama",
+      "show_name": "The Noite com Danilo Gentili",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_the-noite-com-danilo-gentili_l_m.jpg",
+      "show_category": "Talk",
       "start_time": "00:00",
       "end_time": "01:00",
-      "episode_description": "Após se aventurar em carreira solo, o antigo parceiro do Batman, Dick Grayson, encontra um grupo de jovens heróis que precisam desesperadamente de um mentor."
+      "episode_description": "Talk show com alto índice de piadas por minuto, que, com muita irreverência, aborda os fatos relevantes do dia."
+    },
+    {
+      "show_name": "Operação Mesquita",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_operac-o-mesquita_l_m.jpg",
+      "show_category": "Entertainment",
+      "start_time": "01:00",
+      "end_time": "01:30",
+      "episode_description": "Descubra o lado B dos famosos, que mostram o seu cotidiano de forma curiosa e divertida por meio de entrevistas. Acompanhe ainda pessoas comuns que estão prestes a protagonizar um grande momento que pode mudar para sempre as suas vidas."
+    },
+    {
+      "show_name": "A Usurpadora",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-usurpadora-1_l_m.jpg",
+      "show_category": "Soap",
+      "start_time": "01:30",
+      "end_time": "02:00",
+      "episode_description": "As irmãs gêmeas Paola e Paulina foram criadas separadas e sem o conhecimento da existência uma da outra. Um dia, quando o destino as une novamente, Paola vê na descoberta uma solução perversa para resolver seus problemas."
     },
     {
       "show_name": "SBT Notícias",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-noticias_l_m.jpg",
       "show_category": "News",
-      "start_time": "01:00",
+      "start_time": "02:00",
       "end_time": "05:00",
       "episode_description": "Os principais assuntos e notícias do Brasil e do mundo e tudo que ganhou repercussão durante o dia."
     },
@@ -79,24 +95,16 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_fofocalizando_l_m.jpg",
       "show_category": "Newsmagazine",
       "start_time": "15:30",
-      "end_time": "17:00",
+      "end_time": "16:45",
       "episode_description": "Revista eletrônica com informação, humor e as principais fofocas do mundo dos famosos."
     },
     {
-      "show_name": "Coração Indomável",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_corac-o-indomavel-1_l_m.jpg",
-      "show_category": "Soap",
-      "start_time": "17:00",
-      "end_time": "18:15",
-      "episode_description": "Maricruz é uma jovem doce e inocente que vive em uma casa humilde à beira-mar. Um dia se vê obrigada a roubar em uma fazenda para poder dar comida à sua família. É aí que conhece o amor e os problemas se desencadeiam."
-    },
-    {
-      "show_name": "Fala, Dani",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_fala-dani_l_m.jpg",
-      "show_category": "Special",
-      "start_time": "18:15",
+      "show_name": "Manchester City x Real Madrid",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-manchester-city-x-real-madrid_l_m.jpg",
+      "show_category": "UEFA Champions League",
+      "start_time": "16:45",
       "end_time": "19:00",
-      "episode_description": "Os principais acontecimentos do programa \"Alô Juca\", mas com um olhar diferente, com uma linguagem mais leve, mais próxima ao que a gente vê na internet, nas redes sociais. Com bastidores e também os memes que surgem diariamente no Juca."
+      "episode_description": "Todas as emoções da principal competição de futebol masculino disputada entre clubes europeus."
     },
     {
       "show_name": "Aratu Notícias",
@@ -131,12 +139,12 @@
       "episode_description": "O apresentador Carlos Massa leva ao público um programa alegre e repleto de atrações. Ele recebe convidados famosos e games, comédia, participação do público e quadros únicos, como o \"Jornal Racional\", \"Gol Show\" e \"Dez ou Mil\", entre outros."
     },
     {
-      "show_name": "Galvão FC",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-galv-o-fc_l_m.jpg",
-      "show_category": "",
+      "show_name": "SBT Repórter",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-reporter_l_m.jpg",
+      "show_category": "News",
       "start_time": "22:45",
       "end_time": "00:00",
-      "episode_description": "Galvão Bueno comanda programa que reúne informação, análise e leveza para debater os principais assuntos do futebol, conectando o público ao universo do esporte com uma linguagem moderna e envolvente."
+      "episode_description": "Com linguagem direta e aborda temas variados e de interesse coletivo, programa jornalístico mostra o que acontece no Brasil e no mundo."
     }
   ]
 }

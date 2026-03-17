@@ -1,118 +1,158 @@
 {
   "channel": "FOX Sports",
-  "date": "17/03/2026",
+  "date": "18/03/2026",
   "schedule": [
     {
-      "show_name": "ESPN League",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sports-talk-espn-league_l_m.jpg",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "01:00",
-      "episode_description": "Notícias, análises e curiosidades sobre tudo o que rola com a bola: redonda, oval ou achatada."
-    },
-    {
-      "show_name": "Linha de Passe: Mesa-Redonda",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sports-talk-linha-de-passe-mesa-redonda_l_m.jpg",
-      "show_category": "",
-      "start_time": "01:00",
-      "end_time": "02:00",
-      "episode_description": "Comentaristas esportivos conceituados entram em campo para uma análise completa da rodada do futebol ao estilo \"mesa redonda\", com debates acalorados e comentários de qualidade, sempre a partir de um olhar crítico e da imparcialidade."
-    },
-    {
-      "show_name": "GP de Las Vegas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_auto-racing-gp-de-las-vegas-1_l_m.jpg",
-      "show_category": "NASCAR Cup Series",
-      "start_time": "02:00",
-      "end_time": "06:00",
-      "episode_description": "Todas as emoções da principal competição de velocidade da categoria stock car dos Estados Unidos."
-    },
-    {
-      "show_name": "Resenha ESPN",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_resenha-espn_l_m.jpg",
-      "show_category": "Sports talk",
-      "start_time": "06:00",
-      "end_time": "07:00",
-      "episode_description": "Atletas da atualidade e do passado participam de bate-papo descontraído e cheio de boas histórias."
-    },
-    {
-      "show_name": "Atlanta Hawks x Orlando Magic",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_basketball-atlanta-hawks-x-orlando-magic_l_m.jpg",
-      "show_category": "NBA",
-      "start_time": "07:00",
-      "end_time": "09:00",
-      "episode_description": "Trinta equipes dos Estados Unidos e Canadá se enfrentam na principal liga de basquete do mundo."
-    },
-    {
-      "show_name": "Racing x Estudiantes (RC)",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-racing-x-estudiantes-rc_l_m.jpg",
-      "show_category": "Campeonato Argentino",
-      "start_time": "09:00",
-      "end_time": "11:00",
-      "episode_description": "Acompanhe as grandes partidas do torneio de elite do futebol argentino."
-    },
-    {
-      "show_name": "Real Madrid x Elche CF",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-real-madrid-x-elche-cf_l_m.jpg",
+      "show_name": "Barcelona x Sevilla",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-barcelona-x-sevilla_l_m.jpg",
       "show_category": "Campeonato Espanhol",
-      "start_time": "11:00",
-      "end_time": "13:00",
+      "start_time": "00:00",
+      "end_time": "02:00",
       "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
-    },
-    {
-      "show_name": "Manchester United x Aston Villa",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-manchester-united-x-aston-villa_l_m.jpg",
-      "show_category": "Campeonato Inglês",
-      "start_time": "13:00",
-      "end_time": "14:55",
-      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
-    },
-    {
-      "show_name": "CD Tenerife x Atlético de Madrid",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-cd-tenerife-x-atletico-de-madrid_l_m.jpg",
-      "show_category": "Copa de la Reina",
-      "start_time": "14:55",
-      "end_time": "17:00",
-      "episode_description": "Acompanhe as emoções do torneio de futebol feminino da Espanha."
     },
     {
       "show_name": "Destaques da Conmebol Libertadores",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-destaques-da-conmebol-libertadores_l_m.jpg",
       "show_category": "",
-      "start_time": "17:00",
-      "end_time": "17:30",
+      "start_time": "02:00",
+      "end_time": "02:30",
+      "episode_description": "Acompanhe os destaques, os melhores lances, gols e um resumo completo de tudo o que rolou nas partidas da principal competição de futebol masculino entre clubes da América do Sul: a Conmebol Libertadores."
+    },
+    {
+      "show_name": "GP de Arlington",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_auto-racing-gp-de-arlington_l_m.jpg",
+      "show_category": "Fórmula Indy",
+      "start_time": "02:30",
+      "end_time": "05:30",
+      "episode_description": "Terceira etapa da temporada 2026 da categoria. Do Circuito de Rua de Arlington, em Arlington, EUA."
+    },
+    {
+      "show_name": "Show da Rodada do Inglês",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-do-ingles_l_m.jpg",
+      "show_category": "",
+      "start_time": "05:30",
+      "end_time": "06:00",
+      "episode_description": "O programa traz todos os pormenores da rodada do campeonato inglês com as pontuações dos clubes, gols e lances mais bonitos."
+    },
+    {
+      "show_name": "Bola da Vez",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_bola-da-vez_l_m.jpg",
+      "show_category": "Sports talk",
+      "start_time": "06:00",
+      "end_time": "07:00",
+      "episode_description": "Grandes personalidades do esporte nacional e internacional são colocadas no \"paredão\" e respondem às perguntas de uma bancada de entrevistadores formada por jornalistas, ex-atletas ou especialistas em geral."
+    },
+    {
+      "show_name": "Minas x União Corinthians",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_basketball-minas-x-uni-o-corinthians_l_m.jpg",
+      "show_category": "NBB",
+      "start_time": "07:00",
+      "end_time": "09:00",
+      "episode_description": "Todas as emoções da principal competição de basquete masculino profissional entre clubes do Brasil."
+    },
+    {
+      "show_name": "Destaques da Conmebol Libertadores",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-destaques-da-conmebol-libertadores_l_m.jpg",
+      "show_category": "",
+      "start_time": "09:00",
+      "end_time": "09:30",
       "episode_description": "Acompanhe os destaques, os melhores lances, gols e um resumo completo de tudo o que rolou nas partidas da principal competição de futebol masculino entre clubes da América do Sul: a Conmebol Libertadores."
     },
     {
       "show_name": "Show da Rodada do Inglês",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-do-ingles_l_m.jpg",
       "show_category": "",
-      "start_time": "17:30",
-      "end_time": "18:00",
+      "start_time": "09:30",
+      "end_time": "10:00",
       "episode_description": "O programa traz todos os pormenores da rodada do campeonato inglês com as pontuações dos clubes, gols e lances mais bonitos."
     },
     {
-      "show_name": "Liverpool x Tottenham Hotspur",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-liverpool-x-tottenham-hotspur_l_m.jpg",
-      "show_category": "Campeonato Inglês",
+      "show_name": "Rayo Vallecano x Levante",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-rayo-vallecano-x-levante_l_m.jpg",
+      "show_category": "Campeonato Espanhol",
+      "start_time": "10:00",
+      "end_time": "12:00",
+      "episode_description": "Acompanhe as partidas da primeira divisão de futebol masculino da Espanha."
+    },
+    {
+      "show_name": "CD Tenerife x Atlético de Madrid",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-cd-tenerife-x-atletico-de-madrid_l_m.jpg",
+      "show_category": "Copa de la Reina",
+      "start_time": "12:00",
+      "end_time": "13:55",
+      "episode_description": "Acompanhe as emoções do torneio de futebol feminino da Espanha."
+    },
+    {
+      "show_name": "Como x Roma",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-como-x-roma-1_l_m.jpg",
+      "show_category": "Campeonato Italiano",
+      "start_time": "13:55",
+      "end_time": "15:55",
+      "episode_description": "Todas as emoções da Serie A, primeira divisão de futebol masculino entre clubes da Itália."
+    },
+    {
+      "show_name": "Chelsea x Brighton & Hove Albion",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-chelsea-x-brighton-hove-albion-2_l_m.jpg",
+      "show_category": "Campeonato Inglês Feminino",
+      "start_time": "15:55",
+      "end_time": "18:00",
+      "episode_description": "Todas as emoções da principal competição de futebol feminino entre clubes da Inglaterra."
+    },
+    {
+      "show_name": "Show da Rodada do Italiano",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-do-italiano_l_m.jpg",
+      "show_category": "",
       "start_time": "18:00",
+      "end_time": "18:30",
+      "episode_description": "Os principais destaques das partidas da Lega Serie A, primeira divisão do Campeonato Italiano de futebol masculino, com os gols, melhores lances e situação da tabela de classificação após cada rodada disputada."
+    },
+    {
+      "show_name": "Show da Rodada de La Liga",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-de-la-liga_l_m.jpg",
+      "show_category": "",
+      "start_time": "18:30",
+      "end_time": "19:00",
+      "episode_description": ".Todos os gols e os principais lances da rodada de La Liga, primeira divisão do Campeonato Espanhol."
+    },
+    {
+      "show_name": "Show da Rodada da EFL",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-show-da-rodada-da-efl_l_m.jpg",
+      "show_category": "",
+      "start_time": "19:00",
+      "end_time": "19:30",
+      "episode_description": "Os destaques das partidas da EFL Championship, segunda divisão de futebol masculino da Inglaterra."
+    },
+    {
+      "show_name": "SportsCenter Abre o Jogo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_basketball-sportscenter-abre-o-jogo_l_m.jpg",
+      "show_category": "",
+      "start_time": "19:30",
       "end_time": "20:00",
-      "episode_description": "Todas as emoções da Premier League, a divisão de elite do futebol masculino de clubes na Inglaterra. Disputada por 20 clubes, a competição é uma das principais ligas do futebol mundial, reunindo grandes atletas e técnicos."
+      "episode_description": "Os últimos preparativos para Lakers x Suns e Nets x Hawks, pela temporada regular 2024-2025 da NBA."
     },
     {
-      "show_name": "Minas x União Corinthians",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_basketball-minas-x-uni-o-corinthians_l_m.jpg",
-      "show_category": "NBB",
+      "show_name": "NBA Courtside",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_basketball-nba-courtside_l_m.jpg",
+      "show_category": "",
       "start_time": "20:00",
-      "end_time": "22:00",
-      "episode_description": "Todas as emoções da principal competição de basquete masculino profissional entre clubes do Brasil."
+      "end_time": "20:12",
+      "episode_description": "O aquecimento final das equipes e últimos preparativos para o duelo entre New York Knicks e Cleveland Cavaliers, pela rodada de abertura da temporada regular 2025-2026 da NBA, direto do Madison Square Garden, em Nova York, EUA."
     },
     {
-      "show_name": "Alajuelense x LAFC",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-alajuelense-x-lafc_l_m.jpg",
-      "show_category": "CONCACAF Champions Cup",
-      "start_time": "22:00",
+      "show_name": "Boston Celtics x Golden State Warriors",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_basketball-boston-celtics-x-golden-state-warriors_l_m.jpg",
+      "show_category": "NBA",
+      "start_time": "20:12",
+      "end_time": "22:35",
+      "episode_description": "Trinta equipes dos Estados Unidos e Canadá se enfrentam na principal liga de basquete do mundo."
+    },
+    {
+      "show_name": "Houston Rockets x Los Angeles Lakers",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_basketball-houston-rockets-x-los-angeles-lakers_l_m.jpg",
+      "show_category": "NBA",
+      "start_time": "22:35",
       "end_time": "",
-      "episode_description": "O principal torneio de futebol masculino entre clubes da América do Norte, América Central e Caribe."
+      "episode_description": "Trinta equipes dos Estados Unidos e Canadá se enfrentam na principal liga de basquete do mundo."
     }
   ]
 }

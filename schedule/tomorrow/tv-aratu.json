@@ -1,6 +1,6 @@
 {
   "channel": "TV Aratu",
-  "date": "17/03/2026",
+  "date": "18/03/2026",
   "schedule": [
     {
       "show_name": "The Noite com Danilo Gentili",
@@ -95,16 +95,24 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_fofocalizando_l_m.jpg",
       "show_category": "Newsmagazine",
       "start_time": "15:30",
-      "end_time": "16:45",
+      "end_time": "17:00",
       "episode_description": "Revista eletrônica com informação, humor e as principais fofocas do mundo dos famosos."
     },
     {
-      "show_name": "Manchester City x Real Madrid",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_soccer-manchester-city-x-real-madrid_l_m.jpg",
-      "show_category": "UEFA Champions League",
-      "start_time": "16:45",
+      "show_name": "Coração Indomável",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_corac-o-indomavel-1_l_m.jpg",
+      "show_category": "Soap",
+      "start_time": "17:00",
+      "end_time": "18:15",
+      "episode_description": "Maricruz é uma jovem doce e inocente que vive em uma casa humilde à beira-mar. Um dia se vê obrigada a roubar em uma fazenda para poder dar comida à sua família. É aí que conhece o amor e os problemas se desencadeiam."
+    },
+    {
+      "show_name": "Fala, Dani",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_fala-dani_l_m.jpg",
+      "show_category": "Special",
+      "start_time": "18:15",
       "end_time": "19:00",
-      "episode_description": "Todas as emoções da principal competição de futebol masculino disputada entre clubes europeus."
+      "episode_description": "Os principais acontecimentos do programa \"Alô Juca\", mas com um olhar diferente, com uma linguagem mais leve, mais próxima ao que a gente vê na internet, nas redes sociais. Com bastidores e também os memes que surgem diariamente no Juca."
     },
     {
       "show_name": "Aratu Notícias",
@@ -139,12 +147,12 @@
       "episode_description": "O apresentador Carlos Massa leva ao público um programa alegre e repleto de atrações. Ele recebe convidados famosos e games, comédia, participação do público e quadros únicos, como o \"Jornal Racional\", \"Gol Show\" e \"Dez ou Mil\", entre outros."
     },
     {
-      "show_name": "SBT Repórter",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sbt-reporter_l_m.jpg",
-      "show_category": "News",
+      "show_name": "Love Taste - Receita para o Amor",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_love-taste-receita-para-o-amor-s02e05_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 5",
       "start_time": "22:45",
       "end_time": "",
-      "episode_description": "Com linguagem direta e aborda temas variados e de interesse coletivo, programa jornalístico mostra o que acontece no Brasil e no mundo."
+      "episode_description": "Solteiros se aventuram na cozinha para conquistar o coração e o paladar de seus amados. Os chefs apaixonados preparam pratos que representam suas personalidades e atacam com suas armas secretas na cozinha."
     }
   ]
 }

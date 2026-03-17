@@ -1,102 +1,118 @@
 {
   "channel": "HBO 2",
-  "date": "16/03/2026",
+  "date": "17/03/2026",
   "schedule": [
     {
-      "show_name": "Harry Potter e a Ordem da Fênix",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_harry-potter-e-a-ordem-da-fenix-2007-1_l_m.jpg",
-      "show_category": "Fantasy / 2007",
-      "start_time": "01:10",
-      "end_time": "03:30",
-      "episode_description": "Após um verão desastroso, Harry volta para o seu quinto ano em Hogwarts, um dos mais difíceis que terá de encarar. Pouquíssimos alunos e pais acreditam nele ou em Dumbledore sobre a volta de Voldemort, e uma série interminável de artigos circula dizendo que eles estão completamente malucos. Ainda por cima, Dolores Umbridge, a nova professora de Defesa Contra as Artes das Trevas, prova ser a pessoa mais repugnante que Harry já conheceu."
+      "show_name": "Um Filme Minecraft",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_um-filme-minecraft-2025_l_m.jpg",
+      "show_category": "Fantasy / 2025",
+      "start_time": "00:15",
+      "end_time": "02:00",
+      "episode_description": "Um portal misterioso atrai quatro desajustados para o Overworld, uma terra das maravilhas bizarras e cúbicas que prospera com a imaginação. Para voltar para casa, eles têm que dominar o terreno enquanto embarcam em uma missão mágica com um construtor inesperado chamado Steve."
+    },
+    {
+      "show_name": "Gente Grande 2",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_gente-grande-2-2013-1_l_m.jpg",
+      "show_category": "Comedy / 2013",
+      "start_time": "02:00",
+      "end_time": "03:44",
+      "episode_description": "Lenny Feder e a família se mudam para a própria cidade natal com o objetivo ficarem perto dos amigos, mas acabam tendo que enfrentar alguns fantasmas do passado, como a covardia diante de valentões e o famigerado bullying na escola."
+    },
+    {
+      "show_name": "O Caso Richard Jewell",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-caso-richard-jewell-2019_l_m.jpg",
+      "show_category": "Drama / 2019",
+      "start_time": "03:44",
+      "end_time": "06:00",
+      "episode_description": "A história real de Richard Jewell, segurança que se tornou um dos principais suspeitos de bombardear as Olimpíadas de Atlanta, em 1996, após ajudar inocentes a fugirem do local e avisar da existência de um dos explosivos."
+    },
+    {
+      "show_name": "Aquaman",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_aquaman-2018_l_m.jpg",
+      "show_category": "Action / 2018 /7.0",
+      "start_time": "06:00",
+      "end_time": "08:25",
+      "episode_description": "A cidade de Atlantis, que já foi lar de uma das mais avançadas civilizações do mundo, agora é um reino submerso dominado pelo ganancioso Rei Orm. Com um vasto exército a seu dispor, Orm planeja conquistar tanto os demais reinos do oceano, quanto o mundo da superfície. Em seu caminho está Aquaman, meio-humano e meio-atlante, e verdadeiro herdeiro do trono. Com a ajuda da princesa Mera, Aquaman precisa recuperar o lendário Tridente de Atlan e aceitar seu destino como protetor das profundezas."
+    },
+    {
+      "show_name": "Relay - Contrato Perigoso",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_relay-contrato-perigoso-2024_l_m.jpg",
+      "show_category": "Thriller / 2024",
+      "start_time": "08:25",
+      "end_time": "10:20",
+      "episode_description": "Um intermediário é especialista em negociar subornos entre empresas e indivíduos que ameaçam arruiná-las. Quando chega uma mensagem de uma cliente em potencial, que precisa de sua proteção para sobreviver, as regras mudam rapidamente."
+    },
+    {
+      "show_name": "Pecadores",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pecadores-2025_l_m.jpg",
+      "show_category": "Horror / 2025",
+      "start_time": "10:20",
+      "end_time": "12:40",
+      "episode_description": "Dois irmãos gêmeos tentam deixar suas vidas problemáticas para trás e retornam à sua cidade natal para recomeçar. Lá, eles descobrem que um mal ainda maior está à espreita para recebê-los de volta."
+    },
+    {
+      "show_name": "Anjos da Noite - Guerras de Sangue",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_anjos-da-noite-guerras-de-sangue-2016_l_m.jpg",
+      "show_category": "Fantasy / 2016",
+      "start_time": "12:40",
+      "end_time": "14:20",
+      "episode_description": "Com a ajuda de seus aliados, a vampira híbrida Selene tenta por fim à guerra eterna entre vampiros e lobisomens, mesmo que isso signifique o sacrifício total."
+    },
+    {
+      "show_name": "Órfã 2 - A Origem",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_orf-2-a-origem-2022_l_m.jpg",
+      "show_category": "Horror / 2022",
+      "start_time": "14:20",
+      "end_time": "16:05",
+      "episode_description": "Esther consegue escapar de um centro psiquiátrico onde está confinada e viaja para os Estados Unidos se passando por filha desaparecida de uma família rica. No entanto, uma mãe superprotetora fará de tudo por sua família, não importando os meios."
     },
     {
       "show_name": "A Vida Invisível",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_a-vida-invisivel-2019_l_m.jpg",
       "show_category": "Drama / 2019",
-      "start_time": "03:30",
-      "end_time": "06:00",
+      "start_time": "16:05",
+      "end_time": "18:30",
       "episode_description": "Antigas cartas de sua irmã Guida, há muito desaparecida, surpreendem Eurídice, uma senhora de 80 anos. No Rio de Janeiro dos anos 1950, Guida e Eurídice são cruelmente separadas, impedidas de viver os sonhos que alimentaram juntas ainda adolescentes. Invisíveis em uma sociedade paternalista e conservadora, elas se desdobram para seguir em frente."
     },
     {
-      "show_name": "O Homem de Aço",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-homem-de-aco-2013_l_m.jpg",
-      "show_category": "Action / 2013 /7.2",
-      "start_time": "06:00",
-      "end_time": "08:28",
-      "episode_description": "Com a iminente destruição de Krípton, seu planeta natal, Jor-El e sua mulher procuram preservar a raça enviando o filho recém-nascido para a Terra. A nave espacial da criança aterrissa na fazenda de Jonathan e Martha Kent, que o batizam de Clark e o criam como seu próprio filho. Apesar das habilidades extraordinárias levarem o Clark adulto a viver à margem da sociedade, ele precisa se tornar um herói para salvar aqueles que ama de uma terrível ameaça."
+      "show_name": "HBO Movies",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_hbo-movies_l_m.jpg",
+      "show_category": "Variety",
+      "start_time": "18:30",
+      "end_time": "19:05",
+      "episode_description": "Faixa de programação do canal HBO Mundi com exibição de filmes."
     },
     {
-      "show_name": "O Paizão",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-paiz-o-1999-1_l_m.jpg",
-      "show_category": "Comedy / 1999",
-      "start_time": "08:28",
-      "end_time": "10:04",
-      "episode_description": "Sonny Koufax tem 32 anos e passou toda a sua vida fugindo das responsabilidades. Quando sua namorada decide trocá-lo por um homem muito mais velho, ele resolve provar que está pronto para a vida adulta para reconquistar o seu grande amor. Desesperado, Sonny adota um menino de cinco anos, Julian, para tentar impressionar a ex-namorada. Sem jeito para ser pai, Sonny aprende aos poucos a lidar com a nova situação e passa a gostar da criança."
+      "show_name": "Tropa de Elite",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_tropa-de-elite-2007-1_l_m.jpg",
+      "show_category": "Action / 2007",
+      "start_time": "19:05",
+      "end_time": "21:05",
+      "episode_description": "Nascimento, capitão da tropa de elite do Rio de Janeiro, é escolhido para chefiar uma das equipes cuja missão é apaziguar o Morro do Turano. Ele precisa cumprir as ordens enquanto procura por um substituto para ficar em seu lugar. Em meio a um tiroteio, Nascimento e sua equipe resgatam Neto e Matias, dois aspirantes a oficiais da PM. Ansiosos para entrar em ação, os dois se candidatam ao curso de formação do Batalhão de Operações Policiais Especiais."
     },
     {
-      "show_name": "Twisters",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_twisters-2024_l_m.jpg",
-      "show_category": "Action / 2024 /6.6",
-      "start_time": "10:04",
-      "end_time": "12:14",
-      "episode_description": "Dois caçadores de tempestades arriscam suas vidas na tentativa de testar um sistema experimental de alerta meteorológico."
+      "show_name": "Como Água para Chocolate",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_como-agua-para-chocolate-s02e05_l_m.jpg",
+      "show_category": "Temporada 2 Episódio 5 - Feijões Grandes com Chile à Tezcucana",
+      "start_time": "21:05",
+      "end_time": "22:00",
+      "episode_description": "Convencida de sua gravidez, Tita enfrenta o dilema de sustentar uma mentira salvadora ou revelar uma verdade capaz de destruir tudo; o retorno de Jesús traz esperança para Fina; uma receita de feijão provoca confissões que obrigam Tita a se abrir com o doutor Brown; Pedro decide expor os crimes de seu tio ao general Vargas, sem saber que suas ações o colocarão na mira de uma represália iminente."
     },
     {
-      "show_name": "Bad Boys II",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_bad-boys-ii-2003_l_m.jpg",
-      "show_category": "Action / 2003 /6.5",
-      "start_time": "12:14",
-      "end_time": "14:45",
-      "episode_description": "Os detetives Marcus Burnett e Mike Lowrey são escolhidos para investigar a proliferação de ecstasy na cidade de Miami. As investigações levam a um alvo maior, Johnny Tapia, um traficante cuja ambição de tomar conta do tráfico na cidade inicia uma verdadeira guerra sangrenta contra criminosos russos e haitianos. Em meio a esta situação, Lowrey passa a se interessar por Syd, irmã de Burnett, o que põe a amizade dos detetives à prova."
+      "show_name": "Relay - Contrato Perigoso",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_relay-contrato-perigoso-2024_l_m.jpg",
+      "show_category": "Thriller / 2024",
+      "start_time": "22:00",
+      "end_time": "23:55",
+      "episode_description": "Um intermediário é especialista em negociar subornos entre empresas e indivíduos que ameaçam arruiná-las. Quando chega uma mensagem de uma cliente em potencial, que precisa de sua proteção para sobreviver, as regras mudam rapidamente."
     },
     {
-      "show_name": "O Valente",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-valente-2025_l_m.jpg",
-      "show_category": "War / 2025",
-      "start_time": "14:45",
-      "end_time": "16:16",
-      "episode_description": "Um helicóptero do Exército norte-americano cai nas profundezas do território norte-coreano. O sargento Edward Brockman lidera sua equipe no terreno hostil enquanto tentam uma ousada fuga através da traiçoeira zona desmilitarizada."
-    },
-    {
-      "show_name": "SISU - Estrada da Vingança",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_sisu-estrada-da-vinganca-2025_l_m.jpg",
-      "show_category": "Action / 2025",
-      "start_time": "16:16",
-      "end_time": "17:50",
-      "episode_description": "Korpi desmonta a casa onde sua família foi morta e a carrega em um caminhão para reconstruí-la em um lugar seguro. Ele logo se vê em uma violenta perseguição pelo país, enquanto o comandante do Exército Vermelho que matou sua família retorna para terminar o serviço."
-    },
-    {
-      "show_name": "Pílula de Farinha - O Escândalo que Gerou Vidas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_pilula-de-farinha-o-escandalo-que-gerou-vidas-s01e01_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 1 - Padecendo no Paraíso",
-      "start_time": "17:50",
-      "end_time": "18:34",
-      "episode_description": "Em Mauá, quatro mulheres engravidam apesar de tomar corretamente o anticoncepcional mais vendido do Brasil: Microvlar. A coincidência chama a atenção da imprensa e investigações revelam que placebos foram enviados às farmácias de todo o país."
-    },
-    {
-      "show_name": "O Espetacular Homem-Aranha 2 - A Ameaça de Electro",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_o-espetacular-homem-aranha-2-a-ameaca-de-electro-2014-2_l_m.jpg",
-      "show_category": "Action / 2014",
-      "start_time": "18:34",
-      "end_time": "21:02",
-      "episode_description": "O jovem Peter Parker está fascinado com as habilidades que adquiriu como Homem-Aranha. Agora, ele precisa lidar com dois problemas: o retorno de um velho amigo, Harry Osborn, e a chegada de um vilão mais forte e poderoso, Electro."
-    },
-    {
-      "show_name": "DTF St. Louis",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_dtf-st-louis-s01e03_l_m.jpg",
-      "show_category": "Temporada 1 Episódio 3",
-      "start_time": "21:02",
-      "end_time": "21:57",
-      "episode_description": "Clark e Floyd descobrem que estão estagnados em seus casamentos e exploram um novo aplicativo de encontros para viver aventuras casuais."
-    },
-    {
-      "show_name": "Homem-Aranha - De Volta ao Lar",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_homem-aranha-de-volta-ao-lar-2017_l_m.jpg",
-      "show_category": "Action / 2017",
-      "start_time": "21:57",
-      "end_time": "00:15",
-      "episode_description": "Após lutar ao lado dos Vingadores, chegou a hora do jovem Peter Parker voltar para casa em Nova York ao lado de sua tia May. Sob o olhar atento do mentor Tony Stark, Peter começa a abraçar sua nova identidade como Homem-Aranha e combate diariamente pequenos crimes nas redondezas. Ele acredita que encontrou a missão de sua vida quando o terrível vilão Abutre surge ameaçando a cidade. O problema é que a tarefa não será tão fácil como ele imaginava."
+      "show_name": "Pecadores",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_pecadores-2025_l_m.jpg",
+      "show_category": "Horror / 2025",
+      "start_time": "23:55",
+      "end_time": "02:15",
+      "episode_description": "Dois irmãos gêmeos tentam deixar suas vidas problemáticas para trás e retornam à sua cidade natal para recomeçar. Lá, eles descobrem que um mal ainda maior está à espreita para recebê-los de volta."
     }
   ]
 }

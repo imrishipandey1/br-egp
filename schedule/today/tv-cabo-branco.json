@@ -1,28 +1,36 @@
 {
   "channel": "TV Cabo Branco",
-  "date": "16/03/2026",
+  "date": "17/03/2026",
   "schedule": [
     {
-      "show_name": "Fórmula 1",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_motorsports-formula-1_l_m.jpg",
-      "show_category": "",
-      "start_time": "00:00",
-      "end_time": "00:45",
-      "episode_description": "Acompanhe as notícias, compactos e resumos da principal categoria de automobilismo."
+      "show_name": "Jornal da Globo",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-da-globo_l_m.jpg",
+      "show_category": "News",
+      "start_time": "00:10",
+      "end_time": "01:00",
+      "episode_description": "O telejornal cobre os fatos do dia e as últimas notícias da noite. Conta com a colaboração de colunistas em áreas como economia e cultura."
     },
     {
-      "show_name": "Mestre dos Mares - O Lado Mais Distante do Mundo",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_mestre-dos-mares-o-lado-mais-distante-do-mundo-2003-1_l_m.jpg",
-      "show_category": "Adventure / 2003",
-      "start_time": "00:45",
-      "end_time": "02:30",
-      "episode_description": "Em 1805, o Capitão Jack Aubrey e Stephen Maturin são ordenados a perseguir e capturar uma poderosa embarcação francesa na costa da América do Sul. Durante o percurso, o capitão tem que exigir um esforço quase sobre-humano de sua tripulação, exausta e faminta, para poder prosseguir com seu objetivo."
+      "show_name": "A Nobreza do Amor",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_a-nobreza-do-amor_l_m.jpg",
+      "show_category": "Soap",
+      "start_time": "01:00",
+      "end_time": "01:40",
+      "episode_description": "Alika e Niara conseguem embarcar para o Brasil; Alika promete que irá recuperar o trono de Batanga; Chinua e Dumi acodem Omar; Mirinho reclama da proximidade entre Tonho e Casemiro; Alika e Niara chegam ao Brasil; Tonho conhece Alika."
+    },
+    {
+      "show_name": "Coração Acelerado",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_corac-o-acelerado_l_m.jpg",
+      "show_category": "Soap",
+      "start_time": "01:40",
+      "end_time": "02:25",
+      "episode_description": "Agrado pede um tempo a Eduarda; Naiane comemora com Zilá o sucesso de seu plano de se passar por Diana no lugar de Agrado."
     },
     {
       "show_name": "Vai que Cola",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_vai-que-cola-1_l_m.jpg",
       "show_category": "Comedy",
-      "start_time": "02:30",
+      "start_time": "02:25",
       "end_time": "03:10",
       "episode_description": "Depois de se envolver em uma falcatrua, o malandro Valdomiro vai morar em uma pensão no subúrbio carioca. Dona Jô, proprietária do local, acredita que o rapaz tem um bom coração e decide recebê-lo como hóspede."
     },
@@ -107,12 +115,12 @@
       "episode_description": "Uma parte da história da formação da sociedade brasileira do início do século XX é contada a partir do romance de dois jovens italianos, Giuliana e Matteo. Eles se conhecem em 1894 a bordo do navio que transporta imigrantes para trabalhar no Brasil."
     },
     {
-      "show_name": "Como Eu Era Antes de Você",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_como-eu-era-antes-de-voce-2016_l_m.jpg",
-      "show_category": "Romance / 2016",
+      "show_name": "Tô Ryca! 2",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_to-ryca-2-2020_l_m.jpg",
+      "show_category": "Comedy / 2020",
       "start_time": "15:25",
       "end_time": "17:05",
-      "episode_description": "De origem modesta e sem grandes aspirações, a peculiar Louisa Clark é contratada para ser cuidadora de Will, um jovem tetraplégico depressivo e cínico."
+      "episode_description": "Uma estranha com o mesmo nome de Selminha diz ser herdeira legítima de sua fortuna. Com isso, os bens dela são congelados e sua única fonte de renda passa a ser 30 reais por dia. Ela precisa voltar às origens e sobreviver em sua nova rotina."
     },
     {
       "show_name": "Vale a Pena Ver de Novo - Rainha da Sucata",
@@ -164,19 +172,19 @@
     },
     {
       "show_name": "Big Brother Brasil",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_big-brother-brasil-s26e64_l_m.jpg",
-      "show_category": "Temporada 26 Episódio 64",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_big-brother-brasil-s26e65_l_m.jpg",
+      "show_category": "Temporada 26 Episódio 65",
       "start_time": "22:25",
-      "end_time": "23:10",
+      "end_time": "23:35",
       "episode_description": "Um grupo de pessoas topa ficar confinado em uma espaçosa casa cenográfica, sendo vigiado por câmeras 24 horas por dia. Sem receber informações do mundo exterior, eles disputam uma série de provas e dinâmicas em busca de um prêmio milionário."
     },
     {
-      "show_name": "Juntas & Separadas",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_juntas-separadas_l_m.jpg",
-      "show_category": "Special",
-      "start_time": "23:10",
-      "end_time": "00:10",
-      "episode_description": "Com a separação da Laura, desenvolve-se uma amizade entre quatro mulheres bem diferentes entre si, mas que também passam por um divórcio e que se acolhem no processo de autodescoberta e amadurecimento."
+      "show_name": "Lady Night",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_lady-night_l_m.jpg",
+      "show_category": "Talk",
+      "start_time": "23:35",
+      "end_time": "00:20",
+      "episode_description": "Tatá Werneck recebe artistas em seu talk show para um bate-papo nada comum com muitas brincadeiras e bom humor."
     }
   ]
 }

@@ -1,36 +1,36 @@
 {
   "channel": "Globo News",
-  "date": "16/03/2026",
+  "date": "17/03/2026",
   "schedule": [
     {
-      "show_name": "Fantástico",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_fantastico_l_m.jpg",
-      "show_category": "Newsmagazine",
+      "show_name": "Jornal GloboNews - Edição da Meia-Noite",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-globonews-edic-o-da-meia-noite-2_l_m.jpg",
+      "show_category": "News",
       "start_time": "00:00",
       "end_time": "01:00",
-      "episode_description": "Em forma de revista eletrônica, o programa mistura jornalismo, denúncia, esporte, humor, dramaturgia, música e ciência."
+      "episode_description": "Narayanna Borges traz as repercussões das principais notícias no Brasil e no mundo."
     },
     {
-      "show_name": "GloboNews Documento",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_globonews-documento_l_m.jpg",
+      "show_name": "Em Pauta",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_em-pauta-1_l_m.jpg",
       "show_category": "News",
       "start_time": "01:00",
-      "end_time": "02:00",
-      "episode_description": "Confira reportagens polêmicas sobre fatos sociais, políticos e históricos que movem o mundo."
+      "end_time": "03:00",
+      "episode_description": "O time de comentaristas analisa e debate os grandes temas políticos, econômicos, culturais e internacionais do dia, aprofundando os assuntos e gerando reflexão."
     },
     {
-      "show_name": "Pequenas Empresas & Grandes Negócios",
-      "show_logo": "https://cdn.mitvstatic.com/programs/br_pequenas-empresas-grandes-negocios-2_l_m.jpg",
-      "show_category": "Bus./financial",
-      "start_time": "02:00",
-      "end_time": "03:00",
-      "episode_description": "Informações e reportagens de grande interesse para empreendedores, pequenos e médios empresários."
+      "show_name": "GloboNews Especial",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_globonews-especial_l_m.jpg",
+      "show_category": "Public affairs",
+      "start_time": "03:00",
+      "end_time": "03:30",
+      "episode_description": "O programa analisa questões que em um primeiro momento podem parecer desconexas, mas que têm em comum o fato de ajudar a entender melhor o mundo atual e a formar opinião."
     },
     {
       "show_name": "Jornal das Dez",
       "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-das-dez-1_l_m.jpg",
       "show_category": "News",
-      "start_time": "03:00",
+      "start_time": "03:30",
       "end_time": "05:00",
       "episode_description": "Aline Midlej e um time de comentaristas apresentam e analisam os bastidores das notícias."
     },
@@ -103,8 +103,16 @@
       "show_logo": "https://cdn.mitvstatic.com/programs/br_jornal-das-dez-1_l_m.jpg",
       "show_category": "News",
       "start_time": "22:00",
-      "end_time": "00:00",
+      "end_time": "23:30",
       "episode_description": "Aline Midlej e um time de comentaristas apresentam e analisam os bastidores das notícias."
+    },
+    {
+      "show_name": "Roberto D'Avila",
+      "show_logo": "https://cdn.mitvstatic.com/programs/br_roberto-d-avila_l_m.jpg",
+      "show_category": "Interview",
+      "start_time": "23:30",
+      "end_time": "00:00",
+      "episode_description": "Roberto D'Avila recebe personalidades para conversar sobre política, economia e cultura."
     }
   ]
 }
