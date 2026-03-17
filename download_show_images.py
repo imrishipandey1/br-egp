@@ -51,9 +51,11 @@ def download_and_convert(task):
     except Exception:
         return False, url
 
-def process_json(json_path, day):
+def process_json(json_path):
     channel_slug = os.path.splitext(os.path.basename(json_path))[0]
-    output_dir = os.path.join(DOWNLOAD_DIR, channel_slug, day)
+    
+    # New output directory format: downloaded-images/{channel-slug}
+    output_dir = os.path.join(DOWNLOAD_DIR, channel_slug)
     os.makedirs(output_dir, exist_ok=True)
     
     with open(json_path, "r", encoding="utf-8") as f:
@@ -62,22 +64,27 @@ def process_json(json_path, day):
     unique_urls = {}
     download_tasks = []
     
-    for show in data.get("schedule", []):
-        logo_url = show.get("show_logo", "").strip()
-        if not logo_url:
-            continue
-        
-        if logo_url not in unique_urls:
-            filename = webp_filename(logo_url)
-            local_path = os.path.join(output_dir, filename)
-            unique_urls[logo_url] = filename
+    # Iterate through the new nested 'schedules' structure
+    schedules = data.get("schedules", {})
+    for date_str, show_list in schedules.items():
+        for show in show_list:
+            # Look for the new 'logo' key
+            logo_url = show.get("logo", "").strip()
             
-            if not os.path.exists(local_path):
-                download_tasks.append((logo_url, local_path))
-        
-        show["show_logo"] = (
-            f"{BASE_UPLOAD_URL}/{channel_slug}/{day}/{unique_urls[logo_url]}"
-        )
+            if not logo_url:
+                continue
+            
+            # Deduplicate URLs across all dates in this file
+            if logo_url not in unique_urls:
+                filename = webp_filename(logo_url)
+                local_path = os.path.join(output_dir, filename)
+                unique_urls[logo_url] = filename
+                
+                if not os.path.exists(local_path):
+                    download_tasks.append((logo_url, local_path))
+            
+            # Reassign the JSON key to point to your CDN
+            show["logo"] = f"{BASE_UPLOAD_URL}/{channel_slug}/{unique_urls[logo_url]}"
     
     if download_tasks:
         with ThreadPoolExecutor(max_workers=MAX_THREADS) as executor:
@@ -85,18 +92,21 @@ def process_json(json_path, day):
             for _ in as_completed(futures):
                 pass
     
+    # Save the updated JSON back out, maintaining the minified state
     with open(json_path, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
+        json.dump(data, f, ensure_ascii=False, separators=(',', ':'))
 
 def main():
-    for day in ["today", "tomorrow"]:
-        day_dir = os.path.join(SCHEDULE_DIR, day)
-        if not os.path.isdir(day_dir):
-            continue
-        
-        for file in os.listdir(day_dir):
-            if file.endswith(".json"):
-                process_json(os.path.join(day_dir, file), day)
+    if not os.path.isdir(SCHEDULE_DIR):
+        print(f"Schedule directory not found at {SCHEDULE_DIR}")
+        return
+
+    # Process all JSON files directly inside the schedule directory
+    for file in os.listdir(SCHEDULE_DIR):
+        if file.endswith(".json"):
+            json_path = os.path.join(SCHEDULE_DIR, file)
+            print(f"Processing: {file}")
+            process_json(json_path)
 
 if __name__ == "__main__":
     main()
