@@ -64,11 +64,10 @@ def process_json(json_path):
     unique_urls = {}
     download_tasks = []
     
-    # Iterate through the new nested 'schedules' structure
+    # Iterate through the nested 'schedules' structure
     schedules = data.get("schedules", {})
     for date_str, show_list in schedules.items():
         for show in show_list:
-            # Look for the new 'logo' key
             logo_url = show.get("logo", "").strip()
             
             if not logo_url:
@@ -96,17 +95,53 @@ def process_json(json_path):
     with open(json_path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, separators=(',', ':'))
 
+def process_all_channels_json(json_path):
+    """
+    Updates the image URLs in the master all-channel.json file.
+    Assumes images are already downloaded by process_json().
+    """
+    with open(json_path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    
+    channels_data = data.get("channels", {})
+    
+    # Iterate through the distinct structure of all-channel.json
+    for channel_slug, channel_info in channels_data.items():
+        schedule = channel_info.get("schedule", [])
+        for show in schedule:
+            logo_url = show.get("logo", "").strip()
+            
+            if not logo_url:
+                continue
+            
+            # Skip if it already contains the CDN base URL
+            if not logo_url.startswith(BASE_UPLOAD_URL):
+                filename = webp_filename(logo_url)
+                # Apply the same URL rules
+                show["logo"] = f"{BASE_UPLOAD_URL}/{channel_slug}/{filename}"
+                
+    # Save the updated master JSON, maintaining the minified state
+    with open(json_path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, separators=(',', ':'))
+
 def main():
     if not os.path.isdir(SCHEDULE_DIR):
         print(f"Schedule directory not found at {SCHEDULE_DIR}")
         return
 
-    # Process all JSON files directly inside the schedule directory
+    all_channels_path = os.path.join(SCHEDULE_DIR, "all-channel.json")
+
+    # 1. Process all individual channel files FIRST to ensure images download
     for file in os.listdir(SCHEDULE_DIR):
-        if file.endswith(".json"):
+        if file.endswith(".json") and file != "all-channel.json":
             json_path = os.path.join(SCHEDULE_DIR, file)
             print(f"Processing: {file}")
             process_json(json_path)
+            
+    # 2. Process the master file LAST to simply update the URLs
+    if os.path.exists(all_channels_path):
+        print("Processing master file: all-channel.json")
+        process_all_channels_json(all_channels_path)
 
 if __name__ == "__main__":
     main()
