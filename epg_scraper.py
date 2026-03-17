@@ -85,7 +85,6 @@ def parse_page(soup):
                     logo_url = match.group(1)
 
             if start_time and show_name:
-                # To save space, only add keys if they contain data
                 item = {
                     "show": show_name,
                     "start": start_time
@@ -143,7 +142,7 @@ def calculate_end_times(current_day_list, next_day_first_item=None):
     return current_day_list
 
 def save_json(filename, channel_name, combined_schedule):
-    """Saves the combined data to a single highly-compressed JSON file."""
+    """Saves the combined data for a single channel to a highly-compressed JSON file."""
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     
     file_path = os.path.join(OUTPUT_DIR, f"{filename}.json")
@@ -154,9 +153,22 @@ def save_json(filename, channel_name, combined_schedule):
     }
     
     with open(file_path, "w", encoding="utf-8") as f:
-        # separators=(',', ':') removes all spaces, making the file as small as possible
         json.dump(final_json, f, ensure_ascii=False, separators=(',', ':'))
     log(f"Saved: {file_path}")
+
+def save_all_channels_json(data, date_str):
+    """Saves the combined today's schedule for all channels into one master file."""
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    file_path = os.path.join(OUTPUT_DIR, "all-channel.json")
+    
+    final_json = {
+        "date": date_str,
+        "channels": data
+    }
+    
+    with open(file_path, "w", encoding="utf-8") as f:
+        json.dump(final_json, f, ensure_ascii=False, separators=(',', ':'))
+    log(f"Saved master file: {file_path}")
 
 # --- MAIN EXECUTION ---
 def main():
@@ -175,6 +187,9 @@ def main():
     
     date_str_today = today_dt.strftime("%d/%m/%Y")
     date_str_tomorrow = tomorrow_dt.strftime("%d/%m/%Y")
+
+    # Master dictionary to hold all 'today' schedules
+    all_channels_today = {}
 
     for slug in channels:
         log(f"Processing channel: {slug}")
@@ -200,7 +215,14 @@ def main():
         full_today_schedule = calculate_end_times(full_today_schedule, first_show_tm)
         full_tomorrow_schedule = calculate_end_times(full_tomorrow_schedule, None)
 
-        # Combine schedules into a single dictionary
+        # 1. Populate the master dictionary for the 'all-channel.json' file (Today only)
+        if full_today_schedule:
+            all_channels_today[slug] = {
+                "channel": channel_name,
+                "schedule": full_today_schedule
+            }
+
+        # 2. Save the individual channel JSON files (Today + Tomorrow)
         combined_schedule = {}
         if full_today_schedule:
             combined_schedule[date_str_today] = full_today_schedule
@@ -211,6 +233,10 @@ def main():
             save_json(slug, channel_name, combined_schedule)
         else:
             log(f"Warning: No schedule found for {slug} (Today or Tomorrow)")
+
+    # Save the compiled master file
+    if all_channels_today:
+        save_all_channels_json(all_channels_today, date_str_today)
 
     log("Scraper finished.")
 
