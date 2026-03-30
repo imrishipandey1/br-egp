@@ -49,3 +49,4 @@ max-prime
 max
 hbo-signature
 film-arts-------------Film&Arts
+zoomoo-hd------------ZooMoo Kids
