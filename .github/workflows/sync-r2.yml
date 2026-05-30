@@ -13,31 +13,43 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Configure AWS/R2 Credentials and Concurrency
+      - name: Install rclone
+        run: curl https://rclone.org/install.sh | sudo bash
+
+      - name: Configure rclone for Cloudflare R2
         run: |
-          aws configure set aws_access_key_id ${{ secrets.R2_ACCESS_KEY_ID }}
-          aws configure set aws_secret_access_key ${{ secrets.R2_SECRET_ACCESS_KEY }}
-          aws configure set default.region auto
-          
-          # Maximize parallel uploading threads for thousands of small files
-          aws configure set default.s3.max_concurrent_requests 50
-          aws configure set default.s3.max_queue_size 10000
+          mkdir -p ~/.config/rclone
+          cat > ~/.config/rclone/rclone.conf <<EOF
+          [r2]
+          type = s3
+          provider = Cloudflare
+          access_key_id = ${{ secrets.R2_ACCESS_KEY_ID }}
+          secret_access_key = ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          endpoint = https://c222653e18e0baf276756cd9bcdfe36c.r2.cloudflarestorage.com
+          acl = private
+          EOF
 
       - name: Sync Schedules to R2 Main Folder
-        # Syncs the local schedule folder to a schedule folder in the bucket root
         run: |
-          aws s3 sync ./schedule s3://programacaotvhoje/schedule \
-            --endpoint-url https://c222653e18e0baf276756cd9bcdfe36c.r2.cloudflarestorage.com \
-            --delete \
-            --no-progress
+          rclone sync ./schedule r2:programacaotvhoje/schedule \
+          --transfers=128 \
+          --checkers=256 \
+          --fast-list \
+          --delete-during \
+          --s3-no-check-bucket \
+          --checksum \
+          --no-update-modtime
 
       - name: Sync Images to R2 wp-content/uploads
-        # Syncs the local downloaded-images folder into the wp-content/uploads directory
         run: |
-          aws s3 sync ./downloaded-images s3://programacaotvhoje/wp-content/uploads/downloaded-images \
-            --endpoint-url https://c222653e18e0baf276756cd9bcdfe36c.r2.cloudflarestorage.com \
-            --delete \
-            --no-progress
+          rclone sync ./downloaded-images r2:programacaotvhoje/wp-content/uploads/downloaded-images \
+          --transfers=128 \
+          --checkers=256 \
+          --fast-list \
+          --delete-during \
+          --s3-no-check-bucket \
+          --checksum \
+          --no-update-modtime
 
       - name: Purge Cloudflare Cache
         run: |
